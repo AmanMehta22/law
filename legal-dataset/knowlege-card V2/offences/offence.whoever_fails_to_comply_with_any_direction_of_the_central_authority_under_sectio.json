@@ -1,0 +1,30 @@
+{
+  "concept_id": "offence.whoever_fails_to_comply_with_any_direction_of_the_central_authority_under_sectio",
+  "concept_type": "offence",
+  "title": "Non-compliance with Central Authority direction",
+  "description": "Failure to comply with any direction of the Central Authority under sections 20 and 21",
+  "content": {
+    "offence": "Whoever fails to comply with any direction of the Central Authority under sections 20 and 21",
+    "punishment": "Imprisonment for a term which may extend to six months or with fine which may extend to twenty lakh rupees, or with both",
+    "applicable_section": "Section 88"
+  },
+  "derived_from": [
+    "CPA2019-CH7-S88"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "OffenceAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

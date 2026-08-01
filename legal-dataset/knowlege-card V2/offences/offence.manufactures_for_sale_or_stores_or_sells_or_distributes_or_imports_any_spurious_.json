@@ -1,0 +1,30 @@
+{
+  "concept_id": "offence.manufactures_for_sale_or_stores_or_sells_or_distributes_or_imports_any_spurious_",
+  "concept_type": "offence",
+  "title": "Manufacturing, storing, selling, distributing or importing spurious goods causing injury not amounting to grievous hurt",
+  "description": "Manufacturing, storing, selling, distributing or importing spurious goods causing injury not amounting to grievous hurt to the consumer",
+  "content": {
+    "offence": "Manufactures for sale or stores or sells or distributes or imports any spurious goods causing injury not amounting to grievous hurt to the consumer",
+    "punishment": "Imprisonment for a term which may extend to one year and with fine which may extend to three lakh rupees",
+    "applicable_section": "Section 91(1)"
+  },
+  "derived_from": [
+    "CPA2019-CH7-S91-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "OffenceAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

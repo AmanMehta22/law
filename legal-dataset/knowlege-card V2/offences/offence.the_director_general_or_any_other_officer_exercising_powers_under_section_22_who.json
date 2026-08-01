@@ -1,0 +1,30 @@
+{
+  "concept_id": "offence.the_director_general_or_any_other_officer_exercising_powers_under_section_22_who",
+  "concept_type": "offence",
+  "title": "Unlawful search or seizure",
+  "description": "Search or seizure without reasonable grounds",
+  "content": {
+    "offence": "The Director General or any other officer, exercising powers under section 22, who knows that there are no reasonable grounds for so doing, and yet searches, or causes to be searched any premises; or seizes any record, register or other document or article",
+    "punishment": "Imprisonment for a term which may extend to one year, or with fine which may extend to ten thousand rupees or with both",
+    "applicable_section": "Section 93"
+  },
+  "derived_from": [
+    "CPA2019-CH7-S93"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "OffenceAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

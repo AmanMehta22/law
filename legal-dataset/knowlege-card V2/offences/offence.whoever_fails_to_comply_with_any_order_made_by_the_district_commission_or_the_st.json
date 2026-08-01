@@ -1,0 +1,30 @@
+{
+  "concept_id": "offence.whoever_fails_to_comply_with_any_order_made_by_the_district_commission_or_the_st",
+  "concept_type": "offence",
+  "title": "Non-compliance with Commission orders",
+  "description": "Failure to comply with orders made by the District, State, or National Commission",
+  "content": {
+    "offence": "Whoever fails to comply with any order made by the District Commission or the State Commission or the National Commission",
+    "punishment": "Imprisonment for a term of one month to three years, or fine of twenty-five thousand rupees to one lakh rupees, or both",
+    "applicable_section": "Section 72(1)"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S72-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "OffenceAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}
