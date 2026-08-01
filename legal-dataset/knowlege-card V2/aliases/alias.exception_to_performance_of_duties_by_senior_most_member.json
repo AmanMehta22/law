@@ -1,0 +1,35 @@
+{
+  "concept_id": "alias.exception_to_performance_of_duties_by_senior_most_member",
+  "concept_type": "alias",
+  "title": "Exception To Performance Of Duties By Senior-Most Member",
+  "description": "Alternative names and search aliases for: Exception To Performance Of Duties By Senior-Most Member",
+  "content": {
+    "aliases": [
+      "Judicial Member",
+      "senior-most member"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S63",
+    "exception.unless_a_retired_judge_of_a_high_court_or_a_person_who_has_b"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Judicial Member",
+      "senior-most member"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

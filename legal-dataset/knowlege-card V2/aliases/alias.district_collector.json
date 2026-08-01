@@ -1,0 +1,43 @@
+{
+  "concept_id": "alias.district_collector",
+  "concept_type": "alias",
+  "title": "District Collector",
+  "description": "Alternative names and search aliases for: District Collector",
+  "content": {
+    "aliases": [
+      "Collector",
+      "DC",
+      "District Magistrate",
+      "by whatever name called"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S16",
+    "CPA2019-CH3-S17",
+    "CPA2019-CH3-S19-1",
+    "CPA2019-CH3-S19-3",
+    "CPA2019-CH3-S22-1",
+    "authority.district_collector"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Collector",
+      "DC",
+      "District Magistrate",
+      "by whatever name called"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

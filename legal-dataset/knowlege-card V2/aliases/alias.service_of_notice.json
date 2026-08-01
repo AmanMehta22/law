@@ -1,0 +1,46 @@
+{
+  "concept_id": "alias.service_of_notice",
+  "concept_type": "alias",
+  "title": "Service of Notice",
+  "description": "Alternative names and search aliases for: Service of Notice",
+  "content": {
+    "aliases": [
+      "Delivery of notice",
+      "Issuance of notice",
+      "Notice serving",
+      "Notification serving",
+      "Serving a notice",
+      "giving notice",
+      "serving a notice"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S65-1",
+    "CPA2019-CH4-S65-3",
+    "procedure.service_of_notice"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Delivery of notice",
+      "Issuance of notice",
+      "Notice serving",
+      "Notification serving",
+      "Serving a notice",
+      "giving notice",
+      "serving a notice"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

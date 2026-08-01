@@ -1,0 +1,41 @@
+{
+  "concept_id": "alias.search_and_seizure",
+  "concept_type": "alias",
+  "title": "Search and Seizure",
+  "description": "Alternative names and search aliases for: Search and Seizure",
+  "content": {
+    "aliases": [
+      "Forced entry and search",
+      "Inspection and seizure",
+      "Raid and seizure",
+      "Search warrant",
+      "Seizure of goods"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S22-2",
+    "procedure.search_and_seizure"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Forced entry and search",
+      "Inspection and seizure",
+      "Raid and seizure",
+      "Search warrant",
+      "Seizure of goods"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

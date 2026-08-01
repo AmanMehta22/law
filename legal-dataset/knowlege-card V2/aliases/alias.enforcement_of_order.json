@@ -1,0 +1,41 @@
+{
+  "concept_id": "alias.enforcement_of_order",
+  "concept_type": "alias",
+  "title": "Enforcement of Order",
+  "description": "Alternative names and search aliases for: Enforcement of Order",
+  "content": {
+    "aliases": [
+      "carrying out the judgment",
+      "execution of order",
+      "implementation of ruling",
+      "order enforcement",
+      "upholding the ruling"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S71",
+    "procedure.enforcement_of_order"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "carrying out the judgment",
+      "execution of order",
+      "implementation of ruling",
+      "order enforcement",
+      "upholding the ruling"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

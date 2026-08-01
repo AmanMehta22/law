@@ -1,0 +1,43 @@
+{
+  "concept_id": "alias.goods",
+  "concept_type": "alias",
+  "title": "Goods",
+  "description": "Alternative names and search aliases for: Goods",
+  "content": {
+    "aliases": [
+      "Commodities",
+      "Items",
+      "Merchandise",
+      "Products",
+      "commodities",
+      "products"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-21",
+    "definition.goods"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Commodities",
+      "Items",
+      "Merchandise",
+      "Products",
+      "commodities",
+      "products"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

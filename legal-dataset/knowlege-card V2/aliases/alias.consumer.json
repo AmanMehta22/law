@@ -1,0 +1,45 @@
+{
+  "concept_id": "alias.consumer",
+  "concept_type": "alias",
+  "title": "Consumer",
+  "description": "Alternative names and search aliases for: Consumer",
+  "content": {
+    "aliases": [
+      "Buyer",
+      "Client",
+      "Customer",
+      "End User",
+      "Purchaser",
+      "buyer",
+      "customer"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-7",
+    "definition.consumer"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Buyer",
+      "Client",
+      "Customer",
+      "End User",
+      "Purchaser",
+      "buyer",
+      "customer"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

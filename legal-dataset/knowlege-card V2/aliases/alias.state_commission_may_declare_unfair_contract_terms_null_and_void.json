@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.state_commission_may_declare_unfair_contract_terms_null_and_void",
+  "concept_type": "alias",
+  "title": "State Commission May Declare Unfair Contract Terms Null And Void",
+  "description": "Alternative names and search aliases for: State Commission May Declare Unfair Contract Terms Null And Void",
+  "content": {
+    "aliases": [
+      "declaration of unfair terms"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S49-2",
+    "obligation.state_commission_may_declare_unfair_terms_of_contract_null_a"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "declaration of unfair terms"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

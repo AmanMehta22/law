@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.district_commission_may_direct_parties_to_consider_mediation",
+  "concept_type": "alias",
+  "title": "District Commission May Direct Parties To Consider Mediation",
+  "description": "Alternative names and search aliases for: District Commission May Direct Parties To Consider Mediation",
+  "content": {
+    "aliases": [
+      "alternative dispute resolution"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S37-1",
+    "obligation.district_commission_may_direct_parties_to_give_in_writing_co"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "alternative dispute resolution"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

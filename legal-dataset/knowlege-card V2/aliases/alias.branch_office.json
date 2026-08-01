@@ -1,0 +1,43 @@
+{
+  "concept_id": "alias.branch_office",
+  "concept_type": "alias",
+  "title": "Branch Office",
+  "description": "Alternative names and search aliases for: Branch Office",
+  "content": {
+    "aliases": [
+      "Local Office",
+      "Regional Office",
+      "Satellite Office",
+      "Subsidiary Office",
+      "regional office",
+      "satellite office"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-3",
+    "definition.branch_office"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Local Office",
+      "Regional Office",
+      "Satellite Office",
+      "Subsidiary Office",
+      "regional office",
+      "satellite office"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

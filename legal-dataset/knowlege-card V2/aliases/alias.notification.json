@@ -1,0 +1,45 @@
+{
+  "concept_id": "alias.notification",
+  "concept_type": "alias",
+  "title": "Notification",
+  "description": "Alternative names and search aliases for: Notification",
+  "content": {
+    "aliases": [
+      "Announcement",
+      "Gazette Notification",
+      "Official Notice",
+      "Public Notice",
+      "Regulatory Notice",
+      "official announcement",
+      "public notification"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-30",
+    "definition.notification"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Announcement",
+      "Gazette Notification",
+      "Official Notice",
+      "Public Notice",
+      "Regulatory Notice",
+      "official announcement",
+      "public notification"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

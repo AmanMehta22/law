@@ -1,0 +1,52 @@
+{
+  "concept_id": "alias.right_to_compensation",
+  "concept_type": "alias",
+  "title": "Right to Compensation",
+  "description": "Alternative names and search aliases for: Right to Compensation",
+  "content": {
+    "aliases": [
+      "compensation rights",
+      "refund rights",
+      "reimbursement rights",
+      "right to claim damages",
+      "right to damages",
+      "right to redress",
+      "right to remedy",
+      "right to reparation"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-35",
+    "CPA2019-CH4-S39-1",
+    "CPA2019-CH6-S82",
+    "CPA2019-CH6-S83",
+    "CPA2019-CH6-S84-1",
+    "CPA2019-CH6-S86",
+    "right.right_to_compensation"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "compensation rights",
+      "refund rights",
+      "reimbursement rights",
+      "right to claim damages",
+      "right to damages",
+      "right to redress",
+      "right to remedy",
+      "right to reparation"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

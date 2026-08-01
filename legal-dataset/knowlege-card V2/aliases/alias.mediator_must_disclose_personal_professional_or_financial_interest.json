@@ -1,0 +1,35 @@
+{
+  "concept_id": "alias.mediator_must_disclose_personal_professional_or_financial_interest",
+  "concept_type": "alias",
+  "title": "Mediator Must Disclose Personal, Professional Or Financial Interest",
+  "description": "Alternative names and search aliases for: Mediator Must Disclose Personal, Professional Or Financial Interest",
+  "content": {
+    "aliases": [
+      "declare",
+      "reveal"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S77",
+    "obligation.mediator_must_disclose_personal_professional_or_financial_in"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "declare",
+      "reveal"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

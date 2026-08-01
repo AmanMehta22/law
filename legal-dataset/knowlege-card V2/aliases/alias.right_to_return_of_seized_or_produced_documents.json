@@ -1,0 +1,39 @@
+{
+  "concept_id": "alias.right_to_return_of_seized_or_produced_documents",
+  "concept_type": "alias",
+  "title": "Right to Return of Seized or Produced Documents",
+  "description": "Alternative names and search aliases for: Right to Return of Seized or Produced Documents",
+  "content": {
+    "aliases": [
+      "consumer document return",
+      "document return rights",
+      "right to retrieval of documents",
+      "right to return of seized or produced documents"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S22-3",
+    "right.right_to_return_of_seized_or_produced_documents"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "consumer document return",
+      "document return rights",
+      "right to retrieval of documents",
+      "right to return of seized or produced documents"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

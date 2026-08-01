@@ -1,0 +1,39 @@
+{
+  "concept_id": "alias.intervention_in_proceedings",
+  "concept_type": "alias",
+  "title": "Intervention in Proceedings",
+  "description": "Alternative names and search aliases for: Intervention in Proceedings",
+  "content": {
+    "aliases": [
+      "amicus curiae",
+      "intervening in a case",
+      "intervention in a hearing",
+      "joining a lawsuit"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S18-2",
+    "procedure.intervention_in_proceedings"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "amicus curiae",
+      "intervening in a case",
+      "intervention in a hearing",
+      "joining a lawsuit"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

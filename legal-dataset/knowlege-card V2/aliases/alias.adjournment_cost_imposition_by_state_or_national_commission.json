@@ -1,0 +1,41 @@
+{
+  "concept_id": "alias.adjournment_cost_imposition_by_state_or_national_commission",
+  "concept_type": "alias",
+  "title": "Adjournment cost imposition by State or National Commission",
+  "description": "Alternative names and search aliases for: Adjournment cost imposition by State or National Commission",
+  "content": {
+    "aliases": [
+      "adjournment cost",
+      "cost imposition by state or national commission",
+      "fees for adjournment",
+      "national commission fees",
+      "state commission fees"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S103-2",
+    "procedure.adjournment_cost_imposition_by_state_or_national_commission"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "adjournment cost",
+      "cost imposition by state or national commission",
+      "fees for adjournment",
+      "national commission fees",
+      "state commission fees"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "concept_id": "alias.meeting_of_central_council",
+  "concept_type": "alias",
+  "title": "Meeting of Central Council",
+  "description": "Alternative names and search aliases for: Meeting of Central Council",
+  "content": {
+    "aliases": [
+      "central council",
+      "central council meeting",
+      "council",
+      "council meeting"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH2-S4-2",
+    "procedure.meeting_of_central_council"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "central council",
+      "central council meeting",
+      "council",
+      "council meeting"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

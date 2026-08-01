@@ -1,0 +1,36 @@
+{
+  "concept_id": "alias.mediation_time_limit",
+  "concept_type": "alias",
+  "title": "Mediation Time Limit",
+  "description": "Alternative names and search aliases for: Mediation Time Limit",
+  "content": {
+    "aliases": [
+      "mediation period",
+      "time for submission"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S103-2",
+    "CPA2019-CH8-S104-2",
+    "timeline.not_specified"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "mediation period",
+      "time for submission"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

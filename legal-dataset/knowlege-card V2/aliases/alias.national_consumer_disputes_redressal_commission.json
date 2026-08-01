@@ -1,0 +1,40 @@
+{
+  "concept_id": "alias.national_consumer_disputes_redressal_commission",
+  "concept_type": "alias",
+  "title": "National Consumer Disputes Redressal Commission",
+  "description": "Alternative names and search aliases for: National Consumer Disputes Redressal Commission",
+  "content": {
+    "aliases": [
+      "Consumer Court",
+      "NCDRC",
+      "National Commission",
+      "National Tribunal"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-29",
+    "CPA2019-CH4-S53-1",
+    "authority.national_consumer_disputes_redressal_commission"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Consumer Court",
+      "NCDRC",
+      "National Commission",
+      "National Tribunal"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

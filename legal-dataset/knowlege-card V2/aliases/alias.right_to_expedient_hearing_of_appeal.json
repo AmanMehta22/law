@@ -1,0 +1,41 @@
+{
+  "concept_id": "alias.right_to_expedient_hearing_of_appeal",
+  "concept_type": "alias",
+  "title": "Right to Expedient Hearing of Appeal",
+  "description": "Alternative names and search aliases for: Right to Expedient Hearing of Appeal",
+  "content": {
+    "aliases": [
+      "expedited appeal hearing",
+      "fast appeal hearing",
+      "quick appeal process",
+      "right to speedy appeal",
+      "swift appeal resolution"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S52",
+    "right.right_to_expedient_hearing_of_appeal"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "expedited appeal hearing",
+      "fast appeal hearing",
+      "quick appeal process",
+      "right to speedy appeal",
+      "swift appeal resolution"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

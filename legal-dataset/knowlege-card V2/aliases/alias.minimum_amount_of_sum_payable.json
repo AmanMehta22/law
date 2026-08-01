@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.minimum_amount_of_sum_payable",
+  "concept_type": "alias",
+  "title": "Minimum Amount Of Sum Payable",
+  "description": "Alternative names and search aliases for: Minimum Amount Of Sum Payable",
+  "content": {
+    "aliases": [
+      "compensation amount"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S39-1",
+    "exception.the_minimum_amount_of_sum_so_payable_shall_not_be_less_than_"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "compensation amount"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

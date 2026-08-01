@@ -1,0 +1,39 @@
+{
+  "concept_id": "alias.awareness_on_consumer_rights",
+  "concept_type": "alias",
+  "title": "Awareness on Consumer Rights",
+  "description": "Alternative names and search aliases for: Awareness on Consumer Rights",
+  "content": {
+    "aliases": [
+      "awareness on consumer rights",
+      "consumer rights",
+      "consumer rights awareness",
+      "consumer rights education"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S18-2",
+    "procedure.awareness_on_consumer_rights"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "awareness on consumer rights",
+      "consumer rights",
+      "consumer rights awareness",
+      "consumer rights education"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

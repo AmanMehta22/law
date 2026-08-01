@@ -1,0 +1,35 @@
+{
+  "concept_id": "alias.district_commission_must_record_reasons_for_delayed_disposal",
+  "concept_type": "alias",
+  "title": "District Commission Must Record Reasons For Delayed Disposal",
+  "description": "Alternative names and search aliases for: District Commission Must Record Reasons For Delayed Disposal",
+  "content": {
+    "aliases": [
+      "Consumer Forum",
+      "District Commission"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-7",
+    "obligation.district_commission_must_record_reasons_for_delayed_disposal"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Consumer Forum",
+      "District Commission"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

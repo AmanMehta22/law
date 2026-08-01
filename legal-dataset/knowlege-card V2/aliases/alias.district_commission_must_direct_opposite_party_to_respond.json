@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.district_commission_must_direct_opposite_party_to_respond",
+  "concept_type": "alias",
+  "title": "District Commission Must Direct Opposite Party To Respond",
+  "description": "Alternative names and search aliases for: District Commission Must Direct Opposite Party To Respond",
+  "content": {
+    "aliases": [
+      "time limit for response"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-3",
+    "obligation.district_commission_must_direct_the_opposite_party_to_give_t"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "time limit for response"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

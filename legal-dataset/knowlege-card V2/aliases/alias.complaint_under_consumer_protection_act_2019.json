@@ -1,0 +1,43 @@
+{
+  "concept_id": "alias.complaint_under_consumer_protection_act_2019",
+  "concept_type": "alias",
+  "title": "Complaint under Consumer Protection Act, 2019",
+  "description": "Alternative names and search aliases for: Complaint under Consumer Protection Act, 2019",
+  "content": {
+    "aliases": [
+      "CPA Complaint",
+      "Consumer Complaint",
+      "Consumer Protection Claim",
+      "Section 35 Complaint",
+      "allegation",
+      "grievance"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-6",
+    "definition.complaint"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "CPA Complaint",
+      "Consumer Complaint",
+      "Consumer Protection Claim",
+      "Section 35 Complaint",
+      "allegation",
+      "grievance"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

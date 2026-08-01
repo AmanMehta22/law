@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.manufacturer_must_make_product",
+  "concept_type": "alias",
+  "title": "Manufacturer Must Make Product",
+  "description": "Alternative names and search aliases for: Manufacturer Must Make Product",
+  "content": {
+    "aliases": [
+      "product manufacturer liability"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH6-S84-2",
+    "obligation.product_manufacturer_shall_be_liable_in_a_product_liability_"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "product manufacturer liability"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

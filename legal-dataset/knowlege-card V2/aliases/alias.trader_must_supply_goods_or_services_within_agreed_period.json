@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.trader_must_supply_goods_or_services_within_agreed_period",
+  "concept_type": "alias",
+  "title": "Trader Must Supply Goods Or Services Within Agreed Period",
+  "description": "Alternative names and search aliases for: Trader Must Supply Goods Or Services Within Agreed Period",
+  "content": {
+    "aliases": [
+      "supply goods or services on time"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-41",
+    "obligation.trader_must_supply_goods_or_services_within_the_agreed_perio"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "supply goods or services on time"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.deviation_from_manufacturing_specifications_proof",
+  "concept_type": "alias",
+  "title": "Deviation From Manufacturing Specifications Proof",
+  "description": "Alternative names and search aliases for: Deviation From Manufacturing Specifications Proof",
+  "content": {
+    "aliases": [
+      "non-compliance with specifications"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH6-S84-1",
+    "evidence.manufacturing_specifications_production_records"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "non-compliance with specifications"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

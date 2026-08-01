@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.proof_of_warranty_or_guarantee",
+  "concept_type": "alias",
+  "title": "Proof Of Warranty Or Guarantee",
+  "description": "Alternative names and search aliases for: Proof Of Warranty Or Guarantee",
+  "content": {
+    "aliases": [
+      "proof of testing"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-47",
+    "evidence.test_results_records_of_testing"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "proof of testing"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

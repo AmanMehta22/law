@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.setting_aside_of_ex_parte_order",
+  "concept_type": "alias",
+  "title": "Setting Aside Of Ex Parte Order",
+  "description": "Alternative names and search aliases for: Setting Aside Of Ex Parte Order",
+  "content": {
+    "aliases": [
+      "vacating an order"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S61",
+    "remedy.setting_aside_of_order"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "vacating an order"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

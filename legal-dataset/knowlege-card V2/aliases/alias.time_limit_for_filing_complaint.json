@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.time_limit_for_filing_complaint",
+  "concept_type": "alias",
+  "title": "Time Limit For Filing Complaint",
+  "description": "Alternative names and search aliases for: Time Limit For Filing Complaint",
+  "content": {
+    "aliases": [
+      "statute of limitations"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S69-1",
+    "exception.shall_not_admit_a_complaint_unless_it_is_filed_within_two_ye"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "statute of limitations"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

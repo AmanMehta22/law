@@ -1,0 +1,41 @@
+{
+  "concept_id": "alias.right_to_expedient_disposal_of_complaint",
+  "concept_type": "alias",
+  "title": "Right to Expedient Disposal of Complaint",
+  "description": "Alternative names and search aliases for: Right to Expedient Disposal of Complaint",
+  "content": {
+    "aliases": [
+      "expedited complaint process",
+      "fast complaint resolution",
+      "quick complaint disposal",
+      "right to speedy disposal",
+      "swift complaint handling"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-7",
+    "right.right_to_expedient_disposal_of_complaint"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "expedited complaint process",
+      "fast complaint resolution",
+      "quick complaint disposal",
+      "right to speedy disposal",
+      "swift complaint handling"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

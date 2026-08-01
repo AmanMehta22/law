@@ -1,0 +1,47 @@
+{
+  "concept_id": "alias.deficiency",
+  "concept_type": "alias",
+  "title": "Deficiency",
+  "description": "Alternative names and search aliases for: Deficiency",
+  "content": {
+    "aliases": [
+      "Flaw",
+      "Imperfection",
+      "Inadequacy",
+      "Lack",
+      "Shortcoming",
+      "fault",
+      "inadequacy",
+      "shortcoming"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-11",
+    "definition.deficiency"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Flaw",
+      "Imperfection",
+      "Inadequacy",
+      "Lack",
+      "Shortcoming",
+      "fault",
+      "inadequacy",
+      "shortcoming"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

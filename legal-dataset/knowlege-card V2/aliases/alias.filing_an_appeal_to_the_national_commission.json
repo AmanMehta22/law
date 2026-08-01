@@ -1,0 +1,42 @@
+{
+  "concept_id": "alias.filing_an_appeal_to_the_national_commission",
+  "concept_type": "alias",
+  "title": "Filing an appeal to the National Commission",
+  "description": "Alternative names and search aliases for: Filing an appeal to the National Commission",
+  "content": {
+    "aliases": [
+      "appealing to national commission",
+      "filing appeal with national commission",
+      "national commission appeal",
+      "petitioning national commission",
+      "submitting appeal to national commission"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S51-2",
+    "CPA2019-CH4-S51-5",
+    "procedure.filing_an_appeal_to_the_national_commission"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "appealing to national commission",
+      "filing appeal with national commission",
+      "national commission appeal",
+      "petitioning national commission",
+      "submitting appeal to national commission"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

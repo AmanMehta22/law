@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.national_and_state_commissions_must_furnish_information",
+  "concept_type": "alias",
+  "title": "National And State Commissions Must Furnish Information",
+  "description": "Alternative names and search aliases for: National And State Commissions Must Furnish Information",
+  "content": {
+    "aliases": [
+      "reporting requirement"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S70-4",
+    "obligation.national_commission_and_the_state_commissions_shall_furnish_"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "reporting requirement"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

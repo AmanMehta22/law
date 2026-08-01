@@ -1,0 +1,41 @@
+{
+  "concept_id": "alias.disposal_of_seized_articles_subject_to_decay",
+  "concept_type": "alias",
+  "title": "Disposal of seized articles subject to decay",
+  "description": "Alternative names and search aliases for: Disposal of seized articles subject to decay",
+  "content": {
+    "aliases": [
+      "destruction of perishable goods",
+      "disposal of spoiling items",
+      "getting rid of decaying products",
+      "removal of seized perishables",
+      "wasting of seized goods"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S22-4",
+    "procedure.disposal_of_seized_articles_subject_to_decay"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "destruction of perishable goods",
+      "disposal of spoiling items",
+      "getting rid of decaying products",
+      "removal of seized perishables",
+      "wasting of seized goods"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

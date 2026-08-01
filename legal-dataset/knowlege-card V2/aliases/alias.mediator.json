@@ -1,0 +1,45 @@
+{
+  "concept_id": "alias.mediator",
+  "concept_type": "alias",
+  "title": "Mediator",
+  "description": "Alternative names and search aliases for: Mediator",
+  "content": {
+    "aliases": [
+      "Arbitrator",
+      "Dispute Resolver",
+      "Mediation Expert",
+      "Mediation Officer",
+      "Neutral Third Party",
+      "facilitator",
+      "neutral third-party"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-26",
+    "definition.mediator"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Arbitrator",
+      "Dispute Resolver",
+      "Mediation Expert",
+      "Mediation Officer",
+      "Neutral Third Party",
+      "facilitator",
+      "neutral third-party"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

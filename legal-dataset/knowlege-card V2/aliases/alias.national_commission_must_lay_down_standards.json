@@ -1,0 +1,35 @@
+{
+  "concept_id": "alias.national_commission_must_lay_down_standards",
+  "concept_type": "alias",
+  "title": "National Commission Must Lay Down Standards",
+  "description": "Alternative names and search aliases for: National Commission Must Lay Down Standards",
+  "content": {
+    "aliases": [
+      "consumer interests",
+      "regulatory authority"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S70-1",
+    "obligation.national_commission_shall_lay_down_adequate_standards"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "consumer interests",
+      "regulatory authority"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

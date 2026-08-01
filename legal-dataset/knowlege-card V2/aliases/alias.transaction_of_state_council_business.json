@@ -1,0 +1,41 @@
+{
+  "concept_id": "alias.transaction_of_state_council_business",
+  "concept_type": "alias",
+  "title": "Transaction of State Council Business",
+  "description": "Alternative names and search aliases for: Transaction of State Council Business",
+  "content": {
+    "aliases": [
+      "Conducting State Council business",
+      "State Council business proceedings",
+      "State Council decision-making",
+      "State Council meetings",
+      "State Council operations"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH2-S6-4",
+    "procedure.transaction_of_state_council_business"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Conducting State Council business",
+      "State Council business proceedings",
+      "State Council decision-making",
+      "State Council meetings",
+      "State Council operations"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

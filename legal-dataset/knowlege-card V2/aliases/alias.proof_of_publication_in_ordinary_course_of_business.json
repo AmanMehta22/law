@@ -1,0 +1,35 @@
+{
+  "concept_id": "alias.proof_of_publication_in_ordinary_course_of_business",
+  "concept_type": "alias",
+  "title": "Proof Of Publication In Ordinary Course Of Business",
+  "description": "Alternative names and search aliases for: Proof Of Publication In Ordinary Course Of Business",
+  "content": {
+    "aliases": [
+      "advertisement publication proof",
+      "business records"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S21-6",
+    "evidence.records_of_business_transactions_publication_records"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "advertisement publication proof",
+      "business records"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

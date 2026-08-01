@@ -1,0 +1,41 @@
+{
+  "concept_id": "alias.issuance_of_instructions_for_uniform_procedure",
+  "concept_type": "alias",
+  "title": "Issuance of instructions for uniform procedure",
+  "description": "Alternative names and search aliases for: Issuance of instructions for uniform procedure",
+  "content": {
+    "aliases": [
+      "Instruction for Consistent Practice",
+      "Procedure Standardization Order",
+      "Standard Operating Procedure Directive",
+      "Uniform Procedure Guidelines",
+      "guidelines"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S70-1",
+    "procedure.issuance_of_instructions_for_uniform_procedure"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Instruction for Consistent Practice",
+      "Procedure Standardization Order",
+      "Standard Operating Procedure Directive",
+      "Uniform Procedure Guidelines",
+      "guidelines"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "concept_id": "alias.consumer_mediation_cell_must_maintain_records",
+  "concept_type": "alias",
+  "title": "Consumer Mediation Cell Must Maintain Records",
+  "description": "Alternative names and search aliases for: Consumer Mediation Cell Must Maintain Records",
+  "content": {
+    "aliases": [
+      "cmc",
+      "consumer mediation cell"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S74-4",
+    "obligation.consumer_mediation_cell_must_maintain_a_list_of_empanelled_m"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "cmc",
+      "consumer mediation cell"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

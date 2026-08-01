@@ -1,0 +1,37 @@
+{
+  "concept_id": "alias.bench",
+  "concept_type": "alias",
+  "title": "Bench",
+  "description": "Alternative names and search aliases for: Bench",
+  "content": {
+    "aliases": [
+      "Court Bench",
+      "Judicial Bench",
+      "Tribunal"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S47-2",
+    "authority.bench"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Court Bench",
+      "Judicial Bench",
+      "Tribunal"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

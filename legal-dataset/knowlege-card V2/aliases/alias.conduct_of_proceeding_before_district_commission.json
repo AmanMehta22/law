@@ -1,0 +1,37 @@
+{
+  "concept_id": "alias.conduct_of_proceeding_before_district_commission",
+  "concept_type": "alias",
+  "title": "Conduct of Proceeding before District Commission",
+  "description": "Alternative names and search aliases for: Conduct of Proceeding before District Commission",
+  "content": {
+    "aliases": [
+      "district commission proceedings",
+      "district consumer forum hearing",
+      "proceedings before district commission"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S36-1",
+    "procedure.conduct_of_proceeding_before_district_commission"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "district commission proceedings",
+      "district consumer forum hearing",
+      "proceedings before district commission"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

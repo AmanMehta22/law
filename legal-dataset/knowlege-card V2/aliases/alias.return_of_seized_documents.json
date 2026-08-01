@@ -1,0 +1,44 @@
+{
+  "concept_id": "alias.return_of_seized_documents",
+  "concept_type": "alias",
+  "title": "Return of seized documents",
+  "description": "Alternative names and search aliases for: Return of seized documents",
+  "content": {
+    "aliases": [
+      "document return",
+      "giving back seized files",
+      "release of seized papers",
+      "restoration of documents",
+      "restoring seized documents",
+      "return of confiscated documents"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S22-3",
+    "obligation.person_seizing_the_documents_must_return_seized_documents",
+    "procedure.return_of_seized_documents"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "document return",
+      "giving back seized files",
+      "release of seized papers",
+      "restoration of documents",
+      "restoring seized documents",
+      "return of confiscated documents"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

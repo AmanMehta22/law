@@ -1,0 +1,35 @@
+{
+  "concept_id": "alias.district_commission_must_not_grant_adjournment_without_sufficient_cause",
+  "concept_type": "alias",
+  "title": "District Commission Must Not Grant Adjournment Without Sufficient Cause",
+  "description": "Alternative names and search aliases for: District Commission Must Not Grant Adjournment Without Sufficient Cause",
+  "content": {
+    "aliases": [
+      "Consumer Forum",
+      "District Commission"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-7",
+    "obligation.district_commission_must_not_grant_adjournment_without_suffi"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Consumer Forum",
+      "District Commission"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

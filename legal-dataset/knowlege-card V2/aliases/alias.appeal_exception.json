@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.appeal_exception",
+  "concept_type": "alias",
+  "title": "Appeal Exception",
+  "description": "Alternative names and search aliases for: Appeal Exception",
+  "content": {
+    "aliases": [
+      "exception to appeal rule"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S73-2",
+    "exception.an_appeal_may_lie_before_a_court_as_provided_in_sub_section_"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "exception to appeal rule"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

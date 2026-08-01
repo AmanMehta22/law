@@ -1,0 +1,39 @@
+{
+  "concept_id": "alias.compensation_for_harm_caused",
+  "concept_type": "alias",
+  "title": "Compensation For Harm Caused",
+  "description": "Alternative names and search aliases for: Compensation For Harm Caused",
+  "content": {
+    "aliases": [
+      "damages",
+      "reparation"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-34",
+    "CPA2019-CH1-S2-35",
+    "CPA2019-CH6-S82",
+    "CPA2019-CH6-S85",
+    "CPA2019-CH6-S86",
+    "remedy.compensation"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "damages",
+      "reparation"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "concept_id": "alias.hearing_of_appeal_on_substantial_question_of_law",
+  "concept_type": "alias",
+  "title": "Hearing of Appeal on Substantial Question of Law",
+  "description": "Alternative names and search aliases for: Hearing of Appeal on Substantial Question of Law",
+  "content": {
+    "aliases": [
+      "appeal hearing on substantial law question",
+      "appeal on point of law",
+      "hearing of legal appeal",
+      "substantial question of law appeal"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S51-4",
+    "procedure.hearing_of_appeal_on_substantial_question_of_law"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "appeal hearing on substantial law question",
+      "appeal on point of law",
+      "hearing of legal appeal",
+      "substantial question of law appeal"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "concept_id": "alias.commissioner",
+  "concept_type": "alias",
+  "title": "Commissioner",
+  "description": "Alternative names and search aliases for: Commissioner",
+  "content": {
+    "aliases": [
+      "Comm",
+      "Consumer Commissioner",
+      "Regional Commissioner"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S14-2",
+    "CPA2019-CH8-S98",
+    "authority.commissioner"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Comm",
+      "Consumer Commissioner",
+      "Regional Commissioner"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

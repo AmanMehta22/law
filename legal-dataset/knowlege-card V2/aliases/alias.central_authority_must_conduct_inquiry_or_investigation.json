@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.central_authority_must_conduct_inquiry_or_investigation",
+  "concept_type": "alias",
+  "title": "Central Authority Must Conduct Inquiry Or Investigation",
+  "description": "Alternative names and search aliases for: Central Authority Must Conduct Inquiry Or Investigation",
+  "content": {
+    "aliases": [
+      "Central Authority"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S15-1",
+    "obligation.central_authority_shall_conduct_inquiry_or_investigation"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Central Authority"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

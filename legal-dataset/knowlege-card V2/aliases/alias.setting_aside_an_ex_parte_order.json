@@ -1,0 +1,41 @@
+{
+  "concept_id": "alias.setting_aside_an_ex_parte_order",
+  "concept_type": "alias",
+  "title": "Setting aside an ex parte order",
+  "description": "Alternative names and search aliases for: Setting aside an ex parte order",
+  "content": {
+    "aliases": [
+      "Cancellation of ex parte order",
+      "Ex parte order reversal",
+      "Overturning an ex parte order",
+      "Recall of ex parte order",
+      "Vacating an ex parte order"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S61",
+    "procedure.setting_aside_an_ex_parte_order"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Cancellation of ex parte order",
+      "Ex parte order reversal",
+      "Overturning an ex parte order",
+      "Recall of ex parte order",
+      "Vacating an ex parte order"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

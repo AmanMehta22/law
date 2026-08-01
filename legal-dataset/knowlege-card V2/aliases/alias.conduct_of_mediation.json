@@ -1,0 +1,39 @@
+{
+  "concept_id": "alias.conduct_of_mediation",
+  "concept_type": "alias",
+  "title": "Conduct of mediation",
+  "description": "Alternative names and search aliases for: Conduct of mediation",
+  "content": {
+    "aliases": [
+      "alternative dispute resolution",
+      "conducting mediation",
+      "mediation proceedings",
+      "mediation process"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S103-2",
+    "procedure.conduct_of_mediation"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "alternative dispute resolution",
+      "conducting mediation",
+      "mediation proceedings",
+      "mediation process"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

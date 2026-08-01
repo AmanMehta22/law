@@ -1,0 +1,35 @@
+{
+  "concept_id": "alias.regional_benches_establishment",
+  "concept_type": "alias",
+  "title": "Regional Benches Establishment",
+  "description": "Alternative names and search aliases for: Regional Benches Establishment",
+  "content": {
+    "aliases": [
+      "State Consumer Commission"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S42-2",
+    "CPA2019-CH4-S53-2",
+    "exception.the_central_government_may_establish_regional_benches_of_the",
+    "exception.the_state_government_may_establish_regional_benches_of_the_s"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "State Consumer Commission"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

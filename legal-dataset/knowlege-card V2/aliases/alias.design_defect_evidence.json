@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.design_defect_evidence",
+  "concept_type": "alias",
+  "title": "Design Defect Evidence",
+  "description": "Alternative names and search aliases for: Design Defect Evidence",
+  "content": {
+    "aliases": [
+      "product design flaw"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH6-S84-1",
+    "evidence.design_specifications_testing_records"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "product design flaw"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

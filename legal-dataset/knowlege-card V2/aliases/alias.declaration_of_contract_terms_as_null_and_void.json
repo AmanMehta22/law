@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.declaration_of_contract_terms_as_null_and_void",
+  "concept_type": "alias",
+  "title": "Declaration Of Contract Terms As Null And Void",
+  "description": "Alternative names and search aliases for: Declaration Of Contract Terms As Null And Void",
+  "content": {
+    "aliases": [
+      "cancellation of unfair terms"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S59-2",
+    "remedy.declaration_of_contract_terms_as_null_and_void"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "cancellation of unfair terms"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

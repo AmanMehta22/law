@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.no_appeal_from_mediated_settlement",
+  "concept_type": "alias",
+  "title": "No Appeal From Mediated Settlement",
+  "description": "Alternative names and search aliases for: No Appeal From Mediated Settlement",
+  "content": {
+    "aliases": [
+      "excluded appeal"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S41",
+    "exception.no_appeal_from_order_under_section_81_1_pursuant_to_mediatio"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "excluded appeal"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

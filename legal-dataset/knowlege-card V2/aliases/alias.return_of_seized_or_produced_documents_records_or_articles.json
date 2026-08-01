@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.return_of_seized_or_produced_documents_records_or_articles",
+  "concept_type": "alias",
+  "title": "Return Of Seized Or Produced Documents, Records Or Articles",
+  "description": "Alternative names and search aliases for: Return Of Seized Or Produced Documents, Records Or Articles",
+  "content": {
+    "aliases": [
+      "restoration of seized documents"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S22-3",
+    "remedy.return_of_seized_or_produced_documents_records_or_articles"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "restoration of seized documents"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "concept_id": "alias.mediation_procedure",
+  "concept_type": "alias",
+  "title": "Mediation Procedure",
+  "description": "Alternative names and search aliases for: Mediation Procedure",
+  "content": {
+    "aliases": [
+      "arbitration",
+      "conciliation",
+      "dispute resolution",
+      "mediation",
+      "mediation process"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S80-3",
+    "procedure.mediation_procedure"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "arbitration",
+      "conciliation",
+      "dispute resolution",
+      "mediation",
+      "mediation process"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

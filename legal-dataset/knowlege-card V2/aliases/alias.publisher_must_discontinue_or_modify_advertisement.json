@@ -1,0 +1,35 @@
+{
+  "concept_id": "alias.publisher_must_discontinue_or_modify_advertisement",
+  "concept_type": "alias",
+  "title": "Publisher Must Discontinue Or Modify Advertisement",
+  "description": "Alternative names and search aliases for: Publisher Must Discontinue Or Modify Advertisement",
+  "content": {
+    "aliases": [
+      "advertiser duties",
+      "manufacturer responsibilities"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S21-1",
+    "obligation.publisher_must_discontinue_or_modify_advertisement_as_direct"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "advertiser duties",
+      "manufacturer responsibilities"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "concept_id": "alias.appeal_to_national_commission",
+  "concept_type": "alias",
+  "title": "Appeal to National Commission",
+  "description": "Alternative names and search aliases for: Appeal to National Commission",
+  "content": {
+    "aliases": [
+      "appeal to national commission",
+      "appeal to national consumer commission",
+      "national appeal",
+      "national commission",
+      "national commission appeal"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S51-2",
+    "CPA2019-CH8-S101-2",
+    "exception.save_as_otherwise_expressly_provided_under_this_act_or_by_an",
+    "procedure.appeal_to_national_commission"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "appeal to national commission",
+      "appeal to national consumer commission",
+      "national appeal",
+      "national commission",
+      "national commission appeal"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

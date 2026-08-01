@@ -1,0 +1,39 @@
+{
+  "concept_id": "alias.furnishing_information",
+  "concept_type": "alias",
+  "title": "Furnishing information",
+  "description": "Alternative names and search aliases for: Furnishing information",
+  "content": {
+    "aliases": [
+      "disclosure of information",
+      "information disclosure",
+      "providing information",
+      "submitting details"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S101-2",
+    "procedure.furnishing_information"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "disclosure of information",
+      "information disclosure",
+      "providing information",
+      "submitting details"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

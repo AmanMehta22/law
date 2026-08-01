@@ -1,0 +1,39 @@
+{
+  "concept_id": "alias.officers_and_employees_must_discharge_functions_under_superintendence",
+  "concept_type": "alias",
+  "title": "Officers And Employees Must Discharge Functions Under Superintendence",
+  "description": "Alternative names and search aliases for: Officers And Employees Must Discharge Functions Under Superintendence",
+  "content": {
+    "aliases": [
+      "employees",
+      "officers"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S33-2",
+    "CPA2019-CH4-S46-2",
+    "CPA2019-CH4-S57-2",
+    "obligation.officers_and_other_employees_of_the_district_commission_disc",
+    "obligation.officers_and_other_employees_of_the_national_commission_disc",
+    "obligation.officers_and_other_employees_of_the_state_commission_dischar"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "employees",
+      "officers"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

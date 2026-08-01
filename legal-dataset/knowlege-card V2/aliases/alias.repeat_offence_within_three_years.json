@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.repeat_offence_within_three_years",
+  "concept_type": "alias",
+  "title": "Repeat Offence Within Three Years",
+  "description": "Alternative names and search aliases for: Repeat Offence Within Three Years",
+  "content": {
+    "aliases": [
+      "exception to sub-section (1)"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S96-3",
+    "exception.does_not_apply_to_persons_who_commit_the_same_or_similar_off"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "exception to sub-section (1)"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

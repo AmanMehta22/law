@@ -1,0 +1,40 @@
+{
+  "concept_id": "alias.central_council",
+  "concept_type": "alias",
+  "title": "Central Council",
+  "description": "Alternative names and search aliases for: Central Council",
+  "content": {
+    "aliases": [
+      "Central Consumer Council",
+      "Consumer Council",
+      "National Council"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH2-S3-2",
+    "CPA2019-CH2-S4-1",
+    "CPA2019-CH2-S4-2",
+    "CPA2019-CH2-S5",
+    "authority.central_council"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Central Consumer Council",
+      "Consumer Council",
+      "National Council"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

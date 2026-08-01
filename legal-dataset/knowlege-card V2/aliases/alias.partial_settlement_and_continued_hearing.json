@@ -1,0 +1,41 @@
+{
+  "concept_id": "alias.partial_settlement_and_continued_hearing",
+  "concept_type": "alias",
+  "title": "Partial Settlement and Continued Hearing",
+  "description": "Alternative names and search aliases for: Partial Settlement and Continued Hearing",
+  "content": {
+    "aliases": [
+      "arbitration",
+      "dispute resolution",
+      "hearing",
+      "mediation",
+      "partial settlement"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S81-2",
+    "procedure.partial_settlement_and_continued_hearing"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "arbitration",
+      "dispute resolution",
+      "hearing",
+      "mediation",
+      "partial settlement"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

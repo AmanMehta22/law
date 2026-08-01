@@ -1,0 +1,41 @@
+{
+  "concept_id": "alias.summoning_and_enforcing_attendance",
+  "concept_type": "alias",
+  "title": "Summoning and enforcing attendance",
+  "description": "Alternative names and search aliases for: Summoning and enforcing attendance",
+  "content": {
+    "aliases": [
+      "Attendance enforcement",
+      "Compelling attendance",
+      "Enforcing witness attendance",
+      "Forcing someone to attend",
+      "Summoning witnesses"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-9",
+    "procedure.summoning_and_enforcing_attendance"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Attendance enforcement",
+      "Compelling attendance",
+      "Enforcing witness attendance",
+      "Forcing someone to attend",
+      "Summoning witnesses"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

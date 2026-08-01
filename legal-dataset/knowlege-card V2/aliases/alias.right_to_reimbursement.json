@@ -1,0 +1,39 @@
+{
+  "concept_id": "alias.right_to_reimbursement",
+  "concept_type": "alias",
+  "title": "Right to Reimbursement",
+  "description": "Alternative names and search aliases for: Right to Reimbursement",
+  "content": {
+    "aliases": [
+      "consumer reimbursement",
+      "reimbursement rights",
+      "right to refund",
+      "right to reimbursement"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S20",
+    "right.right_to_reimbursement"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "consumer reimbursement",
+      "reimbursement rights",
+      "right to refund",
+      "right to reimbursement"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.person_must_prove_publication_in_ordinary_course_of_business",
+  "concept_type": "alias",
+  "title": "Person Must Prove Publication In Ordinary Course Of Business",
+  "description": "Alternative names and search aliases for: Person Must Prove Publication In Ordinary Course Of Business",
+  "content": {
+    "aliases": [
+      "due diligence"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S21-6",
+    "obligation.person_must_prove_publication_in_ordinary_course_of_business"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "due diligence"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

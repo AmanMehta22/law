@@ -1,0 +1,45 @@
+{
+  "concept_id": "alias.product_liability",
+  "concept_type": "alias",
+  "title": "Product Liability",
+  "description": "Alternative names and search aliases for: Product Liability",
+  "content": {
+    "aliases": [
+      "Defective Product Liability",
+      "Goods Liability",
+      "Manufacturer Liability",
+      "Product Responsibility",
+      "Strict Liability",
+      "manufacturer liability",
+      "product responsibility"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-34",
+    "definition.product_liability"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Defective Product Liability",
+      "Goods Liability",
+      "Manufacturer Liability",
+      "Product Responsibility",
+      "Strict Liability",
+      "manufacturer liability",
+      "product responsibility"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

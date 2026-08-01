@@ -1,0 +1,41 @@
+{
+  "concept_id": "alias.review_of_state_commission_decisions",
+  "concept_type": "alias",
+  "title": "Review of State Commission decisions",
+  "description": "Alternative names and search aliases for: Review of State Commission decisions",
+  "content": {
+    "aliases": [
+      "Appeal against State Commission",
+      "Challenging State Commission decisions",
+      "Revisiting State Commission orders",
+      "State Commission decision review",
+      "State Commission order review"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S58-1",
+    "procedure.review_of_state_commission_decisions"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Appeal against State Commission",
+      "Challenging State Commission decisions",
+      "Revisiting State Commission orders",
+      "State Commission decision review",
+      "State Commission order review"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

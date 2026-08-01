@@ -1,0 +1,43 @@
+{
+  "concept_id": "alias.direct_selling",
+  "concept_type": "alias",
+  "title": "Direct Selling",
+  "description": "Alternative names and search aliases for: Direct Selling",
+  "content": {
+    "aliases": [
+      "Door-to-Door Sales",
+      "Multi-Level Marketing",
+      "Network Marketing",
+      "Person-to-Person Sales",
+      "multi-level marketing",
+      "network selling"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-13",
+    "definition.direct_selling"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Door-to-Door Sales",
+      "Multi-Level Marketing",
+      "Network Marketing",
+      "Person-to-Person Sales",
+      "multi-level marketing",
+      "network selling"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

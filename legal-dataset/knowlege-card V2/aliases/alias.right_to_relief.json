@@ -1,0 +1,39 @@
+{
+  "concept_id": "alias.right_to_relief",
+  "concept_type": "alias",
+  "title": "Right to Relief",
+  "description": "Alternative names and search aliases for: Right to Relief",
+  "content": {
+    "aliases": [
+      "consumer relief",
+      "relief rights",
+      "right to redress",
+      "right to relief"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-6",
+    "right.right_to_relief"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "consumer relief",
+      "relief rights",
+      "right to redress",
+      "right to relief"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

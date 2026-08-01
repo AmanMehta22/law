@@ -1,0 +1,35 @@
+{
+  "concept_id": "alias.state_council_must_render_advice",
+  "concept_type": "alias",
+  "title": "State Council Must Render Advice",
+  "description": "Alternative names and search aliases for: State Council Must Render Advice",
+  "content": {
+    "aliases": [
+      "advice",
+      "counsel"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH2-S7",
+    "obligation.state_council_render_advice_on_promotion_and_protection_of_c"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "advice",
+      "counsel"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

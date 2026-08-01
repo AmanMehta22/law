@@ -1,0 +1,35 @@
+{
+  "concept_id": "alias.central_government_must_appoint_officers_in_a_prescribed_manner",
+  "concept_type": "alias",
+  "title": "Central Government Must Appoint Officers In A Prescribed Manner",
+  "description": "Alternative names and search aliases for: Central Government Must Appoint Officers In A Prescribed Manner",
+  "content": {
+    "aliases": [
+      "Central Government",
+      "Government"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S15-2",
+    "obligation.central_government_must_appoint_director_general_and_other_o"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Central Government",
+      "Government"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

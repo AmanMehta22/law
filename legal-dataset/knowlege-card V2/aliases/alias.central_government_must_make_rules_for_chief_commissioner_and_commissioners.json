@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.central_government_must_make_rules_for_chief_commissioner_and_commissioners",
+  "concept_type": "alias",
+  "title": "Central Government Must Make Rules For Chief Commissioner And Commissioners",
+  "description": "Alternative names and search aliases for: Central Government Must Make Rules For Chief Commissioner And Commissioners",
+  "content": {
+    "aliases": [
+      "Central Authority"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S11",
+    "obligation.central_government_make_rules_for_the_qualifications_appoint"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Central Authority"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

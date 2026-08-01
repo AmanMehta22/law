@@ -1,0 +1,41 @@
+{
+  "concept_id": "alias.passing_of_interim_order",
+  "concept_type": "alias",
+  "title": "Passing of Interim Order",
+  "description": "Alternative names and search aliases for: Passing of Interim Order",
+  "content": {
+    "aliases": [
+      "court order",
+      "interim",
+      "interim order",
+      "mediation",
+      "order"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-8",
+    "procedure.passing_of_interim_order"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "court order",
+      "interim",
+      "interim order",
+      "mediation",
+      "order"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

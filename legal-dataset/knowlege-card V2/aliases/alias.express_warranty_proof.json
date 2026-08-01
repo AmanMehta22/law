@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.express_warranty_proof",
+  "concept_type": "alias",
+  "title": "Express Warranty Proof",
+  "description": "Alternative names and search aliases for: Express Warranty Proof",
+  "content": {
+    "aliases": [
+      "product warranty"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH6-S84-1",
+    "evidence.warranty_documents_sales_agreement"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "product warranty"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

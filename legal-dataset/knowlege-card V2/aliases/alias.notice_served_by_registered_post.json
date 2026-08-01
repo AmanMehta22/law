@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.notice_served_by_registered_post",
+  "concept_type": "alias",
+  "title": "Notice Served By Registered Post",
+  "description": "Alternative names and search aliases for: Notice Served By Registered Post",
+  "content": {
+    "aliases": [
+      "service of notice"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S65-3",
+    "exception.notice_is_considered_served_even_if_acknowledgment_is_lost_m"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "service of notice"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

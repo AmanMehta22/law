@@ -1,0 +1,43 @@
+{
+  "concept_id": "alias.injury",
+  "concept_type": "alias",
+  "title": "Injury",
+  "description": "Alternative names and search aliases for: Injury",
+  "content": {
+    "aliases": [
+      "Damage",
+      "Harm",
+      "Physical or Mental Harm",
+      "Trauma",
+      "damage",
+      "harm"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-23",
+    "definition.injury"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Damage",
+      "Harm",
+      "Physical or Mental Harm",
+      "Trauma",
+      "damage",
+      "harm"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

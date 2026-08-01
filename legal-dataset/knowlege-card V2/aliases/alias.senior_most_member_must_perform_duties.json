@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.senior_most_member_must_perform_duties",
+  "concept_type": "alias",
+  "title": "Senior-Most Member Must Perform Duties",
+  "description": "Alternative names and search aliases for: Senior-Most Member Must Perform Duties",
+  "content": {
+    "aliases": [
+      "acting President"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S63",
+    "obligation.senior_most_member_of_the_national_commission_must_perform_t"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "acting President"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

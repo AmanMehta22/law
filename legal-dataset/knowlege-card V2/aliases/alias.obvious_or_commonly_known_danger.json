@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.obvious_or_commonly_known_danger",
+  "concept_type": "alias",
+  "title": "Obvious Or Commonly Known Danger",
+  "description": "Alternative names and search aliases for: Obvious Or Commonly Known Danger",
+  "content": {
+    "aliases": [
+      "clear and obvious risk"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH6-S87-3",
+    "exception.shall_not_be_liable_for_failure_to_instruct_or_warn_about_a_"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "clear and obvious risk"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

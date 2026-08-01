@@ -1,0 +1,35 @@
+{
+  "concept_id": "alias.trader_must_discontinue_or_modify_advertisement",
+  "concept_type": "alias",
+  "title": "Trader Must Discontinue Or Modify Advertisement",
+  "description": "Alternative names and search aliases for: Trader Must Discontinue Or Modify Advertisement",
+  "content": {
+    "aliases": [
+      "endorser responsibilities",
+      "manufacturer duties"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S21-1",
+    "obligation.trader_must_discontinue_or_modify_advertisement_as_directed"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "endorser responsibilities",
+      "manufacturer duties"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

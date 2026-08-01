@@ -1,0 +1,35 @@
+{
+  "concept_id": "alias.central_authority_must_refer_matter_to_regulator",
+  "concept_type": "alias",
+  "title": "Central Authority Must Refer Matter To Regulator",
+  "description": "Alternative names and search aliases for: Central Authority Must Refer Matter To Regulator",
+  "content": {
+    "aliases": [
+      "Central Authority",
+      "Regulator"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S19-2",
+    "obligation.central_authority_may_refer_the_matter_to_the_concerned_regu"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Central Authority",
+      "Regulator"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

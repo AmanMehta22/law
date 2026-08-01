@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.state_commission_must_dispose_of_complaints",
+  "concept_type": "alias",
+  "title": "State Commission Must Dispose Of Complaints",
+  "description": "Alternative names and search aliases for: State Commission Must Dispose Of Complaints",
+  "content": {
+    "aliases": [
+      "State Commission complaints disposal"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S49-1",
+    "obligation.state_commission_must_dispose_of_complaints"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "State Commission complaints disposal"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

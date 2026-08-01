@@ -1,0 +1,37 @@
+{
+  "concept_id": "alias.adjournment_cost_imposition_by_district_commission",
+  "concept_type": "alias",
+  "title": "Adjournment cost imposition by District Commission",
+  "description": "Alternative names and search aliases for: Adjournment cost imposition by District Commission",
+  "content": {
+    "aliases": [
+      "adjournment cost",
+      "cost imposition by district commission",
+      "district commission cost"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S103-2",
+    "procedure.adjournment_cost_imposition_by_district_commission"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "adjournment cost",
+      "cost imposition by district commission",
+      "district commission cost"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "concept_id": "alias.filing_an_appeal_to_the_supreme_court",
+  "concept_type": "alias",
+  "title": "Filing an appeal to the Supreme Court",
+  "description": "Alternative names and search aliases for: Filing an appeal to the Supreme Court",
+  "content": {
+    "aliases": [
+      "appealing to supreme court",
+      "filing appeal with supreme court",
+      "petitioning supreme court",
+      "submitting appeal to supreme court",
+      "supreme court appeal"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S67",
+    "procedure.filing_an_appeal_to_the_supreme_court"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "appealing to supreme court",
+      "filing appeal with supreme court",
+      "petitioning supreme court",
+      "submitting appeal to supreme court",
+      "supreme court appeal"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

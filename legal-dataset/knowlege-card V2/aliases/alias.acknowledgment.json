@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.acknowledgment",
+  "concept_type": "alias",
+  "title": "Acknowledgment",
+  "description": "Alternative names and search aliases for: Acknowledgment",
+  "content": {
+    "aliases": [
+      "proof of service"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S65-3",
+    "evidence.acknowledgment_receipt"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "proof of service"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

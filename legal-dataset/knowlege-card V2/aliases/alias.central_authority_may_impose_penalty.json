@@ -1,0 +1,36 @@
+{
+  "concept_id": "alias.central_authority_may_impose_penalty",
+  "concept_type": "alias",
+  "title": "Central Authority May Impose Penalty",
+  "description": "Alternative names and search aliases for: Central Authority May Impose Penalty",
+  "content": {
+    "aliases": [
+      "fine",
+      "punishment"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S21-2",
+    "CPA2019-CH3-S21-4",
+    "obligation.central_authority_may_impose_penalty"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "fine",
+      "punishment"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

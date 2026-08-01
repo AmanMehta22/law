@@ -1,0 +1,40 @@
+{
+  "concept_id": "alias.commission",
+  "concept_type": "alias",
+  "title": "Commission",
+  "description": "Alternative names and search aliases for: Commission",
+  "content": {
+    "aliases": [
+      "Consumer Commission",
+      "Consumer Court",
+      "Court",
+      "Tribunal"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S80-2",
+    "CPA2019-CH5-S80-3",
+    "authority.commission"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Consumer Commission",
+      "Consumer Court",
+      "Court",
+      "Tribunal"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

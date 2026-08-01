@@ -1,0 +1,35 @@
+{
+  "concept_id": "alias.state_commission_must_authenticate_goods",
+  "concept_type": "alias",
+  "title": "State Commission Must Authenticate Goods",
+  "description": "Alternative names and search aliases for: State Commission Must Authenticate Goods",
+  "content": {
+    "aliases": [
+      "validation",
+      "verification"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S102-2",
+    "obligation.state_commission_must_authenticate_goods_sampled"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "validation",
+      "verification"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

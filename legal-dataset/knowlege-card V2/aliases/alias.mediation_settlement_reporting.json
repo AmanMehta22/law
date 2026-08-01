@@ -1,0 +1,41 @@
+{
+  "concept_id": "alias.mediation_settlement_reporting",
+  "concept_type": "alias",
+  "title": "Mediation Settlement Reporting",
+  "description": "Alternative names and search aliases for: Mediation Settlement Reporting",
+  "content": {
+    "aliases": [
+      "arbitration",
+      "dispute resolution",
+      "mediation",
+      "mediation report",
+      "mediation settlement"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S80-2",
+    "procedure.mediation_settlement_reporting"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "arbitration",
+      "dispute resolution",
+      "mediation",
+      "mediation report",
+      "mediation settlement"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

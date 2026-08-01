@@ -1,0 +1,35 @@
+{
+  "concept_id": "alias.parties_must_reduce_agreement_to_writing",
+  "concept_type": "alias",
+  "title": "Parties Must Reduce Agreement To Writing",
+  "description": "Alternative names and search aliases for: Parties Must Reduce Agreement To Writing",
+  "content": {
+    "aliases": [
+      "settlement",
+      "written agreement"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S80-1",
+    "obligation.parties_to_a_consumer_dispute_or_their_authorised_representa"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "settlement",
+      "written agreement"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

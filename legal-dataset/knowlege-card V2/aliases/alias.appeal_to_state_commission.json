@@ -1,0 +1,41 @@
+{
+  "concept_id": "alias.appeal_to_state_commission",
+  "concept_type": "alias",
+  "title": "Appeal to State Commission",
+  "description": "Alternative names and search aliases for: Appeal to State Commission",
+  "content": {
+    "aliases": [
+      "appeal to state commission",
+      "appeal to state consumer commission",
+      "state appeal",
+      "state commission",
+      "state commission appeal"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S101-2",
+    "procedure.appeal_to_state_commission"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "appeal to state commission",
+      "appeal to state consumer commission",
+      "state appeal",
+      "state commission",
+      "state commission appeal"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

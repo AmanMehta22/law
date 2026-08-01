@@ -1,0 +1,37 @@
+{
+  "concept_id": "alias.commissioner_of_a_regional_office",
+  "concept_type": "alias",
+  "title": "Commissioner of a regional office",
+  "description": "Alternative names and search aliases for: Commissioner of a regional office",
+  "content": {
+    "aliases": [
+      "Commissioner of Regional Office",
+      "ROC Commissioner",
+      "Regional Commissioner"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S16",
+    "authority.commissioner_of_a_regional_office"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Commissioner of Regional Office",
+      "ROC Commissioner",
+      "Regional Commissioner"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "concept_id": "alias.parliament",
+  "concept_type": "alias",
+  "title": "Parliament",
+  "description": "Alternative names and search aliases for: Parliament",
+  "content": {
+    "aliases": [
+      "Assembly",
+      "House of Representatives",
+      "Legislature",
+      "National Assembly"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S27-2",
+    "authority.parliament"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Assembly",
+      "House of Representatives",
+      "Legislature",
+      "National Assembly"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

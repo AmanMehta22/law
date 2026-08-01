@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.central_government_must_consider_exceptions",
+  "concept_type": "alias",
+  "title": "Central Government Must Consider Exceptions",
+  "description": "Alternative names and search aliases for: Central Government Must Consider Exceptions",
+  "content": {
+    "aliases": [
+      "exception"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S1-4",
+    "obligation.central_government_may_exempt_goods_and_services_by_notifica"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "exception"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

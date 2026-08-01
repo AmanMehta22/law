@@ -1,0 +1,41 @@
+{
+  "concept_id": "alias.state_commissions",
+  "concept_type": "alias",
+  "title": "State Commissions",
+  "description": "Alternative names and search aliases for: State Commissions",
+  "content": {
+    "aliases": [
+      "State Consumer Commissions",
+      "State Consumer Courts",
+      "State Consumer Dispute Redressal Commissions",
+      "State Consumer Forums"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S70-2",
+    "CPA2019-CH4-S70-4",
+    "CPA2019-CH5-S74-1",
+    "authority.state_commissions"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "State Consumer Commissions",
+      "State Consumer Courts",
+      "State Consumer Dispute Redressal Commissions",
+      "State Consumer Forums"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

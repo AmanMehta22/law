@@ -1,0 +1,35 @@
+{
+  "concept_id": "alias.complainant_must_satisfy_the_commission",
+  "concept_type": "alias",
+  "title": "Complainant Must Satisfy The Commission",
+  "description": "Alternative names and search aliases for: Complainant Must Satisfy The Commission",
+  "content": {
+    "aliases": [
+      "applicant",
+      "consumer"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S69-2",
+    "obligation.complainant_must_satisfy_the_commission_that_he_had_sufficie"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "applicant",
+      "consumer"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

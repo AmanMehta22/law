@@ -1,0 +1,35 @@
+{
+  "concept_id": "alias.central_government_must_provide_officers_and_employees",
+  "concept_type": "alias",
+  "title": "Central Government Must Provide Officers And Employees",
+  "description": "Alternative names and search aliases for: Central Government Must Provide Officers And Employees",
+  "content": {
+    "aliases": [
+      "Central Government",
+      "National Commission"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S57-1",
+    "obligation.central_government_shall_provide_officers_and_other_employee"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Central Government",
+      "National Commission"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

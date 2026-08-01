@@ -1,0 +1,35 @@
+{
+  "concept_id": "alias.delayed_appeal",
+  "concept_type": "alias",
+  "title": "Delayed Appeal",
+  "description": "Alternative names and search aliases for: Delayed Appeal",
+  "content": {
+    "aliases": [
+      "late appeal"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S41",
+    "CPA2019-CH4-S73-3",
+    "exception.may_entertain_an_appeal_after_the_expiry_of_the_said_period_",
+    "exception.state_commission_may_entertain_appeal_after_45_days"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "late appeal"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

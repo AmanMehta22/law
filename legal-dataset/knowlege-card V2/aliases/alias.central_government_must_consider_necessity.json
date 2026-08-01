@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.central_government_must_consider_necessity",
+  "concept_type": "alias",
+  "title": "Central Government Must Consider Necessity",
+  "description": "Alternative names and search aliases for: Central Government Must Consider Necessity",
+  "content": {
+    "aliases": [
+      "notification"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S23",
+    "obligation.central_government_must_consider_necessity"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "notification"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

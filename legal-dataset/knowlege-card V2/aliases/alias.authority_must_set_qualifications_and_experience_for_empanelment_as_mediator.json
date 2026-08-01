@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.authority_must_set_qualifications_and_experience_for_empanelment_as_mediator",
+  "concept_type": "alias",
+  "title": "Authority Must Set Qualifications And Experience For Empanelment As Mediator",
+  "description": "Alternative names and search aliases for: Authority Must Set Qualifications And Experience For Empanelment As Mediator",
+  "content": {
+    "aliases": [
+      "eligibility criteria"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S103-2",
+    "obligation.authority_must_set_qualifications_and_experience_for_empanel"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "eligibility criteria"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

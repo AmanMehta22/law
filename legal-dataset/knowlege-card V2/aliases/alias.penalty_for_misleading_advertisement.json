@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.penalty_for_misleading_advertisement",
+  "concept_type": "alias",
+  "title": "Penalty For Misleading Advertisement",
+  "description": "Alternative names and search aliases for: Penalty For Misleading Advertisement",
+  "content": {
+    "aliases": [
+      "fine for misleading ad"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S21-4",
+    "penalty.publishing_misleading_advertisement"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "fine for misleading ad"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

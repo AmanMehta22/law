@@ -1,0 +1,35 @@
+{
+  "concept_id": "alias.district_commission_must_function_in_district_headquarters",
+  "concept_type": "alias",
+  "title": "District Commission Must Function In District Headquarters",
+  "description": "Alternative names and search aliases for: District Commission Must Function In District Headquarters",
+  "content": {
+    "aliases": [
+      "operate",
+      "perform functions"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S28-3",
+    "obligation.district_commission_shall_function_in_district_headquarters"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "operate",
+      "perform functions"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

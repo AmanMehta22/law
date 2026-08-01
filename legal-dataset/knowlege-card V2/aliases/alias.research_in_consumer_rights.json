@@ -1,0 +1,41 @@
+{
+  "concept_id": "alias.research_in_consumer_rights",
+  "concept_type": "alias",
+  "title": "Research in Consumer Rights",
+  "description": "Alternative names and search aliases for: Research in Consumer Rights",
+  "content": {
+    "aliases": [
+      "analysis of consumer rights",
+      "consumer law research",
+      "consumer protection research",
+      "consumer rights study",
+      "investigating consumer rights"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S18-2",
+    "procedure.research_in_consumer_rights"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "analysis of consumer rights",
+      "consumer law research",
+      "consumer protection research",
+      "consumer rights study",
+      "investigating consumer rights"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

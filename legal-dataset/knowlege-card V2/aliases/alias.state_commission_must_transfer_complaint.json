@@ -1,0 +1,35 @@
+{
+  "concept_id": "alias.state_commission_must_transfer_complaint",
+  "concept_type": "alias",
+  "title": "State Commission Must Transfer Complaint",
+  "description": "Alternative names and search aliases for: State Commission Must Transfer Complaint",
+  "content": {
+    "aliases": [
+      "reassign complaint",
+      "redistribute case"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S48",
+    "obligation.state_commission_may_transfer_any_complaint_pending_before_a"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "reassign complaint",
+      "redistribute case"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

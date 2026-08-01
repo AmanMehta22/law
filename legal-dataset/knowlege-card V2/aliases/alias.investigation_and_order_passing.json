@@ -1,0 +1,39 @@
+{
+  "concept_id": "alias.investigation_and_order_passing",
+  "concept_type": "alias",
+  "title": "Investigation and Order Passing",
+  "description": "Alternative names and search aliases for: Investigation and Order Passing",
+  "content": {
+    "aliases": [
+      "Inquiry and Decision",
+      "Investigation and Judgment",
+      "Order Making Inquiry",
+      "Probe and Ruling"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S20",
+    "procedure.investigation_and_order_passing"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Inquiry and Decision",
+      "Investigation and Judgment",
+      "Order Making Inquiry",
+      "Probe and Ruling"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "concept_id": "alias.serving_notices",
+  "concept_type": "alias",
+  "title": "Serving Notices",
+  "description": "Alternative names and search aliases for: Serving Notices",
+  "content": {
+    "aliases": [
+      "giving notice",
+      "serving a complaint"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S65-1",
+    "obligation.party_serving_the_notice_must_serve_notices_by_registered_po"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "giving notice",
+      "serving a complaint"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

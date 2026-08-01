@@ -1,0 +1,41 @@
+{
+  "concept_id": "alias.recommendation_of_international_covenants",
+  "concept_type": "alias",
+  "title": "Recommendation of International Covenants",
+  "description": "Alternative names and search aliases for: Recommendation of International Covenants",
+  "content": {
+    "aliases": [
+      "UN guideline proposals",
+      "covenant recommendations",
+      "global agreement suggestions",
+      "global pact advice",
+      "international treaty proposals"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S18-2",
+    "procedure.recommendation_of_international_covenants"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "UN guideline proposals",
+      "covenant recommendations",
+      "global agreement suggestions",
+      "global pact advice",
+      "international treaty proposals"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

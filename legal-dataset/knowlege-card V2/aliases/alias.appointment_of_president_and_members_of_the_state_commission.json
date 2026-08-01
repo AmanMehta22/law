@@ -1,0 +1,41 @@
+{
+  "concept_id": "alias.appointment_of_president_and_members_of_the_state_commission",
+  "concept_type": "alias",
+  "title": "Appointment of President and members of the State Commission",
+  "description": "Alternative names and search aliases for: Appointment of President and members of the State Commission",
+  "content": {
+    "aliases": [
+      "president and members of the state commission",
+      "state commission",
+      "state commission appointment",
+      "state commission members",
+      "state commission president"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S43",
+    "procedure.appointment_of_president_and_members_of_the_state_commission"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "president and members of the state commission",
+      "state commission",
+      "state commission appointment",
+      "state commission members",
+      "state commission president"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

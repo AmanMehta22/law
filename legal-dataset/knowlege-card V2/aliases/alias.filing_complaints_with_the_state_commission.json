@@ -1,0 +1,39 @@
+{
+  "concept_id": "alias.filing_complaints_with_the_state_commission",
+  "concept_type": "alias",
+  "title": "Filing complaints with the State Commission",
+  "description": "Alternative names and search aliases for: Filing complaints with the State Commission",
+  "content": {
+    "aliases": [
+      "complaint to state commission",
+      "filing with state consumer commission",
+      "state commission complaint filing",
+      "state consumer complaint"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S47-1",
+    "procedure.filing_complaints_with_the_state_commission"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "complaint to state commission",
+      "filing with state consumer commission",
+      "state commission complaint filing",
+      "state consumer complaint"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "concept_id": "alias.filing_appeals_with_the_state_commission",
+  "concept_type": "alias",
+  "title": "Filing appeals with the State Commission",
+  "description": "Alternative names and search aliases for: Filing appeals with the State Commission",
+  "content": {
+    "aliases": [
+      "appealing to state commission",
+      "filing appeal to state commission",
+      "petitioning state commission",
+      "state commission appeals",
+      "submitting appeal to state commission"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S47-1",
+    "procedure.filing_appeals_with_the_state_commission"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "appealing to state commission",
+      "filing appeal to state commission",
+      "petitioning state commission",
+      "state commission appeals",
+      "submitting appeal to state commission"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

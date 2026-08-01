@@ -1,0 +1,35 @@
+{
+  "concept_id": "alias.product_manufacturer_or_seller_must_compensate_for_harm",
+  "concept_type": "alias",
+  "title": "Product Manufacturer Or Seller Must Compensate For Harm",
+  "description": "Alternative names and search aliases for: Product Manufacturer Or Seller Must Compensate For Harm",
+  "content": {
+    "aliases": [
+      "product manufacturer responsibility",
+      "product seller responsibility"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-34",
+    "obligation.product_manufacturer_or_product_seller_must_compensate_for_h"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "product manufacturer responsibility",
+      "product seller responsibility"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

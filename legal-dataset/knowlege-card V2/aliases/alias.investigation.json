@@ -1,0 +1,42 @@
+{
+  "concept_id": "alias.investigation",
+  "concept_type": "alias",
+  "title": "Investigation",
+  "description": "Alternative names and search aliases for: Investigation",
+  "content": {
+    "aliases": [
+      "enquiry process",
+      "examination",
+      "fact-finding",
+      "inquiry",
+      "probe"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S19-1",
+    "CPA2019-CH3-S19-3",
+    "procedure.investigation"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "enquiry process",
+      "examination",
+      "fact-finding",
+      "inquiry",
+      "probe"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

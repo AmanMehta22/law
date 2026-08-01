@@ -1,0 +1,56 @@
+{
+  "concept_id": "alias.right_to_appeal",
+  "concept_type": "alias",
+  "title": "Right to Appeal",
+  "description": "Alternative names and search aliases for: Right to Appeal",
+  "content": {
+    "aliases": [
+      "appeal process",
+      "appeal rights",
+      "complaint appeal",
+      "right to be heard",
+      "right to challenge",
+      "right to challenge an order",
+      "right to contest",
+      "right to review"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S24",
+    "CPA2019-CH4-S47-1",
+    "CPA2019-CH4-S51-1",
+    "CPA2019-CH4-S51-2",
+    "CPA2019-CH4-S51-4",
+    "CPA2019-CH4-S51-5",
+    "CPA2019-CH4-S58-1",
+    "CPA2019-CH4-S67",
+    "CPA2019-CH4-S73-1",
+    "CPA2019-CH4-S73-3",
+    "right.right_to_appeal"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "appeal process",
+      "appeal rights",
+      "complaint appeal",
+      "right to be heard",
+      "right to challenge",
+      "right to challenge an order",
+      "right to contest",
+      "right to review"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

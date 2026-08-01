@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.expert_supervision_exception",
+  "concept_type": "alias",
+  "title": "Expert Supervision Exception",
+  "description": "Alternative names and search aliases for: Expert Supervision Exception",
+  "content": {
+    "aliases": [
+      "exception to product liability"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH6-S87-2",
+    "exception.product_manufacturer_not_liable_if_product_meant_for_use_und"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "exception to product liability"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

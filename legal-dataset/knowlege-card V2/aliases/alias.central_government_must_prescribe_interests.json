@@ -1,0 +1,35 @@
+{
+  "concept_id": "alias.central_government_must_prescribe_interests",
+  "concept_type": "alias",
+  "title": "Central Government Must Prescribe Interests",
+  "description": "Alternative names and search aliases for: Central Government Must Prescribe Interests",
+  "content": {
+    "aliases": [
+      "define",
+      "specify"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH2-S3-2",
+    "obligation.central_government_must_prescribe_interests"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "define",
+      "specify"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

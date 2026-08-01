@@ -1,0 +1,45 @@
+{
+  "concept_id": "alias.design_of_a_product",
+  "concept_type": "alias",
+  "title": "Design of a Product",
+  "description": "Alternative names and search aliases for: Design of a Product",
+  "content": {
+    "aliases": [
+      "Architecture",
+      "Blueprint",
+      "Engineering Design",
+      "Manufacturing Design",
+      "Product Design",
+      "product features",
+      "product specification"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-12",
+    "definition.design"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Architecture",
+      "Blueprint",
+      "Engineering Design",
+      "Manufacturing Design",
+      "Product Design",
+      "product features",
+      "product specification"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

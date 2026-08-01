@@ -1,0 +1,41 @@
+{
+  "concept_id": "alias.restrictive_trade_practice",
+  "concept_type": "alias",
+  "title": "Restrictive Trade Practice",
+  "description": "Alternative names and search aliases for: Restrictive Trade Practice",
+  "content": {
+    "aliases": [
+      "Anti-Competitive Practice",
+      "Monopolistic Practice",
+      "Unfair Business Practice",
+      "anti-competitive practice",
+      "unfair trade practice"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-41",
+    "definition.restrictive_trade_practice"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Anti-Competitive Practice",
+      "Monopolistic Practice",
+      "Unfair Business Practice",
+      "anti-competitive practice",
+      "unfair trade practice"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

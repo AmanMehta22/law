@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.government_must_lay_annual_report_before_parliament",
+  "concept_type": "alias",
+  "title": "Government Must Lay Annual Report Before Parliament",
+  "description": "Alternative names and search aliases for: Government Must Lay Annual Report Before Parliament",
+  "content": {
+    "aliases": [
+      "laying of report"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S27-2",
+    "obligation.government_must_lay_a_copy_of_the_annual_report_before_each_"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "laying of report"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

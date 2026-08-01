@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.court_must_consider_factors_while_determining_penalty",
+  "concept_type": "alias",
+  "title": "Court Must Consider Factors While Determining Penalty",
+  "description": "Alternative names and search aliases for: Court Must Consider Factors While Determining Penalty",
+  "content": {
+    "aliases": [
+      "court consideration while determining penalty"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S21-7",
+    "obligation.court_must_consider_factors_while_determining_penalty"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "court consideration while determining penalty"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

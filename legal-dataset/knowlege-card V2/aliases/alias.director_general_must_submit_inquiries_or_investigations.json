@@ -1,0 +1,35 @@
+{
+  "concept_id": "alias.director_general_must_submit_inquiries_or_investigations",
+  "concept_type": "alias",
+  "title": "Director-General Must Submit Inquiries Or Investigations",
+  "description": "Alternative names and search aliases for: Director-General Must Submit Inquiries Or Investigations",
+  "content": {
+    "aliases": [
+      "report",
+      "submission"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S15-5",
+    "obligation.director_general_must_submit_inquiries_or_investigations"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "report",
+      "submission"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

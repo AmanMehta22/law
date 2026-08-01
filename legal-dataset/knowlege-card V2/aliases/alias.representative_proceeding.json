@@ -1,0 +1,41 @@
+{
+  "concept_id": "alias.representative_proceeding",
+  "concept_type": "alias",
+  "title": "Representative proceeding",
+  "description": "Alternative names and search aliases for: Representative proceeding",
+  "content": {
+    "aliases": [
+      "class action",
+      "collective proceeding",
+      "group action",
+      "group lawsuit",
+      "representative lawsuit"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-11",
+    "procedure.representative_proceeding"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "class action",
+      "collective proceeding",
+      "group action",
+      "group lawsuit",
+      "representative lawsuit"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.party_to_the_contract_must_not_require_excessive_security_deposits",
+  "concept_type": "alias",
+  "title": "Party To The Contract Must Not Require Excessive Security Deposits",
+  "description": "Alternative names and search aliases for: Party To The Contract Must Not Require Excessive Security Deposits",
+  "content": {
+    "aliases": [
+      "security deposit requirements"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-46",
+    "obligation.party_to_the_contract_must_not_require_excessive_security_de"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "security deposit requirements"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

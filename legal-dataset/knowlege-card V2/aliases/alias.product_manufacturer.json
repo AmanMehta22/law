@@ -1,0 +1,47 @@
+{
+  "concept_id": "alias.product_manufacturer",
+  "concept_type": "alias",
+  "title": "Product Manufacturer",
+  "description": "Alternative names and search aliases for: Product Manufacturer",
+  "content": {
+    "aliases": [
+      "Article Producer",
+      "Commodity Producer",
+      "Goods Manufacturer",
+      "Item Creator",
+      "Merchandise Maker",
+      "manufacturer",
+      "product maker",
+      "product seller"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-36",
+    "definition.product_manufacturer"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Article Producer",
+      "Commodity Producer",
+      "Goods Manufacturer",
+      "Item Creator",
+      "Merchandise Maker",
+      "manufacturer",
+      "product maker",
+      "product seller"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

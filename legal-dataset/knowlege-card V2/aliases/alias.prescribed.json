@@ -1,0 +1,47 @@
+{
+  "concept_id": "alias.prescribed",
+  "concept_type": "alias",
+  "title": "Prescribed",
+  "description": "Alternative names and search aliases for: Prescribed",
+  "content": {
+    "aliases": [
+      "Mandated",
+      "Regulated",
+      "Required",
+      "Specified",
+      "Stipulated",
+      "mandated",
+      "officially stated",
+      "required by law"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-32",
+    "definition.prescribed"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Mandated",
+      "Regulated",
+      "Required",
+      "Specified",
+      "Stipulated",
+      "mandated",
+      "officially stated",
+      "required by law"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

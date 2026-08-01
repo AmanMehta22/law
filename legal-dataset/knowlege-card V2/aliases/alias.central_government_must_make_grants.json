@@ -1,0 +1,35 @@
+{
+  "concept_id": "alias.central_government_must_make_grants",
+  "concept_type": "alias",
+  "title": "Central Government Must Make Grants",
+  "description": "Alternative names and search aliases for: Central Government Must Make Grants",
+  "content": {
+    "aliases": [
+      "allocation of funds",
+      "financial support"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S25",
+    "obligation.central_government_make_grants_of_money_to_the_central_autho"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "allocation of funds",
+      "financial support"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

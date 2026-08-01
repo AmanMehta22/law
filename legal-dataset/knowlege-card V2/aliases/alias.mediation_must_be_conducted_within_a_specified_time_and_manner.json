@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.mediation_must_be_conducted_within_a_specified_time_and_manner",
+  "concept_type": "alias",
+  "title": "Mediation Must Be Conducted Within A Specified Time And Manner",
+  "description": "Alternative names and search aliases for: Mediation Must Be Conducted Within A Specified Time And Manner",
+  "content": {
+    "aliases": [
+      "dispute resolution process"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S103-2",
+    "obligation.mediation_authority_must_conduct_mediation_within_a_specifie"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "dispute resolution process"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

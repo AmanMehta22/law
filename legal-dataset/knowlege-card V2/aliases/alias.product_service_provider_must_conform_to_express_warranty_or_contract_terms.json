@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.product_service_provider_must_conform_to_express_warranty_or_contract_terms",
+  "concept_type": "alias",
+  "title": "Product Service Provider Must Conform To Express Warranty Or Contract Terms",
+  "description": "Alternative names and search aliases for: Product Service Provider Must Conform To Express Warranty Or Contract Terms",
+  "content": {
+    "aliases": [
+      "product service provider contract obligations"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH6-S85",
+    "obligation.product_service_provider_must_conform_to_express_warranty_or"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "product service provider contract obligations"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

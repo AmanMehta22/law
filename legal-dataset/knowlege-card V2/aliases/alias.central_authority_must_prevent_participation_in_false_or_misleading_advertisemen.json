@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.central_authority_must_prevent_participation_in_false_or_misleading_advertisemen",
+  "concept_type": "alias",
+  "title": "Central Authority Must Prevent Participation In False Or Misleading Advertisements",
+  "description": "Alternative names and search aliases for: Central Authority Must Prevent Participation In False Or Misleading Advertisements",
+  "content": {
+    "aliases": [
+      "advertisements"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S18-1",
+    "obligation.central_authority_ensure_that_no_person_takes_part_in_the_pu"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "advertisements"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

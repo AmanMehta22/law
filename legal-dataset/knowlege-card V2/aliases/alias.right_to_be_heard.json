@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.right_to_be_heard",
+  "concept_type": "alias",
+  "title": "Right to be Heard",
+  "description": "Alternative names and search aliases for: Right to be Heard",
+  "content": {
+    "aliases": [
+      "hearing rights",
+      "right to a fair hearing",
+      "right to a hearing",
+      "right to express opinion",
+      "right to present case",
+      "right to representation",
+      "right to speak",
+      "right to voice"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-9",
+    "CPA2019-CH3-S21-8",
+    "CPA2019-CH4-S36-2",
+    "CPA2019-CH4-S38-2",
+    "CPA2019-CH4-S38-3",
+    "right.right_to_be_heard"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "hearing rights",
+      "right to a fair hearing",
+      "right to a hearing",
+      "right to express opinion",
+      "right to present case",
+      "right to representation",
+      "right to speak",
+      "right to voice"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "concept_id": "alias.overseeing_functioning_of_state_and_district_comisions",
+  "concept_type": "alias",
+  "title": "Overseeing Functioning Of State And District Comisions",
+  "description": "Alternative names and search aliases for: Overseeing Functioning Of State And District Comisions",
+  "content": {
+    "aliases": [
+      "district commission",
+      "functioning",
+      "overseeing",
+      "state and district commissions",
+      "state commission"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "district commission",
+      "functioning",
+      "overseeing",
+      "state and district commissions",
+      "state commission"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

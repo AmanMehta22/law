@@ -1,0 +1,39 @@
+{
+  "concept_id": "alias.cooperation_with_non_governmental_organisations",
+  "concept_type": "alias",
+  "title": "Cooperation with Non-Governmental Organisations",
+  "description": "Alternative names and search aliases for: Cooperation with Non-Governmental Organisations",
+  "content": {
+    "aliases": [
+      "NGO collaboration",
+      "civil society partnership",
+      "cooperation with non-profit organizations",
+      "partnership with NGOs"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S18-2",
+    "procedure.cooperation_with_non_governmental_organisations"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "NGO collaboration",
+      "civil society partnership",
+      "cooperation with non-profit organizations",
+      "partnership with NGOs"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

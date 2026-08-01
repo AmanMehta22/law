@@ -1,0 +1,39 @@
+{
+  "concept_id": "alias.filing_of_complaint_after_specified_period",
+  "concept_type": "alias",
+  "title": "Filing of complaint after specified period",
+  "description": "Alternative names and search aliases for: Filing of complaint after specified period",
+  "content": {
+    "aliases": [
+      "complaint filing after deadline",
+      "delayed complaint submission",
+      "filing a complaint after time limit",
+      "late complaint filing"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S69-2",
+    "procedure.filing_of_complaint_after_specified_period"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "complaint filing after deadline",
+      "delayed complaint submission",
+      "filing a complaint after time limit",
+      "late complaint filing"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "concept_id": "alias.continuance_of_old_act_for_certain_members",
+  "concept_type": "alias",
+  "title": "Continuance Of Old Act For Certain Members",
+  "description": "Alternative names and search aliases for: Continuance Of Old Act For Certain Members",
+  "content": {
+    "aliases": [
+      "new Act",
+      "old Act"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S56",
+    "exception.the_president_and_every_other_member_appointed_immediately_b"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "new Act",
+      "old Act"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

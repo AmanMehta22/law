@@ -1,0 +1,43 @@
+{
+  "concept_id": "alias.complaint_filing",
+  "concept_type": "alias",
+  "title": "Complaint filing",
+  "description": "Alternative names and search aliases for: Complaint filing",
+  "content": {
+    "aliases": [
+      "complaint lodging",
+      "complaint registration",
+      "filing a complaint",
+      "submitting a complaint"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S34-2",
+    "CPA2019-CH4-S35-1",
+    "CPA2019-CH4-S38-6",
+    "CPA2019-CH4-S47-4",
+    "CPA2019-CH4-S69-1",
+    "procedure.complaint_filing"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "complaint lodging",
+      "complaint registration",
+      "filing a complaint",
+      "submitting a complaint"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

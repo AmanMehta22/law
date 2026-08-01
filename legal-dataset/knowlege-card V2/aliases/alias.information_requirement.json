@@ -1,0 +1,39 @@
+{
+  "concept_id": "alias.information_requirement",
+  "concept_type": "alias",
+  "title": "Information Requirement",
+  "description": "Alternative names and search aliases for: Information Requirement",
+  "content": {
+    "aliases": [
+      "information needed",
+      "mandatory disclosure",
+      "necessary details",
+      "required information"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-4",
+    "procedure.information_requirement"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "information needed",
+      "mandatory disclosure",
+      "necessary details",
+      "required information"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

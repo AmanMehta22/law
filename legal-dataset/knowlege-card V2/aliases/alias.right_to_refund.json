@@ -1,0 +1,41 @@
+{
+  "concept_id": "alias.right_to_refund",
+  "concept_type": "alias",
+  "title": "Right to Refund",
+  "description": "Alternative names and search aliases for: Right to Refund",
+  "content": {
+    "aliases": [
+      "consumer refund",
+      "refund rights",
+      "right to refund",
+      "right to reimbursement",
+      "right to return"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S39-1",
+    "right.right_to_refund"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "consumer refund",
+      "refund rights",
+      "right to refund",
+      "right to reimbursement",
+      "right to return"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

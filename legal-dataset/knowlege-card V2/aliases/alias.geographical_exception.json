@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.geographical_exception",
+  "concept_type": "alias",
+  "title": "Geographical Exception",
+  "description": "Alternative names and search aliases for: Geographical Exception",
+  "content": {
+    "aliases": [
+      "India except Jammu and Kashmir"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S1-2",
+    "exception.except_the_state_of_jammu_and_kashmir"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "India except Jammu and Kashmir"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

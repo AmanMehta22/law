@@ -1,0 +1,43 @@
+{
+  "concept_id": "alias.review_of_order",
+  "concept_type": "alias",
+  "title": "Review of order",
+  "description": "Alternative names and search aliases for: Review of order",
+  "content": {
+    "aliases": [
+      "appeal of order",
+      "order assessment",
+      "order examination",
+      "re-examining an order",
+      "review of decision"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S40",
+    "CPA2019-CH4-S50",
+    "CPA2019-CH4-S60",
+    "procedure.review_of_order"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "appeal of order",
+      "order assessment",
+      "order examination",
+      "re-examining an order",
+      "review of decision"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

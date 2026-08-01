@@ -1,0 +1,34 @@
+{
+  "concept_id": "alias.complaint_filing_time_limit",
+  "concept_type": "alias",
+  "title": "Complaint Filing Time Limit",
+  "description": "Alternative names and search aliases for: Complaint Filing Time Limit",
+  "content": {
+    "aliases": [
+      "complaint deadline"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S69-1",
+    "CPA2019-CH8-S106",
+    "timeline.two_years"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "complaint deadline"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

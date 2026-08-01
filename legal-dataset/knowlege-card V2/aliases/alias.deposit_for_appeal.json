@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.deposit_for_appeal",
+  "concept_type": "alias",
+  "title": "Deposit For Appeal",
+  "description": "Alternative names and search aliases for: Deposit For Appeal",
+  "content": {
+    "aliases": [
+      "payment condition"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S41",
+    "exception.no_appeal_unless_50_of_amount_deposited"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "payment condition"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

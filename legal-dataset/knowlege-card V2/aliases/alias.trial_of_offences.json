@@ -1,0 +1,41 @@
+{
+  "concept_id": "alias.trial_of_offences",
+  "concept_type": "alias",
+  "title": "Trial of offences",
+  "description": "Alternative names and search aliases for: Trial of offences",
+  "content": {
+    "aliases": [
+      "Court trial for offences",
+      "Criminal trial",
+      "Hearing of offences",
+      "Offence trial",
+      "Prosecution of offences"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S72-3",
+    "procedure.trial_of_offences"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Court trial for offences",
+      "Criminal trial",
+      "Hearing of offences",
+      "Offence trial",
+      "Prosecution of offences"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

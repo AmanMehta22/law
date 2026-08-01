@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.penalty_for_adulterated_products_resulting_in_death",
+  "concept_type": "alias",
+  "title": "Penalty For Adulterated Products Resulting In Death",
+  "description": "Alternative names and search aliases for: Penalty For Adulterated Products Resulting In Death",
+  "content": {
+    "aliases": [
+      "penalty for adulterated products resulting in death"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH7-S90-1",
+    "penalty.manufacturing_storing_selling_distributing_or_importing_adul"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "penalty for adulterated products resulting in death"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

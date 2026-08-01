@@ -1,0 +1,35 @@
+{
+  "concept_id": "alias.national_commission_must_investigate_allegations_against_state_commission_member",
+  "concept_type": "alias",
+  "title": "National Commission Must Investigate Allegations Against State Commission Members",
+  "description": "Alternative names and search aliases for: National Commission Must Investigate Allegations Against State Commission Members",
+  "content": {
+    "aliases": [
+      "State Commission members",
+      "accountability"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S70-1",
+    "obligation.national_commission_shall_investigate_into_any_allegations_a"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "State Commission members",
+      "accountability"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

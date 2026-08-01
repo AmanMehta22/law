@@ -1,0 +1,43 @@
+{
+  "concept_id": "alias.e_commerce",
+  "concept_type": "alias",
+  "title": "E-Commerce",
+  "description": "Alternative names and search aliases for: E-Commerce",
+  "content": {
+    "aliases": [
+      "Digital Trade",
+      "Electronic Commerce",
+      "Internet Retailing",
+      "Online Shopping",
+      "electronic commerce",
+      "online commerce"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-16",
+    "definition.e_commerce"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Digital Trade",
+      "Electronic Commerce",
+      "Internet Retailing",
+      "Online Shopping",
+      "electronic commerce",
+      "online commerce"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

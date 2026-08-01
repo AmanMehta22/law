@@ -1,0 +1,47 @@
+{
+  "concept_id": "alias.trader",
+  "concept_type": "alias",
+  "title": "Trader",
+  "description": "Alternative names and search aliases for: Trader",
+  "content": {
+    "aliases": [
+      "Businessman",
+      "Dealer",
+      "Merchant",
+      "Seller",
+      "Supplier",
+      "seller",
+      "supplier",
+      "vendor"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-45",
+    "definition.trader"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Businessman",
+      "Dealer",
+      "Merchant",
+      "Seller",
+      "Supplier",
+      "seller",
+      "supplier",
+      "vendor"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

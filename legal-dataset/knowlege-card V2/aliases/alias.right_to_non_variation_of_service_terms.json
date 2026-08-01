@@ -1,0 +1,43 @@
+{
+  "concept_id": "alias.right_to_non_variation_of_service_terms",
+  "concept_type": "alias",
+  "title": "Right to Non-Variation of Service Terms",
+  "description": "Alternative names and search aliases for: Right to Non-Variation of Service Terms",
+  "content": {
+    "aliases": [
+      "consistent service rights",
+      "job security",
+      "no change in service conditions",
+      "stable service terms",
+      "terms of service",
+      "unmodified service agreement"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S55-2",
+    "right.right_to_non_variation_of_service_terms"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "consistent service rights",
+      "job security",
+      "no change in service conditions",
+      "stable service terms",
+      "terms of service",
+      "unmodified service agreement"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

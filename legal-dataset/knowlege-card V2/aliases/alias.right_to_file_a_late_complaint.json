@@ -1,0 +1,41 @@
+{
+  "concept_id": "alias.right_to_file_a_late_complaint",
+  "concept_type": "alias",
+  "title": "Right to File a Late Complaint",
+  "description": "Alternative names and search aliases for: Right to File a Late Complaint",
+  "content": {
+    "aliases": [
+      "complaint filing deadline extension",
+      "delayed complaint submission",
+      "extension for complaint filing",
+      "late complaint filing rights",
+      "right to delayed complaint"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S69-2",
+    "right.right_to_file_a_late_complaint"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "complaint filing deadline extension",
+      "delayed complaint submission",
+      "extension for complaint filing",
+      "late complaint filing rights",
+      "right to delayed complaint"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

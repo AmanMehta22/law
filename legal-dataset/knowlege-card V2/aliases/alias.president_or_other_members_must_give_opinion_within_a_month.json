@@ -1,0 +1,35 @@
+{
+  "concept_id": "alias.president_or_other_members_must_give_opinion_within_a_month",
+  "concept_type": "alias",
+  "title": "President Or Other Members Must Give Opinion Within A Month",
+  "description": "Alternative names and search aliases for: President Or Other Members Must Give Opinion Within A Month",
+  "content": {
+    "aliases": [
+      "deadline",
+      "timeframe"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S47-3",
+    "obligation.president_or_other_members_must_give_opinion_on_the_referred"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "deadline",
+      "timeframe"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

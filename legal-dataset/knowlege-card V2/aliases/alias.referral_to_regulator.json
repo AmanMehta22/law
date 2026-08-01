@@ -1,0 +1,41 @@
+{
+  "concept_id": "alias.referral_to_regulator",
+  "concept_type": "alias",
+  "title": "Referral to Regulator",
+  "description": "Alternative names and search aliases for: Referral to Regulator",
+  "content": {
+    "aliases": [
+      "complaint to regulator",
+      "filing with regulator",
+      "regulator notification",
+      "regulatory body referral",
+      "report to regulator"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S19-2",
+    "procedure.referral_to_regulator"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "complaint to regulator",
+      "filing with regulator",
+      "regulator notification",
+      "regulatory body referral",
+      "report to regulator"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

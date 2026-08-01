@@ -1,0 +1,43 @@
+{
+  "concept_id": "alias.electronic_service_provider",
+  "concept_type": "alias",
+  "title": "Electronic Service Provider",
+  "description": "Alternative names and search aliases for: Electronic Service Provider",
+  "content": {
+    "aliases": [
+      "Digital Service Provider",
+      "E-Service Provider",
+      "Internet Service Provider",
+      "Online Service Provider",
+      "e-service provider",
+      "online service provider"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-17",
+    "definition.electronic_service_provider"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Digital Service Provider",
+      "E-Service Provider",
+      "Internet Service Provider",
+      "Online Service Provider",
+      "e-service provider",
+      "online service provider"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

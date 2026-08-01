@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.state_council_meeting_obligation",
+  "concept_type": "alias",
+  "title": "State Council Meeting Obligation",
+  "description": "Alternative names and search aliases for: State Council Meeting Obligation",
+  "content": {
+    "aliases": [
+      "State Council meeting requirement"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH2-S6-3",
+    "obligation.state_council_shall_meet"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "State Council meeting requirement"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

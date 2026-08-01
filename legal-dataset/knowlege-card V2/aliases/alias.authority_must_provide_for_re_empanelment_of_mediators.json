@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.authority_must_provide_for_re_empanelment_of_mediators",
+  "concept_type": "alias",
+  "title": "Authority Must Provide For Re-Empanelment Of Mediators",
+  "description": "Alternative names and search aliases for: Authority Must Provide For Re-Empanelment Of Mediators",
+  "content": {
+    "aliases": [
+      "re-eligibility criteria"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S103-2",
+    "obligation.authority_must_provide_for_re_empanelment_of_mediators"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "re-eligibility criteria"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

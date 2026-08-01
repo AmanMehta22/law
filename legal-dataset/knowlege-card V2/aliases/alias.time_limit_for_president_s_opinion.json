@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.time_limit_for_president_s_opinion",
+  "concept_type": "alias",
+  "title": "Time Limit For President'S Opinion",
+  "description": "Alternative names and search aliases for: Time Limit For President'S Opinion",
+  "content": {
+    "aliases": [
+      "opinion timeframe"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S58-3",
+    "exception.provided_that_the_opinion_shall_be_given_within_a_period_of_"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "opinion timeframe"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

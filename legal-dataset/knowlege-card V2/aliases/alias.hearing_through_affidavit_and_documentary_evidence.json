@@ -1,0 +1,35 @@
+{
+  "concept_id": "alias.hearing_through_affidavit_and_documentary_evidence",
+  "concept_type": "alias",
+  "title": "Hearing Through Affidavit And Documentary Evidence",
+  "description": "Alternative names and search aliases for: Hearing Through Affidavit And Documentary Evidence",
+  "content": {
+    "aliases": [
+      "in-person hearing",
+      "video conference hearing"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-6",
+    "exception.the_district_commission_may_allow_hearing_or_examination_of_"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "in-person hearing",
+      "video conference hearing"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

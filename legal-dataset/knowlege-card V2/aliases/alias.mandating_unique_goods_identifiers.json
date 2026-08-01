@@ -1,0 +1,39 @@
+{
+  "concept_id": "alias.mandating_unique_goods_identifiers",
+  "concept_type": "alias",
+  "title": "Mandating Unique Goods Identifiers",
+  "description": "Alternative names and search aliases for: Mandating Unique Goods Identifiers",
+  "content": {
+    "aliases": [
+      "Goods Tracking Code",
+      "Product Identification Requirement",
+      "Product Labeling Regulation",
+      "Unique Identifier Mandate"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S18-2",
+    "procedure.mandating_unique_goods_identifiers"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Goods Tracking Code",
+      "Product Identification Requirement",
+      "Product Labeling Regulation",
+      "Unique Identifier Mandate"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

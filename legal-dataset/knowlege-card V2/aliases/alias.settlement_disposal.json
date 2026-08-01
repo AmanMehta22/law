@@ -1,0 +1,41 @@
+{
+  "concept_id": "alias.settlement_disposal",
+  "concept_type": "alias",
+  "title": "Settlement Disposal",
+  "description": "Alternative names and search aliases for: Settlement Disposal",
+  "content": {
+    "aliases": [
+      "Case settlement disposal",
+      "Disposal of settlement",
+      "Disposing of a settlement",
+      "Finalizing a settlement",
+      "Settlement resolution"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S81-1",
+    "procedure.settlement_disposal"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Case settlement disposal",
+      "Disposal of settlement",
+      "Disposing of a settlement",
+      "Finalizing a settlement",
+      "Settlement resolution"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

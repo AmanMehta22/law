@@ -1,0 +1,41 @@
+{
+  "concept_id": "alias.unfair_contract",
+  "concept_type": "alias",
+  "title": "Unfair Contract",
+  "description": "Alternative names and search aliases for: Unfair Contract",
+  "content": {
+    "aliases": [
+      "Abusive Contract",
+      "One-Sided Contract",
+      "Unconscionable Contract",
+      "one-sided contract",
+      "unconscionable contract"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-46",
+    "definition.unfair_contract"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Abusive Contract",
+      "One-Sided Contract",
+      "Unconscionable Contract",
+      "one-sided contract",
+      "unconscionable contract"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

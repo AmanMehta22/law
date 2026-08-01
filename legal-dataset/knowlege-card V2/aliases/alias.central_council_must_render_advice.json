@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.central_council_must_render_advice",
+  "concept_type": "alias",
+  "title": "Central Council Must Render Advice",
+  "description": "Alternative names and search aliases for: Central Council Must Render Advice",
+  "content": {
+    "aliases": [
+      "Central Council advice"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH2-S5",
+    "obligation.central_council_must_render_advice_on_promotion_and_protecti"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Central Council advice"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

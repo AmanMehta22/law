@@ -1,0 +1,41 @@
+{
+  "concept_id": "alias.right_to_replacement",
+  "concept_type": "alias",
+  "title": "Right to Replacement",
+  "description": "Alternative names and search aliases for: Right to Replacement",
+  "content": {
+    "aliases": [
+      "consumer replacement",
+      "replacement rights",
+      "right to exchange",
+      "right to replacement",
+      "right to substitute"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S39-1",
+    "right.right_to_replacement"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "consumer replacement",
+      "replacement rights",
+      "right to exchange",
+      "right to replacement",
+      "right to substitute"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

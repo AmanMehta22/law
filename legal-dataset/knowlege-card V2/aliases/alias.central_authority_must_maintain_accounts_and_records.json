@@ -1,0 +1,35 @@
+{
+  "concept_id": "alias.central_authority_must_maintain_accounts_and_records",
+  "concept_type": "alias",
+  "title": "Central Authority Must Maintain Accounts And Records",
+  "description": "Alternative names and search aliases for: Central Authority Must Maintain Accounts And Records",
+  "content": {
+    "aliases": [
+      "Central Authority",
+      "Comptroller and Auditor-General of India"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S26-1",
+    "obligation.central_authority_must_maintain_proper_accounts_and_other_re"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Central Authority",
+      "Comptroller and Auditor-General of India"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

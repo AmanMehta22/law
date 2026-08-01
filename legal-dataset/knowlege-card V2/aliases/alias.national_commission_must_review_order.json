@@ -1,0 +1,35 @@
+{
+  "concept_id": "alias.national_commission_must_review_order",
+  "concept_type": "alias",
+  "title": "National Commission Must Review Order",
+  "description": "Alternative names and search aliases for: National Commission Must Review Order",
+  "content": {
+    "aliases": [
+      "re-examine",
+      "reconsider"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S60",
+    "obligation.national_commission_shall_review_any_of_the_order_passed_by_"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "re-examine",
+      "reconsider"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

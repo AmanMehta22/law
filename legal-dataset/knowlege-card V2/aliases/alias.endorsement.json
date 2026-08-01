@@ -1,0 +1,43 @@
+{
+  "concept_id": "alias.endorsement",
+  "concept_type": "alias",
+  "title": "Endorsement",
+  "description": "Alternative names and search aliases for: Endorsement",
+  "content": {
+    "aliases": [
+      "Approval",
+      "Celebrity Endorsement",
+      "Recommendation",
+      "Testimonial",
+      "recommendation",
+      "testimonial"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-18",
+    "definition.endorsement"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Approval",
+      "Celebrity Endorsement",
+      "Recommendation",
+      "Testimonial",
+      "recommendation",
+      "testimonial"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

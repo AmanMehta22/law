@@ -1,0 +1,43 @@
+{
+  "concept_id": "alias.consumer_rights",
+  "concept_type": "alias",
+  "title": "Consumer Rights",
+  "description": "Alternative names and search aliases for: Consumer Rights",
+  "content": {
+    "aliases": [
+      "Buyer Rights",
+      "Consumer Protection",
+      "Consumer Welfare",
+      "Customer Rights",
+      "consumer interests",
+      "customer rights"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-9",
+    "definition.consumer_rights"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Buyer Rights",
+      "Consumer Protection",
+      "Consumer Welfare",
+      "Customer Rights",
+      "consumer interests",
+      "customer rights"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "concept_id": "alias.admissibility_decision_time_limit",
+  "concept_type": "alias",
+  "title": "Admissibility Decision Time Limit",
+  "description": "Alternative names and search aliases for: Admissibility Decision Time Limit",
+  "content": {
+    "aliases": [
+      "complaint admission"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S36-2",
+    "CPA2019-CH4-S38-2",
+    "timeline.twenty_one_days"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "complaint admission"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

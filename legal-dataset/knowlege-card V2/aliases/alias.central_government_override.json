@@ -1,0 +1,35 @@
+{
+  "concept_id": "alias.central_government_override",
+  "concept_type": "alias",
+  "title": "Central Government Override",
+  "description": "Alternative names and search aliases for: Central Government Override",
+  "content": {
+    "aliases": [
+      "District Commission powers"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S34-1",
+    "CPA2019-CH4-S47-1",
+    "exception.central_government_may_prescribe_a_different_value",
+    "exception.the_central_government_can_prescribe_a_different_value"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "District Commission powers"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

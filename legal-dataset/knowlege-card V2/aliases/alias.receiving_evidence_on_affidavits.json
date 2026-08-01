@@ -1,0 +1,41 @@
+{
+  "concept_id": "alias.receiving_evidence_on_affidavits",
+  "concept_type": "alias",
+  "title": "Receiving evidence on affidavits",
+  "description": "Alternative names and search aliases for: Receiving evidence on affidavits",
+  "content": {
+    "aliases": [
+      "affidavit evidence",
+      "evidence by affidavit",
+      "hearing evidence by affidavit",
+      "sworn testimony",
+      "written statements"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-9",
+    "procedure.receiving_evidence_on_affidavits"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "affidavit evidence",
+      "evidence by affidavit",
+      "hearing evidence by affidavit",
+      "sworn testimony",
+      "written statements"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

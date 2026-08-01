@@ -1,0 +1,40 @@
+{
+  "concept_id": "alias.right_to_information",
+  "concept_type": "alias",
+  "title": "Right to Information",
+  "description": "Alternative names and search aliases for: Right to Information",
+  "content": {
+    "aliases": [
+      "disclosure rights",
+      "information access rights",
+      "right to know",
+      "transparency rights"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-11",
+    "CPA2019-CH1-S2-9",
+    "right.right_to_information"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "disclosure rights",
+      "information access rights",
+      "right to know",
+      "transparency rights"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "concept_id": "alias.proof_of_sufficient_cause",
+  "concept_type": "alias",
+  "title": "Proof Of Sufficient Cause",
+  "description": "Alternative names and search aliases for: Proof Of Sufficient Cause",
+  "content": {
+    "aliases": [
+      "reasonable grounds"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S41",
+    "CPA2019-CH4-S51-1",
+    "CPA2019-CH4-S67",
+    "evidence.written_explanation"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "reasonable grounds"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

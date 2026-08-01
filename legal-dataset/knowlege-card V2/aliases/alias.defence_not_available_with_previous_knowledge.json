@@ -1,0 +1,35 @@
+{
+  "concept_id": "alias.defence_not_available_with_previous_knowledge",
+  "concept_type": "alias",
+  "title": "Defence Not Available With Previous Knowledge",
+  "description": "Alternative names and search aliases for: Defence Not Available With Previous Knowledge",
+  "content": {
+    "aliases": [
+      "exception",
+      "exemption"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S21-6",
+    "exception.such_defence_is_not_available_if_the_person_had_previous_kno"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "exception",
+      "exemption"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

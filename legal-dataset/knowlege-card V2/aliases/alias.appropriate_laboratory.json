@@ -1,0 +1,43 @@
+{
+  "concept_id": "alias.appropriate_laboratory",
+  "concept_type": "alias",
+  "title": "Appropriate Laboratory",
+  "description": "Alternative names and search aliases for: Appropriate Laboratory",
+  "content": {
+    "aliases": [
+      "Accredited Lab",
+      "Certification Lab",
+      "Recognized Lab",
+      "Testing Lab",
+      "approved lab",
+      "recognised lab"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-2",
+    "definition.appropriate_laboratory"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Accredited Lab",
+      "Certification Lab",
+      "Recognized Lab",
+      "Testing Lab",
+      "approved lab",
+      "recognised lab"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

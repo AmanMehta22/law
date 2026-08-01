@@ -1,0 +1,41 @@
+{
+  "concept_id": "alias.right_to_safety",
+  "concept_type": "alias",
+  "title": "Right to Safety",
+  "description": "Alternative names and search aliases for: Right to Safety",
+  "content": {
+    "aliases": [
+      "consumer safety",
+      "right to protection",
+      "right to safety",
+      "right to security",
+      "safety rights"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S39-1",
+    "right.right_to_safety"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "consumer safety",
+      "right to protection",
+      "right to safety",
+      "right to security",
+      "safety rights"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

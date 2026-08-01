@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.penalty_for_manufacturing_storing_selling_distributing_or_importing_adulterated_",
+  "concept_type": "alias",
+  "title": "Penalty For Manufacturing, Storing, Selling, Distributing Or Importing Adulterated Products",
+  "description": "Alternative names and search aliases for: Penalty For Manufacturing, Storing, Selling, Distributing Or Importing Adulterated Products",
+  "content": {
+    "aliases": [
+      "penalty for adulterated products"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH7-S90-1",
+    "penalty.manufacturing_storing_selling_distributing_or_importing_prod"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "penalty for adulterated products"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

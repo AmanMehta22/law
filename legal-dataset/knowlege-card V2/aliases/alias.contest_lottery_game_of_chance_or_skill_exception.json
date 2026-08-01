@@ -1,0 +1,35 @@
+{
+  "concept_id": "alias.contest_lottery_game_of_chance_or_skill_exception",
+  "concept_type": "alias",
+  "title": "Contest, Lottery, Game Of Chance Or Skill Exception",
+  "description": "Alternative names and search aliases for: Contest, Lottery, Game Of Chance Or Skill Exception",
+  "content": {
+    "aliases": [
+      "promotion",
+      "sale"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-47",
+    "exception.except_such_contest_lottery_game_of_chance_or_skill_as_may_b"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "promotion",
+      "sale"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "concept_id": "alias.right_to_review",
+  "concept_type": "alias",
+  "title": "Right to Review",
+  "description": "Alternative names and search aliases for: Right to Review",
+  "content": {
+    "aliases": [
+      "consumer review",
+      "review rights",
+      "right to appeal",
+      "right to re-examine",
+      "right to reconsideration",
+      "right to review"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S50",
+    "CPA2019-CH4-S60",
+    "right.right_to_review"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "consumer review",
+      "review rights",
+      "right to appeal",
+      "right to re-examine",
+      "right to reconsideration",
+      "right to review"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

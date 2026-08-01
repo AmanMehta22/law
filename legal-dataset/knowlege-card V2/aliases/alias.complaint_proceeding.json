@@ -1,0 +1,39 @@
+{
+  "concept_id": "alias.complaint_proceeding",
+  "concept_type": "alias",
+  "title": "Complaint proceeding",
+  "description": "Alternative names and search aliases for: Complaint proceeding",
+  "content": {
+    "aliases": [
+      "complaint adjudication",
+      "complaint hearing",
+      "complaint proceedings",
+      "complaint trial"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-1",
+    "procedure.complaint_proceeding"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "complaint adjudication",
+      "complaint hearing",
+      "complaint proceedings",
+      "complaint trial"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

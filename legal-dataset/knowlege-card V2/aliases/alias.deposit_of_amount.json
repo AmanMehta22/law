@@ -1,0 +1,39 @@
+{
+  "concept_id": "alias.deposit_of_amount",
+  "concept_type": "alias",
+  "title": "Deposit of amount",
+  "description": "Alternative names and search aliases for: Deposit of amount",
+  "content": {
+    "aliases": [
+      "amount deposit",
+      "funds deposit",
+      "monetary deposit",
+      "payment of amount"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S101-2",
+    "procedure.deposit_of_amount"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "amount deposit",
+      "funds deposit",
+      "monetary deposit",
+      "payment of amount"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

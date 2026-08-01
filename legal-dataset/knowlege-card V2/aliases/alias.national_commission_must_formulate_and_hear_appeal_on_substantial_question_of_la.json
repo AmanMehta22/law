@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.national_commission_must_formulate_and_hear_appeal_on_substantial_question_of_la",
+  "concept_type": "alias",
+  "title": "National Commission Must Formulate And Hear Appeal On Substantial Question Of Law",
+  "description": "Alternative names and search aliases for: National Commission Must Formulate And Hear Appeal On Substantial Question Of Law",
+  "content": {
+    "aliases": [
+      "formulate and hear appeal"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S51-4",
+    "obligation.national_commission_must_formulate_and_hear_appeal_on_substa"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "formulate and hear appeal"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

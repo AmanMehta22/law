@@ -1,0 +1,43 @@
+{
+  "concept_id": "alias.express_warranty",
+  "concept_type": "alias",
+  "title": "Express Warranty",
+  "description": "Alternative names and search aliases for: Express Warranty",
+  "content": {
+    "aliases": [
+      "Clear Promise",
+      "Explicit Warranty",
+      "Stated Warranty",
+      "Written Guarantee",
+      "product guarantee",
+      "warranty"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-20",
+    "definition.express_warranty"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Clear Promise",
+      "Explicit Warranty",
+      "Stated Warranty",
+      "Written Guarantee",
+      "product guarantee",
+      "warranty"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

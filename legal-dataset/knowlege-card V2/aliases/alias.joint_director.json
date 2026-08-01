@@ -1,0 +1,40 @@
+{
+  "concept_id": "alias.joint_director",
+  "concept_type": "alias",
+  "title": "Joint Director",
+  "description": "Alternative names and search aliases for: Joint Director",
+  "content": {
+    "aliases": [
+      "Additional Director",
+      "JD",
+      "Joint Head"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S15-2",
+    "CPA2019-CH3-S15-3",
+    "CPA2019-CH3-S15-4",
+    "CPA2019-CH8-S95",
+    "authority.joint_director"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Additional Director",
+      "JD",
+      "Joint Head"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

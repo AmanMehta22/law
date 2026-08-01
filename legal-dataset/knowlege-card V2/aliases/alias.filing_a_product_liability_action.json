@@ -1,0 +1,41 @@
+{
+  "concept_id": "alias.filing_a_product_liability_action",
+  "concept_type": "alias",
+  "title": "Filing a product liability action",
+  "description": "Alternative names and search aliases for: Filing a product liability action",
+  "content": {
+    "aliases": [
+      "claiming product liability",
+      "filing a product defect lawsuit",
+      "product liability claim",
+      "product liability lawsuit",
+      "suing for product defect"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-35",
+    "procedure.filing_a_product_liability_action"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "claiming product liability",
+      "filing a product defect lawsuit",
+      "product liability claim",
+      "product liability lawsuit",
+      "suing for product defect"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

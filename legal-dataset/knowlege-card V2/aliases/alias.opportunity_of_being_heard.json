@@ -1,0 +1,35 @@
+{
+  "concept_id": "alias.opportunity_of_being_heard",
+  "concept_type": "alias",
+  "title": "Opportunity Of Being Heard",
+  "description": "Alternative names and search aliases for: Opportunity Of Being Heard",
+  "content": {
+    "aliases": [
+      "hearing opportunity",
+      "right to be heard"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S20",
+    "exception.the_central_authority_shall_give_the_person_an_opportunity_o"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "hearing opportunity",
+      "right to be heard"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

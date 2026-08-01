@@ -1,0 +1,35 @@
+{
+  "concept_id": "alias.commission_must_pass_order_and_dispose_of_matter",
+  "concept_type": "alias",
+  "title": "Commission Must Pass Order And Dispose Of Matter",
+  "description": "Alternative names and search aliases for: Commission Must Pass Order And Dispose Of Matter",
+  "content": {
+    "aliases": [
+      "consumer complaint",
+      "dispute resolution"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S81-1",
+    "obligation.district_commission_or_state_commission_or_national_commissi"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "consumer complaint",
+      "dispute resolution"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "concept_id": "alias.compounding_of_offence",
+  "concept_type": "alias",
+  "title": "Compounding of offence",
+  "description": "Alternative names and search aliases for: Compounding of offence",
+  "content": {
+    "aliases": [
+      "compromise on penalty",
+      "offence compounding",
+      "penalty waiver",
+      "settlement of offence"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S96-1",
+    "CPA2019-CH8-S96-2",
+    "penalty.offence_punishable_under_sections_88_and_89",
+    "penalty.offence_under_sub_section_1",
+    "procedure.compounding_of_offence"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "compromise on penalty",
+      "offence compounding",
+      "penalty waiver",
+      "settlement of offence"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

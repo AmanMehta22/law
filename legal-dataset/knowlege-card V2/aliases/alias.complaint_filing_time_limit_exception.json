@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.complaint_filing_time_limit_exception",
+  "concept_type": "alias",
+  "title": "Complaint Filing Time Limit Exception",
+  "description": "Alternative names and search aliases for: Complaint Filing Time Limit Exception",
+  "content": {
+    "aliases": [
+      "late complaint filing"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S69-2",
+    "exception.a_complaint_may_be_entertained_after_the_period_specified_in"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "late complaint filing"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

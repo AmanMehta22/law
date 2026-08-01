@@ -1,0 +1,45 @@
+{
+  "concept_id": "alias.consumer_dispute",
+  "concept_type": "alias",
+  "title": "Consumer Dispute",
+  "description": "Alternative names and search aliases for: Consumer Dispute",
+  "content": {
+    "aliases": [
+      "Conflict",
+      "Consumer Complaint",
+      "Dispute",
+      "Grievance",
+      "Issue",
+      "consumer complaint dispute",
+      "disputed consumer claim"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-8",
+    "definition.consumer_dispute"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Conflict",
+      "Consumer Complaint",
+      "Dispute",
+      "Grievance",
+      "Issue",
+      "consumer complaint dispute",
+      "disputed consumer claim"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

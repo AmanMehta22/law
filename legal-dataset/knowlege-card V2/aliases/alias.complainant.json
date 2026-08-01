@@ -1,0 +1,43 @@
+{
+  "concept_id": "alias.complainant",
+  "concept_type": "alias",
+  "title": "Complainant",
+  "description": "Alternative names and search aliases for: Complainant",
+  "content": {
+    "aliases": [
+      "Appellant",
+      "Claimant",
+      "Consumer",
+      "Plaintiff",
+      "claimant",
+      "plaintiff"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-5",
+    "definition.complainant"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Appellant",
+      "Claimant",
+      "Consumer",
+      "Plaintiff",
+      "claimant",
+      "plaintiff"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

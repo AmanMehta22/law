@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.consumer_mediation_cell_must_maintain_information",
+  "concept_type": "alias",
+  "title": "Consumer Mediation Cell Must Maintain Information",
+  "description": "Alternative names and search aliases for: Consumer Mediation Cell Must Maintain Information",
+  "content": {
+    "aliases": [
+      "record keeping"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S103-2",
+    "obligation.consumer_mediation_cell_must_maintain_information"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "record keeping"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

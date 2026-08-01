@@ -1,0 +1,41 @@
+{
+  "concept_id": "alias.supreme_court",
+  "concept_type": "alias",
+  "title": "Supreme Court",
+  "description": "Alternative names and search aliases for: Supreme Court",
+  "content": {
+    "aliases": [
+      "Apex Court",
+      "Federal Court",
+      "Highest Court",
+      "National Court"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S67",
+    "CPA2019-CH4-S73-1",
+    "CPA2019-CH4-S73-3",
+    "authority.supreme_court"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Apex Court",
+      "Federal Court",
+      "Highest Court",
+      "National Court"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

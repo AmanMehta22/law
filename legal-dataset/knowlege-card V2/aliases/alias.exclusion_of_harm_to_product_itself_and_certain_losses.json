@@ -1,0 +1,35 @@
+{
+  "concept_id": "alias.exclusion_of_harm_to_product_itself_and_certain_losses",
+  "concept_type": "alias",
+  "title": "Exclusion Of Harm To Product Itself And Certain Losses",
+  "description": "Alternative names and search aliases for: Exclusion Of Harm To Product Itself And Certain Losses",
+  "content": {
+    "aliases": [
+      "commercial loss",
+      "damage to product"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-22",
+    "exception.does_not_include_harm_caused_to_a_product_itself_or_any_dama"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "commercial loss",
+      "damage to product"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

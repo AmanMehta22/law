@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.central_authority_must_engage_experts_according_to_regulations",
+  "concept_type": "alias",
+  "title": "Central Authority Must Engage Experts According To Regulations",
+  "description": "Alternative names and search aliases for: Central Authority Must Engage Experts According To Regulations",
+  "content": {
+    "aliases": [
+      "Consumer Protection Authority"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S13-3",
+    "obligation.central_authority_must_engage_experts_and_professionals"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Consumer Protection Authority"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

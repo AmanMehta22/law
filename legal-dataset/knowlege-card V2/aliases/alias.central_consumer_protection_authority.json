@@ -1,0 +1,38 @@
+{
+  "concept_id": "alias.central_consumer_protection_authority",
+  "concept_type": "alias",
+  "title": "Central Consumer Protection Authority",
+  "description": "Alternative names and search aliases for: Central Consumer Protection Authority",
+  "content": {
+    "aliases": [
+      "CCPA",
+      "Central Authority",
+      "Consumer Protection Authority"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-4",
+    "CPA2019-CH3-S10-1",
+    "authority.central_consumer_protection_authority"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "CCPA",
+      "Central Authority",
+      "Consumer Protection Authority"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

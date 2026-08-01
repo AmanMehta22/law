@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.allegation_in_writing",
+  "concept_type": "alias",
+  "title": "Allegation In Writing",
+  "description": "Alternative names and search aliases for: Allegation In Writing",
+  "content": {
+    "aliases": [
+      "written complaint"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-6",
+    "evidence.written_complaint"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "written complaint"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

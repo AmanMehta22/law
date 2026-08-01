@@ -1,0 +1,79 @@
+{
+  "concept_id": "alias.central_government",
+  "concept_type": "alias",
+  "title": "Central Government",
+  "description": "Alternative names and search aliases for: Central Government",
+  "content": {
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S1-3",
+    "CPA2019-CH1-S1-4",
+    "CPA2019-CH1-S2-2",
+    "CPA2019-CH1-S2-32",
+    "CPA2019-CH1-S2-5",
+    "CPA2019-CH2-S3-1",
+    "CPA2019-CH2-S6-2",
+    "CPA2019-CH3-S10-1",
+    "CPA2019-CH3-S10-2",
+    "CPA2019-CH3-S10-3",
+    "CPA2019-CH3-S11",
+    "CPA2019-CH3-S13-1",
+    "CPA2019-CH3-S15-2",
+    "CPA2019-CH3-S18-2",
+    "CPA2019-CH3-S19-1",
+    "CPA2019-CH3-S23",
+    "CPA2019-CH3-S25",
+    "CPA2019-CH3-S26-4",
+    "CPA2019-CH3-S27-1",
+    "CPA2019-CH4-S29",
+    "CPA2019-CH4-S34-1",
+    "CPA2019-CH4-S35-1",
+    "CPA2019-CH4-S38-9",
+    "CPA2019-CH4-S42-3",
+    "CPA2019-CH4-S43",
+    "CPA2019-CH4-S47-1",
+    "CPA2019-CH4-S53-2",
+    "CPA2019-CH4-S55-1",
+    "CPA2019-CH4-S57-1",
+    "CPA2019-CH4-S58-1",
+    "CPA2019-CH4-S70-1",
+    "CPA2019-CH4-S70-4",
+    "CPA2019-CH5-S74-2",
+    "CPA2019-CH8-S101-1",
+    "CPA2019-CH8-S102-1",
+    "CPA2019-CH8-S103-1",
+    "CPA2019-CH8-S104-1",
+    "CPA2019-CH8-S106",
+    "CPA2019-CH8-S94",
+    "CPA2019-CH8-S99-1",
+    "CPA2019-CH8-S99-2",
+    "authority.central_government"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

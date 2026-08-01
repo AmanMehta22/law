@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.district_commission_must_give_opportunity_of_being_heard",
+  "concept_type": "alias",
+  "title": "District Commission Must Give Opportunity Of Being Heard",
+  "description": "Alternative names and search aliases for: District Commission Must Give Opportunity Of Being Heard",
+  "content": {
+    "aliases": [
+      "fair hearing"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S36-2",
+    "obligation.district_commission_must_give_opportunity_of_being_heard_to_"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "fair hearing"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

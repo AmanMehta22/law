@@ -1,0 +1,35 @@
+{
+  "concept_id": "alias.national_commission_must_oversee_state_commission_functioning",
+  "concept_type": "alias",
+  "title": "National Commission Must Oversee State Commission Functioning",
+  "description": "Alternative names and search aliases for: National Commission Must Oversee State Commission Functioning",
+  "content": {
+    "aliases": [
+      "consumer protection",
+      "regulatory supervision"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S70-1",
+    "obligation.national_commission_shall_oversee_the_functioning_of_the_sta"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "consumer protection",
+      "regulatory supervision"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

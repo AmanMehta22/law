@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.district_commission_must_settle_consumer_dispute",
+  "concept_type": "alias",
+  "title": "District Commission Must Settle Consumer Dispute",
+  "description": "Alternative names and search aliases for: District Commission Must Settle Consumer Dispute",
+  "content": {
+    "aliases": [
+      "dispute resolution"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-3",
+    "obligation.district_commission_must_settle_the_consumer_dispute"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "dispute resolution"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

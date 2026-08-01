@@ -1,0 +1,33 @@
+{
+  "concept_id": "alias.proof_of_manufacturing_defect",
+  "concept_type": "alias",
+  "title": "Proof Of Manufacturing Defect",
+  "description": "Alternative names and search aliases for: Proof Of Manufacturing Defect",
+  "content": {
+    "aliases": [
+      "product flaw"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH6-S84-1",
+    "evidence.evidence_of_manufacturing_process_quality_control_records"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "product flaw"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}
