@@ -1,0 +1,38 @@
+{
+  "id": "CPA2019-CH8-S96-1",
+  "node_type": "section",
+  "act_id": "CPA2019",
+  "chapter_number": 8,
+  "section_number": "96",
+  "subsection_number": "(1)",
+  "term": null,
+  "definition": null,
+  "official_text": "Any offence punishable under sections 88 and 89, may, either before or after the institution of the prosecution, be compounded, on payment of such amount as may be prescribed: Provided that no compounding of such offence shall be made without the leave of the court before which a complaint has been filed under section 92: Provided further that such sum shall not, in any case, exceed the maximum amount of the fine, which may be imposed under this Act for the offence so compounded.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "VIII",
+      "section": "96",
+      "subsection": "(1)"
+    }
+  ],
+  "references": [
+    {
+      "target": "CPA2019-CH7-S88",
+      "relation": "refers_to"
+    },
+    {
+      "target": "CPA2019-CH7-S89",
+      "relation": "refers_to"
+    },
+    {
+      "target": "CPA2019-CH7-S92",
+      "relation": "refers_to"
+    }
+  ],
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "version": "2019"
+  }
+}

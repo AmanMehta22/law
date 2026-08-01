@@ -1,0 +1,30 @@
+{
+  "id": "CPA2019-CH3-S22-5",
+  "node_type": "section",
+  "act_id": "CPA2019",
+  "chapter_number": 3,
+  "section_number": "22",
+  "subsection_number": "(5)",
+  "term": null,
+  "definition": null,
+  "official_text": "In the case of articles other than the articles referred to in sub-section (4), provisions contained in clause (c) of sub-section (2) of section 38 shall mutatis mutandis apply in relation to analysis or tests.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "III",
+      "section": "22",
+      "subsection": "(5)"
+    }
+  ],
+  "references": [
+    {
+      "target": "CPA2019-CH4-S38-2",
+      "relation": "refers_to"
+    }
+  ],
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "version": "2019"
+  }
+}

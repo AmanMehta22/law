@@ -1,0 +1,154 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://legal-dataset.in/schema/definition.json",
+  "title": "Legal Definition Node",
+  "description": "One legal definition, manually transcribed from an official Act. node_type MUST be 'definition'.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "node_type",
+    "act_id",
+    "chapter_number",
+    "section_number",
+    "subsection_number",
+    "term",
+    "definition",
+    "official_text",
+    "citations",
+    "references",
+    "metadata"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[A-Z0-9]+-CH[0-9]+-S[0-9]+(-[0-9]+)?$",
+      "examples": [
+        "CPA2019-CH1-S2-1"
+      ]
+    },
+    "node_type": {
+      "const": "definition"
+    },
+    "act_id": {
+      "type": "string",
+      "examples": [
+        "CPA2019"
+      ]
+    },
+    "chapter_number": {
+      "type": "integer",
+      "minimum": 1,
+      "examples": [
+        1
+      ]
+    },
+    "section_number": {
+      "type": "string",
+      "pattern": "^[0-9]+$",
+      "examples": [
+        "2"
+      ]
+    },
+    "subsection_number": {
+      "type": "string",
+      "pattern": "^\\([0-9]+\\)$",
+      "examples": [
+        "(1)"
+      ]
+    },
+    "term": {
+      "type": "string",
+      "minLength": 1,
+      "description": "The legal term being defined.",
+      "examples": [
+        "advertisement"
+      ]
+    },
+    "definition": {
+      "type": "string",
+      "minLength": 1,
+      "description": "The definition text, without the quoted term prefix.",
+      "examples": [
+        "means any audio or visual publicity, ..."
+      ]
+    },
+    "official_text": {
+      "type": "string",
+      "description": "Verbatim statutory wording, including the quoted term and trailing punctuation."
+    },
+    "citations": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "act",
+          "chapter",
+          "section",
+          "subsection"
+        ],
+        "properties": {
+          "act": {
+            "type": "string"
+          },
+          "chapter": {
+            "type": "string"
+          },
+          "section": {
+            "type": "string"
+          },
+          "subsection": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "references": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "target",
+          "relation"
+        ],
+        "properties": {
+          "target": {
+            "type": "string",
+            "description": "Node id of the referenced entry."
+          },
+          "relation": {
+            "type": "string",
+            "examples": [
+              "defined_in",
+              "used_in",
+              "penalizes"
+            ]
+          }
+        }
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "jurisdiction",
+        "language",
+        "version"
+      ],
+      "properties": {
+        "jurisdiction": {
+          "type": "string"
+        },
+        "language": {
+          "type": "string"
+        },
+        "version": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

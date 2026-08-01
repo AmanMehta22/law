@@ -1,0 +1,176 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://legal-dataset.in/schema/section.json",
+  "title": "Legal Section Node",
+  "description": "One statutory subsection, manually transcribed from an official Act. node_type MUST be 'section'.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "node_type",
+    "act_id",
+    "chapter_number",
+    "section_number",
+    "subsection_number",
+    "term",
+    "definition",
+    "official_text",
+    "citations",
+    "references",
+    "metadata"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[A-Z0-9]+-CH[0-9]+-S[0-9]+(-[0-9]+)?$",
+      "examples": [
+        "CPA2019-CH1-S1-1",
+        "CPA2019-CH1-S1"
+      ]
+    },
+    "node_type": {
+      "const": "section"
+    },
+    "act_id": {
+      "type": "string",
+      "examples": [
+        "CPA2019"
+      ]
+    },
+    "chapter_number": {
+      "type": "integer",
+      "minimum": 1,
+      "examples": [
+        1
+      ]
+    },
+    "section_number": {
+      "type": "string",
+      "pattern": "^[0-9]+$",
+      "examples": [
+        "1"
+      ]
+    },
+    "subsection_number": {
+      "anyOf": [
+        {
+          "type": "string",
+          "pattern": "^\\([0-9]+\\)$"
+        },
+        {
+          "type": "string",
+          "pattern": "^\\([0-9]+\\)-\\([0-9]+\\)$"
+        },
+        {
+          "type": "string",
+          "pattern": "^$",
+          "description": "Empty for whole-section nodes with no subsections."
+        }
+      ],
+      "examples": [
+        "(1)",
+        "(1)-(4)",
+        ""
+      ]
+    },
+    "term": {
+      "anyOf": [
+        {
+          "type": "null"
+        },
+        {
+          "type": "string"
+        }
+      ],
+      "description": "Null for section nodes; used only for definition nodes."
+    },
+    "definition": {
+      "anyOf": [
+        {
+          "type": "null"
+        },
+        {
+          "type": "string"
+        }
+      ],
+      "description": "Null for section nodes; used only for definition nodes."
+    },
+    "official_text": {
+      "type": "string",
+      "description": "Verbatim statutory wording. Never paraphrased."
+    },
+    "citations": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "act",
+          "chapter",
+          "section",
+          "subsection"
+        ],
+        "properties": {
+          "act": {
+            "type": "string"
+          },
+          "chapter": {
+            "type": "string"
+          },
+          "section": {
+            "type": "string"
+          },
+          "subsection": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "references": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "target",
+          "relation"
+        ],
+        "properties": {
+          "target": {
+            "type": "string",
+            "description": "Node id of the referenced entry."
+          },
+          "relation": {
+            "type": "string",
+            "examples": [
+              "defined_in",
+              "used_in",
+              "penalizes"
+            ]
+          }
+        }
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "jurisdiction",
+        "language",
+        "version"
+      ],
+      "properties": {
+        "jurisdiction": {
+          "type": "string"
+        },
+        "language": {
+          "type": "string"
+        },
+        "version": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

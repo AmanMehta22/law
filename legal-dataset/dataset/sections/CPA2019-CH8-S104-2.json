@@ -1,0 +1,38 @@
+{
+  "id": "CPA2019-CH8-S104-2",
+  "node_type": "section",
+  "act_id": "CPA2019",
+  "chapter_number": 8,
+  "section_number": "104",
+  "subsection_number": "(2)",
+  "term": null,
+  "definition": null,
+  "official_text": "In particular, and without prejudice to the generality of the foregoing power, such regulations may provide for all or any of the following matters, namely:— (a) the procedure for engaging experts and professionals and the number of such experts and professionals under sub-section (3) of section 13; (b) the procedure for transaction of business and the allocation of business of the Chief Commissioner and Commissioner under sub-section (1) of section 14; (c) the form, manner and time within which, inquiries or investigation made by the Director-General shall be submitted to the Central Authority under sub-section (5) of section 15; and (d) such other matter for which provision is to be, or may be, made by regulation.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "VIII",
+      "section": "104",
+      "subsection": "(2)"
+    }
+  ],
+  "references": [
+    {
+      "target": "CPA2019-CH3-S13-3",
+      "relation": "refers_to"
+    },
+    {
+      "target": "CPA2019-CH3-S14-1",
+      "relation": "refers_to"
+    },
+    {
+      "target": "CPA2019-CH3-S15-5",
+      "relation": "refers_to"
+    }
+  ],
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "version": "2019"
+  }
+}

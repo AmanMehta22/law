@@ -1,0 +1,46 @@
+{
+  "id": "CPA2019-CH4-S59-1",
+  "node_type": "section",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "59",
+  "subsection_number": "(1)",
+  "term": null,
+  "definition": null,
+  "official_text": "The provisions relating to complaints under sections 35, 36, 37, 38 and 39 shall, with such modifications as may be considered necessary, be applicable to the disposal of complaints by the National Commission.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "59",
+      "subsection": "(1)"
+    }
+  ],
+  "references": [
+    {
+      "target": "CPA2019-CH4-S35",
+      "relation": "refers_to"
+    },
+    {
+      "target": "CPA2019-CH4-S36",
+      "relation": "refers_to"
+    },
+    {
+      "target": "CPA2019-CH4-S37",
+      "relation": "refers_to"
+    },
+    {
+      "target": "CPA2019-CH4-S38",
+      "relation": "refers_to"
+    },
+    {
+      "target": "CPA2019-CH4-S39",
+      "relation": "refers_to"
+    }
+  ],
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "version": "2019"
+  }
+}
