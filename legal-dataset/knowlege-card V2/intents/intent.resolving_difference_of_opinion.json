@@ -1,0 +1,34 @@
+{
+  "concept_id": "intent.resolving_difference_of_opinion",
+  "concept_type": "intent",
+  "title": "Questions about Resolving Difference of Opinion",
+  "description": "Natural language queries a user may ask about: Resolving Difference of Opinion",
+  "content": {
+    "queries": [
+      "How do I file resolving difference of opinion?",
+      "What are the steps for resolving difference of opinion?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S39-3",
+    "procedure.resolving_difference_of_opinion"
+  ],
+  "related_concepts": [
+    "procedure.resolving_difference_of_opinion"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

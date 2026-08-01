@@ -1,0 +1,35 @@
+{
+  "concept_id": "intent.exercise_of_powers_and_discharge_of_functions_by_certain_officials",
+  "concept_type": "intent",
+  "title": "Questions about Exercise of powers and discharge of functions by certain officials",
+  "description": "Natural language queries a user may ask about: Exercise of powers and discharge of functions by certain officials",
+  "content": {
+    "queries": [
+      "What is exercise of powers and discharge of functions by certain officials?",
+      "How does exercise of powers and discharge of functions by certain officials work?",
+      "Can you explain exercise of powers and discharge of functions by certain officials?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S15-3",
+    "obligation.additional_director_general_director_joint_director_deputy_d"
+  ],
+  "related_concepts": [
+    "obligation.additional_director_general_director_joint_director_deputy_d"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

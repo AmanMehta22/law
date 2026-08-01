@@ -1,0 +1,36 @@
+{
+  "concept_id": "intent.information",
+  "concept_type": "intent",
+  "title": "Questions about Information",
+  "description": "Natural language queries a user may ask about: Information",
+  "content": {
+    "queries": [
+      "What is information?",
+      "How does information work?",
+      "Can you explain information?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S70-4",
+    "CPA2019-CH4-S70-5",
+    "evidence.information"
+  ],
+  "related_concepts": [
+    "evidence.information"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

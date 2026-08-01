@@ -1,0 +1,34 @@
+{
+  "concept_id": "intent.passing_of_interim_order",
+  "concept_type": "intent",
+  "title": "Questions about Passing of Interim Order",
+  "description": "Natural language queries a user may ask about: Passing of Interim Order",
+  "content": {
+    "queries": [
+      "How do I file passing of interim order?",
+      "What are the steps for passing of interim order?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-8",
+    "procedure.passing_of_interim_order"
+  ],
+  "related_concepts": [
+    "procedure.passing_of_interim_order"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

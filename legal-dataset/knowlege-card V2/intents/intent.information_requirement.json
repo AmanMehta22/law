@@ -1,0 +1,34 @@
+{
+  "concept_id": "intent.information_requirement",
+  "concept_type": "intent",
+  "title": "Questions about Information Requirement",
+  "description": "Natural language queries a user may ask about: Information Requirement",
+  "content": {
+    "queries": [
+      "How do I file information requirement?",
+      "What are the steps for information requirement?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-4",
+    "procedure.information_requirement"
+  ],
+  "related_concepts": [
+    "procedure.information_requirement"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

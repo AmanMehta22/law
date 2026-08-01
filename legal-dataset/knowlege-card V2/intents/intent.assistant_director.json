@@ -1,0 +1,38 @@
+{
+  "concept_id": "intent.assistant_director",
+  "concept_type": "intent",
+  "title": "Questions about Assistant Director",
+  "description": "Natural language queries a user may ask about: Assistant Director",
+  "content": {
+    "queries": [
+      "What is assistant director?",
+      "How does assistant director work?",
+      "Can you explain assistant director?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S15-2",
+    "CPA2019-CH3-S15-3",
+    "CPA2019-CH3-S15-4",
+    "CPA2019-CH8-S95",
+    "authority.assistant_director"
+  ],
+  "related_concepts": [
+    "authority.assistant_director"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "concept_id": "intent.authentication_of_goods",
+  "concept_type": "intent",
+  "title": "Questions about Authentication of goods",
+  "description": "Natural language queries a user may ask about: Authentication of goods",
+  "content": {
+    "queries": [
+      "How do I file authentication of goods?",
+      "What are the steps for authentication of goods?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S101-2",
+    "procedure.authentication_of_goods"
+  ],
+  "related_concepts": [
+    "procedure.authentication_of_goods"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

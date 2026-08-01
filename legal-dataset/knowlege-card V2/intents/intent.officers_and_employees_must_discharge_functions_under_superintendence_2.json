@@ -1,0 +1,35 @@
+{
+  "concept_id": "intent.officers_and_employees_must_discharge_functions_under_superintendence_2",
+  "concept_type": "intent",
+  "title": "Questions about Officers and employees must discharge functions under superintendence",
+  "description": "Natural language queries a user may ask about: Officers and employees must discharge functions under superintendence",
+  "content": {
+    "queries": [
+      "What is officers and employees must discharge functions under superintendence?",
+      "How does officers and employees must discharge functions under superintendence work?",
+      "Can you explain officers and employees must discharge functions under superintendence?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S57-2",
+    "obligation.officers_and_other_employees_of_the_national_commission_disc"
+  ],
+  "related_concepts": [
+    "obligation.officers_and_other_employees_of_the_national_commission_disc"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

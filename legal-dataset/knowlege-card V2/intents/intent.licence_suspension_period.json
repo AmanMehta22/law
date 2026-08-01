@@ -1,0 +1,36 @@
+{
+  "concept_id": "intent.licence_suspension_period",
+  "concept_type": "intent",
+  "title": "Questions about Licence suspension period",
+  "description": "Natural language queries a user may ask about: Licence suspension period",
+  "content": {
+    "queries": [
+      "What is licence suspension period?",
+      "How does licence suspension period work?",
+      "Can you explain licence suspension period?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH7-S90-3",
+    "CPA2019-CH7-S91-3",
+    "timeline.up_to_two_years"
+  ],
+  "related_concepts": [
+    "timeline.up_to_two_years"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

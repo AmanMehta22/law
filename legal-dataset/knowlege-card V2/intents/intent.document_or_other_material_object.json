@@ -1,0 +1,35 @@
+{
+  "concept_id": "intent.document_or_other_material_object",
+  "concept_type": "intent",
+  "title": "Questions about Document or other material object",
+  "description": "Natural language queries a user may ask about: Document or other material object",
+  "content": {
+    "queries": [
+      "What is document or other material object?",
+      "How does document or other material object work?",
+      "Can you explain document or other material object?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-9",
+    "evidence.document_material_object"
+  ],
+  "related_concepts": [
+    "evidence.document_material_object"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

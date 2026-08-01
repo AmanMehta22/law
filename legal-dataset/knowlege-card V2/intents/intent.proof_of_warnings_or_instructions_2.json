@@ -1,0 +1,35 @@
+{
+  "concept_id": "intent.proof_of_warnings_or_instructions_2",
+  "concept_type": "intent",
+  "title": "Questions about Proof of warnings or instructions",
+  "description": "Natural language queries a user may ask about: Proof of warnings or instructions",
+  "content": {
+    "queries": [
+      "What is proof of warnings or instructions?",
+      "How does proof of warnings or instructions work?",
+      "Can you explain proof of warnings or instructions?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH6-S87-2",
+    "evidence.warnings_or_instructions_provided_to_employer_warnings_or_in"
+  ],
+  "related_concepts": [
+    "evidence.warnings_or_instructions_provided_to_employer_warnings_or_in"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

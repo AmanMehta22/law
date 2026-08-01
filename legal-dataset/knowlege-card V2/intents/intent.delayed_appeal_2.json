@@ -1,0 +1,33 @@
+{
+  "concept_id": "intent.delayed_appeal_2",
+  "concept_type": "intent",
+  "title": "Questions about Delayed appeal",
+  "description": "Natural language queries a user may ask about: Delayed appeal",
+  "content": {
+    "queries": [
+      "Can I appeal after 45 days?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S41",
+    "exception.state_commission_may_entertain_appeal_after_45_days"
+  ],
+  "related_concepts": [
+    "exception.state_commission_may_entertain_appeal_after_45_days"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

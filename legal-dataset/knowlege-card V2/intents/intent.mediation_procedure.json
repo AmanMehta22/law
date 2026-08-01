@@ -1,0 +1,34 @@
+{
+  "concept_id": "intent.mediation_procedure",
+  "concept_type": "intent",
+  "title": "Questions about Mediation Procedure",
+  "description": "Natural language queries a user may ask about: Mediation Procedure",
+  "content": {
+    "queries": [
+      "How do I file mediation procedure?",
+      "What are the steps for mediation procedure?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S80-3",
+    "procedure.mediation_procedure"
+  ],
+  "related_concepts": [
+    "procedure.mediation_procedure"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "concept_id": "intent.filing_complaints_with_the_state_commission",
+  "concept_type": "intent",
+  "title": "Questions about Filing complaints with the State Commission",
+  "description": "Natural language queries a user may ask about: Filing complaints with the State Commission",
+  "content": {
+    "queries": [
+      "How do I file filing complaints with the state commission?",
+      "What are the steps for filing complaints with the state commission?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S47-1",
+    "procedure.filing_complaints_with_the_state_commission"
+  ],
+  "related_concepts": [
+    "procedure.filing_complaints_with_the_state_commission"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

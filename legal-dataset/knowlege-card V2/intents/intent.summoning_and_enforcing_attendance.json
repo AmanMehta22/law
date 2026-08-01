@@ -1,0 +1,34 @@
+{
+  "concept_id": "intent.summoning_and_enforcing_attendance",
+  "concept_type": "intent",
+  "title": "Questions about Summoning and enforcing attendance",
+  "description": "Natural language queries a user may ask about: Summoning and enforcing attendance",
+  "content": {
+    "queries": [
+      "How do I file summoning and enforcing attendance?",
+      "What are the steps for summoning and enforcing attendance?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-9",
+    "procedure.summoning_and_enforcing_attendance"
+  ],
+  "related_concepts": [
+    "procedure.summoning_and_enforcing_attendance"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

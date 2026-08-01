@@ -1,0 +1,33 @@
+{
+  "concept_id": "intent.district_commission_must_settle_consumer_dispute",
+  "concept_type": "intent",
+  "title": "Questions about District Commission must settle consumer dispute",
+  "description": "Natural language queries a user may ask about: District Commission must settle consumer dispute",
+  "content": {
+    "queries": [
+      "how is a consumer dispute settled"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-3",
+    "obligation.district_commission_must_settle_the_consumer_dispute"
+  ],
+  "related_concepts": [
+    "obligation.district_commission_must_settle_the_consumer_dispute"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

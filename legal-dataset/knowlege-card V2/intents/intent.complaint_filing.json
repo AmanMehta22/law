@@ -1,0 +1,38 @@
+{
+  "concept_id": "intent.complaint_filing",
+  "concept_type": "intent",
+  "title": "Questions about Complaint filing",
+  "description": "Natural language queries a user may ask about: Complaint filing",
+  "content": {
+    "queries": [
+      "How do I file complaint filing?",
+      "What are the steps for complaint filing?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S34-2",
+    "CPA2019-CH4-S35-1",
+    "CPA2019-CH4-S38-6",
+    "CPA2019-CH4-S47-4",
+    "CPA2019-CH4-S69-1",
+    "procedure.complaint_filing"
+  ],
+  "related_concepts": [
+    "procedure.complaint_filing"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

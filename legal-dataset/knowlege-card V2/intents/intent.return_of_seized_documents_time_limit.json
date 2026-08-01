@@ -1,0 +1,35 @@
+{
+  "concept_id": "intent.return_of_seized_documents_time_limit",
+  "concept_type": "intent",
+  "title": "Questions about Return of seized documents time limit",
+  "description": "Natural language queries a user may ask about: Return of seized documents time limit",
+  "content": {
+    "queries": [
+      "What is return of seized documents time limit?",
+      "How does return of seized documents time limit work?",
+      "Can you explain return of seized documents time limit?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S22-3",
+    "timeline.twenty_days"
+  ],
+  "related_concepts": [
+    "timeline.twenty_days"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

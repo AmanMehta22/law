@@ -1,0 +1,33 @@
+{
+  "concept_id": "intent.national_commission_must_formulate_and_hear_appeal_on_substantial_question_of_la",
+  "concept_type": "intent",
+  "title": "Questions about National Commission must formulate and hear appeal on substantial question of law",
+  "description": "Natural language queries a user may ask about: National Commission must formulate and hear appeal on substantial question of law",
+  "content": {
+    "queries": [
+      "What are the obligations of the National Commission in case of substantial question of law?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S51-4",
+    "obligation.national_commission_must_formulate_and_hear_appeal_on_substa"
+  ],
+  "related_concepts": [
+    "obligation.national_commission_must_formulate_and_hear_appeal_on_substa"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "concept_id": "intent.territorial_jurisdiction_of_national_commission",
+  "concept_type": "intent",
+  "title": "Questions about Territorial jurisdiction of National Commission",
+  "description": "Natural language queries a user may ask about: Territorial jurisdiction of National Commission",
+  "content": {
+    "queries": [
+      "What is territorial jurisdiction of national commission?",
+      "How does territorial jurisdiction of national commission work?",
+      "Can you explain territorial jurisdiction of national commission?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S53-2",
+    "jurisdiction.national_commission_national_capital_region_and_other_notified_places"
+  ],
+  "related_concepts": [
+    "jurisdiction.national_commission_national_capital_region_and_other_notified_places"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

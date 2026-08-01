@@ -1,0 +1,35 @@
+{
+  "concept_id": "intent.regulations_must_specify_terms_for_mediator_empanelment",
+  "concept_type": "intent",
+  "title": "Questions about Regulations must specify terms for mediator empanelment",
+  "description": "Natural language queries a user may ask about: Regulations must specify terms for mediator empanelment",
+  "content": {
+    "queries": [
+      "What is regulations must specify terms for mediator empanelment?",
+      "How does regulations must specify terms for mediator empanelment work?",
+      "Can you explain regulations must specify terms for mediator empanelment?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S75-2",
+    "obligation.regulations_must_specify_terms_for_mediator_empanelment"
+  ],
+  "related_concepts": [
+    "obligation.regulations_must_specify_terms_for_mediator_empanelment"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

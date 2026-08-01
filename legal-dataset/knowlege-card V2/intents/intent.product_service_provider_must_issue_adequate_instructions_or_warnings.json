@@ -1,0 +1,33 @@
+{
+  "concept_id": "intent.product_service_provider_must_issue_adequate_instructions_or_warnings",
+  "concept_type": "intent",
+  "title": "Questions about Product service provider must issue adequate instructions or warnings",
+  "description": "Natural language queries a user may ask about: Product service provider must issue adequate instructions or warnings",
+  "content": {
+    "queries": [
+      "what are product service provider obligations"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH6-S85",
+    "obligation.product_service_provider_must_issue_adequate_instructions_or"
+  ],
+  "related_concepts": [
+    "obligation.product_service_provider_must_issue_adequate_instructions_or"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

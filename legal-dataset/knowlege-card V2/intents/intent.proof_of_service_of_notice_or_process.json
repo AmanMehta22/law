@@ -1,0 +1,35 @@
+{
+  "concept_id": "intent.proof_of_service_of_notice_or_process",
+  "concept_type": "intent",
+  "title": "Questions about Proof of service of notice or process",
+  "description": "Natural language queries a user may ask about: Proof of service of notice or process",
+  "content": {
+    "queries": [
+      "What is proof of service of notice or process?",
+      "How does proof of service of notice or process work?",
+      "Can you explain proof of service of notice or process?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH6-S86",
+    "evidence.notice_or_process_records_service_records"
+  ],
+  "related_concepts": [
+    "evidence.notice_or_process_records_service_records"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

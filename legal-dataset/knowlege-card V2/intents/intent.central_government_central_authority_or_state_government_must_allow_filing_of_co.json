@@ -1,0 +1,35 @@
+{
+  "concept_id": "intent.central_government_central_authority_or_state_government_must_allow_filing_of_co",
+  "concept_type": "intent",
+  "title": "Questions about Central Government, Central Authority or State Government must allow filing of complaint",
+  "description": "Natural language queries a user may ask about: Central Government, Central Authority or State Government must allow filing of complaint",
+  "content": {
+    "queries": [
+      "What is central government, central authority or state government must allow filing of complaint?",
+      "How does central government, central authority or state government must allow filing of complaint work?",
+      "Can you explain central government, central authority or state government must allow filing of complaint?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S35-1",
+    "obligation.central_government_central_authority_or_state_government_mus"
+  ],
+  "related_concepts": [
+    "obligation.central_government_central_authority_or_state_government_mus"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

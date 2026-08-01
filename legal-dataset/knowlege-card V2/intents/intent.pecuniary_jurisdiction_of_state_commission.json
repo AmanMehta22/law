@@ -1,0 +1,33 @@
+{
+  "concept_id": "intent.pecuniary_jurisdiction_of_state_commission",
+  "concept_type": "intent",
+  "title": "Questions about Pecuniary jurisdiction of State Commission",
+  "description": "Natural language queries a user may ask about: Pecuniary jurisdiction of State Commission",
+  "content": {
+    "queries": [
+      "State Commission jurisdiction"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S47-1",
+    "jurisdiction.state_commission_exceeds_rupees_one_crore_but_does_not_exceed_rupees_ten_crore_w"
+  ],
+  "related_concepts": [
+    "jurisdiction.state_commission_exceeds_rupees_one_crore_but_does_not_exceed_rupees_ten_crore_w"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

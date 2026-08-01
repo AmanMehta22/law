@@ -1,0 +1,34 @@
+{
+  "concept_id": "intent.continuance_of_old_act_for_certain_members",
+  "concept_type": "intent",
+  "title": "Questions about Continuance of old Act for certain members",
+  "description": "Natural language queries a user may ask about: Continuance of old Act for certain members",
+  "content": {
+    "queries": [
+      "transition provisions",
+      "continuance of old Act"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S56",
+    "exception.the_president_and_every_other_member_appointed_immediately_b"
+  ],
+  "related_concepts": [
+    "exception.the_president_and_every_other_member_appointed_immediately_b"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

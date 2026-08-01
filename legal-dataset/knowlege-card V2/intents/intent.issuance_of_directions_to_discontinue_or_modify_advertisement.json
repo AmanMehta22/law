@@ -1,0 +1,34 @@
+{
+  "concept_id": "intent.issuance_of_directions_to_discontinue_or_modify_advertisement",
+  "concept_type": "intent",
+  "title": "Questions about Issuance of directions to discontinue or modify advertisement",
+  "description": "Natural language queries a user may ask about: Issuance of directions to discontinue or modify advertisement",
+  "content": {
+    "queries": [
+      "How do I file issuance of directions to discontinue or modify advertisement?",
+      "What are the steps for issuance of directions to discontinue or modify advertisement?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S21-1",
+    "procedure.issuance_of_directions_to_discontinue_or_modify_advertisemen"
+  ],
+  "related_concepts": [
+    "procedure.issuance_of_directions_to_discontinue_or_modify_advertisemen"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "concept_id": "intent.injury",
+  "concept_type": "intent",
+  "title": "Questions about Injury",
+  "description": "Natural language queries a user may ask about: Injury",
+  "content": {
+    "queries": [
+      "what is injury under consumer protection act",
+      "what constitutes injury in consumer law",
+      "what is meant by injury in legal terms"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-23",
+    "definition.injury"
+  ],
+  "related_concepts": [
+    "definition.injury"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "concept_id": "intent.issuing_safety_notices",
+  "concept_type": "intent",
+  "title": "Questions about Issuing Safety Notices",
+  "description": "Natural language queries a user may ask about: Issuing Safety Notices",
+  "content": {
+    "queries": [
+      "How do I file issuing safety notices?",
+      "What are the steps for issuing safety notices?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S18-2",
+    "procedure.issuing_safety_notices"
+  ],
+  "related_concepts": [
+    "procedure.issuing_safety_notices"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

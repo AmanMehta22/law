@@ -1,0 +1,35 @@
+{
+  "concept_id": "intent.manufacturing_storing_selling_distributing_or_importing_adulterated_products",
+  "concept_type": "intent",
+  "title": "Questions about Manufacturing, storing, selling, distributing or importing adulterated products",
+  "description": "Natural language queries a user may ask about: Manufacturing, storing, selling, distributing or importing adulterated products",
+  "content": {
+    "queries": [
+      "What is manufacturing, storing, selling, distributing or importing adulterated products?",
+      "How does manufacturing, storing, selling, distributing or importing adulterated products work?",
+      "Can you explain manufacturing, storing, selling, distributing or importing adulterated products?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH7-S90-1",
+    "offence.manufactures_for_sale_or_stores_or_sells_or_distributes_or_imports_any_product_c"
+  ],
+  "related_concepts": [
+    "offence.manufactures_for_sale_or_stores_or_sells_or_distributes_or_imports_any_product_c"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

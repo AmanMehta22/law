@@ -1,0 +1,35 @@
+{
+  "concept_id": "intent.district_commission_may_allow_hearing_or_examination_of_parties_in_person_or_thr",
+  "concept_type": "intent",
+  "title": "Questions about District Commission may allow hearing or examination of parties in person or through video conferencing",
+  "description": "Natural language queries a user may ask about: District Commission may allow hearing or examination of parties in person or through video conferencing",
+  "content": {
+    "queries": [
+      "What is district commission may allow hearing or examination of parties in person or through video conferencing?",
+      "How does district commission may allow hearing or examination of parties in person or through video conferencing work?",
+      "Can you explain district commission may allow hearing or examination of parties in person or through video conferencing?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-6",
+    "obligation.district_commission_may_allow_hearing_or_examination_of_part"
+  ],
+  "related_concepts": [
+    "obligation.district_commission_may_allow_hearing_or_examination_of_part"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

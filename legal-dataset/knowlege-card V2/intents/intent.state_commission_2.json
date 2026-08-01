@@ -1,0 +1,35 @@
+{
+  "concept_id": "intent.state_commission_2",
+  "concept_type": "intent",
+  "title": "Questions about State Commission",
+  "description": "Natural language queries a user may ask about: State Commission",
+  "content": {
+    "queries": [
+      "What is the State Commission for consumer protection",
+      "How to file a complaint with the State Commission",
+      "What does the State Commission do"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-44",
+    "definition.state_commission"
+  ],
+  "related_concepts": [
+    "definition.state_commission"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

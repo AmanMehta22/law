@@ -1,0 +1,34 @@
+{
+  "concept_id": "intent.minimum_meetings_per_year",
+  "concept_type": "intent",
+  "title": "Questions about Minimum meetings per year",
+  "description": "Natural language queries a user may ask about: Minimum meetings per year",
+  "content": {
+    "queries": [
+      "how often does the State Council meet"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH2-S6-3",
+    "CPA2019-CH3-S21-3",
+    "timeline.one_year"
+  ],
+  "related_concepts": [
+    "timeline.one_year"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

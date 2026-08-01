@@ -1,0 +1,34 @@
+{
+  "concept_id": "intent.adjournment_cost_imposition_by_state_or_national_commission",
+  "concept_type": "intent",
+  "title": "Questions about Adjournment cost imposition by State or National Commission",
+  "description": "Natural language queries a user may ask about: Adjournment cost imposition by State or National Commission",
+  "content": {
+    "queries": [
+      "How do I file adjournment cost imposition by state or national commission?",
+      "What are the steps for adjournment cost imposition by state or national commission?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S103-2",
+    "procedure.adjournment_cost_imposition_by_state_or_national_commission"
+  ],
+  "related_concepts": [
+    "procedure.adjournment_cost_imposition_by_state_or_national_commission"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "concept_id": "intent.repeat_offence_within_three_years",
+  "concept_type": "intent",
+  "title": "Questions about Repeat offence within three years",
+  "description": "Natural language queries a user may ask about: Repeat offence within three years",
+  "content": {
+    "queries": [
+      "What are the exceptions to sub-section (1)?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S96-3",
+    "exception.does_not_apply_to_persons_who_commit_the_same_or_similar_off"
+  ],
+  "related_concepts": [
+    "exception.does_not_apply_to_persons_who_commit_the_same_or_similar_off"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

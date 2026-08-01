@@ -1,0 +1,34 @@
+{
+  "concept_id": "intent.filing_an_appeal_to_the_supreme_court",
+  "concept_type": "intent",
+  "title": "Questions about Filing an appeal to the Supreme Court",
+  "description": "Natural language queries a user may ask about: Filing an appeal to the Supreme Court",
+  "content": {
+    "queries": [
+      "How do I file filing an appeal to the supreme court?",
+      "What are the steps for filing an appeal to the supreme court?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S67",
+    "procedure.filing_an_appeal_to_the_supreme_court"
+  ],
+  "related_concepts": [
+    "procedure.filing_an_appeal_to_the_supreme_court"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "concept_id": "intent.state_government_must_direct_in_case_of_vacancy",
+  "concept_type": "intent",
+  "title": "Questions about State Government must direct in case of vacancy",
+  "description": "Natural language queries a user may ask about: State Government must direct in case of vacancy",
+  "content": {
+    "queries": [
+      "what to do in case of vacancy in District Commission"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S32",
+    "obligation.state_government_may_direct_any_other_district_commission_or"
+  ],
+  "related_concepts": [
+    "obligation.state_government_may_direct_any_other_district_commission_or"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

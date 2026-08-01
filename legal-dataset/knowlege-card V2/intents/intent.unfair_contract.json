@@ -1,0 +1,35 @@
+{
+  "concept_id": "intent.unfair_contract",
+  "concept_type": "intent",
+  "title": "Questions about Unfair Contract",
+  "description": "Natural language queries a user may ask about: Unfair Contract",
+  "content": {
+    "queries": [
+      "what is an unfair contract",
+      "what makes a contract unfair",
+      "how to identify an unfair contract"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-46",
+    "definition.unfair_contract"
+  ],
+  "related_concepts": [
+    "definition.unfair_contract"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

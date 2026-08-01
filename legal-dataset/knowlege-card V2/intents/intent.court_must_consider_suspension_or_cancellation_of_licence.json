@@ -1,0 +1,33 @@
+{
+  "concept_id": "intent.court_must_consider_suspension_or_cancellation_of_licence",
+  "concept_type": "intent",
+  "title": "Questions about Court must consider suspension or cancellation of licence",
+  "description": "Natural language queries a user may ask about: Court must consider suspension or cancellation of licence",
+  "content": {
+    "queries": [
+      "what happens to licence after conviction"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH7-S91-3",
+    "obligation.court_may_suspend_or_cancel_licence"
+  ],
+  "related_concepts": [
+    "obligation.court_may_suspend_or_cancel_licence"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

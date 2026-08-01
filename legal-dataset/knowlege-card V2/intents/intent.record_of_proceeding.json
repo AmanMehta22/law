@@ -1,0 +1,35 @@
+{
+  "concept_id": "intent.record_of_proceeding",
+  "concept_type": "intent",
+  "title": "Questions about Record of proceeding",
+  "description": "Natural language queries a user may ask about: Record of proceeding",
+  "content": {
+    "queries": [
+      "What is record of proceeding?",
+      "How does record of proceeding work?",
+      "Can you explain record of proceeding?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S74-4",
+    "evidence.record_of_proceeding"
+  ],
+  "related_concepts": [
+    "evidence.record_of_proceeding"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

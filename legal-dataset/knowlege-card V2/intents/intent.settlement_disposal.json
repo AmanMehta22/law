@@ -1,0 +1,34 @@
+{
+  "concept_id": "intent.settlement_disposal",
+  "concept_type": "intent",
+  "title": "Questions about Settlement Disposal",
+  "description": "Natural language queries a user may ask about: Settlement Disposal",
+  "content": {
+    "queries": [
+      "How do I file settlement disposal?",
+      "What are the steps for settlement disposal?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S81-1",
+    "procedure.settlement_disposal"
+  ],
+  "related_concepts": [
+    "procedure.settlement_disposal"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

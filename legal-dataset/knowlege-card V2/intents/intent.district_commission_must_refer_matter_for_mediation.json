@@ -1,0 +1,33 @@
+{
+  "concept_id": "intent.district_commission_must_refer_matter_for_mediation",
+  "concept_type": "intent",
+  "title": "Questions about District Commission must refer matter for mediation",
+  "description": "Natural language queries a user may ask about: District Commission must refer matter for mediation",
+  "content": {
+    "queries": [
+      "What happens after parties agree to mediation?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S37-2",
+    "obligation.district_commission_must_refer_matter_for_mediation"
+  ],
+  "related_concepts": [
+    "obligation.district_commission_must_refer_matter_for_mediation"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

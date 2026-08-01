@@ -1,0 +1,35 @@
+{
+  "concept_id": "intent.senior_most_member_must_preside_over_bench",
+  "concept_type": "intent",
+  "title": "Questions about Senior-most member must preside over Bench",
+  "description": "Natural language queries a user may ask about: Senior-most member must preside over Bench",
+  "content": {
+    "queries": [
+      "What is senior-most member must preside over bench?",
+      "How does senior-most member must preside over bench work?",
+      "Can you explain senior-most member must preside over bench?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S47-2",
+    "obligation.senior_most_member_must_preside_over_the_bench"
+  ],
+  "related_concepts": [
+    "obligation.senior_most_member_must_preside_over_the_bench"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

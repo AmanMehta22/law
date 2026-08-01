@@ -1,0 +1,34 @@
+{
+  "concept_id": "intent.partial_settlement_and_continued_hearing",
+  "concept_type": "intent",
+  "title": "Questions about Partial Settlement and Continued Hearing",
+  "description": "Natural language queries a user may ask about: Partial Settlement and Continued Hearing",
+  "content": {
+    "queries": [
+      "How do I file partial settlement and continued hearing?",
+      "What are the steps for partial settlement and continued hearing?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S81-2",
+    "procedure.partial_settlement_and_continued_hearing"
+  ],
+  "related_concepts": [
+    "procedure.partial_settlement_and_continued_hearing"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

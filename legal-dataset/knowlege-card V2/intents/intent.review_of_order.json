@@ -1,0 +1,36 @@
+{
+  "concept_id": "intent.review_of_order",
+  "concept_type": "intent",
+  "title": "Questions about Review of order",
+  "description": "Natural language queries a user may ask about: Review of order",
+  "content": {
+    "queries": [
+      "How do I file review of order?",
+      "What are the steps for review of order?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S40",
+    "CPA2019-CH4-S50",
+    "CPA2019-CH4-S60",
+    "procedure.review_of_order"
+  ],
+  "related_concepts": [
+    "procedure.review_of_order"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

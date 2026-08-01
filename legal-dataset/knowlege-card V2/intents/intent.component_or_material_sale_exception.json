@@ -1,0 +1,33 @@
+{
+  "concept_id": "intent.component_or_material_sale_exception",
+  "concept_type": "intent",
+  "title": "Questions about Component or Material Sale Exception",
+  "description": "Natural language queries a user may ask about: Component or Material Sale Exception",
+  "content": {
+    "queries": [
+      "product manufacturer not liable"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH6-S87-2",
+    "exception.product_manufacturer_not_liable_if_necessary_warnings_given_"
+  ],
+  "related_concepts": [
+    "exception.product_manufacturer_not_liable_if_necessary_warnings_given_"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

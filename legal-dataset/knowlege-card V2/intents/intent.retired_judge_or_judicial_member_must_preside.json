@@ -1,0 +1,33 @@
+{
+  "concept_id": "intent.retired_judge_or_judicial_member_must_preside",
+  "concept_type": "intent",
+  "title": "Questions about Retired Judge or Judicial Member must preside",
+  "description": "Natural language queries a user may ask about: Retired Judge or Judicial Member must preside",
+  "content": {
+    "queries": [
+      "who presides over National Commission in absence of President"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S63",
+    "obligation.retired_judge_of_a_high_court_or_a_person_who_has_been_a_jud"
+  ],
+  "related_concepts": [
+    "obligation.retired_judge_of_a_high_court_or_a_person_who_has_been_a_jud"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

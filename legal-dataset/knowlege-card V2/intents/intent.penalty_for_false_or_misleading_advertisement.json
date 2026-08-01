@@ -1,0 +1,35 @@
+{
+  "concept_id": "intent.penalty_for_false_or_misleading_advertisement",
+  "concept_type": "intent",
+  "title": "Questions about Penalty for false or misleading advertisement",
+  "description": "Natural language queries a user may ask about: Penalty for false or misleading advertisement",
+  "content": {
+    "queries": [
+      "What is the punishment for penalty for false or misleading advertisement?",
+      "What happens if I commit penalty for false or misleading advertisement?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S21-2",
+    "CPA2019-CH7-S89",
+    "penalty.publishing_false_or_misleading_advertisement"
+  ],
+  "related_concepts": [
+    "penalty.publishing_false_or_misleading_advertisement"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

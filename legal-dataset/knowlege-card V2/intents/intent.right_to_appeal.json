@@ -1,0 +1,51 @@
+{
+  "concept_id": "intent.right_to_appeal",
+  "concept_type": "intent",
+  "title": "Questions about Right to Appeal",
+  "description": "Natural language queries a user may ask about: Right to Appeal",
+  "content": {
+    "queries": [
+      "how to appeal against Central Authority order",
+      "how to appeal against District Commission order",
+      "how to appeal against a State Commission order",
+      "how to appeal to National Commission",
+      "can I appeal to the National Commission",
+      "how to appeal against state commission order",
+      "how to appeal against State Commission order",
+      "can I appeal against Central Authority decision",
+      "how to appeal against National Commission order",
+      "how to appeal a consumer court order"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S24",
+    "CPA2019-CH4-S47-1",
+    "CPA2019-CH4-S51-1",
+    "CPA2019-CH4-S51-2",
+    "CPA2019-CH4-S51-4",
+    "CPA2019-CH4-S51-5",
+    "CPA2019-CH4-S58-1",
+    "CPA2019-CH4-S67",
+    "CPA2019-CH4-S73-1",
+    "CPA2019-CH4-S73-3",
+    "right.right_to_appeal"
+  ],
+  "related_concepts": [
+    "right.right_to_appeal"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

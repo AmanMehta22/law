@@ -1,0 +1,35 @@
+{
+  "concept_id": "intent.territorial_jurisdiction_of_district_commission",
+  "concept_type": "intent",
+  "title": "Questions about Territorial jurisdiction of District Commission",
+  "description": "Natural language queries a user may ask about: Territorial jurisdiction of District Commission",
+  "content": {
+    "queries": [
+      "What is territorial jurisdiction of district commission?",
+      "How does territorial jurisdiction of district commission work?",
+      "Can you explain territorial jurisdiction of district commission?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S32",
+    "jurisdiction.district_commission_that_district"
+  ],
+  "related_concepts": [
+    "jurisdiction.district_commission_that_district"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

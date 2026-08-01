@@ -1,0 +1,35 @@
+{
+  "concept_id": "intent.professional_services",
+  "concept_type": "intent",
+  "title": "Questions about Professional services",
+  "description": "Natural language queries a user may ask about: Professional services",
+  "content": {
+    "queries": [
+      "What is professional services?",
+      "How does professional services work?",
+      "Can you explain professional services?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-37",
+    "exception.does_not_include_a_provider_of_professional_services_in_any_"
+  ],
+  "related_concepts": [
+    "exception.does_not_include_a_provider_of_professional_services_in_any_"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

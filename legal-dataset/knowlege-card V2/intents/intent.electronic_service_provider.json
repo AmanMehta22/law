@@ -1,0 +1,35 @@
+{
+  "concept_id": "intent.electronic_service_provider",
+  "concept_type": "intent",
+  "title": "Questions about Electronic Service Provider",
+  "description": "Natural language queries a user may ask about: Electronic Service Provider",
+  "content": {
+    "queries": [
+      "What is an electronic service provider?",
+      "Who is considered an electronic service provider under the Consumer Protection Act?",
+      "What does electronic service provider mean in the context of online shopping?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-17",
+    "definition.electronic_service_provider"
+  ],
+  "related_concepts": [
+    "definition.electronic_service_provider"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

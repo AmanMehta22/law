@@ -1,0 +1,34 @@
+{
+  "concept_id": "intent.payment_for_loss_to_multiple_consumers",
+  "concept_type": "intent",
+  "title": "Questions about Payment for loss to multiple consumers",
+  "description": "Natural language queries a user may ask about: Payment for loss to multiple consumers",
+  "content": {
+    "queries": [
+      "What is the punishment for payment for loss to multiple consumers?",
+      "What happens if I commit payment for loss to multiple consumers?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S39-1",
+    "penalty.payment_for_loss_to_multiple_consumers"
+  ],
+  "related_concepts": [
+    "penalty.payment_for_loss_to_multiple_consumers"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

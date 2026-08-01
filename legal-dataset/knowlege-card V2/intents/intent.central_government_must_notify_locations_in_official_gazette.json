@@ -1,0 +1,35 @@
+{
+  "concept_id": "intent.central_government_must_notify_locations_in_official_gazette",
+  "concept_type": "intent",
+  "title": "Questions about Central Government must notify locations in Official Gazette",
+  "description": "Natural language queries a user may ask about: Central Government must notify locations in Official Gazette",
+  "content": {
+    "queries": [
+      "What is central government must notify locations in official gazette?",
+      "How does central government must notify locations in official gazette work?",
+      "Can you explain central government must notify locations in official gazette?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S53-2",
+    "obligation.central_government_must_notify_locations_in_official_gazette"
+  ],
+  "related_concepts": [
+    "obligation.central_government_must_notify_locations_in_official_gazette"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

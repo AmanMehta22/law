@@ -1,0 +1,33 @@
+{
+  "concept_id": "intent.trader_must_discontinue_or_modify_advertisement",
+  "concept_type": "intent",
+  "title": "Questions about Trader must discontinue or modify advertisement",
+  "description": "Natural language queries a user may ask about: Trader must discontinue or modify advertisement",
+  "content": {
+    "queries": [
+      "What must a trader do if their advertisement is found to be misleading?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S21-1",
+    "obligation.trader_must_discontinue_or_modify_advertisement_as_directed"
+  ],
+  "related_concepts": [
+    "obligation.trader_must_discontinue_or_modify_advertisement_as_directed"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "concept_id": "intent.district_commissions",
+  "concept_type": "intent",
+  "title": "Questions about District Commissions",
+  "description": "Natural language queries a user may ask about: District Commissions",
+  "content": {
+    "queries": [
+      "What is district commissions?",
+      "How does district commissions work?",
+      "Can you explain district commissions?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S74-1",
+    "authority.district_commissions"
+  ],
+  "related_concepts": [
+    "authority.district_commissions"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "concept_id": "intent.state_commission_s_administrative_control",
+  "concept_type": "intent",
+  "title": "Questions about State Commission's administrative control",
+  "description": "Natural language queries a user may ask about: State Commission's administrative control",
+  "content": {
+    "queries": [
+      "What is state commission's administrative control?",
+      "How does state commission's administrative control work?",
+      "Can you explain state commission's administrative control?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S70-3",
+    "obligation.state_commission_shall_have_administrative_control"
+  ],
+  "related_concepts": [
+    "obligation.state_commission_shall_have_administrative_control"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

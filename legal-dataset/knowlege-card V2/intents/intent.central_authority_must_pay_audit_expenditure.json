@@ -1,0 +1,35 @@
+{
+  "concept_id": "intent.central_authority_must_pay_audit_expenditure",
+  "concept_type": "intent",
+  "title": "Questions about Central Authority must pay audit expenditure",
+  "description": "Natural language queries a user may ask about: Central Authority must pay audit expenditure",
+  "content": {
+    "queries": [
+      "What is central authority must pay audit expenditure?",
+      "How does central authority must pay audit expenditure work?",
+      "Can you explain central authority must pay audit expenditure?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S26-2",
+    "obligation.central_authority_must_pay_expenditure_incurred_in_connectio"
+  ],
+  "related_concepts": [
+    "obligation.central_authority_must_pay_expenditure_incurred_in_connectio"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

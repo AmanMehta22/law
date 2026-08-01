@@ -1,0 +1,35 @@
+{
+  "concept_id": "intent.commission_must_prepare_a_panel_of_mediators",
+  "concept_type": "intent",
+  "title": "Questions about Commission must prepare a panel of mediators",
+  "description": "Natural language queries a user may ask about: Commission must prepare a panel of mediators",
+  "content": {
+    "queries": [
+      "What is commission must prepare a panel of mediators?",
+      "How does commission must prepare a panel of mediators work?",
+      "Can you explain commission must prepare a panel of mediators?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S75-1",
+    "obligation.national_commission_or_the_state_commission_or_the_district_"
+  ],
+  "related_concepts": [
+    "obligation.national_commission_or_the_state_commission_or_the_district_"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

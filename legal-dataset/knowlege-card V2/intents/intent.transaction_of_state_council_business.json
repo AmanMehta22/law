@@ -1,0 +1,34 @@
+{
+  "concept_id": "intent.transaction_of_state_council_business",
+  "concept_type": "intent",
+  "title": "Questions about Transaction of State Council Business",
+  "description": "Natural language queries a user may ask about: Transaction of State Council Business",
+  "content": {
+    "queries": [
+      "How do I file transaction of state council business?",
+      "What are the steps for transaction of state council business?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH2-S6-4",
+    "procedure.transaction_of_state_council_business"
+  ],
+  "related_concepts": [
+    "procedure.transaction_of_state_council_business"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

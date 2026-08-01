@@ -1,0 +1,33 @@
+{
+  "concept_id": "intent.director_general_must_submit_inquiries_or_investigations",
+  "concept_type": "intent",
+  "title": "Questions about Director-General must submit inquiries or investigations",
+  "description": "Natural language queries a user may ask about: Director-General must submit inquiries or investigations",
+  "content": {
+    "queries": [
+      "What are the duties of the Director-General?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S15-5",
+    "obligation.director_general_must_submit_inquiries_or_investigations"
+  ],
+  "related_concepts": [
+    "obligation.director_general_must_submit_inquiries_or_investigations"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

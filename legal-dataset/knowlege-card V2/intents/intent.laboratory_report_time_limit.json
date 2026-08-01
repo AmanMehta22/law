@@ -1,0 +1,36 @@
+{
+  "concept_id": "intent.laboratory_report_time_limit",
+  "concept_type": "intent",
+  "title": "Questions about Laboratory report time limit",
+  "description": "Natural language queries a user may ask about: Laboratory report time limit",
+  "content": {
+    "queries": [
+      "What is laboratory report time limit?",
+      "How does laboratory report time limit work?",
+      "Can you explain laboratory report time limit?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-2",
+    "CPA2019-CH4-S41",
+    "timeline.forty_five_days"
+  ],
+  "related_concepts": [
+    "timeline.forty_five_days"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

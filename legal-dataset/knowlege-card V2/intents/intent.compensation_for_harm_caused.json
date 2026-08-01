@@ -1,0 +1,40 @@
+{
+  "concept_id": "intent.compensation_for_harm_caused",
+  "concept_type": "intent",
+  "title": "Questions about Compensation for harm caused",
+  "description": "Natural language queries a user may ask about: Compensation for harm caused",
+  "content": {
+    "queries": [
+      "what if a product hurts me",
+      "what if the service provider is negligent",
+      "can I get compensation for harm caused by a product",
+      "what if product seller is not manufacturer"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-34",
+    "CPA2019-CH1-S2-35",
+    "CPA2019-CH6-S82",
+    "CPA2019-CH6-S85",
+    "CPA2019-CH6-S86",
+    "remedy.compensation"
+  ],
+  "related_concepts": [
+    "remedy.compensation"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

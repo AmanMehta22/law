@@ -1,0 +1,35 @@
+{
+  "concept_id": "intent.evidence_on_affidavits",
+  "concept_type": "intent",
+  "title": "Questions about Evidence on affidavits",
+  "description": "Natural language queries a user may ask about: Evidence on affidavits",
+  "content": {
+    "queries": [
+      "What is evidence on affidavits?",
+      "How does evidence on affidavits work?",
+      "Can you explain evidence on affidavits?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-9",
+    "evidence.affidavits"
+  ],
+  "related_concepts": [
+    "evidence.affidavits"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "concept_id": "intent.mediation_must_be_conducted_within_a_specified_time_and_manner",
+  "concept_type": "intent",
+  "title": "Questions about Mediation must be conducted within a specified time and manner",
+  "description": "Natural language queries a user may ask about: Mediation must be conducted within a specified time and manner",
+  "content": {
+    "queries": [
+      "what is the mediation process"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S103-2",
+    "obligation.mediation_authority_must_conduct_mediation_within_a_specifie"
+  ],
+  "related_concepts": [
+    "obligation.mediation_authority_must_conduct_mediation_within_a_specifie"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

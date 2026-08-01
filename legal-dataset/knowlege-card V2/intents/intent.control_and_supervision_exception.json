@@ -1,0 +1,35 @@
+{
+  "concept_id": "intent.control_and_supervision_exception",
+  "concept_type": "intent",
+  "title": "Questions about Control and supervision exception",
+  "description": "Natural language queries a user may ask about: Control and supervision exception",
+  "content": {
+    "queries": [
+      "What is control and supervision exception?",
+      "How does control and supervision exception work?",
+      "Can you explain control and supervision exception?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S15-3",
+    "exception.subject_to_the_general_control_supervision_and_direction_of_"
+  ],
+  "related_concepts": [
+    "exception.subject_to_the_general_control_supervision_and_direction_of_"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "concept_id": "intent.return_of_seized_documents",
+  "concept_type": "intent",
+  "title": "Questions about Return of seized documents",
+  "description": "Natural language queries a user may ask about: Return of seized documents",
+  "content": {
+    "queries": [
+      "What happens to seized documents?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S22-3",
+    "obligation.person_seizing_the_documents_must_return_seized_documents"
+  ],
+  "related_concepts": [
+    "obligation.person_seizing_the_documents_must_return_seized_documents"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

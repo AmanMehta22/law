@@ -1,0 +1,33 @@
+{
+  "concept_id": "intent.mediator_must_disclose_circumstances_affecting_independence_or_impartiality",
+  "concept_type": "intent",
+  "title": "Questions about Mediator must disclose circumstances affecting independence or impartiality",
+  "description": "Natural language queries a user may ask about: Mediator must disclose circumstances affecting independence or impartiality",
+  "content": {
+    "queries": [
+      "What must a mediator disclose about his independence?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S77",
+    "obligation.mediator_must_disclose_circumstances_which_may_give_rise_to_"
+  ],
+  "related_concepts": [
+    "obligation.mediator_must_disclose_circumstances_which_may_give_rise_to_"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

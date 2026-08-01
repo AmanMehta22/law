@@ -1,0 +1,35 @@
+{
+  "concept_id": "intent.territorial_jurisdiction_of_the_act",
+  "concept_type": "intent",
+  "title": "Questions about Territorial jurisdiction of the Act",
+  "description": "Natural language queries a user may ask about: Territorial jurisdiction of the Act",
+  "content": {
+    "queries": [
+      "What is territorial jurisdiction of the act?",
+      "How does territorial jurisdiction of the act work?",
+      "Can you explain territorial jurisdiction of the act?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S1-2",
+    "jurisdiction.the_consumer_protection_act_2019_the_whole_of_india_except_the_state_of_jammu_an"
+  ],
+  "related_concepts": [
+    "jurisdiction.the_consumer_protection_act_2019_the_whole_of_india_except_the_state_of_jammu_an"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

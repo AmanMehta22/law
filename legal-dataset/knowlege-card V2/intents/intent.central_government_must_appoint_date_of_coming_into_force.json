@@ -1,0 +1,35 @@
+{
+  "concept_id": "intent.central_government_must_appoint_date_of_coming_into_force",
+  "concept_type": "intent",
+  "title": "Questions about Central Government must appoint date of coming into force",
+  "description": "Natural language queries a user may ask about: Central Government must appoint date of coming into force",
+  "content": {
+    "queries": [
+      "What is central government must appoint date of coming into force?",
+      "How does central government must appoint date of coming into force work?",
+      "Can you explain central government must appoint date of coming into force?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S1-3",
+    "obligation.central_government_must_appoint_date_of_coming_into_force"
+  ],
+  "related_concepts": [
+    "obligation.central_government_must_appoint_date_of_coming_into_force"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

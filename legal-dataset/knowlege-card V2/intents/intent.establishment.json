@@ -1,0 +1,35 @@
+{
+  "concept_id": "intent.establishment",
+  "concept_type": "intent",
+  "title": "Questions about Establishment",
+  "description": "Natural language queries a user may ask about: Establishment",
+  "content": {
+    "queries": [
+      "What is an establishment under the Consumer Protection Act?",
+      "What types of businesses are considered establishments?",
+      "Is a public utility an establishment?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-19",
+    "definition.establishment"
+  ],
+  "related_concepts": [
+    "definition.establishment"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

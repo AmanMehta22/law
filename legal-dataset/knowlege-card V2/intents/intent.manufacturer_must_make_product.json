@@ -1,0 +1,33 @@
+{
+  "concept_id": "intent.manufacturer_must_make_product",
+  "concept_type": "intent",
+  "title": "Questions about Manufacturer must make product",
+  "description": "Natural language queries a user may ask about: Manufacturer must make product",
+  "content": {
+    "queries": [
+      "What is product manufacturer's liability?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH6-S84-2",
+    "obligation.product_manufacturer_shall_be_liable_in_a_product_liability_"
+  ],
+  "related_concepts": [
+    "obligation.product_manufacturer_shall_be_liable_in_a_product_liability_"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

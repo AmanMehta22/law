@@ -1,0 +1,35 @@
+{
+  "concept_id": "intent.service",
+  "concept_type": "intent",
+  "title": "Questions about Service",
+  "description": "Natural language queries a user may ask about: Service",
+  "content": {
+    "queries": [
+      "What is considered a service under the law?",
+      "What are examples of services?",
+      "Is a free service still considered a service?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-42",
+    "definition.service"
+  ],
+  "related_concepts": [
+    "definition.service"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

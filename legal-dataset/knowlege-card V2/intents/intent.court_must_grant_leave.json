@@ -1,0 +1,35 @@
+{
+  "concept_id": "intent.court_must_grant_leave",
+  "concept_type": "intent",
+  "title": "Questions about Court must grant leave",
+  "description": "Natural language queries a user may ask about: Court must grant leave",
+  "content": {
+    "queries": [
+      "What is court must grant leave?",
+      "How does court must grant leave work?",
+      "Can you explain court must grant leave?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S96-1",
+    "obligation.court_must_grant_leave_for_compounding_of_offence"
+  ],
+  "related_concepts": [
+    "obligation.court_must_grant_leave_for_compounding_of_offence"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

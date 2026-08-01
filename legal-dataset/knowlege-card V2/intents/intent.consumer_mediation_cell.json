@@ -1,0 +1,43 @@
+{
+  "concept_id": "intent.consumer_mediation_cell",
+  "concept_type": "intent",
+  "title": "Questions about Consumer Mediation Cell",
+  "description": "Natural language queries a user may ask about: Consumer Mediation Cell",
+  "content": {
+    "queries": [
+      "What is consumer mediation cell?",
+      "How does consumer mediation cell work?",
+      "Can you explain consumer mediation cell?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S74-1",
+    "CPA2019-CH5-S74-2",
+    "CPA2019-CH5-S74-3",
+    "CPA2019-CH5-S74-4",
+    "CPA2019-CH5-S74-5",
+    "CPA2019-CH5-S75-1",
+    "CPA2019-CH5-S79-1",
+    "CPA2019-CH8-S102-2",
+    "CPA2019-CH8-S103-2",
+    "authority.consumer_mediation_cell"
+  ],
+  "related_concepts": [
+    "authority.consumer_mediation_cell"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

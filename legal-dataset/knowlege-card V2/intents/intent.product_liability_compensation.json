@@ -1,0 +1,34 @@
+{
+  "concept_id": "intent.product_liability_compensation",
+  "concept_type": "intent",
+  "title": "Questions about Product liability compensation",
+  "description": "Natural language queries a user may ask about: Product liability compensation",
+  "content": {
+    "queries": [
+      "What is the punishment for product liability compensation?",
+      "What happens if I commit product liability compensation?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S39-1",
+    "penalty.product_liability_compensation"
+  ],
+  "related_concepts": [
+    "penalty.product_liability_compensation"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "concept_id": "intent.filing_of_complaint_after_specified_period",
+  "concept_type": "intent",
+  "title": "Questions about Filing of complaint after specified period",
+  "description": "Natural language queries a user may ask about: Filing of complaint after specified period",
+  "content": {
+    "queries": [
+      "How do I file filing of complaint after specified period?",
+      "What are the steps for filing of complaint after specified period?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S69-2",
+    "procedure.filing_of_complaint_after_specified_period"
+  ],
+  "related_concepts": [
+    "procedure.filing_of_complaint_after_specified_period"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

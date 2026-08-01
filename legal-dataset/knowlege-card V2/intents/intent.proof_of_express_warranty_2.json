@@ -1,0 +1,35 @@
+{
+  "concept_id": "intent.proof_of_express_warranty_2",
+  "concept_type": "intent",
+  "title": "Questions about Proof of express warranty",
+  "description": "Natural language queries a user may ask about: Proof of express warranty",
+  "content": {
+    "queries": [
+      "What is proof of express warranty?",
+      "How does proof of express warranty work?",
+      "Can you explain proof of express warranty?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH6-S85",
+    "evidence.warranty"
+  ],
+  "related_concepts": [
+    "evidence.warranty"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

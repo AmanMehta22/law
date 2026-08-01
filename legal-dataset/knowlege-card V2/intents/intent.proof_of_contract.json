@@ -1,0 +1,35 @@
+{
+  "concept_id": "intent.proof_of_contract",
+  "concept_type": "intent",
+  "title": "Questions about Proof of contract",
+  "description": "Natural language queries a user may ask about: Proof of contract",
+  "content": {
+    "queries": [
+      "What is proof of contract?",
+      "How does proof of contract work?",
+      "Can you explain proof of contract?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH6-S85",
+    "evidence.contract"
+  ],
+  "related_concepts": [
+    "evidence.contract"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

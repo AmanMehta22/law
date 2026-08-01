@@ -1,0 +1,35 @@
+{
+  "concept_id": "intent.state_commission_or_national_commission_must_not_grant_adjournment_without_suffi",
+  "concept_type": "intent",
+  "title": "Questions about State Commission or National Commission must not grant adjournment without sufficient cause",
+  "description": "Natural language queries a user may ask about: State Commission or National Commission must not grant adjournment without sufficient cause",
+  "content": {
+    "queries": [
+      "What is state commission or national commission must not grant adjournment without sufficient cause?",
+      "How does state commission or national commission must not grant adjournment without sufficient cause work?",
+      "Can you explain state commission or national commission must not grant adjournment without sufficient cause?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S52",
+    "obligation.state_commission_or_national_commission_must_not_grant_adjou"
+  ],
+  "related_concepts": [
+    "obligation.state_commission_or_national_commission_must_not_grant_adjou"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

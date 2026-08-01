@@ -1,0 +1,35 @@
+{
+  "concept_id": "intent.commissioner_of_a_regional_office",
+  "concept_type": "intent",
+  "title": "Questions about Commissioner of a regional office",
+  "description": "Natural language queries a user may ask about: Commissioner of a regional office",
+  "content": {
+    "queries": [
+      "What is commissioner of a regional office?",
+      "How does commissioner of a regional office work?",
+      "Can you explain commissioner of a regional office?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S16",
+    "authority.commissioner_of_a_regional_office"
+  ],
+  "related_concepts": [
+    "authority.commissioner_of_a_regional_office"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

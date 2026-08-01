@@ -1,0 +1,34 @@
+{
+  "concept_id": "intent.punitive_damages",
+  "concept_type": "intent",
+  "title": "Questions about Punitive damages",
+  "description": "Natural language queries a user may ask about: Punitive damages",
+  "content": {
+    "queries": [
+      "What is the punishment for punitive damages?",
+      "What happens if I commit punitive damages?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S39-1",
+    "penalty.punitive_damages"
+  ],
+  "related_concepts": [
+    "penalty.punitive_damages"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

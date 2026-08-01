@@ -1,0 +1,34 @@
+{
+  "concept_id": "intent.government_must_make_rules",
+  "concept_type": "intent",
+  "title": "Questions about Government must make rules",
+  "description": "Natural language queries a user may ask about: Government must make rules",
+  "content": {
+    "queries": [
+      "What are the rules under the Consumer Protection Act?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S101-2",
+    "CPA2019-CH8-S102-2",
+    "obligation.government_must_make_rules"
+  ],
+  "related_concepts": [
+    "obligation.government_must_make_rules"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

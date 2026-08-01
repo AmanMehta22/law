@@ -1,0 +1,33 @@
+{
+  "concept_id": "intent.return_of_seized_or_produced_documents_records_or_articles",
+  "concept_type": "intent",
+  "title": "Questions about Return of seized or produced documents, records or articles",
+  "description": "Natural language queries a user may ask about: Return of seized or produced documents, records or articles",
+  "content": {
+    "queries": [
+      "what happens to seized documents"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S22-3",
+    "remedy.return_of_seized_or_produced_documents_records_or_articles"
+  ],
+  "related_concepts": [
+    "remedy.return_of_seized_or_produced_documents_records_or_articles"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

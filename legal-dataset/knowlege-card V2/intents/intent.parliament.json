@@ -1,0 +1,35 @@
+{
+  "concept_id": "intent.parliament",
+  "concept_type": "intent",
+  "title": "Questions about Parliament",
+  "description": "Natural language queries a user may ask about: Parliament",
+  "content": {
+    "queries": [
+      "What is parliament?",
+      "How does parliament work?",
+      "Can you explain parliament?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S27-2",
+    "authority.parliament"
+  ],
+  "related_concepts": [
+    "authority.parliament"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

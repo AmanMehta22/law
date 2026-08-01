@@ -1,0 +1,34 @@
+{
+  "concept_id": "intent.disposal_of_seized_articles_subject_to_decay",
+  "concept_type": "intent",
+  "title": "Questions about Disposal of seized articles subject to decay",
+  "description": "Natural language queries a user may ask about: Disposal of seized articles subject to decay",
+  "content": {
+    "queries": [
+      "How do I file disposal of seized articles subject to decay?",
+      "What are the steps for disposal of seized articles subject to decay?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S22-4",
+    "procedure.disposal_of_seized_articles_subject_to_decay"
+  ],
+  "related_concepts": [
+    "procedure.disposal_of_seized_articles_subject_to_decay"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

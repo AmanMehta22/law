@@ -1,0 +1,35 @@
+{
+  "concept_id": "intent.e_commerce",
+  "concept_type": "intent",
+  "title": "Questions about E-Commerce",
+  "description": "Natural language queries a user may ask about: E-Commerce",
+  "content": {
+    "queries": [
+      "What is e-commerce?",
+      "What does e-commerce mean?",
+      "Is online shopping considered e-commerce?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-16",
+    "definition.e_commerce"
+  ],
+  "related_concepts": [
+    "definition.e_commerce"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

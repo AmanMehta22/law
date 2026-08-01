@@ -1,0 +1,35 @@
+{
+  "concept_id": "intent.district_commission_must_decide_on_admissibility_within_a_period",
+  "concept_type": "intent",
+  "title": "Questions about District Commission must decide on admissibility within a period",
+  "description": "Natural language queries a user may ask about: District Commission must decide on admissibility within a period",
+  "content": {
+    "queries": [
+      "What is district commission must decide on admissibility within a period?",
+      "How does district commission must decide on admissibility within a period work?",
+      "Can you explain district commission must decide on admissibility within a period?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S36-3",
+    "obligation.district_commission_must_decide_the_issue_of_admissibility_o"
+  ],
+  "related_concepts": [
+    "obligation.district_commission_must_decide_the_issue_of_admissibility_o"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

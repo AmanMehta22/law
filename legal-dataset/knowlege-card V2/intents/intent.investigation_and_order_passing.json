@@ -1,0 +1,34 @@
+{
+  "concept_id": "intent.investigation_and_order_passing",
+  "concept_type": "intent",
+  "title": "Questions about Investigation and Order Passing",
+  "description": "Natural language queries a user may ask about: Investigation and Order Passing",
+  "content": {
+    "queries": [
+      "How do I file investigation and order passing?",
+      "What are the steps for investigation and order passing?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S20",
+    "procedure.investigation_and_order_passing"
+  ],
+  "related_concepts": [
+    "procedure.investigation_and_order_passing"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

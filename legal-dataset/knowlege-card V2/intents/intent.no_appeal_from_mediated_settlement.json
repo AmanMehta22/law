@@ -1,0 +1,33 @@
+{
+  "concept_id": "intent.no_appeal_from_mediated_settlement",
+  "concept_type": "intent",
+  "title": "Questions about No appeal from mediated settlement",
+  "description": "Natural language queries a user may ask about: No appeal from mediated settlement",
+  "content": {
+    "queries": [
+      "Can I appeal a mediated settlement?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S41",
+    "exception.no_appeal_from_order_under_section_81_1_pursuant_to_mediatio"
+  ],
+  "related_concepts": [
+    "exception.no_appeal_from_order_under_section_81_1_pursuant_to_mediatio"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}
