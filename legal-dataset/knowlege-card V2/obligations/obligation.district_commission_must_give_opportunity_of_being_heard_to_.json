@@ -1,0 +1,40 @@
+{
+  "concept_id": "obligation.district_commission_must_give_opportunity_of_being_heard_to_",
+  "concept_type": "obligation",
+  "title": "District Commission must give opportunity of being heard",
+  "description": "Before rejecting a complaint, the District Commission must give the complainant an opportunity to be heard",
+  "content": {
+    "who": "District Commission",
+    "what": "must give opportunity of being heard to the complainant",
+    "conditions": [
+      "before rejecting a complaint"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S36-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "complaint",
+      "opportunity of being heard"
+    ],
+    "aliases": [
+      "fair hearing"
+    ],
+    "user_queries": [
+      "District Commission duties"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

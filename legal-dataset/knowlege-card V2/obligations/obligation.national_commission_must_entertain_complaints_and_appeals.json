@@ -1,0 +1,39 @@
+{
+  "concept_id": "obligation.national_commission_must_entertain_complaints_and_appeals",
+  "concept_type": "obligation",
+  "title": "National Commission must entertain complaints and appeals",
+  "description": "The National Commission has jurisdiction to entertain complaints and appeals under certain conditions",
+  "content": {
+    "who": "National Commission",
+    "what": "must entertain complaints and appeals",
+    "conditions": [
+      "value of goods or services exceeds rupees ten crore",
+      "complaints against unfair contracts",
+      "appeals against orders of State Commission or Central Authority"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S58-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "complaints",
+      "appeals"
+    ],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

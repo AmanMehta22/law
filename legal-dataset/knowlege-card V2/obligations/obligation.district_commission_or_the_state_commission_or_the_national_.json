@@ -1,0 +1,43 @@
+{
+  "concept_id": "obligation.district_commission_or_the_state_commission_or_the_national_",
+  "concept_type": "obligation",
+  "title": "Commission must hear consumer dispute",
+  "description": "continue to hear all issues in a consumer dispute that could not be settled by mediation",
+  "content": {
+    "who": "District Commission or the State Commission or the National Commission",
+    "what": "shall continue to hear all the issues involved in such consumer dispute",
+    "conditions": [
+      "the consumer dispute could not be settled by mediation"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH5-S81-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "consumer dispute",
+      "mediation",
+      "commission"
+    ],
+    "aliases": [
+      "District Commission",
+      "State Commission",
+      "National Commission"
+    ],
+    "user_queries": [
+      "what happens if mediation fails"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

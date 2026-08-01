@@ -1,0 +1,38 @@
+{
+  "concept_id": "obligation.central_government_must_consider_necessity",
+  "concept_type": "obligation",
+  "title": "Central Government must consider necessity",
+  "description": "The Central Government has to consider if it is necessary before designating any authority",
+  "content": {
+    "who": "Central Government",
+    "what": "must consider necessity",
+    "conditions": [
+      "if it considers necessary"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S23"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "designation",
+      "Central Authority"
+    ],
+    "aliases": [
+      "notification"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

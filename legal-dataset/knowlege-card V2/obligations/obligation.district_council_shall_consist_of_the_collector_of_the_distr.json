@@ -1,0 +1,31 @@
+{
+  "concept_id": "obligation.district_council_shall_consist_of_the_collector_of_the_distr",
+  "concept_type": "obligation",
+  "title": "District Council composition",
+  "description": "District Council composition obligation",
+  "content": {
+    "who": "District Council",
+    "what": "shall consist of the Collector of the district and other prescribed members",
+    "conditions": [],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH2-S8-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

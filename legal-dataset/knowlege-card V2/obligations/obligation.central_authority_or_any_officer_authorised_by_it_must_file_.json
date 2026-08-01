@@ -1,0 +1,63 @@
+{
+  "concept_id": "obligation.central_authority_or_any_officer_authorised_by_it_must_file_",
+  "concept_type": "obligation",
+  "title": "Central Authority must file a complaint",
+  "description": "...",
+  "content": {
+    "who": "Central Authority or any officer authorised by it",
+    "what": "must file a complaint",
+    "conditions": [
+      "f",
+      "o",
+      "r",
+      " ",
+      "a",
+      "n",
+      "y",
+      "e",
+      "c",
+      "u",
+      "d",
+      "s",
+      "t",
+      "i",
+      "8",
+      "9"
+    ],
+    "limitations": [
+      "t",
+      "o",
+      " ",
+      "b",
+      "e",
+      "a",
+      "k",
+      "n",
+      "y",
+      "c",
+      "m",
+      "p",
+      "u",
+      "r"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH7-S92"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "concept_id": "obligation.senior_most_member_of_the_national_commission_must_perform_t",
+  "concept_type": "obligation",
+  "title": "Senior-most member must perform duties",
+  "description": "Perform duties of President in case of vacancy or absence",
+  "content": {
+    "who": "Senior-most member of the National Commission",
+    "what": "must perform the duties of the President",
+    "conditions": [
+      "office of President is vacant or President is unable to perform duties"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S63"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "President",
+      "senior-most member"
+    ],
+    "aliases": [
+      "acting President"
+    ],
+    "user_queries": [
+      "who performs duties in absence of President"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

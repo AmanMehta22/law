@@ -1,0 +1,41 @@
+{
+  "concept_id": "obligation.president_and_members_of_the_district_commission_must_conduc",
+  "concept_type": "obligation",
+  "title": "President and members must conduct proceedings",
+  "description": "Conduct proceedings before the District Commission",
+  "content": {
+    "who": "President and members of the District Commission",
+    "what": "must conduct proceedings",
+    "conditions": [
+      "sitting together"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S36-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "proceedings"
+    ],
+    "aliases": [
+      "hearing",
+      "trial"
+    ],
+    "user_queries": [
+      "How are proceedings conducted in District Commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

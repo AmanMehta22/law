@@ -1,0 +1,31 @@
+{
+  "concept_id": "obligation.central_authority_must_pay_expenditure_incurred_in_connectio",
+  "concept_type": "obligation",
+  "title": "Central Authority must pay audit expenditure",
+  "description": "The Central Authority is required to pay expenditure incurred in connection with the audit of its accounts",
+  "content": {
+    "who": "Central Authority",
+    "what": "must pay expenditure incurred in connection with audit",
+    "conditions": [],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S26-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

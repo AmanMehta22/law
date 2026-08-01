@@ -1,0 +1,42 @@
+{
+  "concept_id": "obligation.state_government_may_direct_any_other_district_commission_or",
+  "concept_type": "obligation",
+  "title": "State Government must direct in case of vacancy",
+  "description": "The State Government has to direct in case of a vacancy in the office of the President or member of a District Commission",
+  "content": {
+    "who": "State Government",
+    "what": "may direct any other District Commission or the President or a member of any other District Commission to exercise jurisdiction or powers",
+    "conditions": [
+      "at any time",
+      "there is a vacancy in the office of the President or member of a District Commission"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S32"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "vacancy",
+      "District Commission",
+      "State Government"
+    ],
+    "aliases": [
+      "direction in case of vacancy"
+    ],
+    "user_queries": [
+      "what to do in case of vacancy in District Commission"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

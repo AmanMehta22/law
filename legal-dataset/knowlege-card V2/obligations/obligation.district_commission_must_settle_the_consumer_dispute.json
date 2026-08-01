@@ -1,0 +1,42 @@
+{
+  "concept_id": "obligation.district_commission_must_settle_the_consumer_dispute",
+  "concept_type": "obligation",
+  "title": "District Commission must settle consumer dispute",
+  "description": "The District Commission must settle the consumer dispute on the basis of evidence",
+  "content": {
+    "who": "District Commission",
+    "what": "must settle the consumer dispute",
+    "conditions": [
+      "opposite party denies or disputes allegations",
+      "opposite party omits or fails to take action to represent their case"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "consumer dispute",
+      "evidence"
+    ],
+    "aliases": [
+      "dispute resolution"
+    ],
+    "user_queries": [
+      "how is a consumer dispute settled"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

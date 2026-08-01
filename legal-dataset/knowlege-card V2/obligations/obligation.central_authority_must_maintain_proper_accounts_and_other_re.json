@@ -1,0 +1,42 @@
+{
+  "concept_id": "obligation.central_authority_must_maintain_proper_accounts_and_other_re",
+  "concept_type": "obligation",
+  "title": "Central Authority must maintain accounts and records",
+  "description": "The Central Authority is required to maintain proper accounts and other relevant records and prepare an annual statement of accounts",
+  "content": {
+    "who": "Central Authority",
+    "what": "must maintain proper accounts and other relevant records and prepare an annual statement of accounts",
+    "conditions": [
+      "in such form and manner as may be prescribed in consultation with the Comptroller and Auditor-General of India"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S26-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "accounts",
+      "records",
+      "annual statement"
+    ],
+    "aliases": [
+      "Central Authority",
+      "Comptroller and Auditor-General of India"
+    ],
+    "user_queries": [
+      "What are the accounting requirements for the Central Authority?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

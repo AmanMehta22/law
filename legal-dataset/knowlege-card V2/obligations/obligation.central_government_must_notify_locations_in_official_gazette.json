@@ -1,0 +1,39 @@
+{
+  "concept_id": "obligation.central_government_must_notify_locations_in_official_gazette",
+  "concept_type": "obligation",
+  "title": "Central Government must notify locations in Official Gazette",
+  "description": "The Central Government must notify locations of National Commission functions in the Official Gazette",
+  "content": {
+    "who": "Central Government",
+    "what": "must notify locations in Official Gazette",
+    "conditions": [
+      "in consultation with the National Commission"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S53-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "Central Government",
+      "notification",
+      "Official Gazette"
+    ],
+    "aliases": [
+      "Government of India"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

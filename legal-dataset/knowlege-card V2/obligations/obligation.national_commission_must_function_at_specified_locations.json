@@ -1,0 +1,39 @@
+{
+  "concept_id": "obligation.national_commission_must_function_at_specified_locations",
+  "concept_type": "obligation",
+  "title": "National Commission must function at specified locations",
+  "description": "The National Commission must function at the National Capital Region and other notified places",
+  "content": {
+    "who": "National Commission",
+    "what": "must function at specified locations",
+    "conditions": [
+      "ordinarily"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S53-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "function",
+      "location"
+    ],
+    "aliases": [
+      "National Consumer Disputes Redressal Commission"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

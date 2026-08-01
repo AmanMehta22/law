@@ -1,0 +1,42 @@
+{
+  "concept_id": "obligation.district_commission_must_refer_a_copy_of_the_complaint_to_th",
+  "concept_type": "obligation",
+  "title": "District Commission must refer complaint",
+  "description": "The District Commission must refer a copy of the complaint to the opposite party",
+  "content": {
+    "who": "District Commission",
+    "what": "must refer a copy of the complaint to the opposite party",
+    "conditions": [
+      "complaint admitted under sub-section (2) of section 36",
+      "complaint relates to goods or services where procedure specified in sub-section (2) cannot be followed"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "complaint",
+      "opposite party"
+    ],
+    "aliases": [
+      "consumer dispute forum"
+    ],
+    "user_queries": [
+      "what are the duties of the District Commission"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

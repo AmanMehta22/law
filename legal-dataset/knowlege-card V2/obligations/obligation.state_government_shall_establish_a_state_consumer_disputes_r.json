@@ -1,0 +1,39 @@
+{
+  "concept_id": "obligation.state_government_shall_establish_a_state_consumer_disputes_r",
+  "concept_type": "obligation",
+  "title": "State Government must establish State Commission",
+  "description": "Establishment of State Consumer Disputes Redressal Commission",
+  "content": {
+    "who": "State Government",
+    "what": "shall establish a State Consumer Disputes Redressal Commission",
+    "conditions": [],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S42-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "State Government",
+      "State Commission",
+      "establishment"
+    ],
+    "aliases": [
+      "State Consumer Disputes Redressal Commission"
+    ],
+    "user_queries": [
+      "What is the role of State Government in consumer protection?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

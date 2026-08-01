@@ -1,0 +1,40 @@
+{
+  "concept_id": "obligation.central_government_must_prescribe_interests",
+  "concept_type": "obligation",
+  "title": "Central Government must prescribe interests",
+  "description": "The Central Government is required to prescribe the interests to be represented by official or non-official members in the Central Council",
+  "content": {
+    "who": "Central Government",
+    "what": "must prescribe interests",
+    "conditions": [],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH2-S3-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "prescribe",
+      "interests",
+      "Central Council"
+    ],
+    "aliases": [
+      "specify",
+      "define"
+    ],
+    "user_queries": [
+      "What are the responsibilities of the Central Government regarding the Central Council?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "concept_id": "obligation.central_government_make_grants_of_money_to_the_central_autho",
+  "concept_type": "obligation",
+  "title": "Central Government must make grants",
+  "description": "The Central Government has to provide funds to the Central Authority",
+  "content": {
+    "who": "Central Government",
+    "what": "make grants of money to the Central Authority",
+    "conditions": [
+      "after due appropriation made by Parliament by law"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S25"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "grant",
+      "funding",
+      "Central Authority"
+    ],
+    "aliases": [
+      "financial support",
+      "allocation of funds"
+    ],
+    "user_queries": [
+      "How is the Central Authority funded?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

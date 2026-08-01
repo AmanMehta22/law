@@ -1,0 +1,37 @@
+{
+  "concept_id": "obligation.appellant_must_deposit_50_of_amount_ordered_by_state_commiss",
+  "concept_type": "obligation",
+  "title": "Appellant must deposit amount",
+  "description": "Appellant must deposit 50% of amount ordered by State Commission",
+  "content": {
+    "who": "Appellant",
+    "what": "must deposit 50% of amount ordered by State Commission",
+    "conditions": [
+      "ordered to pay amount by State Commission"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S51-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "appeal",
+      "deposit",
+      "National Commission"
+    ],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

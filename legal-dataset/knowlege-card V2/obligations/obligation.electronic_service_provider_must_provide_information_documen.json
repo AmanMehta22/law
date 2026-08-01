@@ -1,0 +1,38 @@
+{
+  "concept_id": "obligation.electronic_service_provider_must_provide_information_documen",
+  "concept_type": "obligation",
+  "title": "Electronic service provider must provide information",
+  "description": "Provide information, documents or records as specified in the order",
+  "content": {
+    "who": "Electronic service provider",
+    "what": "must provide information, documents or records",
+    "conditions": [
+      "as specified in the order"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-4"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "electronic service provider",
+      "information",
+      "documents",
+      "records"
+    ],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "concept_id": "obligation.national_commission_must_dispose_of_complaints",
+  "concept_type": "obligation",
+  "title": "National Commission must dispose of complaints",
+  "description": "The National Commission must dispose of complaints with modifications to sections 35-39",
+  "content": {
+    "who": "National Commission",
+    "what": "must dispose of complaints",
+    "conditions": [
+      "with such modifications as may be considered necessary"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S59-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "complaints",
+      "National Commission",
+      "disposal"
+    ],
+    "aliases": [
+      "National Commission complaints disposal"
+    ],
+    "user_queries": [
+      "How does the National Commission handle complaints?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

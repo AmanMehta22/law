@@ -1,0 +1,43 @@
+{
+  "concept_id": "obligation.district_commission_shall_review_any_of_the_order_passed_by_",
+  "concept_type": "obligation",
+  "title": "District Commission must review order",
+  "description": "Review of order passed by District Commission",
+  "content": {
+    "who": "District Commission",
+    "what": "shall review any of the order passed by it",
+    "conditions": [
+      "if there is an error apparent on the face of the record",
+      "either of its own motion or on an application made by any of the parties within thirty days of such order"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S40"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "review",
+      "order",
+      "District Commission"
+    ],
+    "aliases": [
+      "re-examine",
+      "reconsider"
+    ],
+    "user_queries": [
+      "Can the District Commission review its own order?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "concept_id": "obligation.person_must_prove_publication_in_ordinary_course_of_business",
+  "concept_type": "obligation",
+  "title": "Person must prove publication in ordinary course of business",
+  "description": "A person must prove that they published or arranged for publication of an advertisement in the ordinary course of their business to avoid liability",
+  "content": {
+    "who": "Person",
+    "what": "must prove publication in ordinary course of business",
+    "conditions": [
+      "had published or arranged for publication of advertisement in ordinary course of business"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S21-6"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "defence",
+      "advertisement",
+      "liability"
+    ],
+    "aliases": [
+      "due diligence"
+    ],
+    "user_queries": [
+      "how to avoid penalty for false advertising"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

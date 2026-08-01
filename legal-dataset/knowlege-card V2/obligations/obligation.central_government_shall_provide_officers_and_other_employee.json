@@ -1,0 +1,42 @@
+{
+  "concept_id": "obligation.central_government_shall_provide_officers_and_other_employee",
+  "concept_type": "obligation",
+  "title": "Central Government must provide officers and employees",
+  "description": "The Central Government is required to provide officers and employees to assist the National Commission",
+  "content": {
+    "who": "Central Government",
+    "what": "shall provide officers and other employees to assist the National Commission",
+    "conditions": [
+      "in consultation with the President of the National Commission"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S57-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "officers",
+      "employees",
+      "National Commission"
+    ],
+    "aliases": [
+      "Central Government",
+      "National Commission"
+    ],
+    "user_queries": [
+      "What is the role of Central Government in assisting National Commission"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

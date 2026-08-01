@@ -1,0 +1,38 @@
+{
+  "concept_id": "obligation.product_manufacturer_shall_be_liable_in_a_product_liability_",
+  "concept_type": "obligation",
+  "title": "Manufacturer must make product",
+  "description": "Manufacturer's liability in product liability action",
+  "content": {
+    "who": "Product manufacturer",
+    "what": "shall be liable in a product liability action",
+    "conditions": [],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH6-S84-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "product liability",
+      "manufacturer liability"
+    ],
+    "aliases": [
+      "product manufacturer liability"
+    ],
+    "user_queries": [
+      "What is product manufacturer's liability?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "concept_id": "obligation.comptroller_and_auditor_general_of_india_or_any_other_person",
+  "concept_type": "obligation",
+  "title": "Comptroller and Auditor-General of India must have audit rights",
+  "description": "Comptroller and Auditor-General of India has same rights, privileges and authority in connection with audit of Central Authority accounts",
+  "content": {
+    "who": "Comptroller and Auditor-General of India or any other person appointed by him",
+    "what": "shall have the same rights, privileges and authority in connection with such audit",
+    "conditions": [],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S26-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

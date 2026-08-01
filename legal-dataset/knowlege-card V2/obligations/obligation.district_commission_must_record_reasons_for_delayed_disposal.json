@@ -1,0 +1,41 @@
+{
+  "concept_id": "obligation.district_commission_must_record_reasons_for_delayed_disposal",
+  "concept_type": "obligation",
+  "title": "District Commission must record reasons for delayed disposal",
+  "description": "District Commission must record reasons for delayed disposal",
+  "content": {
+    "who": "District Commission",
+    "what": "must record reasons for delayed disposal in writing",
+    "conditions": [
+      "complaint is disposed of after the period so specified"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-7"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "delayed disposal",
+      "reasons"
+    ],
+    "aliases": [
+      "District Commission",
+      "Consumer Forum"
+    ],
+    "user_queries": [
+      "delayed disposal reasons"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

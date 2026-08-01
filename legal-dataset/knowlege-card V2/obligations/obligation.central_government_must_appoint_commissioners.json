@@ -1,0 +1,38 @@
+{
+  "concept_id": "obligation.central_government_must_appoint_commissioners",
+  "concept_type": "obligation",
+  "title": "Central Government must appoint Commissioners",
+  "description": "The Central Government is required to appoint Commissioners to the Central Authority",
+  "content": {
+    "who": "Central Government",
+    "what": "must appoint Commissioners",
+    "conditions": [],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S10-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "appointment",
+      "Commissioners"
+    ],
+    "aliases": [
+      "Central Authority members"
+    ],
+    "user_queries": [
+      "Who appoints the Central Authority members?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

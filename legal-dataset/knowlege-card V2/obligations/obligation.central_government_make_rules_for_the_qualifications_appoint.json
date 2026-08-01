@@ -1,0 +1,40 @@
+{
+  "concept_id": "obligation.central_government_make_rules_for_the_qualifications_appoint",
+  "concept_type": "obligation",
+  "title": "Central Government must make rules for Chief Commissioner and Commissioners",
+  "description": "The Central Government is required to make rules for the Chief Commissioner and Commissioners of the Central Authority",
+  "content": {
+    "who": "Central Government",
+    "what": "make rules for the qualifications, appointment, and terms of service of the Chief Commissioner and Commissioners",
+    "conditions": [],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S11"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "Central Government",
+      "Chief Commissioner",
+      "Commissioners",
+      "rules"
+    ],
+    "aliases": [
+      "Central Authority"
+    ],
+    "user_queries": [
+      "What are the rules for Chief Commissioner and Commissioners?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

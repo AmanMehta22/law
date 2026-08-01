@@ -1,0 +1,40 @@
+{
+  "concept_id": "obligation.party_to_the_contract_must_not_terminate_contract_unilateral",
+  "concept_type": "obligation",
+  "title": "Party to the contract must not terminate contract unilaterally without reasonable cause",
+  "description": "A party to the contract must not terminate the contract unilaterally without reasonable cause",
+  "content": {
+    "who": "Party to the contract",
+    "what": "must not terminate contract unilaterally",
+    "conditions": [
+      "without reasonable cause"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-46"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "unfair contract",
+      "unilateral termination"
+    ],
+    "aliases": [
+      "contract termination"
+    ],
+    "user_queries": [
+      "Can a company terminate a contract without reasonable cause?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

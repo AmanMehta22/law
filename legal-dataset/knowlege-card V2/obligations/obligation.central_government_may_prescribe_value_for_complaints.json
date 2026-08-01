@@ -1,0 +1,37 @@
+{
+  "concept_id": "obligation.central_government_may_prescribe_value_for_complaints",
+  "concept_type": "obligation",
+  "title": "Central Government may prescribe value for complaints",
+  "description": "The Central Government has the power to prescribe a value for complaints under certain conditions",
+  "content": {
+    "who": "Central Government",
+    "what": "may prescribe value for complaints",
+    "conditions": [
+      "deems it necessary"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S58-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "Central Government",
+      "prescribe value",
+      "complaints"
+    ],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

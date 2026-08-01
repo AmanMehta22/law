@@ -1,0 +1,42 @@
+{
+  "concept_id": "obligation.national_commission_shall_investigate_into_any_allegations_a",
+  "concept_type": "obligation",
+  "title": "National Commission must investigate allegations against State Commission members",
+  "description": "The National Commission shall investigate allegations against President and members of a State Commission",
+  "content": {
+    "who": "National Commission",
+    "what": "shall investigate into any allegations against the President and members of a State Commission",
+    "conditions": [
+      "and submit inquiry report to the State Government concerned along with copy endorsed to the Central Government"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S70-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "allegations",
+      "investigation"
+    ],
+    "aliases": [
+      "State Commission members",
+      "accountability"
+    ],
+    "user_queries": [
+      "What happens when allegations are made against State Commission members?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

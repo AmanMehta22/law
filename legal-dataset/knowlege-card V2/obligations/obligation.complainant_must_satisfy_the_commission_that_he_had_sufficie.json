@@ -1,0 +1,43 @@
+{
+  "concept_id": "obligation.complainant_must_satisfy_the_commission_that_he_had_sufficie",
+  "concept_type": "obligation",
+  "title": "Complainant must satisfy the Commission",
+  "description": "Complainant must show sufficient cause for delay",
+  "content": {
+    "who": "Complainant",
+    "what": "must satisfy the Commission that he had sufficient cause for not filing the complaint within the period",
+    "conditions": [
+      "sufficient cause for delay"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S69-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "complainant",
+      "sufficient cause",
+      "delay"
+    ],
+    "aliases": [
+      "consumer",
+      "applicant"
+    ],
+    "user_queries": [
+      "late complaint",
+      "delayed filing"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

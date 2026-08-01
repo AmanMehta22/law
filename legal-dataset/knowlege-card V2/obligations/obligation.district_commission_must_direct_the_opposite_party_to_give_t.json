@@ -1,0 +1,44 @@
+{
+  "concept_id": "obligation.district_commission_must_direct_the_opposite_party_to_give_t",
+  "concept_type": "obligation",
+  "title": "District Commission must direct opposite party to respond",
+  "description": "The District Commission must direct the opposite party to give their version of the case within a specified period",
+  "content": {
+    "who": "District Commission",
+    "what": "must direct the opposite party to give their version of the case",
+    "conditions": [
+      "complaint admitted under sub-section (2) of section 36",
+      "complaint relates to goods or services where procedure specified in sub-section (2) cannot be followed"
+    ],
+    "limitations": [
+      "period of thirty days or extended period not exceeding fifteen days"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "opposite party",
+      "response period"
+    ],
+    "aliases": [
+      "time limit for response"
+    ],
+    "user_queries": [
+      "how long does the opposite party have to respond"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

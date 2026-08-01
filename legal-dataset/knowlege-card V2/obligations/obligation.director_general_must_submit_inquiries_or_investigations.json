@@ -1,0 +1,43 @@
+{
+  "concept_id": "obligation.director_general_must_submit_inquiries_or_investigations",
+  "concept_type": "obligation",
+  "title": "Director-General must submit inquiries or investigations",
+  "description": "The Director-General is required to submit inquiries or investigations to the Central Authority",
+  "content": {
+    "who": "Director-General",
+    "what": "must submit inquiries or investigations",
+    "conditions": [
+      "in such form, in such manner and within such time, as may be specified by regulations"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S15-5"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "inquiries",
+      "investigations",
+      "Director-General",
+      "Central Authority"
+    ],
+    "aliases": [
+      "report",
+      "submission"
+    ],
+    "user_queries": [
+      "What are the duties of the Director-General?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

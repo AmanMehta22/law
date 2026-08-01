@@ -1,0 +1,41 @@
+{
+  "concept_id": "obligation.government_must_prescribe_salaries_and_allowances",
+  "concept_type": "obligation",
+  "title": "Government must prescribe salaries and allowances",
+  "description": "The Government is required to prescribe the salaries and allowances of the Central Authority's officers and employees",
+  "content": {
+    "who": "Government",
+    "what": "must prescribe salaries and allowances",
+    "conditions": [],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S13-2",
+    "CPA2019-CH4-S33-3",
+    "CPA2019-CH4-S57-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "salaries",
+      "allowances",
+      "National Commission"
+    ],
+    "aliases": [
+      "remuneration"
+    ],
+    "user_queries": [
+      "What are the salary rules for National Commission employees?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

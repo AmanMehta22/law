@@ -1,0 +1,33 @@
+{
+  "concept_id": "obligation.central_government_may_prescribe_such_other_value",
+  "concept_type": "obligation",
+  "title": "Central Government may prescribe value",
+  "description": "...",
+  "content": {
+    "who": "Central Government",
+    "what": "may prescribe such other value",
+    "conditions": [
+      "where the Central Government deems it necessary so to do"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S34-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

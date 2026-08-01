@@ -1,0 +1,47 @@
+{
+  "concept_id": "obligation.district_collector_inquire_into_or_investigate_complaints_an",
+  "concept_type": "obligation",
+  "title": "District Collector must inquire and report",
+  "description": "Inquire into or investigate complaints and submit report",
+  "content": {
+    "who": "District Collector",
+    "what": "inquire into or investigate complaints and submit report",
+    "conditions": [
+      "on a complaint or on a reference made to him by the Central Authority or the Commissioner of a regional office"
+    ],
+    "limitations": [
+      "within his jurisdiction"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S16"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "complaint",
+      "investigation",
+      "report"
+    ],
+    "aliases": [
+      "District Collector",
+      "Central Authority",
+      "Commissioner of a regional office"
+    ],
+    "user_queries": [
+      "consumer rights violation",
+      "unfair trade practices",
+      "false advertisements"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

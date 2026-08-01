@@ -1,0 +1,37 @@
+{
+  "concept_id": "obligation.state_governments_must_conform_to_model_rules",
+  "concept_type": "obligation",
+  "title": "State Governments must conform to model rules",
+  "description": "State Governments must conform to model rules while making rules",
+  "content": {
+    "who": "State Governments",
+    "what": "must conform to model rules",
+    "conditions": [
+      "while making rules",
+      "so far as is practicable"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH8-S102-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "conform to model rules",
+      "State Governments"
+    ],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

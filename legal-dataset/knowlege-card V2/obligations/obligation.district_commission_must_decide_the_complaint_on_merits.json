@@ -1,0 +1,41 @@
+{
+  "concept_id": "obligation.district_commission_must_decide_the_complaint_on_merits",
+  "concept_type": "obligation",
+  "title": "District Commission must decide complaint on merits",
+  "description": "The District Commission must decide the complaint on merits if the complainant fails to appear",
+  "content": {
+    "who": "District Commission",
+    "what": "must decide the complaint on merits",
+    "conditions": [
+      "complainant fails to appear on the date of hearing"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "complaint",
+      "merits"
+    ],
+    "aliases": [
+      "ex parte decision"
+    ],
+    "user_queries": [
+      "what happens if the complainant does not appear"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

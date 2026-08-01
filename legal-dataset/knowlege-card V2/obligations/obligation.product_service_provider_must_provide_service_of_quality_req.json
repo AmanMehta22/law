@@ -1,0 +1,40 @@
+{
+  "concept_id": "obligation.product_service_provider_must_provide_service_of_quality_req",
+  "concept_type": "obligation",
+  "title": "Product service provider must provide service of required quality",
+  "description": "Product service provider is liable if service is faulty or imperfect",
+  "content": {
+    "who": "Product service provider",
+    "what": "must provide service of quality required by law or contract",
+    "conditions": [
+      "service is provided under any law or contract"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH6-S85"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "product liability",
+      "service quality"
+    ],
+    "aliases": [
+      "product service provider liability"
+    ],
+    "user_queries": [
+      "what is product liability"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

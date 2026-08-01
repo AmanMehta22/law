@@ -1,0 +1,43 @@
+{
+  "concept_id": "obligation.president_or_other_members_must_give_opinion_on_the_referred",
+  "concept_type": "obligation",
+  "title": "President or other members must give opinion within a month",
+  "description": "The President or other members must give an opinion on the referred point or points within a month",
+  "content": {
+    "who": "President or other members",
+    "what": "must give opinion on the referred point or points",
+    "conditions": [
+      "within a period of one month from the date of such reference"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S47-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "President",
+      "opinion",
+      "reference",
+      "time limit"
+    ],
+    "aliases": [
+      "timeframe",
+      "deadline"
+    ],
+    "user_queries": [
+      "What is the timeframe for the President to give an opinion?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

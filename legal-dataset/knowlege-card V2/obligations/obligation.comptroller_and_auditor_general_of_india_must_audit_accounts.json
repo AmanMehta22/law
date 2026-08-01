@@ -1,0 +1,33 @@
+{
+  "concept_id": "obligation.comptroller_and_auditor_general_of_india_must_audit_accounts",
+  "concept_type": "obligation",
+  "title": "Comptroller and Auditor-General of India must audit accounts",
+  "description": "The Comptroller and Auditor-General of India is required to audit the accounts of the Central Authority",
+  "content": {
+    "who": "Comptroller and Auditor-General of India",
+    "what": "must audit accounts of Central Authority",
+    "conditions": [
+      "at such intervals as may be specified by him"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S26-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

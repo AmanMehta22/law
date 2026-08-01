@@ -1,0 +1,37 @@
+{
+  "concept_id": "obligation.director_general_or_such_other_officer_must_dispose_of_the_a",
+  "concept_type": "obligation",
+  "title": "Director-General or officer must dispose of seized articles",
+  "description": "dispose of seized articles subject to speedy or natural decay",
+  "content": {
+    "who": "Director-General or such other officer",
+    "what": "must dispose of the article",
+    "conditions": [
+      "the article is subject to speedy or natural decay"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S22-4"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "seized article",
+      "speedy decay",
+      "natural decay"
+    ],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

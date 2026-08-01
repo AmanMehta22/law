@@ -1,0 +1,40 @@
+{
+  "concept_id": "obligation.mediator_must_disclose_circumstances_which_may_give_rise_to_",
+  "concept_type": "obligation",
+  "title": "Mediator must disclose circumstances affecting independence or impartiality",
+  "description": "Mediator must disclose circumstances that may give rise to a justifiable doubt as to his independence or impartiality",
+  "content": {
+    "who": "Mediator",
+    "what": "must disclose circumstances which may give rise to a justifiable doubt as to his independence or impartiality",
+    "conditions": [],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH5-S77"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "mediator",
+      "independence",
+      "impartiality"
+    ],
+    "aliases": [
+      "reveal",
+      "declare"
+    ],
+    "user_queries": [
+      "What must a mediator disclose about his independence?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

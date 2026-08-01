@@ -1,0 +1,43 @@
+{
+  "concept_id": "obligation.the_other_member_must_give_his_opinion_on_such_point_or_poin",
+  "concept_type": "obligation",
+  "title": "Member must give opinion within a month",
+  "description": "The other member must provide an opinion on the referred point or points within a specified timeframe",
+  "content": {
+    "who": "The other member",
+    "what": "must give his opinion on such point or points referred to him",
+    "conditions": [
+      "within a period of one month from the date of such reference"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S39-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "member",
+      "opinion",
+      "timeframe"
+    ],
+    "aliases": [
+      "District Commission member",
+      "referral opinion"
+    ],
+    "user_queries": [
+      "What are the obligations of a District Commission member in case of a disagreement?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

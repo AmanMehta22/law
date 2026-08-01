@@ -1,0 +1,38 @@
+{
+  "concept_id": "obligation.state_commission_shall_review_any_of_the_order_passed_by_it",
+  "concept_type": "obligation",
+  "title": "State Commission must review order on application",
+  "description": "Review of order by State Commission",
+  "content": {
+    "who": "State Commission",
+    "what": "shall review any of the order passed by it",
+    "conditions": [
+      "on an application made by any of the parties",
+      "within thirty days of such order"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S50"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "review",
+      "order",
+      "State Commission"
+    ],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

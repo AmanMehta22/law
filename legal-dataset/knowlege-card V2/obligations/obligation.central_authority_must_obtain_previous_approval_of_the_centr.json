@@ -1,0 +1,36 @@
+{
+  "concept_id": "obligation.central_authority_must_obtain_previous_approval_of_the_centr",
+  "concept_type": "obligation",
+  "title": "Central Authority must obtain approval",
+  "description": "The Central Authority must obtain approval from the Central Government before making regulations",
+  "content": {
+    "who": "Central Authority",
+    "what": "must obtain previous approval of the Central Government",
+    "conditions": [
+      "before making regulations"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH8-S104-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "approval",
+      "regulations"
+    ],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

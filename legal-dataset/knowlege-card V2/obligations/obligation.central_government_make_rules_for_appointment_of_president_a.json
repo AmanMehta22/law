@@ -1,0 +1,40 @@
+{
+  "concept_id": "obligation.central_government_make_rules_for_appointment_of_president_a",
+  "concept_type": "obligation",
+  "title": "Central Government must make rules for State Commission appointments",
+  "description": "The Central Government is required to make rules for the appointment of the President and members of the State Commission",
+  "content": {
+    "who": "Central Government",
+    "what": "make rules for appointment of President and members of State Commission",
+    "conditions": [],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S43"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "appointment",
+      "State Commission",
+      "rules"
+    ],
+    "aliases": [
+      "regulations",
+      "notifications"
+    ],
+    "user_queries": [
+      "What are the rules for State Commission appointments?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

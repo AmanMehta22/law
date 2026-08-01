@@ -1,0 +1,38 @@
+{
+  "concept_id": "obligation.central_authority_ensure_that_no_false_or_misleading_adverti",
+  "concept_type": "obligation",
+  "title": "Central Authority must prevent false or misleading advertisements of goods or services",
+  "description": "Ensure no false or misleading advertisements",
+  "content": {
+    "who": "Central Authority",
+    "what": "ensure that no false or misleading advertisement is made of any goods or services",
+    "conditions": [
+      "which contravenes the provisions of this Act or the rules or regulations made thereunder"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S18-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "false or misleading advertisements",
+      "Central Authority"
+    ],
+    "aliases": [
+      "advertisements"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

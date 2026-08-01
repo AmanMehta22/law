@@ -1,0 +1,41 @@
+{
+  "concept_id": "obligation.state_council_shall_meet",
+  "concept_type": "obligation",
+  "title": "State Council meeting obligation",
+  "description": "The State Council is required to hold meetings",
+  "content": {
+    "who": "State Council",
+    "what": "shall meet",
+    "conditions": [
+      "as and when necessary",
+      "not less than two meetings every year"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH2-S6-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "State Council",
+      "meeting"
+    ],
+    "aliases": [
+      "State Council meeting requirement"
+    ],
+    "user_queries": [
+      "How often must the State Council meet?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

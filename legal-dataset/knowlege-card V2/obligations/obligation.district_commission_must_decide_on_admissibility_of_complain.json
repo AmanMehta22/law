@@ -1,0 +1,42 @@
+{
+  "concept_id": "obligation.district_commission_must_decide_on_admissibility_of_complain",
+  "concept_type": "obligation",
+  "title": "District Commission must decide admissibility within 21 days",
+  "description": "The District Commission must decide on the admissibility of a complaint within 21 days of filing",
+  "content": {
+    "who": "District Commission",
+    "what": "must decide on admissibility of complaint",
+    "conditions": [
+      "within 21 days of filing the complaint"
+    ],
+    "limitations": [
+      "ordinarily"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S36-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "admissibility",
+      "time limit"
+    ],
+    "aliases": [
+      "complaint procedure"
+    ],
+    "user_queries": [
+      "District Commission timelines"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

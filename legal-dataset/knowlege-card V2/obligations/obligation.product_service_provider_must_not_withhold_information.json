@@ -1,0 +1,38 @@
+{
+  "concept_id": "obligation.product_service_provider_must_not_withhold_information",
+  "concept_type": "obligation",
+  "title": "Product service provider must not withhold information",
+  "description": "Product service provider is liable if they withhold information causing harm",
+  "content": {
+    "who": "Product service provider",
+    "what": "must not withhold information",
+    "conditions": [],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH6-S85"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "product liability",
+      "information withholding"
+    ],
+    "aliases": [
+      "product service provider negligence"
+    ],
+    "user_queries": [
+      "what is product liability action"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

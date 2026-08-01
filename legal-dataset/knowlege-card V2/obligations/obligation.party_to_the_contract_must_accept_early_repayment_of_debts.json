@@ -1,0 +1,40 @@
+{
+  "concept_id": "obligation.party_to_the_contract_must_accept_early_repayment_of_debts",
+  "concept_type": "obligation",
+  "title": "Party to the contract must accept early repayment of debts",
+  "description": "A party to the contract must accept early repayment of debts on payment of applicable penalty",
+  "content": {
+    "who": "Party to the contract",
+    "what": "must accept early repayment of debts",
+    "conditions": [
+      "on payment of applicable penalty"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-46"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "unfair contract",
+      "early repayment"
+    ],
+    "aliases": [
+      "debt repayment"
+    ],
+    "user_queries": [
+      "Can I repay my debt early?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

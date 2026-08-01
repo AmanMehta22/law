@@ -1,0 +1,42 @@
+{
+  "concept_id": "obligation.consumer_mediation_cell_shall_submit_a_quarterly_report",
+  "concept_type": "obligation",
+  "title": "Consumer Mediation Cell must submit quarterly report",
+  "description": "Submission of quarterly report by consumer mediation cell",
+  "content": {
+    "who": "Consumer Mediation Cell",
+    "what": "shall submit a quarterly report",
+    "conditions": [
+      "in the manner specified by regulations"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH5-S74-5"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "quarterly report",
+      "consumer mediation cell",
+      "regulations"
+    ],
+    "aliases": [
+      "consumer dispute resolution",
+      "mediation cell report"
+    ],
+    "user_queries": [
+      "What are the reporting requirements for consumer mediation cells?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

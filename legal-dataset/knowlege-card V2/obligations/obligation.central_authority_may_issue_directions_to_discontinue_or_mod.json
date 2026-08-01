@@ -1,0 +1,43 @@
+{
+  "concept_id": "obligation.central_authority_may_issue_directions_to_discontinue_or_mod",
+  "concept_type": "obligation",
+  "title": "Central Authority must investigate and issue directions",
+  "description": "The Central Authority has the power to issue directions after investigation",
+  "content": {
+    "who": "Central Authority",
+    "what": "may issue directions to discontinue or modify advertisement",
+    "conditions": [
+      "after investigation",
+      "advertisement is false or misleading and prejudicial to consumer interest or in contravention of consumer rights"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S21-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "Central Authority",
+      "false advertisement",
+      "consumer rights"
+    ],
+    "aliases": [
+      "consumer protection",
+      "misleading ads"
+    ],
+    "user_queries": [
+      "What are the powers of Central Authority regarding advertisements?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

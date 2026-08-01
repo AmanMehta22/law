@@ -1,0 +1,41 @@
+{
+  "concept_id": "obligation.appellant_must_precisely_state_the_substantial_question_of_l",
+  "concept_type": "obligation",
+  "title": "Appellant must state substantial question of law",
+  "description": "The appellant is required to precisely state the substantial question of law involved in the appeal",
+  "content": {
+    "who": "Appellant",
+    "what": "must precisely state the substantial question of law involved in the appeal",
+    "conditions": [],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S51-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "appeal",
+      "question of law",
+      "memorandum of appeal"
+    ],
+    "aliases": [
+      "statement of appeal",
+      "appeal petition"
+    ],
+    "user_queries": [
+      "What are the requirements for filing an appeal?",
+      "How to appeal a decision involving a question of law?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

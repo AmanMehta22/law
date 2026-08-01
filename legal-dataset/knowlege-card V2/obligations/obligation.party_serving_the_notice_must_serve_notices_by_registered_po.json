@@ -1,0 +1,42 @@
+{
+  "concept_id": "obligation.party_serving_the_notice_must_serve_notices_by_registered_po",
+  "concept_type": "obligation",
+  "title": "Serving notices",
+  "description": "Serving notices as required by the Act",
+  "content": {
+    "who": "Party serving the notice",
+    "what": "must serve notices by registered post, speed post, courier service, or electronic means",
+    "conditions": [
+      "notices required by this Act to be served"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S65-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "notices",
+      "service of notice",
+      "registered post"
+    ],
+    "aliases": [
+      "serving a complaint",
+      "giving notice"
+    ],
+    "user_queries": [
+      "how to serve a notice under the Consumer Protection Act"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

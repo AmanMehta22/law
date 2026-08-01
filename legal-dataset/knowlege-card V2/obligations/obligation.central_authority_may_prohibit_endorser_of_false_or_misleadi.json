@@ -1,0 +1,42 @@
+{
+  "concept_id": "obligation.central_authority_may_prohibit_endorser_of_false_or_misleadi",
+  "concept_type": "obligation",
+  "title": "Central Authority must consider prohibition",
+  "description": "The Central Authority has the power to prohibit an endorser of a false or misleading advertisement",
+  "content": {
+    "who": "Central Authority",
+    "what": "may prohibit endorser of false or misleading advertisement from making endorsement",
+    "conditions": [
+      "deems it necessary"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S21-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "Central Authority",
+      "endorser",
+      "false advertisement"
+    ],
+    "aliases": [
+      "regulator",
+      "authority"
+    ],
+    "user_queries": [
+      "can Central Authority ban endorsers"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

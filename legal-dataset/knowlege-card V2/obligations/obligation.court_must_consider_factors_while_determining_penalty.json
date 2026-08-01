@@ -1,0 +1,40 @@
+{
+  "concept_id": "obligation.court_must_consider_factors_while_determining_penalty",
+  "concept_type": "obligation",
+  "title": "Court must consider factors while determining penalty",
+  "description": "The court must consider certain factors while determining the penalty under this section",
+  "content": {
+    "who": "Court",
+    "what": "must consider factors while determining penalty",
+    "conditions": [
+      "factors include population and area impacted, frequency and duration of offence, vulnerability of affected persons, and gross revenue from sales"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S21-7"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "penalty determination",
+      "consumer protection"
+    ],
+    "aliases": [
+      "court consideration while determining penalty"
+    ],
+    "user_queries": [
+      "what factors to consider while determining penalty under this section"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

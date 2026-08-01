@@ -1,0 +1,45 @@
+{
+  "concept_id": "obligation.state_government_make_rules_to_provide_for_salaries_and_allo",
+  "concept_type": "obligation",
+  "title": "State Government must make rules for salaries and allowances",
+  "description": "The State Government is required to make rules for salaries and allowances of the President and members of the District Commission",
+  "content": {
+    "who": "State Government",
+    "what": "make rules to provide for salaries and allowances and other terms and conditions of service",
+    "conditions": [
+      "by notification"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S30",
+    "CPA2019-CH4-S44"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "State Government",
+      "rules",
+      "salaries",
+      "allowances"
+    ],
+    "aliases": [
+      "State Govt",
+      "rules making"
+    ],
+    "user_queries": [
+      "What are the rules for salaries of District Commission members",
+      "What are the obligations of State Government regarding State Commission"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "concept_id": "obligation.national_commission_or_the_state_commission_or_the_district_",
+  "concept_type": "obligation",
+  "title": "Commission must prepare a panel of mediators",
+  "description": "The Commission must prepare a panel of mediators for mediation purposes",
+  "content": {
+    "who": "National Commission or the State Commission or the District Commission",
+    "what": "shall prepare a panel of the mediators",
+    "conditions": [],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH5-S75-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

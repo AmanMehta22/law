@@ -1,0 +1,40 @@
+{
+  "concept_id": "obligation.state_commission_must_authenticate_goods_sampled",
+  "concept_type": "obligation",
+  "title": "State Commission must authenticate goods",
+  "description": "The State Commission is required to authenticate goods sampled",
+  "content": {
+    "who": "State Commission",
+    "what": "must authenticate goods sampled",
+    "conditions": [],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH8-S102-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "authentication",
+      "goods",
+      "State Commission"
+    ],
+    "aliases": [
+      "verification",
+      "validation"
+    ],
+    "user_queries": [
+      "How are goods authenticated by the State Commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

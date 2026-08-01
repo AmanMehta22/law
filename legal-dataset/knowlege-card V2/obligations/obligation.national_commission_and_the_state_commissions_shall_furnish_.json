@@ -1,0 +1,39 @@
+{
+  "concept_id": "obligation.national_commission_and_the_state_commissions_shall_furnish_",
+  "concept_type": "obligation",
+  "title": "National and State Commissions must furnish information",
+  "description": "The National Commission and the State Commissions are required to provide information to the Central Government",
+  "content": {
+    "who": "National Commission and the State Commissions",
+    "what": "shall furnish any information including the pendency of cases",
+    "conditions": [
+      "periodically or as and when required"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S70-4"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "information",
+      "Central Government",
+      "periodic"
+    ],
+    "aliases": [
+      "reporting requirement"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

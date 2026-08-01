@@ -1,0 +1,38 @@
+{
+  "concept_id": "obligation.central_council_must_render_advice_on_promotion_and_protecti",
+  "concept_type": "obligation",
+  "title": "Central Council must render advice",
+  "description": "render advice on promotion and protection of consumers’ rights",
+  "content": {
+    "who": "Central Council",
+    "what": "must render advice on promotion and protection of consumers’ rights",
+    "conditions": [],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH2-S5"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "consumer rights",
+      "advice"
+    ],
+    "aliases": [
+      "Central Council advice"
+    ],
+    "user_queries": [
+      "What is the role of Central Council?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

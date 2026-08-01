@@ -1,0 +1,41 @@
+{
+  "concept_id": "obligation.director_general_shall_submit_inquiries_or_investigation_mad",
+  "concept_type": "obligation",
+  "title": "Central Authority must receive inquiry or investigation report",
+  "description": "The Director-General shall submit inquiries or investigation made to the Central Authority",
+  "content": {
+    "who": "Director-General",
+    "what": "shall submit inquiries or investigation made",
+    "conditions": [
+      "within the specified time"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH8-S104-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "inquiry",
+      "investigation",
+      "report"
+    ],
+    "aliases": [
+      "submission of report"
+    ],
+    "user_queries": [
+      "what are the obligations of Director-General"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

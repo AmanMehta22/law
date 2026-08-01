@@ -1,0 +1,38 @@
+{
+  "concept_id": "obligation.national_commission_must_call_for_records_and_pass_appropria",
+  "concept_type": "obligation",
+  "title": "National Commission must call for records and pass orders",
+  "description": "The National Commission has jurisdiction to call for records and pass orders in certain consumer disputes",
+  "content": {
+    "who": "National Commission",
+    "what": "must call for records and pass appropriate orders",
+    "conditions": [
+      "consumer dispute pending before or decided by State Commission",
+      "State Commission has exercised jurisdiction not vested in it by law, or failed to exercise jurisdiction, or acted illegally or with material irregularity"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S58-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "records",
+      "orders"
+    ],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

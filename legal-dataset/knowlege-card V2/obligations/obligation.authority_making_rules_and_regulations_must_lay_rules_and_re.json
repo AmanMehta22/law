@@ -1,0 +1,37 @@
+{
+  "concept_id": "obligation.authority_making_rules_and_regulations_must_lay_rules_and_re",
+  "concept_type": "obligation",
+  "title": "Laying of rules and regulations before Parliament",
+  "description": "The provision requires that rules and regulations made under the Act be laid before each House of Parliament",
+  "content": {
+    "who": "Authority making rules and regulations",
+    "what": "must lay rules and regulations before each House of Parliament",
+    "conditions": [
+      "as soon as may be after it is made"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH8-S105-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "Parliament",
+      "rules",
+      "regulations"
+    ],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

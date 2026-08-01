@@ -1,0 +1,38 @@
+{
+  "concept_id": "obligation.mediator_nominated_by_the_commission_shall_have_regard_to_th",
+  "concept_type": "obligation",
+  "title": "Mediator must consider relevant factors",
+  "description": "Mediator must consider rights and obligations of parties, usages of trade, circumstances giving rise to dispute and other relevant factors",
+  "content": {
+    "who": "Mediator nominated by the Commission",
+    "what": "shall have regard to the rights and obligations of the parties, the usages of trade, the circumstances giving rise to the consumer dispute and such other relevant factors",
+    "conditions": [],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH5-S79-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "mediation",
+      "consumer dispute"
+    ],
+    "aliases": [
+      "arbitrator"
+    ],
+    "user_queries": [
+      "what are the mediator's obligations in consumer dispute mediation"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

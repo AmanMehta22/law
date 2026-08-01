@@ -1,0 +1,31 @@
+{
+  "concept_id": "obligation.product_seller_must_pass_on_warnings_or_instructions_of_the_",
+  "concept_type": "obligation",
+  "title": "Product seller must pass on warnings or instructions",
+  "description": "Product seller must pass on warnings or instructions of the product manufacturer regarding the dangers involved or proper usage of the product",
+  "content": {
+    "who": "Product seller",
+    "what": "must pass on warnings or instructions of the product manufacturer",
+    "conditions": [],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH6-S86"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

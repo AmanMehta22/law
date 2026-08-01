@@ -1,0 +1,51 @@
+{
+  "concept_id": "obligation.central_authority_may_impose_penalty",
+  "concept_type": "obligation",
+  "title": "Central Authority may impose penalty",
+  "description": "impose penalty on manufacturer or endorser for false or misleading advertisement",
+  "content": {
+    "who": "Central Authority",
+    "what": "may impose penalty",
+    "conditions": [
+      "it is necessary to impose a penalty",
+      "false or misleading advertisement by a manufacturer or an endorser",
+      "after investigation",
+      "person found to publish or is a party to the publication of a misleading advertisement"
+    ],
+    "limitations": [
+      "penalty may extend to ten lakh rupees for first contravention",
+      "penalty may extend to fifty lakh rupees for subsequent contraventions",
+      "penalty may extend to ten lakh rupees"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S21-2",
+    "CPA2019-CH3-S21-4"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "penalty",
+      "false advertisement",
+      "misleading advertisement"
+    ],
+    "aliases": [
+      "fine",
+      "punishment"
+    ],
+    "user_queries": [
+      "What is the penalty for false advertisement?",
+      "What is the penalty for misleading ads?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

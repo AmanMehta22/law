@@ -1,0 +1,42 @@
+{
+  "concept_id": "obligation.central_authority_may_refer_the_matter_to_the_concerned_regu",
+  "concept_type": "obligation",
+  "title": "Central Authority must refer matter to Regulator",
+  "description": "Referral of matter to Regulator",
+  "content": {
+    "who": "Central Authority",
+    "what": "may refer the matter to the concerned Regulator",
+    "conditions": [
+      "after preliminary inquiry",
+      "matter is to be dealt with by a Regulator established under any other law for the time being in force"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S19-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "referral",
+      "regulator"
+    ],
+    "aliases": [
+      "Central Authority",
+      "Regulator"
+    ],
+    "user_queries": [
+      "What are the obligations of the Central Authority?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

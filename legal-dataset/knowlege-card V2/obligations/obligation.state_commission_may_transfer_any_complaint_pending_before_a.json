@@ -1,0 +1,42 @@
+{
+  "concept_id": "obligation.state_commission_may_transfer_any_complaint_pending_before_a",
+  "concept_type": "obligation",
+  "title": "State Commission must transfer complaint",
+  "description": "transfer complaint pending before a District Commission to another District Commission",
+  "content": {
+    "who": "State Commission",
+    "what": "may transfer any complaint pending before a District Commission to another District Commission within the State",
+    "conditions": [
+      "if the interest of justice so requires"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S48"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "complaint transfer",
+      "District Commission",
+      "State Commission"
+    ],
+    "aliases": [
+      "reassign complaint",
+      "redistribute case"
+    ],
+    "user_queries": [
+      "Can a complaint be transferred to another District Commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "concept_id": "obligation.central_authority_must_regulate_the_procedure_for_transactio",
+  "concept_type": "obligation",
+  "title": "Central Authority must regulate its business",
+  "description": "...",
+  "content": {
+    "who": "Central Authority",
+    "what": "must regulate the procedure for transaction of its business and allocation of its business amongst the Chief Commissioner and Commissioners as may be specified by regulations",
+    "conditions": [
+      "a",
+      "s",
+      " ",
+      "m",
+      "y",
+      "b",
+      "e",
+      "p",
+      "c",
+      "i",
+      "f",
+      "d",
+      "r",
+      "g",
+      "u",
+      "l",
+      "t",
+      "o",
+      "n"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S14-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

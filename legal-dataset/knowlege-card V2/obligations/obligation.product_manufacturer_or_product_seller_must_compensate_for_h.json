@@ -1,0 +1,45 @@
+{
+  "concept_id": "obligation.product_manufacturer_or_product_seller_must_compensate_for_h",
+  "concept_type": "obligation",
+  "title": "Product manufacturer or seller must compensate for harm",
+  "description": "compensate for harm caused to a consumer by a defective product or deficiency in services",
+  "content": {
+    "who": "Product manufacturer or product seller",
+    "what": "must compensate for harm caused to a consumer",
+    "conditions": [
+      "by a defective product manufactured or sold",
+      "by deficiency in services relating thereto"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-34"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "product liability",
+      "compensation",
+      "defective product",
+      "deficiency in services"
+    ],
+    "aliases": [
+      "product manufacturer responsibility",
+      "product seller responsibility"
+    ],
+    "user_queries": [
+      "what is product liability",
+      "who is responsible for defective products"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

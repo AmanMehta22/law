@@ -1,0 +1,40 @@
+{
+  "concept_id": "obligation.central_authority_shall_conduct_inquiry_or_investigation",
+  "concept_type": "obligation",
+  "title": "Central Authority must conduct inquiry or investigation",
+  "description": "The Central Authority shall conduct inquiry or investigation under this Act as directed",
+  "content": {
+    "who": "Central Authority",
+    "what": "shall conduct inquiry or investigation",
+    "conditions": [
+      "as directed by the Central Authority"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S15-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "inquiry",
+      "investigation"
+    ],
+    "aliases": [
+      "Central Authority"
+    ],
+    "user_queries": [
+      "consumer protection inquiry"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

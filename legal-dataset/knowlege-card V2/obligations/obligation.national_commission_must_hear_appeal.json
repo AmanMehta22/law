@@ -1,0 +1,41 @@
+{
+  "concept_id": "obligation.national_commission_must_hear_appeal",
+  "concept_type": "obligation",
+  "title": "National Commission must hear appeal",
+  "description": "The National Commission must hear an appeal from a State Commission order",
+  "content": {
+    "who": "National Commission",
+    "what": "must hear appeal",
+    "conditions": [
+      "the case involves a substantial question of law"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S51-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "appeal",
+      "National Commission",
+      "substantial question of law"
+    ],
+    "aliases": [
+      "National Consumer Commission"
+    ],
+    "user_queries": [
+      "How to appeal to National Commission"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

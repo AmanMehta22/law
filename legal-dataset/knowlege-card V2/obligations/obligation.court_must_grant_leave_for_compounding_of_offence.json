@@ -1,0 +1,33 @@
+{
+  "concept_id": "obligation.court_must_grant_leave_for_compounding_of_offence",
+  "concept_type": "obligation",
+  "title": "Court must grant leave",
+  "description": "...",
+  "content": {
+    "who": "Court",
+    "what": "must grant leave for compounding of offence",
+    "conditions": [
+      "before which a complaint has been filed under section 92"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH8-S96-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

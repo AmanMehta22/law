@@ -1,0 +1,40 @@
+{
+  "concept_id": "obligation.state_commission_must_furnish_information_to_the_state_gover",
+  "concept_type": "obligation",
+  "title": "State Commission must furnish information",
+  "description": "The State Commission is required to furnish information to the State Government",
+  "content": {
+    "who": "State Commission",
+    "what": "must furnish information to the State Government",
+    "conditions": [],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH8-S102-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "information",
+      "State Commission",
+      "State Government"
+    ],
+    "aliases": [
+      "report",
+      "notification"
+    ],
+    "user_queries": [
+      "What information must the State Commission provide to the State Government?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

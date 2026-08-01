@@ -1,0 +1,42 @@
+{
+  "concept_id": "obligation.state_government_must_consult_central_government",
+  "concept_type": "obligation",
+  "title": "State Government must consult Central Government",
+  "description": "The State Government must consult the Central Government to prescribe the number of members in the State Commission",
+  "content": {
+    "who": "State Government",
+    "what": "must consult Central Government",
+    "conditions": [
+      "to prescribe the number of members in the State Commission"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S42-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "State Commission",
+      "Central Government",
+      "consultation"
+    ],
+    "aliases": [
+      "State Government",
+      "Central Government"
+    ],
+    "user_queries": [
+      "What is the composition of State Commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

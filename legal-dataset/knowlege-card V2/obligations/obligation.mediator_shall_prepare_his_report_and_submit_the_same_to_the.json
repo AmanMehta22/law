@@ -1,0 +1,42 @@
+{
+  "concept_id": "obligation.mediator_shall_prepare_his_report_and_submit_the_same_to_the",
+  "concept_type": "obligation",
+  "title": "Mediator must prepare and submit report",
+  "description": "Mediator to prepare and submit report to Commission if no agreement is reached or settlement is not possible",
+  "content": {
+    "who": "Mediator",
+    "what": "shall prepare his report and submit the same to the concerned Commission",
+    "conditions": [
+      "no agreement is reached between the parties within the specified time",
+      "the mediator is of the opinion that settlement is not possible"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH5-S80-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "mediator",
+      "report",
+      "commission"
+    ],
+    "aliases": [
+      "mediation report"
+    ],
+    "user_queries": [
+      "what happens if no agreement is reached in mediation"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

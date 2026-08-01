@@ -1,0 +1,41 @@
+{
+  "concept_id": "obligation.officers_and_other_employees_of_the_district_commission_disc",
+  "concept_type": "obligation",
+  "title": "Officers and employees must discharge functions under superintendence",
+  "description": "Discharge functions under general superintendence of the President of the District Commission",
+  "content": {
+    "who": "Officers and other employees of the District Commission",
+    "what": "discharge their functions under general superintendence",
+    "conditions": [
+      "of the President of the District Commission"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S33-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "superintendence"
+    ],
+    "aliases": [
+      "officers",
+      "employees"
+    ],
+    "user_queries": [
+      "District Commission duties"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

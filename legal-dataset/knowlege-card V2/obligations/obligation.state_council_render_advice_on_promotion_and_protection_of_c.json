@@ -1,0 +1,41 @@
+{
+  "concept_id": "obligation.state_council_render_advice_on_promotion_and_protection_of_c",
+  "concept_type": "obligation",
+  "title": "State Council must render advice",
+  "description": "render advice on promotion and protection of consumer rights",
+  "content": {
+    "who": "State Council",
+    "what": "render advice on promotion and protection of consumer rights under this Act",
+    "conditions": [
+      "within the State"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH2-S7"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "consumer rights",
+      "State Council"
+    ],
+    "aliases": [
+      "advice",
+      "counsel"
+    ],
+    "user_queries": [
+      "What is the role of State Council?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

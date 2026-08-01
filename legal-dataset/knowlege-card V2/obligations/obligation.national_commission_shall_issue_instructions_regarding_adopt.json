@@ -1,0 +1,45 @@
+{
+  "concept_id": "obligation.national_commission_shall_issue_instructions_regarding_adopt",
+  "concept_type": "obligation",
+  "title": "National Commission must issue instructions for uniform procedure",
+  "description": "The National Commission shall issue instructions regarding adoption of uniform procedure in hearing of matters",
+  "content": {
+    "who": "National Commission",
+    "what": "shall issue instructions regarding adoption of uniform procedure",
+    "conditions": [
+      "in the hearing of matters",
+      "prior service of copies of documents produced by one party to the opposite parties",
+      "furnishing of english translation of judgments written in any language",
+      "speedy grant of copies of documents"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S70-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "uniform procedure",
+      "instructions"
+    ],
+    "aliases": [
+      "hearing of matters",
+      "regulatory guidance"
+    ],
+    "user_queries": [
+      "What procedures must be followed in consumer cases?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

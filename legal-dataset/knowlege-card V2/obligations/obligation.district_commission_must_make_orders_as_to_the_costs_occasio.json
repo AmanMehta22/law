@@ -1,0 +1,39 @@
+{
+  "concept_id": "obligation.district_commission_must_make_orders_as_to_the_costs_occasio",
+  "concept_type": "obligation",
+  "title": "District Commission must make orders for costs of adjournment",
+  "description": "District Commission must make orders for costs of adjournment",
+  "content": {
+    "who": "District Commission",
+    "what": "must make orders as to the costs occasioned by the adjournment",
+    "conditions": [],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-7"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "adjournment",
+      "costs"
+    ],
+    "aliases": [
+      "District Commission",
+      "Consumer Forum"
+    ],
+    "user_queries": [
+      "adjournment costs"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

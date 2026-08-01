@@ -1,0 +1,37 @@
+{
+  "concept_id": "obligation.central_authority_must_give_opportunity_of_being_heard",
+  "concept_type": "obligation",
+  "title": "Central Authority must give opportunity of being heard",
+  "description": "The Central Authority must provide a person with an opportunity to be heard before passing an order",
+  "content": {
+    "who": "Central Authority",
+    "what": "must give opportunity of being heard",
+    "conditions": [
+      "before passing an order under this section"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S20"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "opportunity of being heard",
+      "Central Authority",
+      "order"
+    ],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "concept_id": "obligation.authority_must_provide_for_re_empanelment_of_mediators",
+  "concept_type": "obligation",
+  "title": "Authority must provide for re-empanelment of mediators",
+  "description": "Regulations may provide for conditions for re-empanelment of mediators for another term",
+  "content": {
+    "who": "Authority",
+    "what": "must provide for re-empanelment of mediators",
+    "conditions": [
+      "under sub-section (3) of section 75"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH8-S103-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "re-empanelment conditions",
+      "mediator reappointment"
+    ],
+    "aliases": [
+      "re-eligibility criteria"
+    ],
+    "user_queries": [
+      "what are the conditions for re-empanelment"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

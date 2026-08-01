@@ -1,0 +1,42 @@
+{
+  "concept_id": "obligation.district_council_shall_meet_and_observe_procedure",
+  "concept_type": "obligation",
+  "title": "District Council must meet and observe procedure",
+  "description": "The District Council has to meet and observe a certain procedure",
+  "content": {
+    "who": "District Council",
+    "what": "shall meet and observe procedure",
+    "conditions": [
+      "as the Chairperson may think fit",
+      "as may be prescribed"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH2-S8-4"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "District Council",
+      "meeting",
+      "procedure"
+    ],
+    "aliases": [
+      "District Consumer Council"
+    ],
+    "user_queries": [
+      "What are the obligations of the District Council?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

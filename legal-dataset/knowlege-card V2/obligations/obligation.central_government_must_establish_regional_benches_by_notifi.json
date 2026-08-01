@@ -1,0 +1,35 @@
+{
+  "concept_id": "obligation.central_government_must_establish_regional_benches_by_notifi",
+  "concept_type": "obligation",
+  "title": "Central Government must establish regional Benches by notification",
+  "description": "The Central Government must establish regional Benches of the National Commission by notification",
+  "content": {
+    "who": "Central Government",
+    "what": "must establish regional Benches by notification",
+    "conditions": [],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S53-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "Central Government",
+      "regional Benches",
+      "notification"
+    ],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

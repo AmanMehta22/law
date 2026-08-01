@@ -1,0 +1,36 @@
+{
+  "concept_id": "obligation.central_authority_protect_promote_and_enforce_the_rights_of_",
+  "concept_type": "obligation",
+  "title": "Central Authority must protect consumer rights",
+  "description": "Protect, promote and enforce consumer rights",
+  "content": {
+    "who": "Central Authority",
+    "what": "protect, promote and enforce the rights of consumers",
+    "conditions": [],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S18-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "consumer rights",
+      "Central Authority"
+    ],
+    "aliases": [
+      "consumer protection"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

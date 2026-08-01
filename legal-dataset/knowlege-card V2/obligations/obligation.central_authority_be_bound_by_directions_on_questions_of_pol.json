@@ -1,0 +1,36 @@
+{
+  "concept_id": "obligation.central_authority_be_bound_by_directions_on_questions_of_pol",
+  "concept_type": "obligation",
+  "title": "Central Authority must follow directions",
+  "description": "The Central Authority must follow directions on questions of policy given by the Central Government",
+  "content": {
+    "who": "Central Authority",
+    "what": "be bound by directions on questions of policy",
+    "conditions": [
+      "in exercise of its powers or the performance of its functions under this Act"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH8-S99-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "directions on questions of policy",
+      "Central Government"
+    ],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

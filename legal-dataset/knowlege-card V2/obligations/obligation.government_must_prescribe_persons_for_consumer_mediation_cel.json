@@ -1,0 +1,39 @@
+{
+  "concept_id": "obligation.government_must_prescribe_persons_for_consumer_mediation_cel",
+  "concept_type": "obligation",
+  "title": "Government must prescribe persons for consumer mediation cell",
+  "description": "The Government is required to prescribe the persons for a consumer mediation cell",
+  "content": {
+    "who": "Government",
+    "what": "must prescribe persons for consumer mediation cell",
+    "conditions": [],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH5-S74-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "consumer mediation cell",
+      "prescribe persons"
+    ],
+    "aliases": [
+      "specify members",
+      "define composition"
+    ],
+    "user_queries": [
+      "Who decides the members of a consumer mediation cell?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

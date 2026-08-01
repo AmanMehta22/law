@@ -1,0 +1,40 @@
+{
+  "concept_id": "obligation.national_commission_or_state_commission_may_direct_any_indiv",
+  "concept_type": "obligation",
+  "title": "National or State Commission may direct assistance",
+  "description": "Directing assistance in consumer cases",
+  "content": {
+    "who": "National Commission or State Commission",
+    "what": "may direct any individual or organisation or expert to assist",
+    "conditions": [
+      "it involves the larger interest of consumers"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S66"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "consumer interest",
+      "expert assistance"
+    ],
+    "aliases": [
+      "direction to assist"
+    ],
+    "user_queries": [
+      "consumer protection assistance"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

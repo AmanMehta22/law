@@ -1,0 +1,43 @@
+{
+  "concept_id": "obligation.parties_to_a_consumer_dispute_or_their_authorised_representa",
+  "concept_type": "obligation",
+  "title": "Parties must reduce agreement to writing",
+  "description": "Parties to a consumer dispute must reduce their agreement to writing",
+  "content": {
+    "who": "Parties to a consumer dispute or their authorised representatives",
+    "what": "must reduce the terms of the agreement to writing and sign it",
+    "conditions": [
+      "an agreement is reached between the parties with respect to all or some of the issues involved in the consumer dispute"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH5-S80-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "consumer dispute",
+      "mediation",
+      "agreement"
+    ],
+    "aliases": [
+      "written agreement",
+      "settlement"
+    ],
+    "user_queries": [
+      "what happens after mediation",
+      "consumer dispute resolution"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

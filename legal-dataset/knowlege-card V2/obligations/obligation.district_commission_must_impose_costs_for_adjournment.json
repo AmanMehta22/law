@@ -1,0 +1,40 @@
+{
+  "concept_id": "obligation.district_commission_must_impose_costs_for_adjournment",
+  "concept_type": "obligation",
+  "title": "District Commission must impose costs for adjournment",
+  "description": "Regulations may provide for costs for adjournment to be imposed by the District Commission",
+  "content": {
+    "who": "District Commission",
+    "what": "must impose costs for adjournment",
+    "conditions": [
+      "under the second proviso to sub-section (7) of section 38"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH8-S103-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "adjournment costs",
+      "District Commission"
+    ],
+    "aliases": [
+      "costs for delay"
+    ],
+    "user_queries": [
+      "what are the costs for adjournment"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

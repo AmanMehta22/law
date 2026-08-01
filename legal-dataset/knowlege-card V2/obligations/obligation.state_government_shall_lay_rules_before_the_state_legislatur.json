@@ -1,0 +1,41 @@
+{
+  "concept_id": "obligation.state_government_shall_lay_rules_before_the_state_legislatur",
+  "concept_type": "obligation",
+  "title": "State Government must lay rules before Legislature",
+  "description": "State Government to lay rules before State Legislature",
+  "content": {
+    "who": "State Government",
+    "what": "shall lay rules before the State Legislature",
+    "conditions": [
+      "as soon as may be after it is made"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH8-S105-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "State Government",
+      "rules",
+      "State Legislature"
+    ],
+    "aliases": [
+      "laying of rules"
+    ],
+    "user_queries": [
+      "What are the obligations of State Government under the Act?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

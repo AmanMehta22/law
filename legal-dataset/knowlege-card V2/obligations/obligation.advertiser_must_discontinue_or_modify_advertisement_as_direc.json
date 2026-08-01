@@ -1,0 +1,41 @@
+{
+  "concept_id": "obligation.advertiser_must_discontinue_or_modify_advertisement_as_direc",
+  "concept_type": "obligation",
+  "title": "Advertiser must discontinue or modify advertisement",
+  "description": "The concerned advertiser must comply with the Central Authority's order",
+  "content": {
+    "who": "Advertiser",
+    "what": "must discontinue or modify advertisement as directed",
+    "conditions": [
+      "order from Central Authority"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S21-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "advertiser obligations",
+      "advertisement discontinuation"
+    ],
+    "aliases": [
+      "manufacturer duties",
+      "endorser responsibilities"
+    ],
+    "user_queries": [
+      "What are the obligations of an advertiser regarding false advertisements?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

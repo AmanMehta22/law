@@ -1,0 +1,40 @@
+{
+  "concept_id": "obligation.central_government_make_rules_for_district_commission_appoin",
+  "concept_type": "obligation",
+  "title": "Central Government must make rules for District Commission appointments",
+  "description": "The Central Government is required to make rules for the qualifications, method of recruitment, procedure for appointment, term of office, resignation and removal of the President and members of the District Commission",
+  "content": {
+    "who": "Central Government",
+    "what": "make rules for District Commission appointments",
+    "conditions": [],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S29"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "appointments",
+      "rules"
+    ],
+    "aliases": [
+      "regulations",
+      "notifications"
+    ],
+    "user_queries": [
+      "What are the rules for District Commission appointments?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

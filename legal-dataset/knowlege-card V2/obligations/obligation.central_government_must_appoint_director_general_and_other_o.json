@@ -1,0 +1,41 @@
+{
+  "concept_id": "obligation.central_government_must_appoint_director_general_and_other_o",
+  "concept_type": "obligation",
+  "title": "Central Government must appoint officers in a prescribed manner",
+  "description": "The Central Government must appoint officers in a prescribed manner",
+  "content": {
+    "who": "Central Government",
+    "what": "must appoint Director-General and other officers in a prescribed manner",
+    "conditions": [
+      "from amongst persons who have experience in investigation and possess such qualifications"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S15-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "appointment",
+      "prescribed manner"
+    ],
+    "aliases": [
+      "Central Government",
+      "Government"
+    ],
+    "user_queries": [
+      "What are the rules for appointing a Director-General?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

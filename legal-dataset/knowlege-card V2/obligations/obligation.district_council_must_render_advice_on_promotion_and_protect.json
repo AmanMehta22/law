@@ -1,0 +1,36 @@
+{
+  "concept_id": "obligation.district_council_must_render_advice_on_promotion_and_protect",
+  "concept_type": "obligation",
+  "title": "District Council must render advice",
+  "description": "render advice on promotion and protection of consumer rights",
+  "content": {
+    "who": "District Council",
+    "what": "must render advice on promotion and protection of consumer rights",
+    "conditions": [
+      "within the district"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH2-S9"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "consumer rights",
+      "District Council"
+    ],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

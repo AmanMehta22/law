@@ -1,0 +1,45 @@
+{
+  "concept_id": "obligation.national_commission_shall_oversee_the_functioning_of_the_sta",
+  "concept_type": "obligation",
+  "title": "National Commission must oversee State Commission functioning",
+  "description": "The National Commission shall oversee the functioning of the State Commission or the District Commission",
+  "content": {
+    "who": "National Commission",
+    "what": "shall oversee the functioning of the State Commission or the District Commission",
+    "conditions": [
+      "either by way of inspection or by any other means",
+      "to ensure that the objects and purposes of the Act are best served and the standards set by the National Commission are implemented"
+    ],
+    "limitations": [
+      "without interfering with their quasi-judicial freedom"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S70-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "oversight",
+      "State Commission functioning"
+    ],
+    "aliases": [
+      "regulatory supervision",
+      "consumer protection"
+    ],
+    "user_queries": [
+      "How does the National Commission ensure effective consumer protection?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

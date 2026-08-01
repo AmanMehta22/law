@@ -1,0 +1,33 @@
+{
+  "concept_id": "obligation.state_government_must_notify_in_official_gazette",
+  "concept_type": "obligation",
+  "title": "State Government must notify in Official Gazette",
+  "description": "notify places where State Commission performs functions",
+  "content": {
+    "who": "State Government",
+    "what": "must notify in Official Gazette",
+    "conditions": [
+      "in consultation with the State Commission"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S42-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

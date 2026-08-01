@@ -1,0 +1,43 @@
+{
+  "concept_id": "obligation.national_commission_shall_lay_down_adequate_standards",
+  "concept_type": "obligation",
+  "title": "National Commission must lay down standards",
+  "description": "The National Commission has the authority to lay down adequate standards for better protection of consumer interests",
+  "content": {
+    "who": "National Commission",
+    "what": "shall lay down adequate standards",
+    "conditions": [
+      "in consultation with the Central Government",
+      "from time to time"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S70-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "standards",
+      "consumer protection"
+    ],
+    "aliases": [
+      "consumer interests",
+      "regulatory authority"
+    ],
+    "user_queries": [
+      "What are the National Commission's responsibilities?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

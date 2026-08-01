@@ -1,0 +1,33 @@
+{
+  "concept_id": "obligation.other_member_shall_sign_the_order",
+  "concept_type": "obligation",
+  "title": "Other member of District Commission must sign order in case of majority opinion",
+  "description": "Signing of order by other member of District Commission in case of majority opinion",
+  "content": {
+    "who": "other member",
+    "what": "shall sign the order",
+    "conditions": [
+      "where the order is made as per majority opinion under sub-section (3)"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S39-4"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

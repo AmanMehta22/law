@@ -1,0 +1,43 @@
+{
+  "concept_id": "obligation.district_commission_may_pass_interim_order",
+  "concept_type": "obligation",
+  "title": "District Commission must pass interim order",
+  "description": "pass such interim order as is just and proper in the facts and circumstances of the case",
+  "content": {
+    "who": "District Commission",
+    "what": "may pass interim order",
+    "conditions": [
+      "if it appears necessary",
+      "during the pendency of any proceeding before the District Commission"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-8"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "interim order",
+      "District Commission",
+      "pendency of proceeding"
+    ],
+    "aliases": [
+      "temporary order",
+      "proceeding before District Commission"
+    ],
+    "user_queries": [
+      "What are the powers of District Commission during a proceeding?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

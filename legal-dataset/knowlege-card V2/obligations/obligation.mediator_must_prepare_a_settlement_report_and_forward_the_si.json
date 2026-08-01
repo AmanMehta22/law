@@ -1,0 +1,39 @@
+{
+  "concept_id": "obligation.mediator_must_prepare_a_settlement_report_and_forward_the_si",
+  "concept_type": "obligation",
+  "title": "Mediator must prepare and forward settlement report",
+  "description": "The mediator is required to prepare a settlement report and forward it along with the signed agreement to the concerned Commission",
+  "content": {
+    "who": "Mediator",
+    "what": "must prepare a settlement report and forward the signed agreement",
+    "conditions": [],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH5-S80-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "mediator",
+      "settlement report",
+      "concerned Commission"
+    ],
+    "aliases": [
+      "mediation officer"
+    ],
+    "user_queries": [
+      "What are the mediator's duties?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "concept_id": "obligation.district_commission_shall_have_jurisdiction_to_entertain_com",
+  "concept_type": "obligation",
+  "title": "District Commission must entertain complaints",
+  "description": "...",
+  "content": {
+    "who": "District Commission",
+    "what": "shall have jurisdiction to entertain complaints",
+    "conditions": [
+      "where the value of the goods or services paid as consideration does not exceed one crore rupees"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S34-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

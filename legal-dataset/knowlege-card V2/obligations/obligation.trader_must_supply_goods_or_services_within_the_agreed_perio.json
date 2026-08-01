@@ -1,0 +1,41 @@
+{
+  "concept_id": "obligation.trader_must_supply_goods_or_services_within_the_agreed_perio",
+  "concept_type": "obligation",
+  "title": "Trader must supply goods or services within agreed period",
+  "description": "A trader must supply goods or services within the agreed period to avoid delay that may lead to a rise in price",
+  "content": {
+    "who": "Trader",
+    "what": "must supply goods or services within the agreed period",
+    "conditions": [
+      "agreed period"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-41"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "restrictive trade practice",
+      "delay",
+      "agreed period"
+    ],
+    "aliases": [
+      "supply goods or services on time"
+    ],
+    "user_queries": [
+      "What are the obligations of a trader in supplying goods or services?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

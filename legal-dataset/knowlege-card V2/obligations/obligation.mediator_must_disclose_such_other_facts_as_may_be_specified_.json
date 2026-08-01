@@ -1,0 +1,40 @@
+{
+  "concept_id": "obligation.mediator_must_disclose_such_other_facts_as_may_be_specified_",
+  "concept_type": "obligation",
+  "title": "Mediator must disclose other facts specified by regulations",
+  "description": "Mediator must disclose other facts as may be specified by regulations",
+  "content": {
+    "who": "Mediator",
+    "what": "must disclose such other facts as may be specified by regulations",
+    "conditions": [],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH5-S77"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "mediator",
+      "regulations",
+      "disclosure"
+    ],
+    "aliases": [
+      "reveal",
+      "declare"
+    ],
+    "user_queries": [
+      "What else must a mediator disclose?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

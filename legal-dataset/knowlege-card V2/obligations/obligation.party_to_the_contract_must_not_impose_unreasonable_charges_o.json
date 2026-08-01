@@ -1,0 +1,41 @@
+{
+  "concept_id": "obligation.party_to_the_contract_must_not_impose_unreasonable_charges_o",
+  "concept_type": "obligation",
+  "title": "Party to the contract must not impose unreasonable charges or conditions",
+  "description": "A party to the contract must not impose unreasonable charges, obligations or conditions on the consumer",
+  "content": {
+    "who": "Party to the contract",
+    "what": "must not impose unreasonable charges or conditions",
+    "conditions": [
+      "unreasonable",
+      "to the disadvantage of the consumer"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-46"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "unfair contract",
+      "unreasonable charges"
+    ],
+    "aliases": [
+      "unreasonable conditions"
+    ],
+    "user_queries": [
+      "What constitutes an unfair contract term?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

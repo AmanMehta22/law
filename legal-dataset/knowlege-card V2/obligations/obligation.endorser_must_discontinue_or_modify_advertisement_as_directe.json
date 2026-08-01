@@ -1,0 +1,41 @@
+{
+  "concept_id": "obligation.endorser_must_discontinue_or_modify_advertisement_as_directe",
+  "concept_type": "obligation",
+  "title": "Endorser must discontinue or modify advertisement",
+  "description": "The concerned endorser must comply with the Central Authority's order",
+  "content": {
+    "who": "Endorser",
+    "what": "must discontinue or modify advertisement as directed",
+    "conditions": [
+      "order from Central Authority"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S21-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "endorser obligations",
+      "advertisement modification"
+    ],
+    "aliases": [
+      "advertiser duties",
+      "publisher responsibilities"
+    ],
+    "user_queries": [
+      "What must an endorser do if their advertisement is found to be misleading?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

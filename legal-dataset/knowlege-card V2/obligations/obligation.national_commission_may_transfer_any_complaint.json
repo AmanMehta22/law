@@ -1,0 +1,41 @@
+{
+  "concept_id": "obligation.national_commission_may_transfer_any_complaint",
+  "concept_type": "obligation",
+  "title": "National Commission must consider transfer of complaint",
+  "description": "The National Commission has the power to transfer complaints between District Commissions or State Commissions",
+  "content": {
+    "who": "National Commission",
+    "what": "may transfer any complaint",
+    "conditions": [
+      "at any stage of the proceeding",
+      "in the interest of justice"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S62"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "complaint transfer",
+      "National Commission"
+    ],
+    "aliases": [
+      "complaint relocation"
+    ],
+    "user_queries": [
+      "can the National Commission transfer a complaint"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

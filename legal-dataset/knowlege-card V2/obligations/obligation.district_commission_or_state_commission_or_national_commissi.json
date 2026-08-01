@@ -1,0 +1,41 @@
+{
+  "concept_id": "obligation.district_commission_or_state_commission_or_national_commissi",
+  "concept_type": "obligation",
+  "title": "Commission must pass order and dispose of matter",
+  "description": "The Commission must pass an order and dispose of the matter within 7 days of receiving the settlement report",
+  "content": {
+    "who": "District Commission or State Commission or National Commission",
+    "what": "must pass suitable order recording settlement and dispose of the matter",
+    "conditions": [
+      "within seven days of the receipt of the settlement report"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH5-S81-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "consumer dispute",
+      "settlement report"
+    ],
+    "aliases": [
+      "consumer complaint",
+      "dispute resolution"
+    ],
+    "user_queries": [
+      "What happens after a settlement report is received?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

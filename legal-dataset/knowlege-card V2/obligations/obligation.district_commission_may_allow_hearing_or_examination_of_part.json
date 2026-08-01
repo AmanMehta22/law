@@ -1,0 +1,34 @@
+{
+  "concept_id": "obligation.district_commission_may_allow_hearing_or_examination_of_part",
+  "concept_type": "obligation",
+  "title": "District Commission may allow hearing or examination of parties in person or through video conferencing",
+  "description": "The District Commission has the discretion to allow hearing or examination of parties in person or through video conferencing",
+  "content": {
+    "who": "District Commission",
+    "what": "may allow hearing or examination of parties in person or through video conferencing",
+    "conditions": [
+      "on sufficient cause being shown",
+      "after recording its reasons in writing"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-6"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

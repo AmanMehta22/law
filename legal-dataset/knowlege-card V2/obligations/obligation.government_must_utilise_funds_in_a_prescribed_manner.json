@@ -1,0 +1,31 @@
+{
+  "concept_id": "obligation.government_must_utilise_funds_in_a_prescribed_manner",
+  "concept_type": "obligation",
+  "title": "Government must utilise funds",
+  "description": "...",
+  "content": {
+    "who": "Government",
+    "what": "must utilise funds in a prescribed manner",
+    "conditions": [],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S39-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

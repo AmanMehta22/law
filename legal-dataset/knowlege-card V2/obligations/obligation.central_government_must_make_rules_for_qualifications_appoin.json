@@ -1,0 +1,31 @@
+{
+  "concept_id": "obligation.central_government_must_make_rules_for_qualifications_appoin",
+  "concept_type": "obligation",
+  "title": "Central Government must make rules for National Commission service terms",
+  "description": "The Central Government is required to make rules for the service terms of the President and members of the National Commission",
+  "content": {
+    "who": "Central Government",
+    "what": "must make rules for qualifications, appointment, term of office, salaries and allowances, resignation, removal and other terms and conditions of service of the President and members of the National Commission",
+    "conditions": [],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S55-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "concept_id": "obligation.product_manufacturer_must_provide_adequate_instructions_and_",
+  "concept_type": "obligation",
+  "title": "Manufacturer must provide adequate instructions and warnings",
+  "description": "Manufacturer is liable if product fails to contain adequate instructions or warnings",
+  "content": {
+    "who": "Product manufacturer",
+    "what": "must provide adequate instructions and warnings",
+    "conditions": [],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH6-S84-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "product liability",
+      "manufacturer liability",
+      "instructions",
+      "warnings"
+    ],
+    "aliases": [
+      "product manufacturer duties",
+      "liability for defective products"
+    ],
+    "user_queries": [
+      "What are the duties of a product manufacturer under the Consumer Protection Act?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

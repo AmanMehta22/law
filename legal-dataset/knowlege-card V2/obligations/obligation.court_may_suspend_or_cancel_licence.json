@@ -1,0 +1,43 @@
+{
+  "concept_id": "obligation.court_may_suspend_or_cancel_licence",
+  "concept_type": "obligation",
+  "title": "Court must consider suspension or cancellation of licence",
+  "description": "The court has the authority to suspend or cancel a licence in case of conviction",
+  "content": {
+    "who": "Court",
+    "what": "may suspend or cancel licence",
+    "conditions": [
+      "first conviction",
+      "second or subsequent conviction"
+    ],
+    "limitations": [
+      "up to two years"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH7-S91-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "licence suspension",
+      "conviction"
+    ],
+    "aliases": [
+      "court authority"
+    ],
+    "user_queries": [
+      "what happens to licence after conviction"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

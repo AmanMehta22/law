@@ -1,0 +1,37 @@
+{
+  "concept_id": "obligation.district_council_shall_meet_as_and_when_necessary_and_at_lea",
+  "concept_type": "obligation",
+  "title": "District Council must meet regularly",
+  "description": "The District Council has a meeting obligation",
+  "content": {
+    "who": "District Council",
+    "what": "shall meet as and when necessary and at least twice a year",
+    "conditions": [
+      "as and when necessary",
+      "at least two meetings every year"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH2-S8-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "District Council",
+      "meeting frequency"
+    ],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

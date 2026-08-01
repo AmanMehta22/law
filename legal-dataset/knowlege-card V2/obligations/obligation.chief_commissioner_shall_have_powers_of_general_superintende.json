@@ -1,0 +1,39 @@
+{
+  "concept_id": "obligation.chief_commissioner_shall_have_powers_of_general_superintende",
+  "concept_type": "obligation",
+  "title": "Chief Commissioner must exercise general superintendence",
+  "description": "The Chief Commissioner has powers of general superintendence, direction and control",
+  "content": {
+    "who": "Chief Commissioner",
+    "what": "shall have powers of general superintendence, direction and control",
+    "conditions": [],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S14-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "general superintendence",
+      "direction",
+      "control"
+    ],
+    "aliases": [
+      "administrative matters"
+    ],
+    "user_queries": [
+      "Chief Commissioner powers"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

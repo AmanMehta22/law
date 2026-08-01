@@ -1,0 +1,37 @@
+{
+  "concept_id": "obligation.state_commission_shall_furnish_any_information_including_pen",
+  "concept_type": "obligation",
+  "title": "State Commission must furnish information",
+  "description": "The State Commission is required to provide information to the State Government",
+  "content": {
+    "who": "State Commission",
+    "what": "shall furnish any information including pendency of cases",
+    "conditions": [
+      "periodically or as and when required"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S70-5"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "State Commission",
+      "information",
+      "State Government"
+    ],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "concept_id": "obligation.central_authority_must_make_regulations_not_inconsistent_wit",
+  "concept_type": "obligation",
+  "title": "Central Authority must make consistent regulations",
+  "description": "The Central Authority must make regulations consistent with the Act",
+  "content": {
+    "who": "Central Authority",
+    "what": "must make regulations not inconsistent with this Act",
+    "conditions": [],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH8-S104-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "regulations",
+      "consistent"
+    ],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

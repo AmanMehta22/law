@@ -1,0 +1,31 @@
+{
+  "concept_id": "obligation.complainant_must_pay_fee",
+  "concept_type": "obligation",
+  "title": "Complainant must pay fee",
+  "description": "Complainant to pay prescribed fee",
+  "content": {
+    "who": "Complainant",
+    "what": "must pay fee",
+    "conditions": [],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S35-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

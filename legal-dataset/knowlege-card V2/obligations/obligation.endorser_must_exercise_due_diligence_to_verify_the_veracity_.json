@@ -1,0 +1,31 @@
+{
+  "concept_id": "obligation.endorser_must_exercise_due_diligence_to_verify_the_veracity_",
+  "concept_type": "obligation",
+  "title": "Endorser must exercise due diligence",
+  "description": "Endorser must verify the veracity of claims made in the advertisement",
+  "content": {
+    "who": "Endorser",
+    "what": "must exercise due diligence to verify the veracity of the claims made in the advertisement",
+    "conditions": [],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S21-5"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

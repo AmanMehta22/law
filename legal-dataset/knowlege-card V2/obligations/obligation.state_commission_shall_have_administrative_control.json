@@ -1,0 +1,37 @@
+{
+  "concept_id": "obligation.state_commission_shall_have_administrative_control",
+  "concept_type": "obligation",
+  "title": "State Commission's administrative control",
+  "description": "The State Commission has administrative control over District Commissions",
+  "content": {
+    "who": "State Commission",
+    "what": "shall have administrative control",
+    "conditions": [
+      "in all matters referred to in sub-section (1)"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S70-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "administrative control",
+      "State Commission",
+      "District Commissions"
+    ],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "concept_id": "obligation.person_seizing_the_documents_must_return_seized_documents",
+  "concept_type": "obligation",
+  "title": "Return of seized documents",
+  "description": "Return of seized documents within 20 days",
+  "content": {
+    "who": "Person seizing the documents",
+    "what": "must return seized documents",
+    "conditions": [
+      "after copies or extracts have been taken"
+    ],
+    "limitations": [
+      "within 20 days of seizure or production"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S22-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "seized documents",
+      "return of documents"
+    ],
+    "aliases": [
+      "restoration of documents"
+    ],
+    "user_queries": [
+      "What happens to seized documents?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

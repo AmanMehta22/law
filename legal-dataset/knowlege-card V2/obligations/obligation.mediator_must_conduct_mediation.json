@@ -1,0 +1,50 @@
+{
+  "concept_id": "obligation.mediator_must_conduct_mediation",
+  "concept_type": "obligation",
+  "title": "Mediator must conduct mediation",
+  "description": "...",
+  "content": {
+    "who": "Mediator",
+    "what": "must conduct mediation",
+    "conditions": [
+      "a",
+      "s",
+      " ",
+      "p",
+      "e",
+      "c",
+      "i",
+      "f",
+      "d",
+      "b",
+      "y",
+      "r",
+      "g",
+      "u",
+      "l",
+      "t",
+      "o",
+      "n"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH5-S79-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

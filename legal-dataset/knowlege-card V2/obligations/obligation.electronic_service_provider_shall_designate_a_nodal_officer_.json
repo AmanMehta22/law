@@ -1,0 +1,31 @@
+{
+  "concept_id": "obligation.electronic_service_provider_shall_designate_a_nodal_officer_",
+  "concept_type": "obligation",
+  "title": "Electronic Service Provider must designate a nodal officer",
+  "description": "...",
+  "content": {
+    "who": "Electronic Service Provider",
+    "what": "shall designate a nodal officer to accept and process notices",
+    "conditions": [],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S65-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

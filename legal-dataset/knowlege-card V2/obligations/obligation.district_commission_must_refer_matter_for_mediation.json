@@ -1,0 +1,44 @@
+{
+  "concept_id": "obligation.district_commission_must_refer_matter_for_mediation",
+  "concept_type": "obligation",
+  "title": "District Commission must refer matter for mediation",
+  "description": "District Commission to refer matter for mediation within 5 days of receipt of written consent",
+  "content": {
+    "who": "District Commission",
+    "what": "must refer matter for mediation",
+    "conditions": [
+      "parties agree for settlement by mediation",
+      "parties give consent in writing",
+      "within 5 days of receipt of consent"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S37-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "mediation",
+      "District Commission",
+      "consumer dispute"
+    ],
+    "aliases": [
+      "alternative dispute resolution",
+      "consumer mediation"
+    ],
+    "user_queries": [
+      "What happens after parties agree to mediation?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

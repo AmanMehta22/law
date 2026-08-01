@@ -1,0 +1,43 @@
+{
+  "concept_id": "obligation.retired_judge_of_a_high_court_or_a_person_who_has_been_a_jud",
+  "concept_type": "obligation",
+  "title": "Retired Judge or Judicial Member must preside",
+  "description": "Preside over the National Commission in absence of President",
+  "content": {
+    "who": "Retired Judge of a High Court or a person who has been a Judicial Member",
+    "what": "must preside over the National Commission",
+    "conditions": [
+      "absence of President of the National Commission",
+      "such member is part of the National Commission"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S63"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "President",
+      "retired Judge",
+      "Judicial Member"
+    ],
+    "aliases": [
+      "acting Chairperson"
+    ],
+    "user_queries": [
+      "who presides over National Commission in absence of President"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ObligationAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}
