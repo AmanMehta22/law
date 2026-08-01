@@ -1,0 +1,49 @@
+{
+  "concept_id": "definition.restrictive_trade_practice",
+  "concept_type": "definition",
+  "title": "Restrictive Trade Practice",
+  "description": "A trade practice that manipulates price, delivery conditions, or supply flow, imposing unjustified costs or restrictions on consumers.",
+  "content": {
+    "term": "restrictive trade practice",
+    "legal_definition": "a trade practice which tends to bring about manipulation of price or its conditions of delivery or to affect flow of supplies in the market relating to goods or services in such a manner as to impose on the consumers unjustified costs or restrictions and shall include— (i) delay beyond the period agreed to by a trader in supply of such goods or in providing the services which has led or is likely to lead to rise in the price; (ii) any trade practice which requires a consumer to buy, hire or avail of any goods or, as the case may be, services as condition precedent for buying, hiring or availing of other goods or services;",
+    "plain_language": "a business practice that unfairly controls prices, delivery, or supply of goods and services, causing unnecessary costs or limitations for consumers.",
+    "examples": [
+      "A company delays shipping products to create a shortage and increase prices.",
+      "A retailer requires customers to buy a related product to purchase a desired item."
+    ],
+    "non_examples": [
+      "A company offers a discount for bulk purchases.",
+      "A retailer provides free shipping for orders over a certain amount."
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-41"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "restrictive trade practice",
+      "unfair business practice",
+      "consumer protection"
+    ],
+    "aliases": [
+      "anti-competitive practice",
+      "unfair trade practice"
+    ],
+    "user_queries": [
+      "What is a restrictive trade practice?",
+      "What are examples of unfair business practices?",
+      "How does the Consumer Protection Act regulate trade practices?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.8,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "concept_id": "definition.notification",
+  "concept_type": "definition",
+  "title": "Notification",
+  "description": "Definition of Notification under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "notification",
+    "legal_definition": "a notification published in the Official Gazette and the term \"notify\" shall be construed accordingly",
+    "plain_language": "an official announcement published in the government's gazette",
+    "examples": [
+      "A government ministry publishes a new rule in the Official Gazette",
+      "A public notice is issued in the gazette about a change in consumer protection laws"
+    ],
+    "non_examples": [
+      "A company posts an update on its website",
+      "A social media post by a government official"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-30"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "official gazette",
+      "government notification",
+      "public notice"
+    ],
+    "aliases": [
+      "official announcement",
+      "public notification"
+    ],
+    "user_queries": [
+      "What is a notification in the Consumer Protection Act",
+      "How is a notification published",
+      "What is meant by notification in law"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

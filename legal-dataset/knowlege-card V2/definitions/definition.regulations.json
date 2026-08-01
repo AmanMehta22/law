@@ -1,0 +1,51 @@
+{
+  "concept_id": "definition.regulations",
+  "concept_type": "definition",
+  "title": "Regulations",
+  "description": "Definition of Regulations under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "regulations",
+    "legal_definition": "the regulations made by the National Commission, or as the case may be, the Central Authority",
+    "plain_language": "Rules made by the National Commission or the Central Authority",
+    "examples": [
+      "Rules for consumer complaint filing",
+      "Guidelines for product safety standards"
+    ],
+    "non_examples": [
+      "Laws passed by the Parliament",
+      "Judicial orders"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-39"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "regulations",
+      "National Commission",
+      "Central Authority",
+      "consumer protection"
+    ],
+    "aliases": [
+      "rules",
+      "guidelines",
+      "norms"
+    ],
+    "user_queries": [
+      "What are regulations under CPA?",
+      "What does regulations mean in consumer law?",
+      "What kind of rules are made by the National Commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.8,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

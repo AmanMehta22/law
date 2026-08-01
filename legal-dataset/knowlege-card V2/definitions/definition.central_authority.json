@@ -1,0 +1,49 @@
+{
+  "concept_id": "definition.central_authority",
+  "concept_type": "definition",
+  "title": "Central Authority",
+  "description": "Definition of Central Authority under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "Central Authority",
+    "legal_definition": "the Central Consumer Protection Authority established under section 10",
+    "plain_language": "a central government agency responsible for protecting consumer rights",
+    "examples": [
+      "The Central Consumer Protection Authority is the Central Authority responsible for enforcing consumer protection laws in India",
+      "The Central Authority investigates complaints about unfair trade practices"
+    ],
+    "non_examples": [
+      "A state-level consumer forum is not the Central Authority",
+      "A private company is not the Central Authority"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-4"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "Central Authority",
+      "Consumer Protection",
+      "Central Consumer Protection Authority"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency"
+    ],
+    "user_queries": [
+      "What is the Central Authority under the Consumer Protection Act",
+      "Who is responsible for enforcing consumer protection laws in India",
+      "What is the role of the Central Consumer Protection Authority"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.8,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

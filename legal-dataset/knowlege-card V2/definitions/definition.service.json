@@ -1,0 +1,49 @@
+{
+  "concept_id": "definition.service",
+  "concept_type": "definition",
+  "title": "Service",
+  "description": "Definition of Service under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "service",
+    "legal_definition": "service of any description which is made available to potential users and includes, but not limited to, the provision of facilities in connection with banking, financing, insurance, transport, processing, supply of electrical or other energy, telecom, boarding or lodging or both, housing construction, entertainment, amusement or the purveying of news or other information, but does not include the rendering of any service free of charge or under a contract of personal service;",
+    "plain_language": "A service is anything that is provided to people, such as banking, insurance, transportation, or entertainment, but does not include things that are given away for free or done as part of a personal job",
+    "examples": [
+      "A bank providing account services to customers",
+      "A hotel providing lodging and food to guests"
+    ],
+    "non_examples": [
+      "A friend helping another friend move for free",
+      "A personal assistant working for a private employer"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-42"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "service",
+      "consumer service",
+      "business service"
+    ],
+    "aliases": [
+      "facility",
+      "provision"
+    ],
+    "user_queries": [
+      "What is considered a service under the law?",
+      "What are examples of services?",
+      "Is a free service still considered a service?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.8,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

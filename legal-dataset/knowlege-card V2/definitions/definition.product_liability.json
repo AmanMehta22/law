@@ -1,0 +1,51 @@
+{
+  "concept_id": "definition.product_liability",
+  "concept_type": "definition",
+  "title": "Product Liability",
+  "description": "Responsibility of a product manufacturer or seller to compensate for harm caused by a defective product or service",
+  "content": {
+    "term": "product liability",
+    "legal_definition": "the responsibility of a product manufacturer or product seller, of any product or service, to compensate for any harm caused to a consumer by such defective product manufactured or sold or by deficiency in services relating thereto",
+    "plain_language": "when a company that makes or sells a product is responsible for paying for any harm it causes to a consumer because it was defective or didn't work as promised",
+    "examples": [
+      "A company selling a defective phone that explodes and injures someone may be liable for the harm caused",
+      "A manufacturer of a faulty medical device that causes health problems may be responsible for compensating the affected consumers"
+    ],
+    "non_examples": [
+      "A consumer misusing a product and getting injured is not an example of product liability",
+      "A company providing a service that is not defective, but the consumer is not satisfied with it, is not an example of product liability"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-34"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "product liability",
+      "consumer protection",
+      "defective product",
+      "product manufacturer",
+      "product seller"
+    ],
+    "aliases": [
+      "product responsibility",
+      "manufacturer liability"
+    ],
+    "user_queries": [
+      "What is product liability?",
+      "Can I sue a company for a defective product?",
+      "What happens if a product causes harm to a consumer?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.8,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

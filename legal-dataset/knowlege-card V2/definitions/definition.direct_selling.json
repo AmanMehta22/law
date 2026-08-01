@@ -1,0 +1,49 @@
+{
+  "concept_id": "definition.direct_selling",
+  "concept_type": "definition",
+  "title": "Direct Selling",
+  "description": "Definition of Direct Selling under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "direct selling",
+    "legal_definition": "marketing, distribution and sale of goods or provision of services through a network of sellers, other than through a permanent retail location",
+    "plain_language": "Selling products or services directly to customers through a network of sellers, without using a fixed store",
+    "examples": [
+      "A company selling cosmetics through independent distributors",
+      "A network of individuals selling kitchen utensils door-to-door"
+    ],
+    "non_examples": [
+      "A retail store selling products from a fixed location",
+      "A company selling products only through its website"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-13"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "direct sales",
+      "network marketing",
+      "door-to-door sales"
+    ],
+    "aliases": [
+      "multi-level marketing",
+      "network selling"
+    ],
+    "user_queries": [
+      "What is direct selling",
+      "How does direct selling work",
+      "Is direct selling legal in India"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

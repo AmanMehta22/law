@@ -1,0 +1,49 @@
+{
+  "concept_id": "definition.endorsement",
+  "concept_type": "definition",
+  "title": "Endorsement",
+  "description": "Definition of Endorsement under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "endorsement",
+    "legal_definition": "any message, verbal statement, demonstration; or depiction of the name, signature, likeness or other identifiable personal characteristics of an individual; or depiction of the name or seal of any institution or organisation, which makes the consumer to believe that it reflects the opinion, finding or experience of the person making such endorsement",
+    "plain_language": "a public statement or action that supports a product or service, making it seem like it's approved or recommended by someone or an organization",
+    "examples": [
+      "A celebrity appearing in a commercial for a new energy drink",
+      "A company logo displayed on a product packaging, implying endorsement by that company"
+    ],
+    "non_examples": [
+      "A company simply listing its ingredients on a product label",
+      "A customer review that is clearly labeled as an independent opinion"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-18"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "endorsement",
+      "advertisement",
+      "consumer protection"
+    ],
+    "aliases": [
+      "testimonial",
+      "recommendation"
+    ],
+    "user_queries": [
+      "What is an endorsement in advertising",
+      "How does endorsement affect consumer behavior",
+      "What constitutes an endorsement under the Consumer Protection Act"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.8,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

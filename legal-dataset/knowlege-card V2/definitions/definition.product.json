@@ -1,0 +1,50 @@
+{
+  "concept_id": "definition.product",
+  "concept_type": "definition",
+  "title": "Product Definition",
+  "description": "Definition of product under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "product",
+    "legal_definition": "any article or goods or substance or raw material or any extended cycle of such product, which may be in gaseous, liquid, or solid state possessing intrinsic value which is capable of delivery either as wholly assembled or as a component part and is produced for introduction to trade or commerce, but does not include human tissues, blood, blood products and organs",
+    "plain_language": "a good or substance that has value and can be sold or traded, either on its own or as part of something else",
+    "examples": [
+      "a smartphone",
+      "a bottle of medicine"
+    ],
+    "non_examples": [
+      "human organs for transplant",
+      "blood donations"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-33"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "product",
+      "goods",
+      "trade",
+      "commerce"
+    ],
+    "aliases": [
+      "good",
+      "commodity"
+    ],
+    "user_queries": [
+      "What is a product under the Consumer Protection Act?",
+      "What is considered a product in India?",
+      "What does product mean in consumer law?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 2
+  }
+}

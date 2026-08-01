@@ -1,0 +1,51 @@
+{
+  "concept_id": "definition.consumer",
+  "concept_type": "definition",
+  "title": "Consumer",
+  "description": "Definition of Consumer",
+  "content": {
+    "term": "consumer",
+    "legal_definition": "\"consumer\" means any person who— (i) buys any goods for a consideration which has been paid or promised or partly paid and partly promised, or under any system of deferred payment and includes any user of such goods other than the person who buys such goods for consideration paid or promised or partly paid or partly promised, or under any system of deferred payment, when such use is made with the approval of such person, but does not include a person who obtains such goods for resale or for any commercial purpose; or (ii) hires or avails of any services for a consideration which has been paid or promised or partly paid and partly promised, or under any system of deferred payment and includes any beneficiary of such service other than the person who hires or avails of the services for consideration paid or promised, or partly paid and partly promised, or under any system of deferred payment, when such services are availed of with the approval of the first mentioned person, but does not include a person who avails of such service for any commercial purpose.",
+    "plain_language": "A consumer is a person who buys goods or hires services for personal use, not for resale or commercial purposes. This includes buying goods online or offline, or using services like a restaurant or a hair salon.",
+    "examples": [
+      "A person who buys a laptop for personal use",
+      "A person who hires a plumber to fix their home"
+    ],
+    "non_examples": [
+      "A person who buys goods to resell them",
+      "A person who uses a service for a commercial purpose"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-7"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "consumer",
+      "goods",
+      "services",
+      "consideration",
+      "commercial purpose"
+    ],
+    "aliases": [
+      "customer",
+      "buyer"
+    ],
+    "user_queries": [
+      "What is a consumer?",
+      "What is the definition of a consumer?",
+      "What is the meaning of a consumer in the Consumer Protection Act, 2019?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

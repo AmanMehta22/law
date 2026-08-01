@@ -1,0 +1,52 @@
+{
+  "concept_id": "definition.establishment",
+  "concept_type": "definition",
+  "title": "Establishment",
+  "description": "Definition of Establishment under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "establishment",
+    "legal_definition": "includes an advertising agency, commission agent, manufacturing, trading or any other commercial agency which carries on any business, trade or profession or any work in connection with or incidental or ancillary to any commercial activity, trade or profession, or such other class or classes of persons including public utility entities in the manner as may be prescribed",
+    "plain_language": "a business or organization that provides goods or services, including advertising agencies, manufacturers, traders, and public utilities",
+    "examples": [
+      "a company that manufactures and sells electronics",
+      "a advertising agency that creates ads for clients"
+    ],
+    "non_examples": [
+      "an individual selling personal items on a one-time basis",
+      "a non-profit organization that does not provide goods or services"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-19"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "establishment",
+      "business",
+      "commercial activity",
+      "trade",
+      "profession"
+    ],
+    "aliases": [
+      "organization",
+      "company",
+      "firm"
+    ],
+    "user_queries": [
+      "What is an establishment under the Consumer Protection Act?",
+      "What types of businesses are considered establishments?",
+      "Is a public utility an establishment?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.8,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

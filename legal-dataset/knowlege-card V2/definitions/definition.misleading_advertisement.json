@@ -1,0 +1,49 @@
+{
+  "concept_id": "definition.misleading_advertisement",
+  "concept_type": "definition",
+  "title": "Misleading Advertisement",
+  "description": "Definition of Misleading Advertisement under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "misleading advertisement",
+    "legal_definition": "an advertisement, which— (i) falsely describes such product or service; or (ii) gives a false guarantee to, or is likely to mislead the consumers as to the nature, substance, quantity or quality of such product or service; or (iii) conveys an express or implied representation which, if made by the manufacturer or seller or service provider thereof, would constitute an unfair trade practice; or (iv) deliberately conceals important information;",
+    "plain_language": "an advertisement that lies or misleads about a product or service, including false descriptions, guarantees, or hiding important information",
+    "examples": [
+      "An ad claiming a product is 'made in India' when it's actually made in China",
+      "An ad promising a 'lifetime guarantee' for a product that only lasts a year"
+    ],
+    "non_examples": [
+      "An ad that honestly describes a product's features and limitations",
+      "An ad that clearly states the terms and conditions of a service"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-28"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "misleading advertisement",
+      "false advertising",
+      "consumer protection"
+    ],
+    "aliases": [
+      "deceptive advertising",
+      "false ad"
+    ],
+    "user_queries": [
+      "What is a misleading ad?",
+      "How to identify false advertising?",
+      "What constitutes deceptive advertising?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.8,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

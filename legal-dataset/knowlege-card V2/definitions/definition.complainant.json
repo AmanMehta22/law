@@ -1,0 +1,49 @@
+{
+  "concept_id": "definition.complainant",
+  "concept_type": "definition",
+  "title": "Complainant",
+  "description": "A person or entity that files a complaint under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "complainant",
+    "legal_definition": "a consumer; or any voluntary consumer association registered under any law for the time being in force; or the Central Government or any State Government; or the Central Authority; or one or more consumers, where there are numerous consumers having the same interest; or in case of death of a consumer, his legal heir or legal representative; or in case of a consumer being a minor, his parent or legal guardian",
+    "plain_language": "A person or organization that makes a formal complaint about a product or service, including consumers, government agencies, and consumer groups",
+    "examples": [
+      "A customer who purchases a defective product and files a complaint",
+      "A consumer association that files a complaint on behalf of its members"
+    ],
+    "non_examples": [
+      "A business that sells a product",
+      "A person who provides a positive review of a product"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-5"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "complainant",
+      "consumer complaint",
+      "consumer protection"
+    ],
+    "aliases": [
+      "plaintiff",
+      "claimant"
+    ],
+    "user_queries": [
+      "Who can file a complaint under the Consumer Protection Act",
+      "What is a complainant in consumer law",
+      "How to file a complaint as a consumer"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

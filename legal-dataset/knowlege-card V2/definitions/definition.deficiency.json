@@ -1,0 +1,50 @@
+{
+  "concept_id": "definition.deficiency",
+  "concept_type": "definition",
+  "title": "Deficiency",
+  "description": "Definition of Deficiency under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "deficiency",
+    "legal_definition": "any fault, imperfection, shortcoming or inadequacy in the quality, nature and manner of performance which is required to be maintained by or under any law for the time being in force or has been undertaken to be performed by a person in pursuance of a contract or otherwise in relation to any service and includes— (i) any act of negligence or omission or commission by such person which causes loss or injury to the consumer; and (ii) deliberate withholding of relevant information by such person to the consumer",
+    "plain_language": "a fault or shortcoming in the quality or performance of a service that is required by law or promised in a contract, including acts of negligence or deliberately hiding important information from the consumer",
+    "examples": [
+      "a hotel not providing clean rooms as promised",
+      "a doctor not disclosing potential side effects of a medication"
+    ],
+    "non_examples": [
+      "a consumer not liking the color of a product",
+      "a service being slow due to unforeseen circumstances beyond the provider's control"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-11"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "deficiency",
+      "consumer protection",
+      "service quality"
+    ],
+    "aliases": [
+      "shortcoming",
+      "fault",
+      "inadequacy"
+    ],
+    "user_queries": [
+      "What is a deficiency in consumer protection?",
+      "What constitutes a deficiency in service quality?",
+      "How is deficiency defined under the Consumer Protection Act?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.8,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

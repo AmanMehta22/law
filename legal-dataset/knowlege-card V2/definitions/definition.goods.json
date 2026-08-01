@@ -1,0 +1,50 @@
+{
+  "concept_id": "definition.goods",
+  "concept_type": "definition",
+  "title": "Goods",
+  "description": "Definition of Goods under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "goods",
+    "legal_definition": "means every kind of movable property and includes \"food\" as defined in clause (j) of sub-section (1) of section 3 of the Food Safety and Standards Act, 2006;",
+    "plain_language": "any type of property that can be moved, including food",
+    "examples": [
+      "a refrigerator purchased from a store",
+      "a packet of biscuits bought from a supermarket"
+    ],
+    "non_examples": [
+      "a plot of land",
+      "a house"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-21"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "goods",
+      "movable property",
+      "food",
+      "consumer goods"
+    ],
+    "aliases": [
+      "products",
+      "commodities"
+    ],
+    "user_queries": [
+      "what are goods under consumer protection act",
+      "definition of goods in CPA 2019",
+      "meaning of goods in law"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

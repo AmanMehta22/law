@@ -1,0 +1,49 @@
+{
+  "concept_id": "definition.unfair_contract",
+  "concept_type": "definition",
+  "title": "Unfair Contract",
+  "description": "Definition of Unfair Contract under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "unfair contract",
+    "legal_definition": "a contract between a manufacturer or trader or service provider on one hand, and a consumer on the other, having such terms which cause significant change in the rights of such consumer, including the following, namely:— (i) requiring manifestly excessive security deposits to be given by a consumer for the performance of contractual obligations; or (ii) imposing any penalty on the consumer, for the breach of contract thereof which is wholly disproportionate to the loss occurred due to such breach to the other party to the contract; or (iii) refusing to accept early repayment of debts on payment of applicable penalty; or (iv) entitling a party to the contract to terminate such contract unilaterally, without reasonable cause; or (v) permitting or has the effect of permitting one party to assign the contract to the detriment of the other party who is a consumer, without his consent; or (vi) imposing on the consumer any unreasonable charge, obligation or condition which puts such consumer to disadvantage",
+    "plain_language": "a contract that unfairly changes the rights of a consumer, including requiring excessive security deposits, imposing disproportionate penalties, or allowing one party to unilaterally terminate the contract without a valid reason",
+    "examples": [
+      "a contract that requires a consumer to pay a security deposit that is much higher than the value of the service provided",
+      "a contract that imposes a penalty on a consumer for breaching the contract that is much higher than the actual loss suffered by the other party"
+    ],
+    "non_examples": [
+      "a contract that requires a reasonable security deposit for a service",
+      "a contract that imposes a penalty on a consumer for breaching the contract that is proportionate to the actual loss suffered by the other party"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-46"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "unfair contract",
+      "consumer protection",
+      "contract terms"
+    ],
+    "aliases": [
+      "unconscionable contract",
+      "one-sided contract"
+    ],
+    "user_queries": [
+      "what is an unfair contract",
+      "what makes a contract unfair",
+      "how to identify an unfair contract"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.8,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

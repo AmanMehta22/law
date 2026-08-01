@@ -1,0 +1,49 @@
+{
+  "concept_id": "definition.product_service_provider",
+  "concept_type": "definition",
+  "title": "Product Service Provider",
+  "description": "Definition of Product Service Provider under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "product service provider",
+    "legal_definition": "a person who provides any service in respect of such product",
+    "plain_language": "a person or business that offers services related to a product",
+    "examples": [
+      "a company that repairs mobile phones",
+      "a mechanic who services cars"
+    ],
+    "non_examples": [
+      "a company that only manufactures products",
+      "a retailer who only sells products"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-38"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "product service provider",
+      "service provider",
+      "product services"
+    ],
+    "aliases": [
+      "service provider",
+      "product maintainer"
+    ],
+    "user_queries": [
+      "What is a product service provider?",
+      "Who is considered a product service provider?",
+      "What services are included in product service provider?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.8,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

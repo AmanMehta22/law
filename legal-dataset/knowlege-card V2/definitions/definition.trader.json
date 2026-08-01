@@ -1,0 +1,52 @@
+{
+  "concept_id": "definition.trader",
+  "concept_type": "definition",
+  "title": "Trader",
+  "description": "Definition of Trader under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "trader",
+    "legal_definition": "a person who sells or distributes any goods for sale and includes the manufacturer thereof, and where such goods are sold or distributed in package form, includes the packer thereof",
+    "plain_language": "a person or company that sells or gives out goods to others, including the maker of the goods and the person who packages them",
+    "examples": [
+      "a company that manufactures and sells electronics",
+      "a store that buys and resells packaged food products"
+    ],
+    "non_examples": [
+      "a person who only buys goods for personal use",
+      "a company that only provides services, not goods"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-45"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "trader",
+      "seller",
+      "distributor",
+      "manufacturer",
+      "packer"
+    ],
+    "aliases": [
+      "seller",
+      "vendor",
+      "supplier"
+    ],
+    "user_queries": [
+      "What is a trader under the Consumer Protection Act?",
+      "Who is considered a trader in India?",
+      "What does trader mean in consumer law?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

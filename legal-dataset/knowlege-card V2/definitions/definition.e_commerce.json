@@ -1,0 +1,49 @@
+{
+  "concept_id": "definition.e_commerce",
+  "concept_type": "definition",
+  "title": "E-Commerce",
+  "description": "Definition of E-Commerce under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "e-commerce",
+    "legal_definition": "buying or selling of goods or services including digital products over digital or electronic network",
+    "plain_language": "buying or selling products or services online",
+    "examples": [
+      "Purchasing a book from an online retailer",
+      "Buying a digital movie from a streaming platform"
+    ],
+    "non_examples": [
+      "Buying a book from a physical store",
+      "Selling a product through a physical marketplace"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-16"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "e-commerce",
+      "online shopping",
+      "digital marketplace"
+    ],
+    "aliases": [
+      "online commerce",
+      "electronic commerce"
+    ],
+    "user_queries": [
+      "What is e-commerce?",
+      "What does e-commerce mean?",
+      "Is online shopping considered e-commerce?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.8,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

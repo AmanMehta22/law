@@ -1,0 +1,49 @@
+{
+  "concept_id": "definition.spurious_goods",
+  "concept_type": "definition",
+  "title": "Spurious Goods",
+  "description": "Definition of Spurious Goods under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "spurious goods",
+    "legal_definition": "such goods which are falsely claimed to be genuine",
+    "plain_language": "goods that are fake or falsely claimed to be authentic",
+    "examples": [
+      "a counterfeit luxury watch sold as a genuine product",
+      "a fake medicine claiming to be from a reputable brand"
+    ],
+    "non_examples": [
+      "a genuine product with a manufacturing defect",
+      "a used product sold as used"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-43"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "spurious goods",
+      "counterfeit products",
+      "fake goods"
+    ],
+    "aliases": [
+      "fake goods",
+      "counterfeit products"
+    ],
+    "user_queries": [
+      "What are spurious goods?",
+      "What is meant by spurious goods?",
+      "How are spurious goods defined under the Consumer Protection Act?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.8,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

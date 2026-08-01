@@ -1,0 +1,49 @@
+{
+  "concept_id": "definition.express_warranty",
+  "concept_type": "definition",
+  "title": "Express Warranty",
+  "description": "Definition of Express Warranty under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "express warranty",
+    "legal_definition": "any material statement, affirmation of fact, promise or description relating to a product or service warranting that it conforms to such material statement, affirmation, promise or description and includes any sample or model of a product warranting that the whole of such product conforms to such sample or model",
+    "plain_language": "a promise or statement made about a product or service that it will meet certain standards or descriptions, including samples or models that represent the whole product",
+    "examples": [
+      "A company advertises that their product is 'durable and long-lasting'",
+      "A salesperson shows a customer a sample of a product and says it represents the quality of the whole product"
+    ],
+    "non_examples": [
+      "A company's general statement that they strive for quality",
+      "A customer's personal opinion about a product"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-20"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "express warranty",
+      "product warranty",
+      "consumer protection"
+    ],
+    "aliases": [
+      "warranty",
+      "product guarantee"
+    ],
+    "user_queries": [
+      "What is an express warranty?",
+      "What does express warranty mean?",
+      "Is a sample a warranty?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

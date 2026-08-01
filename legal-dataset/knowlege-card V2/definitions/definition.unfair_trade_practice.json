@@ -1,0 +1,49 @@
+{
+  "concept_id": "definition.unfair_trade_practice",
+  "concept_type": "definition",
+  "title": "Unfair Trade Practice",
+  "description": "Definition of Unfair Trade Practice under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "unfair trade practice",
+    "legal_definition": "a trade practice which, for the purpose of promoting the sale, use or supply of any goods or for the provision of any service, adopts any unfair method or unfair or deceptive practice including any of the following practices",
+    "plain_language": "any business practice that deceives or misleads consumers to buy or use a product or service, including false advertising, hiding information, or making false promises",
+    "examples": [
+      "a company advertising a product as 'new' when it's actually refurbished",
+      "a business making false claims about the quality of their services"
+    ],
+    "non_examples": [
+      "a company offering a genuine discount on a product",
+      "a business providing clear and accurate information about their services"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-47"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "unfair trade practice",
+      "consumer protection",
+      "deceptive practices"
+    ],
+    "aliases": [
+      "deceptive business practice",
+      "false advertising"
+    ],
+    "user_queries": [
+      "What is an unfair trade practice?",
+      "What are some examples of unfair trade practices?",
+      "How does the Consumer Protection Act define unfair trade practice?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

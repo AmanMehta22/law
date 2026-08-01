@@ -23,7 +23,13 @@
       "subsection": "(4)"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "target": "CPA2019-CH1-S1-3",
+      "relation": "refers_to",
+      "context": "where the order is made as per majority opinion under sub-section (3)"
+    }
+  ],
   "document": {
     "page": 22,
     "paragraph": 3

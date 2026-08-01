@@ -1,0 +1,50 @@
+{
+  "concept_id": "definition.injury",
+  "concept_type": "definition",
+  "title": "Injury",
+  "description": "Definition of Injury under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "injury",
+    "legal_definition": "any harm whatever illegally caused to any person, in body, mind or property",
+    "plain_language": "harm or damage caused to someone's body, mind, or property in an illegal way",
+    "examples": [
+      "a consumer suffers physical harm due to a defective product",
+      "a person's property is damaged due to negligence of a service provider"
+    ],
+    "non_examples": [
+      "a person gets injured in an accident due to their own fault",
+      "a business suffers financial loss due to market fluctuations"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-23"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "injury",
+      "harm",
+      "damage",
+      "illegal harm"
+    ],
+    "aliases": [
+      "harm",
+      "damage"
+    ],
+    "user_queries": [
+      "what is injury under consumer protection act",
+      "what constitutes injury in consumer law",
+      "what is meant by injury in legal terms"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

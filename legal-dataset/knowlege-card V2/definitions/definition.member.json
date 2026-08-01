@@ -1,0 +1,50 @@
+{
+  "concept_id": "definition.member",
+  "concept_type": "definition",
+  "title": "Member",
+  "description": "Definition of Member under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "member",
+    "legal_definition": "\"member\" includes the President and a member of the National Commission or a State Commission or a District Commission, as the case may be;",
+    "plain_language": "A member refers to the President or any person who is part of the National, State, or District Commission.",
+    "examples": [
+      "The President of the National Commission is a member.",
+      "A person serving on the State Commission is considered a member."
+    ],
+    "non_examples": [
+      "A consumer filing a complaint is not a member.",
+      "A business owner is not a member unless they are part of the commission."
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-27"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "member",
+      "National Commission",
+      "State Commission",
+      "District Commission"
+    ],
+    "aliases": [
+      "commission member",
+      "president"
+    ],
+    "user_queries": [
+      "What is a member of the National Commission?",
+      "Who is considered a member under the Consumer Protection Act?",
+      "What does member mean in the context of consumer protection?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

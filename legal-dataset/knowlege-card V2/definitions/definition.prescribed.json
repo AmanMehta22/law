@@ -1,0 +1,52 @@
+{
+  "concept_id": "definition.prescribed",
+  "concept_type": "definition",
+  "title": "Prescribed",
+  "description": "Definition of Prescribed under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "prescribed",
+    "legal_definition": "prescribed by rules made by the Central Government, or, as the case may be, the State Government;",
+    "plain_language": "officially stated or required by rules made by the Central or State Government",
+    "examples": [
+      "A company must follow the prescribed procedure for consumer complaints.",
+      "The government has prescribed rules for e-commerce platforms to protect consumer rights."
+    ],
+    "non_examples": [
+      "A company's internal policy is not considered prescribed unless mandated by the government.",
+      "A general guideline that is not enforced by law is not prescribed."
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-32"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "prescribed",
+      "Central Government",
+      "State Government",
+      "rules",
+      "regulations"
+    ],
+    "aliases": [
+      "officially stated",
+      "mandated",
+      "required by law"
+    ],
+    "user_queries": [
+      "What does prescribed mean in consumer law?",
+      "What is the meaning of prescribed in the Consumer Protection Act?",
+      "How is prescribed defined under Indian law?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.8,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 2
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "concept_id": "definition.harm",
+  "concept_type": "definition",
+  "title": "Harm in Product Liability",
+  "description": "Definition of harm in relation to product liability",
+  "content": {
+    "term": "harm",
+    "legal_definition": "includes— (i) damage to any property, other than the product itself; (ii) personal injury, illness or death; (iii) mental agony or emotional distress attendant to personal injury or illness or damage to property; or (iv) any loss of consortium or services or other loss resulting from a harm referred to in sub-clause (i) or sub-clause (ii) or sub-clause (iii), but shall not include any harm caused to a product itself or any damage to the property on account of breach of warranty conditions or any commercial or economic loss, including any direct, incidental or consequential loss relating thereto",
+    "plain_language": "Harm refers to any damage or injury caused by a product, including damage to property, personal injury, illness, death, mental distress, or loss of services, but does not include damage to the product itself or financial losses",
+    "examples": [
+      "A consumer buys a defective phone that explodes and causes injury to their hand",
+      "A person eats contaminated food from a restaurant and suffers from food poisoning"
+    ],
+    "non_examples": [
+      "A product is damaged during shipping, but no one is injured",
+      "A company loses money due to a product recall"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-22"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "product liability",
+      "harm",
+      "damage",
+      "injury",
+      "loss"
+    ],
+    "aliases": [
+      "injury",
+      "damage"
+    ],
+    "user_queries": [
+      "What is harm in product liability?",
+      "What kind of damage is considered harm?",
+      "Can harm include financial losses?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

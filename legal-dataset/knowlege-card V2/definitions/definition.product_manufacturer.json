@@ -1,0 +1,50 @@
+{
+  "concept_id": "definition.product_manufacturer",
+  "concept_type": "definition",
+  "title": "Product Manufacturer",
+  "description": "A person who makes, assembles, or designs a product before its sale, or who sells, distributes, or repairs a product for commercial purposes.",
+  "content": {
+    "term": "product manufacturer",
+    "legal_definition": "a person who— (i) makes any product or parts thereof; or (ii) assembles parts thereof made by others; or (iii) puts or causes to be put his own mark on any products made by any other person; or (iv) makes a product and sells, distributes, leases, installs, prepares, packages, labels, markets, repairs, maintains such product or is otherwise involved in placing such product for commercial purpose; or (v) designs, produces, fabricates, constructs or re-manufacters any product before its sale; or (vi) being a product seller of a product, is also a manufacturer of such product;",
+    "plain_language": "A product manufacturer is a person who makes, assembles, or designs a product before its sale, or who sells, distributes, or repairs a product for commercial purposes.",
+    "examples": [],
+    "non_examples": []
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-36"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "product manufacturer",
+      "product maker",
+      "product seller",
+      "commercial purpose",
+      "product design",
+      "product production",
+      "product distribution",
+      "product repair",
+      "product maintenance"
+    ],
+    "aliases": [
+      "product maker",
+      "product seller",
+      "manufacturer"
+    ],
+    "user_queries": [
+      "What is a product manufacturer?",
+      "What does a product manufacturer do?",
+      "What is the role of a product manufacturer?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://legal-dataset.in/schema/v1f.json",
+  "title": "V1 Legal Node (v1Format)",
+  "description": "A single legal node in the v1Format layout: id, parent_id, path, order, node_type, content_type, optional term, act_id, chapter_number, section_number, subsection_number, official_text, citations, relationships, document, metadata.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "parent_id",
+    "path",
+    "order",
+    "node_type",
+    "content_type",
+    "act_id",
+    "chapter_number",
+    "section_number",
+    "subsection_number",
+    "official_text",
+    "citations",
+    "relationships",
+    "document",
+    "metadata"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[A-Z0-9]+-CH[0-9]+-S[0-9]+(-[0-9]+)?$",
+      "examples": ["CPA2019-CH1-S2-10"]
+    },
+    "parent_id": {
+      "type": "string",
+      "examples": ["CPA2019-CH1-S2"]
+    },
+    "path": {
+      "type": "array",
+      "minItems": 2,
+      "items": { "type": "string" },
+      "examples": [["CPA2019", "CH1", "S2", "(10)"]]
+    },
+    "order": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "node_type": {
+      "const": "section"
+    },
+    "content_type": {
+      "type": "string",
+      "enum": ["definition", "commencement", "general", "authority", "procedure", "penalty", "offence", "appeal", "jurisdiction", "remedy", "timeline", "exception", "obligation", "evidence", "rule_making"]
+    },
+    "term": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Present only on content_type=definition nodes: the quoted term defined by the provision."
+    },
+    "act_id": {
+      "type": "string",
+      "examples": ["CPA2019"]
+    },
+    "chapter_number": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "section_number": {
+      "type": "string",
+      "pattern": "^[0-9]+$"
+    },
+    "subsection_number": {
+      "type": "string",
+      "pattern": "^(\\([0-9]+\\))?$",
+      "description": "Empty string for whole-section nodes."
+    },
+    "official_text": {
+      "type": "string",
+      "minLength": 10,
+      "description": "Verbatim statutory wording."
+    },
+    "citations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["act", "chapter", "section", "subsection"],
+        "properties": {
+          "act": { "type": "string" },
+          "chapter": { "type": "string" },
+          "section": { "type": "string" },
+          "subsection": { "type": "string" }
+        }
+      }
+    },
+    "relationships": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["target", "relation"],
+        "properties": {
+          "target": { "type": "string", "description": "Node id (or whole-section id) referenced." },
+          "relation": { "type": "string", "examples": ["refers_to", "applies_to", "prescribes"] },
+          "context": { "type": "string", "description": "Short verbatim quote, optional." }
+        }
+      }
+    },
+    "document": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["page", "paragraph"],
+      "properties": {
+        "page": { "type": "integer", "minimum": 1 },
+        "paragraph": { "type": "integer", "minimum": 1 }
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["jurisdiction", "language", "status", "effective_from", "effective_to", "checksum", "token_count"],
+      "properties": {
+        "jurisdiction": { "type": "string" },
+        "language": { "type": "string" },
+        "status": { "type": "string" },
+        "effective_from": { "type": ["string", "null"] },
+        "effective_to": { "type": ["string", "null"] },
+        "checksum": { "type": "string" },
+        "token_count": { "type": "integer", "minimum": 0 }
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "concept_id": "definition.person",
+  "concept_type": "definition",
+  "title": "Definition of Person",
+  "description": "Legal definition of a person under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "person",
+    "legal_definition": "an individual; a firm whether registered or not; a Hindu undivided family; a co-operative society; an association of persons whether registered under the Societies Registration Act, 1860 or not; any corporation, company or a body of individuals whether incorporated or not; any artificial juridical person, not falling within any of the preceding sub-clauses",
+    "plain_language": "a person can be an individual, a business, a family, a group of people, or an organization, whether officially registered or not",
+    "examples": [
+      "John Doe",
+      "ABC Corporation",
+      "a local cooperative society"
+    ],
+    "non_examples": [
+      "a pet",
+      "a building"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-31"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "person",
+      "individual",
+      "business",
+      "organization"
+    ],
+    "aliases": [
+      "individual",
+      "entity",
+      "party"
+    ],
+    "user_queries": [
+      "What is a person under the Consumer Protection Act?",
+      "Who is considered a person in law?",
+      "What kinds of entities are considered persons?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

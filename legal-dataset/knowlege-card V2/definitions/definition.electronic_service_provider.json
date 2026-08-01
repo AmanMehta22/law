@@ -1,0 +1,49 @@
+{
+  "concept_id": "definition.electronic_service_provider",
+  "concept_type": "definition",
+  "title": "Electronic Service Provider",
+  "description": "Definition of Electronic Service Provider under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "electronic service provider",
+    "legal_definition": "a person who provides technologies or processes to enable a product seller to engage in advertising or selling goods or services to a consumer and includes any online market place or online auction sites",
+    "plain_language": "a company or person that provides the technology for sellers to advertise or sell products to buyers online, including online marketplaces and auction sites",
+    "examples": [
+      "Amazon providing a platform for third-party sellers",
+      "Flipkart enabling sellers to advertise products to consumers"
+    ],
+    "non_examples": [
+      "a physical store selling products directly to customers",
+      "a manufacturer producing goods without selling them online"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-17"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "electronic service provider",
+      "online marketplace",
+      "e-commerce platform"
+    ],
+    "aliases": [
+      "online service provider",
+      "e-service provider"
+    ],
+    "user_queries": [
+      "What is an electronic service provider?",
+      "Who is considered an electronic service provider under the Consumer Protection Act?",
+      "What does electronic service provider mean in the context of online shopping?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 2
+  }
+}

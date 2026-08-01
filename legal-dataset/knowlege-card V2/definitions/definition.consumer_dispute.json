@@ -1,0 +1,50 @@
+{
+  "concept_id": "definition.consumer_dispute",
+  "concept_type": "definition",
+  "title": "Consumer Dispute",
+  "description": "Definition of Consumer Dispute under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "consumer dispute",
+    "legal_definition": "a dispute where the person against whom a complaint has been made, denies or disputes the allegations contained in the complaint",
+    "plain_language": "a disagreement between a consumer and a seller or service provider where the seller or service provider rejects or argues against the consumer's complaints",
+    "examples": [
+      "a customer complains about a defective product and the manufacturer denies any fault",
+      "a consumer disputes a bill from a service provider, claiming it is incorrect"
+    ],
+    "non_examples": [
+      "a customer asks for a refund due to a change of mind",
+      "a consumer and a seller agree on a resolution without disputing the complaint"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-8"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "consumer dispute",
+      "complaint",
+      "allegations",
+      "denial"
+    ],
+    "aliases": [
+      "consumer complaint dispute",
+      "disputed consumer claim"
+    ],
+    "user_queries": [
+      "what is a consumer dispute",
+      "how is a consumer dispute defined",
+      "what happens when a consumer disputes a complaint"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.8,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

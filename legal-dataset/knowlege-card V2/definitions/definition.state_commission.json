@@ -1,0 +1,49 @@
+{
+  "concept_id": "definition.state_commission",
+  "concept_type": "definition",
+  "title": "State Commission",
+  "description": "Definition of State Commission under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "State Commission",
+    "legal_definition": "a State Consumer Disputes Redressal Commission established under sub-section (1) of section 42",
+    "plain_language": "a government body in a state that helps resolve consumer disputes",
+    "examples": [
+      "The Maharashtra State Commission heard a case against a defective product manufacturer",
+      "A consumer filed a complaint with the State Commission of Delhi"
+    ],
+    "non_examples": [
+      "A private company that resolves disputes between customers and sellers",
+      "A local court that only handles criminal cases"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-44"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "State Commission",
+      "consumer disputes",
+      "redressal commission"
+    ],
+    "aliases": [
+      "State Consumer Commission",
+      "SCDRC"
+    ],
+    "user_queries": [
+      "What is the State Commission for consumer protection",
+      "How to file a complaint with the State Commission",
+      "What does the State Commission do"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.8,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

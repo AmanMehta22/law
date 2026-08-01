@@ -1,0 +1,49 @@
+{
+  "concept_id": "definition.appropriate_laboratory",
+  "concept_type": "definition",
+  "title": "Appropriate Laboratory",
+  "description": "Definition of Appropriate Laboratory under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "appropriate laboratory",
+    "legal_definition": "a laboratory or an organisation— (i) recognised by the Central Government; or (ii) recognised by a State Government, subject to such guidelines as may be issued by the Central Government in this behalf; or (iii) established by or under any law for the time being in force, which is maintained, financed or aided by the Central Government or a State Government for carrying out analysis or test of any goods with a view to determining whether such goods suffer from any defect",
+    "plain_language": "a laboratory that is approved by the central or state government to test goods for defects",
+    "examples": [
+      "A government-funded lab that checks food products for contamination",
+      "A private lab recognised by the state government to test electronic goods for safety"
+    ],
+    "non_examples": [
+      "A lab that only conducts research and development",
+      "A lab that is not recognised by any government authority"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "appropriate laboratory",
+      "lab testing",
+      "government recognised lab"
+    ],
+    "aliases": [
+      "approved lab",
+      "recognised lab"
+    ],
+    "user_queries": [
+      "What is an appropriate laboratory?",
+      "How is a lab recognised by the government?",
+      "What kind of labs can test goods for defects?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

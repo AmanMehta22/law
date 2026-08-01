@@ -10,6 +10,7 @@
   "order": 15,
   "node_type": "section",
   "content_type": "definition",
+  "term": "District Commission",
   "act_id": "CPA2019",
   "chapter_number": 1,
   "section_number": "2",
@@ -23,7 +24,13 @@
       "subsection": "(15)"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "target": "CPA2019-CH4-S28-1",
+      "relation": "refers_to",
+      "context": "established under sub-section (1) of section 28"
+    }
+  ],
   "document": {
     "page": 4,
     "paragraph": 6

@@ -1,0 +1,50 @@
+{
+  "concept_id": "definition.defect",
+  "concept_type": "definition",
+  "title": "Defect",
+  "description": "Definition of Defect under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "defect",
+    "legal_definition": "any fault, imperfection or shortcoming in the quality, quantity, potency, purity or standard which is required to be maintained by or under any law for the time being in force or under any contract, express or implied or as is claimed by the trader in any manner whatsoever in relation to any goods or product",
+    "plain_language": "a problem or flaw in a product that makes it not meet the required standards or what was promised",
+    "examples": [
+      "a phone that does not charge properly",
+      "a food product that is past its expiry date"
+    ],
+    "non_examples": [
+      "a product that is not liked by the consumer",
+      "a product that is used improperly"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-10"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "defect",
+      "product flaw",
+      "quality issue"
+    ],
+    "aliases": [
+      "flaw",
+      "fault",
+      "imperfection"
+    ],
+    "user_queries": [
+      "what is a defect in a product",
+      "what makes a product defective",
+      "how to identify a defect in goods"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.8,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

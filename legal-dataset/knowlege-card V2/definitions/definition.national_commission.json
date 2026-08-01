@@ -1,0 +1,49 @@
+{
+  "concept_id": "definition.national_commission",
+  "concept_type": "definition",
+  "title": "National Commission",
+  "description": "Definition of National Commission under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "National Commission",
+    "legal_definition": "the National Consumer Disputes Redressal Commission established under sub-section (1) of section 53",
+    "plain_language": "a national level commission that helps resolve consumer disputes",
+    "examples": [
+      "A consumer files a complaint with the National Commission about a defective product",
+      "The National Commission hears a case about a company's unfair trade practice"
+    ],
+    "non_examples": [
+      "A state-level consumer forum",
+      "A private company's customer service department"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-29"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "consumer disputes",
+      "redressal commission"
+    ],
+    "aliases": [
+      "National Consumer Commission",
+      "NCDRC"
+    ],
+    "user_queries": [
+      "What is the National Commission for consumers?",
+      "How do I file a complaint with the National Commission?",
+      "What is the role of the National Commission in consumer protection?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.8,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

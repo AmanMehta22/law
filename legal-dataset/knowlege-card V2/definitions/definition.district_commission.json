@@ -1,0 +1,49 @@
+{
+  "concept_id": "definition.district_commission",
+  "concept_type": "definition",
+  "title": "District Commission",
+  "description": "Definition of District Commission under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "District Commission",
+    "legal_definition": "a District Consumer Disputes Redressal Commission established under sub-section (1) of section 28",
+    "plain_language": "a local government body that helps resolve consumer complaints at the district level",
+    "examples": [
+      "A consumer files a complaint against a company in the District Commission of Delhi",
+      "A District Commission in Mumbai hears a case against a defective product manufacturer"
+    ],
+    "non_examples": [
+      "A state-level consumer court",
+      "A national consumer helpline"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-15"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "consumer disputes",
+      "redressal commission"
+    ],
+    "aliases": [
+      "District Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is a District Commission?",
+      "How to file a complaint in District Commission?",
+      "What is the role of District Commission in consumer protection?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.8,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 2
+  }
+}

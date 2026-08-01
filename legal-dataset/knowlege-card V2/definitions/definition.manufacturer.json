@@ -1,0 +1,52 @@
+{
+  "concept_id": "definition.manufacturer",
+  "concept_type": "definition",
+  "title": "Manufacturer",
+  "description": "Definition of Manufacturer under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "manufacturer",
+    "legal_definition": "a person who— (i) makes any goods or parts thereof; or (ii) assembles any goods or parts thereof made by others; or (iii) puts or causes to be put his own mark on any goods made by any other person",
+    "plain_language": "A person or company that makes, assembles, or labels a product as their own",
+    "examples": [
+      "A company that produces smartphones",
+      "A business that assembles furniture from parts made by other companies"
+    ],
+    "non_examples": [
+      "A retailer that only sells products made by others without modifying them",
+      "A person who buys a product and resells it without changing it"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-24"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "manufacturer",
+      "goods",
+      "production",
+      "assembly",
+      "labeling"
+    ],
+    "aliases": [
+      "maker",
+      "producer",
+      "assembler"
+    ],
+    "user_queries": [
+      "What is a manufacturer?",
+      "Who is considered a manufacturer under the law?",
+      "What does it mean to be a manufacturer?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.8,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

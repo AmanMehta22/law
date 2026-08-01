@@ -1,0 +1,51 @@
+{
+  "concept_id": "definition.advertisement",
+  "concept_type": "definition",
+  "title": "Advertisement",
+  "description": "Definition of Advertisement under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "advertisement",
+    "legal_definition": "any audio or visual publicity, representation, endorsement or pronouncement made by means of light, sound, smoke, gas, print, electronic media, internet or website and includes any notice, circular, label, wrapper, invoice or such other documents",
+    "plain_language": "a public announcement or promotion using various media like audio, video, print, internet, etc.",
+    "examples": [
+      "A company running a TV commercial to promote its new product",
+      "A social media post endorsing a brand"
+    ],
+    "non_examples": [
+      "A private conversation between friends about a product",
+      "A personal social media post not endorsing any brand"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "advertisement",
+      "publicity",
+      "promotion",
+      "endorsement"
+    ],
+    "aliases": [
+      "ad",
+      "promo",
+      "publicity material"
+    ],
+    "user_queries": [
+      "What is an advertisement under the Consumer Protection Act",
+      "What constitutes an advertisement",
+      "How is advertisement defined in the CPA 2019"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

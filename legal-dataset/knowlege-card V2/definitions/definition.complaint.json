@@ -1,0 +1,49 @@
+{
+  "concept_id": "definition.complaint",
+  "concept_type": "definition",
+  "title": "Complaint under Consumer Protection Act, 2019",
+  "description": "Definition of Complaint as per the Consumer Protection Act, 2019",
+  "content": {
+    "term": "complaint",
+    "legal_definition": "any allegation in writing, made by a complainant for obtaining any relief provided by or under this Act, that— (i) an unfair contract or unfair trade practice or a restrictive trade practice has been adopted by any trader or service provider; (ii) the goods bought by him or agreed to be bought by him suffer from one or more defects; (iii) the services hired or availed of or agreed to be hired or availed of by him suffer from any deficiency; (iv) a trader or a service provider, as the case may be, has charged for the goods or for the services mentioned in the complaint, a price in excess of the price— (a) fixed by or under any law for the time being in force; or (b) displayed on the goods or any package containing such goods; or (c) displayed on the price list exhibited by him by or under any law for the time being in force; or (d) agreed between the parties; (v) the goods, which are hazardous to life and safety when used, are being offered for sale to the public— (a) in contravention of standards relating to safety of such goods as required to be complied with, by or under any law for the time being in force; (b) where the trader knows that the goods so offered are unsafe to the public; (vi) the services which are hazardous or likely to be hazardous to life and safety of the public when used, are being offered by a person who provides any service and who knows it to be injurious to life and safety; (vii) a claim for product liability action lies against the product manufacturer, product seller or product service provider, as the case may be;",
+    "plain_language": "A complaint is a written allegation made by a consumer to get relief under the Consumer Protection Act, 2019, claiming that a trader or service provider has engaged in unfair practices, sold defective goods, provided deficient services, overcharged, sold hazardous goods, or offered hazardous services.",
+    "examples": [
+      "A consumer buys a defective phone and files a complaint against the seller.",
+      "A person hires a service provider who fails to deliver the promised services and files a complaint."
+    ],
+    "non_examples": [
+      "A consumer verbally tells a friend about a bad experience with a product.",
+      "A person writes a positive review about a product."
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-6"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "complaint",
+      "consumer protection",
+      "unfair trade practice"
+    ],
+    "aliases": [
+      "grievance",
+      "allegation"
+    ],
+    "user_queries": [
+      "How do I file a complaint under the Consumer Protection Act?",
+      "What is considered a complaint under the CPA?",
+      "Can I file a complaint for a defective product?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

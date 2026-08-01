@@ -1,0 +1,49 @@
+{
+  "concept_id": "definition.branch_office",
+  "concept_type": "definition",
+  "title": "Branch Office",
+  "description": "Definition of Branch Office under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "branch office",
+    "legal_definition": "any office or place of work described as a branch by the establishment; or any establishment carrying on either the same or substantially the same activity carried on by the head office of the establishment",
+    "plain_language": "a smaller office or workplace that is part of a larger organization, either called a branch or doing similar work as the main office",
+    "examples": [
+      "a bank's local branch",
+      "a company's regional sales office"
+    ],
+    "non_examples": [
+      "an independent business",
+      "a competitor's office"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "branch office",
+      "establishment",
+      "head office"
+    ],
+    "aliases": [
+      "satellite office",
+      "regional office"
+    ],
+    "user_queries": [
+      "What is a branch office?",
+      "What constitutes a branch office under CPA?",
+      "How is a branch office defined?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.8,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

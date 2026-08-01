@@ -1,0 +1,49 @@
+{
+  "concept_id": "definition.mediator",
+  "concept_type": "definition",
+  "title": "Mediator",
+  "description": "Definition of Mediator under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "mediator",
+    "legal_definition": "a mediator referred to in section 75",
+    "plain_language": "a person who helps resolve disputes between consumers and businesses, as described in section 75 of the Act",
+    "examples": [
+      "a neutral third-party expert helping a consumer and a company reach a settlement",
+      "a professional mediator facilitating a discussion between a buyer and a seller to resolve a complaint"
+    ],
+    "non_examples": [
+      "a judge in a court of law",
+      "a lawyer representing one party in a dispute"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-26"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "mediator",
+      "dispute resolution",
+      "consumer protection"
+    ],
+    "aliases": [
+      "neutral third-party",
+      "facilitator"
+    ],
+    "user_queries": [
+      "What is a mediator in consumer protection?",
+      "How does a mediator help resolve disputes?",
+      "What is the role of a mediator in the Consumer Protection Act?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.8,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 2
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "concept_id": "definition.product_seller",
+  "concept_type": "definition",
+  "title": "Product Seller",
+  "description": "Definition of Product Seller under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "product seller",
+    "legal_definition": "a person who, in the course of business, imports, sells, distributes, leases, installs, prepares, packages, labels, markets, repairs, maintains, or otherwise is involved in placing such product for commercial purpose",
+    "plain_language": "a person or business that sells, distributes, or provides a product to consumers for a commercial purpose",
+    "examples": [
+      "a company that manufactures and sells electronics",
+      "a retailer that sells clothing and accessories"
+    ],
+    "non_examples": [
+      "a person selling their used car privately",
+      "a doctor providing medical services"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-37"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "product seller",
+      "consumer protection",
+      "commercial purpose"
+    ],
+    "aliases": [
+      "seller",
+      "vendor",
+      "supplier"
+    ],
+    "user_queries": [
+      "What is a product seller?",
+      "Who is considered a product seller under the Consumer Protection Act?",
+      "What businesses are included in the definition of product seller?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.8,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

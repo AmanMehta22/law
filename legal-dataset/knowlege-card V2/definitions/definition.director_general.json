@@ -1,0 +1,49 @@
+{
+  "concept_id": "definition.director_general",
+  "concept_type": "definition",
+  "title": "Director-General",
+  "description": "Definition of Director-General under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "Director-General",
+    "legal_definition": "the Director-General appointed under sub-section (2) of section 15",
+    "plain_language": "the main official in charge, appointed according to section 15, sub-section 2",
+    "examples": [
+      "The Director-General oversees the consumer protection agency.",
+      "The Director-General is responsible for enforcing consumer rights."
+    ],
+    "non_examples": [
+      "A company's CEO is not necessarily a Director-General.",
+      "A local consumer advocate is not a Director-General."
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-14"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "Director-General",
+      "Consumer Protection",
+      "Section 15"
+    ],
+    "aliases": [
+      "Main Official",
+      "Chief Director"
+    ],
+    "user_queries": [
+      "What is a Director-General?",
+      "Who is the Director-General under the Consumer Protection Act?",
+      "What does the Director-General do?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.8,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "concept_id": "definition.mediation",
+  "concept_type": "definition",
+  "title": "Mediation",
+  "description": "Definition of Mediation under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "mediation",
+    "legal_definition": "the process by which a mediator mediates the consumer disputes",
+    "plain_language": "a process where a neutral person helps resolve consumer disputes",
+    "examples": [
+      "a consumer and a company using a mediator to settle a complaint",
+      "a mediator facilitating a discussion between a buyer and a seller to resolve a dispute"
+    ],
+    "non_examples": [
+      "a court trial",
+      "a direct negotiation between two parties without a neutral third party"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-25"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "mediation",
+      "consumer disputes",
+      "alternative dispute resolution"
+    ],
+    "aliases": [
+      "alternative dispute resolution",
+      "ADR"
+    ],
+    "user_queries": [
+      "what is mediation in consumer law",
+      "how does mediation work in consumer disputes",
+      "what is the purpose of mediation in consumer protection"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.8,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "concept_id": "definition.consumer_rights",
+  "concept_type": "definition",
+  "title": "Consumer Rights",
+  "description": "Rights of consumers under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "consumer rights",
+    "legal_definition": "the right to be protected against the marketing of goods, products or services which are hazardous to life and property; the right to be informed about the quality, quantity, potency, purity, standard and price of goods, products or services, as the case may be, so as to protect the consumer against unfair trade practices; the right to be assured, wherever possible, access to a variety of goods, products or services at competitive prices; the right to be heard and to be assured that consumer's interests will receive due consideration at appropriate fora; the right to seek redressal against unfair trade practice or restrictive trade practices or unscrupulous exploitation of consumers; and the right to consumer awareness",
+    "plain_language": "The rights that protect consumers from harmful or unfair products and services, and ensure they have access to accurate information, competitive prices, and a way to express their concerns and seek help when needed",
+    "examples": [
+      "A consumer's right to know the ingredients in a food product to avoid allergic reactions",
+      "A consumer's right to file a complaint against a company for selling defective products"
+    ],
+    "non_examples": [
+      "A business's right to set prices without regulation",
+      "A manufacturer's right to keep product information secret"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-9"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "consumer protection",
+      "consumer rights",
+      "unfair trade practices"
+    ],
+    "aliases": [
+      "customer rights",
+      "consumer interests"
+    ],
+    "user_queries": [
+      "What are my rights as a consumer?",
+      "How do I protect myself from unfair trade practices?",
+      "What can I do if I'm sold a defective product?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

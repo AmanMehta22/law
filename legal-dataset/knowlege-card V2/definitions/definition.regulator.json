@@ -1,0 +1,49 @@
+{
+  "concept_id": "definition.regulator",
+  "concept_type": "definition",
+  "title": "Regulator",
+  "description": "Definition of Regulator under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "Regulator",
+    "legal_definition": "a body or any authority established under any other law for the time being in force",
+    "plain_language": "an organization or authority set up by a law that is currently in effect",
+    "examples": [
+      "Reserve Bank of India",
+      "Food Safety and Standards Authority of India"
+    ],
+    "non_examples": [
+      "private company",
+      "individual person"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-40"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "regulator",
+      "authority",
+      "government body"
+    ],
+    "aliases": [
+      "authority",
+      "regulatory body"
+    ],
+    "user_queries": [
+      "What is a regulator in consumer protection?",
+      "Who is considered a regulator under the law?",
+      "What is the definition of a regulator?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.8,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "concept_id": "definition.product_liability_action",
+  "concept_type": "definition",
+  "title": "Product Liability Action",
+  "description": "Definition of Product Liability Action under the Consumer Protection Act, 2019",
+  "content": {
+    "term": "product liability action",
+    "legal_definition": "a complaint filed by a person before a District Commission or State Commission or National Commission, as the case may be, for claiming compensation for the harm caused to him",
+    "plain_language": "a legal complaint filed to claim compensation for harm caused by a product",
+    "examples": [
+      "A consumer files a complaint against a manufacturer for a defective phone that caused them injury",
+      "A person sues a company for selling a harmful product that resulted in financial loss"
+    ],
+    "non_examples": [
+      "A customer complaining about poor customer service",
+      "A business disputing a contract with a supplier"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-35"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "product liability",
+      "consumer complaint",
+      "compensation claim"
+    ],
+    "aliases": [
+      "product liability claim",
+      "consumer protection complaint"
+    ],
+    "user_queries": [
+      "What is product liability action?",
+      "How to file a product liability complaint?",
+      "What is the process for claiming compensation for product harm?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "DefinitionAgent",
+    "reviewed_by": null,
+    "version": 2
+  }
+}
