@@ -1,0 +1,40 @@
+{
+  "concept_id": "right.right_to_access_to_variety_of_goods",
+  "concept_type": "right",
+  "title": "Right to Access to Variety of Goods",
+  "description": "right to be assured access to a variety of goods, products or services at competitive prices",
+  "content": {
+    "right": "Access to Variety",
+    "conditions": [
+      "wherever possible"
+    ],
+    "limitations": [],
+    "exceptions": []
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-9"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "competitive prices",
+      "variety of goods"
+    ],
+    "aliases": [
+      "right to choice"
+    ],
+    "user_queries": [
+      "can I get different options for a product"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RightsAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

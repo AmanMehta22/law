@@ -1,0 +1,43 @@
+{
+  "concept_id": "right.right_to_refund",
+  "concept_type": "right",
+  "title": "Right to Refund",
+  "description": "right to receive refund of price or charges paid for defective goods or services",
+  "content": {
+    "right": "Refund",
+    "conditions": [
+      "defective goods or services",
+      "price or charges paid by the consumer"
+    ],
+    "limitations": [],
+    "exceptions": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S39-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "refund",
+      "return of price",
+      "defective goods"
+    ],
+    "aliases": [
+      "right to return",
+      "right to reimbursement"
+    ],
+    "user_queries": [
+      "how to get refund for defective product?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RightsAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

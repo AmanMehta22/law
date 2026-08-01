@@ -1,0 +1,40 @@
+{
+  "concept_id": "right.right_to_file_a_late_complaint",
+  "concept_type": "right",
+  "title": "Right to File a Late Complaint",
+  "description": "The right to file a complaint after the specified period if sufficient cause is shown",
+  "content": {
+    "right": "File a Late Complaint",
+    "conditions": [
+      "sufficient cause for not filing the complaint within the period"
+    ],
+    "limitations": [],
+    "exceptions": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S69-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "late complaint",
+      "sufficient cause"
+    ],
+    "aliases": [
+      "right to delayed complaint"
+    ],
+    "user_queries": [
+      "filing a complaint after the deadline"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RightsAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "concept_id": "right.right_to_reimbursement",
+  "concept_type": "right",
+  "title": "Right to Reimbursement",
+  "description": "reimbursement of the prices of goods or services",
+  "content": {
+    "right": "Reimbursement",
+    "conditions": [
+      "sufficient evidence to show violation of consumer rights or unfair trade practice",
+      "investigation by the Central Authority"
+    ],
+    "limitations": [],
+    "exceptions": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S20"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "reimbursement",
+      "refund"
+    ],
+    "aliases": [
+      "right to refund"
+    ],
+    "user_queries": [
+      "can I get my money back"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RightsAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

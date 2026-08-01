@@ -1,0 +1,43 @@
+{
+  "concept_id": "right.right_to_non_variation_of_service_terms",
+  "concept_type": "right",
+  "title": "Right to Non-Variation of Service Terms",
+  "description": "The terms and conditions of service, including salary and allowances, shall not be varied to the disadvantage of the President and members of the National Commission after their appointment",
+  "content": {
+    "right": "Non-Variation of Service Terms",
+    "conditions": [
+      "after appointment"
+    ],
+    "limitations": [],
+    "exceptions": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S55-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "non-variation",
+      "service terms",
+      "appointment"
+    ],
+    "aliases": [
+      "job security",
+      "terms of service"
+    ],
+    "user_queries": [
+      "can my salary be reduced after appointment",
+      "are my benefits protected after joining"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RightsAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

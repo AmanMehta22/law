@@ -1,0 +1,44 @@
+{
+  "concept_id": "right.right_to_expedient_disposal_of_complaint",
+  "concept_type": "right",
+  "title": "Right to Expedient Disposal of Complaint",
+  "description": "The complaint shall be disposed of as expeditiously as possible",
+  "content": {
+    "right": "Expedient Disposal",
+    "conditions": [
+      "complaint does not require analysis or testing of commodities",
+      "complaint requires analysis or testing of commodities"
+    ],
+    "limitations": [
+      "three months",
+      "five months"
+    ],
+    "exceptions": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-7"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "expeditious disposal",
+      "complaint disposal"
+    ],
+    "aliases": [
+      "right to speedy disposal"
+    ],
+    "user_queries": [
+      "how long will my complaint take to resolve"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RightsAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

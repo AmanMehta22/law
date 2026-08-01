@@ -1,0 +1,60 @@
+{
+  "concept_id": "right.right_to_be_heard",
+  "concept_type": "right",
+  "title": "Right to be Heard",
+  "description": "right to be heard and to be assured that consumer's interests will receive due consideration",
+  "content": {
+    "right": "To be Heard",
+    "conditions": [
+      "before rejection of complaint",
+      "the report made by the appropriate laboratory is disputed by any of the parties",
+      "complaint admitted by the District Commission under sub-section (2) of section 36"
+    ],
+    "limitations": [],
+    "exceptions": []
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-9",
+    "CPA2019-CH3-S21-8",
+    "CPA2019-CH4-S36-2",
+    "CPA2019-CH4-S38-2",
+    "CPA2019-CH4-S38-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "consumer interests",
+      "due consideration",
+      "opportunity of being heard",
+      "reasonable opportunity",
+      "be heard",
+      "right to be heard",
+      "consumer dispute",
+      "District Commission"
+    ],
+    "aliases": [
+      "right to voice",
+      "right to a hearing",
+      "right to a fair hearing",
+      "right to present case",
+      "right to representation"
+    ],
+    "user_queries": [
+      "how can I make my complaint heard",
+      "right to speak before order is passed",
+      "right to present case",
+      "can I dispute the lab report",
+      "can I present my case to the District Commission"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RightsAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

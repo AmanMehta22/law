@@ -1,0 +1,41 @@
+{
+  "concept_id": "right.right_to_return_of_seized_or_produced_documents",
+  "concept_type": "right",
+  "title": "Right to Return of Seized or Produced Documents",
+  "description": "Return of seized or produced documents within 20 days",
+  "content": {
+    "right": "Return of Documents",
+    "conditions": [
+      "after copies thereof or extracts therefrom certified by that person have been taken"
+    ],
+    "limitations": [],
+    "exceptions": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S22-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "seized documents",
+      "produced documents",
+      "return of documents"
+    ],
+    "aliases": [
+      "right to retrieval of documents"
+    ],
+    "user_queries": [
+      "What happens to documents seized under the Consumer Protection Act?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RightsAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

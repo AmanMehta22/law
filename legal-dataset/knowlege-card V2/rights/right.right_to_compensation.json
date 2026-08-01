@@ -1,0 +1,76 @@
+{
+  "concept_id": "right.right_to_compensation",
+  "concept_type": "right",
+  "title": "Right to Compensation",
+  "description": "claiming compensation for the harm caused",
+  "content": {
+    "right": "Compensation",
+    "conditions": [
+      "for the harm caused to him",
+      "negligence of the opposite party",
+      "loss or injury suffered by the consumer",
+      "harm caused by a defective product",
+      "product manufactured by a product manufacturer or serviced by a product service provider or sold by a product seller",
+      "the product contains a manufacturing defect",
+      "the product is defective in design",
+      "there is a deviation from manufacturing specifications",
+      "the product does not conform to the express warranty",
+      "the product fails to contain adequate instructions of correct usage to prevent any harm or any warning regarding improper or incorrect usage",
+      "product seller has exercised substantial control over the product",
+      "product seller has altered or modified the product",
+      "product seller has made an express warranty",
+      "product manufacturer is unknown or cannot be served",
+      "product seller has failed to exercise reasonable care"
+    ],
+    "limitations": [],
+    "exceptions": []
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-35",
+    "CPA2019-CH4-S39-1",
+    "CPA2019-CH6-S82",
+    "CPA2019-CH6-S83",
+    "CPA2019-CH6-S84-1",
+    "CPA2019-CH6-S86"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "product liability action",
+      "compensation",
+      "harm",
+      "negligence",
+      "loss",
+      "injury",
+      "product liability",
+      "compensation claim",
+      "defective product"
+    ],
+    "aliases": [
+      "right to claim damages",
+      "right to damages",
+      "right to reparation",
+      "right to remedy",
+      "right to redress"
+    ],
+    "user_queries": [
+      "how to claim compensation for harm",
+      "can I get compensation for defective product?",
+      "can I claim compensation for a defective product",
+      "can I sue for a defective product",
+      "can I claim compensation for a defective product?",
+      "can I get compensation for product harm",
+      "what are my rights if a product causes harm"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RightsAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

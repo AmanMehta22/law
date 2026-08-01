@@ -1,0 +1,40 @@
+{
+  "concept_id": "right.right_to_protection_from_unfair_contract_terms",
+  "concept_type": "right",
+  "title": "Right to Protection from Unfair Contract Terms",
+  "description": "right to have unfair contract terms declared null and void",
+  "content": {
+    "right": "Protection from Unfair Contract Terms",
+    "conditions": [],
+    "limitations": [],
+    "exceptions": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S49-2",
+    "CPA2019-CH4-S59-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "unfair contract terms",
+      "null and void"
+    ],
+    "aliases": [
+      "right to fair contract terms"
+    ],
+    "user_queries": [
+      "can a consumer challenge unfair contract terms",
+      "can a contract be declared null and void if it is unfair"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RightsAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

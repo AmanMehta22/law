@@ -1,0 +1,38 @@
+{
+  "concept_id": "right.right_to_fair_contract_terms",
+  "concept_type": "right",
+  "title": "Right to Fair Contract Terms",
+  "description": "Protection from unfair contract terms",
+  "content": {
+    "right": "Fair Contract Terms",
+    "conditions": [],
+    "limitations": [],
+    "exceptions": []
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-46"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "unfair contract",
+      "consumer rights"
+    ],
+    "aliases": [
+      "right to fair terms"
+    ],
+    "user_queries": [
+      "what are my rights as a consumer in a contract"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RightsAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

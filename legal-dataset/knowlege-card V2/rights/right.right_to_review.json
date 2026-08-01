@@ -1,0 +1,48 @@
+{
+  "concept_id": "right.right_to_review",
+  "concept_type": "right",
+  "title": "Right to Review",
+  "description": "right to have an order reviewed by the State Commission",
+  "content": {
+    "right": "Review",
+    "conditions": [
+      "error apparent on the face of the record",
+      "application made within thirty days of the order"
+    ],
+    "limitations": [],
+    "exceptions": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S50",
+    "CPA2019-CH4-S60"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "review",
+      "order",
+      "State Commission",
+      "National Commission"
+    ],
+    "aliases": [
+      "right to appeal",
+      "right to re-examine",
+      "right to reconsideration"
+    ],
+    "user_queries": [
+      "can I appeal this order",
+      "how to review a decision",
+      "can I review an order passed by the National Commission"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RightsAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

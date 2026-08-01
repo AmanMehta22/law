@@ -1,0 +1,38 @@
+{
+  "concept_id": "right.right_to_redressal",
+  "concept_type": "right",
+  "title": "Right to Redressal",
+  "description": "right to seek redressal against unfair trade practice or restrictive trade practices or unscrupulous exploitation of consumers",
+  "content": {
+    "right": "Redressal",
+    "conditions": [],
+    "limitations": [],
+    "exceptions": []
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-9"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "unfair trade practices",
+      "redressal"
+    ],
+    "aliases": [
+      "right to compensation"
+    ],
+    "user_queries": [
+      "what can I do against unfair trade practices"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RightsAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

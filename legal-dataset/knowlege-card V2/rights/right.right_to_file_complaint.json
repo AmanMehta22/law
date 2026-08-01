@@ -1,0 +1,45 @@
+{
+  "concept_id": "right.right_to_file_complaint",
+  "concept_type": "right",
+  "title": "Right to File Complaint",
+  "description": "right to file a complaint against violation of consumer rights or unfair trade practices or false or misleading advertisements",
+  "content": {
+    "right": "File Complaint",
+    "conditions": [
+      "relating to violation of consumer rights or unfair trade practices or false or misleading advertisements",
+      "prejudicial to the interests of consumers as a class"
+    ],
+    "limitations": [],
+    "exceptions": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S17"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "complaint",
+      "consumer rights",
+      "unfair trade practices",
+      "false or misleading advertisements"
+    ],
+    "aliases": [
+      "right to complaint",
+      "right to report"
+    ],
+    "user_queries": [
+      "how to file a complaint against unfair trade practices",
+      "how to report false advertisements"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RightsAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

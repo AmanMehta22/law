@@ -1,0 +1,38 @@
+{
+  "concept_id": "right.right_to_consumer_awareness",
+  "concept_type": "right",
+  "title": "Right to Consumer Awareness",
+  "description": "right to consumer awareness",
+  "content": {
+    "right": "Consumer Awareness",
+    "conditions": [],
+    "limitations": [],
+    "exceptions": []
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-9"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "consumer awareness",
+      "education"
+    ],
+    "aliases": [
+      "right to education"
+    ],
+    "user_queries": [
+      "how can I learn about consumer rights"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RightsAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

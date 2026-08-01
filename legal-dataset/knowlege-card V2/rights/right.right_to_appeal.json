@@ -1,0 +1,83 @@
+{
+  "concept_id": "right.right_to_appeal",
+  "concept_type": "right",
+  "title": "Right to Appeal",
+  "description": "The right to appeal against an order passed by the Central Authority",
+  "content": {
+    "right": "Appeal",
+    "conditions": [
+      "within a period of thirty days from the date of receipt of such order",
+      "orders of any District Commission within the State",
+      "within a period of thirty days from the date of the order",
+      "in such form and manner as may be prescribed",
+      "the case involves a substantial question of law",
+      "a substantial question of law is involved in the case",
+      "order passed ex parte by the State Commission",
+      "orders of any State Commission or the Central Authority",
+      "sufficient cause for not filing it within that period",
+      "an order is passed under sub-section (1) of section 72",
+      "sufficient cause for not preferring the appeal within the said period of thirty days."
+    ],
+    "limitations": [
+      "the National Commission shall not entertain the appeal after the expiry of the said period of thirty days unless it is satisfied that there was sufficient cause for not filing it within that period",
+      "no appeal by a person, who is required to pay any amount in terms of an order of the State Commission, shall be entertained by the National Commission unless the appellant has deposited fifty per cent. of that amount in the manner as may be prescribed",
+      "no appeal shall be entertained unless fifty per cent of the amount ordered to be paid has been deposited"
+    ],
+    "exceptions": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S24",
+    "CPA2019-CH4-S47-1",
+    "CPA2019-CH4-S51-1",
+    "CPA2019-CH4-S51-2",
+    "CPA2019-CH4-S51-4",
+    "CPA2019-CH4-S51-5",
+    "CPA2019-CH4-S58-1",
+    "CPA2019-CH4-S67",
+    "CPA2019-CH4-S73-1",
+    "CPA2019-CH4-S73-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "appeal",
+      "National Commission",
+      "Central Authority",
+      "District Commission",
+      "State Commission",
+      "substantial question of law",
+      "ex parte",
+      "Supreme Court",
+      "order"
+    ],
+    "aliases": [
+      "right to challenge",
+      "right to contest",
+      "right to challenge an order",
+      "right to review",
+      "right to be heard"
+    ],
+    "user_queries": [
+      "how to appeal against Central Authority order",
+      "how to appeal against District Commission order",
+      "how to appeal against a State Commission order",
+      "how to appeal to National Commission",
+      "can I appeal to the National Commission",
+      "how to appeal against state commission order",
+      "how to appeal against State Commission order",
+      "can I appeal against Central Authority decision",
+      "how to appeal against National Commission order",
+      "how to appeal a consumer court order"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RightsAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

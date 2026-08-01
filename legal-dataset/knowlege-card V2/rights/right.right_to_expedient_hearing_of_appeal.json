@@ -1,0 +1,38 @@
+{
+  "concept_id": "right.right_to_expedient_hearing_of_appeal",
+  "concept_type": "right",
+  "title": "Right to Expedient Hearing of Appeal",
+  "description": "The right to have an appeal heard as expeditiously as possible",
+  "content": {
+    "right": "Expedient Hearing of Appeal",
+    "conditions": [],
+    "limitations": [],
+    "exceptions": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S52"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "expeditious hearing",
+      "appeal disposal"
+    ],
+    "aliases": [
+      "right to speedy appeal"
+    ],
+    "user_queries": [
+      "how long will my appeal take"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RightsAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

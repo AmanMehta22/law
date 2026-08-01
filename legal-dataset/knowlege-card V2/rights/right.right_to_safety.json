@@ -1,0 +1,40 @@
+{
+  "concept_id": "right.right_to_safety",
+  "concept_type": "right",
+  "title": "Right to Safety",
+  "description": "right to be protected from hazardous or unsafe goods and services",
+  "content": {
+    "right": "Safety",
+    "conditions": [],
+    "limitations": [],
+    "exceptions": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S39-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "safety",
+      "hazardous goods",
+      "unsafe services"
+    ],
+    "aliases": [
+      "right to protection",
+      "right to security"
+    ],
+    "user_queries": [
+      "are there any laws to protect me from hazardous products?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RightsAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}
