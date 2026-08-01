@@ -1,0 +1,32 @@
+{
+  "concept_id": "penalty.offence_under_sub_section_1",
+  "concept_type": "penalty",
+  "title": "Compounding of offence",
+  "description": "...",
+  "content": {
+    "offence": "offence under sub-section (1)",
+    "punishment": "compounding of offence",
+    "minimum": "",
+    "maximum": "",
+    "applicable_section": "sub-section (1)"
+  },
+  "derived_from": [
+    "CPA2019-CH8-S96-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "PenaltyAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

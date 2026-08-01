@@ -1,0 +1,41 @@
+{
+  "concept_id": "penalty.manufacturing_storing_selling_distributing_or_importing_prod",
+  "concept_type": "penalty",
+  "title": "Penalty for manufacturing, storing, selling, distributing or importing adulterated products",
+  "description": "Punishment for manufacturing, storing, selling, distributing or importing products containing adulterants",
+  "content": {
+    "offence": "Manufacturing, storing, selling, distributing or importing products containing adulterants",
+    "punishment": "imprisonment and fine",
+    "minimum": "",
+    "maximum": "",
+    "applicable_section": ""
+  },
+  "derived_from": [
+    "CPA2019-CH7-S90-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "adulterant",
+      "consumer injury",
+      "imprisonment",
+      "fine"
+    ],
+    "aliases": [
+      "penalty for adulterated products"
+    ],
+    "user_queries": [
+      "what is the penalty for selling adulterated products"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "PenaltyAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

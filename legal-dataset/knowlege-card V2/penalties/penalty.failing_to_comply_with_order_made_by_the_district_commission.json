@@ -1,0 +1,32 @@
+{
+  "concept_id": "penalty.failing_to_comply_with_order_made_by_the_district_commission",
+  "concept_type": "penalty",
+  "title": "Punishment for non-compliance with direction",
+  "description": "Punishment for failing to comply with order made by the District Commission or the State Commission or the National Commission",
+  "content": {
+    "offence": "Failing to comply with order made by the District Commission or the State Commission or the National Commission",
+    "punishment": "imprisonment or fine or both",
+    "minimum": "one month or twenty-five thousand rupees",
+    "maximum": "three years or one lakh rupees",
+    "applicable_section": ""
+  },
+  "derived_from": [
+    "CPA2019-CH4-S72-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "PenaltyAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "concept_id": "penalty.product_liability_compensation",
+  "concept_type": "penalty",
+  "title": "Product liability compensation",
+  "description": "compensation in product liability action",
+  "content": {
+    "offence": "Product liability compensation",
+    "punishment": "compensation in product liability action",
+    "minimum": "",
+    "maximum": "",
+    "applicable_section": "Chapter VI"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S39-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "PenaltyAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "concept_id": "penalty.issuing_misleading_advertisement",
+  "concept_type": "penalty",
+  "title": "Cost of corrective advertisement",
+  "description": "cost of issuing corrective advertisement to neutralise misleading advertisement",
+  "content": {
+    "offence": "issuing misleading advertisement",
+    "punishment": "cost of corrective advertisement",
+    "minimum": "",
+    "maximum": "",
+    "applicable_section": ""
+  },
+  "derived_from": [
+    "CPA2019-CH4-S39-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "PenaltyAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

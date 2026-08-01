@@ -1,0 +1,32 @@
+{
+  "concept_id": "penalty.offence_punishable_under_sections_88_and_89",
+  "concept_type": "penalty",
+  "title": "Compounding of offence",
+  "description": "Compounding of offence punishable under sections 88 and 89",
+  "content": {
+    "offence": "Offence punishable under sections 88 and 89",
+    "punishment": "payment of prescribed amount",
+    "minimum": "",
+    "maximum": "maximum amount of the fine under this Act",
+    "applicable_section": "sections 88 and 89"
+  },
+  "derived_from": [
+    "CPA2019-CH8-S96-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "PenaltyAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

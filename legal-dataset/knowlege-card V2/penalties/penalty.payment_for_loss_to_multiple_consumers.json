@@ -1,0 +1,32 @@
+{
+  "concept_id": "penalty.payment_for_loss_to_multiple_consumers",
+  "concept_type": "penalty",
+  "title": "Payment for loss to multiple consumers",
+  "description": "payment for loss or injury to large number of consumers",
+  "content": {
+    "offence": "Payment for loss to multiple consumers",
+    "punishment": "sum determined by District Commission",
+    "minimum": "twenty-five per cent. of the value of defective goods or services",
+    "maximum": "",
+    "applicable_section": ""
+  },
+  "derived_from": [
+    "CPA2019-CH4-S39-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "PenaltyAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

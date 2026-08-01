@@ -1,0 +1,32 @@
+{
+  "concept_id": "penalty.negligence",
+  "concept_type": "penalty",
+  "title": "Payment for loss or injury",
+  "description": "compensation to consumer for loss or injury due to negligence",
+  "content": {
+    "offence": "negligence",
+    "punishment": "compensation for loss or injury",
+    "minimum": "",
+    "maximum": "",
+    "applicable_section": ""
+  },
+  "derived_from": [
+    "CPA2019-CH4-S39-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "PenaltyAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}
