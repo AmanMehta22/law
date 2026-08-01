@@ -1,0 +1,31 @@
+{
+  "concept_id": "jurisdiction.district_commission_that_district",
+  "concept_type": "jurisdiction",
+  "title": "Territorial jurisdiction of District Commission",
+  "description": "exercise the jurisdiction in respect of that district also",
+  "content": {
+    "authority": "District Commission",
+    "territorial": "that district",
+    "pecuniary": "[]",
+    "conditions": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S32"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "JurisdictionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

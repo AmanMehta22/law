@@ -1,0 +1,33 @@
+{
+  "concept_id": "jurisdiction.district_commission_up_to_one_crore_rupees_where_the_opposite_party_resides_or_c",
+  "concept_type": "jurisdiction",
+  "title": "Pecuniary jurisdiction of District Commission",
+  "description": "District Commission's jurisdiction to entertain complaints",
+  "content": {
+    "authority": "District Commission",
+    "territorial": "where the opposite party resides or carries on business or where the cause of action arises",
+    "pecuniary": "Up to one crore rupees",
+    "conditions": [
+      "Complaint value up to one crore"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S34-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "JurisdictionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

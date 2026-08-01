@@ -1,0 +1,33 @@
+{
+  "concept_id": "jurisdiction.district_commission_other_value_of_goods_and_services",
+  "concept_type": "jurisdiction",
+  "title": "Pecuniary jurisdiction of District Commission",
+  "description": "District Commission jurisdiction to entertain complaints",
+  "content": {
+    "authority": "District Commission",
+    "territorial": "",
+    "pecuniary": "other value of goods and services",
+    "conditions": [
+      "Complaint value as prescribed"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S101-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "JurisdictionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

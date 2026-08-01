@@ -1,0 +1,33 @@
+{
+  "concept_id": "jurisdiction.national_commission_exceeds_ten_crore_rupees_no_territorial_limits_mentioned",
+  "concept_type": "jurisdiction",
+  "title": "Pecuniary jurisdiction of National Commission",
+  "description": "...",
+  "content": {
+    "authority": "National Commission",
+    "territorial": "No territorial limits mentioned",
+    "pecuniary": "Exceeds ten crore rupees",
+    "conditions": [
+      "Complaint value exceeds ten crore"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S58-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "JurisdictionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

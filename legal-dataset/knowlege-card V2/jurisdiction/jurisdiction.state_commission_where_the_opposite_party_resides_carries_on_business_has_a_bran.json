@@ -1,0 +1,31 @@
+{
+  "concept_id": "jurisdiction.state_commission_where_the_opposite_party_resides_carries_on_business_has_a_bran",
+  "concept_type": "jurisdiction",
+  "title": "Territorial jurisdiction of State Commission",
+  "description": "Defines the territorial limits for instituting a complaint in a State Commission",
+  "content": {
+    "authority": "State Commission",
+    "territorial": "Where the opposite party resides, carries on business, has a branch office, or personally works for gain, or where the cause of action arises, or where the complainant resides or personally works for gain",
+    "pecuniary": "[]",
+    "conditions": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S47-4"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "JurisdictionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

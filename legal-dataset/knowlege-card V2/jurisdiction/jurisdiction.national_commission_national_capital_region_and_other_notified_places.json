@@ -1,0 +1,31 @@
+{
+  "concept_id": "jurisdiction.national_commission_national_capital_region_and_other_notified_places",
+  "concept_type": "jurisdiction",
+  "title": "Territorial jurisdiction of National Commission",
+  "description": "Ordinary functioning and performance of functions",
+  "content": {
+    "authority": "National Commission",
+    "territorial": "National Capital Region and other notified places",
+    "pecuniary": "[]",
+    "conditions": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S53-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "JurisdictionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

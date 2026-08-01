@@ -1,0 +1,31 @@
+{
+  "concept_id": "jurisdiction.the_consumer_protection_act_2019_the_whole_of_india_except_the_state_of_jammu_an",
+  "concept_type": "jurisdiction",
+  "title": "Territorial jurisdiction of the Act",
+  "description": "Extent of the Act",
+  "content": {
+    "authority": "The Consumer Protection Act, 2019",
+    "territorial": "The whole of India except the State of Jammu and Kashmir",
+    "pecuniary": "[]",
+    "conditions": []
+  },
+  "derived_from": [
+    "CPA2019-CH1-S1-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "JurisdictionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

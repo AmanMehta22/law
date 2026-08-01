@@ -1,0 +1,31 @@
+{
+  "concept_id": "jurisdiction.district_commission_within_the_local_limits_of_the_jurisdiction_where_the_opposi",
+  "concept_type": "jurisdiction",
+  "title": "Territorial jurisdiction of District Commission",
+  "description": "Complaint institution",
+  "content": {
+    "authority": "District Commission",
+    "territorial": "Within the local limits of the jurisdiction where the opposite party resides, carries on business, has a branch office, or personally works for gain, or where the cause of action arises, or where the complainant resides or personally works for gain",
+    "pecuniary": "",
+    "conditions": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S34-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "JurisdictionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

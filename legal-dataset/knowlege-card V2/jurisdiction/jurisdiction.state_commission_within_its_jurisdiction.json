@@ -1,0 +1,31 @@
+{
+  "concept_id": "jurisdiction.state_commission_within_its_jurisdiction",
+  "concept_type": "jurisdiction",
+  "title": "Territorial jurisdiction of State Commission",
+  "description": "Administrative control over District Commissions",
+  "content": {
+    "authority": "State Commission",
+    "territorial": "Within its jurisdiction",
+    "pecuniary": "[]",
+    "conditions": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S70-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "JurisdictionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}
