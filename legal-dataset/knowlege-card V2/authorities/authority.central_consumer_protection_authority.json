@@ -1,0 +1,37 @@
+{
+  "concept_id": "authority.central_consumer_protection_authority",
+  "concept_type": "authority",
+  "title": "Central Consumer Protection Authority",
+  "description": "Established under section 10",
+  "content": {
+    "name": "Central Consumer Protection Authority",
+    "role": "Established under section 10",
+    "powers": [
+      "regulate matters relating to violation of rights of consumers, unfair trade practices and false or misleading advertisements",
+      "promote, protect and enforce the rights of consumers as a class"
+    ],
+    "jurisdiction": ""
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-4",
+    "CPA2019-CH3-S10-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [
+      "Central Authority"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "AuthorityAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

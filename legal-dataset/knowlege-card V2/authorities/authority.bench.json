@@ -1,0 +1,33 @@
+{
+  "concept_id": "authority.bench",
+  "concept_type": "authority",
+  "title": "Bench",
+  "description": "Exercises jurisdiction, powers and authority of the State Commission",
+  "content": {
+    "name": "Bench",
+    "role": "Exercises jurisdiction, powers and authority of the State Commission",
+    "powers": [
+      "exercise jurisdiction, powers and authority of the State Commission"
+    ],
+    "jurisdiction": ""
+  },
+  "derived_from": [
+    "CPA2019-CH4-S47-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "AuthorityAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

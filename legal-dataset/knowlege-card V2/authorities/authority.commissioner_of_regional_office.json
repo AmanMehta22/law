@@ -1,0 +1,31 @@
+{
+  "concept_id": "authority.commissioner_of_regional_office",
+  "concept_type": "authority",
+  "title": "Commissioner of regional office",
+  "description": "Receives complaints relating to consumer rights or unfair trade practices",
+  "content": {
+    "name": "Commissioner of regional office",
+    "role": "Receives complaints relating to consumer rights or unfair trade practices",
+    "powers": [],
+    "jurisdiction": ""
+  },
+  "derived_from": [
+    "CPA2019-CH3-S17"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "AuthorityAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "concept_id": "authority.state_governments",
+  "concept_type": "authority",
+  "title": "State Governments",
+  "description": "Makes rules for carrying out the provisions of the Act",
+  "content": {
+    "name": "State Governments",
+    "role": "Makes rules for carrying out the provisions of the Act",
+    "powers": [
+      "make rules"
+    ],
+    "jurisdiction": "all or any of the matters with respect to which the State Government may make rules under this section"
+  },
+  "derived_from": [
+    "CPA2019-CH8-S102-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "AuthorityAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

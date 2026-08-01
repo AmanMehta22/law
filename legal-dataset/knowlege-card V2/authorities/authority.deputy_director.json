@@ -1,0 +1,34 @@
+{
+  "concept_id": "authority.deputy_director",
+  "concept_type": "authority",
+  "title": "Deputy Director",
+  "description": "Supports investigations",
+  "content": {
+    "name": "Deputy Director",
+    "role": "Supports investigations",
+    "powers": [],
+    "jurisdiction": ""
+  },
+  "derived_from": [
+    "CPA2019-CH3-S15-2",
+    "CPA2019-CH3-S15-3",
+    "CPA2019-CH3-S15-4",
+    "CPA2019-CH8-S95"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "AuthorityAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

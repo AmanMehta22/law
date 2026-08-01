@@ -1,0 +1,49 @@
+{
+  "concept_id": "authority.district_collector",
+  "concept_type": "authority",
+  "title": "District Collector",
+  "description": "Inquires into or investigates complaints regarding consumer rights violations",
+  "content": {
+    "name": "District Collector",
+    "role": "Inquires into or investigates complaints regarding consumer rights violations",
+    "powers": [
+      "Inquire into or investigate complaints",
+      "conduct investigation",
+      "call upon a person",
+      "direct to produce documents or records",
+      "enter and search premises",
+      "seize documents or evidence",
+      "require production of records"
+    ],
+    "jurisdiction": "Within his jurisdiction"
+  },
+  "derived_from": [
+    "CPA2019-CH3-S16",
+    "CPA2019-CH3-S17",
+    "CPA2019-CH3-S19-1",
+    "CPA2019-CH3-S19-3",
+    "CPA2019-CH3-S22-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "investigation",
+      "consumer rights",
+      "unfair trade practices"
+    ],
+    "aliases": [
+      "by whatever name called"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "AuthorityAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

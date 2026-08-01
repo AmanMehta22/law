@@ -1,0 +1,48 @@
+{
+  "concept_id": "authority.court",
+  "concept_type": "authority",
+  "title": "Court",
+  "description": "Makes decrees in suits",
+  "content": {
+    "name": "Court",
+    "role": "Makes decrees in suits",
+    "powers": [
+      "hears appeals",
+      "suspend any licence",
+      "cancel the licence",
+      "granting leave for compounding of offences"
+    ],
+    "jurisdiction": "offences under sections 88 and 89"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S71",
+    "CPA2019-CH4-S73-2",
+    "CPA2019-CH7-S90-3",
+    "CPA2019-CH7-S91-3",
+    "CPA2019-CH8-S96-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "court",
+      "compounding of offences"
+    ],
+    "aliases": [
+      "tribunal",
+      "judicial body"
+    ],
+    "user_queries": [
+      "What is the role of court in compounding of offences?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "AuthorityAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

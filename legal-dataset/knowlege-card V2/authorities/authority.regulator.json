@@ -1,0 +1,34 @@
+{
+  "concept_id": "authority.regulator",
+  "concept_type": "authority",
+  "title": "Regulator",
+  "description": "Established under any other law for the time being in force",
+  "content": {
+    "name": "Regulator",
+    "role": "Established under any other law for the time being in force",
+    "powers": [
+      "deal with referred matters"
+    ],
+    "jurisdiction": ""
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-40",
+    "CPA2019-CH3-S19-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "AuthorityAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "concept_id": "authority.selection_committee",
+  "concept_type": "authority",
+  "title": "Selection Committee",
+  "description": "Recommends mediators",
+  "content": {
+    "name": "Selection Committee",
+    "role": "Recommends mediators",
+    "powers": [
+      "recommend mediators"
+    ],
+    "jurisdiction": ""
+  },
+  "derived_from": [
+    "CPA2019-CH5-S75-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "AuthorityAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

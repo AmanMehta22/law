@@ -1,0 +1,36 @@
+{
+  "concept_id": "authority.supreme_court",
+  "concept_type": "authority",
+  "title": "Supreme Court",
+  "description": "Entertains appeals against orders of the National Commission",
+  "content": {
+    "name": "Supreme Court",
+    "role": "Entertains appeals against orders of the National Commission",
+    "powers": [
+      "Entertaining appeals",
+      "Extending time for filing appeals if sufficient cause is shown"
+    ],
+    "jurisdiction": ""
+  },
+  "derived_from": [
+    "CPA2019-CH4-S67",
+    "CPA2019-CH4-S73-1",
+    "CPA2019-CH4-S73-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "AuthorityAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

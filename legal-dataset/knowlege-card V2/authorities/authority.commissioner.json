@@ -1,0 +1,32 @@
+{
+  "concept_id": "authority.commissioner",
+  "concept_type": "authority",
+  "title": "Commissioner",
+  "description": "May be delegated powers by the Chief Commissioner",
+  "content": {
+    "name": "Commissioner",
+    "role": "May be delegated powers by the Chief Commissioner",
+    "powers": [],
+    "jurisdiction": "Central Authority"
+  },
+  "derived_from": [
+    "CPA2019-CH3-S14-2",
+    "CPA2019-CH8-S98"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "AuthorityAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

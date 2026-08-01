@@ -1,0 +1,66 @@
+{
+  "concept_id": "authority.state_government",
+  "concept_type": "authority",
+  "title": "State Government",
+  "description": "Recognises laboratories",
+  "content": {
+    "name": "State Government",
+    "role": "Recognises laboratories",
+    "powers": [
+      "recognise laboratories",
+      "Makes rules",
+      "establish a State Consumer Protection Council",
+      "make rules",
+      "directs another District Commission to exercise jurisdiction",
+      "directs President or member of another District Commission to exercise powers and discharge functions",
+      "determine the nature and categories of officers and employees",
+      "provide officers and employees to the State Commission",
+      "receive information",
+      "establish consumer mediation cells"
+    ],
+    "jurisdiction": "every State"
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-2",
+    "CPA2019-CH1-S2-32",
+    "CPA2019-CH1-S2-5",
+    "CPA2019-CH2-S6-1",
+    "CPA2019-CH2-S6-2",
+    "CPA2019-CH3-S18-2",
+    "CPA2019-CH4-S28-3",
+    "CPA2019-CH4-S30",
+    "CPA2019-CH4-S32",
+    "CPA2019-CH4-S33-1",
+    "CPA2019-CH4-S35-1",
+    "CPA2019-CH4-S44",
+    "CPA2019-CH4-S46-1",
+    "CPA2019-CH4-S70-1",
+    "CPA2019-CH4-S70-5",
+    "CPA2019-CH5-S74-1",
+    "CPA2019-CH8-S102-2",
+    "CPA2019-CH8-S105-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "consumer welfare",
+      "State Commission",
+      "State Government"
+    ],
+    "aliases": [
+      "Government of the State",
+      "State Govt"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "AuthorityAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

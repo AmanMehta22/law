@@ -1,0 +1,31 @@
+{
+  "concept_id": "authority.investigation_wing",
+  "concept_type": "authority",
+  "title": "Investigation Wing",
+  "description": "Conducts inquiries or investigations under the direction of the Central Authority",
+  "content": {
+    "name": "Investigation Wing",
+    "role": "Conducts inquiries or investigations under the direction of the Central Authority",
+    "powers": [],
+    "jurisdiction": ""
+  },
+  "derived_from": [
+    "CPA2019-CH3-S15-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "AuthorityAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}
