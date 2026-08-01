@@ -1,0 +1,37 @@
+{
+  "concept_id": "procedure.information_requirement",
+  "concept_type": "procedure",
+  "title": "Information Requirement",
+  "description": "District Commission requiring information, documents or records from electronic service provider",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "District Commission issues an order"
+      }
+    ],
+    "authority": "District Commission",
+    "documents": [
+      "information, documents or records as specified in the order"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-4"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

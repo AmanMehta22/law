@@ -1,0 +1,52 @@
+{
+  "concept_id": "procedure.filing_an_appeal_to_the_national_commission",
+  "concept_type": "procedure",
+  "title": "Filing an appeal to the National Commission",
+  "description": "Appeal from a State Commission order",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "Order passed in appeal by a State Commission"
+      },
+      {
+        "order": 2,
+        "step": "National Commission is satisfied that the case involves a substantial question of law"
+      },
+      {
+        "order": 3,
+        "step": "Filing an appeal to the National Commission"
+      },
+      {
+        "order": 1,
+        "step": "Obtaining an ex parte order from the State Commission"
+      },
+      {
+        "order": 2,
+        "step": "Filing an appeal to the National Commission"
+      }
+    ],
+    "authority": "National Commission",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S51-2",
+    "CPA2019-CH4-S51-5"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "concept_id": "procedure.hearing_of_appeal_on_substantial_question_of_law",
+  "concept_type": "procedure",
+  "title": "Hearing of Appeal on Substantial Question of Law",
+  "description": "The National Commission hears an appeal on a substantial question of law",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "The National Commission is satisfied that a substantial question of law is involved in any case"
+      },
+      {
+        "order": 2,
+        "step": "The National Commission formulates the substantial question of law"
+      },
+      {
+        "order": 3,
+        "step": "The National Commission hears the appeal on the formulated question of law"
+      }
+    ],
+    "authority": "National Commission",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S51-4"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

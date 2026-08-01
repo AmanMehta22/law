@@ -1,0 +1,39 @@
+{
+  "concept_id": "procedure.complaint_transfer",
+  "concept_type": "procedure",
+  "title": "Complaint transfer",
+  "description": "Transfer of a complaint from one District Commission or State Commission to another",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "Application by the complainant or motion by the National Commission"
+      },
+      {
+        "order": 2,
+        "step": "National Commission review and decision to transfer in the interest of justice"
+      }
+    ],
+    "authority": "National Commission",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S62"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

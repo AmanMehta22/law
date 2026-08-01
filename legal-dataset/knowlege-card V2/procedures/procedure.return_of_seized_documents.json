@@ -1,0 +1,47 @@
+{
+  "concept_id": "procedure.return_of_seized_documents",
+  "concept_type": "procedure",
+  "title": "Return of seized documents",
+  "description": "Return of seized or produced documents, records or articles",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "Seizure or production of documents, records or articles under clause (a) or (c) of sub-section (1)"
+      },
+      {
+        "order": 2,
+        "step": "Taking of copies or extracts of the seized or produced documents, records or articles"
+      },
+      {
+        "order": 3,
+        "step": "Certification of the copies or extracts by the person from whom they were seized or who produced them"
+      },
+      {
+        "order": 4,
+        "step": "Return of the seized or produced documents, records or articles to the person from whom they were seized or who produced them within twenty days of seizure or production"
+      }
+    ],
+    "authority": "",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S22-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

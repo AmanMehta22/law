@@ -1,0 +1,35 @@
+{
+  "concept_id": "procedure.conduct_of_mediation",
+  "concept_type": "procedure",
+  "title": "Conduct of mediation",
+  "description": "Conduct of mediation, including time and manner",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "Mediation is conducted under sub-section (3) of section 79"
+      }
+    ],
+    "authority": "",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH8-S103-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

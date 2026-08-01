@@ -1,0 +1,45 @@
+{
+  "concept_id": "procedure.referral_to_regulator",
+  "concept_type": "procedure",
+  "title": "Referral to Regulator",
+  "description": "Referral of a matter to a Regulator after preliminary inquiry",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "Preliminary inquiry by the Central Authority"
+      },
+      {
+        "order": 2,
+        "step": "Formation of opinion by the Central Authority that the matter is to be dealt with by a Regulator"
+      },
+      {
+        "order": 3,
+        "step": "Referral of the matter to the concerned Regulator along with the report"
+      }
+    ],
+    "authority": "Central Authority",
+    "documents": [
+      "report"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S19-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

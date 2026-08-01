@@ -1,0 +1,39 @@
+{
+  "concept_id": "procedure.intervention_in_proceedings",
+  "concept_type": "procedure",
+  "title": "Intervention in Proceedings",
+  "description": "Intervene in any proceedings before the District Commission or the State Commission or the National Commission",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "Identify allegation of violation of consumer rights or unfair trade practices"
+      },
+      {
+        "order": 2,
+        "step": "Intervene in the proceedings"
+      }
+    ],
+    "authority": "Central Authority",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S18-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

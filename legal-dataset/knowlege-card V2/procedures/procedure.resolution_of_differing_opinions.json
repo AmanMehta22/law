@@ -1,0 +1,56 @@
+{
+  "concept_id": "procedure.resolution_of_differing_opinions",
+  "concept_type": "procedure",
+  "title": "Resolution of differing opinions",
+  "description": "procedure to resolve differing opinions among Bench members",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "Bench members state the point or points on which they differ"
+      },
+      {
+        "order": 2,
+        "step": "Bench members make a reference to the President"
+      },
+      {
+        "order": 3,
+        "step": "President either hears the point or points himself or refers the case for hearing on such point or points by one or more of the other members"
+      },
+      {
+        "order": 4,
+        "step": "Point or points are decided according to the opinion of the majority of the members who have heard the case, including those who first heard it"
+      },
+      {
+        "order": 3,
+        "step": "President either hears the point or points himself or refers the case for hearing by one or more other members"
+      },
+      {
+        "order": 4,
+        "step": "President or other member gives opinion on the point or points so referred within two months from the date of reference"
+      }
+    ],
+    "authority": "President",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S47-3",
+    "CPA2019-CH4-S58-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

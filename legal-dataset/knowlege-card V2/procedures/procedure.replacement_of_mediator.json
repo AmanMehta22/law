@@ -1,0 +1,47 @@
+{
+  "concept_id": "procedure.replacement_of_mediator",
+  "concept_type": "procedure",
+  "title": "Replacement of Mediator",
+  "description": "Replacement of mediator by the District Commission or the State Commission or the National Commission",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "The District Commission or the State Commission or the National Commission receives information from the mediator or any other person, including parties to the complaint"
+      },
+      {
+        "order": 2,
+        "step": "The Commission hears the mediator"
+      },
+      {
+        "order": 3,
+        "step": "The Commission is satisfied with the information and decides to replace the mediator"
+      },
+      {
+        "order": 4,
+        "step": "The Commission replaces the mediator with another mediator"
+      }
+    ],
+    "authority": "District Commission or State Commission or National Commission",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH5-S78"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

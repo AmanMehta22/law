@@ -1,0 +1,43 @@
+{
+  "concept_id": "procedure.passing_of_interim_order",
+  "concept_type": "procedure",
+  "title": "Passing of Interim Order",
+  "description": "Passing of an interim order by the District Commission during the pendency of a proceeding",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "The District Commission is seized of a proceeding"
+      },
+      {
+        "order": 2,
+        "step": "It appears necessary to pass an interim order"
+      },
+      {
+        "order": 3,
+        "step": "The District Commission passes such interim order as is just and proper in the facts and circumstances of the case"
+      }
+    ],
+    "authority": "District Commission",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-8"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

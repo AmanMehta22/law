@@ -1,0 +1,35 @@
+{
+  "concept_id": "procedure.filing_of_complaint",
+  "concept_type": "procedure",
+  "title": "Filing of complaint",
+  "description": "Filing of complaint by the Central Authority or any officer authorised by it",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "The Central Authority or any officer authorised by it files a complaint"
+      }
+    ],
+    "authority": "Central Authority or any officer authorised by it",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH7-S92"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

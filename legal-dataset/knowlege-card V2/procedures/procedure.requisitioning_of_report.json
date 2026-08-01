@@ -1,0 +1,39 @@
+{
+  "concept_id": "procedure.requisitioning_of_report",
+  "concept_type": "procedure",
+  "title": "Requisitioning of report",
+  "description": "Requisitioning of the report of the concerned analysis or test from the appropriate laboratory or from any other relevant source",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "Requisitioning of the report of the concerned analysis or test"
+      },
+      {
+        "order": 2,
+        "step": "Obtaining the report from the appropriate laboratory or from any other relevant source"
+      }
+    ],
+    "authority": "District Commission",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-9"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

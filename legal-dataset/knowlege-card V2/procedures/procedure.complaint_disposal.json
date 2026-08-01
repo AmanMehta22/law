@@ -1,0 +1,55 @@
+{
+  "concept_id": "procedure.complaint_disposal",
+  "concept_type": "procedure",
+  "title": "Complaint disposal",
+  "description": "Disposal of complaint by District Commission",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "Receipt of notice by opposite party"
+      },
+      {
+        "order": 2,
+        "step": "Decision on complaint within 3 months if no analysis or testing of commodities is required"
+      },
+      {
+        "order": 3,
+        "step": "Decision on complaint within 5 months if analysis or testing of commodities is required"
+      },
+      {
+        "order": 4,
+        "step": "Adjournment may be granted if sufficient cause is shown and reasons are recorded in writing"
+      },
+      {
+        "order": 5,
+        "step": "District Commission makes orders on costs occasioned by adjournment as per regulations"
+      },
+      {
+        "order": 6,
+        "step": "Recording of reasons in writing for disposal of complaint after specified period"
+      }
+    ],
+    "authority": "District Commission",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-7"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

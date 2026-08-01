@@ -1,0 +1,57 @@
+{
+  "concept_id": "procedure.review_of_order",
+  "concept_type": "procedure",
+  "title": "Review of order",
+  "description": "Review of an order passed by the District Commission",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "The District Commission identifies an error apparent on the face of the record or receives an application from a party within thirty days of the order"
+      },
+      {
+        "order": 2,
+        "step": "The District Commission reviews the order"
+      },
+      {
+        "order": 1,
+        "step": "State Commission identifies error apparent on the face of the record or receives an application from a party within thirty days of the order"
+      },
+      {
+        "order": 2,
+        "step": "State Commission reviews the order"
+      },
+      {
+        "order": 1,
+        "step": "Error apparent on the face of the record is identified"
+      },
+      {
+        "order": 2,
+        "step": "Application made by any of the parties within thirty days of the order, or the National Commission acts on its own motion"
+      }
+    ],
+    "authority": "District Commission",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S40",
+    "CPA2019-CH4-S50",
+    "CPA2019-CH4-S60"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

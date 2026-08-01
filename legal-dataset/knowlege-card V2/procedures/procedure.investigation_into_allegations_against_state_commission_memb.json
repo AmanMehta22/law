@@ -1,0 +1,49 @@
+{
+  "concept_id": "procedure.investigation_into_allegations_against_state_commission_memb",
+  "concept_type": "procedure",
+  "title": "Investigation into allegations against State Commission members",
+  "description": "National Commission investigates allegations against President and members of State Commission",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "National Commission investigates into allegations against President and members of a State Commission"
+      },
+      {
+        "order": 2,
+        "step": "National Commission submits inquiry report to State Government concerned along with copy endorsed to Central Government"
+      }
+    ],
+    "authority": "National Commission",
+    "documents": [
+      "inquiry report"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S70-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "investigation",
+      "allegations",
+      "State Commission members"
+    ],
+    "aliases": [
+      "inquiry"
+    ],
+    "user_queries": [
+      "How does National Commission handle allegations against State Commission members"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "concept_id": "procedure.engaging_experts_and_professionals",
+  "concept_type": "procedure",
+  "title": "Engaging experts and professionals",
+  "description": "procedure for engaging experts and professionals under sub-section (3) of section 13",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "engaging experts and professionals"
+      }
+    ],
+    "authority": "",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH8-S104-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

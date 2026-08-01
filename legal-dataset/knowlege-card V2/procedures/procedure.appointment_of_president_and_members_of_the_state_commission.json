@@ -1,0 +1,59 @@
+{
+  "concept_id": "procedure.appointment_of_president_and_members_of_the_state_commission",
+  "concept_type": "procedure",
+  "title": "Appointment of President and members of the State Commission",
+  "description": "procedure for appointment of President and members of the State Commission",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "The Central Government makes rules by notification"
+      },
+      {
+        "order": 2,
+        "step": "Rules provide for qualification for appointment"
+      },
+      {
+        "order": 3,
+        "step": "Rules provide for method of recruitment"
+      },
+      {
+        "order": 4,
+        "step": "Rules provide for procedure of appointment"
+      },
+      {
+        "order": 5,
+        "step": "Rules provide for term of office"
+      },
+      {
+        "order": 6,
+        "step": "Rules provide for resignation"
+      },
+      {
+        "order": 7,
+        "step": "Rules provide for removal of the President and members"
+      }
+    ],
+    "authority": "Central Government",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S43"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

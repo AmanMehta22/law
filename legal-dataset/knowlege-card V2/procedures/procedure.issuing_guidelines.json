@@ -1,0 +1,39 @@
+{
+  "concept_id": "procedure.issuing_guidelines",
+  "concept_type": "procedure",
+  "title": "Issuing Guidelines",
+  "description": "Issue necessary guidelines to prevent unfair trade practices and protect consumers’ interest",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "Identify areas requiring guidelines"
+      },
+      {
+        "order": 2,
+        "step": "Develop and issue guidelines"
+      }
+    ],
+    "authority": "Central Authority",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S18-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

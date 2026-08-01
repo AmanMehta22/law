@@ -1,0 +1,42 @@
+{
+  "concept_id": "procedure.mediation_settlement_reporting",
+  "concept_type": "procedure",
+  "title": "Mediation Settlement Reporting",
+  "description": "Preparation and forwarding of settlement report and agreement",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "Mediator prepares a settlement report of the settlement"
+      },
+      {
+        "order": 2,
+        "step": "Mediator forwards the signed agreement along with the settlement report to the concerned Commission"
+      }
+    ],
+    "authority": "Mediator",
+    "documents": [
+      "settlement report",
+      "signed agreement"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S80-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

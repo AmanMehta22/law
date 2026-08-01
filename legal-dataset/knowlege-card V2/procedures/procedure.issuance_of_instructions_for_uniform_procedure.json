@@ -1,0 +1,44 @@
+{
+  "concept_id": "procedure.issuance_of_instructions_for_uniform_procedure",
+  "concept_type": "procedure",
+  "title": "Issuance of instructions for uniform procedure",
+  "description": "National Commission issues instructions for uniform procedure in hearing of matters",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "National Commission issues instructions regarding adoption of uniform procedure in hearing of matters"
+      }
+    ],
+    "authority": "National Commission",
+    "documents": [
+      "instructions"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S70-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "uniform procedure",
+      "instructions"
+    ],
+    "aliases": [
+      "guidelines"
+    ],
+    "user_queries": [
+      "What instructions does National Commission issue for uniform procedure"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

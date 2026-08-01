@@ -1,0 +1,45 @@
+{
+  "concept_id": "procedure.settlement_disposal",
+  "concept_type": "procedure",
+  "title": "Settlement Disposal",
+  "description": "Disposal of consumer dispute after settlement report",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "Receipt of the settlement report by the District Commission or the State Commission or the National Commission"
+      },
+      {
+        "order": 2,
+        "step": "Passing of a suitable order recording the settlement of consumer dispute within seven days"
+      },
+      {
+        "order": 3,
+        "step": "Disposal of the matter accordingly"
+      }
+    ],
+    "authority": "District Commission or State Commission or National Commission",
+    "documents": [
+      "settlement report"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S81-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

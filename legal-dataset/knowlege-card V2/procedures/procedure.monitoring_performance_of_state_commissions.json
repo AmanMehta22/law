@@ -1,0 +1,45 @@
+{
+  "concept_id": "procedure.monitoring_performance_of_state_commissions",
+  "concept_type": "procedure",
+  "title": "Monitoring performance of State Commissions",
+  "description": "National Commission monitors performance of State Commissions",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "National Commission calls for periodical returns regarding institution, disposal and pendency of cases"
+      }
+    ],
+    "authority": "National Commission",
+    "documents": [
+      "periodical returns"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S70-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "monitoring",
+      "performance",
+      "State Commissions"
+    ],
+    "aliases": [
+      "oversight"
+    ],
+    "user_queries": [
+      "How does National Commission monitor State Commissions"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

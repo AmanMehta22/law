@@ -1,0 +1,47 @@
+{
+  "concept_id": "procedure.resolving_difference_of_opinion",
+  "concept_type": "procedure",
+  "title": "Resolving Difference of Opinion",
+  "description": "Procedure for resolving difference of opinion among members of the District Commission",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "The President and a member state the point or points on which they differ"
+      },
+      {
+        "order": 2,
+        "step": "The point or points are referred to another member for hearing"
+      },
+      {
+        "order": 3,
+        "step": "The other member gives his opinion on the referred point or points within one month from the date of reference"
+      },
+      {
+        "order": 4,
+        "step": "The opinion of the majority is considered the order of the District Commission"
+      }
+    ],
+    "authority": "District Commission",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S39-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

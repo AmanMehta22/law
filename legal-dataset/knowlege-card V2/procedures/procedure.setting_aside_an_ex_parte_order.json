@@ -1,0 +1,39 @@
+{
+  "concept_id": "procedure.setting_aside_an_ex_parte_order",
+  "concept_type": "procedure",
+  "title": "Setting aside an ex parte order",
+  "description": "Application to set aside an ex parte order passed by the National Commission",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "The National Commission passes an order ex parte"
+      },
+      {
+        "order": 2,
+        "step": "The aggrieved party makes an application to the Commission"
+      }
+    ],
+    "authority": "National Commission",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S61"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "concept_id": "procedure.issuing_of_commissions",
+  "concept_type": "procedure",
+  "title": "Issuing of commissions",
+  "description": "Issuing of commissions for the examination of any witness, or document",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "Issuing of commission"
+      },
+      {
+        "order": 2,
+        "step": "Examination of any witness, or document"
+      }
+    ],
+    "authority": "District Commission",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-9"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "concept_id": "procedure.service_of_notice",
+  "concept_type": "procedure",
+  "title": "Service of Notice",
+  "description": "Service of notices required by the Act",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "Delivering a copy of the notice to the opposite party or complainant"
+      },
+      {
+        "order": 2,
+        "step": "Transmitting a copy of the notice by registered post acknowledgment due"
+      },
+      {
+        "order": 3,
+        "step": "Transmitting a copy of the notice by speed post"
+      },
+      {
+        "order": 4,
+        "step": "Transmitting a copy of the notice by approved courier service"
+      },
+      {
+        "order": 5,
+        "step": "Transmitting a copy of the notice by electronic means or other mode of transmission of documents"
+      },
+      {
+        "order": 1,
+        "step": "Receipt of acknowledgment or receipt purporting to be signed by the opposite party or his agent or complainant by the District Commission, State Commission or National Commission"
+      },
+      {
+        "order": 2,
+        "step": "Receipt of postal article containing the notice back by the Commission with an endorsement of refusal to take delivery or accept the notice"
+      },
+      {
+        "order": 3,
+        "step": "Declaration by the Commission that the notice has been duly served on the opposite party or complainant"
+      }
+    ],
+    "authority": "District Commission, State Commission or National Commission",
+    "documents": [
+      "acknowledgment or receipt",
+      "postal article containing the notice"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S65-1",
+    "CPA2019-CH4-S65-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "notice",
+      "service",
+      "delivery",
+      "transmission"
+    ],
+    "aliases": [
+      "serving a notice",
+      "giving notice"
+    ],
+    "user_queries": [
+      "how to serve a notice under the Consumer Protection Act"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

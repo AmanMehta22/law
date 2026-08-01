@@ -1,0 +1,35 @@
+{
+  "concept_id": "procedure.transaction_of_business",
+  "concept_type": "procedure",
+  "title": "Transaction of business",
+  "description": "procedure for transaction of business and allocation of business of the Chief Commissioner and Commissioner under sub-section (1) of section 14",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "transaction of business and allocation of business"
+      }
+    ],
+    "authority": "",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH8-S104-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

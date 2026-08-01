@@ -1,0 +1,50 @@
+{
+  "concept_id": "procedure.investigation",
+  "concept_type": "procedure",
+  "title": "Investigation",
+  "description": "Causing an investigation to be made if a prima facie case exists",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "Satisfaction that there exists a prima facie case"
+      },
+      {
+        "order": 2,
+        "step": "Causing investigation to be made by the Director-General or by the District Collector"
+      },
+      {
+        "order": 1,
+        "step": "The Central Authority, the Director-General or the District Collector may call upon a person referred to in sub-section (1)"
+      },
+      {
+        "order": 2,
+        "step": "The person may be directed to produce any document or record in his possession"
+      }
+    ],
+    "authority": "Central Authority",
+    "documents": [
+      "any document or record in his possession"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S19-1",
+    "CPA2019-CH3-S19-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

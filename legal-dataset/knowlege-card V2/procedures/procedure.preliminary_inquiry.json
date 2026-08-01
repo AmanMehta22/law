@@ -1,0 +1,39 @@
+{
+  "concept_id": "procedure.preliminary_inquiry",
+  "concept_type": "procedure",
+  "title": "Preliminary Inquiry",
+  "description": "Conducting a preliminary inquiry to determine if there exists a prima facie case of violation of consumer rights or unfair trade practice",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "Receiving information or complaint or directions from the Central Government or of its own motion"
+      },
+      {
+        "order": 2,
+        "step": "Conducting or causing to be conducted a preliminary inquiry as to whether there exists a prima facie case of violation of consumer rights or any unfair trade practice or any false or misleading advertisement"
+      }
+    ],
+    "authority": "Central Authority",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S19-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

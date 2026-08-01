@@ -1,0 +1,35 @@
+{
+  "concept_id": "procedure.appeal_to_state_commission",
+  "concept_type": "procedure",
+  "title": "Appeal to State Commission",
+  "description": "filing appeal to State Commission",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "filing appeal"
+      }
+    ],
+    "authority": "State Commission",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH8-S101-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

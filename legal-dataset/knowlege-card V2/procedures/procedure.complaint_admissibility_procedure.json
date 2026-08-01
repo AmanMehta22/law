@@ -1,0 +1,43 @@
+{
+  "concept_id": "procedure.complaint_admissibility_procedure",
+  "concept_type": "procedure",
+  "title": "Complaint Admissibility Procedure",
+  "description": "District Commission decides on complaint admissibility",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "Complaint filing under section 35"
+      },
+      {
+        "order": 2,
+        "step": "District Commission provides opportunity of being heard to the complainant"
+      },
+      {
+        "order": 3,
+        "step": "District Commission decides on admissibility of the complaint"
+      }
+    ],
+    "authority": "District Commission",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S36-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

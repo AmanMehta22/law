@@ -1,0 +1,43 @@
+{
+  "concept_id": "procedure.disposal_of_seized_articles_subject_to_decay",
+  "concept_type": "procedure",
+  "title": "Disposal of seized articles subject to decay",
+  "description": "Disposal of seized articles that are subject to speedy or natural decay",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "Seizure of articles under sub-section (1)"
+      },
+      {
+        "order": 2,
+        "step": "Determination that the seized articles are subject to speedy or natural decay"
+      },
+      {
+        "order": 3,
+        "step": "Disposal of the articles in the prescribed manner"
+      }
+    ],
+    "authority": "Director-General or such other officer",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S22-4"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

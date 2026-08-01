@@ -1,0 +1,39 @@
+{
+  "concept_id": "procedure.cooperation_with_non_governmental_organisations",
+  "concept_type": "procedure",
+  "title": "Cooperation with Non-Governmental Organisations",
+  "description": "Encourage non-Governmental organisations and other institutions working in the field of consumer rights to co-operate and work with consumer protection agencies",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "Identify non-Governmental organisations working in consumer rights"
+      },
+      {
+        "order": 2,
+        "step": "Encourage cooperation with consumer protection agencies"
+      }
+    ],
+    "authority": "Central Authority",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S18-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

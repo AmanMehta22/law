@@ -1,0 +1,44 @@
+{
+  "concept_id": "procedure.compounding_of_offence",
+  "concept_type": "procedure",
+  "title": "Compounding of offence",
+  "description": "Compounding of offence punishable under sections 88 and 89",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "Payment of prescribed amount"
+      },
+      {
+        "order": 2,
+        "step": "Leave of the court before which a complaint has been filed under section 92"
+      },
+      {
+        "order": 1,
+        "step": "The Central Authority or any officer specially authorised by him identifies the offence to be compounded"
+      }
+    ],
+    "authority": "Court",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH8-S96-1",
+    "CPA2019-CH8-S96-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

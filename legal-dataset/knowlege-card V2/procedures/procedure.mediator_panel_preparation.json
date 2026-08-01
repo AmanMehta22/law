@@ -1,0 +1,43 @@
+{
+  "concept_id": "procedure.mediator_panel_preparation",
+  "concept_type": "procedure",
+  "title": "Mediator Panel Preparation",
+  "description": "Preparation of a panel of mediators for consumer mediation",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "Constitution of a selection committee consisting of the President and a member of the Commission"
+      },
+      {
+        "order": 2,
+        "step": "Recommendation by the selection committee"
+      },
+      {
+        "order": 3,
+        "step": "Preparation of a panel of mediators by the National Commission or the State Commission or the District Commission"
+      }
+    ],
+    "authority": "National Commission or the State Commission or the District Commission",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH5-S75-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

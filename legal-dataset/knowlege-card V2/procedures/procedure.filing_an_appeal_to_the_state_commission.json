@@ -1,0 +1,51 @@
+{
+  "concept_id": "procedure.filing_an_appeal_to_the_state_commission",
+  "concept_type": "procedure",
+  "title": "Filing an appeal to the State Commission",
+  "description": "An appeal against an order of the District Commission",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "The person aggrieved by the order of the District Commission prepares the appeal in the prescribed form and manner"
+      },
+      {
+        "order": 2,
+        "step": "The appeal is filed with the State Commission within forty-five days from the date of the order of the District Commission"
+      },
+      {
+        "order": 3,
+        "step": "If the appeal is filed after the expiry of forty-five days, the State Commission considers whether there was sufficient cause for the delay"
+      },
+      {
+        "order": 4,
+        "step": "If the appellant is required to pay an amount in terms of the order of the District Commission, the appellant deposits fifty per cent of that amount in the prescribed manner before filing the appeal"
+      }
+    ],
+    "authority": "State Commission",
+    "documents": [
+      "Prescribed form of appeal",
+      "Order of the District Commission",
+      "Proof of deposit of fifty per cent of the amount (if applicable)"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S41"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

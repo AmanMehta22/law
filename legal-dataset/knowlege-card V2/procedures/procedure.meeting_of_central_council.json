@@ -1,0 +1,43 @@
+{
+  "concept_id": "procedure.meeting_of_central_council",
+  "concept_type": "procedure",
+  "title": "Meeting of Central Council",
+  "description": "The Central Council shall meet at such time and place as the Chairperson may think fit and shall observe such procedure in regard to the transaction of its business as may be prescribed.",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "The Chairperson determines the time and place of the meeting"
+      },
+      {
+        "order": 2,
+        "step": "The Central Council meets at the determined time and place"
+      },
+      {
+        "order": 3,
+        "step": "The Central Council observes the prescribed procedure for transaction of its business"
+      }
+    ],
+    "authority": "Central Council",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH2-S4-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

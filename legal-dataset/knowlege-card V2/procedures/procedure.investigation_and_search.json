@@ -1,0 +1,51 @@
+{
+  "concept_id": "procedure.investigation_and_search",
+  "concept_type": "procedure",
+  "title": "Investigation and Search",
+  "description": "Conducting an investigation after preliminary inquiry under section 19",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "Enter at any reasonable time into any premises"
+      },
+      {
+        "order": 2,
+        "step": "Search for any document, record, article or evidence"
+      },
+      {
+        "order": 3,
+        "step": "Seize such document, record, article or evidence"
+      },
+      {
+        "order": 4,
+        "step": "Make a note or an inventory of such record or article"
+      },
+      {
+        "order": 5,
+        "step": "Require any person to produce any record, register or other document or article"
+      }
+    ],
+    "authority": "Director-General or any other authorised officer or District Collector",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S22-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

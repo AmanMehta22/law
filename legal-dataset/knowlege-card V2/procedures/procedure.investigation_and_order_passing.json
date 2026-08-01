@@ -1,0 +1,47 @@
+{
+  "concept_id": "procedure.investigation_and_order_passing",
+  "concept_type": "procedure",
+  "title": "Investigation and Order Passing",
+  "description": "Investigation by the Central Authority and passing of orders for violation of consumer rights or unfair trade practice",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "Investigation by the Central Authority"
+      },
+      {
+        "order": 2,
+        "step": "Satisfaction of sufficient evidence of violation of consumer rights or unfair trade practice"
+      },
+      {
+        "order": 3,
+        "step": "Giving the person an opportunity of being heard"
+      },
+      {
+        "order": 4,
+        "step": "Passing of order by the Central Authority"
+      }
+    ],
+    "authority": "Central Authority",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S20"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

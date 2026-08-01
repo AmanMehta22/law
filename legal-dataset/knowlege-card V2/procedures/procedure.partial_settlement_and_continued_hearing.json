@@ -1,0 +1,39 @@
+{
+  "concept_id": "procedure.partial_settlement_and_continued_hearing",
+  "concept_type": "procedure",
+  "title": "Partial Settlement and Continued Hearing",
+  "description": "Procedure for partial settlement of consumer disputes and continued hearing of unresolved issues",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "Recording of settlement of partially settled issues by the Commission"
+      },
+      {
+        "order": 2,
+        "step": "Continuation of hearing of other unresolved issues involved in the consumer dispute"
+      }
+    ],
+    "authority": "District Commission or State Commission or National Commission",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH5-S81-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

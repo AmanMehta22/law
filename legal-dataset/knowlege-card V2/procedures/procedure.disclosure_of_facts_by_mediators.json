@@ -1,0 +1,35 @@
+{
+  "concept_id": "procedure.disclosure_of_facts_by_mediators",
+  "concept_type": "procedure",
+  "title": "Disclosure of facts by mediators",
+  "description": "Disclosure of facts by mediators",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "Mediators disclose facts under clause (c) of section 77"
+      }
+    ],
+    "authority": "mediators",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH8-S103-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

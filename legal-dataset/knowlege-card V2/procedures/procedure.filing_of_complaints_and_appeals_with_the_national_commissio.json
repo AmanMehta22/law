@@ -1,0 +1,47 @@
+{
+  "concept_id": "procedure.filing_of_complaints_and_appeals_with_the_national_commissio",
+  "concept_type": "procedure",
+  "title": "Filing of complaints and appeals with the National Commission",
+  "description": "The National Commission entertains complaints and appeals under certain conditions",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "Complaints are filed with the National Commission where the value of goods or services exceeds ten crore rupees or as prescribed by the Central Government"
+      },
+      {
+        "order": 2,
+        "step": "Complaints against unfair contracts are filed with the National Commission where the value of goods or services exceeds ten crore rupees"
+      },
+      {
+        "order": 3,
+        "step": "Appeals against orders of any State Commission are filed with the National Commission"
+      },
+      {
+        "order": 4,
+        "step": "Appeals against orders of the Central Authority are filed with the National Commission"
+      }
+    ],
+    "authority": "National Commission",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S58-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "concept_id": "procedure.inquiry_or_investigation",
+  "concept_type": "procedure",
+  "title": "Inquiry or Investigation",
+  "description": "Inquiry or investigation into complaints regarding violation of rights of consumers as a class",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "Complaint or reference made to the District Collector by the Central Authority, Commissioner of a regional office, or a consumer"
+      },
+      {
+        "order": 2,
+        "step": "District Collector inquires into or investigates complaints regarding violation of rights of consumers as a class"
+      },
+      {
+        "order": 3,
+        "step": "District Collector submits his report to the Central Authority or to the Commissioner of a regional office"
+      },
+      {
+        "order": 1,
+        "step": "Receive complaint or directions from Central Government or initiate suo motu"
+      }
+    ],
+    "authority": "District Collector",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S16",
+    "CPA2019-CH3-S18-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

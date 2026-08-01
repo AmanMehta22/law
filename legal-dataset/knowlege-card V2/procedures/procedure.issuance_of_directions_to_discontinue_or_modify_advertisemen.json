@@ -1,0 +1,43 @@
+{
+  "concept_id": "procedure.issuance_of_directions_to_discontinue_or_modify_advertisemen",
+  "concept_type": "procedure",
+  "title": "Issuance of directions to discontinue or modify advertisement",
+  "description": "The Central Authority issues directions to discontinue or modify a false or misleading advertisement",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "Investigation by the Central Authority"
+      },
+      {
+        "order": 2,
+        "step": "Satisfaction of the Central Authority that the advertisement is false or misleading and prejudicial to consumer interest or in contravention of consumer rights"
+      },
+      {
+        "order": 3,
+        "step": "Issuance of order with directions to discontinue or modify the advertisement"
+      }
+    ],
+    "authority": "Central Authority",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S21-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

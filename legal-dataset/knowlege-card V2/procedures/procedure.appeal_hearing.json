@@ -1,0 +1,58 @@
+{
+  "concept_id": "procedure.appeal_hearing",
+  "concept_type": "procedure",
+  "title": "Appeal Hearing",
+  "description": "Hearing of an appeal before the State Commission or the National Commission",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "Filing of an appeal before the State Commission or the National Commission"
+      },
+      {
+        "order": 2,
+        "step": "Admission of the appeal"
+      },
+      {
+        "order": 3,
+        "step": "Hearing of the appeal as expeditiously as possible"
+      },
+      {
+        "order": 4,
+        "step": "Disposition of the appeal within a period of ninety days from the date of its admission"
+      }
+    ],
+    "authority": "State Commission or the National Commission",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S52"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "appeal",
+      "hearing",
+      "State Commission",
+      "National Commission"
+    ],
+    "aliases": [
+      "appeal procedure",
+      "hearing of appeal"
+    ],
+    "user_queries": [
+      "How to appeal to State Commission",
+      "What is the procedure for appeal to National Commission"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

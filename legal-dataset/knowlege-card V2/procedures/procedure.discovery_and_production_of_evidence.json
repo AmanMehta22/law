@@ -1,0 +1,39 @@
+{
+  "concept_id": "procedure.discovery_and_production_of_evidence",
+  "concept_type": "procedure",
+  "title": "Discovery and production of evidence",
+  "description": "Requiring the discovery and production of any document or other material object as evidence",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "Requiring the discovery of any document or other material object"
+      },
+      {
+        "order": 2,
+        "step": "Production of any document or other material object as evidence"
+      }
+    ],
+    "authority": "District Commission",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-9"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

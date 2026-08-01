@@ -1,0 +1,39 @@
+{
+  "concept_id": "procedure.hearing_of_consumer_dispute",
+  "concept_type": "procedure",
+  "title": "Hearing of consumer dispute",
+  "description": "Continuation of hearing by the District Commission or the State Commission or the National Commission",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "Mediation fails to settle the consumer dispute"
+      },
+      {
+        "order": 2,
+        "step": "The District Commission or the State Commission or the National Commission continues to hear all the issues involved in the consumer dispute"
+      }
+    ],
+    "authority": "District Commission or State Commission or National Commission",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH5-S81-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

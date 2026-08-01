@@ -1,0 +1,39 @@
+{
+  "concept_id": "procedure.representative_proceeding",
+  "concept_type": "procedure",
+  "title": "Representative proceeding",
+  "description": "Procedure for a consumer referred to in sub-clause (v) of clause (5) of section 2",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "Complainant files a complaint as a representative of consumers"
+      },
+      {
+        "order": 2,
+        "step": "District Commission applies provisions of Order I Rule 8 of the First Schedule to the Code of Civil Procedure, 1908 with modifications"
+      }
+    ],
+    "authority": "District Commission",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-11"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

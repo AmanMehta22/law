@@ -1,0 +1,79 @@
+{
+  "concept_id": "procedure.complaint_filing",
+  "concept_type": "procedure",
+  "title": "Complaint filing",
+  "description": "Institution of a complaint in a District Commission",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "Identify the jurisdiction of the District Commission where the complaint can be instituted based on the residence or business of the opposite party or parties"
+      },
+      {
+        "order": 2,
+        "step": "Determine if permission from the District Commission is required if the complaint is instituted where any of the opposite parties actually and voluntarily resides or carries on business"
+      },
+      {
+        "order": 1,
+        "step": "Identify the grounds for complaint, such as goods sold or delivered, or services provided, or alleged unfair trade practices"
+      },
+      {
+        "order": 2,
+        "step": "Determine the eligibility to file a complaint as a consumer, recognised consumer association, one or more consumers with the same interest, or the Central Government, Central Authority, or State Government"
+      },
+      {
+        "order": 3,
+        "step": "Prepare the complaint and required documents"
+      },
+      {
+        "order": 4,
+        "step": "File the complaint with the District Commission, which may be done electronically in a prescribed manner"
+      },
+      {
+        "order": 1,
+        "step": "..."
+      },
+      {
+        "order": 1,
+        "step": "Identify the jurisdiction of the State Commission based on the residence or business of the opposite party or parties"
+      },
+      {
+        "order": 2,
+        "step": "Determine if the complaint can be instituted based on the cause of action or the residence of the complainant"
+      },
+      {
+        "order": 3,
+        "step": "Obtain permission from the State Commission if instituting the complaint based on the voluntary residence or business of one of the opposite parties"
+      },
+      {
+        "order": 1,
+        "step": "Cause of action arises"
+      }
+    ],
+    "authority": "District Commission",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S34-2",
+    "CPA2019-CH4-S35-1",
+    "CPA2019-CH4-S38-6",
+    "CPA2019-CH4-S47-4",
+    "CPA2019-CH4-S69-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

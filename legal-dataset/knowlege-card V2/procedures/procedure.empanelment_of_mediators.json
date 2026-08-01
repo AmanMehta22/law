@@ -1,0 +1,35 @@
+{
+  "concept_id": "procedure.empanelment_of_mediators",
+  "concept_type": "procedure",
+  "title": "Empanelment of mediators",
+  "description": "Empanelment of mediators, including qualifications, experience, training, fee, terms and conditions, code of conduct, and removal",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "Empanelment of mediators under sub-section (2) of section 75"
+      }
+    ],
+    "authority": "",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH8-S103-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

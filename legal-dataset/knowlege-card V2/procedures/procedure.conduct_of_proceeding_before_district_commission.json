@@ -1,0 +1,39 @@
+{
+  "concept_id": "procedure.conduct_of_proceeding_before_district_commission",
+  "concept_type": "procedure",
+  "title": "Conduct of Proceeding before District Commission",
+  "description": "Conduct of proceeding by President and members of District Commission",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "The President and at least one member of the District Commission conduct the proceeding together"
+      },
+      {
+        "order": 2,
+        "step": "If a member is unable to continue, the President and another member continue the proceeding from the last heard stage"
+      }
+    ],
+    "authority": "District Commission",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S36-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "concept_id": "procedure.adjournment_cost_imposition_by_state_or_national_commission",
+  "concept_type": "procedure",
+  "title": "Adjournment cost imposition by State or National Commission",
+  "description": "Imposition of costs for adjournment by the State Commission or the National Commission",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "State Commission or National Commission imposes costs for adjournment under the second proviso to section 52"
+      }
+    ],
+    "authority": "State Commission or National Commission",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH8-S103-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

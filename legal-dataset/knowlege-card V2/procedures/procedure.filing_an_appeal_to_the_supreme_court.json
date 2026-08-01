@@ -1,0 +1,50 @@
+{
+  "concept_id": "procedure.filing_an_appeal_to_the_supreme_court",
+  "concept_type": "procedure",
+  "title": "Filing an appeal to the Supreme Court",
+  "description": "Appeal against an order made by the National Commission",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "The person aggrieved by the order made by the National Commission prepares to file an appeal to the Supreme Court within thirty days from the date of the order"
+      },
+      {
+        "order": 2,
+        "step": "The person files the appeal to the Supreme Court within the specified period"
+      },
+      {
+        "order": 3,
+        "step": "If the appeal is filed after the expiry of thirty days, the Supreme Court considers whether there was sufficient cause for the delay"
+      },
+      {
+        "order": 4,
+        "step": "If the person is required to pay an amount in terms of the National Commission’s order, they must deposit fifty per cent of that amount as prescribed"
+      }
+    ],
+    "authority": "Supreme Court",
+    "documents": [
+      "Order of the National Commission",
+      "Proof of deposit of fifty per cent of the amount (if applicable)"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S67"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "concept_id": "procedure.review_of_state_commission_decisions",
+  "concept_type": "procedure",
+  "title": "Review of State Commission decisions",
+  "description": "The National Commission reviews decisions of State Commissions",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "The National Commission calls for records of a consumer dispute pending before or decided by any State Commission"
+      },
+      {
+        "order": 2,
+        "step": "The National Commission reviews the decision to check if the State Commission exercised jurisdiction not vested in it, failed to exercise jurisdiction, or acted illegally or with material irregularity"
+      },
+      {
+        "order": 3,
+        "step": "The National Commission passes appropriate orders"
+      }
+    ],
+    "authority": "National Commission",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S58-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

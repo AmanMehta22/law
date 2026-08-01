@@ -1,0 +1,35 @@
+{
+  "concept_id": "procedure.submission_of_quarterly_report_by_consumer_mediation_cell",
+  "concept_type": "procedure",
+  "title": "Submission of quarterly report by consumer mediation cell",
+  "description": "Submission of quarterly report by the consumer mediation cell to the District Commission, State Commission or National Commission",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "Consumer mediation cell submits quarterly report to the District Commission, State Commission or National Commission under sub-section (5) of section 74"
+      }
+    ],
+    "authority": "consumer mediation cell",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH8-S103-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

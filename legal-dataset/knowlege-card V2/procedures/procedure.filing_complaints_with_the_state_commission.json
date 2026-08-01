@@ -1,0 +1,35 @@
+{
+  "concept_id": "procedure.filing_complaints_with_the_state_commission",
+  "concept_type": "procedure",
+  "title": "Filing complaints with the State Commission",
+  "description": "Filing complaints with the State Commission where the value of goods or services exceeds rupees one crore but does not exceed rupees ten crore",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "Complaint filing with the State Commission for goods or services valued between one crore and ten crore rupees"
+      }
+    ],
+    "authority": "State Commission",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S47-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

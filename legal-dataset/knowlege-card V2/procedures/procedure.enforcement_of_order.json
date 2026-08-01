@@ -1,0 +1,39 @@
+{
+  "concept_id": "procedure.enforcement_of_order",
+  "concept_type": "procedure",
+  "title": "Enforcement of Order",
+  "description": "Enforcement of order made by District Commission, State Commission or National Commission",
+  "content": {
+    "steps": [
+      {
+        "order": 1,
+        "step": "Order made by District Commission, State Commission or National Commission"
+      },
+      {
+        "order": 2,
+        "step": "Enforcement of order in the same manner as a decree made by a Court in a suit"
+      }
+    ],
+    "authority": "",
+    "documents": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S71"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ProcedureAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}
