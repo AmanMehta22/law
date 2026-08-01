@@ -1,0 +1,40 @@
+{
+  "concept_id": "remedy.setting_aside_of_order",
+  "concept_type": "remedy",
+  "title": "Setting aside of ex parte order",
+  "description": "The National Commission may set aside an ex parte order",
+  "content": {
+    "remedy": "Setting aside of order",
+    "available_when": "an order is passed by the National Commission ex parte",
+    "conditions": [
+      "the aggrieved party makes an application to the Commission"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S61"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "ex parte order",
+      "setting aside"
+    ],
+    "aliases": [
+      "vacating an order"
+    ],
+    "user_queries": [
+      "How to challenge an ex parte order"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RemedyAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

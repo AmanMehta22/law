@@ -1,0 +1,42 @@
+{
+  "concept_id": "remedy.return_of_seized_or_produced_documents_records_or_articles",
+  "concept_type": "remedy",
+  "title": "Return of seized or produced documents, records or articles",
+  "description": "Return of documents, records or articles seized or produced",
+  "content": {
+    "remedy": "Return of seized or produced documents, records or articles",
+    "available_when": "after copies thereof or extracts therefrom certified by that person have been taken",
+    "conditions": [
+      "copies or extracts have been certified",
+      "within twenty days of the date of seizure or production"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S22-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "return of documents",
+      "return of records",
+      "return of articles"
+    ],
+    "aliases": [
+      "restoration of seized documents"
+    ],
+    "user_queries": [
+      "what happens to seized documents"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RemedyAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

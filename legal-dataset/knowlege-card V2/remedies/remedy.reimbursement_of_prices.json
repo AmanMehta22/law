@@ -1,0 +1,41 @@
+{
+  "concept_id": "remedy.reimbursement_of_prices",
+  "concept_type": "remedy",
+  "title": "Reimbursement of prices",
+  "description": "Reimbursement of the prices of goods or services so recalled to purchasers",
+  "content": {
+    "remedy": "Reimbursement of prices",
+    "available_when": "there is sufficient evidence to show violation of consumer rights or unfair trade practice and goods or services are recalled",
+    "conditions": [
+      "sufficient evidence to show violation of consumer rights or unfair trade practice",
+      "goods or services are recalled"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S20"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "reimbursement",
+      "refund"
+    ],
+    "aliases": [
+      "price reimbursement"
+    ],
+    "user_queries": [
+      "get my money back"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RemedyAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

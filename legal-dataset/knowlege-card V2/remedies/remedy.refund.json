@@ -1,0 +1,37 @@
+{
+  "concept_id": "remedy.refund",
+  "concept_type": "remedy",
+  "title": "Refund of consideration",
+  "description": "Refund of the consideration paid for defective goods or deficient services",
+  "content": {
+    "remedy": "Refund",
+    "available_when": "After selling goods or rendering services, and the goods are defective or the services are deficient",
+    "conditions": [
+      "The goods are defective or the services are deficient",
+      "The consideration has been paid"
+    ],
+    "limitations": [
+      "Within the period stipulated in the bill or cash memo or receipt",
+      "In the absence of such stipulation, within a period to be determined"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-47"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RemedyAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

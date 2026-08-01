@@ -1,0 +1,41 @@
+{
+  "concept_id": "remedy.recall_of_goods_or_withdrawal_of_services",
+  "concept_type": "remedy",
+  "title": "Recall of goods or withdrawal of services",
+  "description": "Recalling of goods or withdrawal of services which are dangerous, hazardous or unsafe",
+  "content": {
+    "remedy": "Recall of goods or withdrawal of services",
+    "available_when": "there is sufficient evidence to show violation of consumer rights or unfair trade practice",
+    "conditions": [
+      "sufficient evidence to show violation of consumer rights or unfair trade practice"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S20"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "recall",
+      "withdrawal"
+    ],
+    "aliases": [
+      "product recall"
+    ],
+    "user_queries": [
+      "dangerous goods",
+      "unsafe services"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RemedyAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

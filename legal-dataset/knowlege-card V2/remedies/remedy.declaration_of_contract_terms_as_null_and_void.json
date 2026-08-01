@@ -1,0 +1,38 @@
+{
+  "concept_id": "remedy.declaration_of_contract_terms_as_null_and_void",
+  "concept_type": "remedy",
+  "title": "Declaration of contract terms as null and void",
+  "description": "The National Commission may declare any terms of contract that are unfair to a consumer to be null and void",
+  "content": {
+    "remedy": "Declaration of contract terms as null and void",
+    "available_when": "The terms of contract are unfair to any consumer",
+    "conditions": [],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S59-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "unfair contract terms",
+      "null and void"
+    ],
+    "aliases": [
+      "cancellation of unfair terms"
+    ],
+    "user_queries": [
+      "What happens to unfair contract terms?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RemedyAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

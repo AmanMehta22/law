@@ -1,0 +1,40 @@
+{
+  "concept_id": "remedy.redressal",
+  "concept_type": "remedy",
+  "title": "Redressal against unfair trade practice",
+  "description": "right to seek redressal against unfair trade practice or restrictive trade practices or unscrupulous exploitation of consumers",
+  "content": {
+    "remedy": "Redressal",
+    "available_when": "against unfair trade practice or restrictive trade practices or unscrupulous exploitation of consumers",
+    "conditions": [],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-9"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "unfair trade practice",
+      "restrictive trade practices",
+      "unscrupulous exploitation"
+    ],
+    "aliases": [
+      "redressal",
+      "relief"
+    ],
+    "user_queries": [
+      "how to seek redressal against unfair trade practice"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RemedyAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

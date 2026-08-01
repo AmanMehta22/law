@@ -1,0 +1,61 @@
+{
+  "concept_id": "remedy.compensation",
+  "concept_type": "remedy",
+  "title": "Compensation for harm caused",
+  "description": "...",
+  "content": {
+    "remedy": "Compensation",
+    "available_when": "...",
+    "conditions": [
+      "the product is defective",
+      "the product was manufactured by a product manufacturer or serviced by a product service provider or sold by a product seller",
+      "service was faulty or imperfect or deficient or inadequate in quality, nature or manner of performance",
+      "act of omission or commission or negligence or conscious withholding of information",
+      "failure to issue adequate instructions or warnings",
+      "service did not conform to express warranty or contract terms and conditions",
+      "product seller has exercised substantial control over the product",
+      "product seller has altered or modified the product",
+      "product seller has made an express warranty",
+      "product manufacturer is unknown or cannot be served",
+      "product seller has failed to exercise reasonable care"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-34",
+    "CPA2019-CH1-S2-35",
+    "CPA2019-CH6-S82",
+    "CPA2019-CH6-S85",
+    "CPA2019-CH6-S86"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "compensation",
+      "harm",
+      "product liability",
+      "defective product",
+      "harm caused"
+    ],
+    "aliases": [
+      "damages",
+      "reparation"
+    ],
+    "user_queries": [
+      "what if a product hurts me",
+      "what if the service provider is negligent",
+      "can I get compensation for harm caused by a product",
+      "what if product seller is not manufacturer"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RemedyAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

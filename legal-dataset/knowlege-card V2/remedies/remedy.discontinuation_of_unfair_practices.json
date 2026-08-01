@@ -1,0 +1,40 @@
+{
+  "concept_id": "remedy.discontinuation_of_unfair_practices",
+  "concept_type": "remedy",
+  "title": "Discontinuation of unfair practices",
+  "description": "Discontinuation of practices which are unfair and prejudicial to consumers’ interest",
+  "content": {
+    "remedy": "Discontinuation of unfair practices",
+    "available_when": "there is sufficient evidence to show violation of consumer rights or unfair trade practice",
+    "conditions": [
+      "sufficient evidence to show violation of consumer rights or unfair trade practice"
+    ],
+    "limitations": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S20"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "unfair practices",
+      "discontinuation"
+    ],
+    "aliases": [
+      "stop unfair practices"
+    ],
+    "user_queries": [
+      "unfair business practices"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RemedyAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}
