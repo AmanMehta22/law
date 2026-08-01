@@ -1,0 +1,32 @@
+{
+  "concept_id": "evidence.contract",
+  "concept_type": "evidence",
+  "title": "Proof of contract",
+  "description": "To establish the terms and conditions of the contract",
+  "content": {
+    "required_documents": [
+      "Contract"
+    ],
+    "purpose": "To establish the terms and conditions of the contract",
+    "mandatory": true
+  },
+  "derived_from": [
+    "CPA2019-CH6-S85"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "EvidenceAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

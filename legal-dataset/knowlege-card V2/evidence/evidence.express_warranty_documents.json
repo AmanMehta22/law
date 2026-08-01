@@ -1,0 +1,32 @@
+{
+  "concept_id": "evidence.express_warranty_documents",
+  "concept_type": "evidence",
+  "title": "Proof of express warranty",
+  "description": "To establish the seller's express warranty",
+  "content": {
+    "required_documents": [
+      "Express warranty documents"
+    ],
+    "purpose": "To establish the seller's liability",
+    "mandatory": false
+  },
+  "derived_from": [
+    "CPA2019-CH6-S86"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "EvidenceAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "concept_id": "evidence.warranty_documents_sales_agreement",
+  "concept_type": "evidence",
+  "title": "Express warranty proof",
+  "description": "To establish the product does not conform to the express warranty",
+  "content": {
+    "required_documents": [
+      "Warranty documents",
+      "Sales agreement"
+    ],
+    "purpose": "To prove the product does not conform to the express warranty",
+    "mandatory": true
+  },
+  "derived_from": [
+    "CPA2019-CH6-S84-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "express warranty"
+    ],
+    "aliases": [
+      "product warranty"
+    ],
+    "user_queries": [
+      "What documents are required to prove non-conformity to express warranty?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "EvidenceAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

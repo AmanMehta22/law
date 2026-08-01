@@ -1,0 +1,39 @@
+{
+  "concept_id": "evidence.design_specifications_testing_records",
+  "concept_type": "evidence",
+  "title": "Design defect evidence",
+  "description": "To establish the product is defective in design",
+  "content": {
+    "required_documents": [
+      "Design specifications",
+      "Testing records"
+    ],
+    "purpose": "To prove the product is defective in design",
+    "mandatory": true
+  },
+  "derived_from": [
+    "CPA2019-CH6-S84-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "design defect"
+    ],
+    "aliases": [
+      "product design flaw"
+    ],
+    "user_queries": [
+      "What documents are required to prove a design defect?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "EvidenceAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

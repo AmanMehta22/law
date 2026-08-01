@@ -1,0 +1,32 @@
+{
+  "concept_id": "evidence.report_of_analysis_or_test",
+  "concept_type": "evidence",
+  "title": "Report of analysis or test",
+  "description": "from the appropriate laboratory or from any other relevant source",
+  "content": {
+    "required_documents": [
+      "report of analysis or test"
+    ],
+    "purpose": "from the appropriate laboratory or from any other relevant source",
+    "mandatory": true
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-9"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "EvidenceAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

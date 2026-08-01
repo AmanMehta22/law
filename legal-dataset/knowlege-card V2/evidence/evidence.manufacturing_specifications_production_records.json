@@ -1,0 +1,39 @@
+{
+  "concept_id": "evidence.manufacturing_specifications_production_records",
+  "concept_type": "evidence",
+  "title": "Deviation from manufacturing specifications proof",
+  "description": "To establish deviation from manufacturing specifications",
+  "content": {
+    "required_documents": [
+      "Manufacturing specifications",
+      "Production records"
+    ],
+    "purpose": "To prove deviation from manufacturing specifications",
+    "mandatory": true
+  },
+  "derived_from": [
+    "CPA2019-CH6-S84-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "deviation from specifications"
+    ],
+    "aliases": [
+      "non-compliance with specifications"
+    ],
+    "user_queries": [
+      "What documents are required to prove deviation from manufacturing specifications?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "EvidenceAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

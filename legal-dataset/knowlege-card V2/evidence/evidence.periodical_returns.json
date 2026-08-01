@@ -1,0 +1,32 @@
+{
+  "concept_id": "evidence.periodical_returns",
+  "concept_type": "evidence",
+  "title": "Periodical returns",
+  "description": "calling for periodical returns regarding the institution, disposal and pendency of cases",
+  "content": {
+    "required_documents": [
+      "Periodical returns"
+    ],
+    "purpose": "monitoring performance of the State Commissions",
+    "mandatory": true
+  },
+  "derived_from": [
+    "CPA2019-CH4-S70-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "EvidenceAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

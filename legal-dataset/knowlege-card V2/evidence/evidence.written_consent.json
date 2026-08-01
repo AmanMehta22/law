@@ -1,0 +1,33 @@
+{
+  "concept_id": "evidence.written_consent",
+  "concept_type": "evidence",
+  "title": "Consent in writing",
+  "description": "Consent to have dispute settled by mediation",
+  "content": {
+    "required_documents": [
+      "Written consent"
+    ],
+    "purpose": "To settle the dispute by mediation",
+    "mandatory": false
+  },
+  "derived_from": [
+    "CPA2019-CH4-S37-1",
+    "CPA2019-CH4-S37-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "EvidenceAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

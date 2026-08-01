@@ -1,0 +1,39 @@
+{
+  "concept_id": "evidence.evidence_of_manufacturing_process_quality_control_records",
+  "concept_type": "evidence",
+  "title": "Proof of manufacturing defect",
+  "description": "To establish the product contains a manufacturing defect",
+  "content": {
+    "required_documents": [
+      "Evidence of manufacturing process",
+      "Quality control records"
+    ],
+    "purpose": "To prove the product contains a manufacturing defect",
+    "mandatory": true
+  },
+  "derived_from": [
+    "CPA2019-CH6-S84-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "manufacturing defect"
+    ],
+    "aliases": [
+      "product flaw"
+    ],
+    "user_queries": [
+      "What documents are required to prove a manufacturing defect?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "EvidenceAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

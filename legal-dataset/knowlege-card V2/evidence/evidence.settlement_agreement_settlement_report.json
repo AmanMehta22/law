@@ -1,0 +1,33 @@
+{
+  "concept_id": "evidence.settlement_agreement_settlement_report",
+  "concept_type": "evidence",
+  "title": "Settlement Report",
+  "description": "A report of the settlement",
+  "content": {
+    "required_documents": [
+      "Settlement Agreement",
+      "Settlement Report"
+    ],
+    "purpose": "To document the settlement and forward to the Commission",
+    "mandatory": true
+  },
+  "derived_from": [
+    "CPA2019-CH5-S80-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "EvidenceAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

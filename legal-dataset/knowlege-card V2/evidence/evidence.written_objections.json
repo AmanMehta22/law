@@ -1,0 +1,32 @@
+{
+  "concept_id": "evidence.written_objections",
+  "concept_type": "evidence",
+  "title": "Written objections",
+  "description": "submit in writing his objections with regard to the report made by the appropriate laboratory",
+  "content": {
+    "required_documents": [
+      "Written objections"
+    ],
+    "purpose": "to dispute the correctness of the findings of the appropriate laboratory",
+    "mandatory": false
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "EvidenceAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

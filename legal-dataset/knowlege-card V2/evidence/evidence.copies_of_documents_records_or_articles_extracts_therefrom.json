@@ -1,0 +1,33 @@
+{
+  "concept_id": "evidence.copies_of_documents_records_or_articles_extracts_therefrom",
+  "concept_type": "evidence",
+  "title": "Copies of documents, records or articles",
+  "description": "Copies or extracts of seized or produced documents",
+  "content": {
+    "required_documents": [
+      "Copies of documents, records or articles",
+      "Extracts therefrom"
+    ],
+    "purpose": "To retain a record of seized or produced documents",
+    "mandatory": true
+  },
+  "derived_from": [
+    "CPA2019-CH3-S22-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "EvidenceAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

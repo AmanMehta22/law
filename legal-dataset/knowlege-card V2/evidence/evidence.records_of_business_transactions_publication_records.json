@@ -1,0 +1,42 @@
+{
+  "concept_id": "evidence.records_of_business_transactions_publication_records",
+  "concept_type": "evidence",
+  "title": "Proof of publication in ordinary course of business",
+  "description": "To establish that the advertisement was published in the ordinary course of business",
+  "content": {
+    "required_documents": [
+      "Records of business transactions",
+      "Publication records"
+    ],
+    "purpose": "To prove that the person had published or arranged for the publication of the advertisement in the ordinary course of his business",
+    "mandatory": true
+  },
+  "derived_from": [
+    "CPA2019-CH3-S21-6"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "ordinary course of business",
+      "publication records"
+    ],
+    "aliases": [
+      "business records",
+      "advertisement publication proof"
+    ],
+    "user_queries": [
+      "How to prove ordinary course of business",
+      "What documents are required to prove publication in ordinary course of business"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "EvidenceAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "concept_id": "evidence.written_record",
+  "concept_type": "evidence",
+  "title": "Reasons for adjournment",
+  "description": "Reasons for grant of adjournment",
+  "content": {
+    "required_documents": [
+      "Written record"
+    ],
+    "purpose": "To record reasons for grant of adjournment",
+    "mandatory": true
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-7"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "EvidenceAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

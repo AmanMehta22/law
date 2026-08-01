@@ -1,0 +1,34 @@
+{
+  "concept_id": "evidence.warnings_or_instructions_provided_to_employer_warnings_or_in",
+  "concept_type": "evidence",
+  "title": "Proof of warnings or instructions",
+  "description": "Product manufacturer's warnings or instructions",
+  "content": {
+    "required_documents": [
+      "Warnings or instructions provided to employer",
+      "Warnings or instructions provided to purchaser of component or material",
+      "Warnings or instructions provided to expert or class of experts"
+    ],
+    "purpose": "To establish that the product manufacturer had provided adequate warnings or instructions",
+    "mandatory": true
+  },
+  "derived_from": [
+    "CPA2019-CH6-S87-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "EvidenceAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

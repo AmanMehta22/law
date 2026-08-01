@@ -1,0 +1,33 @@
+{
+  "concept_id": "evidence.accounts_records",
+  "concept_type": "evidence",
+  "title": "Accounts and records",
+  "description": "Proper accounts and other relevant records",
+  "content": {
+    "required_documents": [
+      "Accounts",
+      "Records"
+    ],
+    "purpose": "To maintain proper accounts and other relevant records",
+    "mandatory": true
+  },
+  "derived_from": [
+    "CPA2019-CH3-S26-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "EvidenceAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

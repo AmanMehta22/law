@@ -1,0 +1,40 @@
+{
+  "concept_id": "evidence.written_explanation",
+  "concept_type": "evidence",
+  "title": "Proof of sufficient cause",
+  "description": "To explain the reason for not filing the appeal within 45 days",
+  "content": {
+    "required_documents": [
+      "Written explanation"
+    ],
+    "purpose": "To satisfy the State Commission that there was sufficient cause for not filing it within that period",
+    "mandatory": false
+  },
+  "derived_from": [
+    "CPA2019-CH4-S41",
+    "CPA2019-CH4-S51-1",
+    "CPA2019-CH4-S67"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "sufficient cause"
+    ],
+    "aliases": [
+      "reasonable grounds"
+    ],
+    "user_queries": [
+      "Why was the appeal filed late?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "EvidenceAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

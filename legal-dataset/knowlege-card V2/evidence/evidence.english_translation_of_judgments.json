@@ -1,0 +1,32 @@
+{
+  "concept_id": "evidence.english_translation_of_judgments",
+  "concept_type": "evidence",
+  "title": "English translation of judgments",
+  "description": "furnishing of english translation of judgments written in any language",
+  "content": {
+    "required_documents": [
+      "English translation of judgments"
+    ],
+    "purpose": "adoption of uniform procedure in the hearing of matters",
+    "mandatory": true
+  },
+  "derived_from": [
+    "CPA2019-CH4-S70-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "EvidenceAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

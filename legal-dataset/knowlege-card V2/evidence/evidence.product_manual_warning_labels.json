@@ -1,0 +1,40 @@
+{
+  "concept_id": "evidence.product_manual_warning_labels",
+  "concept_type": "evidence",
+  "title": "Instructions and warning proof",
+  "description": "To establish the product fails to contain adequate instructions or warnings",
+  "content": {
+    "required_documents": [
+      "Product manual",
+      "Warning labels"
+    ],
+    "purpose": "To prove the product fails to contain adequate instructions or warnings",
+    "mandatory": true
+  },
+  "derived_from": [
+    "CPA2019-CH6-S84-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "instructions",
+      "warnings"
+    ],
+    "aliases": [
+      "product usage instructions"
+    ],
+    "user_queries": [
+      "What documents are required to prove inadequate instructions or warnings?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "EvidenceAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

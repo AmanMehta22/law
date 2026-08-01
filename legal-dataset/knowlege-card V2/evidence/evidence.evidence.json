@@ -1,0 +1,32 @@
+{
+  "concept_id": "evidence.evidence",
+  "concept_type": "evidence",
+  "title": "Evidence",
+  "description": "Evidence brought to its notice by the complainant and the opposite party",
+  "content": {
+    "required_documents": [
+      "Evidence"
+    ],
+    "purpose": "To settle the consumer dispute",
+    "mandatory": false
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "EvidenceAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

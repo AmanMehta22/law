@@ -1,0 +1,34 @@
+{
+  "concept_id": "evidence.sales_records_invoice_receipt",
+  "concept_type": "evidence",
+  "title": "Proof of product sale",
+  "description": "To establish the sale of the product by the seller",
+  "content": {
+    "required_documents": [
+      "Sales records",
+      "Invoice",
+      "Receipt"
+    ],
+    "purpose": "To establish the seller's liability",
+    "mandatory": false
+  },
+  "derived_from": [
+    "CPA2019-CH6-S86"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "EvidenceAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

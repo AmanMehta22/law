@@ -1,0 +1,33 @@
+{
+  "concept_id": "evidence.deposit_receipt",
+  "concept_type": "evidence",
+  "title": "Proof of deposit",
+  "description": "To show that 50% of the amount has been deposited",
+  "content": {
+    "required_documents": [
+      "Deposit receipt"
+    ],
+    "purpose": "To entertain an appeal by a person required to pay an amount in terms of an order of the District Commission",
+    "mandatory": true
+  },
+  "derived_from": [
+    "CPA2019-CH4-S41",
+    "CPA2019-CH4-S67"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "EvidenceAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

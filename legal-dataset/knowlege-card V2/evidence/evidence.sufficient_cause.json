@@ -1,0 +1,30 @@
+{
+  "concept_id": "evidence.sufficient_cause",
+  "concept_type": "evidence",
+  "title": "Sufficient cause",
+  "description": "reasons for not filing the complaint within the specified period",
+  "content": {
+    "required_documents": [],
+    "purpose": "to justify the delay in filing the complaint",
+    "mandatory": true
+  },
+  "derived_from": [
+    "CPA2019-CH4-S69-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "EvidenceAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

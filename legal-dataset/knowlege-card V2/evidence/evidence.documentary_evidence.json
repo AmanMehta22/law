@@ -1,0 +1,32 @@
+{
+  "concept_id": "evidence.documentary_evidence",
+  "concept_type": "evidence",
+  "title": "Documentary evidence",
+  "description": "To be placed on record for hearing of complaint",
+  "content": {
+    "required_documents": [
+      "Documentary evidence"
+    ],
+    "purpose": "To be placed on record for hearing of complaint",
+    "mandatory": true
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-6"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "EvidenceAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

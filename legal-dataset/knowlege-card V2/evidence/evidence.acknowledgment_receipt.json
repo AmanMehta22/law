@@ -1,0 +1,41 @@
+{
+  "concept_id": "evidence.acknowledgment_receipt",
+  "concept_type": "evidence",
+  "title": "Acknowledgment",
+  "description": "Acknowledgment or any other receipt purporting to be signed by the opposite party or his agent or the complainant",
+  "content": {
+    "required_documents": [
+      "Acknowledgment",
+      "Receipt"
+    ],
+    "purpose": "To establish that the notice has been duly served",
+    "mandatory": false
+  },
+  "derived_from": [
+    "CPA2019-CH4-S65-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "acknowledgment",
+      "receipt",
+      "notice"
+    ],
+    "aliases": [
+      "proof of service"
+    ],
+    "user_queries": [
+      "What proof is required to show that the notice has been served"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "EvidenceAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "concept_id": "evidence.copies_of_documents",
+  "concept_type": "evidence",
+  "title": "Copies of documents",
+  "description": "prior service of copies of documents produced by one party to the opposite parties, speedy grant of copies of documents",
+  "content": {
+    "required_documents": [
+      "Copies of documents"
+    ],
+    "purpose": "adoption of uniform procedure in the hearing of matters",
+    "mandatory": true
+  },
+  "derived_from": [
+    "CPA2019-CH4-S70-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "EvidenceAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

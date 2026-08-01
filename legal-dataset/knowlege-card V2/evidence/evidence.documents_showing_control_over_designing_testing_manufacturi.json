@@ -1,0 +1,32 @@
+{
+  "concept_id": "evidence.documents_showing_control_over_designing_testing_manufacturi",
+  "concept_type": "evidence",
+  "title": "Proof of substantial control",
+  "description": "To establish the seller's control over the product",
+  "content": {
+    "required_documents": [
+      "Documents showing control over designing, testing, manufacturing, packaging or labelling"
+    ],
+    "purpose": "To establish the seller's liability",
+    "mandatory": false
+  },
+  "derived_from": [
+    "CPA2019-CH6-S86"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "EvidenceAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

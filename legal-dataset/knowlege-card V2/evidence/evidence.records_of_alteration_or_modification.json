@@ -1,0 +1,32 @@
+{
+  "concept_id": "evidence.records_of_alteration_or_modification",
+  "concept_type": "evidence",
+  "title": "Proof of alteration or modification",
+  "description": "To establish the seller's alteration or modification of the product",
+  "content": {
+    "required_documents": [
+      "Records of alteration or modification"
+    ],
+    "purpose": "To establish the seller's liability",
+    "mandatory": false
+  },
+  "derived_from": [
+    "CPA2019-CH6-S86"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "EvidenceAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}
