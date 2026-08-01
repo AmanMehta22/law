@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.consumer_rights",
+  "concept_type": "example",
+  "title": "Consumer Rights",
+  "description": "Illustrative example for: definition.consumer_rights",
+  "content": {
+    "scenario": "A consumer buys a product that is hazardous to life and property, and the seller did not provide any information about the quality of the product. The consumer has the right to be protected against the marketing of hazardous goods, to be informed about the quality of goods, and to seek redressal against unfair trade practices.",
+    "outcome": "The consumer can seek redressal through the Consumer Protection Act, 2019, to protect their rights."
+  },
+  "derived_from": [
+    "definition.consumer_rights"
+  ],
+  "related_concepts": [
+    "definition.consumer_rights"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

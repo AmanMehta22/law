@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.right_to_protection",
+  "concept_type": "example",
+  "title": "Right to Protection",
+  "description": "Illustrative example for: right.right_to_protection",
+  "content": {
+    "scenario": "A consumer purchases a defective smartphone that explodes due to a manufacturing defect, causing injury. The consumer seeks compensation and replacement of the product.",
+    "outcome": "The consumer is entitled to protection under the Consumer Protection Act, 2019, and the manufacturer is liable to provide compensation and replacement of the defective product."
+  },
+  "derived_from": [
+    "right.right_to_protection"
+  ],
+  "related_concepts": [
+    "right.right_to_protection"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

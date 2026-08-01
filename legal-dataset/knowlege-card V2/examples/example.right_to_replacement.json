@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.right_to_replacement",
+  "concept_type": "example",
+  "title": "Right to Replacement",
+  "description": "Illustrative example for: right.right_to_replacement",
+  "content": {
+    "scenario": "A customer purchased a faulty laptop and requested a replacement. The customer received a new laptop of similar description, which was free from defects.",
+    "outcome": "The customer received a new laptop of similar description."
+  },
+  "derived_from": [
+    "right.right_to_replacement"
+  ],
+  "related_concepts": [
+    "right.right_to_replacement"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

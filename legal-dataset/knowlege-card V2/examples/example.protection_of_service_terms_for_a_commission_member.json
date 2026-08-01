@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.protection_of_service_terms_for_a_commission_member",
+  "concept_type": "example",
+  "title": "Protection of Service Terms for a Commission Member",
+  "description": "Illustrative example for: right.right_to_non_variation_of_service_terms",
+  "content": {
+    "scenario": "After being appointed as a member of the National Commission, a member, Ms. Kumar, finds that the government proposes to reduce the allowances of commission members. Ms. Kumar challenges this move, citing her right to non-variation of service terms.",
+    "outcome": "The court upholds Ms. Kumar's challenge, ruling that the government cannot vary the service terms, including salary and allowances, to the disadvantage of the commission members after their appointment."
+  },
+  "derived_from": [
+    "right.right_to_non_variation_of_service_terms"
+  ],
+  "related_concepts": [
+    "right.right_to_non_variation_of_service_terms"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

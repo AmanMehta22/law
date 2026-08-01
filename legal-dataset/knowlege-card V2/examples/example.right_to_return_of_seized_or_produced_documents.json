@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.right_to_return_of_seized_or_produced_documents",
+  "concept_type": "example",
+  "title": "Right to Return of Seized or Produced Documents",
+  "description": "Illustrative example for: right.right_to_return_of_seized_or_produced_documents",
+  "content": {
+    "scenario": "A customer's documents were seized by a regulatory body. After 20 days, the customer requested the return of the documents. The customer received the documents back, including the original copies and certified extracts.",
+    "outcome": "The customer received the documents back, including the original copies and certified extracts."
+  },
+  "derived_from": [
+    "right.right_to_return_of_seized_or_produced_documents"
+  ],
+  "related_concepts": [
+    "right.right_to_return_of_seized_or_produced_documents"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

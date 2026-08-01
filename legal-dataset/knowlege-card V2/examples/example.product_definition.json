@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.product_definition",
+  "concept_type": "example",
+  "title": "Product Definition",
+  "description": "Illustrative example for: definition.product",
+  "content": {
+    "scenario": "A pharmaceutical company, MedCare, manufactures and sells a new brand of pain relief tablets. These tablets are considered a product under the Consumer Protection Act, 2019, as they are articles produced for introduction into trade or commerce and possess intrinsic value.",
+    "outcome": "As a product, the pain relief tablets are subject to the provisions of the Act related to product liability, consumer rights, and responsibilities of the manufacturer, ensuring that MedCare is accountable for the quality and safety of its product."
+  },
+  "derived_from": [
+    "definition.product"
+  ],
+  "related_concepts": [
+    "definition.product"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.unfair_contract_terms_declared_null_and_void",
+  "concept_type": "example",
+  "title": "Unfair Contract Terms Declared Null and Void",
+  "description": "Illustrative example for: remedy.declaration_of_contract_terms_as_null_and_void",
+  "content": {
+    "scenario": "A consumer, Rohan, entered into a contract with a gymnasium that had a clause stating that the consumer would be liable to pay the entire annual fee even if they chose to terminate the contract before the end of the year. The National Commission, upon a complaint filed by Rohan, declared this term of the contract to be unfair and null and void.",
+    "outcome": "The National Commission declared the specific term of the contract that required the consumer to pay the entire annual fee upon termination as null and void, relieving Rohan of the obligation to pay the remaining fees."
+  },
+  "derived_from": [
+    "remedy.declaration_of_contract_terms_as_null_and_void"
+  ],
+  "related_concepts": [
+    "remedy.declaration_of_contract_terms_as_null_and_void"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

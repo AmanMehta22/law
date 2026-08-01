@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.penalty_for_adulterated_products_resulting_in_death",
+  "concept_type": "example",
+  "title": "Penalty for adulterated products resulting in death",
+  "description": "Illustrative example for: penalty.manufacturing_storing_selling_distributing_or_importing_adul",
+  "content": {
+    "scenario": "A manufacturer produced and sold adulterated food products that resulted in the death of several consumers. The court found the manufacturer guilty of manufacturing, storing, selling, and distributing adulterated products, and sentenced the manufacturer to life imprisonment and a fine of Rs. 50 crores.",
+    "outcome": "The manufacturer was sentenced to life imprisonment and a fine of Rs. 50 crores, and the company was required to compensate the families of the deceased consumers."
+  },
+  "derived_from": [
+    "penalty.manufacturing_storing_selling_distributing_or_importing_adul"
+  ],
+  "related_concepts": [
+    "penalty.manufacturing_storing_selling_distributing_or_importing_adul"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

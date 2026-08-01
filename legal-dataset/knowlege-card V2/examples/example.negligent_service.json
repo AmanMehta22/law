@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.negligent_service",
+  "concept_type": "example",
+  "title": "Negligent Service",
+  "description": "Illustrative example for: penalty.negligence",
+  "content": {
+    "scenario": "A consumer purchases a product from a retailer, but due to the retailer's negligence in handling, the product is damaged, causing injury to the consumer. The consumer files a complaint against the retailer.",
+    "outcome": "The retailer is liable to pay compensation for the loss or injury caused to the consumer due to their negligence, as per the provisions of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "penalty.negligence"
+  ],
+  "related_concepts": [
+    "penalty.negligence"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.filing_complaint_against_misleading_advertisements",
+  "concept_type": "example",
+  "title": "Filing Complaint Against Misleading Advertisements",
+  "description": "Illustrative example for: right.right_to_file_complaint",
+  "content": {
+    "scenario": "A consumer, Rohan, purchases a fitness tracker based on an advertisement claiming it has a battery life of 2 years. However, the battery dies after 6 months. Rohan files a complaint with the consumer forum against the company for false advertising.",
+    "outcome": "The consumer forum rules in favor of Rohan, directing the company to refund the purchase price and pay compensation for the misleading advertisement."
+  },
+  "derived_from": [
+    "right.right_to_file_complaint"
+  ],
+  "related_concepts": [
+    "right.right_to_file_complaint"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

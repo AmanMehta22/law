@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.penalty_for_false_or_misleading_advertisement",
+  "concept_type": "example",
+  "title": "Penalty for False or Misleading Advertisement",
+  "description": "Illustrative example for: penalty.publishing_false_or_misleading_advertisement",
+  "content": {
+    "scenario": "A company published an advertisement claiming that their energy drink could cure diseases, which was found to be false. The Central Consumer Protection Authority (CCPA) took action against the company.",
+    "outcome": "The company was fined five lakh rupees for publishing a false and misleading advertisement."
+  },
+  "derived_from": [
+    "penalty.publishing_false_or_misleading_advertisement"
+  ],
+  "related_concepts": [
+    "penalty.publishing_false_or_misleading_advertisement"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

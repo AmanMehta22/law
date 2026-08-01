@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.right_to_safety",
+  "concept_type": "example",
+  "title": "Right to Safety",
+  "description": "Illustrative example for: right.right_to_safety",
+  "content": {
+    "scenario": "A consumer, Ms. Sharma, purchased a toy for her child from a popular online marketplace. The toy, however, contained small parts that could be easily detached and posed a choking hazard. When Ms. Sharma discovered this, she immediately contacted the consumer protection authorities, citing her right to safety.",
+    "outcome": "The authorities investigated and found the toy to be hazardous. They ordered the online marketplace to recall all such toys and refund the purchase price to the consumers. The manufacturer was also directed to modify the toy's design to remove the hazard."
+  },
+  "derived_from": [
+    "right.right_to_safety"
+  ],
+  "related_concepts": [
+    "right.right_to_safety"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

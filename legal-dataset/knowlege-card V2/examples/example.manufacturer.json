@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.manufacturer",
+  "concept_type": "example",
+  "title": "Manufacturer",
+  "description": "Illustrative example for: definition.manufacturer",
+  "content": {
+    "scenario": "A company, 'GreenCycle', designs and assembles bicycles using frames made by another company. GreenCycle puts its own logo on the bicycles and sells them under its brand name.",
+    "outcome": "GreenCycle would be considered the manufacturer of the bicycles under the Consumer Protection Act, 2019, as it assembles the bicycles and puts its own mark on them, even though it does not make all the parts itself."
+  },
+  "derived_from": [
+    "definition.manufacturer"
+  ],
+  "related_concepts": [
+    "definition.manufacturer"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

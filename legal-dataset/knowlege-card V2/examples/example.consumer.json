@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.consumer",
+  "concept_type": "example",
+  "title": "Consumer",
+  "description": "Illustrative example for: definition.consumer",
+  "content": {
+    "scenario": "A person buys a smartphone for $500, which is a consideration paid for the goods. This person is considered a consumer under the Consumer Protection Act, 2019.",
+    "outcome": "The person is protected by the Act and has the right to be protected against the marketing of hazardous goods, to be informed about the quality of goods, and to seek redressal against unfair trade practices."
+  },
+  "derived_from": [
+    "definition.consumer"
+  ],
+  "related_concepts": [
+    "definition.consumer"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

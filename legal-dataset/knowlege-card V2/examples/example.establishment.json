@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.establishment",
+  "concept_type": "example",
+  "title": "Establishment",
+  "description": "Illustrative example for: definition.establishment",
+  "content": {
+    "scenario": "A company that manufactures and sells electronics",
+    "outcome": "The company is considered an establishment under the Consumer Protection Act, 2019, as it carries on a commercial activity, such as manufacturing and trading."
+  },
+  "derived_from": [
+    "definition.establishment"
+  ],
+  "related_concepts": [
+    "definition.establishment"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

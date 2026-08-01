@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.regulator",
+  "concept_type": "example",
+  "title": "Regulator",
+  "description": "Illustrative example for: definition.regulator",
+  "content": {
+    "scenario": "The Reserve Bank of India is a regulator that oversees the banking and financial sectors in India, ensuring compliance with the Consumer Protection Act, 2019.",
+    "outcome": "The Reserve Bank of India, as a regulator, plays a crucial role in enforcing the Act and protecting consumers' interests."
+  },
+  "derived_from": [
+    "definition.regulator"
+  ],
+  "related_concepts": [
+    "definition.regulator"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

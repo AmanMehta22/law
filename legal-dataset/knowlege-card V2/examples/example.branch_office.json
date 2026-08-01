@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.branch_office",
+  "concept_type": "example",
+  "title": "Branch Office",
+  "description": "Illustrative example for: definition.branch_office",
+  "content": {
+    "scenario": "TechCorp, a multinational technology company, has its head office in New York but operates a smaller office in Mumbai, India, which it refers to as its 'Asia-Pacific Branch'. This branch is responsible for sales and customer support for TechCorp's products in the region, mirroring the activities of the head office.",
+    "outcome": "The office in Mumbai would be considered a branch office under the Consumer Protection Act, 2019, as it is described as a branch by the establishment (TechCorp) and carries on substantially the same activities as the head office."
+  },
+  "derived_from": [
+    "definition.branch_office"
+  ],
+  "related_concepts": [
+    "definition.branch_office"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

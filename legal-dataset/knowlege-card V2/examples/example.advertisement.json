@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.advertisement",
+  "concept_type": "example",
+  "title": "Advertisement",
+  "description": "Illustrative example for: definition.advertisement",
+  "content": {
+    "scenario": "A company, GreenTech, launches a new eco-friendly cleaning product and creates a social media campaign where a popular influencer endorses the product, stating it is 'the best for the environment'. This endorsement is posted on the influencer's Instagram and Facebook accounts, reaching millions of followers.",
+    "outcome": "This scenario would be considered an advertisement under the Consumer Protection Act, 2019, as it is a public endorsement made through electronic media (social media) to promote a product."
+  },
+  "derived_from": [
+    "definition.advertisement"
+  ],
+  "related_concepts": [
+    "definition.advertisement"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.right_to_consumer_awareness",
+  "concept_type": "example",
+  "title": "Right to Consumer Awareness",
+  "description": "Illustrative example for: right.right_to_consumer_awareness",
+  "content": {
+    "scenario": "A consumer, Mrs. Sharma, purchases a new smartphone from a retail store. Before making the purchase, she inquires about the phone's features, warranty, and return policy. The sales representative provides her with detailed information about the product, including its technical specifications, warranty period, and the process for returning or exchanging the product if it is defective. Mrs. Sharma feels informed and confident about her purchase.",
+    "outcome": "Mrs. Sharma's right to consumer awareness is upheld as she is provided with all the necessary information about the product, enabling her to make an informed decision."
+  },
+  "derived_from": [
+    "right.right_to_consumer_awareness"
+  ],
+  "related_concepts": [
+    "right.right_to_consumer_awareness"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

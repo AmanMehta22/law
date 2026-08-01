@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.right_to_compensation",
+  "concept_type": "example",
+  "title": "Right to Compensation",
+  "description": "Illustrative example for: right.right_to_compensation",
+  "content": {
+    "scenario": "Amit, a consumer, purchased a smartphone that exploded due to a manufacturing defect, causing him physical harm and damage to his property. He filed a complaint with the State Commission, claiming compensation for the harm caused by the defective product. The product manufacturer was found to be negligent, and the product was deemed defective in design.",
+    "outcome": "The State Commission ordered the product manufacturer to pay compensation to Amit for the harm caused, including medical expenses, property damage, and mental agony, as the product did not conform to the express warranty and failed to contain adequate instructions for correct usage."
+  },
+  "derived_from": [
+    "right.right_to_compensation"
+  ],
+  "related_concepts": [
+    "right.right_to_compensation"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.deficiency",
+  "concept_type": "example",
+  "title": "Deficiency",
+  "description": "Illustrative example for: definition.deficiency",
+  "content": {
+    "scenario": "A customer books a hotel room that is advertised as having a 24-hour room service, but upon arrival, the customer finds out that the room service is only available from 7 am to 10 pm. This is a shortcoming in the service provided.",
+    "outcome": "The customer can file a complaint under the Consumer Protection Act, 2019, for deficiency in service as the hotel failed to provide the promised service."
+  },
+  "derived_from": [
+    "definition.deficiency"
+  ],
+  "related_concepts": [
+    "definition.deficiency"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

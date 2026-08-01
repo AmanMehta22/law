@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.requesting_information_about_a_mobile_plan",
+  "concept_type": "example",
+  "title": "Requesting Information About a Mobile Plan",
+  "description": "Illustrative example for: right.right_to_information",
+  "content": {
+    "scenario": "A consumer, Priya, wants to know the details of her mobile phone plan, including data limits, call rates, and any additional charges. She contacts her mobile service provider to request this information.",
+    "outcome": "The mobile service provider provides Priya with a detailed breakdown of her plan, including all the information she requested, enabling her to make informed decisions about her usage."
+  },
+  "derived_from": [
+    "right.right_to_information"
+  ],
+  "related_concepts": [
+    "right.right_to_information"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

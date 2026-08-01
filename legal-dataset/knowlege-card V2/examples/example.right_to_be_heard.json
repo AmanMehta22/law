@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.right_to_be_heard",
+  "concept_type": "example",
+  "title": "Right to be Heard",
+  "description": "Illustrative example for: right.right_to_be_heard",
+  "content": {
+    "scenario": "Sonia, a consumer, filed a complaint with the District Commission against a company for selling her a defective refrigerator. The company disputed the complaint, and the District Commission asked for a laboratory report to verify the defect. Before rejecting the complaint, the District Commission gave Sonia an opportunity to present her case and respond to the company's claims, ensuring that her interests were considered.",
+    "outcome": "After hearing Sonia's arguments and considering the laboratory report, the District Commission admitted her complaint and directed the company to replace the defective refrigerator and pay compensation for the inconvenience caused."
+  },
+  "derived_from": [
+    "right.right_to_be_heard"
+  ],
+  "related_concepts": [
+    "right.right_to_be_heard"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

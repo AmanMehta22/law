@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.member",
+  "concept_type": "example",
+  "title": "Member",
+  "description": "Illustrative example for: definition.member",
+  "content": {
+    "scenario": "The President of the National Commission is a member. A person serving on the State Commission is considered a member.",
+    "outcome": "The President and the State Commission member are part of the National, State, or District Commission, and are therefore considered members."
+  },
+  "derived_from": [
+    "definition.member"
+  ],
+  "related_concepts": [
+    "definition.member"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

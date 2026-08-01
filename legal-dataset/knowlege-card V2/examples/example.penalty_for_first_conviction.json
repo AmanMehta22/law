@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.penalty_for_first_conviction",
+  "concept_type": "example",
+  "title": "Penalty for first conviction",
+  "description": "Illustrative example for: penalty.first_conviction",
+  "content": {
+    "scenario": "A manufacturer, DEF Manufacturing, is convicted for the first time under the Consumer Protection Act for selling products that do not conform to the required standards. The court considers this a serious offence but notes it is the company's first conviction.",
+    "outcome": "The court decides to suspend DEF Manufacturing's licence to operate for a period of eighteen months, allowing the company time to rectify its processes and ensure compliance with consumer protection regulations before resuming operations."
+  },
+  "derived_from": [
+    "penalty.first_conviction"
+  ],
+  "related_concepts": [
+    "penalty.first_conviction"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

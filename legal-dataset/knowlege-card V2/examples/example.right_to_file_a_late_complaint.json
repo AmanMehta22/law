@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.right_to_file_a_late_complaint",
+  "concept_type": "example",
+  "title": "Right to File a Late Complaint",
+  "description": "Illustrative example for: right.right_to_file_a_late_complaint",
+  "content": {
+    "scenario": "A consumer, Mr. Jain, discovers a defect in his newly purchased electronic device six months after the purchase. However, due to a serious illness, he was unable to file a complaint within the specified period of three months from the date of delivery. Upon recovery, Mr. Jain files a complaint with the consumer forum, explaining the sufficient cause for the delay.",
+    "outcome": "The consumer forum, after considering Mr. Jain's explanation and the evidence provided, accepts his complaint and rules in his favor, directing the manufacturer to replace the defective device, as the forum found the reason for the delay (serious illness) to be a sufficient cause for filing a late complaint."
+  },
+  "derived_from": [
+    "right.right_to_file_a_late_complaint"
+  ],
+  "related_concepts": [
+    "right.right_to_file_a_late_complaint"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

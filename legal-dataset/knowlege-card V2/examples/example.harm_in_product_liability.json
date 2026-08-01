@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.harm_in_product_liability",
+  "concept_type": "example",
+  "title": "Harm in Product Liability",
+  "description": "Illustrative example for: definition.harm",
+  "content": {
+    "scenario": "A consumer purchases a defective electric kettle that explodes, causing damage to their kitchen and injuring their hand. The consumer also experiences mental agony due to the incident.",
+    "outcome": "The consumer can claim compensation for the damage to their kitchen, personal injury, and mental agony under the product liability provisions of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "definition.harm"
+  ],
+  "related_concepts": [
+    "definition.harm"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

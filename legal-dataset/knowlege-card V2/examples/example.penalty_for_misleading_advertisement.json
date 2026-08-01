@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.penalty_for_misleading_advertisement",
+  "concept_type": "example",
+  "title": "Penalty for Misleading Advertisement",
+  "description": "Illustrative example for: penalty.publishing_misleading_advertisement",
+  "content": {
+    "scenario": "A manufacturer published an advertisement claiming that their product was 'eco-friendly' when it was not. The consumer filed a complaint with the consumer forum.",
+    "outcome": "The consumer forum imposed a penalty of eight lakh rupees on the manufacturer for publishing a misleading advertisement."
+  },
+  "derived_from": [
+    "penalty.publishing_misleading_advertisement"
+  ],
+  "related_concepts": [
+    "penalty.publishing_misleading_advertisement"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

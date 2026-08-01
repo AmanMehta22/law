@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.right_to_reimbursement",
+  "concept_type": "example",
+  "title": "Right to Reimbursement",
+  "description": "Illustrative example for: right.right_to_reimbursement",
+  "content": {
+    "scenario": "A group of consumers were found to have been exploited by a company selling health supplements that made false claims about their products. After an investigation by the Central Authority, it was found that the company had indeed violated consumer rights through unfair trade practices.",
+    "outcome": "The Central Authority ordered the company to reimburse the prices of the health supplements to all the affected consumers, in addition to imposing a penalty on the company for its unscrupulous exploitation of consumers."
+  },
+  "derived_from": [
+    "right.right_to_reimbursement"
+  ],
+  "related_concepts": [
+    "right.right_to_reimbursement"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

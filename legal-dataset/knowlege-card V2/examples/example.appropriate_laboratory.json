@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.appropriate_laboratory",
+  "concept_type": "example",
+  "title": "Appropriate Laboratory",
+  "description": "Illustrative example for: definition.appropriate_laboratory",
+  "content": {
+    "scenario": "The State Government of Maharashtra recognizes a laboratory, 'SafeFood Lab', which is funded by the government to test food products for safety and quality standards. A consumer complains about a particular brand of packaged food, suspecting it contains harmful additives. The consumer protection authority sends the product to SafeFood Lab for testing.",
+    "outcome": "In this scenario, SafeFood Lab would be considered an appropriate laboratory under the Consumer Protection Act, 2019, as it is recognized by a State Government and is involved in testing goods (food products) to determine if they suffer from any defect."
+  },
+  "derived_from": [
+    "definition.appropriate_laboratory"
+  ],
+  "related_concepts": [
+    "definition.appropriate_laboratory"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

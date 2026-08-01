@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.discontinuation_of_unfair_trade_practices",
+  "concept_type": "example",
+  "title": "Discontinuation of Unfair Trade Practices",
+  "description": "Illustrative example for: remedy.discontinuation_of_unfair_practices",
+  "content": {
+    "scenario": "A retail store is found to be engaging in deceptive pricing tactics, where the prices displayed on shelves do not match the prices charged at the checkout counter. Upon receiving complaints and after investigation, the authorities find sufficient evidence of unfair trade practices. The store is ordered to discontinue these practices.",
+    "outcome": "The retail store adjusts its pricing strategy to ensure transparency and accuracy, displaying the correct prices on shelves and charging the same at the checkout counter."
+  },
+  "derived_from": [
+    "remedy.discontinuation_of_unfair_practices"
+  ],
+  "related_concepts": [
+    "remedy.discontinuation_of_unfair_practices"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

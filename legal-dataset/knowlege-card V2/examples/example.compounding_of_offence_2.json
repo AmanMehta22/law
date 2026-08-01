@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.compounding_of_offence_2",
+  "concept_type": "example",
+  "title": "Compounding of offence (Section 93)",
+  "description": "Illustrative example for: penalty.offence_under_sub_section_1",
+  "content": {
+    "scenario": "A company sold expired food products to consumers, which is an offence under sub-section (1). The company agrees to pay a fine and recall all the expired products from the market. The court compounds the offence, and the company is not required to face further legal action.",
+    "outcome": "The company pays the fine and recalls the expired products, and the case is closed."
+  },
+  "derived_from": [
+    "penalty.offence_under_sub_section_1"
+  ],
+  "related_concepts": [
+    "penalty.offence_under_sub_section_1"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

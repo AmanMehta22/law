@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.trader",
+  "concept_type": "example",
+  "title": "Trader",
+  "description": "Illustrative example for: definition.trader",
+  "content": {
+    "scenario": "A company that manufactures and sells electronics was found to have sold a defective product. The company, as a trader, was responsible for the sale of the product and could be held liable for any damages caused by the defective product.",
+    "outcome": "The company, as a trader, was held liable for the damages caused by the defective product and had to provide a refund or replacement to the customer."
+  },
+  "derived_from": [
+    "definition.trader"
+  ],
+  "related_concepts": [
+    "definition.trader"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

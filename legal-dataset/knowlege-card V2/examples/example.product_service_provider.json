@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.product_service_provider",
+  "concept_type": "example",
+  "title": "Product Service Provider",
+  "description": "Illustrative example for: definition.product_service_provider",
+  "content": {
+    "scenario": "A company that repairs mobile phones",
+    "outcome": "The company is considered a product service provider under the Consumer Protection Act, 2019, as it offers services related to a product."
+  },
+  "derived_from": [
+    "definition.product_service_provider"
+  ],
+  "related_concepts": [
+    "definition.product_service_provider"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.reimbursement_of_prices_for_recalled_goods",
+  "concept_type": "example",
+  "title": "Reimbursement of Prices for Recalled Goods",
+  "description": "Illustrative example for: remedy.reimbursement_of_prices",
+  "content": {
+    "scenario": "A company recalls a batch of contaminated food products due to evidence of violation of consumer rights. Consumers who purchased the recalled products can seek reimbursement of the prices paid for the goods.",
+    "outcome": "The consumers are entitled to reimbursement of the full amount paid for the recalled products, and the company is required to provide reimbursement to all affected consumers who purchased the recalled goods."
+  },
+  "derived_from": [
+    "remedy.reimbursement_of_prices"
+  ],
+  "related_concepts": [
+    "remedy.reimbursement_of_prices"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

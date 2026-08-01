@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.unfair_trade_practice",
+  "concept_type": "example",
+  "title": "Unfair Trade Practice",
+  "description": "Illustrative example for: definition.unfair_trade_practice",
+  "content": {
+    "scenario": "A company, ABC Ltd., advertises its second-hand cars as 'brand new' on its website and social media platforms, without disclosing that the cars are actually refurbished. This false advertising is intended to promote the sale of the cars and deceive consumers into buying them.",
+    "outcome": "The practice of ABC Ltd. is considered an unfair trade practice as it adopts a deceptive method to promote the sale of its products, misleading consumers into buying refurbished cars as new ones."
+  },
+  "derived_from": [
+    "definition.unfair_trade_practice"
+  ],
+  "related_concepts": [
+    "definition.unfair_trade_practice"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

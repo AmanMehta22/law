@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.direct_selling",
+  "concept_type": "example",
+  "title": "Direct Selling",
+  "description": "Illustrative example for: definition.direct_selling",
+  "content": {
+    "scenario": "A company called 'BeautyHub' sells its skincare products through a network of independent distributors who promote and sell these products to their friends, family, and social media followers, without operating from a fixed retail store.",
+    "outcome": "BeautyHub's business model falls under the definition of direct selling as per the Consumer Protection Act, 2019, because it involves the sale of goods through a network of sellers without a permanent retail location."
+  },
+  "derived_from": [
+    "definition.direct_selling"
+  ],
+  "related_concepts": [
+    "definition.direct_selling"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

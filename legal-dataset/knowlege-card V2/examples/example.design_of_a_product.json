@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.design_of_a_product",
+  "concept_type": "example",
+  "title": "Design of a Product",
+  "description": "Illustrative example for: definition.design",
+  "content": {
+    "scenario": "A company manufactures a line of baby strollers with a specific folding mechanism that is intended to make the stroller compact and easy to store. However, the design of the folding mechanism is flawed, causing the stroller to collapse unexpectedly.",
+    "outcome": "The company may be held liable for any injuries caused by the defective design of the stroller, as the design did not meet the intended physical and material characteristics of the product."
+  },
+  "derived_from": [
+    "definition.design"
+  ],
+  "related_concepts": [
+    "definition.design"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

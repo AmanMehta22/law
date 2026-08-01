@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.misleading_advertisement",
+  "concept_type": "example",
+  "title": "Misleading Advertisement",
+  "description": "Illustrative example for: definition.misleading_advertisement",
+  "content": {
+    "scenario": "A company advertises a new energy drink claiming it can increase a person's stamina by 50% without providing any scientific evidence to support this claim, thereby misleading consumers about the product's quality.",
+    "outcome": "The advertisement is considered misleading as it gives a false representation of the product's quality, and the company may face penalties under the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "definition.misleading_advertisement"
+  ],
+  "related_concepts": [
+    "definition.misleading_advertisement"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

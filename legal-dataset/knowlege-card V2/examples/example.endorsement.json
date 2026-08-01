@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.endorsement",
+  "concept_type": "example",
+  "title": "Endorsement",
+  "description": "Illustrative example for: definition.endorsement",
+  "content": {
+    "scenario": "A popular fitness influencer, Ramesh, posts a picture of himself on social media holding a bottle of a new protein supplement, with a caption praising its effectiveness. The post is sponsored by the supplement manufacturer.",
+    "outcome": "This social media post constitutes an endorsement under the Consumer Protection Act, 2019, as it is a public statement that makes consumers believe the influencer's opinion or experience with the product."
+  },
+  "derived_from": [
+    "definition.endorsement"
+  ],
+  "related_concepts": [
+    "definition.endorsement"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.injury",
+  "concept_type": "example",
+  "title": "Injury",
+  "description": "Illustrative example for: definition.injury",
+  "content": {
+    "scenario": "A customer slips on a wet floor in a supermarket due to the negligence of the store staff and suffers a fracture. The customer's property, including their phone and glasses, is also damaged in the fall.",
+    "outcome": "The customer can claim compensation for the physical harm caused by the fracture, as well as the damage to their property, as it is an injury caused illegally to their body and property."
+  },
+  "derived_from": [
+    "definition.injury"
+  ],
+  "related_concepts": [
+    "definition.injury"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

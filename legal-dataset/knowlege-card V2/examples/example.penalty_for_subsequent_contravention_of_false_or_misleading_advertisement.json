@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.penalty_for_subsequent_contravention_of_false_or_misleading_advertisement",
+  "concept_type": "example",
+  "title": "Penalty for Subsequent Contravention of False or Misleading Advertisement",
+  "description": "Illustrative example for: penalty.subsequent_contravention_of_publishing_false_or_misleading_a",
+  "content": {
+    "scenario": "A company, previously fined for publishing a false advertisement about the health benefits of their product, releases another advertisement making similar unsubstantiated claims. The consumer protection authority discovers this and decides to take action.",
+    "outcome": "The company is fined fifty lakh rupees for the subsequent contravention, as per the provisions for punishment of such offenses."
+  },
+  "derived_from": [
+    "penalty.subsequent_contravention_of_publishing_false_or_misleading_a"
+  ],
+  "related_concepts": [
+    "penalty.subsequent_contravention_of_publishing_false_or_misleading_a"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

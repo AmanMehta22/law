@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.right_to_redressal",
+  "concept_type": "example",
+  "title": "Right to Redressal",
+  "description": "Illustrative example for: right.right_to_redressal",
+  "content": {
+    "scenario": "A consumer, Mr. Kumar, purchased a mobile phone that was advertised as having a higher storage capacity than it actually did. Feeling deceived, Mr. Kumar sought redressal from the consumer forum against the manufacturer for unfair trade practice.",
+    "outcome": "The consumer forum ruled in favor of Mr. Kumar, directing the manufacturer to not only correct the misleading advertisement but also to provide compensation for the mental agony and financial loss suffered by Mr. Kumar."
+  },
+  "derived_from": [
+    "right.right_to_redressal"
+  ],
+  "related_concepts": [
+    "right.right_to_redressal"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

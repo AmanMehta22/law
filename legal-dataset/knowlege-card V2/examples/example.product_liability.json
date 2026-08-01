@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.product_liability",
+  "concept_type": "example",
+  "title": "Product Liability",
+  "description": "Illustrative example for: definition.product_liability",
+  "content": {
+    "scenario": "A consumer purchases a defective laptop from a well-known electronics company, which catches fire due to a manufacturing defect, causing burns to the consumer. The consumer seeks compensation for medical expenses and replacement of the laptop.",
+    "outcome": "The electronics company is held liable for the harm caused by the defective product and is required to compensate the consumer for medical expenses and provide a replacement laptop."
+  },
+  "derived_from": [
+    "definition.product_liability"
+  ],
+  "related_concepts": [
+    "definition.product_liability"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

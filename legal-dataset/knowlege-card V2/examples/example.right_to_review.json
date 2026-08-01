@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.right_to_review",
+  "concept_type": "example",
+  "title": "Right to Review",
+  "description": "Illustrative example for: right.right_to_review",
+  "content": {
+    "scenario": "A consumer, Mr. Kumar, purchased a defective refrigerator from a local dealer. He filed a complaint with the District Commission, which ordered the dealer to replace the refrigerator. However, the order also imposed a condition that Mr. Kumar must pay 20% of the replacement cost. Mr. Kumar felt this condition was unjust and applied to the State Commission for a review of the order within thirty days, citing an error apparent on the face of the record.",
+    "outcome": "The State Commission reviewed the order and found that the condition imposed by the District Commission was indeed erroneous. It set aside the condition, directing the dealer to replace the refrigerator without any cost to Mr. Kumar."
+  },
+  "derived_from": [
+    "right.right_to_review"
+  ],
+  "related_concepts": [
+    "right.right_to_review"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

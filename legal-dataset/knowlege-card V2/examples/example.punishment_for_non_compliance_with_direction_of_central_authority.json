@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.punishment_for_non_compliance_with_direction_of_central_authority",
+  "concept_type": "example",
+  "title": "Punishment for non-compliance with direction of Central Authority",
+  "description": "Illustrative example for: penalty.failing_to_comply_with_direction_of_central_authority",
+  "content": {
+    "scenario": "A company, XYZ Ltd., fails to comply with a direction from the Central Authority to recall a batch of defective products. Despite receiving the direction, the company does not take any action, leading to further consumer harm.",
+    "outcome": "The company is prosecuted and found guilty. The court imposes a fine of fifteen lakh rupees and sentences the company's director to imprisonment for three months for failing to comply with the Central Authority's direction."
+  },
+  "derived_from": [
+    "penalty.failing_to_comply_with_direction_of_central_authority"
+  ],
+  "related_concepts": [
+    "penalty.failing_to_comply_with_direction_of_central_authority"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

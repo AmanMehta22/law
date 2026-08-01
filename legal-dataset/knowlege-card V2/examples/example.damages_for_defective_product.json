@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.damages_for_defective_product",
+  "concept_type": "example",
+  "title": "Damages for Defective Product",
+  "description": "Illustrative example for: remedy.damages",
+  "content": {
+    "scenario": "Rahul purchased a smartphone from a retail store, which exploded due to a manufacturing defect, causing him physical harm. He filed a complaint before the District Commission seeking damages for the harm suffered.",
+    "outcome": "The District Commission awarded Rahul damages for the physical harm caused by the defective product, as well as compensation for the mental agony and distress suffered."
+  },
+  "derived_from": [
+    "remedy.damages"
+  ],
+  "related_concepts": [
+    "remedy.damages"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

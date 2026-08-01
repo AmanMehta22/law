@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.prohibition_from_endorsement_for_false_or_misleading_advertisement",
+  "concept_type": "example",
+  "title": "Prohibition from endorsement for false or misleading advertisement",
+  "description": "Illustrative example for: penalty.making_false_or_misleading_advertisement",
+  "content": {
+    "scenario": "A celebrity endorsed a product claiming it was made from natural ingredients, when in fact it contained harmful chemicals. The Consumer Commission found the endorsement to be false and misleading, and prohibited the celebrity from making any endorsements for a period of one year.",
+    "outcome": "The celebrity was prohibited from making any endorsements for a period of one year, and the company was required to withdraw the product from the market."
+  },
+  "derived_from": [
+    "penalty.making_false_or_misleading_advertisement"
+  ],
+  "related_concepts": [
+    "penalty.making_false_or_misleading_advertisement"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

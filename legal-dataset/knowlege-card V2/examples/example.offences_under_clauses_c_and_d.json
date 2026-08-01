@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.offences_under_clauses_c_and_d",
+  "concept_type": "example",
+  "title": "Offences under clauses (c) and (d)",
+  "description": "Illustrative example for: penalty.offences_under_clauses_c_and_d",
+  "content": {
+    "scenario": "A businessman is accused of manufacturing and selling counterfeit products, which is a cognizable and non-bailable offence under clauses (c) and (d). The police arrest the businessman, and he is produced before a court. The court denies him bail, and he is sent to judicial custody.",
+    "outcome": "The businessman is prosecuted, and if found guilty, he may face imprisonment and a fine."
+  },
+  "derived_from": [
+    "penalty.offences_under_clauses_c_and_d"
+  ],
+  "related_concepts": [
+    "penalty.offences_under_clauses_c_and_d"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.right_to_appeal",
+  "concept_type": "example",
+  "title": "Right to Appeal",
+  "description": "Illustrative example for: right.right_to_appeal",
+  "content": {
+    "scenario": "Rahul, a consumer, received an order from the State Commission dismissing his complaint against a defective product. He was not satisfied with the order and wanted to challenge it. Within 30 days of receiving the order, Rahul filed an appeal with the Central Authority, citing a substantial question of law and providing sufficient cause for not filing it earlier. The appeal was accepted, and the Central Authority agreed to hear the case.",
+    "outcome": "The Central Authority heard the appeal and overturned the State Commission's order, directing the product manufacturer to compensate Rahul for the harm caused by the defective product."
+  },
+  "derived_from": [
+    "right.right_to_appeal"
+  ],
+  "related_concepts": [
+    "right.right_to_appeal"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

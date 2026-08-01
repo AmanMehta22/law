@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.consumer_dispute",
+  "concept_type": "example",
+  "title": "Consumer Dispute",
+  "description": "Illustrative example for: definition.consumer_dispute",
+  "content": {
+    "scenario": "A customer complains about a defective smartphone and the manufacturer denies any fault, leading to a disagreement between the customer and the manufacturer. This disagreement is considered a consumer dispute under the Act.",
+    "outcome": "The customer may seek redressal through the Consumer Protection Act, 2019, to resolve the dispute."
+  },
+  "derived_from": [
+    "definition.consumer_dispute"
+  ],
+  "related_concepts": [
+    "definition.consumer_dispute"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

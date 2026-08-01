@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.complaint_under_consumer_protection_act_2019",
+  "concept_type": "example",
+  "title": "Complaint under Consumer Protection Act, 2019",
+  "description": "Illustrative example for: definition.complaint",
+  "content": {
+    "scenario": "A consumer, Priya, files a complaint with the consumer forum, alleging that a service provider, a gym, has charged her an excess price for their services compared to the price advertised. The complaint is in writing and seeks relief under the Consumer Protection Act, 2019.",
+    "outcome": "The consumer forum hears Priya's complaint and finds in her favor, ordering the gym to refund the excess amount charged and pay compensation for the deficiency in their services."
+  },
+  "derived_from": [
+    "definition.complaint"
+  ],
+  "related_concepts": [
+    "definition.complaint"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

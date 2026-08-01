@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.cost_of_corrective_advertisement",
+  "concept_type": "example",
+  "title": "Cost of corrective advertisement",
+  "description": "Illustrative example for: penalty.issuing_misleading_advertisement",
+  "content": {
+    "scenario": "A company issued a misleading advertisement claiming its product could cure a specific disease, which was not supported by scientific evidence. The Consumer Commission ordered the company to issue a corrective advertisement in all major newspapers and television channels to neutralize the misleading claim, at a cost of Rs. 50 lakhs.",
+    "outcome": "The company was required to pay the cost of issuing the corrective advertisement, which was Rs. 50 lakhs, to neutralize the misleading advertisement."
+  },
+  "derived_from": [
+    "penalty.issuing_misleading_advertisement"
+  ],
+  "related_concepts": [
+    "penalty.issuing_misleading_advertisement"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.service",
+  "concept_type": "example",
+  "title": "Service",
+  "description": "Illustrative example for: definition.service",
+  "content": {
+    "scenario": "A hotel, XYZ Hotel, provides a service of lodging to its customers, which includes the provision of facilities in connection with banking, financing, and other services.",
+    "outcome": "The service provided by XYZ Hotel is considered a service under the Consumer Protection Act, 2019, and is subject to the regulations and protections provided by the Act."
+  },
+  "derived_from": [
+    "definition.service"
+  ],
+  "related_concepts": [
+    "definition.service"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

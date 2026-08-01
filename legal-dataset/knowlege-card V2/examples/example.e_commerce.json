@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.e_commerce",
+  "concept_type": "example",
+  "title": "E-Commerce",
+  "description": "Illustrative example for: definition.e_commerce",
+  "content": {
+    "scenario": "Rahul purchases a smartphone from an online retailer, paying for it through a digital payment gateway. The smartphone is delivered to his doorstep a week later.",
+    "outcome": "This transaction falls under the definition of e-commerce as per the Consumer Protection Act, 2019, as it involves the buying of a product over a digital network."
+  },
+  "derived_from": [
+    "definition.e_commerce"
+  ],
+  "related_concepts": [
+    "definition.e_commerce"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

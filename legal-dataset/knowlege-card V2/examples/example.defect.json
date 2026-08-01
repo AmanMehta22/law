@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.defect",
+  "concept_type": "example",
+  "title": "Defect",
+  "description": "Illustrative example for: definition.defect",
+  "content": {
+    "scenario": "A consumer purchases a bottle of juice that is past its expiry date. The juice is a product that does not meet the required standards of quality and purity as it is no longer safe for consumption due to its age.",
+    "outcome": "The consumer can claim a refund or replacement under the Consumer Protection Act, 2019, as the product has a defect."
+  },
+  "derived_from": [
+    "definition.defect"
+  ],
+  "related_concepts": [
+    "definition.defect"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

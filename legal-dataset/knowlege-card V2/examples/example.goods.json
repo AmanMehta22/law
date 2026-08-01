@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.goods",
+  "concept_type": "example",
+  "title": "Goods",
+  "description": "Illustrative example for: definition.goods",
+  "content": {
+    "scenario": "A refrigerator purchased from a store",
+    "outcome": "The refrigerator is considered goods under the Consumer Protection Act, 2019, as it is a type of movable property."
+  },
+  "derived_from": [
+    "definition.goods"
+  ],
+  "related_concepts": [
+    "definition.goods"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

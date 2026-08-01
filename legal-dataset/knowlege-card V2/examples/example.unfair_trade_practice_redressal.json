@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.unfair_trade_practice_redressal",
+  "concept_type": "example",
+  "title": "Unfair Trade Practice Redressal",
+  "description": "Illustrative example for: remedy.redressal",
+  "content": {
+    "scenario": "A consumer purchases a product that is advertised as 'made in India' but is actually manufactured in a different country. The consumer can seek redressal against the company for engaging in an unfair trade practice by making false claims about the product's origin.",
+    "outcome": "The consumer may be entitled to compensation or a refund, and the company may be required to correct its advertising and labeling practices."
+  },
+  "derived_from": [
+    "remedy.redressal"
+  ],
+  "related_concepts": [
+    "remedy.redressal"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

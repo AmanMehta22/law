@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.notification",
+  "concept_type": "example",
+  "title": "Notification",
+  "description": "Illustrative example for: definition.notification",
+  "content": {
+    "scenario": "The Ministry of Consumer Affairs publishes a notification in the Official Gazette announcing a new rule requiring all e-commerce companies to display the country of origin for all products sold on their platforms, effective from a specified date.",
+    "outcome": "The notification is considered an official announcement, and all e-commerce companies are required to comply with the new rule from the specified date, failing which they may face penalties under the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "definition.notification"
+  ],
+  "related_concepts": [
+    "definition.notification"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

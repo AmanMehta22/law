@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.central_authority",
+  "concept_type": "example",
+  "title": "Central Authority",
+  "description": "Illustrative example for: definition.central_authority",
+  "content": {
+    "scenario": "The Central Consumer Protection Authority receives a complaint about a company engaging in unfair trade practices by misleading consumers about the quality of their products. The Central Authority investigates the complaint and finds evidence of the company's wrongdoing.",
+    "outcome": "The Central Authority takes enforcement action against the company, ordering them to cease their unfair trade practices and pay a fine for violating consumer protection laws."
+  },
+  "derived_from": [
+    "definition.central_authority"
+  ],
+  "related_concepts": [
+    "definition.central_authority"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

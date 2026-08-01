@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.definition_of_person",
+  "concept_type": "example",
+  "title": "Definition of Person",
+  "description": "Illustrative example for: definition.person",
+  "content": {
+    "scenario": "A local cooperative society, Green Earth, purchases a bulk order of organic fertilizers from a company, EcoFriendly, for resale to its members. In this transaction, both Green Earth and EcoFriendly are considered persons under the Consumer Protection Act, 2019, as they are a cooperative society and a company, respectively.",
+    "outcome": "As persons, both Green Earth and EcoFriendly are subject to the provisions of the Act, including responsibilities and rights in consumer transactions."
+  },
+  "derived_from": [
+    "definition.person"
+  ],
+  "related_concepts": [
+    "definition.person"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

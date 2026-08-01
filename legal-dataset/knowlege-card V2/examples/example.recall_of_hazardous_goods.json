@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.recall_of_hazardous_goods",
+  "concept_type": "example",
+  "title": "Recall of Hazardous Goods",
+  "description": "Illustrative example for: remedy.recall_of_goods_or_withdrawal_of_services",
+  "content": {
+    "scenario": "A manufacturer of electric appliances discovers a defect in one of its products that could cause electrical shocks. The company voluntarily recalls the product from the market and offers replacement or refund to consumers who have already purchased it. This action is taken after the company realizes the product violates consumer rights by being unsafe.",
+    "outcome": "Consumers who have purchased the defective product return it to the company and receive a safe replacement or a full refund, thereby preventing any potential harm from the defective appliance."
+  },
+  "derived_from": [
+    "remedy.recall_of_goods_or_withdrawal_of_services"
+  ],
+  "related_concepts": [
+    "remedy.recall_of_goods_or_withdrawal_of_services"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.payment_for_loss_to_multiple_consumers",
+  "concept_type": "example",
+  "title": "Payment for loss to multiple consumers",
+  "description": "Illustrative example for: penalty.payment_for_loss_to_multiple_consumers",
+  "content": {
+    "scenario": "A pharmaceutical company sells a defective medicine that causes harm to hundreds of consumers. The District Commission orders the company to pay a sum determined by it, which is at least twenty-five per cent of the value of the defective medicine, as compensation to the affected consumers.",
+    "outcome": "The company pays the determined sum to the consumers, and the consumers receive compensation for the harm caused by the defective medicine."
+  },
+  "derived_from": [
+    "penalty.payment_for_loss_to_multiple_consumers"
+  ],
+  "related_concepts": [
+    "penalty.payment_for_loss_to_multiple_consumers"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

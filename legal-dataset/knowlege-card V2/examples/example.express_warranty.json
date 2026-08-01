@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.express_warranty",
+  "concept_type": "example",
+  "title": "Express Warranty",
+  "description": "Illustrative example for: definition.express_warranty",
+  "content": {
+    "scenario": "A company advertises that their product is 'durable and long-lasting'",
+    "outcome": "The advertisement is an express warranty, as it makes a material statement about the product's durability and long-lasting nature."
+  },
+  "derived_from": [
+    "definition.express_warranty"
+  ],
+  "related_concepts": [
+    "definition.express_warranty"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

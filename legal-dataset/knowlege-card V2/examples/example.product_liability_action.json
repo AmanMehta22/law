@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.product_liability_action",
+  "concept_type": "example",
+  "title": "Product Liability Action",
+  "description": "Illustrative example for: definition.product_liability_action",
+  "content": {
+    "scenario": "A person files a complaint before the District Commission against a pharmaceutical company for selling a defective medication that caused them severe health issues, seeking compensation for medical expenses and pain and suffering.",
+    "outcome": "The District Commission rules in favor of the person, ordering the pharmaceutical company to pay compensation for the harm caused by the defective medication."
+  },
+  "derived_from": [
+    "definition.product_liability_action"
+  ],
+  "related_concepts": [
+    "definition.product_liability_action"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

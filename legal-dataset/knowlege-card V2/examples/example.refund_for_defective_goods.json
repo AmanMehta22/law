@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.refund_for_defective_goods",
+  "concept_type": "example",
+  "title": "Refund for Defective Goods",
+  "description": "Illustrative example for: remedy.refund",
+  "content": {
+    "scenario": "A customer buys a smartphone that stops working within a week of purchase. The customer can seek a refund as the goods are defective and the consideration has been paid.",
+    "outcome": "The customer is entitled to a refund of the full amount paid for the smartphone within the stipulated period, and the seller is required to provide a refund or replace the defective product."
+  },
+  "derived_from": [
+    "remedy.refund"
+  ],
+  "related_concepts": [
+    "remedy.refund"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

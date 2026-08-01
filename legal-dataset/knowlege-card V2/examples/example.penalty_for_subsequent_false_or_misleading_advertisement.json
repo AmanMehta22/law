@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.penalty_for_subsequent_false_or_misleading_advertisement",
+  "concept_type": "example",
+  "title": "Penalty for Subsequent False or Misleading Advertisement",
+  "description": "Illustrative example for: penalty.subsequent_publishing_of_false_or_misleading_advertisement",
+  "content": {
+    "scenario": "An endorser, who has previously been penalized for endorsing a product with false claims, again endorses a different product with misleading information about its quality. Upon investigation, the consumer protection agency finds the endorser guilty.",
+    "outcome": "The endorser is sentenced to five years of imprisonment and also fined fifty lakh rupees for the subsequent publishing of false or misleading advertisement, as the law stipulates punishment for such repeated offenses."
+  },
+  "derived_from": [
+    "penalty.subsequent_publishing_of_false_or_misleading_advertisement"
+  ],
+  "related_concepts": [
+    "penalty.subsequent_publishing_of_false_or_misleading_advertisement"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

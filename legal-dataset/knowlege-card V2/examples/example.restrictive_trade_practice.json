@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.restrictive_trade_practice",
+  "concept_type": "example",
+  "title": "Restrictive Trade Practice",
+  "description": "Illustrative example for: definition.restrictive_trade_practice",
+  "content": {
+    "scenario": "A company, ABC Inc., has a restrictive trade practice where it charges higher prices for its products due to a delay in supply, which has led to a rise in the price and imposed unjustified costs on consumers.",
+    "outcome": "The restrictive trade practice by ABC Inc. is likely to be considered a violation of the Consumer Protection Act, 2019, and may result in fines or penalties for the company."
+  },
+  "derived_from": [
+    "definition.restrictive_trade_practice"
+  ],
+  "related_concepts": [
+    "definition.restrictive_trade_practice"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

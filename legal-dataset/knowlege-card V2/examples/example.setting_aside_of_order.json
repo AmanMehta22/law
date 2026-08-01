@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.setting_aside_of_order",
+  "concept_type": "example",
+  "title": "Setting aside of order",
+  "description": "Illustrative example for: remedy.setting_aside_of_order",
+  "content": {
+    "scenario": "A consumer receives an ex parte order from the National Commission, which they believe is unfair. The consumer makes an application to the Commission, requesting that the order be set aside. The Commission reviews the application and decides to set the order aside.",
+    "outcome": "The National Commission sets the order aside, providing relief to the consumer."
+  },
+  "derived_from": [
+    "remedy.setting_aside_of_order"
+  ],
+  "related_concepts": [
+    "remedy.setting_aside_of_order"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

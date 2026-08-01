@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.mediator",
+  "concept_type": "example",
+  "title": "Mediator",
+  "description": "Illustrative example for: definition.mediator",
+  "content": {
+    "scenario": "A neutral third-party expert helped a consumer and a company reach a settlement about a defective product. The mediator, as described in section 75 of the Act, facilitated a discussion between the two parties, helping them reach a mutually agreeable settlement.",
+    "outcome": "The consumer and the company reached a mutually agreeable settlement, resolving the dispute."
+  },
+  "derived_from": [
+    "definition.mediator"
+  ],
+  "related_concepts": [
+    "definition.mediator"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

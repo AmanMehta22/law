@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.product_manufacturer",
+  "concept_type": "example",
+  "title": "Product Manufacturer",
+  "description": "Illustrative example for: definition.product_manufacturer",
+  "content": {
+    "scenario": "A company, 'GreenCycle', designs and assembles bicycles using parts sourced from various suppliers. GreenCycle sells these bicycles under its own brand name through its website and retail stores. A consumer purchases a bicycle that has a defective brake system, causing an accident.",
+    "outcome": "GreenCycle is considered the product manufacturer, as it designed and assembled the bicycles, and is therefore responsible for the defective product, liable to compensate the consumer for any harm caused."
+  },
+  "derived_from": [
+    "definition.product_manufacturer"
+  ],
+  "related_concepts": [
+    "definition.product_manufacturer"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

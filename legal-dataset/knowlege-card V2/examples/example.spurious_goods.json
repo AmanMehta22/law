@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.spurious_goods",
+  "concept_type": "example",
+  "title": "Spurious Goods",
+  "description": "Illustrative example for: definition.spurious_goods",
+  "content": {
+    "scenario": "A customer bought a luxury watch that was advertised as genuine, but it turned out to be a counterfeit product. The customer then realized that the watch was fake and not the authentic product they were promised.",
+    "outcome": "The customer could have filed a complaint with the State Commission, as the sale of a counterfeit luxury watch is an example of spurious goods, which are goods that are falsely claimed to be genuine."
+  },
+  "derived_from": [
+    "definition.spurious_goods"
+  ],
+  "related_concepts": [
+    "definition.spurious_goods"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

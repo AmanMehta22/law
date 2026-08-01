@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.right_to_access_to_variety_of_goods",
+  "concept_type": "example",
+  "title": "Right to Access to Variety of Goods",
+  "description": "Illustrative example for: right.right_to_access_to_variety_of_goods",
+  "content": {
+    "scenario": "In a small town, there is only one supermarket that sells a limited range of products at high prices. The consumers in the town have no access to other supermarkets or online shopping platforms, and the existing supermarket does not provide them with a variety of goods at competitive prices.",
+    "outcome": "The consumers in the town are denied their right to access a variety of goods at competitive prices, as the supermarket has a monopoly in the market and does not provide them with adequate options, wherever possible."
+  },
+  "derived_from": [
+    "right.right_to_access_to_variety_of_goods"
+  ],
+  "related_concepts": [
+    "right.right_to_access_to_variety_of_goods"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

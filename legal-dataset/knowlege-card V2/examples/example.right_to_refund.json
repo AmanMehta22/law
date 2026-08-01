@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.right_to_refund",
+  "concept_type": "example",
+  "title": "Right to Refund",
+  "description": "Illustrative example for: right.right_to_refund",
+  "content": {
+    "scenario": "Ms. Sharma bought a defective air conditioner from a retail store. Despite several complaints, the product was not repaired or replaced. She then sought a refund of the full price she paid for the air conditioner.",
+    "outcome": "The consumer court ordered the retail store to refund the full amount paid by Ms. Sharma for the defective air conditioner, along with compensation for the inconvenience caused."
+  },
+  "derived_from": [
+    "right.right_to_refund"
+  ],
+  "related_concepts": [
+    "right.right_to_refund"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

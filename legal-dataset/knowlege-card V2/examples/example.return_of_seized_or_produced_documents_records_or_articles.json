@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.return_of_seized_or_produced_documents_records_or_articles",
+  "concept_type": "example",
+  "title": "Return of seized or produced documents, records or articles",
+  "description": "Illustrative example for: remedy.return_of_seized_or_produced_documents_records_or_articles",
+  "content": {
+    "scenario": "A company's documents are seized by the National Commission during an investigation. After 20 days, the company requests the return of the documents, and the Commission returns them, as certified copies or extracts have been taken.",
+    "outcome": "The company receives its documents back, as the National Commission has returned them after taking certified copies or extracts."
+  },
+  "derived_from": [
+    "remedy.return_of_seized_or_produced_documents_records_or_articles"
+  ],
+  "related_concepts": [
+    "remedy.return_of_seized_or_produced_documents_records_or_articles"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

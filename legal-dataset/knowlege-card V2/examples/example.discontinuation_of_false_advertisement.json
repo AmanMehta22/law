@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.discontinuation_of_false_advertisement",
+  "concept_type": "example",
+  "title": "Discontinuation of False Advertisement",
+  "description": "Illustrative example for: remedy.discontinuation_of_unfair_practice",
+  "content": {
+    "scenario": "A company advertises its product as 'made in India' when in fact it is manufactured in another country. The Central Authority, after investigation, finds this advertisement to be false and misleading, prejudicial to the interest of consumers. The company is ordered to discontinue this advertisement.",
+    "outcome": "The company stops airing the false advertisement, and in its place, issues a corrected version that accurately represents the product's origin."
+  },
+  "derived_from": [
+    "remedy.discontinuation_of_unfair_practice"
+  ],
+  "related_concepts": [
+    "remedy.discontinuation_of_unfair_practice"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

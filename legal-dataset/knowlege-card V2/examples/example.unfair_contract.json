@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.unfair_contract",
+  "concept_type": "example",
+  "title": "Unfair Contract",
+  "description": "Illustrative example for: definition.unfair_contract",
+  "content": {
+    "scenario": "A consumer, Mr. X, signs a contract with a mobile phone service provider that requires him to pay a security deposit of Rs. 10,000, which is manifestly excessive compared to the monthly charges. The contract also states that if Mr. X breaches the contract, he will have to pay a penalty of Rs. 5,000, which is wholly disproportionate to the loss that the service provider may incur.",
+    "outcome": "The contract is considered unfair as it requires an excessive security deposit and imposes a disproportionate penalty for breach of contract, causing a significant change in the rights of the consumer."
+  },
+  "derived_from": [
+    "definition.unfair_contract"
+  ],
+  "related_concepts": [
+    "definition.unfair_contract"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

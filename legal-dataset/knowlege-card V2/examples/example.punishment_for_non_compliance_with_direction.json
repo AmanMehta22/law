@@ -1,0 +1,31 @@
+{
+  "concept_id": "example.punishment_for_non_compliance_with_direction",
+  "concept_type": "example",
+  "title": "Punishment for non-compliance with direction",
+  "description": "Illustrative example for: penalty.failing_to_comply_with_order_made_by_the_district_commission",
+  "content": {
+    "scenario": "A retailer, ABC Stores, is ordered by the District Commission to refund a customer for a faulty product. However, the retailer fails to comply with the order, prompting the customer to file a complaint for non-compliance.",
+    "outcome": "The District Commission finds ABC Stores guilty of non-compliance and imposes a fine of fifty thousand rupees. The retailer is also sentenced to imprisonment for six months, which is suspended for a year, provided the retailer complies with the original order."
+  },
+  "derived_from": [
+    "penalty.failing_to_comply_with_order_made_by_the_district_commission"
+  ],
+  "related_concepts": [
+    "penalty.failing_to_comply_with_order_made_by_the_district_commission"
+  ],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}
