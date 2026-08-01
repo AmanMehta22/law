@@ -1,0 +1,30 @@
+{
+  "concept_id": "timeline.every_year",
+  "concept_type": "timeline",
+  "title": "Meeting time limit",
+  "description": "...",
+  "content": {
+    "duration": "every year",
+    "trigger": "from the date of the order",
+    "exceptions": []
+  },
+  "derived_from": [
+    "CPA2019-CH2-S4-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "TimelineAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

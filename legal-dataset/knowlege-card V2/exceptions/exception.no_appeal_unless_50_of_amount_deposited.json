@@ -1,0 +1,40 @@
+{
+  "concept_id": "exception.no_appeal_unless_50_of_amount_deposited",
+  "concept_type": "exception",
+  "title": "Deposit for appeal",
+  "description": "Condition for appeal by person required to pay amount",
+  "content": {
+    "general_rule": "Appeal to State Commission",
+    "exception": "No appeal unless 50% of amount deposited",
+    "conditions": [
+      "appellant required to pay amount in terms of District Commission order",
+      "deposit 50% of amount in prescribed manner"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S41"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "appeal deposit",
+      "50% deposit"
+    ],
+    "aliases": [
+      "payment condition"
+    ],
+    "user_queries": [
+      "Do I need to pay to appeal?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "concept_id": "exception.does_not_include_a_person_who_acts_only_in_a_financial_capac",
+  "concept_type": "exception",
+  "title": "Financial capacity",
+  "description": "...",
+  "content": {
+    "general_rule": "A person who is involved in placing a product for commercial purpose",
+    "exception": "Does not include a person who acts only in a financial capacity with respect to the sale of the product",
+    "conditions": []
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-37"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

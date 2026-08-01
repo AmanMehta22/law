@@ -1,0 +1,39 @@
+{
+  "concept_id": "exception.shall_not_admit_a_complaint_unless_it_is_filed_within_two_ye",
+  "concept_type": "exception",
+  "title": "Time limit for filing complaint",
+  "description": "Complaint filing time limit exception",
+  "content": {
+    "general_rule": "The District Commission, the State Commission or the National Commission shall admit a complaint",
+    "exception": "shall not admit a complaint unless it is filed within two years from the date on which the cause of action has arisen",
+    "conditions": [
+      "it is filed within two years from the date on which the cause of action has arisen"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S69-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "time limit",
+      "complaint filing"
+    ],
+    "aliases": [
+      "statute of limitations"
+    ],
+    "user_queries": [
+      "What is the time limit for filing a complaint?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

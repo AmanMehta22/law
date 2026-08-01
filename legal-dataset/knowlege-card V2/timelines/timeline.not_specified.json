@@ -1,0 +1,43 @@
+{
+  "concept_id": "timeline.not_specified",
+  "concept_type": "timeline",
+  "title": "Mediation time limit",
+  "description": "time within which mediation may be conducted",
+  "content": {
+    "duration": "not specified",
+    "trigger": "not specified",
+    "exceptions": []
+  },
+  "derived_from": [
+    "CPA2019-CH8-S103-2",
+    "CPA2019-CH8-S104-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "mediation",
+      "time limit",
+      "inquiries",
+      "investigation",
+      "submission"
+    ],
+    "aliases": [
+      "mediation period",
+      "time for submission"
+    ],
+    "user_queries": [
+      "how long does mediation take",
+      "time limit for submitting inquiries"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "TimelineAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

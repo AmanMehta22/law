@@ -1,0 +1,32 @@
+{
+  "concept_id": "exception.the_complaint_under_this_sub_section_may_be_filed_electronic",
+  "concept_type": "exception",
+  "title": "Electronic filing of complaint",
+  "description": "Complaint may be filed electronically",
+  "content": {
+    "general_rule": "A complaint may be filed with a District Commission",
+    "exception": "The complaint under this sub-section may be filed electronically",
+    "conditions": [
+      "in such manner as may be prescribed"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S35-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

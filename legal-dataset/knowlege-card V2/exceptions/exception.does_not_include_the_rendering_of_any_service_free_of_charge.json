@@ -1,0 +1,35 @@
+{
+  "concept_id": "exception.does_not_include_the_rendering_of_any_service_free_of_charge",
+  "concept_type": "exception",
+  "title": "Service excludes free of charge or personal service",
+  "description": "Exclusion of certain services from the definition of service",
+  "content": {
+    "general_rule": "Service of any description made available to potential users",
+    "exception": "Does not include the rendering of any service free of charge or under a contract of personal service",
+    "conditions": []
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-42"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "free of charge",
+      "personal service"
+    ],
+    "aliases": [
+      "excluded services"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "concept_id": "timeline.up_to_two_years",
+  "concept_type": "timeline",
+  "title": "Licence suspension period",
+  "description": "suspension of licence for first conviction",
+  "content": {
+    "duration": "up to two years",
+    "trigger": "in case of first conviction",
+    "exceptions": []
+  },
+  "derived_from": [
+    "CPA2019-CH7-S90-3",
+    "CPA2019-CH7-S91-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "TimelineAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "concept_id": "exception.the_chief_commissioner_may_delegate_such_powers_to_any_commi",
+  "concept_type": "exception",
+  "title": "Delegation of powers",
+  "description": "Delegation of administrative powers by Chief Commissioner",
+  "content": {
+    "general_rule": "The Chief Commissioner has powers of general superintendence, direction and control in respect of all administrative matters of the Central Authority",
+    "exception": "The Chief Commissioner may delegate such powers to any Commissioner or any other officer of the Central Authority",
+    "conditions": [
+      "as he may think fit"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S14-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "delegation of powers",
+      "Chief Commissioner",
+      "Central Authority"
+    ],
+    "aliases": [
+      "administrative matters"
+    ],
+    "user_queries": [
+      "Can the Chief Commissioner delegate powers?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

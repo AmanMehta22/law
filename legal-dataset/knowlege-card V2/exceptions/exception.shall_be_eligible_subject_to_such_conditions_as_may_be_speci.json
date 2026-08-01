@@ -1,0 +1,36 @@
+{
+  "concept_id": "exception.shall_be_eligible_subject_to_such_conditions_as_may_be_speci",
+  "concept_type": "exception",
+  "title": "Re-empanelment eligibility",
+  "description": "Conditions for re-empanelment",
+  "content": {
+    "general_rule": "The empanelled mediators shall be eligible to be considered for re-empanelment for another term",
+    "exception": "shall be eligible... subject to such conditions as may be specified by regulations",
+    "conditions": [
+      "such conditions as may be specified by regulations"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S75-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "re-empanelment",
+      "mediators",
+      "eligibility"
+    ],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "concept_id": "exception.unless_a_retired_judge_of_a_high_court_or_a_person_who_has_b",
+  "concept_type": "exception",
+  "title": "Exception to performance of duties by senior-most member",
+  "description": "Performance of duties by senior-most member in absence of President",
+  "content": {
+    "general_rule": "The senior-most member of the National Commission performs the duties of the President in his absence",
+    "exception": "Unless a retired Judge of a High Court or a person who has been a Judicial Member is a member of the National Commission, in which case such member shall preside",
+    "conditions": [
+      "the person is a retired Judge of a High Court or a person who has been a Judicial Member",
+      "the person is a member of the National Commission"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S63"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "President",
+      "absence"
+    ],
+    "aliases": [
+      "senior-most member",
+      "Judicial Member"
+    ],
+    "user_queries": [
+      "Who presides over the National Commission in the absence of the President?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

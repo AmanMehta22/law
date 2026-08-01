@@ -1,0 +1,39 @@
+{
+  "concept_id": "exception.the_central_authority_may_prohibit_such_endorser_from_making",
+  "concept_type": "exception",
+  "title": "Subsequent Contravention",
+  "description": "Extended prohibition period for subsequent contraventions",
+  "content": {
+    "general_rule": "The Central Authority may prohibit the endorser of a false or misleading advertisement from making endorsement of any product or service for a period which may extend to one year",
+    "exception": "The Central Authority may prohibit such endorser from making endorsement in respect of any product or service for a period which may extend to three years for subsequent contraventions",
+    "conditions": [
+      "subsequent contravention"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S21-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "subsequent contravention",
+      "endorsement prohibition"
+    ],
+    "aliases": [
+      "repeat offense"
+    ],
+    "user_queries": [
+      "what happens if an endorser violates the rule again"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "concept_id": "exception.the_central_government_can_prescribe_a_different_value",
+  "concept_type": "exception",
+  "title": "Central Government override",
+  "description": "The Central Government can prescribe a different value for the jurisdiction of the State Commission",
+  "content": {
+    "general_rule": "The State Commission has jurisdiction over complaints where the value of goods or services exceeds one crore but does not exceed ten crore rupees",
+    "exception": "The Central Government can prescribe a different value",
+    "conditions": [
+      "The Central Government deems it necessary"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S47-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

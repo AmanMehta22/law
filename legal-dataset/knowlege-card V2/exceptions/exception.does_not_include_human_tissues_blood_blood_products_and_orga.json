@@ -1,0 +1,30 @@
+{
+  "concept_id": "exception.does_not_include_human_tissues_blood_blood_products_and_orga",
+  "concept_type": "exception",
+  "title": "Exclusion of human tissues, blood, blood products and organs",
+  "description": "The definition of product excludes certain items",
+  "content": {
+    "general_rule": "Any article or goods or substance or raw material is a product",
+    "exception": "Does not include human tissues, blood, blood products and organs",
+    "conditions": []
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-33"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "concept_id": "exception.adjournment_may_be_granted_if_sufficient_cause_is_shown",
+  "concept_type": "exception",
+  "title": "Adjournment Exception",
+  "description": "Adjournment not granted unless sufficient cause is shown",
+  "content": {
+    "general_rule": "No adjournment shall be granted by the District Commission",
+    "exception": "Adjournment may be granted if sufficient cause is shown",
+    "conditions": [
+      "sufficient cause is shown",
+      "reasons for grant of adjournment have been recorded in writing by the Commission"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-7"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "adjournment",
+      "sufficient cause"
+    ],
+    "aliases": [
+      "delay",
+      "postponement"
+    ],
+    "user_queries": [
+      "when can adjournment be granted"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

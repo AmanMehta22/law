@@ -1,0 +1,41 @@
+{
+  "concept_id": "exception.does_not_apply_without_permission_of_the_district_commission",
+  "concept_type": "exception",
+  "title": "Permission from District Commission",
+  "description": "Institution of complaint in a District Commission where any of the opposite parties resides or carries on business",
+  "content": {
+    "general_rule": "A complaint can be instituted in a District Commission where any of the opposite parties resides or carries on business",
+    "exception": "Does not apply without permission of the District Commission",
+    "conditions": [
+      "the permission of the District Commission is given"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S34-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "permission",
+      "District Commission"
+    ],
+    "aliases": [
+      "leave",
+      "consent"
+    ],
+    "user_queries": [
+      "institution of complaint",
+      "jurisdiction of District Commission"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "concept_id": "exception.does_not_apply_to_persons_who_commit_the_same_or_similar_off",
+  "concept_type": "exception",
+  "title": "Repeat offence within three years",
+  "description": "Exception to application of sub-section (1)",
+  "content": {
+    "general_rule": "Sub-section (1) applies to persons who commit an offence",
+    "exception": "Does not apply to persons who commit the same or similar offence within three years from the date on which the first offence was compounded",
+    "conditions": [
+      "within a period of three years from the date on which the first offence was compounded"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S96-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "repeat offence",
+      "compounding of offence"
+    ],
+    "aliases": [
+      "exception to sub-section (1)"
+    ],
+    "user_queries": [
+      "What are the exceptions to sub-section (1)?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

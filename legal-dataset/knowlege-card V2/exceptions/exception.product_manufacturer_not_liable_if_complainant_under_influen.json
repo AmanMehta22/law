@@ -1,0 +1,39 @@
+{
+  "concept_id": "exception.product_manufacturer_not_liable_if_complainant_under_influen",
+  "concept_type": "exception",
+  "title": "Complainant Under Influence Exception",
+  "description": "Product manufacturer not liable if complainant under influence of alcohol or prescription drug",
+  "content": {
+    "general_rule": "Product manufacturer liable for failure to provide adequate warnings or instructions",
+    "exception": "Product manufacturer not liable if complainant under influence of alcohol or prescription drug",
+    "conditions": [
+      "complainant was under the influence of alcohol or any prescription drug which had not been prescribed by a medical practitioner"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH6-S87-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "product liability",
+      "complainant under influence"
+    ],
+    "aliases": [
+      "exception to product liability"
+    ],
+    "user_queries": [
+      "product manufacturer not liable"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

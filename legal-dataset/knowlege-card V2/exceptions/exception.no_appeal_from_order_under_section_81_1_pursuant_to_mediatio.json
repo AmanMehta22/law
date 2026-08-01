@@ -1,0 +1,40 @@
+{
+  "concept_id": "exception.no_appeal_from_order_under_section_81_1_pursuant_to_mediatio",
+  "concept_type": "exception",
+  "title": "No appeal from mediated settlement",
+  "description": "Exclusion of appeal from mediated settlement orders",
+  "content": {
+    "general_rule": "Appeal from District Commission order",
+    "exception": "No appeal from order under section 81(1) pursuant to mediation under section 80",
+    "conditions": [
+      "order passed under section 81(1)",
+      "pursuant to settlement by mediation under section 80"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S41"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "mediated settlement",
+      "no appeal"
+    ],
+    "aliases": [
+      "excluded appeal"
+    ],
+    "user_queries": [
+      "Can I appeal a mediated settlement?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

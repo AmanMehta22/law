@@ -1,0 +1,30 @@
+{
+  "concept_id": "timeline.ninety_days",
+  "concept_type": "timeline",
+  "title": "Appeal disposal time limit",
+  "description": "dispose of the appeal",
+  "content": {
+    "duration": "ninety days",
+    "trigger": "from the date of its admission",
+    "exceptions": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S52"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "TimelineAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "concept_id": "exception.does_not_include_a_laboratory_or_an_organisation_that_is_not",
+  "concept_type": "exception",
+  "title": "State Government recognition",
+  "description": "...",
+  "content": {
+    "general_rule": "A laboratory or an organisation is recognised by the Central Government; or (ii) recognised by a State Government",
+    "exception": "Does not include a laboratory or an organisation that is not recognised by a State Government",
+    "conditions": [
+      "subject to such guidelines as may be issued by the Central Government in this behalf"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

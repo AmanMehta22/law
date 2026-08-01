@@ -1,0 +1,41 @@
+{
+  "concept_id": "exception.no_act_or_proceeding_of_the_central_authority_shall_be_inval",
+  "concept_type": "exception",
+  "title": "Invalidation of Central Authority acts",
+  "description": "Acts of the Central Authority are not invalid due to certain reasons",
+  "content": {
+    "general_rule": "Any act or proceeding of the Central Authority can be invalid",
+    "exception": "No act or proceeding of the Central Authority shall be invalid merely by reason of vacancy, defect in constitution, defect in appointment, or irregularity in procedure not affecting the merits of the case",
+    "conditions": [
+      "vacancy in, or defect in the constitution of, the Central Authority",
+      "defect in the appointment of a person acting as the Chief Commissioner or as a Commissioner",
+      "irregularity in the procedure of the Central Authority not affecting the merits of the case"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S12"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "Central Authority",
+      "invalidation"
+    ],
+    "aliases": [
+      "validity of acts"
+    ],
+    "user_queries": [
+      "What makes Central Authority acts invalid?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "concept_id": "exception.except_such_contest_lottery_game_of_chance_or_skill_as_may_b",
+  "concept_type": "exception",
+  "title": "Contest, lottery, game of chance or skill exception",
+  "description": "Certain contests, lotteries, games of chance or skill are exempted from the unfair trade practice of promoting the sale, use or supply of any product or business interest",
+  "content": {
+    "general_rule": "Permitting the conduct of any contest, lottery, game of chance or skill for the purpose of promoting the sale, use or supply of any product or business interest is an unfair trade practice",
+    "exception": "Except such contest, lottery, game of chance or skill as may be prescribed",
+    "conditions": [
+      "prescribed by the competent authority"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-47"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "contest",
+      "lottery",
+      "game of chance",
+      "skill"
+    ],
+    "aliases": [
+      "promotion",
+      "sale"
+    ],
+    "user_queries": [
+      "What are the exceptions to unfair trade practices in contests and lotteries?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

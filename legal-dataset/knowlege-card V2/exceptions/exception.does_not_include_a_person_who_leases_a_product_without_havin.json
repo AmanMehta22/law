@@ -1,0 +1,30 @@
+{
+  "concept_id": "exception.does_not_include_a_person_who_leases_a_product_without_havin",
+  "concept_type": "exception",
+  "title": "Leasing a product",
+  "description": "...",
+  "content": {
+    "general_rule": "A person who is involved in placing a product for commercial purpose",
+    "exception": "Does not include a person who leases a product, without having a reasonable opportunity to inspect and discover defects in the product, under a lease arrangement in which the selection, possession, maintenance, and operation of the product are controlled by a person other than the lessor",
+    "conditions": []
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-37"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

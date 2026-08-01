@@ -1,0 +1,39 @@
+{
+  "concept_id": "exception.does_not_apply_without_permission_of_the_state_commission_in",
+  "concept_type": "exception",
+  "title": "Permission from State Commission",
+  "description": "Institution of complaint in State Commission",
+  "content": {
+    "general_rule": "A complaint shall be instituted in a State Commission within the limits of whose jurisdiction the opposite party or each of the opposite parties resides or carries on business",
+    "exception": "Does not apply without permission of the State Commission in case of voluntary residence or business of opposite party",
+    "conditions": [
+      "permission of the State Commission is given"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S47-4"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "State Commission permission",
+      "complaint institution"
+    ],
+    "aliases": [
+      "voluntary residence exception"
+    ],
+    "user_queries": [
+      "complaint filing exception"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

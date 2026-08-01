@@ -1,0 +1,32 @@
+{
+  "concept_id": "exception.shall_also_be_signed_by_the_other_member",
+  "concept_type": "exception",
+  "title": "Signature of order by members",
+  "description": "Exception to signing of order by President and conducting member",
+  "content": {
+    "general_rule": "Every order made by the District Commission under sub-section (1) shall be signed by the President and the member who conducted the proceeding",
+    "exception": "shall also be signed by the other member",
+    "conditions": [
+      "where the order is made as per majority opinion under sub-section (3)"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S39-4"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

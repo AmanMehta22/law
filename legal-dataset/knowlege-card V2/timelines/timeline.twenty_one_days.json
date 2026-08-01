@@ -1,0 +1,39 @@
+{
+  "concept_id": "timeline.twenty_one_days",
+  "concept_type": "timeline",
+  "title": "Admissibility decision time limit",
+  "description": "Decision on admissibility of complaint",
+  "content": {
+    "duration": "twenty-one days",
+    "trigger": "from the date on which the complaint was filed",
+    "exceptions": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S36-2",
+    "CPA2019-CH4-S38-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "admissibility",
+      "complaint",
+      "decision"
+    ],
+    "aliases": [
+      "complaint admission"
+    ],
+    "user_queries": [
+      "time limit for complaint admissibility decision"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "TimelineAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

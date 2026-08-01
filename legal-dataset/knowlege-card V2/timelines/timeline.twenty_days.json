@@ -1,0 +1,30 @@
+{
+  "concept_id": "timeline.twenty_days",
+  "concept_type": "timeline",
+  "title": "Return of seized documents time limit",
+  "description": "Return of seized documents",
+  "content": {
+    "duration": "twenty days",
+    "trigger": "from the date of such seizure or production",
+    "exceptions": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S22-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "TimelineAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "concept_id": "timeline.five_months",
+  "concept_type": "timeline",
+  "title": "Complaint disposal time limit with analysis or testing",
+  "description": "Complaint disposal time limit with analysis or testing",
+  "content": {
+    "duration": "five months",
+    "trigger": "from the date of receipt of notice by opposite party",
+    "exceptions": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-7"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "TimelineAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

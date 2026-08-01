@@ -1,0 +1,40 @@
+{
+  "concept_id": "exception.endorser_is_not_liable_to_a_penalty_if_he_has_exercised_due_",
+  "concept_type": "exception",
+  "title": "Endorser exemption from penalty",
+  "description": "Endorser not liable to penalty if due diligence exercised",
+  "content": {
+    "general_rule": "Endorser is liable to a penalty under sub-sections (2) and (3)",
+    "exception": "Endorser is not liable to a penalty if he has exercised due diligence to verify the veracity of the claims made in the advertisement",
+    "conditions": [
+      "he has exercised due diligence to verify the veracity of the claims made in the advertisement regarding the product or service being endorsed by him"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S21-5"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "endorser",
+      "penalty",
+      "due diligence"
+    ],
+    "aliases": [
+      "exemption from penalty"
+    ],
+    "user_queries": [
+      "endorser liability"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

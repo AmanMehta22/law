@@ -1,0 +1,30 @@
+{
+  "concept_id": "exception.subject_to_the_general_control_supervision_and_direction_of_",
+  "concept_type": "exception",
+  "title": "Control and supervision exception",
+  "description": "Exception to the exercise of powers and discharge of functions",
+  "content": {
+    "general_rule": "Every Additional Director-General, Director, Joint Director, Deputy Director and Assistant Director shall exercise his powers, and discharge his functions",
+    "exception": "subject to the general control, supervision and direction of the Director-General",
+    "conditions": []
+  },
+  "derived_from": [
+    "CPA2019-CH3-S15-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

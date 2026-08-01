@@ -1,0 +1,41 @@
+{
+  "concept_id": "exception.if_the_product_was_misused_altered_or_modified_at_the_time_o",
+  "concept_type": "exception",
+  "title": "Product Liability Exception",
+  "description": "Exception to product liability action",
+  "content": {
+    "general_rule": "A product liability action can be brought against the product seller",
+    "exception": "if the product was misused, altered, or modified at the time of harm",
+    "conditions": [
+      "the product was misused",
+      "the product was altered",
+      "the product was modified"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH6-S87-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "product liability",
+      "misuse",
+      "alteration",
+      "modification"
+    ],
+    "aliases": [
+      "product seller exception"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

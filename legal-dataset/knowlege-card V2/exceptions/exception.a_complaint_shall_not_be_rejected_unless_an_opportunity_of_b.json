@@ -1,0 +1,32 @@
+{
+  "concept_id": "exception.a_complaint_shall_not_be_rejected_unless_an_opportunity_of_b",
+  "concept_type": "exception",
+  "title": "Complaint rejection exception",
+  "description": "Complaint rejection with opportunity to be heard",
+  "content": {
+    "general_rule": "The District Commission may reject a complaint",
+    "exception": "A complaint shall not be rejected unless an opportunity of being heard has been given to the complainant",
+    "conditions": [
+      "an opportunity of being heard has been given to the complainant"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S36-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

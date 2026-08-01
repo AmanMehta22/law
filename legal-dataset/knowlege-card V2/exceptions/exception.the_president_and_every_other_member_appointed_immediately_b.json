@@ -1,0 +1,41 @@
+{
+  "concept_id": "exception.the_president_and_every_other_member_appointed_immediately_b",
+  "concept_type": "exception",
+  "title": "Continuance of old Act for certain members",
+  "description": "Members appointed before commencement of section 177 of Finance Act, 2017",
+  "content": {
+    "general_rule": "This Act applies to all members",
+    "exception": "The President and every other member appointed immediately before the commencement of section 177 of the Finance Act, 2017 shall continue to be governed by the provisions of the Consumer Protection Act, 1986",
+    "conditions": [
+      "appointed immediately before the commencement of section 177 of the Finance Act, 2017"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S56"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "Consumer Protection Act, 1986",
+      "Finance Act, 2017"
+    ],
+    "aliases": [
+      "old Act",
+      "new Act"
+    ],
+    "user_queries": [
+      "transition provisions",
+      "continuance of old Act"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

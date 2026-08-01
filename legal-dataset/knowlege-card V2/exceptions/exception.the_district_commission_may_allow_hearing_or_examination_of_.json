@@ -1,0 +1,45 @@
+{
+  "concept_id": "exception.the_district_commission_may_allow_hearing_or_examination_of_",
+  "concept_type": "exception",
+  "title": "Hearing through affidavit and documentary evidence",
+  "description": "Complaint hearing procedure",
+  "content": {
+    "general_rule": "Every complaint shall be heard by the District Commission on the basis of affidavit and documentary evidence placed on record",
+    "exception": "The District Commission may allow hearing or examination of parties in person or through video conferencing",
+    "conditions": [
+      "an application is made for hearing or for examination of parties in person or through video conferencing",
+      "sufficient cause being shown",
+      "after recording its reasons in writing"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-6"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "complaint hearing",
+      "affidavit",
+      "documentary evidence",
+      "video conferencing"
+    ],
+    "aliases": [
+      "in-person hearing",
+      "video conference hearing"
+    ],
+    "user_queries": [
+      "How are complaints heard?",
+      "What is the procedure for complaint hearing?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

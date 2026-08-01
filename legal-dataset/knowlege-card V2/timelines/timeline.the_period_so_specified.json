@@ -1,0 +1,30 @@
+{
+  "concept_id": "timeline.the_period_so_specified",
+  "concept_type": "timeline",
+  "title": "Admissibility of the complaint",
+  "description": "...",
+  "content": {
+    "duration": "the period so specified",
+    "trigger": "from the date of the order",
+    "exceptions": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S36-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "TimelineAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

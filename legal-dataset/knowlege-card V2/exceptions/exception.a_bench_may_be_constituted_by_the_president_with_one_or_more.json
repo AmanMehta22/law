@@ -1,0 +1,32 @@
+{
+  "concept_id": "exception.a_bench_may_be_constituted_by_the_president_with_one_or_more",
+  "concept_type": "exception",
+  "title": "Bench Constitution",
+  "description": "Exception to the general rule of National Commission's jurisdiction",
+  "content": {
+    "general_rule": "The jurisdiction, powers and authority of the National Commission may be exercised by Benches thereof",
+    "exception": "a Bench may be constituted by the President with one or more members as he may deem fit",
+    "conditions": [
+      "the senior-most member of the Bench shall preside over the Bench"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S58-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

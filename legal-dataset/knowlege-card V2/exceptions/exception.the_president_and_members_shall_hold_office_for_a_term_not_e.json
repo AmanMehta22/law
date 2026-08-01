@@ -1,0 +1,41 @@
+{
+  "concept_id": "exception.the_president_and_members_shall_hold_office_for_a_term_not_e",
+  "concept_type": "exception",
+  "title": "Term of office of President and members",
+  "description": "Exceptions to term of office and age limit",
+  "content": {
+    "general_rule": "The Central Government may make rules for qualifications, appointment, term of office, etc. of the President and members of the National Commission",
+    "exception": "The President and members shall hold office for a term not exceeding five years and be eligible for re-appointment, with a maximum age limit",
+    "conditions": [
+      "not exceeding five years from the date on which he enters upon his office",
+      "not exceeding seventy years for the President",
+      "not exceeding sixty-seven years for any other member"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S55-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "term of office",
+      "age limit",
+      "re-appointment"
+    ],
+    "aliases": [
+      "National Commission membership",
+      "President term"
+    ],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

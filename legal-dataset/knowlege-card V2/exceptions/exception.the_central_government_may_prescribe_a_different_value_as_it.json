@@ -1,0 +1,32 @@
+{
+  "concept_id": "exception.the_central_government_may_prescribe_a_different_value_as_it",
+  "concept_type": "exception",
+  "title": "Central Government discretion on value",
+  "description": "The Central Government has discretion to prescribe a different value for consideration",
+  "content": {
+    "general_rule": "The National Commission has jurisdiction over complaints where the value of goods or services exceeds rupees ten crore",
+    "exception": "The Central Government may prescribe a different value as it deems fit",
+    "conditions": [
+      "The Central Government deems it necessary"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S58-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "concept_id": "exception.state_commission_may_entertain_appeal_after_45_days",
+  "concept_type": "exception",
+  "title": "Delayed appeal",
+  "description": "Allowing appeal after 45 days",
+  "content": {
+    "general_rule": "Appeal to State Commission within 45 days",
+    "exception": "State Commission may entertain appeal after 45 days",
+    "conditions": [
+      "sufficient cause for not filing within 45 days"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S41"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "delayed appeal",
+      "sufficient cause"
+    ],
+    "aliases": [
+      "late appeal"
+    ],
+    "user_queries": [
+      "Can I appeal after 45 days?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

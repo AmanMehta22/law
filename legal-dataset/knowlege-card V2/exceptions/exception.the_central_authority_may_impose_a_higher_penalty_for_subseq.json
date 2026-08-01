@@ -1,0 +1,39 @@
+{
+  "concept_id": "exception.the_central_authority_may_impose_a_higher_penalty_for_subseq",
+  "concept_type": "exception",
+  "title": "Subsequent Contravention Penalty",
+  "description": "Increased penalty for subsequent contraventions",
+  "content": {
+    "general_rule": "The Central Authority may impose a penalty of up to ten lakh rupees for false or misleading advertisement",
+    "exception": "The Central Authority may impose a higher penalty for subsequent contraventions",
+    "conditions": [
+      "subsequent contravention by a manufacturer or endorser"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S21-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "subsequent contravention",
+      "penalty increase"
+    ],
+    "aliases": [
+      "increased penalty"
+    ],
+    "user_queries": [
+      "what is the penalty for repeated false advertising"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

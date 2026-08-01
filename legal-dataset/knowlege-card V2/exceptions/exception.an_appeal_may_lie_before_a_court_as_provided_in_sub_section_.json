@@ -1,0 +1,40 @@
+{
+  "concept_id": "exception.an_appeal_may_lie_before_a_court_as_provided_in_sub_section_",
+  "concept_type": "exception",
+  "title": "Appeal Exception",
+  "description": "Exception to the general rule that no appeal shall lie before any court",
+  "content": {
+    "general_rule": "No appeal shall lie before any court from any order of a District Commission or a State Commission or the National Commission",
+    "exception": "An appeal may lie before a court as provided in sub-section (1)",
+    "conditions": [
+      "as provided in sub-section (1)"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S73-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "appeal",
+      "court",
+      "commission"
+    ],
+    "aliases": [
+      "exception to appeal rule"
+    ],
+    "user_queries": [
+      "what are the exceptions to the appeal rule"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

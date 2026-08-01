@@ -1,0 +1,39 @@
+{
+  "concept_id": "exception.does_not_include_harm_caused_to_a_product_itself_or_any_dama",
+  "concept_type": "exception",
+  "title": "Exclusion of harm to product itself and certain losses",
+  "description": "The provision excludes harm caused to a product itself and certain losses from the definition of harm in relation to product liability",
+  "content": {
+    "general_rule": "Harm in relation to product liability includes various types of damage or loss",
+    "exception": "Does not include harm caused to a product itself or any damage to the property on account of breach of warranty conditions or any commercial or economic loss",
+    "conditions": []
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-22"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "product liability",
+      "harm",
+      "exclusion"
+    ],
+    "aliases": [
+      "damage to product",
+      "commercial loss"
+    ],
+    "user_queries": [
+      "What is not included in the definition of harm in relation to product liability?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

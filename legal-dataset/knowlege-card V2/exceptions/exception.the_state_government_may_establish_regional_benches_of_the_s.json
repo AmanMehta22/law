@@ -1,0 +1,41 @@
+{
+  "concept_id": "exception.the_state_government_may_establish_regional_benches_of_the_s",
+  "concept_type": "exception",
+  "title": "Regional benches establishment",
+  "description": "Establishment of regional benches",
+  "content": {
+    "general_rule": "The State Commission shall ordinarily function at the State capital",
+    "exception": "The State Government may establish regional benches of the State Commission at other places",
+    "conditions": [
+      "by notification",
+      "in consultation with the State Commission"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S42-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "State Commission",
+      "regional benches"
+    ],
+    "aliases": [
+      "State Consumer Commission"
+    ],
+    "user_queries": [
+      "consumer protection",
+      "regional benches"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

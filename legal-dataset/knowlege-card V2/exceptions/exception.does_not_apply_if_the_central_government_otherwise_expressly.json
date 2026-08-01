@@ -1,0 +1,35 @@
+{
+  "concept_id": "exception.does_not_apply_if_the_central_government_otherwise_expressly",
+  "concept_type": "exception",
+  "title": "Central Government Notification Exception",
+  "description": "Exception to the application of the Act",
+  "content": {
+    "general_rule": "This Act applies to all goods and services",
+    "exception": "Does not apply if the Central Government otherwise expressly provides by notification",
+    "conditions": [
+      "express notification by the Central Government"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S1-4"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "Central Government",
+      "notification"
+    ],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

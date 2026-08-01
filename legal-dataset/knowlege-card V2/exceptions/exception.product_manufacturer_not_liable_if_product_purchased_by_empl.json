@@ -1,0 +1,41 @@
+{
+  "concept_id": "exception.product_manufacturer_not_liable_if_product_purchased_by_empl",
+  "concept_type": "exception",
+  "title": "Employer Purchase Exception",
+  "description": "Product manufacturer not liable if product purchased by employer for workplace use with adequate warnings",
+  "content": {
+    "general_rule": "Product manufacturer liable for failure to provide adequate warnings or instructions",
+    "exception": "Product manufacturer not liable if product purchased by employer for workplace use with adequate warnings",
+    "conditions": [
+      "product was purchased by an employer for use at the workplace",
+      "product manufacturer had provided warnings or instructions to such employer"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH6-S87-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "product liability",
+      "employer purchase",
+      "workplace use"
+    ],
+    "aliases": [
+      "exception to product liability"
+    ],
+    "user_queries": [
+      "product manufacturer not liable"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

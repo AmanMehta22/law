@@ -1,0 +1,32 @@
+{
+  "concept_id": "exception.shall_be_deemed_to_have_been_done_or_taken_under_the_corresp",
+  "concept_type": "exception",
+  "title": "Action taken under repealed Act",
+  "description": "Action taken under repealed Act deemed done under this Act",
+  "content": {
+    "general_rule": "Anything done or any action taken under the repealed Act is repealed",
+    "exception": "Shall be deemed to have been done or taken under the corresponding provisions of this Act",
+    "conditions": [
+      "in so far as it is not inconsistent with the provisions of this Act"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S107-2"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

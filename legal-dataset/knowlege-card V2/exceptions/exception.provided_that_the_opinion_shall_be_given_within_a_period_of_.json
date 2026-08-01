@@ -1,0 +1,39 @@
+{
+  "concept_id": "exception.provided_that_the_opinion_shall_be_given_within_a_period_of_",
+  "concept_type": "exception",
+  "title": "Time limit for President's opinion",
+  "description": "The President or other member has a time limit to give opinion on referred points",
+  "content": {
+    "general_rule": "The President or other member shall give opinion on the point or points so referred",
+    "exception": "Provided that the opinion shall be given within a period of two months from the date of such reference",
+    "conditions": [
+      "within a period of two months from the date of such reference"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S58-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "time limit",
+      "President's opinion"
+    ],
+    "aliases": [
+      "opinion timeframe"
+    ],
+    "user_queries": [
+      "What is the time limit for the President's opinion?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

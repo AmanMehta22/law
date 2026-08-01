@@ -1,0 +1,32 @@
+{
+  "concept_id": "exception.the_other_member_shall_give_his_opinion_on_such_point_or_poi",
+  "concept_type": "exception",
+  "title": "Time limit for opinion",
+  "description": "Time limit for giving opinion on referred points",
+  "content": {
+    "general_rule": "The opinion of the majority shall be the order of the District Commission",
+    "exception": "The other member shall give his opinion on such point or points referred to him within a period of one month from the date of such reference",
+    "conditions": [
+      "within a period of one month from the date of such reference"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S39-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

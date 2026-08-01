@@ -1,0 +1,32 @@
+{
+  "concept_id": "exception.provided_that_the_central_government_may_frame_model_rules",
+  "concept_type": "exception",
+  "title": "State Government rule making",
+  "description": "State Governments making rules with a condition",
+  "content": {
+    "general_rule": "The State Governments may, by notification, make rules for carrying out the provisions of this Act",
+    "exception": "Provided that the Central Government may frame model rules",
+    "conditions": [
+      "where any such model rules have been framed in respect of any such matter, they shall apply to the State until the rules in respect of that matter is made by the State Government"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S102-1"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

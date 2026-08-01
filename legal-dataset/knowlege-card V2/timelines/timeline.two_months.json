@@ -1,0 +1,30 @@
+{
+  "concept_id": "timeline.two_months",
+  "concept_type": "timeline",
+  "title": "Reference opinion time limit",
+  "description": "President or other member to give opinion on referred point or points",
+  "content": {
+    "duration": "two months",
+    "trigger": "from the date of such reference",
+    "exceptions": []
+  },
+  "derived_from": [
+    "CPA2019-CH4-S58-3"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "TimelineAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

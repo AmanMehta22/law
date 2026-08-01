@@ -1,0 +1,33 @@
+{
+  "concept_id": "exception.no_adjournment_shall_ordinarily_be_granted",
+  "concept_type": "exception",
+  "title": "Adjournment exception",
+  "description": "Appeals to be disposed of within 90 days with no ordinary adjournment",
+  "content": {
+    "general_rule": "An appeal filed before the State Commission or the National Commission shall be heard as expeditiously as possible and every endeavour shall be made to dispose of the appeal within a period of ninety days",
+    "exception": "No adjournment shall ordinarily be granted",
+    "conditions": [
+      "sufficient cause is shown",
+      "the reasons for grant of adjournment have been recorded in writing"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S52"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [],
+    "aliases": [],
+    "user_queries": []
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

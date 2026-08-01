@@ -1,0 +1,42 @@
+{
+  "concept_id": "exception.such_defence_is_not_available_if_the_person_had_previous_kno",
+  "concept_type": "exception",
+  "title": "Defence not available with previous knowledge",
+  "description": "Defence of ordinary course of business not available if person had previous knowledge of order",
+  "content": {
+    "general_rule": "A person is not liable to penalty if they published an advertisement in the ordinary course of business",
+    "exception": "Such defence is not available if the person had previous knowledge of the order passed by the Central Authority",
+    "conditions": [
+      "previous knowledge of the order passed by the Central Authority for withdrawal or modification of such advertisement"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S21-6"
+  ],
+  "related_concepts": [],
+  "search": {
+    "keywords": [
+      "defence",
+      "ordinary course of business",
+      "previous knowledge"
+    ],
+    "aliases": [
+      "exemption",
+      "exception"
+    ],
+    "user_queries": [
+      "When is defence not available",
+      "What is the exception to the defence"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}
