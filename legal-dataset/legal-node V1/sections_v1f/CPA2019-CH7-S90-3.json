@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH7-S90-3",
+  "parent_id": "CPA2019-CH7-S90",
+  "path": [
+    "CPA2019",
+    "CH7",
+    "S90",
+    "(3)"
+  ],
+  "order": 3,
+  "node_type": "section",
+  "content_type": "penalty",
+  "act_id": "CPA2019",
+  "chapter_number": 7,
+  "section_number": "90",
+  "subsection_number": "(3)",
+  "official_text": "Notwithstanding the punishment under sub-section (1), the court may, in case of first conviction, suspend any licence issued to the person referred to in that sub-section, under any law for the time being in force, for a period up to two years, and in case of second or subsequent conviction, cancel the licence. Explanation.—For the purposes of this section,— (a) \"adulterant\" means any material including extraneous matter which is employed or used for making a product unsafe; (b) \"grievous hurt\" shall have the same meaning as assigned to it in section 320 of the Indian Penal Code.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "VII",
+      "section": "90",
+      "subsection": "(3)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 14,
+    "paragraph": 9
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "1495f9239d3471a8198a3c7548993955e1b08c0533c4b68c7de0fecfd4e99085",
+    "token_count": 97
+  }
+}

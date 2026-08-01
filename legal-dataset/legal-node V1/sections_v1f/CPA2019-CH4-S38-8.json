@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S38-8",
+  "parent_id": "CPA2019-CH4-S38",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S38",
+    "(8)"
+  ],
+  "order": 8,
+  "node_type": "section",
+  "content_type": "remedy",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "38",
+  "subsection_number": "(8)",
+  "official_text": "Where during the pendency of any proceeding before the District Commission, if it appears necessary, it may pass such interim order as is just and proper in the facts and circumstances of the case.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "38",
+      "subsection": "(8)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 20,
+    "paragraph": 2
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "6db16d4f570f5889fb22b18f12cc63881aa50dbe4f3c6d1a5bf75c12ac0f4f0e",
+    "token_count": 34
+  }
+}

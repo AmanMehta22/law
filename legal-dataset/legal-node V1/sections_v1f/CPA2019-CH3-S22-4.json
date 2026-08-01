@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH3-S22-4",
+  "parent_id": "CPA2019-CH3-S22",
+  "path": [
+    "CPA2019",
+    "CH3",
+    "S22",
+    "(4)"
+  ],
+  "order": 4,
+  "node_type": "section",
+  "content_type": "procedure",
+  "act_id": "CPA2019",
+  "chapter_number": 3,
+  "section_number": "22",
+  "subsection_number": "(4)",
+  "official_text": "Where any article seized under sub-section (1) are subject to speedy or natural decay, the Director-General or such other officer may dispose of the article in such manner as may be prescribed.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "III",
+      "section": "22",
+      "subsection": "(4)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 15,
+    "paragraph": 9
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "21bcc8fe62f6096c1e1058e9ccfac184bc45f7ca105d0f2d0ee608e6c6da81bb",
+    "token_count": 32
+  }
+}

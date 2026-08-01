@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH3-S21-1",
+  "parent_id": "CPA2019-CH3-S21",
+  "path": [
+    "CPA2019",
+    "CH3",
+    "S21",
+    "(1)"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "remedy",
+  "act_id": "CPA2019",
+  "chapter_number": 3,
+  "section_number": "21",
+  "subsection_number": "(1)",
+  "official_text": "Where the Central Authority is satisfied after investigation that any advertisement is false or misleading and is prejudicial to the interest of any consumer or is in contravention of consumer rights, it may, by order, issue directions to the concerned trader or manufacturer or endorser or advertiser or publisher, as the case may be, to discontinue such advertisement or to modify the same in such manner and within such time as may be specified in that order.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "III",
+      "section": "21",
+      "subsection": "(1)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 14,
+    "paragraph": 3
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "42682c9b478b018f55c83f6251b4204f524f9eb750a5620e35e8bdf61f76f032",
+    "token_count": 77
+  }
+}

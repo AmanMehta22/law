@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH5-S81-3",
+  "parent_id": "CPA2019-CH5-S81",
+  "path": [
+    "CPA2019",
+    "CH5",
+    "S81",
+    "(3)"
+  ],
+  "order": 3,
+  "node_type": "section",
+  "content_type": "procedure",
+  "act_id": "CPA2019",
+  "chapter_number": 5,
+  "section_number": "81",
+  "subsection_number": "(3)",
+  "official_text": "Where the consumer dispute could not be settled by mediation, the District Commission or the State Commission or the National Commission, as the case may be, shall continue to hear all the issues involved in such consumer dispute.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "V",
+      "section": "81",
+      "subsection": "(3)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 31,
+    "paragraph": 8
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "22ddbc0edeb5e49499a09e51d2bdc43ea888e7c00094f02be8f7665a032a05b0",
+    "token_count": 38
+  }
+}

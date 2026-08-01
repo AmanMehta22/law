@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S37-1",
+  "parent_id": "CPA2019-CH4-S37",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S37",
+    "(1)"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "procedure",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "37",
+  "subsection_number": "(1)",
+  "official_text": "At the first hearing of the complaint after its admission, or at any later stage, if it appears to the District Commission that there exists elements of a settlement which may be acceptable to the parties, except in such cases as may be prescribed, it may direct the parties to give in writing, within five days, consent to have their dispute settled by mediation in accordance with the provisions of Chapter V.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "37",
+      "subsection": "(1)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 18,
+    "paragraph": 11
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "03fb80b2e471b00ee4d7063aca2c4931b23327347f3f1b93946bbf64a0c5ed29",
+    "token_count": 72
+  }
+}

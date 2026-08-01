@@ -1,0 +1,39 @@
+{
+  "id": "CPA2019-CH4-S68",
+  "parent_id": "CPA2019-CH4",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S68"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "remedy",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "68",
+  "subsection_number": "",
+  "official_text": "Every order of a District Commission or the State Commission or the National Commission, as the case may be, shall, if no appeal has been preferred against such order under the provisions of this Act, be final.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "68",
+      "subsection": ""
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 28,
+    "paragraph": 3
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "075350e2b99f87da4c14ae1fead7b29513fbd130e3142f27c6e4576dab155e11",
+    "token_count": 37
+  }
+}

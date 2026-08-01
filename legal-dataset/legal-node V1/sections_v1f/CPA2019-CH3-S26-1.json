@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH3-S26-1",
+  "parent_id": "CPA2019-CH3-S26",
+  "path": [
+    "CPA2019",
+    "CH3",
+    "S26",
+    "(1)"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "obligation",
+  "act_id": "CPA2019",
+  "chapter_number": 3,
+  "section_number": "26",
+  "subsection_number": "(1)",
+  "official_text": "The Central Authority shall maintain proper accounts and other relevant records and prepare an annual statement of accounts in such form and manner as may be prescribed in consultation with the Comptroller and Auditor-General of India.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "III",
+      "section": "26",
+      "subsection": "(1)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 11,
+    "paragraph": 32
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "6f29827afcf04abaf4bbdcb9a4d1921debf2e34f6737b22cb1bb56fd8689f9e8",
+    "token_count": 36
+  }
+}

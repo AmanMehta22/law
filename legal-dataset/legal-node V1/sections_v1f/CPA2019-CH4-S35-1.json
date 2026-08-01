@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S35-1",
+  "parent_id": "CPA2019-CH4-S35",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S35",
+    "(1)"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "procedure",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "35",
+  "subsection_number": "(1)",
+  "official_text": "A complaint, in relation to any goods sold or delivered or agreed to be sold or delivered or any service provided or agreed to be provided, may be filed with a District Commission by— (a) the consumer,— (i) to whom such goods are sold or delivered or agreed to be sold or delivered or such service is provided or agreed to be provided; or (ii) who alleges unfair trade practice in respect of such goods or service; (b) any recognised consumer association, whether the consumer to whom such goods are sold or delivered or agreed to be sold or delivered or such service is provided or agreed to be provided, or who alleges unfair trade practice in respect of such goods or service, is a member of such association or not; (c) one or more consumers, where there are numerous consumers having the same interest, with the permission of the District Commission, on behalf of, or for the benefit of, all consumers so interested; or (d) the Central Government, the Central Authority or the State Government, as the case may be: Provided that the complaint under this sub-section may be filed electronically in such manner as may be prescribed. Explanation. —For the purposes of this sub-section, \"recognised consumer association\" means any voluntary consumer association registered under any law for the time being in force.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "35",
+      "subsection": "(1)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 18,
+    "paragraph": 1
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "6e838b8b43fa57c67e41042d2287bbcbe4204ea85aad3b938c1ca770c7205ac3",
+    "token_count": 224
+  }
+}

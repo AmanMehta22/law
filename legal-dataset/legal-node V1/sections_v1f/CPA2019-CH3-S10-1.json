@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH3-S10-1",
+  "parent_id": "CPA2019-CH3-S10",
+  "path": [
+    "CPA2019",
+    "CH3",
+    "S10",
+    "(1)"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "authority",
+  "act_id": "CPA2019",
+  "chapter_number": 3,
+  "section_number": "10",
+  "subsection_number": "(1)",
+  "official_text": "The Central Government shall, by notification, establish with effect from such date as it may specify in that notification, a Central Consumer Protection Authority to be known as the Central Authority to regulate matters relating to violation of rights of consumers, unfair trade practices and false or misleading advertisements which are prejudicial to the interests of public and consumers and to promote, protect and enforce the rights of consumers as a class.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "III",
+      "section": "10",
+      "subsection": "(1)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 10,
+    "paragraph": 2
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "42d77d415b609d472caf15dbfd64cca55ad66e4e2611fb0df89228bdb19feb9c",
+    "token_count": 72
+  }
+}

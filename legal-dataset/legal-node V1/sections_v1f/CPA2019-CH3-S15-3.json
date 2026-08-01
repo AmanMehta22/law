@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH3-S15-3",
+  "parent_id": "CPA2019-CH3-S15",
+  "path": [
+    "CPA2019",
+    "CH3",
+    "S15",
+    "(3)"
+  ],
+  "order": 3,
+  "node_type": "section",
+  "content_type": "obligation",
+  "act_id": "CPA2019",
+  "chapter_number": 3,
+  "section_number": "15",
+  "subsection_number": "(3)",
+  "official_text": "Every Additional Director-General, Director, Joint Director, Deputy Director and Assistant Director shall exercise his powers, and discharge his functions, subject to the general control, supervision and direction of the Director-General.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "III",
+      "section": "15",
+      "subsection": "(3)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 12,
+    "paragraph": 9
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "c19c804538dde910fd7c237828cf4b22e89c38385254bc1f9bceb3f2c0c1e051",
+    "token_count": 30
+  }
+}

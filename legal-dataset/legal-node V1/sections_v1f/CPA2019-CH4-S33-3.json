@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S33-3",
+  "parent_id": "CPA2019-CH4-S33",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S33",
+    "(3)"
+  ],
+  "order": 3,
+  "node_type": "section",
+  "content_type": "rule_making",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "33",
+  "subsection_number": "(3)",
+  "official_text": "The salaries and allowances payable to, and the other terms and conditions of service of, the officers and other employees of the District Commission shall be such as may be prescribed.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "33",
+      "subsection": "(3)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 12,
+    "paragraph": 5
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "1f5f03ae9edf9bbda35b1095846f3498a4b938d989759de513b5f12bac5f4e2b",
+    "token_count": 31
+  }
+}

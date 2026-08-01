@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S57-2",
+  "parent_id": "CPA2019-CH4-S57",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S57",
+    "(2)"
+  ],
+  "order": 2,
+  "node_type": "section",
+  "content_type": "obligation",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "57",
+  "subsection_number": "(2)",
+  "official_text": "The officers and other employees of the National Commission shall discharge their functions under the general superintendence of the President of the National Commission.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "57",
+      "subsection": "(2)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 17,
+    "paragraph": 6
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "c0d95a871b41cc2f6029942085661ebe1835c698174df95f35a280e3fe0ae702",
+    "token_count": 24
+  }
+}

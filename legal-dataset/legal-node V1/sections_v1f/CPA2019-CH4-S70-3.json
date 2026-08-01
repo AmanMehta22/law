@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S70-3",
+  "parent_id": "CPA2019-CH4-S70",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S70",
+    "(3)"
+  ],
+  "order": 3,
+  "node_type": "section",
+  "content_type": "authority",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "70",
+  "subsection_number": "(3)",
+  "official_text": "The State Commission shall have administrative control over all the District Commissions within its jurisdiction in all matters referred to in sub-section (1).",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "70",
+      "subsection": "(3)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 22,
+    "paragraph": 9
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "e1b8dd93869e661ef54906ad8ec2eaecdf299995659824baaf06bfaf8ed60634",
+    "token_count": 23
+  }
+}

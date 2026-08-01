@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH1-S2-34",
+  "parent_id": "CPA2019-CH1-S2",
+  "path": [
+    "CPA2019",
+    "CH1",
+    "S2",
+    "(34)"
+  ],
+  "order": 34,
+  "node_type": "section",
+  "content_type": "definition",
+  "act_id": "CPA2019",
+  "chapter_number": 1,
+  "section_number": "2",
+  "subsection_number": "(34)",
+  "official_text": "\"product liability\" means the responsibility of a product manufacturer or product seller, of any product or service, to compensate for any harm caused to a consumer by such defective product manufactured or sold or by deficiency in services relating thereto;",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "I",
+      "section": "2",
+      "subsection": "(34)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 6,
+    "paragraph": 5
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "14b909631392c4d72fdfcad7669d27cf69c2b97009235530330d68ebb2996f21",
+    "token_count": 40
+  }
+}

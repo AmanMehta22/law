@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH2-S6-2",
+  "parent_id": "CPA2019-CH2-S6",
+  "path": [
+    "CPA2019",
+    "CH2",
+    "S6",
+    "(2)"
+  ],
+  "order": 2,
+  "node_type": "section",
+  "content_type": "authority",
+  "act_id": "CPA2019",
+  "chapter_number": 2,
+  "section_number": "6",
+  "subsection_number": "(2)",
+  "official_text": "The State Council shall be an advisory council and consist of the following members, namely:—\n(a) the Minister-in-charge of Consumer Affairs in the State Government who shall be the Chairperson;\n(b) such number of other official or non-official members representing such interests as may be prescribed;\n(c) such number of other official or non-official members, not exceeding ten, as may be nominated by the Central Government.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "II",
+      "section": "6",
+      "subsection": "(2)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 11,
+    "paragraph": 2
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "1420d7711594b8d81c593ed729136d60f885619d28271993f6b191ed37bfa8fe",
+    "token_count": 66
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH1-S1-4",
+  "parent_id": "CPA2019-CH1-S1",
+  "path": [
+    "CPA2019",
+    "CH1",
+    "S1",
+    "(4)"
+  ],
+  "order": 4,
+  "node_type": "section",
+  "content_type": "exception",
+  "act_id": "CPA2019",
+  "chapter_number": 1,
+  "section_number": "1",
+  "subsection_number": "(4)",
+  "official_text": "Save as otherwise expressly provided by the Central Government, by notification, this Act shall apply to all goods and services;",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "I",
+      "section": "1",
+      "subsection": "(4)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 1,
+    "paragraph": 4
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "2889511e37539881a0d42bdd9a7cfd80451a8591698e667265800c8281579f8c",
+    "token_count": 20
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S42-1",
+  "parent_id": "CPA2019-CH4-S42",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S42",
+    "(1)"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "authority",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "42",
+  "subsection_number": "(1)",
+  "official_text": "The State Government shall, by notification, establish a State Consumer Disputes Redressal Commission, to be known as the State Commission, in the State.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "42",
+      "subsection": "(1)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 11,
+    "paragraph": 9
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "78f68c080a87d50d3477744481f1cd50dce3705e44d6655df53fb111384ca26e",
+    "token_count": 23
+  }
+}

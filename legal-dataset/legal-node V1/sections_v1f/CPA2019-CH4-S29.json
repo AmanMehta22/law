@@ -1,0 +1,39 @@
+{
+  "id": "CPA2019-CH4-S29",
+  "parent_id": "CPA2019-CH4",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S29"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "rule_making",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "29",
+  "subsection_number": "",
+  "official_text": "The Central Government may, by notification, make rules to provide for the qualifications, method of recruitment, procedure for appointment, term of office, resignation and removal of the President and members of the District Commission.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "29",
+      "subsection": ""
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 10,
+    "paragraph": 8
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "1db18583c9eecb4c7e78dbd6a7d57560ed9a181733c10a5990ffc4198f8dec10",
+    "token_count": 34
+  }
+}

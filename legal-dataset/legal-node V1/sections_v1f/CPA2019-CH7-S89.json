@@ -1,0 +1,39 @@
+{
+  "id": "CPA2019-CH7-S89",
+  "parent_id": "CPA2019-CH7",
+  "path": [
+    "CPA2019",
+    "CH7",
+    "S89"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "penalty",
+  "act_id": "CPA2019",
+  "chapter_number": 7,
+  "section_number": "89",
+  "subsection_number": "",
+  "official_text": "Any manufacturer or service provider who causes a false or misleading advertisement to be made which is prejudicial to the interest of consumers shall be punished with imprisonment for a term which may extend to two years and with fine which may extend to ten lakh rupees; and for every subsequent offence, be punished with imprisonment for a term which may extend to five years and with fine which may extend to fifty lakh rupees.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "VII",
+      "section": "89",
+      "subsection": ""
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 33,
+    "paragraph": 2
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "74843553471a79969a54ee08e7b79e2cdce59510e3c34f2dff45171033de8130",
+    "token_count": 75
+  }
+}

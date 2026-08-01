@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S51-3",
+  "parent_id": "CPA2019-CH4-S51",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S51",
+    "(3)"
+  ],
+  "order": 3,
+  "node_type": "section",
+  "content_type": "appeal",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "51",
+  "subsection_number": "(3)",
+  "official_text": "In an appeal involving a question of law, the memorandum of appeal shall precisely state the substantial question of law involved in the appeal.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "51",
+      "subsection": "(3)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 24,
+    "paragraph": 3
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "e14707f2ca5dff185cb9ecc9ed33bb145c19c8ec1f6e28a3203c3ae37637767e",
+    "token_count": 24
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH8-S107-2",
+  "parent_id": "CPA2019-CH8-S107",
+  "path": [
+    "CPA2019",
+    "CH8",
+    "S107",
+    "(2)"
+  ],
+  "order": 2,
+  "node_type": "section",
+  "content_type": "exception",
+  "act_id": "CPA2019",
+  "chapter_number": 8,
+  "section_number": "107",
+  "subsection_number": "(2)",
+  "official_text": "Notwithstanding such repeal, anything done or any action taken or purported to have been done or taken under the Act hereby repealed shall, in so far as it is not inconsistent with the provisions of this Act, be deemed to have been done or taken under the corresponding provisions of this Act.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "VIII",
+      "section": "107",
+      "subsection": "(2)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 14,
+    "paragraph": 11
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "4214407119f1f90bfefe2a4e75b77ca0d4e773e489d418b830998ce71ac8ae37",
+    "token_count": 52
+  }
+}

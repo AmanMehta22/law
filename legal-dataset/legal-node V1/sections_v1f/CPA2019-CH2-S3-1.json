@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH2-S3-1",
+  "parent_id": "CPA2019-CH2-S3",
+  "path": [
+    "CPA2019",
+    "CH2",
+    "S3",
+    "(1)"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "authority",
+  "act_id": "CPA2019",
+  "chapter_number": 2,
+  "section_number": "3",
+  "subsection_number": "(1)",
+  "official_text": "The Central Government shall, by notification, establish with effect from such date as it may specify in that notification, the Central Consumer Protection Council to be known as the Central Council.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "II",
+      "section": "3",
+      "subsection": "(1)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 10,
+    "paragraph": 1
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "0e9299748f64a8ad10f925288f6bc8392ffdea915a7ffab687b42e7e7a0d4806",
+    "token_count": 31
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH8-S96-4",
+  "parent_id": "CPA2019-CH8-S96",
+  "path": [
+    "CPA2019",
+    "CH8",
+    "S96",
+    "(4)"
+  ],
+  "order": 4,
+  "node_type": "section",
+  "content_type": "exception",
+  "act_id": "CPA2019",
+  "chapter_number": 8,
+  "section_number": "96",
+  "subsection_number": "(4)",
+  "official_text": "Where an offence has been compounded under sub-section (1), no proceeding or further proceeding, as the case may be, shall be taken against the offender in respect of the offence so compounded.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "VIII",
+      "section": "96",
+      "subsection": "(4)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 35,
+    "paragraph": 2
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "3cae5ef1cc32a194f69e0e7322f7ee68124cc4e1dffaf2652eff2aab2ae19e34",
+    "token_count": 32
+  }
+}

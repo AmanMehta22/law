@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH3-S21-3",
+  "parent_id": "CPA2019-CH3-S21",
+  "path": [
+    "CPA2019",
+    "CH3",
+    "S21",
+    "(3)"
+  ],
+  "order": 3,
+  "node_type": "section",
+  "content_type": "penalty",
+  "act_id": "CPA2019",
+  "chapter_number": 3,
+  "section_number": "21",
+  "subsection_number": "(3)",
+  "official_text": "Notwithstanding any order under sub-sections (1) and (2), where the Central Authority deems it necessary, it may, by order, prohibit the endorser of a false or misleading advertisement from making endorsement of any product or service for a period which may extend to one year:\nProvided that the Central Authority may, for every subsequent contravention, prohibit such endorser from making endorsement in respect of any product or service for a period which may extend to three years.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "III",
+      "section": "21",
+      "subsection": "(3)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 14,
+    "paragraph": 12
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "284ec1e753e1c329e870b7b3e73ac44b6a561f3714f19f1d1cc990e9bbecf25e",
+    "token_count": 77
+  }
+}

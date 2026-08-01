@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH1-S2-43",
+  "parent_id": "CPA2019-CH1-S2",
+  "path": [
+    "CPA2019",
+    "CH1",
+    "S2",
+    "(43)"
+  ],
+  "order": 43,
+  "node_type": "section",
+  "content_type": "definition",
+  "act_id": "CPA2019",
+  "chapter_number": 1,
+  "section_number": "2",
+  "subsection_number": "(43)",
+  "official_text": "\"spurious goods\" means such goods which are falsely claimed to be genuine;",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "I",
+      "section": "2",
+      "subsection": "(43)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 7,
+    "paragraph": 6
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "172b89e80896fdca918890f19c8a4eb82a8c8174bd33e1e695a134e2c3651527",
+    "token_count": 12
+  }
+}

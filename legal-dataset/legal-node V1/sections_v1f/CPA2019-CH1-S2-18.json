@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH1-S2-18",
+  "parent_id": "CPA2019-CH1-S2",
+  "path": [
+    "CPA2019",
+    "CH1",
+    "S2",
+    "(18)"
+  ],
+  "order": 18,
+  "node_type": "section",
+  "content_type": "definition",
+  "act_id": "CPA2019",
+  "chapter_number": 1,
+  "section_number": "2",
+  "subsection_number": "(18)",
+  "official_text": "\"endorsement\", in relation to an advertisement, means— (i) any message, verbal statement, demonstration; or (ii) depiction of the name, signature, likeness or other identifiable personal characteristics of an individual; or (iii) depiction of the name or seal of any institution or organisation, which makes the consumer to believe that it reflects the opinion, finding or experience of the person making such endorsement;",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "I",
+      "section": "2",
+      "subsection": "(18)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 4,
+    "paragraph": 9
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "56a5434b4411919d1302368137d33900befd4f9a4fc4938d57925e988ff1f7a9",
+    "token_count": 62
+  }
+}

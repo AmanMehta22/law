@@ -1,0 +1,39 @@
+{
+  "id": "CPA2019-CH6-S85",
+  "parent_id": "CPA2019-CH6",
+  "path": [
+    "CPA2019",
+    "CH6",
+    "S85"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "obligation",
+  "act_id": "CPA2019",
+  "chapter_number": 6,
+  "section_number": "85",
+  "subsection_number": "",
+  "official_text": "A product service provider shall be liable in a product liability action, if— (a) the service provided by him was faulty or imperfect or deficient or inadequate in quality, nature or manner of performance which is required to be provided by or under any law for the time being in force, or pursuant to any contract or otherwise; or (b) there was an act of omission or commission or negligence or conscious withholding any information which caused harm; or (c) the service provider did not issue adequate instructions or warnings to prevent any harm; or (d) the service did not conform to express warranty or the terms and conditions of the contract.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "VI",
+      "section": "85",
+      "subsection": ""
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 32,
+    "paragraph": 1
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "da2d1565cd2ded79dfd99272c5e7acaf20b1a3c7eaee81cc3098b4277680013b",
+    "token_count": 112
+  }
+}

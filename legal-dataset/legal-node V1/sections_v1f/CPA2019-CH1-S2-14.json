@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH1-S2-14",
+  "parent_id": "CPA2019-CH1-S2",
+  "path": [
+    "CPA2019",
+    "CH1",
+    "S2",
+    "(14)"
+  ],
+  "order": 14,
+  "node_type": "section",
+  "content_type": "definition",
+  "act_id": "CPA2019",
+  "chapter_number": 1,
+  "section_number": "2",
+  "subsection_number": "(14)",
+  "official_text": "\"Director-General\" means the Director-General appointed under sub-section (2) of section 15;",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "I",
+      "section": "2",
+      "subsection": "(14)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 4,
+    "paragraph": 5
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "9452df326eeec0c2b82663a1d6deda0eeca6ae770bbacaee99335168391311f2",
+    "token_count": 11
+  }
+}

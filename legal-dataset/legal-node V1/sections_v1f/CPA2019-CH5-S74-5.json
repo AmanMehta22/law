@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH5-S74-5",
+  "parent_id": "CPA2019-CH5-S74",
+  "path": [
+    "CPA2019",
+    "CH5",
+    "S74",
+    "(5)"
+  ],
+  "order": 5,
+  "node_type": "section",
+  "content_type": "obligation",
+  "act_id": "CPA2019",
+  "chapter_number": 5,
+  "section_number": "74",
+  "subsection_number": "(5)",
+  "official_text": "Every consumer mediation cell shall submit a quarterly report to the District Commission, State Commission or the National Commission to which it is attached, in the manner specified by regulations.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "V",
+      "section": "74",
+      "subsection": "(5)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 30,
+    "paragraph": 3
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "2c40866cef5f543cfd84c33b5f8d45bbd4c6104fafed785fed7431aef362c8b7",
+    "token_count": 30
+  }
+}

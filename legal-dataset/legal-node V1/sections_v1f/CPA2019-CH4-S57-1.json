@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S57-1",
+  "parent_id": "CPA2019-CH4-S57",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S57",
+    "(1)"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "authority",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "57",
+  "subsection_number": "(1)",
+  "official_text": "The Central Government shall provide, in consultation with the President of the National Commission, such number of officers and other employees to assist the National Commission in the discharge of its functions as it may think fit.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "57",
+      "subsection": "(1)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 10,
+    "paragraph": 12
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "48e8f0ede2422e419f383373d963947b7bd7739836848ab48e6c419caaf72764",
+    "token_count": 37
+  }
+}

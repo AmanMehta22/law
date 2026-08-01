@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH8-S102-1",
+  "parent_id": "CPA2019-CH8-S102",
+  "path": [
+    "CPA2019",
+    "CH8",
+    "S102",
+    "(1)"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "rule_making",
+  "act_id": "CPA2019",
+  "chapter_number": 8,
+  "section_number": "102",
+  "subsection_number": "(1)",
+  "official_text": "The State Governments may, by notification, make rules for carrying out the provisions of this Act: Provided that the Central Government may, frame model rules in respect of all or any of the matters with respect to which the State Government may make rules under this section, and where any such model rules have been framed in respect of any such matter, they shall apply to the State until the rules in respect of that matter is made by the State Government and while making any such rules, so far as is practicable, they shall conform to such model rules.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "VIII",
+      "section": "102",
+      "subsection": "(1)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 11,
+    "paragraph": 13
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "55fa64b0a2b2881e5fa3bfa96bddd2849320b09f1df7f480a42ec61968354ffa",
+    "token_count": 100
+  }
+}

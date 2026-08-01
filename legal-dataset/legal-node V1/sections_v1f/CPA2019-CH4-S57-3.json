@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S57-3",
+  "parent_id": "CPA2019-CH4-S57",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S57",
+    "(3)"
+  ],
+  "order": 3,
+  "node_type": "section",
+  "content_type": "rule_making",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "57",
+  "subsection_number": "(3)",
+  "official_text": "The salaries and allowances payable to, and the other terms and conditions of service of, the officers and other employees of the National Commission shall be such as may be prescribed.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "57",
+      "subsection": "(3)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 12,
+    "paragraph": 7
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "ab49247e1f74eb6dce749658a94e5338b935c5c2376b59b7f78c085ed21a7238",
+    "token_count": 31
+  }
+}

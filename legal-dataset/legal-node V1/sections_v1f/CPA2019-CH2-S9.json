@@ -1,0 +1,39 @@
+{
+  "id": "CPA2019-CH2-S9",
+  "parent_id": "CPA2019-CH2",
+  "path": [
+    "CPA2019",
+    "CH2",
+    "S9"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "obligation",
+  "act_id": "CPA2019",
+  "chapter_number": 2,
+  "section_number": "9",
+  "subsection_number": "",
+  "official_text": "The objects of every District Council shall be to render advice on promotion and protection of consumer rights under this Act within the district.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "II",
+      "section": "9",
+      "subsection": ""
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 10,
+    "paragraph": 20
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "25ed1abfb3017d3a390a233dd31da69fb6eed54896d8e600ad1272ceadc29346",
+    "token_count": 24
+  }
+}

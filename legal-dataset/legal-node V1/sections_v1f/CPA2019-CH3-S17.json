@@ -1,0 +1,39 @@
+{
+  "id": "CPA2019-CH3-S17",
+  "parent_id": "CPA2019-CH3",
+  "path": [
+    "CPA2019",
+    "CH3",
+    "S17"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "procedure",
+  "act_id": "CPA2019",
+  "chapter_number": 3,
+  "section_number": "17",
+  "subsection_number": "",
+  "official_text": "A complaint relating to violation of consumer rights or unfair trade practices or false or misleading advertisements which are prejudicial to the interests of consumers as a class, may be forwarded either in writing or in electronic mode, to any one of the authorities, namely, the District Collector or the Commissioner of regional office or the Central Authority.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "III",
+      "section": "17",
+      "subsection": ""
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 13,
+    "paragraph": 2
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "9b4214e02d3c6ccb05672fe9aadedc0e7f91ceaada0967094361928f7d43a2dc",
+    "token_count": 58
+  }
+}

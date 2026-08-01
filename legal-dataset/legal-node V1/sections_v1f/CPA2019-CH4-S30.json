@@ -1,0 +1,39 @@
+{
+  "id": "CPA2019-CH4-S30",
+  "parent_id": "CPA2019-CH4",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S30"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "rule_making",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "30",
+  "subsection_number": "",
+  "official_text": "The State Government may, by notification, make rules to provide for salaries and allowances and other terms and conditions of service of the President, and members of the District Commission.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "30",
+      "subsection": ""
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 11,
+    "paragraph": 7
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "457e437b36fbadd98c0b4435681d9f7a44081bebbae544f4b12080240cb35a4a",
+    "token_count": 30
+  }
+}

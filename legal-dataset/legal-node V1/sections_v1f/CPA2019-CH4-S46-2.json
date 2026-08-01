@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S46-2",
+  "parent_id": "CPA2019-CH4-S46",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S46",
+    "(2)"
+  ],
+  "order": 2,
+  "node_type": "section",
+  "content_type": "authority",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "46",
+  "subsection_number": "(2)",
+  "official_text": "The officers and other employees of the State Commission shall discharge their functions under the general superintendence of the President.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "46",
+      "subsection": "(2)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 17,
+    "paragraph": 5
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "0c0aba3196ac234536f946dca7d426e96737b46d1b1f90cce785246183526502",
+    "token_count": 20
+  }
+}

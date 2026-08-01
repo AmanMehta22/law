@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S59-2",
+  "parent_id": "CPA2019-CH4-S59",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S59",
+    "(2)"
+  ],
+  "order": 2,
+  "node_type": "section",
+  "content_type": "remedy",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "59",
+  "subsection_number": "(2)",
+  "official_text": "Without prejudice to sub-section (1), the National Commission may also declare any terms of contract, which is unfair to any consumer to be null and void.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "59",
+      "subsection": "(2)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 13,
+    "paragraph": 5
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "ec4e71e9a77554539d8f72ffd4a221ebfa843af3002a0b3c45ba92feebd73241",
+    "token_count": 26
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH8-S99-2",
+  "parent_id": "CPA2019-CH8-S99",
+  "path": [
+    "CPA2019",
+    "CH8",
+    "S99",
+    "(2)"
+  ],
+  "order": 2,
+  "node_type": "section",
+  "content_type": "exception",
+  "act_id": "CPA2019",
+  "chapter_number": 8,
+  "section_number": "99",
+  "subsection_number": "(2)",
+  "official_text": "The decision of the Central Government whether a question is one of policy or not shall be final.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "VIII",
+      "section": "99",
+      "subsection": "(2)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 35,
+    "paragraph": 6
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "84bfb53433281fda756dd15060c8c45cd5ff8fd0e2ba12e94d4b2c3d646613e0",
+    "token_count": 18
+  }
+}

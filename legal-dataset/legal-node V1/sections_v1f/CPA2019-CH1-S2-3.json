@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH1-S2-3",
+  "parent_id": "CPA2019-CH1-S2",
+  "path": [
+    "CPA2019",
+    "CH1",
+    "S2",
+    "(3)"
+  ],
+  "order": 3,
+  "node_type": "section",
+  "content_type": "definition",
+  "act_id": "CPA2019",
+  "chapter_number": 1,
+  "section_number": "2",
+  "subsection_number": "(3)",
+  "official_text": "\"branch office\" means— (i) any office or place of work described as a branch by the establishment; or (ii) any establishment carrying on either the same or substantially the same activity carried on by the head office of the establishment;",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "I",
+      "section": "2",
+      "subsection": "(3)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 2,
+    "paragraph": 3
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "b5c47a568002cfd4c075bc09871aad1d397d490ec7c5860151ba0f5fb29d646f",
+    "token_count": 40
+  }
+}

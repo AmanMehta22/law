@@ -1,0 +1,44 @@
+{
+  "id": "CPA2019-CH7-S93",
+  "parent_id": "CPA2019-CH7",
+  "path": [
+    "CPA2019",
+    "CH7",
+    "S93"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "penalty",
+  "act_id": "CPA2019",
+  "chapter_number": 7,
+  "section_number": "93",
+  "subsection_number": "",
+  "official_text": "The Director General or any other officer, exercising powers under section 22, who knows that there are no reasonable grounds for so doing, and yet— (a) searches, or causes to be searched any premises; or (b) seizes any record, register or other document or article, shall, for every such offence, be punished with imprisonment for a term which may extend to one year, or with fine which may extend to ten thousand rupees or with both.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "VII",
+      "section": "93",
+      "subsection": ""
+    }
+  ],
+  "relationships": [
+    {
+      "target": "CPA2019-CH3-S22",
+      "relation": "refers_to"
+    }
+  ],
+  "document": {
+    "page": 34,
+    "paragraph": 2
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "c939e6c7d5fa4d9a1a93aa5e39827e2cb3055cfb6f813dc9eb0abe2a96497602",
+    "token_count": 76
+  }
+}

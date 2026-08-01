@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH3-S19-3",
+  "parent_id": "CPA2019-CH3-S19",
+  "path": [
+    "CPA2019",
+    "CH3",
+    "S19",
+    "(3)"
+  ],
+  "order": 3,
+  "node_type": "section",
+  "content_type": "procedure",
+  "act_id": "CPA2019",
+  "chapter_number": 3,
+  "section_number": "19",
+  "subsection_number": "(3)",
+  "official_text": "For the purposes of investigation under sub-section (1), the Central Authority, the Director-General or the District Collector may call upon a person referred to in sub-section (1) and also direct him to produce any document or record in his possession.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "III",
+      "section": "19",
+      "subsection": "(3)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 3,
+    "paragraph": 2
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "e6a495e3bf10cb586a44f60e16e2420c6d33a9cf772eb17b6e09d145196b87d0",
+    "token_count": 40
+  }
+}

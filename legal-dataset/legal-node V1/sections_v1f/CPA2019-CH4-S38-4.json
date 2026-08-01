@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S38-4",
+  "parent_id": "CPA2019-CH4-S38",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S38",
+    "(4)"
+  ],
+  "order": 4,
+  "node_type": "section",
+  "content_type": "procedure",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "38",
+  "subsection_number": "(4)",
+  "official_text": "For the purposes of sub-sections (2) and (3), the District Commission may, by order, require an electronic service provider to provide such information, documents or records, as may be specified in that order.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "38",
+      "subsection": "(4)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 3,
+    "paragraph": 4
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "34d5d83cb67d8302542080237fa406110b4068d391d7bb5c9e9ed357a5cd5170",
+    "token_count": 33
+  }
+}

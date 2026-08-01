@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S65-4",
+  "parent_id": "CPA2019-CH4-S65",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S65",
+    "(4)"
+  ],
+  "order": 4,
+  "node_type": "section",
+  "content_type": "procedure",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "65",
+  "subsection_number": "(4)",
+  "official_text": "All notices required to be served on an opposite party or to complainant, as the case may be, shall be deemed to be sufficiently served, if addressed in the case of the opposite party, to the place where business or profession is carried on, and in case of the complainant, the place where such person actually and voluntarily resides.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "65",
+      "subsection": "(4)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 28,
+    "paragraph": 1
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "afd8f79ade5c17427a99cdc6f5d2561da19c9df19401ed7c490c586a6fffa187",
+    "token_count": 59
+  }
+}

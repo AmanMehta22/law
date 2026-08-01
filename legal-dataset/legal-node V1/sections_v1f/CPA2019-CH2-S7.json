@@ -1,0 +1,39 @@
+{
+  "id": "CPA2019-CH2-S7",
+  "parent_id": "CPA2019-CH2",
+  "path": [
+    "CPA2019",
+    "CH2",
+    "S7"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "obligation",
+  "act_id": "CPA2019",
+  "chapter_number": 2,
+  "section_number": "7",
+  "subsection_number": "",
+  "official_text": "The objects of every State Council shall be to render advice on promotion and protection of consumer rights under this Act within the State.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "II",
+      "section": "7",
+      "subsection": ""
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 10,
+    "paragraph": 19
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "3f5444943e529f99a11df6407c1d25aac8b8895da8872d7a22bc85b1d3707292",
+    "token_count": 24
+  }
+}

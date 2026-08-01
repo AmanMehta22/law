@@ -1,0 +1,45 @@
+{
+  "id": "CPA2019-CH3-S22-1",
+  "parent_id": "CPA2019-CH3-S22",
+  "path": [
+    "CPA2019",
+    "CH3",
+    "S22",
+    "(1)"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "procedure",
+  "act_id": "CPA2019",
+  "chapter_number": 3,
+  "section_number": "22",
+  "subsection_number": "(1)",
+  "official_text": "For the purpose of conducting an investigation after preliminary inquiry under sub-section (1) of section 19, the Director-General or any other officer authorised by him in this behalf, or the District Collector, as the case may be, may, if he has any reason to believe that any person has violated any consumer rights or committed unfair trade practice or causes any false or misleading advertisement to be made, shall,—\n(a) enter at any reasonable time into any such premises and search for any document or record or article or any other form of evidence and seize such document, record, article or such evidence;\n(b) make a note or an inventory of such record or article; or\n(c) require any person to produce any record, register or other document or article.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "III",
+      "section": "22",
+      "subsection": "(1)"
+    }
+  ],
+  "relationships": [
+    {
+      "target": "CPA2019-CH3-S19-1",
+      "relation": "refers_to"
+    }
+  ],
+  "document": {
+    "page": 3,
+    "paragraph": 3
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "1683d38724a0bc01d5c067f013b7383194d905191bc2a11a03a268c163f16ee3",
+    "token_count": 130
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "CPA2019-CH2-S5",
+  "parent_id": "CPA2019-CH2",
+  "path": [
+    "CPA2019",
+    "CH2",
+    "S5"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "authority",
+  "act_id": "CPA2019",
+  "chapter_number": 2,
+  "section_number": "5",
+  "subsection_number": "",
+  "official_text": "The objects of the Central Council shall be to render advice on promotion and protection of the consumers’ rights under this Act.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "II",
+      "section": "5",
+      "subsection": ""
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 10,
+    "paragraph": 18
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "0d4e82366d93c70eaa7e957626375bc4ce5e7f894a2b6f91366c91d1f815422f",
+    "token_count": 22
+  }
+}

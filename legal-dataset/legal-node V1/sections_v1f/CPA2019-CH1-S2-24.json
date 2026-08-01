@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH1-S2-24",
+  "parent_id": "CPA2019-CH1-S2",
+  "path": [
+    "CPA2019",
+    "CH1",
+    "S2",
+    "(24)"
+  ],
+  "order": 24,
+  "node_type": "section",
+  "content_type": "definition",
+  "act_id": "CPA2019",
+  "chapter_number": 1,
+  "section_number": "2",
+  "subsection_number": "(24)",
+  "official_text": "\"manufacturer\" means a person who— (i) makes any goods or parts thereof; or (ii) assembles any goods or parts thereof made by others; or (iii) puts or causes to be put his own mark on any goods made by any other person;",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "I",
+      "section": "2",
+      "subsection": "(24)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 5,
+    "paragraph": 5
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "138b3e717567d7eede3ca75c970757e2741024cf1ea495e7cfb62b26794bf823",
+    "token_count": 42
+  }
+}

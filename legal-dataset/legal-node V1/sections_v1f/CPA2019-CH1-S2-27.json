@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH1-S2-27",
+  "parent_id": "CPA2019-CH1-S2",
+  "path": [
+    "CPA2019",
+    "CH1",
+    "S2",
+    "(27)"
+  ],
+  "order": 27,
+  "node_type": "section",
+  "content_type": "definition",
+  "act_id": "CPA2019",
+  "chapter_number": 1,
+  "section_number": "2",
+  "subsection_number": "(27)",
+  "official_text": "\"member\" includes the President and a member of the National Commission or a State Commission or a District Commission, as the case may be;",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "I",
+      "section": "2",
+      "subsection": "(27)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 5,
+    "paragraph": 8
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "7852aab94b22e459b21aa4ca5160c5a1d0532d237952408c1386152af37a1e6c",
+    "token_count": 24
+  }
+}

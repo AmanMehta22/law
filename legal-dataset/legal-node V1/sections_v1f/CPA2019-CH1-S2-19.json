@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH1-S2-19",
+  "parent_id": "CPA2019-CH1-S2",
+  "path": [
+    "CPA2019",
+    "CH1",
+    "S2",
+    "(19)"
+  ],
+  "order": 19,
+  "node_type": "section",
+  "content_type": "definition",
+  "act_id": "CPA2019",
+  "chapter_number": 1,
+  "section_number": "2",
+  "subsection_number": "(19)",
+  "official_text": "\"establishment\" includes an advertising agency, commission agent, manufacturing, trading or any other commercial agency which carries on any business, trade or profession or any work in connection with or incidental or ancillary to any commercial activity, trade or profession, or such other class or classes of persons including public utility entities in the manner as may be prescribed;",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "I",
+      "section": "2",
+      "subsection": "(19)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 4,
+    "paragraph": 10
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "a138c50ea49c24c0698cae394a67f88288d8c8cdd81327a951c57ab8861a555f",
+    "token_count": 58
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S46-3",
+  "parent_id": "CPA2019-CH4-S46",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S46",
+    "(3)"
+  ],
+  "order": 3,
+  "node_type": "section",
+  "content_type": "rule_making",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "46",
+  "subsection_number": "(3)",
+  "official_text": "The salaries and allowances payable to and the other terms and conditions of service of, the officers and other employees of the State Commission shall be such as may be prescribed.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "46",
+      "subsection": "(3)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 12,
+    "paragraph": 6
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "6c10c1600597b69934e7259f5ffc2f7d366923d12fceb8998a02bf383de76f64",
+    "token_count": 31
+  }
+}

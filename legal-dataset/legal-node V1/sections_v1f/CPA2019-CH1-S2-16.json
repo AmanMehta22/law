@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH1-S2-16",
+  "parent_id": "CPA2019-CH1-S2",
+  "path": [
+    "CPA2019",
+    "CH1",
+    "S2",
+    "(16)"
+  ],
+  "order": 16,
+  "node_type": "section",
+  "content_type": "definition",
+  "act_id": "CPA2019",
+  "chapter_number": 1,
+  "section_number": "2",
+  "subsection_number": "(16)",
+  "official_text": "\"e-commerce\" means buying or selling of goods or services including digital products over digital or electronic network;",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "I",
+      "section": "2",
+      "subsection": "(16)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 4,
+    "paragraph": 7
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "dfd91116648efefbb197e2e105b6abc26e29a81f958300cdbe3151e6b6ef545c",
+    "token_count": 17
+  }
+}

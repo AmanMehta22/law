@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH8-S96-5",
+  "parent_id": "CPA2019-CH8-S96",
+  "path": [
+    "CPA2019",
+    "CH8",
+    "S96",
+    "(5)"
+  ],
+  "order": 5,
+  "node_type": "section",
+  "content_type": "exception",
+  "act_id": "CPA2019",
+  "chapter_number": 8,
+  "section_number": "96",
+  "subsection_number": "(5)",
+  "official_text": "The acceptance of the sum of money for compounding an offence in accordance with sub-section (1) by the Central Authority or an officer of the Central Authority empowered in this behalf shall be deemed to amount to an acquittal within the meaning of the Code of Criminal Procedure, 1973.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "VIII",
+      "section": "96",
+      "subsection": "(5)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 35,
+    "paragraph": 3
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "054ceb5eaffb157e40418c41ee85b380ee002ae8e61c3ff0bb61fb1573355fbe",
+    "token_count": 49
+  }
+}

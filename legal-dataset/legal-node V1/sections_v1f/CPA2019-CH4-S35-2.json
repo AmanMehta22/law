@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S35-2",
+  "parent_id": "CPA2019-CH4-S35",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S35",
+    "(2)"
+  ],
+  "order": 2,
+  "node_type": "section",
+  "content_type": "procedure",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "35",
+  "subsection_number": "(2)",
+  "official_text": "Every complaint filed under sub-section (1) shall be accompanied with such fee and payable in such manner, including electronic form, as may be prescribed.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "35",
+      "subsection": "(2)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 18,
+    "paragraph": 2
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "1e3dc913171d16078cf5118233cc0a17b35b2f8b9f06b217e83d80f10e9a5ea7",
+    "token_count": 24
+  }
+}

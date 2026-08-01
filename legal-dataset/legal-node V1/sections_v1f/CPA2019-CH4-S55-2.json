@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S55-2",
+  "parent_id": "CPA2019-CH4-S55",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S55",
+    "(2)"
+  ],
+  "order": 2,
+  "node_type": "section",
+  "content_type": "obligation",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "55",
+  "subsection_number": "(2)",
+  "official_text": "Neither the salary and allowances nor the other terms and conditions of service of President and members of the National Commission shall be varied to his disadvantage after his appointment.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "55",
+      "subsection": "(2)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 25,
+    "paragraph": 9
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "8af642c58f0651487eabcd91bb5a01edbc059ccefd928bdd6ff36d276840e5e6",
+    "token_count": 30
+  }
+}

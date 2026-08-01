@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH8-S105-2",
+  "parent_id": "CPA2019-CH8-S105",
+  "path": [
+    "CPA2019",
+    "CH8",
+    "S105",
+    "(2)"
+  ],
+  "order": 2,
+  "node_type": "section",
+  "content_type": "rule_making",
+  "act_id": "CPA2019",
+  "chapter_number": 8,
+  "section_number": "105",
+  "subsection_number": "(2)",
+  "official_text": "Every rule made by a State Government under this Act shall be laid as soon as may be after it is made, before the State Legislature.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "VIII",
+      "section": "105",
+      "subsection": "(2)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 39,
+    "paragraph": 2
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "1a0edd71fd680db92310e11496cbb7d24fcf1e98d43a67e6d408713f1b413326",
+    "token_count": 26
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "CPA2019-CH6-S82",
+  "parent_id": "CPA2019-CH6",
+  "path": [
+    "CPA2019",
+    "CH6",
+    "S82"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "exception",
+  "act_id": "CPA2019",
+  "chapter_number": 6,
+  "section_number": "82",
+  "subsection_number": "",
+  "official_text": "This Chapter shall apply to every claim for compensation under a product liability action by a complainant for any harm caused by a defective product manufactured by a product manufacturer or serviced by a product service provider or sold by a product seller.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "VI",
+      "section": "82",
+      "subsection": ""
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 31,
+    "paragraph": 9
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "d2b9b6b3d3769f670ceb1c2b9db8d7448161a8388510946e3fc6c10466ae3ba0",
+    "token_count": 43
+  }
+}

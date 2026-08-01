@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S70-4",
+  "parent_id": "CPA2019-CH4-S70",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S70",
+    "(4)"
+  ],
+  "order": 4,
+  "node_type": "section",
+  "content_type": "obligation",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "70",
+  "subsection_number": "(4)",
+  "official_text": "The National Commission and the State Commissions shall furnish to the Central Government periodically or as and when required, any information including the pendency of cases in such form and manner as may be prescribed.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "70",
+      "subsection": "(4)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 25,
+    "paragraph": 6
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "f11642913e1345a680cde65ab58f2b384498ef869a69b41650de30449798f0a0",
+    "token_count": 35
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH1-S2-25",
+  "parent_id": "CPA2019-CH1-S2",
+  "path": [
+    "CPA2019",
+    "CH1",
+    "S2",
+    "(25)"
+  ],
+  "order": 25,
+  "node_type": "section",
+  "content_type": "definition",
+  "act_id": "CPA2019",
+  "chapter_number": 1,
+  "section_number": "2",
+  "subsection_number": "(25)",
+  "official_text": "\"mediation\" means the process by which a mediator mediates the consumer disputes;",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "I",
+      "section": "2",
+      "subsection": "(25)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 5,
+    "paragraph": 6
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "3335208e32b5a93dea1814115a22c95c9b6db6275ed5d075e61d82c684e9cc49",
+    "token_count": 12
+  }
+}

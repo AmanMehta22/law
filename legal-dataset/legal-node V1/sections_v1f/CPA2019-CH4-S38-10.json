@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S38-10",
+  "parent_id": "CPA2019-CH4-S38",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S38",
+    "(10)"
+  ],
+  "order": 10,
+  "node_type": "section",
+  "content_type": "jurisdiction",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "38",
+  "subsection_number": "(10)",
+  "official_text": "Every proceeding before the District Commission shall be deemed to be a judicial proceeding within the meaning of sections 193 and 228 of the Indian Penal Code, and the District Commission shall be deemed to be a criminal court for the purposes of section 195 and Chapter XXVI of the Code of Criminal Procedure, 1973.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "38",
+      "subsection": "(10)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 18,
+    "paragraph": 6
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "10182a2c725c90f382f8d293f3ad7ac8c73b125aee0c9c838fded4d715085777",
+    "token_count": 55
+  }
+}

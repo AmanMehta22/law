@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH3-S19-1",
+  "parent_id": "CPA2019-CH3-S19",
+  "path": [
+    "CPA2019",
+    "CH3",
+    "S19",
+    "(1)"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "procedure",
+  "act_id": "CPA2019",
+  "chapter_number": 3,
+  "section_number": "19",
+  "subsection_number": "(1)",
+  "official_text": "The Central Authority may, after receiving any information or complaint or directions from the Central Government or of its own motion, conduct or cause to be conducted a preliminary inquiry as to whether there exists a prima facie case of violation of consumer rights or any unfair trade practice or any false or misleading advertisement, by any person, which is prejudicial to the public interest or to the interests of consumers and if it is satisfied that there exists a prima facie case, it shall cause investigation to be made by the Director-General or by the District Collector.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "III",
+      "section": "19",
+      "subsection": "(1)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 11,
+    "paragraph": 30
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "2213aff341309ead16dee5f7de0dd9bc160bf2284e211d9b7dd9bae9c2f850b7",
+    "token_count": 98
+  }
+}

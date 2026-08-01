@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S73-2",
+  "parent_id": "CPA2019-CH4-S73",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S73",
+    "(2)"
+  ],
+  "order": 2,
+  "node_type": "section",
+  "content_type": "exception",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "73",
+  "subsection_number": "(2)",
+  "official_text": "Except as provided in sub-section (1), no appeal shall lie before any court, from any order of a District Commission or a State Commission or the National Commission, as the case may be.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "73",
+      "subsection": "(2)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 29,
+    "paragraph": 3
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "2e56af949315825646e1391a6563b6740532f5c2c1e47b7ef6eb1d8dd56dc18e",
+    "token_count": 33
+  }
+}

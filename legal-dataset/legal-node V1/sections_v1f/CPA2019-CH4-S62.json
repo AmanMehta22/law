@@ -1,0 +1,39 @@
+{
+  "id": "CPA2019-CH4-S62",
+  "parent_id": "CPA2019-CH4",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S62"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "procedure",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "62",
+  "subsection_number": "",
+  "official_text": "On the application of the complainant or of its own motion, the National Commission may, at any stage of the proceeding, in the interest of justice, transfer any complaint pending before the District Commission of one State to a District Commission of another State or before one State Commission to another State Commission.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "62",
+      "subsection": ""
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 24,
+    "paragraph": 2
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "6d9f866adeea53ce62d9c9707f156dc5d08e0f6ea444203505031dc779c95f0d",
+    "token_count": 53
+  }
+}

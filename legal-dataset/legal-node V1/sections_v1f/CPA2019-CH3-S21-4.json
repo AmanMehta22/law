@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH3-S21-4",
+  "parent_id": "CPA2019-CH3-S21",
+  "path": [
+    "CPA2019",
+    "CH3",
+    "S21",
+    "(4)"
+  ],
+  "order": 4,
+  "node_type": "section",
+  "content_type": "penalty",
+  "act_id": "CPA2019",
+  "chapter_number": 3,
+  "section_number": "21",
+  "subsection_number": "(4)",
+  "official_text": "Where the Central Authority is satisfied after investigation that any person is found to publish, or is a party to the publication of, a misleading advertisement, it may impose on such person a penalty which may extend to ten lakh rupees.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "III",
+      "section": "21",
+      "subsection": "(4)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 14,
+    "paragraph": 4
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "882a44c430da54bbbe07f6a70c102a1a855300605b0c63075395cf1469857a63",
+    "token_count": 41
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH6-S87-3",
+  "parent_id": "CPA2019-CH6-S87",
+  "path": [
+    "CPA2019",
+    "CH6",
+    "S87",
+    "(3)"
+  ],
+  "order": 3,
+  "node_type": "section",
+  "content_type": "exception",
+  "act_id": "CPA2019",
+  "chapter_number": 6,
+  "section_number": "87",
+  "subsection_number": "(3)",
+  "official_text": "A product manufacturer shall not be liable for failure to instruct or warn about a danger which is obvious or commonly known to the user or consumer of such product or which, such user or consumer, ought to have known, taking into account the characteristics of such product.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "VI",
+      "section": "87",
+      "subsection": "(3)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 31,
+    "paragraph": 14
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "336a8dd26760eb9c849fc8373573f4f0b7c13c62b07082f878b9ae253acb4803",
+    "token_count": 48
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S28-2",
+  "parent_id": "CPA2019-CH4-S28",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S28",
+    "(2)"
+  ],
+  "order": 2,
+  "node_type": "section",
+  "content_type": "authority",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "28",
+  "subsection_number": "(2)",
+  "official_text": "Each District Commission shall consist of— (a) a President; and (b) not less than two and not more than such number of members as may be prescribed, in consultation with the Central Government.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "28",
+      "subsection": "(2)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 16,
+    "paragraph": 6
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "404d26c4f97dd5cda1a6a468026c7dbf2f3ba121a438116f0c0a7fc81655fb0c",
+    "token_count": 33
+  }
+}

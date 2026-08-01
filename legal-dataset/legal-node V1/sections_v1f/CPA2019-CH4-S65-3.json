@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S65-3",
+  "parent_id": "CPA2019-CH4-S65",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S65",
+    "(3)"
+  ],
+  "order": 3,
+  "node_type": "section",
+  "content_type": "procedure",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "65",
+  "subsection_number": "(3)",
+  "official_text": "When an acknowledgment or any other receipt purporting to be signed by the opposite party or his agent or, as the case may be, by the complainant is received by the District Commission, the State Commission or the National Commission, as the case may be, or postal article containing the notice is received back by such District Commission, State Commission or the National Commission, with an endorsement purporting to have been made by a postal employee or by any person authorised by the courier service to the effect that the opposite party or his agent or complainant had refused to take delivery of the postal article containing the notice or had refused to accept the notice by any other means specified in sub-section (1) when tendered or transmitted to him, the District Commission or the State Commission or the National Commission, as the case may be, shall declare that the notice has been duly served on the opposite party or to the complainant, as the case may be: Provided that where the notice was properly addressed, pre-paid and duly sent by registered post acknowledgment due, a declaration referred to in this sub-section shall be made notwithstanding the fact that the acknowledgment has been lost or misplaced, or for any other reason, has not been received by the District Commission, the State Commission or the National Commission, as the case may be, within thirty days from the date of issue of notice.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "65",
+      "subsection": "(3)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 27,
+    "paragraph": 4
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "63da3a2b88196c386ba560c8685f68e1a080d08a1d069a16d8083035dfed9d17",
+    "token_count": 241
+  }
+}

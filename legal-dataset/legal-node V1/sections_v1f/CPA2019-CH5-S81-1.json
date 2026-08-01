@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH5-S81-1",
+  "parent_id": "CPA2019-CH5-S81",
+  "path": [
+    "CPA2019",
+    "CH5",
+    "S81",
+    "(1)"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "procedure",
+  "act_id": "CPA2019",
+  "chapter_number": 5,
+  "section_number": "81",
+  "subsection_number": "(1)",
+  "official_text": "The District Commission or the State Commission or the National Commission, as the case may be, shall, within seven days of the receipt of the settlement report, pass suitable order recording such settlement of consumer dispute and dispose of the matter accordingly.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "V",
+      "section": "81",
+      "subsection": "(1)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 11,
+    "paragraph": 22
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "13d98212c5175432118cb77c203b945c6cbaa0623d33609d5ab7fed95008fad4",
+    "token_count": 42
+  }
+}

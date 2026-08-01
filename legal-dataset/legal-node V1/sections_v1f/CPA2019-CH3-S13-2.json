@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH3-S13-2",
+  "parent_id": "CPA2019-CH3-S13",
+  "path": [
+    "CPA2019",
+    "CH3",
+    "S13",
+    "(2)"
+  ],
+  "order": 2,
+  "node_type": "section",
+  "content_type": "rule_making",
+  "act_id": "CPA2019",
+  "chapter_number": 3,
+  "section_number": "13",
+  "subsection_number": "(2)",
+  "official_text": "The salaries and allowances payable to, and the other terms and conditions of service of, the officers and other employees of the Central Authority appointed under this Act shall be such as may be prescribed.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "III",
+      "section": "13",
+      "subsection": "(2)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 12,
+    "paragraph": 4
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "a3ff8aa3cb2690ac0a3b4a89cfed5b5af855ceedfc08f66c3f460df2bfec77c1",
+    "token_count": 35
+  }
+}

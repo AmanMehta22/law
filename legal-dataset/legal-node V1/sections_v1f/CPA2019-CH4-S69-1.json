@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S69-1",
+  "parent_id": "CPA2019-CH4-S69",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S69",
+    "(1)"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "timeline",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "69",
+  "subsection_number": "(1)",
+  "official_text": "The District Commission, the State Commission or the National Commission shall not admit a complaint unless it is filed within two years from the date on which the cause of action has arisen.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "69",
+      "subsection": "(1)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 11,
+    "paragraph": 20
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "6136167ef910b82f512a7b77b0fcd75da756a6fa1cef813572a0b3f55e1dfc68",
+    "token_count": 33
+  }
+}

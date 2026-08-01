@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH5-S74-2",
+  "parent_id": "CPA2019-CH5-S74",
+  "path": [
+    "CPA2019",
+    "CH5",
+    "S74",
+    "(2)"
+  ],
+  "order": 2,
+  "node_type": "section",
+  "content_type": "authority",
+  "act_id": "CPA2019",
+  "chapter_number": 5,
+  "section_number": "74",
+  "subsection_number": "(2)",
+  "official_text": "The Central Government shall establish, by notification, a consumer mediation cell to be attached to the National Commission and each of the regional Benches.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "V",
+      "section": "74",
+      "subsection": "(2)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 10,
+    "paragraph": 13
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "4bbca9dfcf143ad31e1e281e64e54838c1f72d2d8ceac2ef0a17dbcfbbbf5239",
+    "token_count": 24
+  }
+}

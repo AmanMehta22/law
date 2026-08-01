@@ -1,0 +1,39 @@
+{
+  "id": "CPA2019-CH8-S106",
+  "parent_id": "CPA2019-CH8",
+  "path": [
+    "CPA2019",
+    "CH8",
+    "S106"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "rule_making",
+  "act_id": "CPA2019",
+  "chapter_number": 8,
+  "section_number": "106",
+  "subsection_number": "",
+  "official_text": "If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order in the Official Gazette, make such provisions not inconsistent with the provisions of this Act as appear to it to be necessary or expedient for removing the difficulty: Provided that no such order shall be made after the expiry of a period of two years from the commencement of this Act.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "VIII",
+      "section": "106",
+      "subsection": ""
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 39,
+    "paragraph": 3
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "e4af8c22557083df77468d4df4213dd95239fb9dbbbf224318427f123ed397a5",
+    "token_count": 70
+  }
+}

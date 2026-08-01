@@ -1,0 +1,39 @@
+{
+  "id": "CPA2019-CH3-S20",
+  "parent_id": "CPA2019-CH3",
+  "path": [
+    "CPA2019",
+    "CH3",
+    "S20"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "remedy",
+  "act_id": "CPA2019",
+  "chapter_number": 3,
+  "section_number": "20",
+  "subsection_number": "",
+  "official_text": "Where the Central Authority is satisfied on the basis of investigation that there is sufficient evidence to show violation of consumer rights or unfair trade practice by a person, it may pass such order as may be necessary, including—\n(a) recalling of goods or withdrawal of services which are dangerous, hazardous or unsafe;\n(b) reimbursement of the prices of goods or services so recalled to purchasers of such goods or services; and\n(c) discontinuation of practices which are unfair and prejudicial to consumers’ interest:\nProvided that the Central Authority shall give the person an opportunity of being heard before passing an order under this section.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "III",
+      "section": "20",
+      "subsection": ""
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 14,
+    "paragraph": 2
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "eeb389540a9551c6b4f5ca9f00f640ddeb1159799aedc4e9cf7a34755e3bd41f",
+    "token_count": 105
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH5-S80-2",
+  "parent_id": "CPA2019-CH5-S80",
+  "path": [
+    "CPA2019",
+    "CH5",
+    "S80",
+    "(2)"
+  ],
+  "order": 2,
+  "node_type": "section",
+  "content_type": "procedure",
+  "act_id": "CPA2019",
+  "chapter_number": 5,
+  "section_number": "80",
+  "subsection_number": "(2)",
+  "official_text": "The mediator shall prepare a settlement report of the settlement and forward the signed agreement along with such report to the concerned Commission.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "V",
+      "section": "80",
+      "subsection": "(2)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 31,
+    "paragraph": 5
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "fb7239a15f986e2eeb3fbbe7dec3f608b2cd692517de010218b120cecde3e432",
+    "token_count": 23
+  }
+}

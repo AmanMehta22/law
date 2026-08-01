@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH3-S26-4",
+  "parent_id": "CPA2019-CH3-S26",
+  "path": [
+    "CPA2019",
+    "CH3",
+    "S26",
+    "(4)"
+  ],
+  "order": 4,
+  "node_type": "section",
+  "content_type": "obligation",
+  "act_id": "CPA2019",
+  "chapter_number": 3,
+  "section_number": "26",
+  "subsection_number": "(4)",
+  "official_text": "The accounts of the Central Authority as certified by the Comptroller and Auditor-General of India or any other person appointed by him in this behalf together with the audit report thereon shall be forwarded annually to the Central Government which shall cause the same to be laid before each House of Parliament.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "III",
+      "section": "26",
+      "subsection": "(4)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 16,
+    "paragraph": 4
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "65cc8252928784aff5e4aeeb90306e9b5664ad912ab3f18ce3a55b914e966665",
+    "token_count": 52
+  }
+}

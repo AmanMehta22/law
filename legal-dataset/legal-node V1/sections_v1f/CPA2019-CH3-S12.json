@@ -1,0 +1,39 @@
+{
+  "id": "CPA2019-CH3-S12",
+  "parent_id": "CPA2019-CH3",
+  "path": [
+    "CPA2019",
+    "CH3",
+    "S12"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "exception",
+  "act_id": "CPA2019",
+  "chapter_number": 3,
+  "section_number": "12",
+  "subsection_number": "",
+  "official_text": "No act or proceeding of the Central Authority shall be invalid merely by reason of—\n(a) any vacancy in, or any defect in the constitution of, the Central Authority; or\n(b) any defect in the appointment of a person acting as the Chief Commissioner or as a Commissioner; or\n(c) any irregularity in the procedure of the Central Authority not affecting the merits of the case.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "III",
+      "section": "12",
+      "subsection": ""
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 12,
+    "paragraph": 2
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "0e1ce6f0ec95d9f6ce5113d7db966ae151f8d4b37dfe6a68ed9370c9be3db4db",
+    "token_count": 66
+  }
+}

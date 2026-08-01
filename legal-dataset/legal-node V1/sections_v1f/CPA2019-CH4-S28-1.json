@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S28-1",
+  "parent_id": "CPA2019-CH4-S28",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S28",
+    "(1)"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "authority",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "28",
+  "subsection_number": "(1)",
+  "official_text": "The State Government shall, by notification, establish a District Consumer Disputes Redressal Commission, to be known as the District Commission, in each district of the State: Provided that the State Government may, if it deems fit, establish more than one District Commission in a district.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "28",
+      "subsection": "(1)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 11,
+    "paragraph": 6
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "16a9e740ef45c3ce341dad0345b8b2536dba40a28539540536a3c2506e45efa5",
+    "token_count": 45
+  }
+}

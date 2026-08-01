@@ -1,0 +1,39 @@
+{
+  "id": "CPA2019-CH8-S100",
+  "parent_id": "CPA2019-CH8",
+  "path": [
+    "CPA2019",
+    "CH8",
+    "S100"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "exception",
+  "act_id": "CPA2019",
+  "chapter_number": 8,
+  "section_number": "100",
+  "subsection_number": "",
+  "official_text": "The provisions of this Act shall be in addition to and not in derogation of the provisions of any other law for the time being in force.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "VIII",
+      "section": "100",
+      "subsection": ""
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 15,
+    "paragraph": 7
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "22d7fbff2a7849accb0a72f3644d674ffc168b62a8216c2499a337dcf2a3b0db",
+    "token_count": 27
+  }
+}

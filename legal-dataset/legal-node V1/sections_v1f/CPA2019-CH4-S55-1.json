@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S55-1",
+  "parent_id": "CPA2019-CH4-S55",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S55",
+    "(1)"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "rule_making",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "55",
+  "subsection_number": "(1)",
+  "official_text": "The Central Government may, by notification, make rules to provide for qualifications, appointment, term of office, salaries and allowances, resignation, removal and other terms and conditions of service of the President and members of the National Commission: Provided that the President and members of the National Commission shall hold office for such term as specified in the rules made by the Central Government but not exceeding five years from the date on which he enters upon his office and shall be eligible for re-appointment: Provided further that no President or members shall hold office as such after he has attained such age as specified in the rules made by the Central Government which shall not exceed,— (a) in the case of the President, the age of seventy years; (b) in the case of any other member, the age of sixty-seven years.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "55",
+      "subsection": "(1)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 10,
+    "paragraph": 11
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "56e8fc937ab0efe7ff303d1fefe8f07b977270166f86844b65a4970073319c3c",
+    "token_count": 141
+  }
+}

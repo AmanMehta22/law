@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S51-2",
+  "parent_id": "CPA2019-CH4-S51",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S51",
+    "(2)"
+  ],
+  "order": 2,
+  "node_type": "section",
+  "content_type": "appeal",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "51",
+  "subsection_number": "(2)",
+  "official_text": "Save as otherwise expressly provided under this Act or by any other law for the time being in force, an appeal shall lie to the National Commission from any order passed in appeal by any State Commission, if the National Commission is satisfied that the case involves a substantial question of law.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "51",
+      "subsection": "(2)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 1,
+    "paragraph": 5
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "a5f2d7325aa731d6c1396b00473f76e3230dc501d88f5b3973ea9ecf9d26826e",
+    "token_count": 52
+  }
+}

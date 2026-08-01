@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH1-S1-2",
+  "parent_id": "CPA2019-CH1-S1",
+  "path": [
+    "CPA2019",
+    "CH1",
+    "S1",
+    "(2)"
+  ],
+  "order": 2,
+  "node_type": "section",
+  "content_type": "exception",
+  "act_id": "CPA2019",
+  "chapter_number": 1,
+  "section_number": "1",
+  "subsection_number": "(2)",
+  "official_text": "It extends to the whole of India except the State of Jammu and Kashmir;",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "I",
+      "section": "1",
+      "subsection": "(2)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 1,
+    "paragraph": 2
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "faf4b87d6d86fc094df0e3261dfad9ac0a78150da8c5be80bf475c1aad9dbb37",
+    "token_count": 14
+  }
+}

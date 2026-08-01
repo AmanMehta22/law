@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH8-S105-1",
+  "parent_id": "CPA2019-CH8-S105",
+  "path": [
+    "CPA2019",
+    "CH8",
+    "S105",
+    "(1)"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "rule_making",
+  "act_id": "CPA2019",
+  "chapter_number": 8,
+  "section_number": "105",
+  "subsection_number": "(1)",
+  "official_text": "Every rule and every regulation made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or regulation or both Houses agree that the rule or regulation shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule or regulation.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "VIII",
+      "section": "105",
+      "subsection": "(1)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 39,
+    "paragraph": 1
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "7a21196ca28b3e8e6c013123ab27c5a7b4c3e29933b7f63b176a236ab80ff16d",
+    "token_count": 133
+  }
+}

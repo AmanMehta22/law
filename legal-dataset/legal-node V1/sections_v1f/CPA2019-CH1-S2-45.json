@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH1-S2-45",
+  "parent_id": "CPA2019-CH1-S2",
+  "path": [
+    "CPA2019",
+    "CH1",
+    "S2",
+    "(45)"
+  ],
+  "order": 45,
+  "node_type": "section",
+  "content_type": "definition",
+  "act_id": "CPA2019",
+  "chapter_number": 1,
+  "section_number": "2",
+  "subsection_number": "(45)",
+  "official_text": "\"trader\", in relation to any goods, means a person who sells or distributes any goods for sale and includes the manufacturer thereof, and where such goods are sold or distributed in package form, includes the packer thereof;",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "I",
+      "section": "2",
+      "subsection": "(45)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 7,
+    "paragraph": 8
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "86a2f89f38c0bec577fa2af1647c19b6750767f361fcba25b233e9cc359d7451",
+    "token_count": 37
+  }
+}

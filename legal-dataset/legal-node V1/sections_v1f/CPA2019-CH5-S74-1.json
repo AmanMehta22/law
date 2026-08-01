@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH5-S74-1",
+  "parent_id": "CPA2019-CH5-S74",
+  "path": [
+    "CPA2019",
+    "CH5",
+    "S74",
+    "(1)"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "authority",
+  "act_id": "CPA2019",
+  "chapter_number": 5,
+  "section_number": "74",
+  "subsection_number": "(1)",
+  "official_text": "The State Government shall establish, by notification, a consumer mediation cell to be attached to each of the District Commissions and the State Commissions of that State.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "V",
+      "section": "74",
+      "subsection": "(1)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 11,
+    "paragraph": 12
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "e6315d2aa7be5bbbb8ce84ea58a776a6940f7530345ff2b6639ceb96d5ffed1f",
+    "token_count": 27
+  }
+}

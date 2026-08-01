@@ -1,0 +1,61 @@
+{
+  "id": "CPA2019-CH4-S49-1",
+  "parent_id": "CPA2019-CH4-S49",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S49",
+    "(1)"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "procedure",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "49",
+  "subsection_number": "(1)",
+  "official_text": "The provisions relating to complaints under sections 35, 36, 37, 38 and 39 shall, with such modifications as may be necessary, be applicable to the disposal of complaints by the State Commission.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "49",
+      "subsection": "(1)"
+    }
+  ],
+  "relationships": [
+    {
+      "target": "CPA2019-CH4-S35",
+      "relation": "refers_to"
+    },
+    {
+      "target": "CPA2019-CH4-S36",
+      "relation": "refers_to"
+    },
+    {
+      "target": "CPA2019-CH4-S37",
+      "relation": "refers_to"
+    },
+    {
+      "target": "CPA2019-CH4-S38",
+      "relation": "refers_to"
+    },
+    {
+      "target": "CPA2019-CH4-S39",
+      "relation": "refers_to"
+    }
+  ],
+  "document": {
+    "page": 15,
+    "paragraph": 5
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "1f211ab222f0784aace89f2cd21c6cdabac07b166152484a72d93b900c62d61a",
+    "token_count": 32
+  }
+}

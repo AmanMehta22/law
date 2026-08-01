@@ -1,0 +1,39 @@
+{
+  "id": "CPA2019-CH3-S25",
+  "parent_id": "CPA2019-CH3",
+  "path": [
+    "CPA2019",
+    "CH3",
+    "S25"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "authority",
+  "act_id": "CPA2019",
+  "chapter_number": 3,
+  "section_number": "25",
+  "subsection_number": "",
+  "official_text": "The Central Government may, after due appropriation made by Parliament by law in this behalf, make to the Central Authority grants of such sums of money as that Government may think fit for being utilised for the purposes of this Act.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "III",
+      "section": "25",
+      "subsection": ""
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 10,
+    "paragraph": 7
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "f02c2faea975c1ebaeefae99b7068207d529e902dafed90a6b58920903d0357c",
+    "token_count": 41
+  }
+}

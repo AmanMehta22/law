@@ -1,0 +1,45 @@
+{
+  "id": "CPA2019-CH4-S36-2",
+  "parent_id": "CPA2019-CH4-S36",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S36",
+    "(2)"
+  ],
+  "order": 2,
+  "node_type": "section",
+  "content_type": "procedure",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "36",
+  "subsection_number": "(2)",
+  "official_text": "On receipt of a complaint made under section 35, the District Commission may, by order, admit the complaint for being proceeded with or reject the same: Provided that a complaint shall not be rejected under this section unless an opportunity of being heard has been given to the complainant: Provided further that the admissibility of the complaint shall ordinarily be decided within twenty-one days from the date on which the complaint was filed.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "36",
+      "subsection": "(2)"
+    }
+  ],
+  "relationships": [
+    {
+      "target": "CPA2019-CH4-S35",
+      "relation": "refers_to"
+    }
+  ],
+  "document": {
+    "page": 18,
+    "paragraph": 7
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "0c0d7050cc38e6290d4454da96a2e8013810585eae13d9a9bb22512811031edb",
+    "token_count": 73
+  }
+}

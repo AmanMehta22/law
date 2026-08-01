@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S33-2",
+  "parent_id": "CPA2019-CH4-S33",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S33",
+    "(2)"
+  ],
+  "order": 2,
+  "node_type": "section",
+  "content_type": "obligation",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "33",
+  "subsection_number": "(2)",
+  "official_text": "The officers and other employees of the District Commission shall discharge their functions under the general superintendence of the President of the District Commission.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "33",
+      "subsection": "(2)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 17,
+    "paragraph": 4
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "69593c712d39403deaff76f7095d407537b867425966c6fddadd20cc28e17123",
+    "token_count": 24
+  }
+}

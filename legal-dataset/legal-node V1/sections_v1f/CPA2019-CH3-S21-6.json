@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH3-S21-6",
+  "parent_id": "CPA2019-CH3-S21",
+  "path": [
+    "CPA2019",
+    "CH3",
+    "S21",
+    "(6)"
+  ],
+  "order": 6,
+  "node_type": "section",
+  "content_type": "exception",
+  "act_id": "CPA2019",
+  "chapter_number": 3,
+  "section_number": "21",
+  "subsection_number": "(6)",
+  "official_text": "No person shall be liable to such penalty if he proves that he had published or arranged for the publication of such advertisement in the ordinary course of his business:\nProvided that no such defence shall be available to such person if he had previous knowledge of the order passed by the Central Authority for withdrawal or modification of such advertisement.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "III",
+      "section": "21",
+      "subsection": "(6)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 15,
+    "paragraph": 2
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "1d8aa2b10bf888ad2fb035df158bca59a5468dad31a3112b38757055139d5374",
+    "token_count": 61
+  }
+}

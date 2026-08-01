@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S39-2",
+  "parent_id": "CPA2019-CH4-S39",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S39",
+    "(2)"
+  ],
+  "order": 2,
+  "node_type": "section",
+  "content_type": "rule_making",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "39",
+  "subsection_number": "(2)",
+  "official_text": "Any amount obtained under sub-section (1) shall be credited to such fund and utilised in such manner as may be prescribed.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "39",
+      "subsection": "(2)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 22,
+    "paragraph": 1
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "9c3f1cccea06115077105e25f4613552a20151119b182c3e0541d87fe218d91f",
+    "token_count": 21
+  }
+}

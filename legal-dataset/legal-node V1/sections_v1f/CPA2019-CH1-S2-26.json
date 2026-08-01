@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH1-S2-26",
+  "parent_id": "CPA2019-CH1-S2",
+  "path": [
+    "CPA2019",
+    "CH1",
+    "S2",
+    "(26)"
+  ],
+  "order": 26,
+  "node_type": "section",
+  "content_type": "definition",
+  "act_id": "CPA2019",
+  "chapter_number": 1,
+  "section_number": "2",
+  "subsection_number": "(26)",
+  "official_text": "\"mediator\" means a mediator referred to in section 75;",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "I",
+      "section": "2",
+      "subsection": "(26)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 5,
+    "paragraph": 7
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "53f7a2206ed3b058aeaee3bb8de48bab463f11f8b135f66022cdcf02777f9874",
+    "token_count": 9
+  }
+}

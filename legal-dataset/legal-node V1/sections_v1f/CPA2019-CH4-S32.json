@@ -1,0 +1,39 @@
+{
+  "id": "CPA2019-CH4-S32",
+  "parent_id": "CPA2019-CH4",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S32"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "exception",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "32",
+  "subsection_number": "",
+  "official_text": "If, at any time, there is a vacancy in the office of the President or member of a District Commission, the State Government may, by notification, direct— (a) any other District Commission specified in that notification to exercise the jurisdiction in respect of that district also; or (b) the President or a member of any other District Commission specified in that notification to exercise the powers and discharge the functions of the President or member of that District Commission also.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "32",
+      "subsection": ""
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 17,
+    "paragraph": 3
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "b51d9ee180c08e6dac4b46494078e32d44466ca03bf2bd8694d8e500989f9481",
+    "token_count": 80
+  }
+}

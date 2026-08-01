@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH1-S2-35",
+  "parent_id": "CPA2019-CH1-S2",
+  "path": [
+    "CPA2019",
+    "CH1",
+    "S2",
+    "(35)"
+  ],
+  "order": 35,
+  "node_type": "section",
+  "content_type": "definition",
+  "act_id": "CPA2019",
+  "chapter_number": 1,
+  "section_number": "2",
+  "subsection_number": "(35)",
+  "official_text": "\"product liability action\" means a complaint filed by a person before a District Commission or State Commission or National Commission, as the case may be, for claiming compensation for the harm caused to him;",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "I",
+      "section": "2",
+      "subsection": "(35)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 6,
+    "paragraph": 6
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "a670eab7eb60f77c3cb30c4330ad0a1c13c2019ceb25e817b674dfffa912cd95",
+    "token_count": 34
+  }
+}

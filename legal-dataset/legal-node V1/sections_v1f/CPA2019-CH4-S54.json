@@ -1,0 +1,39 @@
+{
+  "id": "CPA2019-CH4-S54",
+  "parent_id": "CPA2019-CH4",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S54"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "authority",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "54",
+  "subsection_number": "",
+  "official_text": "The National Commission shall consist of— (a) a President; and (b) not less than four and not more than such number of members as may be prescribed.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "54",
+      "subsection": ""
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 25,
+    "paragraph": 8
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "bddf94df5544af3bcbf27fcf6e0edc94f2d96ff0d102dffc8630bccf2473cbcd",
+    "token_count": 27
+  }
+}

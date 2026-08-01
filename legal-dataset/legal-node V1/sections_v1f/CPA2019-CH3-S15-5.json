@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH3-S15-5",
+  "parent_id": "CPA2019-CH3-S15",
+  "path": [
+    "CPA2019",
+    "CH3",
+    "S15",
+    "(5)"
+  ],
+  "order": 5,
+  "node_type": "section",
+  "content_type": "procedure",
+  "act_id": "CPA2019",
+  "chapter_number": 3,
+  "section_number": "15",
+  "subsection_number": "(5)",
+  "official_text": "The inquiries or the investigations made by the Director-General shall be submitted to the Central Authority in such form, in such manner and within such time, as may be specified by regulations.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "III",
+      "section": "15",
+      "subsection": "(5)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 13,
+    "paragraph": 1
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "58e1cf2183e7a0bce9b56a830214a4ca879e01ee202d76bf347c140aaca654b9",
+    "token_count": 32
+  }
+}

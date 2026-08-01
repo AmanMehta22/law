@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S70-5",
+  "parent_id": "CPA2019-CH4-S70",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S70",
+    "(5)"
+  ],
+  "order": 5,
+  "node_type": "section",
+  "content_type": "obligation",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "70",
+  "subsection_number": "(5)",
+  "official_text": "The State Commission shall furnish, periodically or as and when required to the State Government any information including pendency of cases in such form and manner as may be prescribed.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "70",
+      "subsection": "(5)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 22,
+    "paragraph": 10
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "c4bb6d480ce299a68f6b4e94b51d55b26e8c2f2f4ece3f4c5acf407f4e1ece10",
+    "token_count": 30
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S47-3",
+  "parent_id": "CPA2019-CH4-S47",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S47",
+    "(3)"
+  ],
+  "order": 3,
+  "node_type": "section",
+  "content_type": "procedure",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "47",
+  "subsection_number": "(3)",
+  "official_text": "Where the members of a Bench differ in opinion on any point, the points shall be decided according to the opinion of the majority, if there is a majority, but if the members are equally divided, they shall state the point or points on which they differ, and make a reference to the President who shall either hear the point or points himself or refer the case for hearing on such point or points by one or more of the other members and such point or points shall be decided according to the opinion of the majority of the members who have heard the case, including those who first heard it: Provided that the President or the other members, as the case may be, shall give opinion on the point or points so referred within a period of one month from the date of such reference.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "47",
+      "subsection": "(3)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 23,
+    "paragraph": 3
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "94e412dd764b0c71caf7bc7db1b04bda78de7506cd7234056e36f61223b54a23",
+    "token_count": 146
+  }
+}

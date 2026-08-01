@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH3-S14-1",
+  "parent_id": "CPA2019-CH3-S14",
+  "path": [
+    "CPA2019",
+    "CH3",
+    "S14",
+    "(1)"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "rule_making",
+  "act_id": "CPA2019",
+  "chapter_number": 3,
+  "section_number": "14",
+  "subsection_number": "(1)",
+  "official_text": "The Central Authority shall regulate the procedure for transaction of its business and allocation of its business amongst the Chief Commissioner and Commissioners as may be specified by regulations.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "III",
+      "section": "14",
+      "subsection": "(1)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 11,
+    "paragraph": 27
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "7e9dfcca8cab2d9a80594902a950f3d240f1f09eb8c1469631a7a9fee59d15de",
+    "token_count": 29
+  }
+}

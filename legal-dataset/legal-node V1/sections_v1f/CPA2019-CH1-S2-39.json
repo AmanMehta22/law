@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH1-S2-39",
+  "parent_id": "CPA2019-CH1-S2",
+  "path": [
+    "CPA2019",
+    "CH1",
+    "S2",
+    "(39)"
+  ],
+  "order": 39,
+  "node_type": "section",
+  "content_type": "definition",
+  "act_id": "CPA2019",
+  "chapter_number": 1,
+  "section_number": "2",
+  "subsection_number": "(39)",
+  "official_text": "\"regulations\" means the regulations made by the National Commission, or as the case may be, the Central Authority;",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "I",
+      "section": "2",
+      "subsection": "(39)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 7,
+    "paragraph": 2
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "3e9d59f42e8802f6fcd93f94f2fd73bf782cdacf23d8d7597ad6237476a6eeca",
+    "token_count": 18
+  }
+}

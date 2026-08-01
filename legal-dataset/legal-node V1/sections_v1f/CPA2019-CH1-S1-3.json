@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH1-S1-3",
+  "parent_id": "CPA2019-CH1-S1",
+  "path": [
+    "CPA2019",
+    "CH1",
+    "S1",
+    "(3)"
+  ],
+  "order": 3,
+  "node_type": "section",
+  "content_type": "commencement",
+  "act_id": "CPA2019",
+  "chapter_number": 1,
+  "section_number": "1",
+  "subsection_number": "(3)",
+  "official_text": "It shall come into force on such date as the Central Government may, by notification, appoint and different dates may be appointed for different States and for different provisions of this Act and any reference in any such provision to the commencement of this Act shall be construed as a reference to the coming into force of that provision;",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "I",
+      "section": "1",
+      "subsection": "(3)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 1,
+    "paragraph": 3
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "4872d076ebaaab1b88e91a7cf4996ac358f46592db2d3ae9b483d3c57b12b402",
+    "token_count": 59
+  }
+}

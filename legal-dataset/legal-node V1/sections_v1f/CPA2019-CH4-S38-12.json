@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S38-12",
+  "parent_id": "CPA2019-CH4-S38",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S38",
+    "(12)"
+  ],
+  "order": 12,
+  "node_type": "section",
+  "content_type": "procedure",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "38",
+  "subsection_number": "(12)",
+  "official_text": "In the event of death of a complainant who is a consumer or of the opposite party against whom the complaint has been filed, the provisions of Order XXII of the First Schedule to the Code of Civil Procedure, 1908 shall apply subject to the modification that every reference therein to the plaintiff and the defendant shall be construed as reference to a complainant or the opposite party, as the case may be.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "38",
+      "subsection": "(12)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 21,
+    "paragraph": 1
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "16adba48c17f1690c56b9af5a62fe8c53181affb2fad1ceef9d6267708873b11",
+    "token_count": 73
+  }
+}

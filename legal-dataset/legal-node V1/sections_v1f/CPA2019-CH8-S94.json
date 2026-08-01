@@ -1,0 +1,39 @@
+{
+  "id": "CPA2019-CH8-S94",
+  "parent_id": "CPA2019-CH8",
+  "path": [
+    "CPA2019",
+    "CH8",
+    "S94"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "authority",
+  "act_id": "CPA2019",
+  "chapter_number": 8,
+  "section_number": "94",
+  "subsection_number": "",
+  "official_text": "For the purposes of preventing unfair trade practices in e-commerce, direct selling and also to protect the interest and rights of consumers, the Central Government may take such measures in the manner as may be prescribed.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "VIII",
+      "section": "94",
+      "subsection": ""
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 3,
+    "paragraph": 7
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "e8b7d6f0a02cc1a000ea02ec1110d6b9247ddb99e91979b2e4e0b7083b37b060",
+    "token_count": 36
+  }
+}

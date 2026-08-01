@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH3-S22-3",
+  "parent_id": "CPA2019-CH3-S22",
+  "path": [
+    "CPA2019",
+    "CH3",
+    "S22",
+    "(3)"
+  ],
+  "order": 3,
+  "node_type": "section",
+  "content_type": "procedure",
+  "act_id": "CPA2019",
+  "chapter_number": 3,
+  "section_number": "22",
+  "subsection_number": "(3)",
+  "official_text": "Every document, record or article seized under clause (a) of sub-section (1) or produced under clause (c) of that sub-section shall be returned to the person, from whom they were seized or who produced the same, within a period of twenty days of the date of such seizure or production, as the case may be, after copies thereof or extracts therefrom certified by that person, in such manner as may be prescribed, have been taken.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "III",
+      "section": "22",
+      "subsection": "(3)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 15,
+    "paragraph": 8
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "b677f5f80bdd9499415295be29320d49bae6906feaa8ce670922f9909ee22c94",
+    "token_count": 75
+  }
+}

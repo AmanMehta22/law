@@ -1,0 +1,39 @@
+{
+  "id": "CPA2019-CH4-S31",
+  "parent_id": "CPA2019-CH4",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S31"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "exception",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "31",
+  "subsection_number": "",
+  "official_text": "Any person appointed as President or, as the case may be, a member of the District Commission immediately before the commencement of this Act shall hold office as such as President or, as the case may be, as member till the completion of his term for which he has been appointed.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "31",
+      "subsection": ""
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 17,
+    "paragraph": 1
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "36421bf5302d6972b82dda5c56b6806b360df2ec5294ad97832ea4fa94d6d012",
+    "token_count": 51
+  }
+}

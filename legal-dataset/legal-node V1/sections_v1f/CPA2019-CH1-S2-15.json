@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH1-S2-15",
+  "parent_id": "CPA2019-CH1-S2",
+  "path": [
+    "CPA2019",
+    "CH1",
+    "S2",
+    "(15)"
+  ],
+  "order": 15,
+  "node_type": "section",
+  "content_type": "definition",
+  "act_id": "CPA2019",
+  "chapter_number": 1,
+  "section_number": "2",
+  "subsection_number": "(15)",
+  "official_text": "\"District Commission\" means a District Consumer Disputes Redressal Commission established under sub-section (1) of section 28;",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "I",
+      "section": "2",
+      "subsection": "(15)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 4,
+    "paragraph": 6
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "0f02ceaa4e901a121fdf50a1e942e930bd9192a9b77700b9743218c1c8cdcac6",
+    "token_count": 16
+  }
+}

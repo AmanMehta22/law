@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S42-3",
+  "parent_id": "CPA2019-CH4-S42",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S42",
+    "(3)"
+  ],
+  "order": 3,
+  "node_type": "section",
+  "content_type": "authority",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "42",
+  "subsection_number": "(3)",
+  "official_text": "Each State Commission shall consist of— (a) a President; and (b) not less than four or not more than such number of members as may be prescribed in consultation with the Central Government.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "42",
+      "subsection": "(3)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 22,
+    "paragraph": 11
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "8a1a8c36ca124c34065144d778291c0de7eef2d9c262a7d3e7d82e99ade69241",
+    "token_count": 33
+  }
+}

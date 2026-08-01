@@ -1,0 +1,39 @@
+{
+  "id": "CPA2019-CH6-S83",
+  "parent_id": "CPA2019-CH6",
+  "path": [
+    "CPA2019",
+    "CH6",
+    "S83"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "general",
+  "act_id": "CPA2019",
+  "chapter_number": 6,
+  "section_number": "83",
+  "subsection_number": "",
+  "official_text": "A product liability action may be brought by a complainant against a product manufacturer or a product service provider or a product seller, as the case may be, for any harm caused to him on account of a defective product.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "VI",
+      "section": "83",
+      "subsection": ""
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 31,
+    "paragraph": 10
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "8ec6ec8896fbfdf5327464001db22351ba7ac14e3c4f05e0abe54bed54a278e0",
+    "token_count": 40
+  }
+}

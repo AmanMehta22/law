@@ -1,0 +1,48 @@
+{
+  "id": "CPA2019-CH3-S24",
+  "parent_id": "CPA2019-CH3",
+  "path": [
+    "CPA2019",
+    "CH3",
+    "S24"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "appeal",
+  "act_id": "CPA2019",
+  "chapter_number": 3,
+  "section_number": "24",
+  "subsection_number": "",
+  "official_text": "A person aggrieved by any order passed by the Central Authority under sections 20 and 21 may file an appeal to the National Commission within a period of thirty days from the date of receipt of such order.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "III",
+      "section": "24",
+      "subsection": ""
+    }
+  ],
+  "relationships": [
+    {
+      "target": "CPA2019-CH3-S20",
+      "relation": "refers_to"
+    },
+    {
+      "target": "CPA2019-CH3-S21",
+      "relation": "refers_to"
+    }
+  ],
+  "document": {
+    "page": 16,
+    "paragraph": 1
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "629a418d78def9d9a0d0dd6caa072b815fe8d18e25bba4c74ef5313386ddbe62",
+    "token_count": 38
+  }
+}

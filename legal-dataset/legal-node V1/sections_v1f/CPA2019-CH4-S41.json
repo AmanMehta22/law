@@ -1,0 +1,48 @@
+{
+  "id": "CPA2019-CH4-S41",
+  "parent_id": "CPA2019-CH4",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S41"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "appeal",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "41",
+  "subsection_number": "",
+  "official_text": "Any person aggrieved by an order made by the District Commission may prefer an appeal against such order to the State Commission on the grounds of facts or law within a period of forty-five days from the date of the order, in such form and manner, as may be prescribed: Provided that the State Commission may entertain an appeal after the expiry of the said period of forty-five days, if it is satisfied that there was sufficient cause for not filing it within that period: Provided further that no appeal by a person, who is required to pay any amount in terms of an order of the District Commission, shall be entertained by the State Commission unless the appellant has deposited fifty per cent. of that amount in the manner as may be prescribed: Provided also that no appeal shall lie from any order passed under sub-section (1) of section 81 by the District Commission pursuant to a settlement by mediation under section 80.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "41",
+      "subsection": ""
+    }
+  ],
+  "relationships": [
+    {
+      "target": "CPA2019-CH5-S80",
+      "relation": "refers_to"
+    },
+    {
+      "target": "CPA2019-CH5-S81-1",
+      "relation": "refers_to"
+    }
+  ],
+  "document": {
+    "page": 22,
+    "paragraph": 5
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "9728edd1404a756ba317352b8f8986c900d11b9941c1e1c313b187217bdf23d8",
+    "token_count": 164
+  }
+}

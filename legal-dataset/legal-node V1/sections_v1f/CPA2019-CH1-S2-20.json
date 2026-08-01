@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH1-S2-20",
+  "parent_id": "CPA2019-CH1-S2",
+  "path": [
+    "CPA2019",
+    "CH1",
+    "S2",
+    "(20)"
+  ],
+  "order": 20,
+  "node_type": "section",
+  "content_type": "definition",
+  "act_id": "CPA2019",
+  "chapter_number": 1,
+  "section_number": "2",
+  "subsection_number": "(20)",
+  "official_text": "\"express warranty\" means any material statement, affirmation of fact, promise or description relating to a product or service warranting that it conforms to such material statement, affirmation, promise or description and includes any sample or model of a product warranting that the whole of such product conforms to such sample or model;",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "I",
+      "section": "2",
+      "subsection": "(20)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 5,
+    "paragraph": 1
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "194806c4c50b49b516c000bfc10b6f2080ad6a313124298c12ba7b6ea2bc658b",
+    "token_count": 52
+  }
+}

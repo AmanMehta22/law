@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S38-9",
+  "parent_id": "CPA2019-CH4-S38",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S38",
+    "(9)"
+  ],
+  "order": 9,
+  "node_type": "section",
+  "content_type": "procedure",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "38",
+  "subsection_number": "(9)",
+  "official_text": "For the purposes of this section, the District Commission shall have the same powers as are vested in a civil court under the Code of Civil Procedure, 1908 while trying a suit in respect of the following matters, namely:— (a) the summoning and enforcing the attendance of any defendant or witness and examining the witness on oath; (b) requiring the discovery and production of any document or other material object as evidence; (c) receiving of evidence on affidavits; (d) the requisitioning of the report of the concerned analysis or test from the appropriate laboratory or from any other relevant source; (e) issuing of commissions for the examination of any witness, or document; (f) any other matter which may be prescribed by the Central Government.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "38",
+      "subsection": "(9)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 3,
+    "paragraph": 5
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "f0f7ae6236b2a876e2d24e531d8b2abf0f4f981da5b59a78d435f6507d8dd2ca",
+    "token_count": 124
+  }
+}

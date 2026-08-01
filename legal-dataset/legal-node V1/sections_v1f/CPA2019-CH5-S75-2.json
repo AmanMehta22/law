@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH5-S75-2",
+  "parent_id": "CPA2019-CH5-S75",
+  "path": [
+    "CPA2019",
+    "CH5",
+    "S75",
+    "(2)"
+  ],
+  "order": 2,
+  "node_type": "section",
+  "content_type": "rule_making",
+  "act_id": "CPA2019",
+  "chapter_number": 5,
+  "section_number": "75",
+  "subsection_number": "(2)",
+  "official_text": "The qualifications and experience required for empanelment as mediator, the procedure for empanelment, the manner of training empanelled mediators, the fee payable to empanelled mediator, the terms and conditions for empanelment, the code of conduct for empanelled mediators, the grounds on which, and the manner in which, empanelled mediators shall be removed or empanelment shall be cancelled and other matters relating thereto, shall be such as may be specified by regulations.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "V",
+      "section": "75",
+      "subsection": "(2)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 30,
+    "paragraph": 4
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "b9402a5b5c3040e4eef7b89e90e0c3c7cf843d683666ba96229287c3da76df8c",
+    "token_count": 71
+  }
+}

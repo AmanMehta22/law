@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S38-7",
+  "parent_id": "CPA2019-CH4-S38",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S38",
+    "(7)"
+  ],
+  "order": 7,
+  "node_type": "section",
+  "content_type": "timeline",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "38",
+  "subsection_number": "(7)",
+  "official_text": "Every complaint shall be disposed of as expeditiously as possible and endeavour shall be made to decide the complaint within a period of three months from the date of receipt of notice by opposite party where the complaint does not require analysis or testing of commodities and within five months if it requires analysis or testing of commodities: Provided that no adjournment shall ordinarily be granted by the District Commission unless sufficient cause is shown and the reasons for grant of adjournment have been recorded in writing by the Commission: Provided further that the District Commission shall make such orders as to the costs occasioned by the adjournment as may be specified by regulations: Provided also that in the event of a complaint being disposed of after the period so specified, the District Commission shall record in writing, the reasons for the same at the time of disposing of the said complaint.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "38",
+      "subsection": "(7)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 18,
+    "paragraph": 4
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "a97f601785947836def31a59d7d6e5ee93c5d8e07e3a8900fc1f524bd0a8792e",
+    "token_count": 152
+  }
+}

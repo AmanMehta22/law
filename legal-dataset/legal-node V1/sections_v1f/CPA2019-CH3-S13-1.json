@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH3-S13-1",
+  "parent_id": "CPA2019-CH3-S13",
+  "path": [
+    "CPA2019",
+    "CH3",
+    "S13",
+    "(1)"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "authority",
+  "act_id": "CPA2019",
+  "chapter_number": 3,
+  "section_number": "13",
+  "subsection_number": "(1)",
+  "official_text": "The Central Government shall provide the Central Authority such number of officers and other employees as it considers necessary for the efficient performance of its functions under this Act.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "III",
+      "section": "13",
+      "subsection": "(1)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 10,
+    "paragraph": 4
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "3c51f4681e8955d47fcbae180e9acf48aee498f29e1d6c96f0fc34684d40a0c3",
+    "token_count": 29
+  }
+}

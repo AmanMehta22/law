@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH3-S15-2",
+  "parent_id": "CPA2019-CH3-S15",
+  "path": [
+    "CPA2019",
+    "CH3",
+    "S15",
+    "(2)"
+  ],
+  "order": 2,
+  "node_type": "section",
+  "content_type": "authority",
+  "act_id": "CPA2019",
+  "chapter_number": 3,
+  "section_number": "15",
+  "subsection_number": "(2)",
+  "official_text": "The Central Government may appoint a Director-General and such number of Additional Director-General, Director, Joint Director, Deputy Director and Assistant Director, from amongst persons who have experience in investigation and possess such qualifications, in such manner, as may be prescribed.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "III",
+      "section": "15",
+      "subsection": "(2)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 10,
+    "paragraph": 5
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "8095da70219ac3f65c5d1bf7a31e23b98794710a22e693c2d25086a1d14d37ed",
+    "token_count": 40
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S37-2",
+  "parent_id": "CPA2019-CH4-S37",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S37",
+    "(2)"
+  ],
+  "order": 2,
+  "node_type": "section",
+  "content_type": "procedure",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "37",
+  "subsection_number": "(2)",
+  "official_text": "Where the parties agree for settlement by mediation and give their consent in writing, the District Commission shall, within five days of receipt of such consent, refer the Manner in which complaint shall be made. Proceedings before matter for mediation, and in such case, the provisions of Chapter V, relating to mediation, shall apply.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "37",
+      "subsection": "(2)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 18,
+    "paragraph": 12
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "1caa459e9017aa3f2f2c126305b6187925f84cf973c8f510039e8eb0716139a6",
+    "token_count": 54
+  }
+}

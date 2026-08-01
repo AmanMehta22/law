@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S39-3",
+  "parent_id": "CPA2019-CH4-S39",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S39",
+    "(3)"
+  ],
+  "order": 3,
+  "node_type": "section",
+  "content_type": "procedure",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "39",
+  "subsection_number": "(3)",
+  "official_text": "In any proceeding conducted by the President and a member and if they differ on any point or points, they shall state the point or points on which they differ and refer the same to another member for hearing on such point or points and the opinion of the majority shall be the order of the District Commission: Provided that the other member shall give his opinion on such point or points referred to him within a period of one month from the date of such reference.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "39",
+      "subsection": "(3)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 22,
+    "paragraph": 2
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "9208f15f5912c918148c48251ab0594ecd8b85a423f7038b92db70a0741e6633",
+    "token_count": 87
+  }
+}

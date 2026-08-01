@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S42-2",
+  "parent_id": "CPA2019-CH4-S42",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S42",
+    "(2)"
+  ],
+  "order": 2,
+  "node_type": "section",
+  "content_type": "authority",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "42",
+  "subsection_number": "(2)",
+  "official_text": "The State Commission shall ordinarily function at the State capital and perform its functions at such other places as the State Government may in consultation with the State Commission notify in the Official Gazette: Provided that the State Government may, by notification, establish regional benches of the State Commission, at such places, as it deems fit.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "42",
+      "subsection": "(2)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 22,
+    "paragraph": 7
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "4193ab1774accafc68ad4875d03a7c315380660fddcef6280c132b41da29c973",
+    "token_count": 56
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S51-5",
+  "parent_id": "CPA2019-CH4-S51",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S51",
+    "(5)"
+  ],
+  "order": 5,
+  "node_type": "section",
+  "content_type": "appeal",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "51",
+  "subsection_number": "(5)",
+  "official_text": "An appeal may lie to the National Commission under this section from an order passed ex parte by the State Commission.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "51",
+      "subsection": "(5)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 25,
+    "paragraph": 1
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "986b463cd7687fa18414502aafaa794efa6a706722aa3ff6b5ca4e012f9b75a7",
+    "token_count": 21
+  }
+}

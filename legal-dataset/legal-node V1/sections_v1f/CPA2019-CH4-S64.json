@@ -1,0 +1,39 @@
+{
+  "id": "CPA2019-CH4-S64",
+  "parent_id": "CPA2019-CH4",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S64"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "exception",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "64",
+  "subsection_number": "",
+  "official_text": "No act or proceeding of the District Commission, the State Commission or the National Commission shall be invalid by reason only of the existence of any vacancy amongst its members or any defect in the constitution thereof.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "64",
+      "subsection": ""
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 12,
+    "paragraph": 3
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "1c47993696b8ce2ee72f9fad9f30b4b2269dd8bc31a6171e55a8572f7bbf102e",
+    "token_count": 37
+  }
+}

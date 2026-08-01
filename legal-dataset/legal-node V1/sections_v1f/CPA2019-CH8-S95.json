@@ -1,0 +1,39 @@
+{
+  "id": "CPA2019-CH8-S95",
+  "parent_id": "CPA2019-CH8",
+  "path": [
+    "CPA2019",
+    "CH8",
+    "S95"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "authority",
+  "act_id": "CPA2019",
+  "chapter_number": 8,
+  "section_number": "95",
+  "subsection_number": "",
+  "official_text": "The Presidents and members of the District Commission, the State Commission and the National Commission, and officers and other employees thereof, the Chief Commissioner and the Commissioner of the Central Authority, the Director General, the Additional Director General, the Director, the Joint Director, the Deputy Director and the Assistant Director and all other officers and employees of the Central Authority and other persons performing any duty under this Act, while acting or purporting to act in pursuance of any of the provisions of this Act, shall be deemed to be public servants within the meaning of section 21 of the Indian Penal Code.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "VIII",
+      "section": "95",
+      "subsection": ""
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 34,
+    "paragraph": 3
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "4162e16f896600921c5ea176ef8fc688d155aa8e13580ae11eb45da75b7acdaa",
+    "token_count": 103
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH5-S79-2",
+  "parent_id": "CPA2019-CH5-S79",
+  "path": [
+    "CPA2019",
+    "CH5",
+    "S79",
+    "(2)"
+  ],
+  "order": 2,
+  "node_type": "section",
+  "content_type": "procedure",
+  "act_id": "CPA2019",
+  "chapter_number": 5,
+  "section_number": "79",
+  "subsection_number": "(2)",
+  "official_text": "Where a consumer dispute is referred for mediation by the District Commission or the State Commission or the National Commission, as the case may be, the mediator nominated by such Commission shall have regard to the rights and obligations of the parties, the usages of trade, if any, the circumstances giving rise to the consumer dispute and such other relevant factors, as he may deem necessary and shall be guided by the principles of natural justice while carrying out mediation.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "V",
+      "section": "79",
+      "subsection": "(2)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 31,
+    "paragraph": 2
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "39cc2479f11d5b6f86c9f081dbe164d5c2bc93d1a02517d301708e34289de93e",
+    "token_count": 80
+  }
+}

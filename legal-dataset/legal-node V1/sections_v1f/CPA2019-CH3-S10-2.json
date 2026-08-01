@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH3-S10-2",
+  "parent_id": "CPA2019-CH3-S10",
+  "path": [
+    "CPA2019",
+    "CH3",
+    "S10",
+    "(2)"
+  ],
+  "order": 2,
+  "node_type": "section",
+  "content_type": "authority",
+  "act_id": "CPA2019",
+  "chapter_number": 3,
+  "section_number": "10",
+  "subsection_number": "(2)",
+  "official_text": "The Central Authority shall consist of a Chief Commissioner and such number of other Commissioners as may be prescribed, to be appointed by the Central Government to exercise the powers and discharge the functions under this Act.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "III",
+      "section": "10",
+      "subsection": "(2)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 11,
+    "paragraph": 25
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "f1a1e435959f878200c091c458d409545b81f28b195e24dda9ce071597896393",
+    "token_count": 37
+  }
+}

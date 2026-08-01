@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S70-2",
+  "parent_id": "CPA2019-CH4-S70",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S70",
+    "(2)"
+  ],
+  "order": 2,
+  "node_type": "section",
+  "content_type": "authority",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "70",
+  "subsection_number": "(2)",
+  "official_text": "There shall be a monitoring cell to be constituted by the President of the National Commission to oversee the functioning of the State Commissions from the administrative point of view.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "70",
+      "subsection": "(2)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 29,
+    "paragraph": 1
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "b81e3d528b6bfa53020033c619cc83676756b5030b7c140539b390a3618f63b7",
+    "token_count": 30
+  }
+}

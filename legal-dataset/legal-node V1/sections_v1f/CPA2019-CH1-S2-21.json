@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH1-S2-21",
+  "parent_id": "CPA2019-CH1-S2",
+  "path": [
+    "CPA2019",
+    "CH1",
+    "S2",
+    "(21)"
+  ],
+  "order": 21,
+  "node_type": "section",
+  "content_type": "definition",
+  "act_id": "CPA2019",
+  "chapter_number": 1,
+  "section_number": "2",
+  "subsection_number": "(21)",
+  "official_text": "\"goods\" means every kind of movable property and includes \"food\" as defined in clause (j) of sub-section (1) of section 3 of the Food Safety and Standards Act, 2006;",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "I",
+      "section": "2",
+      "subsection": "(21)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 5,
+    "paragraph": 2
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "e602bd9040bb4a8d7c4ee19adef63c3ce247beed7a0d299686777faf20a9bcfa",
+    "token_count": 29
+  }
+}

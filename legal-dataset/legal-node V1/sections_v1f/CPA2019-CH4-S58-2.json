@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S58-2",
+  "parent_id": "CPA2019-CH4-S58",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S58",
+    "(2)"
+  ],
+  "order": 2,
+  "node_type": "section",
+  "content_type": "authority",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "58",
+  "subsection_number": "(2)",
+  "official_text": "The jurisdiction, powers and authority of the National Commission may be exercised by Benches thereof and a Bench may be constituted by the President with one or more members as he may deem fit: Provided that the senior-most member of the Bench shall preside over the Bench.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "58",
+      "subsection": "(2)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 23,
+    "paragraph": 2
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "49780f233e2325d3bd4c678259c9341f75978de37a878886549bfbafd00e9e82",
+    "token_count": 47
+  }
+}

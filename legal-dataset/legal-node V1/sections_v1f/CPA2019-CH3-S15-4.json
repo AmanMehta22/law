@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH3-S15-4",
+  "parent_id": "CPA2019-CH3-S15",
+  "path": [
+    "CPA2019",
+    "CH3",
+    "S15",
+    "(4)"
+  ],
+  "order": 4,
+  "node_type": "section",
+  "content_type": "authority",
+  "act_id": "CPA2019",
+  "chapter_number": 3,
+  "section_number": "15",
+  "subsection_number": "(4)",
+  "official_text": "The Director-General may delegate all or any of his powers to the Additional Director-General or Director, Joint Director or Deputy Director or Assistant Director, as the case may be, while conducting inquiries or investigations under this Act.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "III",
+      "section": "15",
+      "subsection": "(4)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 12,
+    "paragraph": 10
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "f52809376d516691246bd3b2006c63659c15bb382f1c8444779e8cfc4fb97911",
+    "token_count": 37
+  }
+}

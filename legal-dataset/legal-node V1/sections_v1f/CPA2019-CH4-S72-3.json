@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S72-3",
+  "parent_id": "CPA2019-CH4-S72",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S72",
+    "(3)"
+  ],
+  "order": 3,
+  "node_type": "section",
+  "content_type": "jurisdiction",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "72",
+  "subsection_number": "(3)",
+  "official_text": "Save as otherwise provided, the offences under sub-section (1) shall be tried summarily by the District Commission or the State Commission or the National Commission, as the case may be.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "72",
+      "subsection": "(3)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 1,
+    "paragraph": 6
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "be6c98a41943e8d6f5c4da14d3dc8b75069b82b96bd71e237ae8f4e27ccbfbc3",
+    "token_count": 30
+  }
+}

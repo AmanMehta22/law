@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S53-2",
+  "parent_id": "CPA2019-CH4-S53",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S53",
+    "(2)"
+  ],
+  "order": 2,
+  "node_type": "section",
+  "content_type": "authority",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "53",
+  "subsection_number": "(2)",
+  "official_text": "The National Commission shall ordinarily function at the National Capital Region and perform its functions at such other places as the Central Government may in consultation with the National Commission notify in the Official Gazette: Provided that the Central Government may, by notification, establish regional Benches of the National Commission, at such places, as it deems fit.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "53",
+      "subsection": "(2)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 25,
+    "paragraph": 3
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "38fa4e1face2d2e7e4f8dd26262ebb5c552ffe12dc8fd69f79b51fb5f08c55cc",
+    "token_count": 57
+  }
+}

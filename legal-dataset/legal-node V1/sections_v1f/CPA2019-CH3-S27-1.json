@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH3-S27-1",
+  "parent_id": "CPA2019-CH3-S27",
+  "path": [
+    "CPA2019",
+    "CH3",
+    "S27",
+    "(1)"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "obligation",
+  "act_id": "CPA2019",
+  "chapter_number": 3,
+  "section_number": "27",
+  "subsection_number": "(1)",
+  "official_text": "The Central Authority shall prepare once in every year, in such form, manner and at such time as may be prescribed, an annual report giving full account of its activities during the previous year and such other reports and returns, as may be directed, and copies of such report and returns shall be forwarded to the Central Government.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "III",
+      "section": "27",
+      "subsection": "(1)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 11,
+    "paragraph": 33
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "a484457b53ac4ca8b952ade25fe03eb7e4e1a4b7e809d5e7f21a1e1c3a1d09be",
+    "token_count": 58
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH5-S75-3",
+  "parent_id": "CPA2019-CH5-S75",
+  "path": [
+    "CPA2019",
+    "CH5",
+    "S75",
+    "(3)"
+  ],
+  "order": 3,
+  "node_type": "section",
+  "content_type": "timeline",
+  "act_id": "CPA2019",
+  "chapter_number": 5,
+  "section_number": "75",
+  "subsection_number": "(3)",
+  "official_text": "The panel of mediators prepared under sub-section (1) shall be valid for a period of five years, and the empanelled mediators shall be eligible to be considered for re-empanelment for another term, subject to such conditions as may be specified by regulations.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "V",
+      "section": "75",
+      "subsection": "(3)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 30,
+    "paragraph": 5
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "69e59f734b44f4050f11b6d5bedc851b12e3d55579e07ef29b9777f56cde8142",
+    "token_count": 42
+  }
+}

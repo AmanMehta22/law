@@ -1,0 +1,45 @@
+{
+  "id": "CPA2019-CH4-S38-11",
+  "parent_id": "CPA2019-CH4-S38",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S38",
+    "(11)"
+  ],
+  "order": 11,
+  "node_type": "section",
+  "content_type": "procedure",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "38",
+  "subsection_number": "(11)",
+  "official_text": "Where the complainant is a consumer referred to in sub-clause (v) of clause (5) of section 2, the provisions of Order I Rule 8 of the First Schedule to the Code of Civil Procedure, 1908 shall apply subject to the modification that every reference therein to a suit or decree shall be construed as a reference to a complaint or the order of the District Commission thereon.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "38",
+      "subsection": "(11)"
+    }
+  ],
+  "relationships": [
+    {
+      "target": "CPA2019-CH1-S2-5",
+      "relation": "refers_to"
+    }
+  ],
+  "document": {
+    "page": 19,
+    "paragraph": 1
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "26a6a3c243d7910a86f889f211702394d3accaf14e63669b85b84fe1137f8fa7",
+    "token_count": 67
+  }
+}

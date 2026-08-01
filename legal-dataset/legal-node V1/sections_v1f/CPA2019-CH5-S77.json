@@ -1,0 +1,39 @@
+{
+  "id": "CPA2019-CH5-S77",
+  "parent_id": "CPA2019-CH5",
+  "path": [
+    "CPA2019",
+    "CH5",
+    "S77"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "obligation",
+  "act_id": "CPA2019",
+  "chapter_number": 5,
+  "section_number": "77",
+  "subsection_number": "",
+  "official_text": "It shall be the duty of the mediator to disclose— (a) any personal, professional or financial interest in the outcome of the consumer dispute; (b) the circumstances which may give rise to a justifiable doubt as to his independence or impartiality; and (c) such other facts as may be specified by regulations.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "V",
+      "section": "77",
+      "subsection": ""
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 30,
+    "paragraph": 6
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "7998dcf9a2be31406b9b9be000928992cea694d562e919f20cbfb334bdcb3380",
+    "token_count": 52
+  }
+}

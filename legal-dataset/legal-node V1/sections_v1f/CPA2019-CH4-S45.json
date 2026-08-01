@@ -1,0 +1,39 @@
+{
+  "id": "CPA2019-CH4-S45",
+  "parent_id": "CPA2019-CH4",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S45"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "exception",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "45",
+  "subsection_number": "",
+  "official_text": "Any person appointed as President or, as the case may be, a member of the State Commission immediately before the commencement of this Act shall hold office as such, as President or member, as the case may be, till the completion of his term.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "45",
+      "subsection": ""
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 17,
+    "paragraph": 2
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "8091bf4b140b8a1ee898a5164b28ef29f4b4de8adb876f0e5ff3896135544689",
+    "token_count": 44
+  }
+}

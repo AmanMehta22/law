@@ -1,0 +1,48 @@
+{
+  "id": "CPA2019-CH8-S97",
+  "parent_id": "CPA2019-CH8",
+  "path": [
+    "CPA2019",
+    "CH8",
+    "S97"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "penalty",
+  "act_id": "CPA2019",
+  "chapter_number": 8,
+  "section_number": "97",
+  "subsection_number": "",
+  "official_text": "The penalty collected under section 21 and the amount collected under section 96 shall be credited to such fund as may be prescribed.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "VIII",
+      "section": "97",
+      "subsection": ""
+    }
+  ],
+  "relationships": [
+    {
+      "target": "CPA2019-CH3-S21",
+      "relation": "refers_to"
+    },
+    {
+      "target": "CPA2019-CH8-S96",
+      "relation": "refers_to"
+    }
+  ],
+  "document": {
+    "page": 35,
+    "paragraph": 4
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "dc056905f3dd84d25b1d04826941db06b0d481ce38f9f3d986690db96c3845ad",
+    "token_count": 23
+  }
+}

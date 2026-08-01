@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH3-S21-7",
+  "parent_id": "CPA2019-CH3-S21",
+  "path": [
+    "CPA2019",
+    "CH3",
+    "S21",
+    "(7)"
+  ],
+  "order": 7,
+  "node_type": "section",
+  "content_type": "penalty",
+  "act_id": "CPA2019",
+  "chapter_number": 3,
+  "section_number": "21",
+  "subsection_number": "(7)",
+  "official_text": "While determining the penalty under this section, regard shall be had to the following, namely:—\n(a) the population and the area impacted or affected by such offence;\n(b) the frequency and duration of such offence;\n(c) the vulnerability of the class of persons likely to be adversely affected by such offence; and\n(d) the gross revenue from the sales effected by virtue of such offence.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "III",
+      "section": "21",
+      "subsection": "(7)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 15,
+    "paragraph": 3
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "809f2209e8927bae2f2cdd4b9fefb9c6f0659a849c50a9e353847002716b4a03",
+    "token_count": 65
+  }
+}

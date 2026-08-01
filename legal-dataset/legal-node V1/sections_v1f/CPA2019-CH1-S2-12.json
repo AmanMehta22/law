@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH1-S2-12",
+  "parent_id": "CPA2019-CH1-S2",
+  "path": [
+    "CPA2019",
+    "CH1",
+    "S2",
+    "(12)"
+  ],
+  "order": 12,
+  "node_type": "section",
+  "content_type": "definition",
+  "act_id": "CPA2019",
+  "chapter_number": 1,
+  "section_number": "2",
+  "subsection_number": "(12)",
+  "official_text": "\"design\", in relation to a product, means the intended or known physical and material characteristics of such product and includes any intended or known formulation or content of such product and the usual result of the intended manufacturing or other process used to produce such product;",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "I",
+      "section": "2",
+      "subsection": "(12)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 4,
+    "paragraph": 3
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "83d84a3410d5fa305e0f2a30ea3543a7360e90c350c7286a9d250783d22f0dc5",
+    "token_count": 46
+  }
+}

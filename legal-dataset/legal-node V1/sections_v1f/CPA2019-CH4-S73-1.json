@@ -1,0 +1,45 @@
+{
+  "id": "CPA2019-CH4-S73-1",
+  "parent_id": "CPA2019-CH4-S73",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S73",
+    "(1)"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "appeal",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "73",
+  "subsection_number": "(1)",
+  "official_text": "Notwithstanding anything contained in the Code of Criminal Procedure, 1973, where an order is passed under sub-section (1) of section 72, an appeal shall lie, both on facts and on law from— (a) the order made by the District Commission to the State Commission; (b) the order made by the State Commission to the National Commission; and (c) the order made by the National Commission to the Supreme Court.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "73",
+      "subsection": "(1)"
+    }
+  ],
+  "relationships": [
+    {
+      "target": "CPA2019-CH4-S72-1",
+      "relation": "refers_to"
+    }
+  ],
+  "document": {
+    "page": 14,
+    "paragraph": 8
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "f8ba0a32a347c2235fb215c89daf5966856a5a1e446da991ce0b96d6139470cb",
+    "token_count": 69
+  }
+}

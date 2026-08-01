@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH1-S2-32",
+  "parent_id": "CPA2019-CH1-S2",
+  "path": [
+    "CPA2019",
+    "CH1",
+    "S2",
+    "(32)"
+  ],
+  "order": 32,
+  "node_type": "section",
+  "content_type": "definition",
+  "act_id": "CPA2019",
+  "chapter_number": 1,
+  "section_number": "2",
+  "subsection_number": "(32)",
+  "official_text": "\"prescribed\" means prescribed by rules made by the Central Government, or, as the case may be, the State Government;",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "I",
+      "section": "2",
+      "subsection": "(32)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 6,
+    "paragraph": 3
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "5ecf8d970f858fc9df266fa31f0e153519692f2b37bb7949afe808954396350c",
+    "token_count": 19
+  }
+}

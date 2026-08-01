@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH6-S84-1",
+  "parent_id": "CPA2019-CH6-S84",
+  "path": [
+    "CPA2019",
+    "CH6",
+    "S84",
+    "(1)"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "obligation",
+  "act_id": "CPA2019",
+  "chapter_number": 6,
+  "section_number": "84",
+  "subsection_number": "(1)",
+  "official_text": "A product manufacturer shall be liable in a product liability action, if— (a) the product contains a manufacturing defect; or (b) the product is defective in design; or (c) there is a deviation from manufacturing specifications; or (d) the product does not conform to the express warranty; or (e) the product fails to contain adequate instructions of correct usage to prevent any harm or any warning regarding improper or incorrect usage.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "VI",
+      "section": "84",
+      "subsection": "(1)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 31,
+    "paragraph": 12
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "498eaa142a0eaf91f59b3f9376b2ecb0a0426b7802ce202867f18abd84e67d66",
+    "token_count": 71
+  }
+}

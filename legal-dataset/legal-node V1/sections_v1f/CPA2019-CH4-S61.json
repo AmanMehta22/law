@@ -1,0 +1,39 @@
+{
+  "id": "CPA2019-CH4-S61",
+  "parent_id": "CPA2019-CH4",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S61"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "procedure",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "61",
+  "subsection_number": "",
+  "official_text": "Where an order is passed by the National Commission ex parte, the aggrieved party may make an application to the Commission for setting aside such order.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "61",
+      "subsection": ""
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 27,
+    "paragraph": 1
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "8a4ccecd07233c6905a30dd304a233139b6614a49f4044c7aca46d95bd698c1c",
+    "token_count": 26
+  }
+}

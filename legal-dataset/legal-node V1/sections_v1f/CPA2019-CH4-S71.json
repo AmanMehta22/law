@@ -1,0 +1,39 @@
+{
+  "id": "CPA2019-CH4-S71",
+  "parent_id": "CPA2019-CH4",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S71"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "procedure",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "71",
+  "subsection_number": "",
+  "official_text": "Every order made by a District Commission, State Commission or the National Commission shall be enforced by it in the same manner as if it were a decree made by a Court in a suit before it and the provisions of Order XXI of the First Schedule to the Code of Civil Procedure, 1908 shall, as far as may be, applicable, subject to the modification that every reference therein to the decree shall be construed as reference to the order made under this Act.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "71",
+      "subsection": ""
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 22,
+    "paragraph": 4
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "3ba7a7d3775457ce4c6e273e9791038f3fa8f34931dab83ad0aab37bae657f6d",
+    "token_count": 84
+  }
+}

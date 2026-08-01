@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH3-S19-2",
+  "parent_id": "CPA2019-CH3-S19",
+  "path": [
+    "CPA2019",
+    "CH3",
+    "S19",
+    "(2)"
+  ],
+  "order": 2,
+  "node_type": "section",
+  "content_type": "procedure",
+  "act_id": "CPA2019",
+  "chapter_number": 3,
+  "section_number": "19",
+  "subsection_number": "(2)",
+  "official_text": "Where, after preliminary inquiry, the Central Authority is of the opinion that the matter is to be dealt with by a Regulator established under any other law for the time being in force, it may refer such matter to the concerned Regulator along with its report.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "III",
+      "section": "19",
+      "subsection": "(2)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 14,
+    "paragraph": 1
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "12e8bd313be842fc588cc4b5d258b7fa132ce4ef9e9481f24de68698a25f01fe",
+    "token_count": 46
+  }
+}

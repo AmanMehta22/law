@@ -1,0 +1,48 @@
+{
+  "id": "CPA2019-CH7-S88",
+  "parent_id": "CPA2019-CH7",
+  "path": [
+    "CPA2019",
+    "CH7",
+    "S88"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "penalty",
+  "act_id": "CPA2019",
+  "chapter_number": 7,
+  "section_number": "88",
+  "subsection_number": "",
+  "official_text": "Whoever, fails to comply with any direction of the Central Authority under sections 20 and 21, shall be punished with imprisonment for a term which may extend to six months or with fine which may extend to twenty lakh rupees, or with both.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "VII",
+      "section": "88",
+      "subsection": ""
+    }
+  ],
+  "relationships": [
+    {
+      "target": "CPA2019-CH3-S20",
+      "relation": "refers_to"
+    },
+    {
+      "target": "CPA2019-CH3-S21",
+      "relation": "refers_to"
+    }
+  ],
+  "document": {
+    "page": 33,
+    "paragraph": 1
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "1342020a40eaca29115722574c4a00c0d2206037c6d91a71ac27514e916cf1ce",
+    "token_count": 43
+  }
+}

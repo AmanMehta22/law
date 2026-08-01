@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH4-S65-1",
+  "parent_id": "CPA2019-CH4-S65",
+  "path": [
+    "CPA2019",
+    "CH4",
+    "S65",
+    "(1)"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "procedure",
+  "act_id": "CPA2019",
+  "chapter_number": 4,
+  "section_number": "65",
+  "subsection_number": "(1)",
+  "official_text": "All notices, required by this Act to be served, shall be served by delivering or transmitting a copy thereof by registered post acknowledgment due addressed to opposite party against whom complaint is made or to the complainant by speed post or by such courier service, approved by the District Commission, the State Commission or the National Commission, as the case may be, or by any other mode of transmission of documents including electronic means.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "IV",
+      "section": "65",
+      "subsection": "(1)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 27,
+    "paragraph": 3
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "3488dceb83b734fb318dc8b2c59e78dd4ea7272bf99a9d59f949288352ebf913",
+    "token_count": 74
+  }
+}

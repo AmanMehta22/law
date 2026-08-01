@@ -1,0 +1,40 @@
+{
+  "id": "CPA2019-CH2-S8-3",
+  "parent_id": "CPA2019-CH2-S8",
+  "path": [
+    "CPA2019",
+    "CH2",
+    "S8",
+    "(3)"
+  ],
+  "order": 3,
+  "node_type": "section",
+  "content_type": "procedure",
+  "act_id": "CPA2019",
+  "chapter_number": 2,
+  "section_number": "8",
+  "subsection_number": "(3)",
+  "official_text": "The District Council shall meet as and when necessary but not less than two meetings shall be held every year.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "II",
+      "section": "8",
+      "subsection": "(3)"
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 11,
+    "paragraph": 23
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "046955d1751e513c11ba25f9363bb5e5079866ad2c54ddd3fed8df93b340ea6f",
+    "token_count": 20
+  }
+}

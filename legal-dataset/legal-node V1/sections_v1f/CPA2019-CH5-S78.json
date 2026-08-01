@@ -1,0 +1,39 @@
+{
+  "id": "CPA2019-CH5-S78",
+  "parent_id": "CPA2019-CH5",
+  "path": [
+    "CPA2019",
+    "CH5",
+    "S78"
+  ],
+  "order": 1,
+  "node_type": "section",
+  "content_type": "procedure",
+  "act_id": "CPA2019",
+  "chapter_number": 5,
+  "section_number": "78",
+  "subsection_number": "",
+  "official_text": "Where the District Commission or the State Commission or the National Commission, as the case may be, is satisfied, on the information furnished by the mediator or on the information received from any other person including parties to the complaint and after hearing the mediator, it shall replace such mediator by another mediator.",
+  "citations": [
+    {
+      "act": "Consumer Protection Act, 2019",
+      "chapter": "V",
+      "section": "78",
+      "subsection": ""
+    }
+  ],
+  "relationships": [],
+  "document": {
+    "page": 18,
+    "paragraph": 10
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "language": "en",
+    "status": "active",
+    "effective_from": "2019-07-20",
+    "effective_to": null,
+    "checksum": "2fb1a0765ec746eafc9bfa7f16ecddb2758068b3bd23aab231f36be64d8506ef",
+    "token_count": 53
+  }
+}
