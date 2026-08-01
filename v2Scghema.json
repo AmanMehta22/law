@@ -1,0 +1,491 @@
+alright give me final v2 schema
+
+I think after our discussion, we can make something much cleaner than a typical RAG schema.
+
+The biggest mistake most RAG projects make is that every knowledge card has a different structure.
+
+I wouldn't do that.
+
+I would make every V2 object follow the same envelope, and only the content field changes depending on the concept type.
+
+That gives you:
+
+one database schema,
+one review interface,
+one embedding pipeline,
+one retrieval pipeline.
+Final V2 Architecture
+V2/
+│
+├── definitions/
+├── rights/
+├── obligations/
+├── procedures/
+├── authorities/
+├── jurisdiction/
+├── remedies/
+├── penalties/
+├── timelines/
+├── evidence/
+├── exceptions/
+├── offences/
+├── examples/
+├── intents/
+├── aliases/
+└── relationships/
+
+These folders are only for organization.
+
+Internally every JSON follows exactly the same schema.
+
+Universal V2 Schema
+{
+    "concept_id": "",
+
+    "concept_type": "",
+
+    "title": "",
+
+    "description": "",
+
+    "content": {},
+
+    "derived_from": [],
+
+    "related_concepts": [],
+
+    "search": {
+        "keywords": [],
+        "aliases": [],
+        "user_queries": []
+    },
+
+    "metadata": {
+        "jurisdiction": "India",
+        "act": "Consumer Protection Act, 2019",
+        "language": "en",
+        "review_status": "draft",
+        "confidence": 0.0,
+        "created_by": "DefinitionAgent",
+        "reviewed_by": null,
+        "version": 1
+    }
+}
+
+Notice
+
+Only one field changes:
+
+"content":{}
+
+Everything else remains identical.
+
+Definition Card
+{
+    "concept_id":"definition.consumer",
+
+    "concept_type":"definition",
+
+    "title":"Consumer",
+
+    "description":"Definition of Consumer",
+
+    "content":{
+
+        "term":"Consumer",
+
+        "legal_definition":"...",
+
+        "plain_language":"...",
+
+        "examples":[
+
+            "Buying a phone for personal use."
+
+        ],
+
+        "non_examples":[
+
+            "Buying products for resale."
+
+        ]
+
+    },
+
+    "derived_from":[
+
+        "CPA2019-CH1-S2-7"
+
+    ],
+
+    "related_concepts":[
+
+        "rights.consumer"
+
+    ],
+
+    "search":{
+
+        "keywords":[
+
+            "consumer",
+
+            "buyer"
+
+        ],
+
+        "aliases":[
+
+            "customer"
+
+        ],
+
+        "user_queries":[
+
+            "Am I a consumer?",
+
+            "Can I file a complaint?"
+
+        ]
+    }
+}
+Procedure Card
+{
+    "concept_id":"procedure.complaint",
+
+    "concept_type":"procedure",
+
+    "title":"Complaint Filing Procedure",
+
+    "description":"Procedure to file a consumer complaint.",
+
+    "content":{
+
+        "steps":[
+
+            {
+                "order":1,
+                "step":"Prepare documents."
+            },
+
+            {
+                "order":2,
+                "step":"File complaint."
+            }
+
+        ],
+
+        "authority":"District Commission",
+
+        "documents":[
+
+            "Invoice",
+
+            "Receipt"
+
+        ]
+    },
+
+    "derived_from":[
+
+        "CPA2019-CH4-S35"
+
+    ]
+}
+Rights Card
+{
+    "concept_id":"rights.refund",
+
+    "concept_type":"right",
+
+    "title":"Right to Refund",
+
+    "description":"Consumer's right to obtain refund.",
+
+    "content":{
+
+        "right":"Refund",
+
+        "conditions":[
+
+        ],
+
+        "limitations":[
+
+        ],
+
+        "exceptions":[
+
+        ]
+
+    },
+
+    "derived_from":[]
+}
+Authority Card
+{
+    "concept_id":"authority.district_commission",
+
+    "concept_type":"authority",
+
+    "title":"District Consumer Commission",
+
+    "content":{
+
+        "role":"",
+
+        "powers":[
+
+        ],
+
+        "jurisdiction":""
+
+    }
+}
+Timeline Card
+{
+    "concept_id":"timeline.appeal",
+
+    "concept_type":"timeline",
+
+    "title":"Appeal Time Limit",
+
+    "content":{
+
+        "duration":"",
+
+        "trigger":"",
+
+        "exceptions":[]
+    }
+}
+Evidence Card
+{
+    "concept_id":"evidence.purchase",
+
+    "concept_type":"evidence",
+
+    "title":"Purchase Proof",
+
+    "content":{
+
+        "required_documents":[
+
+            "Invoice",
+
+            "Receipt"
+
+        ],
+
+        "purpose":"",
+
+        "mandatory":true
+
+    }
+}
+Relationship Card
+
+This one is different.
+
+It becomes your knowledge graph.
+
+{
+    "source":"definition.consumer",
+
+    "relationship":"requires",
+
+    "target":"procedure.complaint"
+}
+
+Later
+
+Consumer
+
+↓
+
+Complaint
+
+↓
+
+Refund
+
+↓
+
+Appeal
+
+becomes navigable.
+
+Alias Card
+{
+    "concept_id":"alias.refund",
+
+    "concept_type":"alias",
+
+    "content":{
+
+        "aliases":[
+
+            "money back",
+
+            "return",
+
+            "seller refused",
+
+            "refund"
+
+        ]
+    }
+}
+Intent Card
+
+One of the most important.
+
+{
+    "concept_id":"intent.refund",
+
+    "concept_type":"intent",
+
+    "content":{
+
+        "queries":[
+
+            "Amazon won't refund me",
+
+            "Seller is refusing refund",
+
+            "Can I get my money back?",
+
+            "Wrong product delivered"
+
+        ]
+    }
+}
+Search Object (Common)
+
+Every concept should have this.
+
+{
+"search":{
+
+"keywords":[
+
+],
+
+"aliases":[
+
+],
+
+"user_queries":[
+
+]
+}
+}
+
+The embedding model should only embed
+
+Title
+
++
+
+Description
+
++
+
+Search Keywords
+
++
+
+Aliases
+
++
+
+User Queries
+
+Never the metadata.
+
+Review Metadata
+
+I think this is essential.
+
+{
+"metadata":{
+
+"review_status":"draft",
+
+"confidence":0.91,
+
+"created_by":"ProcedureAgent",
+
+"reviewed_by":"Human",
+
+"approved_at":"",
+
+"version":1
+}
+}
+
+This lets you build a proper review workflow.
+
+Final V2 Ecosystem
+                         V1
+              Legal Source Layer
+                     │
+                     ▼
+      ┌───────────────────────────────────────┐
+      │          Extraction Agents            │
+      ├───────────────────────────────────────┤
+      │ Definition Agent                      │
+      │ Rights Agent                          │
+      │ Obligation Agent                      │
+      │ Procedure Agent                       │
+      │ Authority Agent                       │
+      │ Remedy Agent                          │
+      │ Timeline Agent                        │
+      │ Evidence Agent                        │
+      │ Exception Agent                       │
+      │ Offence Agent                         │
+      │ Intent Agent                          │
+      │ Alias Agent                           │
+      │ Example Agent                         │
+      │ Relationship Agent                    │
+      └───────────────────────────────────────┘
+                     │
+                     ▼
+              Draft V2 Knowledge Cards
+                     │
+              Human Review & Approval
+                     │
+                     ▼
+             Approved V2 Knowledge Base
+                     │
+                     ▼
+                Embedding Pipeline
+                     │
+                     ▼
+                  Vector Database
+One improvement I would make
+
+After designing this, I would actually merge the Intent and Alias agents into the search object of every concept instead of storing them as separate concept types.
+
+For example, a Right to Refund card would already contain:
+
+"search": {
+  "keywords": [
+    "refund",
+    "replacement",
+    "compensation"
+  ],
+  "aliases": [
+    "money back",
+    "return my money"
+  ],
+  "user_queries": [
+    "Amazon won't refund me",
+    "Seller refused refund",
+    "Can I get my money back?"
+  ]
+}
+
+This keeps all retrieval signals attached to the legal concept itself. The vector search, keyword search, and hybrid retrieval all operate on the same object, which is cleaner than maintaining separate "intent" or "alias" databases that can drift out of sync with the underlying legal knowledge.
+
+If I were building this from scratch today, this is the schema I would freeze before writing a single line of RAG code. It cleanly separates immutable law (V1) from human-readable legal knowledge (V2) while keeping V2 flexible enough to support chat, search, document generation, and future knowledge graph expansion.
