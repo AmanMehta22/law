@@ -8,7 +8,7 @@
     "punishment": "prohibition from making endorsement",
     "minimum": "Not specified in the Act",
     "maximum": "one year",
-    "applicable_section": "sub-sections (1) and (2)"
+    "applicable_section": "Section 21(3)"
   },
   "derived_from": [
     "CPA2019-CH3-S21-3"
@@ -55,10 +55,10 @@
     "jurisdiction": "India",
     "act": "Consumer Protection Act, 2019",
     "language": "en",
-    "review_status": "draft",
-    "confidence": 0.0,
+    "review_status": "reviewed",
+    "confidence": 0.8,
     "created_by": "PenaltyAgent",
-    "reviewed_by": null,
+    "reviewed_by": "v2-review-llm-70b-2026-08-02",
     "version": 1
   }
 }
