@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://legal-dataset.in/schema/v1f.json",
+  "$id": "https://legal-dataset.in/schema/v1.schema.json",
   "title": "V1 Legal Node (v1Format)",
   "description": "A single legal node in the v1Format layout: id, parent_id, path, order, node_type, content_type, optional term, act_id, chapter_number, section_number, subsection_number, official_text, citations, relationships, document, metadata.",
   "type": "object",
