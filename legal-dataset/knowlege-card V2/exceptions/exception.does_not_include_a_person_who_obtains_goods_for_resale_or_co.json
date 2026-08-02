@@ -16,11 +16,48 @@
     "CPA2019-CH4-S38-12",
     "CPA2019-CH4-S47-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.district_commission_may_direct_parties_to_consider_mediation",
+    "alias.mediation_direction",
+    "authority.district_commission",
+    "evidence.written_consent",
+    "intent.consent_in_writing",
+    "intent.consumer_excludes_commercial_purpose"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "consumer",
+      "excludes",
+      "commercial",
+      "purpose",
+      "first",
+      "hearing",
+      "complaint",
+      "after",
+      "its",
+      "admission"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum",
+      "excluding business use",
+      "individual consumer",
+      "non-business purpose",
+      "personal use"
+    ],
+    "user_queries": [
+      "What is consumer excludes commercial purpose?",
+      "How does consumer excludes commercial purpose work?",
+      "Can you explain consumer excludes commercial purpose?",
+      "What is bench?",
+      "How does bench work?",
+      "Can you explain bench?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

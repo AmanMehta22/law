@@ -6,16 +6,40 @@
   "content": {
     "general_rule": "The general application of section 6 of the General Clauses Act, 1897 applies",
     "exception": "The mention of particular matters in sub-section (2) shall not be held to prejudice or affect it",
-    "conditions": []
+    "conditions": [
+      "with regard to the effect of repeal"
+    ]
   },
   "derived_from": [
     "CPA2019-CH8-S107-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "intent.prejudice_or_affect_the_general_application"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "prejudice",
+      "affect",
+      "general",
+      "application",
+      "mention",
+      "particular",
+      "matters",
+      "sub",
+      "section",
+      "does"
+    ],
+    "aliases": [
+      "affecting overall implementation",
+      "general application impact",
+      "influencing general applicability",
+      "prejudicing general rules"
+    ],
+    "user_queries": [
+      "What is prejudice or affect the general application?",
+      "How does prejudice or affect the general application work?",
+      "Can you explain prejudice or affect the general application?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

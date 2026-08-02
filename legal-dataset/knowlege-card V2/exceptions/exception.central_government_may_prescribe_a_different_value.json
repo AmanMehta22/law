@@ -13,18 +13,40 @@
   "derived_from": [
     "CPA2019-CH4-S34-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.central_government_override",
+    "alias.district_commission",
+    "authority.central_government",
+    "authority.district_commission",
+    "intent.central_government",
+    "intent.central_government_2"
+  ],
   "search": {
     "keywords": [
       "jurisdiction",
       "complaints",
-      "value"
+      "value",
+      "central",
+      "government",
+      "override",
+      "district",
+      "commission",
+      "exception",
+      "has",
+      "one"
     ],
     "aliases": [
       "District Commission powers"
     ],
     "user_queries": [
-      "Central Government override"
+      "Central Government override",
+      "What is central government may prescribe value?",
+      "How does central government may prescribe value work?",
+      "Can you explain central government may prescribe value?",
+      "What is calling for records and passing orders?",
+      "How does calling for records and passing orders work?",
+      "Can you explain calling for records and passing orders?"
     ]
   },
   "metadata": {

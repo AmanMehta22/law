@@ -13,11 +13,42 @@
   "derived_from": [
     "CPA2019-CH4-S47-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.calling_for_records_and_passing_orders",
+    "alias.central_government",
+    "alias.central_government_override",
+    "alias.district_commission",
+    "alias.filing_appeals_with_the_state_commission",
+    "alias.filing_complaints_with_the_state_commission",
+    "alias.pecuniary_jurisdiction_of_state_commission"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "central",
+      "government",
+      "override",
+      "can",
+      "prescribe",
+      "different",
+      "value",
+      "jurisdiction",
+      "state",
+      "commission"
+    ],
+    "aliases": [
+      "calling for records",
+      "calling for records and passing orders",
+      "records and orders",
+      "District Commission powers"
+    ],
+    "user_queries": [
+      "What is central government override?",
+      "How does central government override work?",
+      "Can you explain central government override?",
+      "What is calling for records and passing orders?",
+      "How does calling for records and passing orders work?",
+      "Can you explain calling for records and passing orders?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

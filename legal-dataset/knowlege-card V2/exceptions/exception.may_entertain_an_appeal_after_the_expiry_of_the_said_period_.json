@@ -13,18 +13,38 @@
   "derived_from": [
     "CPA2019-CH4-S73-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_time_limit",
+    "alias.delayed_appeal",
+    "alias.district_commission",
+    "alias.filing_an_appeal",
+    "alias.national_commission",
+    "alias.right_to_appeal",
+    "alias.state_commission"
+  ],
   "search": {
     "keywords": [
       "appeal",
       "delayed appeal",
-      "sufficient cause"
+      "sufficient cause",
+      "delayed",
+      "allowing",
+      "after",
+      "days",
+      "every",
+      "section",
+      "preferred",
+      "period",
+      "thirty"
     ],
     "aliases": [
       "late appeal"
     ],
     "user_queries": [
-      "What if I miss the 30-day appeal deadline?"
+      "What if I miss the 30-day appeal deadline?",
+      "What is delayed appeal?",
+      "How does delayed appeal work?",
+      "Can you explain delayed appeal?"
     ]
   },
   "metadata": {

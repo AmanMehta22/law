@@ -15,18 +15,34 @@
   "derived_from": [
     "CPA2019-CH6-S87-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.product_liability_exception",
+    "intent.product_liability_exception",
+    "intent.product_liability_exception_2"
+  ],
   "search": {
     "keywords": [
       "product liability",
       "misuse",
       "alteration",
-      "modification"
+      "modification",
+      "product",
+      "liability",
+      "exception",
+      "action",
+      "can",
+      "brought",
+      "against",
+      "seller"
     ],
     "aliases": [
       "product seller exception"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is product liability exception?",
+      "How does product liability exception work?",
+      "Can you explain product liability exception?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

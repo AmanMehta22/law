@@ -13,12 +13,29 @@
   "derived_from": [
     "CPA2019-CH3-S21-6"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.defence_not_available_with_previous_knowledge",
+    "alias.person_must_prove_publication_in_ordinary_course_of_business",
+    "alias.proof_of_publication_in_ordinary_course_of_business",
+    "authority.central_authority",
+    "evidence.records_of_business_transactions_publication_records",
+    "intent.central_authority"
+  ],
   "search": {
     "keywords": [
       "defence",
       "ordinary course of business",
-      "previous knowledge"
+      "previous knowledge",
+      "available",
+      "previous",
+      "knowledge",
+      "ordinary",
+      "course",
+      "business",
+      "person",
+      "had",
+      "order"
     ],
     "aliases": [
       "exemption",
@@ -26,7 +43,10 @@
     ],
     "user_queries": [
       "When is defence not available",
-      "What is the exception to the defence"
+      "What is the exception to the defence",
+      "What is defence not available with previous knowledge?",
+      "How does defence not available with previous knowledge work?",
+      "Can you explain defence not available with previous knowledge?"
     ]
   },
   "metadata": {

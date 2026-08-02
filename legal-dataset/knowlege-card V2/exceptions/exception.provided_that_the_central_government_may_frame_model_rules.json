@@ -13,11 +13,46 @@
   "derived_from": [
     "CPA2019-CH8-S102-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.state_governments",
+    "authority.central_government",
+    "authority.state_governments",
+    "intent.central_government",
+    "intent.central_government_2",
+    "intent.state_governments"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "state",
+      "government",
+      "rule",
+      "making",
+      "governments",
+      "rules",
+      "condition",
+      "notification",
+      "make",
+      "carrying"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government",
+      "government rule making",
+      "regulatory framework",
+      "state law creation",
+      "state regulations"
+    ],
+    "user_queries": [
+      "What is state government rule making?",
+      "How does state government rule making work?",
+      "Can you explain state government rule making?",
+      "What is state governments?",
+      "How does state governments work?",
+      "Can you explain state governments?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

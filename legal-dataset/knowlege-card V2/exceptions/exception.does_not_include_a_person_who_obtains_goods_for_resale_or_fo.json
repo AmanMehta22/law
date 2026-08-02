@@ -6,16 +6,54 @@
   "content": {
     "general_rule": "Any person who buys goods for a consideration or hires services for a consideration",
     "exception": "Does not include a person who obtains goods for resale or for any commercial purpose",
-    "conditions": []
+    "conditions": [
+      "use is made with the approval of the person who buys such goods",
+      "services are availed of with the approval of the first mentioned person"
+    ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-7"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.consumer",
+    "definition.consumer",
+    "intent.consumer",
+    "intent.consumer_2",
+    "intent.consumer_excludes_commercial_purpose_2"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "consumer",
+      "excludes",
+      "commercial",
+      "purpose",
+      "person",
+      "who",
+      "buys",
+      "goods",
+      "consideration",
+      "hires"
+    ],
+    "aliases": [
+      "Buyer",
+      "Client",
+      "Customer",
+      "End User",
+      "Purchaser",
+      "buyer",
+      "customer",
+      "excluding business use",
+      "individual consumer",
+      "non-business purpose"
+    ],
+    "user_queries": [
+      "What is consumer excludes commercial purpose?",
+      "How does consumer excludes commercial purpose work?",
+      "Can you explain consumer excludes commercial purpose?",
+      "What is consumer?",
+      "How does consumer work?",
+      "Can you explain consumer?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

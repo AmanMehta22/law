@@ -13,11 +13,48 @@
   "derived_from": [
     "CPA2019-CH4-S39-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.member_must_give_opinion_within_a_month",
+    "alias.resolving_difference_of_opinion",
+    "authority.district_commission",
+    "intent.district_commission",
+    "intent.district_commission_2",
+    "intent.member_must_give_opinion_within_a_month"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "time",
+      "limit",
+      "opinion",
+      "giving",
+      "referred",
+      "points",
+      "majority",
+      "order",
+      "district",
+      "commission"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum",
+      "opinion deadline",
+      "opinion timeframe",
+      "response time limit",
+      "timeframe for opinion"
+    ],
+    "user_queries": [
+      "What is time limit for opinion?",
+      "How does time limit for opinion work?",
+      "Can you explain time limit for opinion?",
+      "What is member must give opinion within a month?",
+      "How does member must give opinion within a month work?",
+      "Can you explain member must give opinion within a month?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -13,14 +13,46 @@
   "derived_from": [
     "CPA2019-CH1-S1-4"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.central_government_must_consider_exceptions",
+    "authority.central_government",
+    "intent.central_government",
+    "intent.central_government_2",
+    "intent.central_government_must_consider_exceptions",
+    "intent.central_government_must_consider_exceptions_2"
+  ],
   "search": {
     "keywords": [
       "Central Government",
-      "notification"
+      "notification",
+      "central",
+      "government",
+      "exception",
+      "application",
+      "act",
+      "applies",
+      "goods",
+      "services",
+      "does"
     ],
-    "aliases": [],
-    "user_queries": []
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government",
+      "central exemption",
+      "federal exception",
+      "government notification exclusion"
+    ],
+    "user_queries": [
+      "What is central government notification exception?",
+      "How does central government notification exception work?",
+      "Can you explain central government notification exception?",
+      "What is central government must consider exceptions?",
+      "How does central government must consider exceptions work?",
+      "Can you explain central government must consider exceptions?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

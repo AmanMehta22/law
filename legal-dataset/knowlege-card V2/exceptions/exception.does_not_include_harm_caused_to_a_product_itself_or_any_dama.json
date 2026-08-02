@@ -6,24 +6,47 @@
   "content": {
     "general_rule": "Harm in relation to product liability includes various types of damage or loss",
     "exception": "Does not include harm caused to a product itself or any damage to the property on account of breach of warranty conditions or any commercial or economic loss",
-    "conditions": []
+    "conditions": [
+      "breach of warranty conditions",
+      "commercial or economic loss",
+      "direct, incidental or consequential loss relating thereto"
+    ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-22"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.exclusion_of_harm_to_product_itself_and_certain_losses",
+    "alias.harm_in_product_liability",
+    "definition.harm",
+    "intent.exclusion_of_harm_to_product_itself_and_certain_losses",
+    "intent.exclusion_of_harm_to_product_itself_and_certain_losses_2",
+    "intent.harm_in_product_liability",
+    "intent.harm_in_product_liability_2"
+  ],
   "search": {
     "keywords": [
       "product liability",
       "harm",
-      "exclusion"
+      "exclusion",
+      "product",
+      "itself",
+      "certain",
+      "losses",
+      "provision",
+      "excludes",
+      "caused",
+      "definition"
     ],
     "aliases": [
       "damage to product",
       "commercial loss"
     ],
     "user_queries": [
-      "What is not included in the definition of harm in relation to product liability?"
+      "What is not included in the definition of harm in relation to product liability?",
+      "What is exclusion of harm to product itself and certain losses?",
+      "How does exclusion of harm to product itself and certain losses work?",
+      "Can you explain exclusion of harm to product itself and certain losses?"
     ]
   },
   "metadata": {

@@ -14,17 +14,38 @@
   "derived_from": [
     "CPA2019-CH6-S87-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.complainant_under_influence_exception",
+    "alias.component_or_material_sale_exception",
+    "alias.employer_purchase_exception",
+    "alias.expert_supervision_exception",
+    "evidence.prescription_from_a_medical_practitioner",
+    "evidence.warnings_or_instructions_provided_to_employer_warnings_or_in",
+    "exception.product_manufacturer_not_liable_if_complainant_under_influen"
+  ],
   "search": {
     "keywords": [
       "product liability",
-      "expert supervision"
+      "expert supervision",
+      "expert",
+      "supervision",
+      "exception",
+      "product",
+      "manufacturer",
+      "liable",
+      "meant",
+      "use",
+      "adequate",
+      "warnings"
     ],
     "aliases": [
       "exception to product liability"
     ],
     "user_queries": [
-      "product manufacturer not liable"
+      "product manufacturer not liable",
+      "What is complainant under influence exception?",
+      "How does complainant under influence exception work?",
+      "Can you explain complainant under influence exception?"
     ]
   },
   "metadata": {

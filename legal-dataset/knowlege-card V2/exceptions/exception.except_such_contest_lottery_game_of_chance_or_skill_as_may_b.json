@@ -13,20 +13,38 @@
   "derived_from": [
     "CPA2019-CH1-S2-47"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.contest_lottery_game_of_chance_or_skill_exception",
+    "alias.proof_of_warranty_or_guarantee",
+    "alias.unfair_trade_practice",
+    "definition.unfair_trade_practice",
+    "evidence.test_results_records_of_testing",
+    "intent.contest_lottery_game_of_chance_or_skill_exception",
+    "intent.contest_lottery_game_of_chance_or_skill_exception_2"
+  ],
   "search": {
     "keywords": [
       "contest",
       "lottery",
       "game of chance",
-      "skill"
+      "skill",
+      "game",
+      "chance",
+      "exception",
+      "certain",
+      "contests",
+      "lotteries",
+      "games"
     ],
     "aliases": [
       "promotion",
       "sale"
     ],
     "user_queries": [
-      "What are the exceptions to unfair trade practices in contests and lotteries?"
+      "What are the exceptions to unfair trade practices in contests and lotteries?",
+      "What is contest, lottery, game of chance or skill exception?",
+      "How does contest, lottery, game of chance or skill exception work?",
+      "Can you explain contest, lottery, game of chance or skill exception?"
     ]
   },
   "metadata": {

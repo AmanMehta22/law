@@ -13,11 +13,47 @@
   "derived_from": [
     "CPA2019-CH1-S2-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appropriate_laboratory",
+    "alias.central_government",
+    "alias.state_government",
+    "authority.central_government",
+    "authority.state_government",
+    "definition.appropriate_laboratory",
+    "intent.appropriate_laboratory"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "state",
+      "government",
+      "recognition",
+      "laboratory",
+      "organisation",
+      "recognised",
+      "central",
+      "does",
+      "include",
+      "subject"
+    ],
+    "aliases": [
+      "Accredited Lab",
+      "Certification Lab",
+      "Recognized Lab",
+      "Testing Lab",
+      "approved lab",
+      "recognised lab",
+      "local government acknowledgement",
+      "regional recognition",
+      "state approval"
+    ],
+    "user_queries": [
+      "What is state government recognition?",
+      "How does state government recognition work?",
+      "Can you explain state government recognition?",
+      "What is appropriate laboratory?",
+      "How does appropriate laboratory work?",
+      "Can you explain appropriate laboratory?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

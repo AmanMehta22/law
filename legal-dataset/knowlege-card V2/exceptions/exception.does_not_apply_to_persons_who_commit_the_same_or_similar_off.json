@@ -13,17 +13,38 @@
   "derived_from": [
     "CPA2019-CH8-S96-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.prohibition_period_for_subsequent_contravention",
+    "alias.repeat_offence_within_three_years",
+    "intent.prohibition_period_for_subsequent_contravention",
+    "intent.prohibition_period_for_subsequent_contravention_2",
+    "intent.repeat_offence_within_three_years",
+    "intent.repeat_offence_within_three_years_2",
+    "timeline.three_years"
+  ],
   "search": {
     "keywords": [
       "repeat offence",
-      "compounding of offence"
+      "compounding of offence",
+      "repeat",
+      "offence",
+      "three",
+      "years",
+      "exception",
+      "application",
+      "sub",
+      "section",
+      "applies",
+      "persons"
     ],
     "aliases": [
       "exception to sub-section (1)"
     ],
     "user_queries": [
-      "What are the exceptions to sub-section (1)?"
+      "What are the exceptions to sub-section (1)?",
+      "What is repeat offence within three years?",
+      "How does repeat offence within three years work?",
+      "Can you explain repeat offence within three years?"
     ]
   },
   "metadata": {

@@ -6,16 +6,50 @@
   "content": {
     "general_rule": "Any article or goods or substance or raw material is a product",
     "exception": "Does not include human tissues, blood, blood products and organs",
-    "conditions": []
+    "conditions": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-33"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.product_definition",
+    "definition.product",
+    "intent.exclusion_of_human_tissues_blood_blood_products_and_organs",
+    "intent.product_definition",
+    "intent.product_definition_2"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "exclusion",
+      "human",
+      "tissues",
+      "blood",
+      "products",
+      "organs",
+      "definition",
+      "product",
+      "excludes",
+      "certain"
+    ],
+    "aliases": [
+      "Article Definition",
+      "Commodity Definition",
+      "Goods Definition",
+      "Item Definition",
+      "Merchandise Definition",
+      "commodity",
+      "good",
+      "biological material exclusion",
+      "blood product exclusion",
+      "human tissue exemption"
+    ],
+    "user_queries": [
+      "What is exclusion of human tissues, blood, blood products and organs?",
+      "How does exclusion of human tissues, blood, blood products and organs work?",
+      "Can you explain exclusion of human tissues, blood, blood products and organs?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

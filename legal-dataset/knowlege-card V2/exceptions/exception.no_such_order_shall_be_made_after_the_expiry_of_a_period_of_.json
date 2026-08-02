@@ -13,19 +13,39 @@
   "derived_from": [
     "CPA2019-CH8-S106"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.central_government_must_make_provisions_to_remove_difficulties",
+    "alias.complaint_filing_time_limit",
+    "alias.time_limit_for_removing_difficulty",
+    "authority.central_government",
+    "intent.central_government",
+    "intent.central_government_2"
+  ],
   "search": {
     "keywords": [
       "difficulty",
       "commencement",
-      "expiry"
+      "expiry",
+      "time",
+      "limit",
+      "removing",
+      "exception",
+      "power",
+      "central",
+      "government",
+      "make",
+      "orders"
     ],
     "aliases": [
       "time limit",
       "removing difficulty"
     ],
     "user_queries": [
-      "What is the time limit for removing difficulties under the Consumer Protection Act?"
+      "What is the time limit for removing difficulties under the Consumer Protection Act?",
+      "What is central government must make provisions to remove difficulties?",
+      "How does central government must make provisions to remove difficulties work?",
+      "Can you explain central government must make provisions to remove difficulties?"
     ]
   },
   "metadata": {

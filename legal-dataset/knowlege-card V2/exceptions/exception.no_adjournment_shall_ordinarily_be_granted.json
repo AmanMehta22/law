@@ -14,11 +14,37 @@
   "derived_from": [
     "CPA2019-CH4-S52"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.adjournment_exception",
+    "alias.appeal_hearing",
+    "alias.national_commission",
+    "alias.right_to_expedient_hearing_of_appeal",
+    "alias.state_commission",
+    "authority.national_commission",
+    "authority.state_commission"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "adjournment",
+      "exception",
+      "appeals",
+      "disposed",
+      "days",
+      "ordinary",
+      "appeal",
+      "filed",
+      "before",
+      "state"
+    ],
+    "aliases": [
+      "delay",
+      "postponement"
+    ],
+    "user_queries": [
+      "What is adjournment exception?",
+      "How does adjournment exception work?",
+      "Can you explain adjournment exception?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

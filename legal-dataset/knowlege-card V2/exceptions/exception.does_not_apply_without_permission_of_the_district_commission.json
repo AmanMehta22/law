@@ -13,11 +13,28 @@
   "derived_from": [
     "CPA2019-CH4-S34-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.complaint_filing",
+    "alias.district_commission",
+    "alias.permission_from_district_commission",
+    "authority.district_commission",
+    "intent.complaint_filing",
+    "intent.complaint_filing_2",
+    "intent.complaint_filing_handled_by_commission"
+  ],
   "search": {
     "keywords": [
       "permission",
-      "District Commission"
+      "District Commission",
+      "district",
+      "commission",
+      "institution",
+      "complaint",
+      "where",
+      "opposite",
+      "parties",
+      "resides",
+      "carries"
     ],
     "aliases": [
       "leave",
@@ -25,7 +42,10 @@
     ],
     "user_queries": [
       "institution of complaint",
-      "jurisdiction of District Commission"
+      "jurisdiction of District Commission",
+      "What is complaint filing?",
+      "How does complaint filing work?",
+      "Can you explain complaint filing?"
     ]
   },
   "metadata": {

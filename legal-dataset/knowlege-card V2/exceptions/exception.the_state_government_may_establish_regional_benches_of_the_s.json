@@ -14,18 +14,42 @@
   "derived_from": [
     "CPA2019-CH4-S42-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.regional_benches_establishment",
+    "intent.regional_benches_establishment",
+    "intent.regional_benches_establishment_3",
+    "intent.state_government_must_consult_state_commission",
+    "intent.state_government_must_notify_in_official_gazette",
+    "intent.territorial_jurisdiction_of_state_commission",
+    "jurisdiction.state_commission_state_capital_and_other_notified_places"
+  ],
   "search": {
     "keywords": [
       "State Commission",
-      "regional benches"
+      "regional benches",
+      "regional",
+      "benches",
+      "establishment",
+      "state",
+      "commission",
+      "ordinarily",
+      "function",
+      "capital",
+      "government",
+      "establish"
     ],
     "aliases": [
       "State Consumer Commission"
     ],
     "user_queries": [
       "consumer protection",
-      "regional benches"
+      "regional benches",
+      "What is regional benches establishment?",
+      "How does regional benches establishment work?",
+      "Can you explain regional benches establishment?",
+      "What is central government must establish regional benches by notification?",
+      "How does central government must establish regional benches by notification work?",
+      "Can you explain central government must establish regional benches by notification?"
     ]
   },
   "metadata": {

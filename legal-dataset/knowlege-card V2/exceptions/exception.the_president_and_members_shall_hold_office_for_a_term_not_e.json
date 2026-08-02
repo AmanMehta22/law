@@ -15,18 +15,42 @@
   "derived_from": [
     "CPA2019-CH4-S55-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.national_commission",
+    "alias.term_of_office_of_president_and_members",
+    "authority.central_government",
+    "authority.national_commission",
+    "intent.central_government",
+    "intent.central_government_2"
+  ],
   "search": {
     "keywords": [
       "term of office",
       "age limit",
-      "re-appointment"
+      "re-appointment",
+      "term",
+      "office",
+      "president",
+      "members",
+      "exceptions",
+      "age",
+      "limit",
+      "central",
+      "government"
     ],
     "aliases": [
       "National Commission membership",
       "President term"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is term of office of president and members?",
+      "How does term of office of president and members work?",
+      "Can you explain term of office of president and members?",
+      "What is central government must make rules for national commission service terms?",
+      "How does central government must make rules for national commission service terms work?",
+      "Can you explain central government must make rules for national commission service terms?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

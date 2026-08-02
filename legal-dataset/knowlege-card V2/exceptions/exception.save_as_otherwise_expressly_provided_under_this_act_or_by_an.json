@@ -6,16 +6,47 @@
   "content": {
     "general_rule": "An appeal shall lie to the National Commission from any order passed in appeal by any State Commission",
     "exception": "Save as otherwise expressly provided under this Act or by any other law for the time being in force",
-    "conditions": []
+    "conditions": [
+      "the National Commission is satisfied that the case involves a substantial question of law"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S51-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_to_national_commission",
+    "alias.filing_an_appeal_to_the_national_commission",
+    "alias.national_commission_must_hear_appeal",
+    "alias.right_to_appeal",
+    "intent.appeal_to_national_commission",
+    "intent.appeal_to_national_commission_2",
+    "intent.appeal_to_national_commission_limits_right_to_appeal"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "appeal",
+      "national",
+      "commission",
+      "exception",
+      "general",
+      "rule",
+      "lie",
+      "order",
+      "passed",
+      "state"
+    ],
+    "aliases": [
+      "appeal to national commission",
+      "appeal to national consumer commission",
+      "national appeal",
+      "national commission",
+      "national commission appeal"
+    ],
+    "user_queries": [
+      "What is appeal to national commission?",
+      "How does appeal to national commission work?",
+      "Can you explain appeal to national commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

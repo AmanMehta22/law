@@ -15,17 +15,37 @@
   "derived_from": [
     "CPA2019-CH3-S12"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.invalidation_of_central_authority_acts",
+    "authority.central_authority",
+    "intent.central_authority",
+    "intent.central_authority_2",
+    "intent.invalidation_of_central_authority_acts",
+    "intent.invalidation_of_central_authority_acts_2"
+  ],
   "search": {
     "keywords": [
       "Central Authority",
-      "invalidation"
+      "invalidation",
+      "central",
+      "authority",
+      "acts",
+      "invalid",
+      "due",
+      "certain",
+      "reasons",
+      "act",
+      "proceeding"
     ],
     "aliases": [
       "validity of acts"
     ],
     "user_queries": [
-      "What makes Central Authority acts invalid?"
+      "What makes Central Authority acts invalid?",
+      "What is invalidation of central authority acts?",
+      "How does invalidation of central authority acts work?",
+      "Can you explain invalidation of central authority acts?"
     ]
   },
   "metadata": {

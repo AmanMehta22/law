@@ -14,19 +14,39 @@
   "derived_from": [
     "CPA2019-CH4-S63"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.exception_to_performance_of_duties_by_senior_most_member",
+    "alias.national_commission",
+    "alias.retired_judge_or_judicial_member_must_preside",
+    "alias.senior_most_member_must_perform_duties",
+    "authority.national_commission",
+    "intent.exception_to_performance_of_duties_by_senior_most_member",
+    "intent.exception_to_performance_of_duties_by_senior_most_member_2"
+  ],
   "search": {
     "keywords": [
       "National Commission",
       "President",
-      "absence"
+      "absence",
+      "exception",
+      "performance",
+      "duties",
+      "senior",
+      "most",
+      "member",
+      "president",
+      "national",
+      "commission"
     ],
     "aliases": [
       "senior-most member",
       "Judicial Member"
     ],
     "user_queries": [
-      "Who presides over the National Commission in the absence of the President?"
+      "Who presides over the National Commission in the absence of the President?",
+      "What is exception to performance of duties by senior-most member?",
+      "How does exception to performance of duties by senior-most member work?",
+      "Can you explain exception to performance of duties by senior-most member?"
     ]
   },
   "metadata": {

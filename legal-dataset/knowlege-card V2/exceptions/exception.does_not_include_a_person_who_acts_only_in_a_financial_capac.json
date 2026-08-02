@@ -6,16 +6,53 @@
   "content": {
     "general_rule": "A person who is involved in placing a product for commercial purpose",
     "exception": "Does not include a person who acts only in a financial capacity with respect to the sale of the product",
-    "conditions": []
+    "conditions": [
+      "acts only in a financial capacity with respect to the sale of the product",
+      "is not a manufacturer, wholesaler, distributor, retailer, direct seller or an electronic service provider"
+    ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-37"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.product_seller",
+    "definition.product_seller",
+    "exception.does_not_include_a_person_who_leases_a_product_without_havin",
+    "exception.does_not_include_a_provider_of_professional_services_in_any_",
+    "intent.financial_capacity",
+    "intent.leasing_a_product",
+    "intent.product_seller"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "financial",
+      "capacity",
+      "person",
+      "who",
+      "involved",
+      "placing",
+      "product",
+      "commercial",
+      "purpose",
+      "does"
+    ],
+    "aliases": [
+      "Merchant",
+      "Retailer",
+      "Supplier",
+      "Vendor",
+      "Wholesaler",
+      "seller",
+      "supplier",
+      "vendor",
+      "budgetary capacity",
+      "economic capability"
+    ],
+    "user_queries": [
+      "What is financial capacity?",
+      "How does financial capacity work?",
+      "Can you explain financial capacity?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

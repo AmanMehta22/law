@@ -13,18 +13,38 @@
   "derived_from": [
     "CPA2019-CH3-S14-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.chief_commissioner",
+    "alias.chief_commissioner_must_exercise_general_superintendence",
+    "alias.commissioner",
+    "alias.delegation_of_powers",
+    "authority.central_authority",
+    "authority.chief_commissioner"
+  ],
   "search": {
     "keywords": [
       "delegation of powers",
       "Chief Commissioner",
-      "Central Authority"
+      "Central Authority",
+      "delegation",
+      "powers",
+      "administrative",
+      "chief",
+      "commissioner",
+      "has",
+      "general",
+      "superintendence",
+      "direction"
     ],
     "aliases": [
       "administrative matters"
     ],
     "user_queries": [
-      "Can the Chief Commissioner delegate powers?"
+      "Can the Chief Commissioner delegate powers?",
+      "What is chief commissioner must exercise general superintendence?",
+      "How does chief commissioner must exercise general superintendence work?",
+      "Can you explain chief commissioner must exercise general superintendence?"
     ]
   },
   "metadata": {

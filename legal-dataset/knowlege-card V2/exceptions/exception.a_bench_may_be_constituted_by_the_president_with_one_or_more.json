@@ -13,11 +13,45 @@
   "derived_from": [
     "CPA2019-CH4-S58-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.national_commission",
+    "authority.national_commission",
+    "intent.bench_constitution",
+    "intent.jurisdiction_of_national_commission_benches",
+    "intent.national_commission",
+    "intent.national_commission_2",
+    "intent.president_must_constitute_bench_2"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "bench",
+      "constitution",
+      "exception",
+      "general",
+      "rule",
+      "national",
+      "commission",
+      "jurisdiction",
+      "powers",
+      "authority"
+    ],
+    "aliases": [
+      "Central Commission",
+      "Central Consumer Protection Council",
+      "NCDRC",
+      "National Consumer Commission",
+      "National Consumer Disputes Redressal Commission",
+      "National Consumer Protection Agency",
+      "bench setup",
+      "court composition",
+      "judicial panel",
+      "tribunal formation"
+    ],
+    "user_queries": [
+      "What is bench constitution?",
+      "How does bench constitution work?",
+      "Can you explain bench constitution?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

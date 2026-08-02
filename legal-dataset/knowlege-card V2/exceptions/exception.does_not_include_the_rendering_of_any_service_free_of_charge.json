@@ -6,21 +6,49 @@
   "content": {
     "general_rule": "Service of any description made available to potential users",
     "exception": "Does not include the rendering of any service free of charge or under a contract of personal service",
-    "conditions": []
+    "conditions": [
+      "free of charge",
+      "under a contract of personal service"
+    ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-42"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.service",
+    "alias.service_excludes_free_of_charge_or_personal_service",
+    "definition.service",
+    "intent.service",
+    "intent.service_2",
+    "intent.service_excludes_free_of_charge_or_personal_service",
+    "intent.service_excludes_free_of_charge_or_personal_service_2"
+  ],
   "search": {
     "keywords": [
       "free of charge",
-      "personal service"
+      "personal service",
+      "service",
+      "excludes",
+      "free",
+      "charge",
+      "personal",
+      "exclusion",
+      "certain",
+      "services",
+      "definition",
+      "description"
     ],
     "aliases": [
       "excluded services"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is service excludes free of charge or personal service?",
+      "How does service excludes free of charge or personal service work?",
+      "Can you explain service excludes free of charge or personal service?",
+      "What is service?",
+      "How does service work?",
+      "Can you explain service?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

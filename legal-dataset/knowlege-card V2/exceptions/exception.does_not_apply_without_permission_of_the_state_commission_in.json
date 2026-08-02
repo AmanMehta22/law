@@ -13,17 +13,38 @@
   "derived_from": [
     "CPA2019-CH4-S47-4"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.complaint_filing",
+    "alias.permission_from_state_commission",
+    "alias.state_commission",
+    "authority.state_commission",
+    "intent.complaint_filing",
+    "intent.complaint_filing_2",
+    "intent.complaint_filing_handled_by_commission"
+  ],
   "search": {
     "keywords": [
       "State Commission permission",
-      "complaint institution"
+      "complaint institution",
+      "permission",
+      "state",
+      "commission",
+      "institution",
+      "complaint",
+      "instituted",
+      "limits",
+      "whose",
+      "jurisdiction",
+      "opposite"
     ],
     "aliases": [
       "voluntary residence exception"
     ],
     "user_queries": [
-      "complaint filing exception"
+      "complaint filing exception",
+      "What is complaint filing handled by state commission?",
+      "How does complaint filing handled by state commission work?",
+      "Can you explain complaint filing handled by state commission?"
     ]
   },
   "metadata": {

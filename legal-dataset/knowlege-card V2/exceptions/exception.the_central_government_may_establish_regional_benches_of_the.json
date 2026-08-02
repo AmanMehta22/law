@@ -14,11 +14,43 @@
   "derived_from": [
     "CPA2019-CH4-S53-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.central_government_must_notify_locations_in_official_gazette",
+    "alias.national_commission",
+    "alias.national_commission_must_function_at_specified_locations",
+    "alias.regional_benches_establishment",
+    "authority.central_government",
+    "authority.national_commission"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "regional",
+      "benches",
+      "establishment",
+      "exception",
+      "ordinary",
+      "functioning",
+      "place",
+      "national",
+      "commission",
+      "ordinarily"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government",
+      "State Consumer Commission"
+    ],
+    "user_queries": [
+      "What is regional benches establishment?",
+      "How does regional benches establishment work?",
+      "Can you explain regional benches establishment?",
+      "What is central government must establish regional benches by notification?",
+      "How does central government must establish regional benches by notification work?",
+      "Can you explain central government must establish regional benches by notification?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

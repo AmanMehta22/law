@@ -13,11 +13,44 @@
   "derived_from": [
     "CPA2019-CH4-S28-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "authority.district_commission",
+    "intent.district_commission",
+    "intent.district_commission_2",
+    "intent.multiple_district_commissions",
+    "intent.state_government_must_establish_district_commission"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "multiple",
+      "district",
+      "commissions",
+      "establishment",
+      "more",
+      "than",
+      "one",
+      "commission",
+      "state",
+      "government"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum",
+      "district commission multiplicity",
+      "multiple district consumer forums",
+      "plural district commissions",
+      "several district commissions"
+    ],
+    "user_queries": [
+      "What is multiple district commissions?",
+      "How does multiple district commissions work?",
+      "Can you explain multiple district commissions?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

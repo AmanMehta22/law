@@ -6,16 +6,56 @@
   "content": {
     "general_rule": "A person who is involved in placing a product for commercial purpose",
     "exception": "Does not include a provider of professional services in any transaction in which, the sale or use of a product is only incidental thereto, but furnishing of opinion, skill or services being the essence of such transaction",
-    "conditions": []
+    "conditions": [
+      "the sale or use of a product is only incidental thereto",
+      "furnishing of opinion, skill or services being the essence of such transaction"
+    ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-37"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.product_seller",
+    "definition.product_seller",
+    "exception.does_not_include_a_person_who_acts_only_in_a_financial_capac",
+    "exception.does_not_include_a_person_who_leases_a_product_without_havin",
+    "intent.financial_capacity",
+    "intent.leasing_a_product",
+    "intent.product_seller"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "professional",
+      "services",
+      "person",
+      "who",
+      "involved",
+      "placing",
+      "product",
+      "commercial",
+      "purpose",
+      "does"
+    ],
+    "aliases": [
+      "Merchant",
+      "Retailer",
+      "Supplier",
+      "Vendor",
+      "Wholesaler",
+      "seller",
+      "supplier",
+      "vendor",
+      "expert services",
+      "skilled services"
+    ],
+    "user_queries": [
+      "What is professional services?",
+      "How does professional services work?",
+      "Can you explain professional services?",
+      "What is financial capacity?",
+      "How does financial capacity work?",
+      "Can you explain financial capacity?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

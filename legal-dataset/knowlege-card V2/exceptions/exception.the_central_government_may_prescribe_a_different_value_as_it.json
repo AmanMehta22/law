@@ -13,11 +13,45 @@
   "derived_from": [
     "CPA2019-CH4-S58-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.filing_of_complaints_and_appeals_with_the_national_commission",
+    "alias.national_commission",
+    "alias.review_of_state_commission_decisions",
+    "alias.right_to_appeal",
+    "alias.state_commission"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "central",
+      "government",
+      "discretion",
+      "value",
+      "has",
+      "prescribe",
+      "different",
+      "consideration",
+      "national",
+      "commission"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority",
+      "central authority value judgment",
+      "government pricing discretion"
+    ],
+    "user_queries": [
+      "What is central government discretion on value?",
+      "How does central government discretion on value work?",
+      "Can you explain central government discretion on value?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

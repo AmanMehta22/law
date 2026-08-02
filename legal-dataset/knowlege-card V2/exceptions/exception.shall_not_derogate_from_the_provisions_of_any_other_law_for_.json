@@ -6,16 +6,40 @@
   "content": {
     "general_rule": "The provisions of this Act apply",
     "exception": "shall not derogate from the provisions of any other law for the time being in force",
-    "conditions": []
+    "conditions": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH8-S100"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "intent.addition_to_other_laws"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "addition",
+      "other",
+      "laws",
+      "act",
+      "supplementary",
+      "provisions",
+      "apply",
+      "derogate",
+      "law",
+      "time"
+    ],
+    "aliases": [
+      "additional legislation",
+      "concurrent laws",
+      "cumulative effect",
+      "supplemental law"
+    ],
+    "user_queries": [
+      "What is addition to other laws?",
+      "How does addition to other laws work?",
+      "Can you explain addition to other laws?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

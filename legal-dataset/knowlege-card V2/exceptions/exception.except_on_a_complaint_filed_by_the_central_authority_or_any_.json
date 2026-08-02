@@ -6,16 +6,55 @@
   "content": {
     "general_rule": "No cognizance shall be taken by a competent court of any offence under sections 88 and 89",
     "exception": "except on a complaint filed by the Central Authority or any officer authorised by it",
-    "conditions": []
+    "conditions": [
+      "except on a complaint filed by the Central Authority or any officer authorised by it in this behalf."
+    ]
   },
   "derived_from": [
     "CPA2019-CH7-S92"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.filing_of_complaint",
+    "authority.central_authority",
+    "intent.central_authority",
+    "intent.central_authority_2",
+    "intent.central_authority_must_file_a_complaint",
+    "intent.central_authority_references_misleading_advertisement"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "complaint",
+      "central",
+      "authority",
+      "authorised",
+      "officer",
+      "exception",
+      "cognizance",
+      "offence",
+      "taken",
+      "competent"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority",
+      "authorised officer complaint",
+      "central authority complaint"
+    ],
+    "user_queries": [
+      "What is complaint by central authority or authorised officer?",
+      "How does complaint by central authority or authorised officer work?",
+      "Can you explain complaint by central authority or authorised officer?",
+      "What is central authority must file a complaint?",
+      "How does central authority must file a complaint work?",
+      "Can you explain central authority must file a complaint?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -6,16 +6,52 @@
   "content": {
     "general_rule": "Provisions of Order XXI of the First Schedule to the Code of Civil Procedure, 1908 are applicable",
     "exception": "Subject to the modification that every reference to the decree shall be construed as reference to the order made under this Act",
-    "conditions": []
+    "conditions": [
+      "as far as may be applicable"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S71"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.court",
+    "alias.district_commission",
+    "alias.enforcement_of_order",
+    "alias.national_commission",
+    "alias.state_commission",
+    "authority.court",
+    "authority.district_commission"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "enforcement",
+      "orders",
+      "modification",
+      "code",
+      "civil",
+      "procedure",
+      "provisions",
+      "order",
+      "xxi",
+      "first"
+    ],
+    "aliases": [
+      "Bench",
+      "Judiciary",
+      "Law Court",
+      "Tribunal",
+      "judicial body",
+      "tribunal",
+      "compliance enforcement",
+      "execution of orders",
+      "implementation of directives",
+      "order enforcement"
+    ],
+    "user_queries": [
+      "What is enforcement of orders?",
+      "How does enforcement of orders work?",
+      "Can you explain enforcement of orders?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

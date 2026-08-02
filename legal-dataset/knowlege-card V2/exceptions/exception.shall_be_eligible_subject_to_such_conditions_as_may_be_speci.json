@@ -13,15 +13,43 @@
   "derived_from": [
     "CPA2019-CH5-S75-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "intent.district_commission_references_questions_about_term_of_office",
+    "intent.district_commission_requires_questions_about_term_of_office",
+    "intent.regulator_must_specify_conditions",
+    "intent.re_empanelment_eligibility",
+    "intent.term_of_office",
+    "relationship.alias_district_commission_references_intent_term_of_office",
+    "relationship.alias_district_commission_requires_intent_term_of_office"
+  ],
   "search": {
     "keywords": [
       "re-empanelment",
       "mediators",
-      "eligibility"
+      "eligibility",
+      "empanelment",
+      "conditions",
+      "empanelled",
+      "eligible",
+      "considered",
+      "another",
+      "term",
+      "subject"
     ],
-    "aliases": [],
-    "user_queries": []
+    "aliases": [
+      "panel re-appointment",
+      "re-eligibility",
+      "re-qualification",
+      "re-selection criteria"
+    ],
+    "user_queries": [
+      "What is re-empanelment eligibility?",
+      "How does re-empanelment eligibility work?",
+      "Can you explain re-empanelment eligibility?",
+      "What is district commission references questions about term of office?",
+      "How does district commission references questions about term of office work?",
+      "Can you explain district commission references questions about term of office?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

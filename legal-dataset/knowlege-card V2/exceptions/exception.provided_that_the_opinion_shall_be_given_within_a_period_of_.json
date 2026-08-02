@@ -13,17 +13,38 @@
   "derived_from": [
     "CPA2019-CH4-S58-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.president",
+    "alias.resolution_of_differing_opinions",
+    "alias.time_limit_for_president_s_opinion",
+    "authority.president",
+    "intent.president",
+    "intent.president_2",
+    "intent.reference_opinion_time_limit"
+  ],
   "search": {
     "keywords": [
       "time limit",
-      "President's opinion"
+      "President's opinion",
+      "time",
+      "limit",
+      "president",
+      "opinion",
+      "other",
+      "member",
+      "has",
+      "give",
+      "referred",
+      "points"
     ],
     "aliases": [
       "opinion timeframe"
     ],
     "user_queries": [
-      "What is the time limit for the President's opinion?"
+      "What is the time limit for the President's opinion?",
+      "What is reference opinion time limit?",
+      "How does reference opinion time limit work?",
+      "Can you explain reference opinion time limit?"
     ]
   },
   "metadata": {

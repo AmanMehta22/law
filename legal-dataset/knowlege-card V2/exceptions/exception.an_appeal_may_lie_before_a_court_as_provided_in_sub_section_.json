@@ -13,18 +13,36 @@
   "derived_from": [
     "CPA2019-CH4-S73-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_exception",
+    "alias.court",
+    "alias.district_commission",
+    "alias.national_commission",
+    "alias.state_commission",
+    "authority.court",
+    "authority.district_commission"
+  ],
   "search": {
     "keywords": [
       "appeal",
       "court",
-      "commission"
+      "commission",
+      "exception",
+      "general",
+      "rule",
+      "lie",
+      "before",
+      "order",
+      "district"
     ],
     "aliases": [
       "exception to appeal rule"
     ],
     "user_queries": [
-      "what are the exceptions to the appeal rule"
+      "what are the exceptions to the appeal rule",
+      "What is appeal exception?",
+      "How does appeal exception work?",
+      "Can you explain appeal exception?"
     ]
   },
   "metadata": {

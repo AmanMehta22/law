@@ -14,17 +14,38 @@
   "derived_from": [
     "CPA2019-CH4-S41"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.delayed_appeal",
+    "alias.deposit_for_appeal",
+    "alias.filing_an_appeal_to_the_state_commission",
+    "alias.no_appeal_from_mediated_settlement",
+    "alias.proof_of_sufficient_cause",
+    "evidence.deposit_receipt",
+    "evidence.written_explanation"
+  ],
   "search": {
     "keywords": [
       "appeal deposit",
-      "50% deposit"
+      "50% deposit",
+      "deposit",
+      "appeal",
+      "condition",
+      "person",
+      "required",
+      "pay",
+      "amount",
+      "state",
+      "commission",
+      "unless"
     ],
     "aliases": [
       "payment condition"
     ],
     "user_queries": [
-      "Do I need to pay to appeal?"
+      "Do I need to pay to appeal?",
+      "What is delayed appeal?",
+      "How does delayed appeal work?",
+      "Can you explain delayed appeal?"
     ]
   },
   "metadata": {

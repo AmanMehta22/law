@@ -13,11 +13,25 @@
   "derived_from": [
     "CPA2019-CH4-S56"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.continuance_of_old_act_for_certain_members",
+    "intent.continuance_of_old_act_for_certain_members",
+    "intent.continuance_of_old_act_for_certain_members_2"
+  ],
   "search": {
     "keywords": [
       "Consumer Protection Act, 1986",
-      "Finance Act, 2017"
+      "Finance Act, 2017",
+      "continuance",
+      "old",
+      "act",
+      "certain",
+      "members",
+      "appointed",
+      "before",
+      "commencement",
+      "section",
+      "finance"
     ],
     "aliases": [
       "old Act",
@@ -25,7 +39,10 @@
     ],
     "user_queries": [
       "transition provisions",
-      "continuance of old Act"
+      "continuance of old Act",
+      "What is continuance of old act for certain members?",
+      "How does continuance of old act for certain members work?",
+      "Can you explain continuance of old act for certain members?"
     ]
   },
   "metadata": {

@@ -6,16 +6,57 @@
   "content": {
     "general_rule": "A person who is involved in placing a product for commercial purpose",
     "exception": "Does not include a person who leases a product, without having a reasonable opportunity to inspect and discover defects in the product, under a lease arrangement in which the selection, possession, maintenance, and operation of the product are controlled by a person other than the lessor",
-    "conditions": []
+    "conditions": [
+      "acts only in a financial capacity with respect to the sale of the product",
+      "is not a manufacturer, wholesaler, distributor, retailer, direct seller or an electronic service provider",
+      "leases a product, without having a reasonable opportunity to inspect and discover defects in the product, under a lease arrangement in which the selection, possession, maintenance, and operation of the product are controlled by a person other than the lessor"
+    ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-37"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.product_seller",
+    "definition.product_seller",
+    "exception.does_not_include_a_person_who_acts_only_in_a_financial_capac",
+    "exception.does_not_include_a_provider_of_professional_services_in_any_",
+    "intent.financial_capacity",
+    "intent.leasing_a_product",
+    "intent.product_seller"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "leasing",
+      "product",
+      "person",
+      "who",
+      "involved",
+      "placing",
+      "commercial",
+      "purpose",
+      "does",
+      "include"
+    ],
+    "aliases": [
+      "Merchant",
+      "Retailer",
+      "Supplier",
+      "Vendor",
+      "Wholesaler",
+      "seller",
+      "supplier",
+      "vendor",
+      "equipment lease",
+      "hire purchase"
+    ],
+    "user_queries": [
+      "What is leasing a product?",
+      "How does leasing a product work?",
+      "Can you explain leasing a product?",
+      "What is financial capacity?",
+      "How does financial capacity work?",
+      "Can you explain financial capacity?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

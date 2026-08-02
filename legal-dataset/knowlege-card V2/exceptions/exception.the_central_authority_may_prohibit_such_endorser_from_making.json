@@ -13,17 +13,38 @@
   "derived_from": [
     "CPA2019-CH3-S21-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_authority_must_consider_prohibition",
+    "alias.minimum_meetings_per_year",
+    "alias.prohibition_period_for_subsequent_contravention",
+    "alias.subsequent_contravention",
+    "authority.central_authority",
+    "intent.central_authority"
+  ],
   "search": {
     "keywords": [
       "subsequent contravention",
-      "endorsement prohibition"
+      "endorsement prohibition",
+      "subsequent",
+      "contravention",
+      "extended",
+      "prohibition",
+      "period",
+      "contraventions",
+      "central",
+      "authority",
+      "prohibit",
+      "endorser"
     ],
     "aliases": [
       "repeat offense"
     ],
     "user_queries": [
-      "what happens if an endorser violates the rule again"
+      "what happens if an endorser violates the rule again",
+      "What is central authority must consider prohibition?",
+      "How does central authority must consider prohibition work?",
+      "Can you explain central authority must consider prohibition?"
     ]
   },
   "metadata": {

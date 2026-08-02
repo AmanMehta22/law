@@ -15,17 +15,34 @@
   "derived_from": [
     "CPA2019-CH6-S87-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.obvious_or_commonly_known_danger",
+    "intent.obvious_or_commonly_known_danger",
+    "intent.obvious_or_commonly_known_danger_2"
+  ],
   "search": {
     "keywords": [
       "obvious danger",
-      "commonly known danger"
+      "commonly known danger",
+      "obvious",
+      "commonly",
+      "known",
+      "danger",
+      "manufacturer",
+      "liable",
+      "dangers",
+      "product",
+      "failure",
+      "instruct"
     ],
     "aliases": [
       "clear and obvious risk"
     ],
     "user_queries": [
-      "manufacturer liability for obvious risks"
+      "manufacturer liability for obvious risks",
+      "What is obvious or commonly known danger?",
+      "How does obvious or commonly known danger work?",
+      "Can you explain obvious or commonly known danger?"
     ]
   },
   "metadata": {

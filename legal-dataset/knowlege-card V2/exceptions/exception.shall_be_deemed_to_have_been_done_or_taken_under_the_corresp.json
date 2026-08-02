@@ -13,11 +13,33 @@
   "derived_from": [
     "CPA2019-CH8-S107-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "intent.action_taken_under_repealed_act"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "action",
+      "taken",
+      "repealed",
+      "act",
+      "deemed",
+      "done",
+      "anything",
+      "have",
+      "been",
+      "corresponding"
+    ],
+    "aliases": [
+      "obsolete law application",
+      "prior law action",
+      "repealed law action",
+      "superseded law effect"
+    ],
+    "user_queries": [
+      "What is action taken under repealed act?",
+      "How does action taken under repealed act work?",
+      "Can you explain action taken under repealed act?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

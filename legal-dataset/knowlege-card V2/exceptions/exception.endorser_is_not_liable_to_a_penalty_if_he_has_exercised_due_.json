@@ -13,18 +13,34 @@
   "derived_from": [
     "CPA2019-CH3-S21-5"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.endorser_exemption_from_penalty",
+    "intent.endorser_exemption_from_penalty",
+    "intent.endorser_exemption_from_penalty_2",
+    "intent.endorser_must_exercise_due_diligence"
+  ],
   "search": {
     "keywords": [
       "endorser",
       "penalty",
-      "due diligence"
+      "due diligence",
+      "exemption",
+      "liable",
+      "due",
+      "diligence",
+      "exercised",
+      "sub",
+      "sections",
+      "has"
     ],
     "aliases": [
       "exemption from penalty"
     ],
     "user_queries": [
-      "endorser liability"
+      "endorser liability",
+      "What is endorser exemption from penalty?",
+      "How does endorser exemption from penalty work?",
+      "Can you explain endorser exemption from penalty?"
     ]
   },
   "metadata": {

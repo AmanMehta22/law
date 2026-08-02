@@ -13,17 +13,38 @@
   "derived_from": [
     "CPA2019-CH3-S21-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_authority_may_impose_penalty",
+    "alias.subsequent_contravention_penalty",
+    "authority.central_authority",
+    "intent.central_authority",
+    "intent.central_authority_2",
+    "intent.central_authority_may_impose_penalty"
+  ],
   "search": {
     "keywords": [
       "subsequent contravention",
-      "penalty increase"
+      "penalty increase",
+      "subsequent",
+      "contravention",
+      "penalty",
+      "increased",
+      "contraventions",
+      "central",
+      "authority",
+      "impose",
+      "ten",
+      "lakh"
     ],
     "aliases": [
       "increased penalty"
     ],
     "user_queries": [
-      "what is the penalty for repeated false advertising"
+      "what is the penalty for repeated false advertising",
+      "What is central authority may impose penalty?",
+      "How does central authority may impose penalty work?",
+      "Can you explain central authority may impose penalty?"
     ]
   },
   "metadata": {

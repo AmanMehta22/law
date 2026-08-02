@@ -13,19 +13,39 @@
   "derived_from": [
     "CPA2019-CH3-S20"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.discontinuation_of_unfair_practices",
+    "alias.investigation_and_order_passing",
+    "alias.opportunity_of_being_heard",
+    "alias.recall_of_goods_or_withdrawal_of_services",
+    "alias.reimbursement_of_prices",
+    "alias.right_to_reimbursement"
+  ],
   "search": {
     "keywords": [
       "opportunity of being heard",
       "consumer rights",
-      "unfair trade practice"
+      "unfair trade practice",
+      "opportunity",
+      "being",
+      "heard",
+      "exception",
+      "passing",
+      "order",
+      "without",
+      "hearing",
+      "central"
     ],
     "aliases": [
       "right to be heard",
       "hearing opportunity"
     ],
     "user_queries": [
-      "What are the exceptions to passing an order under the Consumer Protection Act?"
+      "What are the exceptions to passing an order under the Consumer Protection Act?",
+      "What is central authority must give opportunity of being heard?",
+      "How does central authority must give opportunity of being heard work?",
+      "Can you explain central authority must give opportunity of being heard?"
     ]
   },
   "metadata": {

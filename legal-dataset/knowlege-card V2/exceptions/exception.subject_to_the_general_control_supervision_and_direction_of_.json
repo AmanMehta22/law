@@ -6,16 +6,51 @@
   "content": {
     "general_rule": "Every Additional Director-General, Director, Joint Director, Deputy Director and Assistant Director shall exercise his powers, and discharge his functions",
     "exception": "subject to the general control, supervision and direction of the Director-General",
-    "conditions": []
+    "conditions": [
+      "subject to the general control, supervision and direction of the Director-General"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S15-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.additional_director_general",
+    "alias.assistant_director",
+    "alias.deputy_director",
+    "alias.director",
+    "alias.director_general",
+    "alias.joint_director",
+    "authority.additional_director_general"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "control",
+      "supervision",
+      "exception",
+      "exercise",
+      "powers",
+      "discharge",
+      "functions",
+      "every",
+      "additional",
+      "director"
+    ],
+    "aliases": [
+      "Alternate Director-General",
+      "Assistant Director-General",
+      "Deputy Director-General",
+      "Extra Director-General",
+      "Supplemental Director-General",
+      "exclusion from control",
+      "oversight exclusion",
+      "regulatory exception",
+      "supervision exemption"
+    ],
+    "user_queries": [
+      "What is control and supervision exception?",
+      "How does control and supervision exception work?",
+      "Can you explain control and supervision exception?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

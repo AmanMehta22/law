@@ -15,13 +15,29 @@
   "derived_from": [
     "CPA2019-CH4-S38-6"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.complaint_filing",
+    "alias.district_commission",
+    "alias.hearing_through_affidavit_and_documentary_evidence",
+    "authority.district_commission",
+    "evidence.affidavit",
+    "evidence.documentary_evidence",
+    "intent.affidavit"
+  ],
   "search": {
     "keywords": [
       "complaint hearing",
       "affidavit",
       "documentary evidence",
-      "video conferencing"
+      "video conferencing",
+      "hearing",
+      "through",
+      "documentary",
+      "evidence",
+      "complaint",
+      "procedure",
+      "every",
+      "heard"
     ],
     "aliases": [
       "in-person hearing",
@@ -29,7 +45,10 @@
     ],
     "user_queries": [
       "How are complaints heard?",
-      "What is the procedure for complaint hearing?"
+      "What is the procedure for complaint hearing?",
+      "What is affidavit?",
+      "How does affidavit work?",
+      "Can you explain affidavit?"
     ]
   },
   "metadata": {
