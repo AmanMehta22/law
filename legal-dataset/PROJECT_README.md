@@ -24,8 +24,8 @@ to be consumed as-is by whoever builds that next.
 
 ### Layer 1 — V1: verbatim statutory text
 
-- **Location:** `legal-node V1/sections_v1f/`
-- **Schema:** `schema/v1f.json`
+- **Location:** `acts/consumer-protection-act-2019/v1-statute/sections/`
+- **Schema:** `schema/v1.schema.json`
 - **276 files**, one per statutory subsection (e.g. `CPA2019-CH1-S2-7.json`)
 - Every file carries the exact `official_text` of the Act, plus a `content_type`
   tag (one of 14: definition, penalty, procedure, offence, timeline, authority,
@@ -37,8 +37,9 @@ to be consumed as-is by whoever builds that next.
 
 ### Layer 2 — V2: derived knowledge cards
 
-- **Location:** `knowlege-card V2/` (16 subfolders by concept type)
-- **Schema:** `knowlege-card V2/v2Schema.json`
+- **Location:** `acts/consumer-protection-act-2019/v2-knowledge-cards/`
+  (tier-a-reviewed/ tier-b-reviewed/ tier-c-support/, subfolders by concept type)
+- **Schema:** `schema/v2.schema.json`
 - **4,147 cards**, each with a `concept_id`, `content` (shape depends on
   `concept_type`), `derived_from` (provenance back to V1), `related_concepts`,
   and `metadata` (including `review_status` and `confidence`)
@@ -77,7 +78,8 @@ facts directly, so they carry lower risk if unreviewed.
   text before any correction was applied. 23 field-level corrections were made
   this way, sourced only from the Act — no invented content.
 - **39 cards still carry an explicit "needs human review" flag** (73 field-level
-  entries — see `docs/_review_state.json` and the table in `docs/progress.md`).
+  entries — see `acts/consumer-protection-act-2019/review/review-state.json` and
+  the table in `acts/consumer-protection-act-2019/review/progress.md`).
   These are not hidden or silently approved; they're specific, named, and
   waiting on a qualified person, not another model pass.
 - **The `examples` cards are synthetic, AI-generated hypothetical scenarios.**
@@ -93,49 +95,57 @@ facts directly, so they carry lower risk if unreviewed.
 
 ```
 PMa/
-├── LegalBot_Project_Document_v2.docx      Full 10-domain project scope
+├── docs/
+│   └── LegalBot_Project_Document_v2.docx      Full 10-domain project scope
 └── legal-dataset/
     ├── README.md                          This file
     ├── LICENSE
-    ├── source/
-    │   └── Consumer Protection Act, 2019.pdf
-    ├── legal-node V1/
-    │   ├── sections_v1f/                  276 V1 files
-    │   └── v1Format.json
-    ├── knowlege-card V2/
-    │   ├── v2Schema.json
-    │   ├── v2Promt.txt
-    │   └── {16 category folders}          4,147 V2 files
-    ├── schema/
-    │   └── v1f.json
-    ├── docs/
+    ├── schema/                            Canonical schemas (shared, all domains)
+    │   ├── v1.schema.json
+    │   └── v2.schema.json
+    ├── docs/                              Shared guidelines (all domains)
     │   ├── dataset-guidelines.md          What belongs in V1 vs V2
     │   ├── json-rules.md                  Formatting rules, schema pointers
     │   ├── naming-convention.md           ID conventions for both layers
-    │   ├── progress.md                    Full build + review tracker
-    │   ├── _review_state.json             Machine-readable review detail
-    │   ├── _llama_audit.json              Second-pass LLM audit output
-    │   └── _llama_audit_adjudicated.json  Manual triage of that audit
-    └── dataset/final/                     Merged, ready-to-load outputs
-        ├── Consumer_Protection_Act_2019.json / .jsonl
-        ├── knowledge_cards_v2.json / .jsonl
-        └── search_augmentation.json       intents+aliases folded into their
-                                            related concept, for keyword search
+    │   └── v2-prompt.txt                  V2 card generation prompt
+    └── acts/
+        └── consumer-protection-act-2019/
+            ├── source/
+            │   └── consumer-protection-act-2019.pdf
+            ├── v1-statute/
+            │   ├── sections/             276 V1 files
+            │   └── v1Format.json
+            ├── v2-knowledge-cards/       4,147 V2 files in 3 tiers
+            │   ├── tier-a-reviewed/    definitions penalties offences procedures timelines
+            │   ├── tier-b-reviewed/    authorities jurisdiction rights obligations
+            │   │                       remedies exceptions evidence
+            │   └── tier-c-support/     relationships examples intents aliases
+            ├── review/
+            │   ├── progress.md          Full build + review tracker
+            │   ├── project-flow.md      Generation pipeline for this act
+            │   ├── review-state.json    Machine-readable review detail
+            │   ├── llm-audit.json       Second-pass LLM audit output
+            │   └── llm-audit-adjudicated.json  Manual triage of that audit
+            └── final/                   Merged, ready-to-load outputs
+                ├── v1-statute.json / .jsonl
+                ├── v2-knowledge-cards.json / .jsonl
+                └── search-augmentation.json   intents+aliases folded into their
+                                                related concept, for keyword search
 ```
 
 ---
 
-## Using `dataset/final/` — the actual embedding inputs
+## Using `acts/consumer-protection-act-2019/final/` — the actual embedding inputs
 
 | File | Contents | Use for |
 |---|---|---|
-| `Consumer_Protection_Act_2019.json(l)` | 276 V1 nodes | Grounding / verbatim citation |
-| `knowledge_cards_v2.json(l)` | All 4,147 V2 cards, tagged by category | Vector index — filter or weight by `metadata.review_status` before trusting |
-| `search_augmentation.json` | 533 concepts' worth of keywords/aliases/sample questions | BM25/keyword search boosting, query training data — **not** vector embeddings |
+| `v1-statute.json(l)` | 276 V1 nodes | Grounding / verbatim citation |
+| `v2-knowledge-cards.json(l)` | All 4,147 V2 cards, tagged by category | Vector index — filter or weight by `metadata.review_status` before trusting |
+| `search-augmentation.json` | 533 concepts' worth of keywords/aliases/sample questions | BM25/keyword search boosting, query training data — **not** vector embeddings |
 
 **Recommended embedding split:** embed V1 + the 621 reviewed V2 cards + the 621
 `examples` (clearly flagged) as your primary vector index; use
-`search_augmentation.json` for hybrid keyword search instead of embedding
+`search-augmentation.json` for hybrid keyword search instead of embedding
 `intents`/`aliases` directly; treat `relationships` as graph data for reranking,
 not as retrievable text.
 
@@ -147,7 +157,8 @@ not as retrievable text.
 - ✅ 4,147/4,147 V2 files: schema-valid, 0 duplicate `concept_id`s, 0 broken `related_concepts` links
 - ✅ 100% of V1 nodes are referenced by at least one V2 card (full provenance coverage, no orphans either direction)
 - ✅ 621/621 Tier A+B cards reviewed; 39 explicitly flagged for human follow-up
-- ✅ Merged `dataset/final/` outputs verified identical to their source files, JSON and JSONL in sync
+- ✅ Merged `acts/consumer-protection-act-2019/final/` outputs verified identical
+  to their source files, JSON and JSONL in sync
 
 ---
 
