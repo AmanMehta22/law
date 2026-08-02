@@ -14,11 +14,39 @@
     "CPA2019-CH4-S41",
     "CPA2019-CH4-S67"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.delayed_appeal",
+    "alias.deposit_for_appeal",
+    "alias.filing_an_appeal_to_the_state_commission",
+    "alias.no_appeal_from_mediated_settlement",
+    "alias.proof_of_sufficient_cause",
+    "evidence.written_explanation",
+    "exception.no_appeal_from_order_under_section_81_1_pursuant_to_mediatio"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "proof",
+      "deposit",
+      "show",
+      "amount",
+      "has",
+      "been",
+      "deposited",
+      "receipt",
+      "entertain",
+      "appeal"
+    ],
+    "aliases": [
+      "late appeal",
+      "deposit receipt",
+      "funds confirmation",
+      "payment proof"
+    ],
+    "user_queries": [
+      "What is delayed appeal?",
+      "How does delayed appeal work?",
+      "Can you explain delayed appeal?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

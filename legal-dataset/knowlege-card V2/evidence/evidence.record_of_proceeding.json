@@ -13,11 +13,42 @@
   "derived_from": [
     "CPA2019-CH5-S74-4"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.consumer_mediation_cell",
+    "alias.consumer_mediation_cell_must_maintain_records",
+    "authority.consumer_mediation_cell",
+    "intent.consumer_mediation_cell",
+    "intent.consumer_mediation_cell_2",
+    "intent.consumer_mediation_cell_must_maintain_records",
+    "intent.consumer_mediation_cell_must_maintain_records_2"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "record",
+      "proceeding",
+      "written",
+      "proceedings",
+      "before",
+      "commission",
+      "laboratory",
+      "maintained",
+      "every",
+      "consumer"
+    ],
+    "aliases": [
+      "Consumer Arbitration",
+      "Consumer Mediator",
+      "Dispute Resolution Cell",
+      "Mediation Cell",
+      "case proceedings",
+      "court proceeding record",
+      "hearing transcript"
+    ],
+    "user_queries": [
+      "What is consumer mediation cell must maintain records?",
+      "How does consumer mediation cell must maintain records work?",
+      "Can you explain consumer mediation cell must maintain records?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

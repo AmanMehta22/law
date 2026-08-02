@@ -13,11 +13,39 @@
   "derived_from": [
     "CPA2019-CH4-S38-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.admissibility_decision_time_limit",
+    "alias.appeal_time_limit",
+    "alias.complaint_handling",
+    "alias.district_commission",
+    "alias.right_to_be_heard",
+    "authority.district_commission",
+    "evidence.sample_of_goods"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "report",
+      "laboratory",
+      "its",
+      "findings",
+      "thereon",
+      "district",
+      "commission",
+      "find",
+      "out",
+      "whether"
+    ],
+    "aliases": [
+      "complaint admission",
+      "lab report",
+      "laboratory test results",
+      "scientific analysis report"
+    ],
+    "user_queries": [
+      "What is complaint handling?",
+      "How does complaint handling work?",
+      "Can you explain complaint handling?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

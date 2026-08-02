@@ -16,11 +16,45 @@
   "derived_from": [
     "CPA2019-CH3-S22-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.director_general",
+    "alias.district_collector",
+    "alias.investigation_and_search",
+    "authority.director_general",
+    "authority.district_collector",
+    "intent.director_general",
+    "intent.director_general_2"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "document",
+      "record",
+      "article",
+      "evidence",
+      "investigation",
+      "purposes",
+      "investigate",
+      "consumer",
+      "rights",
+      "violation"
+    ],
+    "aliases": [
+      "Chief Director",
+      "DG",
+      "Director General of Consumer Affairs",
+      "Head of Consumer Protection",
+      "Main Official",
+      "documents",
+      "exhibits",
+      "papers",
+      "proof",
+      "records"
+    ],
+    "user_queries": [
+      "What is document or record or article or evidence?",
+      "How does document or record or article or evidence work?",
+      "Can you explain document or record or article or evidence?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

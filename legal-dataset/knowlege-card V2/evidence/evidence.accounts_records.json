@@ -14,11 +14,42 @@
   "derived_from": [
     "CPA2019-CH3-S26-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_authority_must_maintain_accounts_and_records",
+    "alias.comptroller_and_auditor_general_of_india",
+    "authority.central_authority",
+    "authority.comptroller_and_auditor_general_of_india",
+    "intent.accounts_and_records",
+    "intent.central_authority"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "accounts",
+      "records",
+      "proper",
+      "other",
+      "relevant",
+      "maintain",
+      "true"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority",
+      "business accounts",
+      "company documents"
+    ],
+    "user_queries": [
+      "What is accounts and records?",
+      "How does accounts and records work?",
+      "Can you explain accounts and records?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

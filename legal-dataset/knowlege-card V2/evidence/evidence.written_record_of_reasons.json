@@ -13,11 +13,40 @@
   "derived_from": [
     "CPA2019-CH4-S52"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.adjournment_exception",
+    "alias.appeal_hearing",
+    "alias.national_commission",
+    "alias.right_to_expedient_hearing_of_appeal",
+    "alias.state_commission",
+    "authority.national_commission",
+    "authority.state_commission"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "reasons",
+      "grant",
+      "adjournment",
+      "record",
+      "granting",
+      "written",
+      "show",
+      "sufficient",
+      "cause",
+      "true"
+    ],
+    "aliases": [
+      "delay",
+      "postponement",
+      "adjournment justification",
+      "delay acceptance grounds",
+      "postponement approval reasons"
+    ],
+    "user_queries": [
+      "What is reasons for grant of adjournment?",
+      "How does reasons for grant of adjournment work?",
+      "Can you explain reasons for grant of adjournment?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

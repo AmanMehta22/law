@@ -13,11 +13,37 @@
   "derived_from": [
     "CPA2019-CH6-S86"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.compensation_for_harm_caused",
+    "alias.right_to_compensation",
+    "evidence.documents_showing_control_over_designing_testing_manufacturi",
+    "evidence.maintenance_records_inspection_records_assembly_records",
+    "evidence.manufacturer_s_records_identification_documents",
+    "evidence.notice_or_process_records_service_records",
+    "evidence.records_of_alteration_or_modification"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "proof",
+      "express",
+      "warranty",
+      "establish",
+      "seller",
+      "documents",
+      "liability"
+    ],
+    "aliases": [
+      "damages",
+      "reparation",
+      "express warranty documentation",
+      "guarantee evidence",
+      "warranty proof"
+    ],
+    "user_queries": [
+      "What is product seller must exercise reasonable care?",
+      "How does product seller must exercise reasonable care work?",
+      "Can you explain product seller must exercise reasonable care?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

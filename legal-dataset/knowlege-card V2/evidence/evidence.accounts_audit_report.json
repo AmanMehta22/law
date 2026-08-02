@@ -14,11 +14,45 @@
   "derived_from": [
     "CPA2019-CH3-S26-4"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.comptroller_and_auditor_general_of_india",
+    "authority.central_authority",
+    "authority.central_government",
+    "authority.comptroller_and_auditor_general_of_india",
+    "intent.accounts_and_audit_reports"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "accounts",
+      "audit",
+      "reports",
+      "central",
+      "authority",
+      "certified",
+      "comptroller",
+      "auditor",
+      "general",
+      "india"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority",
+      "accounting reports",
+      "audit records"
+    ],
+    "user_queries": [
+      "What is accounts and audit reports?",
+      "How does accounts and audit reports work?",
+      "Can you explain accounts and audit reports?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

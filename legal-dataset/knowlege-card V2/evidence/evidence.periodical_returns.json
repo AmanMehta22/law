@@ -13,11 +13,42 @@
   "derived_from": [
     "CPA2019-CH4-S70-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.district_commission",
+    "alias.investigation_into_allegations_against_state_commission_members",
+    "alias.issuance_of_instructions_for_uniform_procedure",
+    "alias.monitoring_performance_of_state_commissions",
+    "alias.national_commission",
+    "alias.national_commission_must_investigate_allegations_against_state_commission_member"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "periodical",
+      "returns",
+      "calling",
+      "regarding",
+      "institution",
+      "disposal",
+      "pendency",
+      "cases",
+      "monitoring",
+      "performance"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government",
+      "periodic filings",
+      "recurring returns",
+      "regular returns"
+    ],
+    "user_queries": [
+      "What is periodical returns?",
+      "How does periodical returns work?",
+      "Can you explain periodical returns?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -14,11 +14,41 @@
     "CPA2019-CH5-S74-5",
     "CPA2019-CH8-S103-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.consumer_mediation_cell",
+    "alias.consumer_mediation_cell_must_submit_quarterly_report",
+    "alias.district_commission",
+    "alias.national_commission",
+    "alias.state_commission",
+    "authority.consumer_mediation_cell",
+    "authority.district_commission"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "quarterly",
+      "report",
+      "submission",
+      "district",
+      "commission",
+      "state",
+      "national",
+      "submitted",
+      "true"
+    ],
+    "aliases": [
+      "Consumer Arbitration",
+      "Consumer Mediator",
+      "Dispute Resolution Cell",
+      "Mediation Cell",
+      "financial quarterly",
+      "qtrly report",
+      "three-monthly report"
+    ],
+    "user_queries": [
+      "What is quarterly report?",
+      "How does quarterly report work?",
+      "Can you explain quarterly report?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

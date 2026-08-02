@@ -14,11 +14,39 @@
   "derived_from": [
     "CPA2019-CH5-S80-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.commission",
+    "alias.mediation_settlement_reporting",
+    "alias.mediator_must_prepare_and_forward_settlement_report",
+    "authority.commission",
+    "intent.commission",
+    "intent.commission_2",
+    "intent.mediation_settlement_reporting"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "settlement",
+      "report",
+      "agreement",
+      "document",
+      "forward",
+      "commission",
+      "true"
+    ],
+    "aliases": [
+      "Consumer Commission",
+      "Consumer Court",
+      "Court",
+      "Tribunal",
+      "agreement settlement",
+      "case settlement",
+      "dispute resolution report"
+    ],
+    "user_queries": [
+      "What is commission?",
+      "How does commission work?",
+      "Can you explain commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

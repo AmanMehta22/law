@@ -13,11 +13,40 @@
   "derived_from": [
     "CPA2019-CH4-S38-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.admissibility_decision_time_limit",
+    "alias.appeal_time_limit",
+    "alias.complaint_handling",
+    "alias.district_commission",
+    "alias.right_to_be_heard",
+    "authority.district_commission",
+    "evidence.report_from_laboratory"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "written",
+      "objections",
+      "submit",
+      "writing",
+      "his",
+      "regard",
+      "report",
+      "made",
+      "appropriate",
+      "laboratory"
+    ],
+    "aliases": [
+      "complaint admission",
+      "documented opposition",
+      "formal complaint",
+      "objection in writing",
+      "written protest"
+    ],
+    "user_queries": [
+      "What is written objections?",
+      "How does written objections work?",
+      "Can you explain written objections?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

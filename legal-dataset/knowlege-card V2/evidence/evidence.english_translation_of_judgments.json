@@ -13,11 +13,42 @@
   "derived_from": [
     "CPA2019-CH4-S70-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.district_commission",
+    "alias.investigation_into_allegations_against_state_commission_members",
+    "alias.issuance_of_instructions_for_uniform_procedure",
+    "alias.monitoring_performance_of_state_commissions",
+    "alias.national_commission",
+    "alias.national_commission_must_investigate_allegations_against_state_commission_member"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "english",
+      "translation",
+      "judgments",
+      "furnishing",
+      "written",
+      "language",
+      "adoption",
+      "uniform",
+      "procedure",
+      "hearing"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government",
+      "english version of verdicts",
+      "judgment translation",
+      "translated court decisions"
+    ],
+    "user_queries": [
+      "What is english translation of judgments?",
+      "How does english translation of judgments work?",
+      "Can you explain english translation of judgments?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

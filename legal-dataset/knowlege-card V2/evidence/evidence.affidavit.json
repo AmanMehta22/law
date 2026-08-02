@@ -13,11 +13,38 @@
   "derived_from": [
     "CPA2019-CH4-S38-6"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.complaint_filing",
+    "alias.district_commission",
+    "alias.hearing_through_affidavit_and_documentary_evidence",
+    "authority.district_commission",
+    "evidence.documentary_evidence",
+    "exception.the_district_commission_may_allow_hearing_or_examination_of_",
+    "intent.affidavit"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "affidavit",
+      "placed",
+      "record",
+      "hearing",
+      "complaint",
+      "true"
+    ],
+    "aliases": [
+      "complaint lodging",
+      "complaint registration",
+      "filing a complaint",
+      "submitting a complaint",
+      "notarized declaration",
+      "sworn statement",
+      "written oath"
+    ],
+    "user_queries": [
+      "What is affidavit?",
+      "How does affidavit work?",
+      "Can you explain affidavit?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

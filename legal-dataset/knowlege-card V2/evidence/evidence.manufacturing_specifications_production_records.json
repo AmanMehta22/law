@@ -14,16 +14,36 @@
   "derived_from": [
     "CPA2019-CH6-S84-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.design_defect_evidence",
+    "alias.deviation_from_manufacturing_specifications_proof",
+    "alias.express_warranty_proof",
+    "alias.instructions_and_warning_proof",
+    "alias.manufacturer_must_provide_adequate_instructions_and_warnings",
+    "alias.proof_of_manufacturing_defect",
+    "alias.right_to_compensation"
+  ],
   "search": {
     "keywords": [
-      "deviation from specifications"
+      "deviation from specifications",
+      "deviation",
+      "manufacturing",
+      "specifications",
+      "proof",
+      "establish",
+      "production",
+      "records",
+      "prove",
+      "true"
     ],
     "aliases": [
       "non-compliance with specifications"
     ],
     "user_queries": [
-      "What documents are required to prove deviation from manufacturing specifications?"
+      "What documents are required to prove deviation from manufacturing specifications?",
+      "What is design defect evidence?",
+      "How does design defect evidence work?",
+      "Can you explain design defect evidence?"
     ]
   },
   "metadata": {

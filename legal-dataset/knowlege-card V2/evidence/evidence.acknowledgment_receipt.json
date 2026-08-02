@@ -14,18 +14,37 @@
   "derived_from": [
     "CPA2019-CH4-S65-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.acknowledgment",
+    "alias.appeal_time_limit",
+    "alias.district_commission",
+    "alias.national_commission",
+    "alias.notice_served_by_registered_post",
+    "alias.service_of_notice",
+    "alias.state_commission"
+  ],
   "search": {
     "keywords": [
       "acknowledgment",
       "receipt",
-      "notice"
+      "notice",
+      "other",
+      "purporting",
+      "signed",
+      "opposite",
+      "party",
+      "his",
+      "agent",
+      "complainant"
     ],
     "aliases": [
       "proof of service"
     ],
     "user_queries": [
-      "What proof is required to show that the notice has been served"
+      "What proof is required to show that the notice has been served",
+      "What is acknowledgment?",
+      "How does acknowledgment work?",
+      "Can you explain acknowledgment?"
     ]
   },
   "metadata": {

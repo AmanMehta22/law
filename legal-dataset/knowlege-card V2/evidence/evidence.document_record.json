@@ -14,11 +14,43 @@
   "derived_from": [
     "CPA2019-CH3-S19-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.director_general",
+    "alias.district_collector",
+    "alias.investigation",
+    "authority.central_authority",
+    "authority.director_general",
+    "authority.district_collector"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "document",
+      "record",
+      "possession",
+      "purposes",
+      "investigation",
+      "sub",
+      "section",
+      "true"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority",
+      "documentation",
+      "files"
+    ],
+    "user_queries": [
+      "What is document or record?",
+      "How does document or record work?",
+      "Can you explain document or record?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

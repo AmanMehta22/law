@@ -16,11 +16,44 @@
   "derived_from": [
     "CPA2019-CH3-S26-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.audit_of_central_authority_accounts",
+    "alias.comptroller_and_auditor_general_of_india",
+    "alias.right_to_demand_production_of_documents",
+    "authority.comptroller_and_auditor_general_of_india",
+    "intent.audit_documents",
+    "intent.audit_of_central_authority_accounts",
+    "intent.audit_of_central_authority_accounts_2"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "audit",
+      "documents",
+      "books",
+      "accounts",
+      "connected",
+      "vouchers",
+      "other",
+      "papers",
+      "conduct",
+      "central"
+    ],
+    "aliases": [
+      "account examination",
+      "audit of central authority",
+      "central authority",
+      "central authority accounts",
+      "central authority audit",
+      "financial inspection",
+      "accounting records",
+      "audit reports",
+      "financial audit papers"
+    ],
+    "user_queries": [
+      "What is audit documents?",
+      "How does audit documents work?",
+      "Can you explain audit documents?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

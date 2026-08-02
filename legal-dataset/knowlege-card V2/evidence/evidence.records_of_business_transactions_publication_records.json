@@ -14,11 +14,29 @@
   "derived_from": [
     "CPA2019-CH3-S21-6"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.defence_not_available_with_previous_knowledge",
+    "alias.person_must_prove_publication_in_ordinary_course_of_business",
+    "alias.proof_of_publication_in_ordinary_course_of_business",
+    "authority.central_authority",
+    "exception.such_defence_is_not_available_if_the_person_had_previous_kno",
+    "intent.central_authority"
+  ],
   "search": {
     "keywords": [
       "ordinary course of business",
-      "publication records"
+      "publication records",
+      "proof",
+      "publication",
+      "ordinary",
+      "course",
+      "business",
+      "establish",
+      "advertisement",
+      "was",
+      "published",
+      "records"
     ],
     "aliases": [
       "business records",
@@ -26,7 +44,10 @@
     ],
     "user_queries": [
       "How to prove ordinary course of business",
-      "What documents are required to prove publication in ordinary course of business"
+      "What documents are required to prove publication in ordinary course of business",
+      "What is defence not available with previous knowledge?",
+      "How does defence not available with previous knowledge work?",
+      "Can you explain defence not available with previous knowledge?"
     ]
   },
   "metadata": {

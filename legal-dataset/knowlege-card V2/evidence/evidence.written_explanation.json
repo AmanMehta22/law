@@ -15,16 +15,40 @@
     "CPA2019-CH4-S51-1",
     "CPA2019-CH4-S67"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.delayed_appeal",
+    "alias.deposit_for_appeal",
+    "alias.filing_an_appeal_to_the_state_commission",
+    "alias.no_appeal_from_mediated_settlement",
+    "alias.proof_of_sufficient_cause",
+    "evidence.deposit_receipt",
+    "exception.no_appeal_from_order_under_section_81_1_pursuant_to_mediatio"
+  ],
   "search": {
     "keywords": [
-      "sufficient cause"
+      "sufficient cause",
+      "proof",
+      "sufficient",
+      "cause",
+      "explain",
+      "reason",
+      "filing",
+      "appeal",
+      "days",
+      "written",
+      "explanation"
     ],
     "aliases": [
       "reasonable grounds"
     ],
     "user_queries": [
-      "Why was the appeal filed late?"
+      "Why was the appeal filed late?",
+      "What is delayed appeal?",
+      "How does delayed appeal work?",
+      "Can you explain delayed appeal?",
+      "What is appellant must deposit amount?",
+      "How does appellant must deposit amount work?",
+      "Can you explain appellant must deposit amount?"
     ]
   },
   "metadata": {

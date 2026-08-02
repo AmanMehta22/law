@@ -13,11 +13,42 @@
   "derived_from": [
     "CPA2019-CH4-S70-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.district_commission",
+    "alias.investigation_into_allegations_against_state_commission_members",
+    "alias.issuance_of_instructions_for_uniform_procedure",
+    "alias.monitoring_performance_of_state_commissions",
+    "alias.national_commission",
+    "alias.national_commission_must_investigate_allegations_against_state_commission_member"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "inquiry",
+      "report",
+      "submitting",
+      "state",
+      "government",
+      "concerned",
+      "investigating",
+      "into",
+      "allegations",
+      "against"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government",
+      "inquiry findings",
+      "investigation report",
+      "probe report"
+    ],
+    "user_queries": [
+      "What is inquiry report?",
+      "How does inquiry report work?",
+      "Can you explain inquiry report?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

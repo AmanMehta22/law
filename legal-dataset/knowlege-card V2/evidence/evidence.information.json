@@ -14,11 +14,41 @@
     "CPA2019-CH4-S70-4",
     "CPA2019-CH4-S70-5"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.national_and_state_commissions_must_furnish_information",
+    "alias.national_commission",
+    "alias.state_commissions",
+    "authority.central_government",
+    "authority.national_commission",
+    "authority.state_commissions"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "information",
+      "including",
+      "pendency",
+      "cases",
+      "furnished",
+      "central",
+      "government",
+      "true"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government",
+      "data",
+      "details",
+      "facts",
+      "knowledge"
+    ],
+    "user_queries": [
+      "What is state commission must furnish information?",
+      "How does state commission must furnish information work?",
+      "Can you explain state commission must furnish information?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

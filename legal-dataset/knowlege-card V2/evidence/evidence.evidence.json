@@ -13,11 +13,45 @@
   "derived_from": [
     "CPA2019-CH4-S38-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_time_limit",
+    "alias.complaint_handling_by_district_commission",
+    "alias.district_commission",
+    "alias.district_commission_must_decide_complaint_on_merits",
+    "alias.district_commission_must_direct_opposite_party_to_respond",
+    "alias.district_commission_must_refer_complaint",
+    "alias.district_commission_must_settle_consumer_dispute"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "evidence",
+      "brought",
+      "its",
+      "notice",
+      "complainant",
+      "opposite",
+      "party",
+      "settle",
+      "consumer",
+      "dispute"
+    ],
+    "aliases": [
+      "appeal deadline",
+      "filing appeal",
+      "opposite party response",
+      "time limit for appeal",
+      "time limit for application",
+      "time to respond",
+      "documents",
+      "exhibits",
+      "proof",
+      "testimony"
+    ],
+    "user_queries": [
+      "What is evidence?",
+      "How does evidence work?",
+      "Can you explain evidence?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

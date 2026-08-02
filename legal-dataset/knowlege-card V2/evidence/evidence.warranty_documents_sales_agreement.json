@@ -14,16 +14,37 @@
   "derived_from": [
     "CPA2019-CH6-S84-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.design_defect_evidence",
+    "alias.deviation_from_manufacturing_specifications_proof",
+    "alias.express_warranty_proof",
+    "alias.instructions_and_warning_proof",
+    "alias.manufacturer_must_provide_adequate_instructions_and_warnings",
+    "alias.proof_of_manufacturing_defect",
+    "alias.right_to_compensation"
+  ],
   "search": {
     "keywords": [
-      "express warranty"
+      "express warranty",
+      "express",
+      "warranty",
+      "proof",
+      "establish",
+      "product",
+      "does",
+      "conform",
+      "documents",
+      "sales",
+      "agreement"
     ],
     "aliases": [
       "product warranty"
     ],
     "user_queries": [
-      "What documents are required to prove non-conformity to express warranty?"
+      "What documents are required to prove non-conformity to express warranty?",
+      "What is design defect evidence?",
+      "How does design defect evidence work?",
+      "Can you explain design defect evidence?"
     ]
   },
   "metadata": {

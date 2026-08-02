@@ -14,11 +14,44 @@
   "derived_from": [
     "CPA2019-CH3-S22-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.return_of_seized_documents",
+    "alias.return_of_seized_or_produced_documents_records_or_articles",
+    "alias.right_to_return_of_seized_or_produced_documents",
+    "intent.copies_of_documents_records_or_articles",
+    "intent.mediation_references_return_of_seized_documents",
+    "intent.return_of_seized_documents",
+    "intent.return_of_seized_documents_2"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "copies",
+      "documents",
+      "records",
+      "articles",
+      "extracts",
+      "seized",
+      "produced",
+      "therefrom",
+      "retain",
+      "record"
+    ],
+    "aliases": [
+      "document return",
+      "giving back seized files",
+      "release of seized papers",
+      "restoration of documents",
+      "restoring seized documents",
+      "return of confiscated documents",
+      "documentary copies",
+      "record duplicates",
+      "reproductions of papers"
+    ],
+    "user_queries": [
+      "What is copies of documents, records or articles?",
+      "How does copies of documents, records or articles work?",
+      "Can you explain copies of documents, records or articles?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -13,11 +13,36 @@
   "derived_from": [
     "CPA2019-CH6-S85"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.compensation_for_harm_caused",
+    "alias.product_service_provider_must_conform_to_express_warranty_or_contract_terms",
+    "alias.product_service_provider_must_issue_adequate_instructions_or_warnings",
+    "alias.product_service_provider_must_not_withhold_information",
+    "alias.product_service_provider_must_provide_service_of_required_quality",
+    "evidence.warranty",
+    "intent.compensation_for_harm_caused"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "proof",
+      "contract",
+      "establish",
+      "terms",
+      "conditions",
+      "true"
+    ],
+    "aliases": [
+      "damages",
+      "reparation",
+      "binding agreement",
+      "contract agreement",
+      "signed contract"
+    ],
+    "user_queries": [
+      "What is product service provider must conform to express warranty or contract terms?",
+      "How does product service provider must conform to express warranty or contract terms work?",
+      "Can you explain product service provider must conform to express warranty or contract terms?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

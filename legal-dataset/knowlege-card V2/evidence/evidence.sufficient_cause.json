@@ -4,18 +4,49 @@
   "title": "Sufficient cause",
   "description": "reasons for not filing the complaint within the specified period",
   "content": {
-    "required_documents": [],
+    "required_documents": [
+      "reasons for condoning the delay"
+    ],
     "purpose": "to justify the delay in filing the complaint",
     "mandatory": true
   },
   "derived_from": [
     "CPA2019-CH4-S69-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.complainant_must_satisfy_the_commission",
+    "alias.complaint_filing_time_limit_exception",
+    "alias.district_commission",
+    "alias.filing_of_complaint_after_specified_period",
+    "alias.national_commission",
+    "alias.right_to_file_a_late_complaint",
+    "alias.state_commission"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "sufficient",
+      "cause",
+      "reasons",
+      "filing",
+      "complaint",
+      "specified",
+      "period",
+      "justify",
+      "delay",
+      "true"
+    ],
+    "aliases": [
+      "applicant",
+      "consumer",
+      "justifiable grounds",
+      "reasonable explanation",
+      "valid reason"
+    ],
+    "user_queries": [
+      "What is sufficient cause?",
+      "How does sufficient cause work?",
+      "Can you explain sufficient cause?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",
