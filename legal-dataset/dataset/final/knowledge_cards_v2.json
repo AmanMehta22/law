@@ -40025,7 +40025,7 @@
     "description": "To show that 50% of the amount has been deposited",
     "content": {
       "required_documents": [
-        "Not specified in the Act"
+        "Fifty per cent. deposit receipt"
       ],
       "purpose": "To entertain an appeal by a person required to pay an amount in terms of an order of the District Commission",
       "mandatory": false
@@ -177160,7 +177160,7 @@
     "content": {
       "authority": "District Collector",
       "territorial": "within his jurisdiction",
-      "pecuniary": "[]",
+      "pecuniary": "Not specified in the Act",
       "conditions": [
         "on a complaint",
         "on a reference made to him by the Central Authority or the Commissioner of a regional office"
@@ -177415,7 +177415,7 @@
     "content": {
       "authority": "District Commission",
       "territorial": "that district",
-      "pecuniary": "[]",
+      "pecuniary": "Not specified in the Act",
       "conditions": [
         "vacancy in the office of the President or member of a District Commission"
       ]
@@ -177726,7 +177726,7 @@
     "content": {
       "authority": "National Commission",
       "territorial": "National Capital Region and other notified places",
-      "pecuniary": "[]",
+      "pecuniary": "Not specified in the Act",
       "conditions": [
         "ordinarily function at the National Capital Region",
         "in consultation with the National Commission",
@@ -178041,7 +178041,7 @@
     "content": {
       "authority": "State Commission",
       "territorial": "State capital and other notified places",
-      "pecuniary": "[]",
+      "pecuniary": "Not specified in the Act",
       "conditions": [
         "in consultation with the State Commission",
         "by notification",
@@ -178099,7 +178099,7 @@
     "content": {
       "authority": "State Commission",
       "territorial": "Where the opposite party resides, carries on business, has a branch office, or personally works for gain, or where the cause of action arises, or where the complainant resides or personally works for gain",
-      "pecuniary": "[]",
+      "pecuniary": "Not specified in the Act",
       "conditions": [
         "the opposite party or each of the opposite parties, at the time of the institution of the complaint, ordinarily resides or carries on business or has a branch office or personally works for gain",
         "any of the opposite parties, at the time of the institution of the complaint, actually and voluntarily resides, or carries on business or has a branch office or personally works for gain, provided in such case, the permission of the State Commission is given",
@@ -178223,7 +178223,7 @@
     "content": {
       "authority": "The Consumer Protection Act, 2019",
       "territorial": "The whole of India except the State of Jammu and Kashmir",
-      "pecuniary": "[]",
+      "pecuniary": "Not specified in the Act",
       "conditions": [
         "It extends to the whole of India except the State of Jammu and Kashmir"
       ]
@@ -180559,7 +180559,7 @@
         "where the Central Government deems it necessary so to do"
       ],
       "limitations": [
-        "one crore rupees"
+        "such value as the Central Government deems fit"
       ]
     },
     "derived_from": [
@@ -180620,7 +180620,7 @@
         "deems it necessary"
       ],
       "limitations": [
-        "ten crore rupees"
+        "such value as the Central Government deems fit"
       ]
     },
     "derived_from": [
@@ -182073,7 +182073,8 @@
       "who": "Consumer Mediation Cell",
       "what": "shall submit a quarterly report",
       "conditions": [
-        "in the manner specified by regulations"
+        "in the manner specified by regulations",
+        "to the District Commission, the State Commission or the National Commission to which it is attached"
       ],
       "limitations": [
         "Not specified in the Act"
@@ -183382,8 +183383,7 @@
         "sufficient cause is shown"
       ],
       "limitations": [
-        "within a period of three months from the date of receipt of notice by opposite party where the complaint does not require analysis or testing of commodities",
-        "within five months if it requires analysis or testing of commodities"
+        "Not specified in the Act"
       ]
     },
     "derived_from": [
@@ -183443,8 +183443,7 @@
         "sufficient cause is shown"
       ],
       "limitations": [
-        "within a period of three months from the date of receipt of notice by opposite party where the complaint does not require analysis or testing of commodities",
-        "within five months if it requires analysis or testing of commodities"
+        "Not specified in the Act"
       ]
     },
     "derived_from": [
@@ -185213,24 +185212,7 @@
       "who": "Mediator",
       "what": "must conduct mediation",
       "conditions": [
-        "a",
-        "s",
-        " ",
-        "p",
-        "e",
-        "c",
-        "i",
-        "f",
-        "d",
-        "b",
-        "y",
-        "r",
-        "g",
-        "u",
-        "l",
-        "t",
-        "o",
-        "n"
+        "the mediator is nominated by the District Commission or the State Commission or the National Commission"
       ],
       "limitations": [
         "within such time and in such manner as may be specified by regulations"
@@ -185410,8 +185392,7 @@
         "circumstances which may give rise to a justifiable doubt as to his independence or impartiality"
       ],
       "limitations": [
-        "personal, professional or financial interest in the outcome of the consumer dispute",
-        "circumstances which may give rise to a justifiable doubt as to his independence or impartiality"
+        "Not specified in the Act"
       ]
     },
     "derived_from": [
@@ -187129,7 +187110,7 @@
         "an agreement is reached between the parties with respect to all or some of the issues involved in the consumer dispute"
       ],
       "limitations": [
-        "an agreement is reached between the parties with respect to all or some of the issues involved in the consumer dispute"
+        "Not specified in the Act"
       ]
     },
     "derived_from": [
@@ -188607,10 +188588,10 @@
         "service is provided under any law or contract"
       ],
       "limitations": [
-        "service is provided under any law or contract",
-        "service is provided under any law or contract",
-        "service is provided under any law or contract",
-        "service is provided under any law or contract"
+        "the service provided was faulty or imperfect or deficient or inadequate in quality, nature or manner of performance required by law",
+        "there was an act of omission, commission or negligence or conscious withholding of information which caused harm",
+        "the service provider did not issue adequate instructions or warnings to prevent harm",
+        "the service did not conform to express warranty or the terms and conditions of the contract"
       ]
     },
     "derived_from": [
@@ -189255,35 +189236,10 @@
       "who": "State Commission",
       "what": "must entertain complaints where the value of the goods or services paid as consideration, exceeds rupees one crore, but does not exceed rupees ten crore",
       "conditions": [
-        "P",
-        "r",
-        "o",
-        "v",
-        "i",
-        "d",
-        "e",
-        " ",
-        "t",
-        "h",
-        "a",
-        "w",
-        "C",
-        "n",
-        "l",
-        "G",
-        "m",
-        "s",
-        "c",
-        "y",
-        ",",
-        "p",
-        "b",
-        "u",
-        "f"
+        "Provided that where the Central Government deems it necessary so to do, it may prescribe such other value, as it deems fit"
       ],
       "limitations": [
-        "[",
-        "]"
+        "Subject to the other provisions of this Act"
       ]
     },
     "derived_from": [
@@ -190990,7 +190946,7 @@
     "description": "A manufacturer or service provider who makes a misleading advertisement",
     "content": {
       "offence": "A manufacturer or service provider who causes a false or misleading advertisement to be made which is prejudicial to the interest of consumers",
-      "punishment": "Imprisonment up to 2 years and fine up to ten lakh rupees",
+      "punishment": "Imprisonment for a term which may extend to two years, and with fine which may extend to ten lakh rupees; and for every subsequent offence, imprisonment for a term which may extend to five years and with fine which may extend to fifty lakh rupees",
       "applicable_section": "Section 89"
     },
     "derived_from": [
@@ -191047,7 +191003,7 @@
     "description": "Manufacturing, storing, selling, distributing or importing products containing adulterants",
     "content": {
       "offence": "Manufactures for sale or stores or sells or distributes or imports any product containing an adulterant",
-      "punishment": "Imprisonment for a term which may extend to six months and with fine which may extend to one lakh rupees",
+      "punishment": "Tiered by injury: (a) no injury: imprisonment up to six months and fine up to one lakh rupees; (b) injury not amounting to grievous hurt: imprisonment up to one year and fine up to three lakh rupees; (c) injury resulting in grievous hurt: imprisonment up to seven years and fine up to five lakh rupees; (d) death of a consumer: imprisonment not less than seven years, extendable to life, and fine not less than ten lakh rupees",
       "applicable_section": "Section 90(1)"
     },
     "derived_from": [
@@ -191267,7 +191223,8 @@
       "applicable_section": "Section 91(1) and (2)"
     },
     "derived_from": [
-      "CPA2019-CH7-S91-2"
+      "CPA2019-CH7-S91-2",
+      "CPA2019-CH7-S91-1"
     ],
     "related_concepts": [],
     "search": {
@@ -192963,16 +192920,8 @@
       ],
       "authority": "National Commission",
       "documents": [
-        "bill",
-        "cash memo",
-        "receipt for goods sold or services rendered",
-        "annual statement of accounts",
-        "annual report",
-        "other reports and returns",
-        "complaint",
-        "electronic form for filing complaint",
-        "appeal to the State Commission",
-        "appeal to the National Commission"
+        "appeal in the prescribed form",
+        "proof of deposit of fifty per cent. of the amount"
       ]
     },
     "derived_from": [
@@ -193038,13 +192987,8 @@
       ],
       "authority": "State Commission",
       "documents": [
-        "bill",
-        "cash memo",
-        "receipt for goods sold or services rendered",
-        "copies or extracts of document, record or article seized or produced",
-        "annual statement of accounts",
-        "annual report",
-        "other reports and returns"
+        "appeal in the prescribed form",
+        "proof of deposit of fifty per cent. of the amount"
       ]
     },
     "derived_from": [
@@ -193341,9 +193285,7 @@
       ],
       "authority": "National Commission",
       "documents": [
-        "bill",
-        "cash memo",
-        "receipt"
+        "Not specified in the Act"
       ]
     },
     "derived_from": [
@@ -194498,15 +194440,7 @@
       ],
       "authority": "National Commission",
       "documents": [
-        "bill",
-        "cash memo",
-        "receipt",
-        "annual statement of accounts",
-        "annual report",
-        "returns",
-        "complaint",
-        "electronic form",
-        "appeal"
+        "proof of deposit of fifty per cent. of the amount"
       ]
     },
     "derived_from": [
@@ -195474,16 +195408,8 @@
       ],
       "authority": "Not specified in the Act",
       "documents": [
-        "bill or cash memo or receipt for goods sold or services rendered",
-        "copies or extracts of document, record or article seized or produced",
-        "annual statement of accounts",
-        "annual report, other reports and returns",
         "electronic form for filing complaint",
-        "fee for filing complaint",
-        "authentication of goods sampled",
-        "fund where the amount obtained may be credited",
-        "form and manner of filing appeal to the State Commission",
-        "form and manner of filing appeal to the National Commission"
+        "fee for filing complaint"
       ]
     },
     "derived_from": [
@@ -195553,9 +195479,7 @@
       ],
       "authority": "Central Authority",
       "documents": [
-        "complaint",
-        "safety notices",
-        "guidelines"
+        "complaint"
       ]
     },
     "derived_from": [
@@ -197119,9 +197043,7 @@
       ],
       "authority": "Central Authority",
       "documents": [
-        "complaints",
-        "safety notices",
-        "guidelines"
+        "Not specified in the Act"
       ]
     },
     "derived_from": [
@@ -197301,22 +197223,8 @@
       ],
       "authority": "Mediation",
       "documents": [
-        "[",
-        "a",
-        "g",
-        "r",
-        "e",
-        "m",
-        "n",
-        "t",
-        " ",
-        "d",
-        "u",
-        "c",
-        "o",
-        "w",
-        "i",
-        "]"
+        "written agreement",
+        "signed agreement"
       ]
     },
     "derived_from": [
@@ -227518,7 +227426,7 @@
         "harm caused by a defective product"
       ],
       "limitations": [
-        "harm caused by a defective product"
+        "Not specified in the Act"
       ]
     },
     "derived_from": [
@@ -228862,12 +228770,7 @@
         "Not specified in the Act"
       ],
       "exceptions": [
-        "requiring manifestly excessive security deposits",
-        "imposing any penalty on the consumer for the breach of contract",
-        "refusing to accept early repayment of debts",
-        "entitling a party to the contract to terminate such contract unilaterally without reasonable cause",
-        "permitting or has the effect of permitting one party to assign the contract to the detriment of the other party who is a consumer without his consent",
-        "imposing on the consumer any unreasonable charge obligation or condition"
+        "Not specified in the Act"
       ]
     },
     "derived_from": [
@@ -230452,7 +230355,7 @@
       "duration": "one year",
       "trigger": "every year",
       "exceptions": [
-        "where the Central Authority deems it necessary"
+        "Not specified in the Act"
       ]
     },
     "derived_from": [
@@ -230565,7 +230468,7 @@
     "description": "...",
     "content": {
       "duration": "the period so specified",
-      "trigger": "Not specified in the Act",
+      "trigger": "the District Commission does not decide the issue of admissibility of the complaint",
       "exceptions": [
         "the District Commission decides the issue of admissibility of the complaint within the period so specified"
       ]
@@ -230764,7 +230667,7 @@
     "description": "period for which the endorser is prohibited from making endorsement",
     "content": {
       "duration": "three years",
-      "trigger": "from the order",
+      "trigger": "for every subsequent contravention of an order prohibiting an endorser from making endorsement; and within a period of three years from the date on which the first offence, committed by him, was compounded (for repeat offences)",
       "exceptions": [
         "first offence",
         "offence committed after the expiry of a period of three years from the date on which the offence was previously compounded"
