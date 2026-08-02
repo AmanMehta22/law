@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.central_government_may_prescribe_such_other_value",
+  "concept_type": "example",
+  "title": "Central Government's Power to Prescribe Value for District Commission",
+  "description": "Illustrative example for: obligation.central_government_may_prescribe_such_other_value",
+  "content": {
+    "scenario": "The Central Government deems it necessary to increase the jurisdictional limit of the District Commission due to rising consumer complaints. It prescribes a new value of Rs. 1.5 crores, exceeding the original limit of one crore rupees.",
+    "outcome": "The Central Government's prescription of the new value is valid as it is deemed necessary, and the District Commission shall entertain complaints where the value of goods or services paid as consideration does not exceed the newly prescribed value."
+  },
+  "derived_from": [
+    "obligation.central_government_may_prescribe_such_other_value"
+  ],
+  "related_concepts": [
+    "obligation.central_government_may_prescribe_such_other_value"
+  ],
+  "search": {
+    "keywords": [
+      "Central Government",
+      "District Commission",
+      "jurisdictional limit",
+      "consumer complaints",
+      "prescribed value"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the jurisdictional limit of the District Commission?",
+      "Can the Central Government change the jurisdictional limit?",
+      "What happens if the Central Government prescribes a new value?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

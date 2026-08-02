@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.disclosure_of_facts_by_mediators",
+  "concept_type": "example",
+  "title": "Disclosure of Facts by Mediators",
+  "description": "Illustrative example for: procedure.disclosure_of_facts_by_mediators",
+  "content": {
+    "scenario": "A mediator, appointed by the District Commission, is required to disclose certain facts during the mediation process.",
+    "outcome": "The mediator must disclose facts under clause (c) of section 77, as per the regulations, and follow the code of conduct for empanelled mediators."
+  },
+  "derived_from": [
+    "procedure.disclosure_of_facts_by_mediators"
+  ],
+  "related_concepts": [
+    "procedure.disclosure_of_facts_by_mediators"
+  ],
+  "search": {
+    "keywords": [
+      "mediator",
+      "disclosure",
+      "facts",
+      "code of conduct",
+      "regulations"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What facts must mediators disclose during the mediation process?",
+      "What is the code of conduct for empanelled mediators?",
+      "How do mediators disclose facts during mediation?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

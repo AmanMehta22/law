@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.hearing_of_consumer_dispute",
+  "concept_type": "example",
+  "title": "Hearing of Consumer Dispute",
+  "description": "Illustrative example for: procedure.hearing_of_consumer_dispute",
+  "content": {
+    "scenario": "A consumer, Ms. Sharma, files a complaint before the District Commission against a seller for selling a defective product. The parties attempt mediation, but it fails to settle the dispute.",
+    "outcome": "The District Commission continues to hear all the issues involved in the consumer dispute and passes an order, which may direct the seller to replace the product, refund the price or pay compensation to the consumer."
+  },
+  "derived_from": [
+    "procedure.hearing_of_consumer_dispute"
+  ],
+  "related_concepts": [
+    "procedure.hearing_of_consumer_dispute"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "consumer dispute",
+      "mediation",
+      "defective product",
+      "seller liability"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What happens if mediation fails to settle a consumer dispute?",
+      "Can the District Commission hear a consumer dispute after mediation has failed?",
+      "What are the possible orders that the District Commission can pass in a consumer dispute?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

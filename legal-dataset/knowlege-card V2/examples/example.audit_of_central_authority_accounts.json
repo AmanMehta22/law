@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.audit_of_central_authority_accounts",
+  "concept_type": "example",
+  "title": "Audit of Central Authority Accounts",
+  "description": "Illustrative example for: procedure.audit_of_central_authority_accounts",
+  "content": {
+    "scenario": "The Comptroller and Auditor-General of India decides to conduct an audit of the Central Authority's accounts. The auditor demands the production of books, accounts, and connected vouchers, and also inspects the offices of the Central Authority.",
+    "outcome": "The Comptroller and Auditor-General of India or the appointed person has the right to demand the production of books, accounts, connected vouchers, and other documents and papers, and to inspect any of the offices of the Central Authority, as per the provisions of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "procedure.audit_of_central_authority_accounts"
+  ],
+  "related_concepts": [
+    "procedure.audit_of_central_authority_accounts"
+  ],
+  "search": {
+    "keywords": [
+      "audit",
+      "Central Authority",
+      "Comptroller and Auditor-General",
+      "accounts",
+      "inspection",
+      "consumer protection"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the procedure for auditing the Central Authority's accounts?",
+      "Who has the right to inspect the Central Authority's offices?",
+      "What documents can be demanded by the Comptroller and Auditor-General during an audit?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

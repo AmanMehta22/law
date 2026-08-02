@@ -1,0 +1,40 @@
+{
+  "concept_id": "example.central_government_must_establish_regional_benches_by_notifi",
+  "concept_type": "example",
+  "title": "Central Government Must Establish Regional Benches By Notification",
+  "description": "Illustrative example for: obligation.central_government_must_establish_regional_benches_by_notifi",
+  "content": {
+    "scenario": "The Central Government is planning to establish regional Benches of the National Commission. The Central Government must establish these regional Benches by notification in the Official Gazette.",
+    "outcome": "The Central Government must establish regional Benches of the National Commission by notification in the Official Gazette."
+  },
+  "derived_from": [
+    "obligation.central_government_must_establish_regional_benches_by_notifi"
+  ],
+  "related_concepts": [
+    "obligation.central_government_must_establish_regional_benches_by_notifi"
+  ],
+  "search": {
+    "keywords": [
+      "Central Government",
+      "regional Benches",
+      "notification",
+      "Official Gazette"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the Central Government's obligation regarding regional Benches?",
+      "How does the Central Government establish regional Benches?",
+      "What is the purpose of the notification in the Official Gazette?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

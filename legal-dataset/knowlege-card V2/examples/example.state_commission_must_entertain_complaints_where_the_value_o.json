@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.state_commission_must_entertain_complaints_where_the_value_o",
+  "concept_type": "example",
+  "title": "State Commission's Obligation to Entertain Complaints Based on Value",
+  "description": "Illustrative example for: obligation.state_commission_must_entertain_complaints_where_the_value_o",
+  "content": {
+    "scenario": "A consumer purchases a product worth Rs. 5 crores and files a complaint with the State Commission, alleging defects in the product. The company disputes the Commission's jurisdiction, claiming the value of the product is beyond its limits.",
+    "outcome": "The State Commission must entertain the complaint since the value of the goods or services paid as consideration (Rs. 5 crores) exceeds Rs. 1 crore but does not exceed Rs. 10 crores, as per section 47(1)(a)(i) of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.state_commission_must_entertain_complaints_where_the_value_o"
+  ],
+  "related_concepts": [
+    "obligation.state_commission_must_entertain_complaints_where_the_value_o"
+  ],
+  "search": {
+    "keywords": [
+      "State Commission",
+      "complaints",
+      "value",
+      "Rs. 1 crore",
+      "Rs. 10 crores",
+      "section 47"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the jurisdiction of the State Commission based on the value of goods or services?",
+      "Can the State Commission entertain complaints beyond Rs. 10 crores?",
+      "How does the State Commission determine the value of goods or services for jurisdictional purposes?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

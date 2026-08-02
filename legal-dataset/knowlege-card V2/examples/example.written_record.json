@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.written_record",
+  "concept_type": "example",
+  "title": "Written Record of Adjournment",
+  "description": "Illustrative example for: evidence.written_record",
+  "content": {
+    "scenario": "A consumer, Priya, files a complaint against a company, and the District Commission schedules a hearing. However, the company requests an adjournment due to unforeseen circumstances. The District Commission grants the adjournment and records the reasons in writing.",
+    "outcome": "The District Commission makes an order regarding the costs occasioned by the adjournment and records the reasons for the adjournment in writing, as required by the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "evidence.written_record"
+  ],
+  "related_concepts": [
+    "evidence.written_record"
+  ],
+  "search": {
+    "keywords": [
+      "adjournment",
+      "written record",
+      "District Commission",
+      "consumer complaint",
+      "costs"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the rules for adjournment in consumer disputes?",
+      "How can I request an adjournment in a consumer complaint?",
+      "What are the consequences of adjournment in a consumer case?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

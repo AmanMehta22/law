@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.the_president_and_every_other_member_appointed_immediately_b",
+  "concept_type": "example",
+  "title": "Exception for Members Appointed Before Finance Act 2017",
+  "description": "Illustrative example for: exception.the_president_and_every_other_member_appointed_immediately_b",
+  "content": {
+    "scenario": "Rajesh was appointed as a member of the National Commission immediately before the commencement of section 177 of the Finance Act, 2017. He wants to know which Act will govern his tenure.",
+    "outcome": "Rajesh will continue to be governed by the provisions of the Consumer Protection Act, 1986, as if the Consumer Protection Act, 2019 had not come into force."
+  },
+  "derived_from": [
+    "exception.the_president_and_every_other_member_appointed_immediately_b"
+  ],
+  "related_concepts": [
+    "exception.the_president_and_every_other_member_appointed_immediately_b"
+  ],
+  "search": {
+    "keywords": [
+      "Consumer Protection Act 1986",
+      "Finance Act 2017",
+      "National Commission",
+      "member tenure",
+      "governance"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Which Act governs members appointed before Finance Act 2017?",
+      "What are the rules for members appointed before 2017?",
+      "How does the Consumer Protection Act, 2019 affect existing members?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

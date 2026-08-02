@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.parties_to_a_consumer_dispute_or_their_authorised_representa",
+  "concept_type": "example",
+  "title": "Parties' Obligations in Mediation",
+  "description": "Illustrative example for: obligation.parties_to_a_consumer_dispute_or_their_authorised_representa",
+  "content": {
+    "scenario": "During mediation, the parties to a consumer dispute reach an agreement on some of the issues involved. However, they fail to reduce the terms of the agreement to writing and sign it.",
+    "outcome": "The agreement is not enforceable, as the Consumer Protection Act, 2019, requires that the terms of such agreement be reduced to writing and signed by the parties to the dispute or their authorised representatives."
+  },
+  "derived_from": [
+    "obligation.parties_to_a_consumer_dispute_or_their_authorised_representa"
+  ],
+  "related_concepts": [
+    "obligation.parties_to_a_consumer_dispute_or_their_authorised_representa"
+  ],
+  "search": {
+    "keywords": [
+      "mediation",
+      "consumer dispute",
+      "agreement",
+      "writing",
+      "signing",
+      "enforceability"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the requirements for an agreement reached during mediation?",
+      "Can an oral agreement be enforceable in a consumer dispute?",
+      "Why must parties reduce their agreement to writing and sign it?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

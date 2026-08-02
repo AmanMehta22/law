@@ -1,0 +1,40 @@
+{
+  "concept_id": "example.president_of_the_national_commission_must_constitute_a_monit",
+  "concept_type": "example",
+  "title": "Constitution of a Monitoring Cell by the President of the National Commission",
+  "description": "Illustrative example for: obligation.president_of_the_national_commission_must_constitute_a_monit",
+  "content": {
+    "scenario": "The President of the National Commission wants to oversee the functioning of the State Commissions from an administrative point of view. The President decides to constitute a monitoring cell for this purpose.",
+    "outcome": "The President of the National Commission constitutes a monitoring cell to oversee the functioning of the State Commissions from the administrative point of view, as per Section 70(2) of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.president_of_the_national_commission_must_constitute_a_monit"
+  ],
+  "related_concepts": [
+    "obligation.president_of_the_national_commission_must_constitute_a_monit"
+  ],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "monitoring cell",
+      "State Commissions",
+      "administrative point of view"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the purpose of a monitoring cell in the National Commission?",
+      "How does the National Commission oversee State Commissions?",
+      "What are the responsibilities of the President of the National Commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

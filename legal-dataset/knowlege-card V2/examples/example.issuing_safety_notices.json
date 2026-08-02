@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.issuing_safety_notices",
+  "concept_type": "example",
+  "title": "Issuing Safety Notices by Central Authority",
+  "description": "Illustrative example for: procedure.issuing_safety_notices",
+  "content": {
+    "scenario": "The Central Authority receives a complaint about a hazardous toy being sold in the market. The Central Authority issues a safety notice to alert consumers about the dangers of the toy.",
+    "outcome": "The Central Authority has the power to issue safety notices to alert consumers against dangerous or hazardous goods or services, as per Section 18(2)(j) of the Consumer Protection Act, 2019. The safety notice can be issued to inform consumers about the risks associated with the toy and to prevent any harm to them."
+  },
+  "derived_from": [
+    "procedure.issuing_safety_notices"
+  ],
+  "related_concepts": [
+    "procedure.issuing_safety_notices"
+  ],
+  "search": {
+    "keywords": [
+      "consumer protection",
+      "central authority",
+      "safety notices",
+      "hazardous goods",
+      "consumer rights",
+      "product safety"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the process of issuing safety notices by the Central Authority?",
+      "Can the Central Authority issue safety notices for services as well?",
+      "What are the powers of the Central Authority under the Consumer Protection Act, 2019?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

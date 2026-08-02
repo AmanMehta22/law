@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.product_manufacturer_not_liable_if_complainant_under_influen",
+  "concept_type": "example",
+  "title": "Product Manufacturer Not Liable if Complainant Under Influence",
+  "description": "Illustrative example for: exception.product_manufacturer_not_liable_if_complainant_under_influen",
+  "content": {
+    "scenario": "A consumer, who was under the influence of alcohol, used a product and suffered harm. The consumer filed a product liability action against the product manufacturer, alleging failure to provide adequate warnings or instructions.",
+    "outcome": "The product manufacturer will not be liable as the consumer was under the influence of alcohol while using the product. According to section 87 of the Consumer Protection Act, 2019, the product manufacturer shall not be liable if the complainant, while using such product, was under the influence of alcohol or any prescription drug which had not been prescribed by a medical practitioner."
+  },
+  "derived_from": [
+    "exception.product_manufacturer_not_liable_if_complainant_under_influen"
+  ],
+  "related_concepts": [
+    "exception.product_manufacturer_not_liable_if_complainant_under_influen"
+  ],
+  "search": {
+    "keywords": [
+      "product liability",
+      "alcohol influence",
+      "prescription drug",
+      "section 87",
+      "product manufacturer"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Is a product manufacturer liable if the consumer was under the influence of alcohol?",
+      "How does the influence of alcohol or prescription drugs affect product liability?",
+      "What are the conditions under which a product manufacturer is not liable for harm caused by their product?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

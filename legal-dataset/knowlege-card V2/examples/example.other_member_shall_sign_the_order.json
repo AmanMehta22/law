@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.other_member_shall_sign_the_order",
+  "concept_type": "example",
+  "title": "Signing of Orders by Other Members",
+  "description": "Illustrative example for: obligation.other_member_shall_sign_the_order",
+  "content": {
+    "scenario": "The District Commission makes an order based on a majority opinion. The President and the member who conducted the proceeding sign the order, but the other member refuses to sign.",
+    "outcome": "The order is not valid, as it must be signed by the President, the member who conducted the proceeding, and the other member, in accordance with the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.other_member_shall_sign_the_order"
+  ],
+  "related_concepts": [
+    "obligation.other_member_shall_sign_the_order"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "order",
+      "majority opinion",
+      "signing of orders",
+      "other member"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Who must sign an order made by the District Commission?",
+      "Can an order be valid without the other member's signature?",
+      "What are the requirements for signing an order based on a majority opinion?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

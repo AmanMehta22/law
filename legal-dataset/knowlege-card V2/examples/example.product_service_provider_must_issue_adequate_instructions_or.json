@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.product_service_provider_must_issue_adequate_instructions_or",
+  "concept_type": "example",
+  "title": "Product Service Provider's Obligation to Issue Adequate Instructions",
+  "description": "Illustrative example for: obligation.product_service_provider_must_issue_adequate_instructions_or",
+  "content": {
+    "scenario": "A consumer, Priya, purchased a hair straightener from a manufacturer that did not provide adequate instructions on how to use the product safely. As a result, Priya suffered burns while using the straightener.",
+    "outcome": "The manufacturer is liable for not issuing adequate instructions or warnings to prevent harm. The consumer (Priya) can file a complaint against the manufacturer for product liability, as the service provider did not meet their obligation to provide safe usage instructions."
+  },
+  "derived_from": [
+    "obligation.product_service_provider_must_issue_adequate_instructions_or"
+  ],
+  "related_concepts": [
+    "obligation.product_service_provider_must_issue_adequate_instructions_or"
+  ],
+  "search": {
+    "keywords": [
+      "product liability",
+      "adequate instructions",
+      "warnings",
+      "consumer protection",
+      "hair straightener",
+      "manufacturer"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the obligations of a product service provider regarding instructions?",
+      "Can a consumer file a complaint for inadequate instructions?",
+      "What happens if a product causes harm due to lack of instructions?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

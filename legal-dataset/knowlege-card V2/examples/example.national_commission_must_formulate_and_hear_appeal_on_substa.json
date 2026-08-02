@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.national_commission_must_formulate_and_hear_appeal_on_substa",
+  "concept_type": "example",
+  "title": "National Commission's Obligation to Formulate and Hear Appeal on Substantial Question of Law",
+  "description": "Illustrative example for: obligation.national_commission_must_formulate_and_hear_appeal_on_substa",
+  "content": {
+    "scenario": "A consumer files an appeal with the National Commission, which involves a substantial question of law regarding the interpretation of a consumer protection provision.",
+    "outcome": "The National Commission formulates the substantial question of law and hears the appeal on that question. The National Commission may also hear the appeal on any other substantial question of law, if it is satisfied that the case involves such a question."
+  },
+  "derived_from": [
+    "obligation.national_commission_must_formulate_and_hear_appeal_on_substa"
+  ],
+  "related_concepts": [
+    "obligation.national_commission_must_formulate_and_hear_appeal_on_substa"
+  ],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "substantial question of law",
+      "appeal",
+      "consumer protection provision",
+      "interpretation"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the National Commission's role in formulating and hearing appeals on substantial questions of law?",
+      "Can the National Commission hear appeals on questions of law not formulated by it?",
+      "What are the conditions for the National Commission to hear an appeal on a substantial question of law?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "concept_id": "example.government_must_credit_penalty_and_amount_to_fund",
+  "concept_type": "example",
+  "title": "Government's Obligation to Credit Penalty and Amount to Fund",
+  "description": "Illustrative example for: obligation.government_must_credit_penalty_and_amount_to_fund",
+  "content": {
+    "scenario": "The Government of India has collected a penalty of Rs. 10 lakhs under section 21 of the Consumer Protection Act, 2019, and an amount of Rs. 5 lakhs under section 96. The Government must now decide where to credit these amounts.",
+    "outcome": "The Government must credit the penalty of Rs. 10 lakhs and the amount of Rs. 5 lakhs to such fund as may be prescribed under the Act."
+  },
+  "derived_from": [
+    "obligation.government_must_credit_penalty_and_amount_to_fund"
+  ],
+  "related_concepts": [
+    "obligation.government_must_credit_penalty_and_amount_to_fund"
+  ],
+  "search": {
+    "keywords": [
+      "Consumer Protection Act",
+      "penalty",
+      "amount",
+      "fund",
+      "Government",
+      "section 21",
+      "section 96"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What happens to the penalty collected under section 21?",
+      "Where is the amount collected under section 96 credited?",
+      "What is the Government's obligation regarding the penalty and amount collected?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

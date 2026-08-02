@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.preliminary_inquiry",
+  "concept_type": "example",
+  "title": "Preliminary Inquiry by Central Authority",
+  "description": "Illustrative example for: procedure.preliminary_inquiry",
+  "content": {
+    "scenario": "The Central Authority receives a complaint about a company making false claims about its product. The Central Authority decides to conduct a preliminary inquiry to determine if there is a prima facie case of violation of consumer rights.",
+    "outcome": "The Central Authority conducts a preliminary inquiry and finds that there is a prima facie case of violation of consumer rights, and therefore, decides to cause an investigation to be made by the Director-General."
+  },
+  "derived_from": [
+    "procedure.preliminary_inquiry"
+  ],
+  "related_concepts": [
+    "procedure.preliminary_inquiry"
+  ],
+  "search": {
+    "keywords": [
+      "preliminary inquiry",
+      "Central Authority",
+      "consumer rights",
+      "false claims",
+      "investigation"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is a preliminary inquiry in consumer protection?",
+      "Can the Central Authority conduct a preliminary inquiry on its own motion?",
+      "What happens after a preliminary inquiry?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

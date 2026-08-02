@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.the_minimum_amount_of_sum_so_payable_shall_not_be_less_than_",
+  "concept_type": "example",
+  "title": "Minimum Amount of Compensation for Consumer Loss",
+  "description": "Illustrative example for: exception.the_minimum_amount_of_sum_so_payable_shall_not_be_less_than_",
+  "content": {
+    "scenario": "A company sells defective products to a large number of consumers, causing significant losses. The District Commission orders the company to pay compensation to the consumers, determining that the minimum amount payable shall not be less than 25% of the value of the defective goods sold.",
+    "outcome": "The company is ordered to pay a minimum of 25% of the value of the defective goods sold as compensation to the consumers. The District Commission may also order the company to replace the defective products or provide other relief to the consumers."
+  },
+  "derived_from": [
+    "exception.the_minimum_amount_of_sum_so_payable_shall_not_be_less_than_"
+  ],
+  "related_concepts": [
+    "exception.the_minimum_amount_of_sum_so_payable_shall_not_be_less_than_"
+  ],
+  "search": {
+    "keywords": [
+      "minimum amount of compensation",
+      "consumer loss",
+      "defective products",
+      "District Commission",
+      "compensation"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the minimum amount of compensation that consumers can receive for losses due to defective products?",
+      "How does the District Commission determine the amount of compensation?",
+      "Can consumers receive more than the minimum amount of compensation?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

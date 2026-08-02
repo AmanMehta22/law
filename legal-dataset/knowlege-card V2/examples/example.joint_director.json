@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.joint_director",
+  "concept_type": "example",
+  "title": "Joint Director's Powers and Functions",
+  "description": "Illustrative example for: authority.joint_director",
+  "content": {
+    "scenario": "A consumer files a complaint with the Central Authority against a company for unfair trade practices. The Director-General delegates the investigation to the Joint Director. The Joint Director, after conducting the investigation, finds the company guilty and imposes a penalty.",
+    "outcome": "The Joint Director's order is valid as it is exercised under the general control, supervision, and direction of the Director-General, and the powers delegated by the Director-General. The company can appeal against the order to the Director-General or the National Commission."
+  },
+  "derived_from": [
+    "authority.joint_director"
+  ],
+  "related_concepts": [
+    "authority.joint_director"
+  ],
+  "search": {
+    "keywords": [
+      "Joint Director",
+      "Central Authority",
+      "unfair trade practices",
+      "investigation",
+      "penalty",
+      "appeal"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the powers of the Joint Director?",
+      "Can the Joint Director impose a penalty on a company?",
+      "How can a company appeal against the Joint Director's order?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

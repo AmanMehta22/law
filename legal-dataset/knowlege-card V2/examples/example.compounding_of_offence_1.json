@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.compounding_of_offence_1",
+  "concept_type": "example",
+  "title": "Compounding of Offence by Central Authority",
+  "description": "Illustrative example for: procedure.compounding_of_offence",
+  "content": {
+    "scenario": "A consumer in India files a complaint with the District Commission regarding a defective product. The Central Authority identifies the offence to be compounded and the consumer pays the prescribed amount.",
+    "outcome": "The Central Authority or any officer specially authorised by him compounds the offence, on payment of the prescribed amount."
+  },
+  "derived_from": [
+    "procedure.compounding_of_offence"
+  ],
+  "related_concepts": [
+    "procedure.compounding_of_offence"
+  ],
+  "search": {
+    "keywords": [
+      "Central Authority",
+      "compounding of offence",
+      "consumer rights",
+      "India",
+      "CPA2019"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the procedure for compounding offences by the Central Authority?",
+      "How does the Central Authority decide to compound offences?",
+      "What happens after the Central Authority compounds the offence?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

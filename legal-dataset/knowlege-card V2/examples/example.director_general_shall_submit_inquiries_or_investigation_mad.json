@@ -1,0 +1,43 @@
+{
+  "concept_id": "example.director_general_shall_submit_inquiries_or_investigation_mad",
+  "concept_type": "example",
+  "title": "Director-General Submission of Inquiries or Investigations",
+  "description": "Illustrative example for: obligation.director_general_shall_submit_inquiries_or_investigation_mad",
+  "content": {
+    "scenario": "The Director-General in India conducts inquiries or investigations and must submit them to the Central Authority in a specified form, manner, and time.",
+    "outcome": "The Director-General submits the inquiries or investigations to the Central Authority in the required form, manner, and time, as specified by regulations."
+  },
+  "derived_from": [
+    "obligation.director_general_shall_submit_inquiries_or_investigation_mad"
+  ],
+  "related_concepts": [
+    "obligation.director_general_shall_submit_inquiries_or_investigation_mad"
+  ],
+  "search": {
+    "keywords": [
+      "Director-General",
+      "inquiries",
+      "investigations",
+      "Central Authority",
+      "regulations",
+      "CPA2019",
+      "India"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the role of the Director-General in India?",
+      "How does the Director-General submit inquiries or investigations?",
+      "What are the regulations for submitting inquiries or investigations in India?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

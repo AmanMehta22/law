@@ -1,0 +1,40 @@
+{
+  "concept_id": "example.district_commission_state_commission_or_the_national_commiss",
+  "concept_type": "example",
+  "title": "Enforcement of Orders",
+  "description": "Illustrative example for: obligation.district_commission_state_commission_or_the_national_commiss",
+  "content": {
+    "scenario": "The National Commission passes an order in favor of a consumer, but the company refuses to comply with the order. The consumer wants to know how the order will be enforced.",
+    "outcome": "The National Commission shall enforce its order in the same manner as if it were a decree made by a Court, as per Section 71 of the Consumer Protection Act, 2019, and the provisions of Order XXI of the Code of Civil Procedure, 1908 shall apply, subject to certain modifications."
+  },
+  "derived_from": [
+    "obligation.district_commission_state_commission_or_the_national_commiss"
+  ],
+  "related_concepts": [
+    "obligation.district_commission_state_commission_or_the_national_commiss"
+  ],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "enforcement of orders",
+      "Code of Civil Procedure 1908",
+      "Consumer Protection Act 2019"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How are orders enforced by the National Commission?",
+      "What provisions apply to the enforcement of orders?",
+      "Can the National Commission enforce its orders like a court?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

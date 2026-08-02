@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.issuing_guidelines",
+  "concept_type": "example",
+  "title": "Issuing Guidelines for Consumer Protection",
+  "description": "Illustrative example for: procedure.issuing_guidelines",
+  "content": {
+    "scenario": "The Central Authority identifies a need for guidelines on product safety to protect consumers from hazardous goods.",
+    "outcome": "The Central Authority develops and issues guidelines for manufacturers and sellers, including safety notices to alert consumers against dangerous products, to ensure consumer safety and protection."
+  },
+  "derived_from": [
+    "procedure.issuing_guidelines"
+  ],
+  "related_concepts": [
+    "procedure.issuing_guidelines"
+  ],
+  "search": {
+    "keywords": [
+      "Central Authority",
+      "guidelines",
+      "consumer protection",
+      "product safety",
+      "safety notices"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How does the Central Authority create guidelines for consumer protection?",
+      "What types of guidelines can the Central Authority issue?",
+      "Can the Central Authority enforce compliance with its guidelines?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.referral_to_regulator",
+  "concept_type": "example",
+  "title": "Referral to Regulator",
+  "description": "Illustrative example for: procedure.referral_to_regulator",
+  "content": {
+    "scenario": "A consumer files a complaint with the Central Authority regarding a defective product. After a preliminary inquiry, the Central Authority finds that the matter is related to a sector regulated by the Telecom Regulatory Authority of India (TRAI).",
+    "outcome": "The Central Authority refers the matter to TRAI along with its report, as per Section 19(2) of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "procedure.referral_to_regulator"
+  ],
+  "related_concepts": [
+    "procedure.referral_to_regulator"
+  ],
+  "search": {
+    "keywords": [
+      "consumer protection",
+      "regulator",
+      "central authority",
+      "referral",
+      "TRAI"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What happens when a complaint is filed with the Central Authority?",
+      "How does the Central Authority handle complaints related to regulated sectors?",
+      "Can the Central Authority refer a complaint to a regulator?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

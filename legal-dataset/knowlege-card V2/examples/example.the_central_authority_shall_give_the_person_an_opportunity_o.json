@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.the_central_authority_shall_give_the_person_an_opportunity_o",
+  "concept_type": "example",
+  "title": "Opportunity of Being Heard by Central Authority",
+  "description": "Illustrative example for: exception.the_central_authority_shall_give_the_person_an_opportunity_o",
+  "content": {
+    "scenario": "A company is under investigation by the Central Authority for allegedly engaging in unfair trade practices. The Central Authority is considering passing an order against the company.",
+    "outcome": "The Central Authority shall give the company an opportunity of being heard before passing any order, ensuring the company can present its case."
+  },
+  "derived_from": [
+    "exception.the_central_authority_shall_give_the_person_an_opportunity_o"
+  ],
+  "related_concepts": [
+    "exception.the_central_authority_shall_give_the_person_an_opportunity_o"
+  ],
+  "search": {
+    "keywords": [
+      "Central Authority",
+      "opportunity of being heard",
+      "unfair trade practices",
+      "investigation",
+      "consumer rights"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What rights do companies have during Central Authority investigations?",
+      "Can the Central Authority pass orders without hearing the company?",
+      "How does the Central Authority ensure fairness in its investigations?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

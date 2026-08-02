@@ -1,0 +1,40 @@
+{
+  "concept_id": "example.does_not_include_a_person_who_acts_only_in_a_financial_capac",
+  "concept_type": "example",
+  "title": "Exception to Product Seller",
+  "description": "Illustrative example for: exception.does_not_include_a_person_who_acts_only_in_a_financial_capac",
+  "content": {
+    "scenario": "A person acts as a financier for the sale of a product, but they do not manufacture, wholesale, distribute, retail, or provide electronic services for the product. They only provide financial assistance for the sale.",
+    "outcome": "The person is not considered a 'product seller' as per the Consumer Protection Act, 2019, since they act only in a financial capacity with respect to the sale of the product and do not fall under any other category of product sellers."
+  },
+  "derived_from": [
+    "exception.does_not_include_a_person_who_acts_only_in_a_financial_capac"
+  ],
+  "related_concepts": [
+    "exception.does_not_include_a_person_who_acts_only_in_a_financial_capac"
+  ],
+  "search": {
+    "keywords": [
+      "product seller",
+      "financial capacity",
+      "consumer protection",
+      "exception"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Who is a product seller?",
+      "Can a financier be considered a product seller?",
+      "What are the exceptions to being a product seller?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

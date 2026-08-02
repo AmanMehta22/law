@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.district_commission_must_decide_the_complaint_on_merits",
+  "concept_type": "example",
+  "title": "District Commission's Obligation to Decide the Complaint on Merits",
+  "description": "Illustrative example for: obligation.district_commission_must_decide_the_complaint_on_merits",
+  "content": {
+    "scenario": "A consumer files a complaint against a service provider alleging poor services. The complaint is admitted by the District Commission, and the service provider is directed to respond to the allegations. The consumer fails to appear on the date of hearing.",
+    "outcome": "The District Commission must decide the complaint on merits, as the complainant has failed to appear on the date of hearing. The Commission will consider the evidence brought to its notice by the complainant and the opposite party, if any, and decide the complaint accordingly."
+  },
+  "derived_from": [
+    "obligation.district_commission_must_decide_the_complaint_on_merits"
+  ],
+  "related_concepts": [
+    "obligation.district_commission_must_decide_the_complaint_on_merits"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "complaint",
+      "merits",
+      "consumer",
+      "service provider",
+      "hearing"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What happens if the complainant fails to appear on the date of hearing?",
+      "How does the District Commission decide a complaint on merits?",
+      "Can a complaint be decided ex parte if the opposite party fails to respond?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

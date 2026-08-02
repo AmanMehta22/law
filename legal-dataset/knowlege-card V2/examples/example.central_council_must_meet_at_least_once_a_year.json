@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.central_council_must_meet_at_least_once_a_year",
+  "concept_type": "example",
+  "title": "Central Council Meetings",
+  "description": "Illustrative example for: obligation.central_council_must_meet_at_least_once_a_year",
+  "content": {
+    "scenario": "The Central Council has not met for the past two years due to lack of pressing issues. However, with the rise of consumer complaints, there is a need for the Council to convene and discuss the matters.",
+    "outcome": "The Central Council shall meet at least once a year, as required by the Consumer Protection Act, 2019, to discuss and address consumer-related issues."
+  },
+  "derived_from": [
+    "obligation.central_council_must_meet_at_least_once_a_year"
+  ],
+  "related_concepts": [
+    "obligation.central_council_must_meet_at_least_once_a_year"
+  ],
+  "search": {
+    "keywords": [
+      "Central Council",
+      "meetings",
+      "consumer protection",
+      "CPA 2019",
+      "annual meeting",
+      "consumer rights"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How often must the Central Council meet?",
+      "What is the purpose of the Central Council meetings?",
+      "What are the responsibilities of the Central Council under the CPA 2019?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

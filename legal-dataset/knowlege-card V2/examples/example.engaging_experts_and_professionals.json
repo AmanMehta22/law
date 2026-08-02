@@ -1,0 +1,40 @@
+{
+  "concept_id": "example.engaging_experts_and_professionals",
+  "concept_type": "example",
+  "title": "Engaging Experts and Professionals",
+  "description": "Illustrative example for: procedure.engaging_experts_and_professionals",
+  "content": {
+    "scenario": "The Central Authority wants to engage experts and professionals to assist in an investigation. The Authority needs to follow the regulations for engaging experts and professionals.",
+    "outcome": "The Central Authority will engage experts and professionals as per the regulations under sub-section (3) of section 13, which includes the procedure for engaging experts and professionals and the number of such experts and professionals. The Authority will also follow the regulations under sub-section (1) of section 14 and sub-section (5) of section 15."
+  },
+  "derived_from": [
+    "procedure.engaging_experts_and_professionals"
+  ],
+  "related_concepts": [
+    "procedure.engaging_experts_and_professionals"
+  ],
+  "search": {
+    "keywords": [
+      "engaging experts and professionals",
+      "Central Authority",
+      "regulations",
+      "investigation"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How does the Central Authority engage experts and professionals?",
+      "What are the regulations for engaging experts and professionals?",
+      "Can the Central Authority engage experts and professionals for investigations?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.notice_is_considered_served_even_if_acknowledgment_is_lost_m",
+  "concept_type": "example",
+  "title": "Exception to the Service of Notice",
+  "description": "Illustrative example for: exception.notice_is_considered_served_even_if_acknowledgment_is_lost_m",
+  "content": {
+    "scenario": "A consumer sends a notice to a seller by registered post acknowledgment due, but the acknowledgment is lost in transit. The seller claims that the notice was not served as the acknowledgment was not received.",
+    "outcome": "The notice is considered served even if the acknowledgment is lost, misplaced, or not received within 30 days, as the notice was properly addressed, pre-paid, and duly sent by registered post acknowledgment due."
+  },
+  "derived_from": [
+    "exception.notice_is_considered_served_even_if_acknowledgment_is_lost_m"
+  ],
+  "related_concepts": [
+    "exception.notice_is_considered_served_even_if_acknowledgment_is_lost_m"
+  ],
+  "search": {
+    "keywords": [
+      "notice",
+      "service of notice",
+      "acknowledgment",
+      "registered post",
+      "consumer protection"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the mode of service of notice under the Consumer Protection Act, 2019?",
+      "Can a notice be considered served if the acknowledgment is lost?",
+      "What are the conditions for considering a notice as served?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.district_commission_must_record_reasons_for_adjournment_in_w",
+  "concept_type": "example",
+  "title": "District Commission's Obligation to Record Reasons for Adjournment in Writing",
+  "description": "Illustrative example for: obligation.district_commission_must_record_reasons_for_adjournment_in_w",
+  "content": {
+    "scenario": "A consumer files a complaint against a company in the District Commission. The company requests an adjournment, which is granted after showing sufficient cause. The consumer seeks to know the reasons for the adjournment.",
+    "outcome": "The District Commission must record the reasons for the adjournment in writing, as sufficient cause was shown. The Commission must also make orders as to the costs occasioned by the adjournment as may be specified by regulations."
+  },
+  "derived_from": [
+    "obligation.district_commission_must_record_reasons_for_adjournment_in_w"
+  ],
+  "related_concepts": [
+    "obligation.district_commission_must_record_reasons_for_adjournment_in_w"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "adjournment",
+      "sufficient cause",
+      "writing",
+      "Consumer Protection Act",
+      "complaint"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the rules for recording reasons for adjournment in the District Commission?",
+      "Can the District Commission grant adjournment without recording reasons?",
+      "How does the District Commission determine sufficient cause for adjournment?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

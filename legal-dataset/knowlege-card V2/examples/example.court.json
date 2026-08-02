@@ -1,0 +1,40 @@
+{
+  "concept_id": "example.court",
+  "concept_type": "example",
+  "title": "Court",
+  "description": "Illustrative example for: authority.court",
+  "content": {
+    "scenario": "A person is convicted of manufacturing and selling adulterated products, and the court suspends their licence for two years.",
+    "outcome": "The court has the power to suspend the licence for a period up to two years in case of first conviction, and cancel the licence in case of second or subsequent conviction, under the relevant provisions of the Act."
+  },
+  "derived_from": [
+    "authority.court"
+  ],
+  "related_concepts": [
+    "authority.court"
+  ],
+  "search": {
+    "keywords": [
+      "court",
+      "licence suspension",
+      "licence cancellation",
+      "adulterated products"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the powers of the court in relation to offences under the Act?",
+      "Can the court suspend a licence for manufacturing and selling adulterated products?",
+      "What is the consequence of subsequent convictions for the same offence?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

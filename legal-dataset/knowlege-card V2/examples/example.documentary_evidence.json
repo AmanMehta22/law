@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.documentary_evidence",
+  "concept_type": "example",
+  "title": "Documentary Evidence for Complaint Hearing",
+  "description": "Illustrative example for: evidence.documentary_evidence",
+  "content": {
+    "scenario": "A consumer, Kumar, files a complaint against a seller with the District Commission. The Commission requires Kumar to provide evidence to support his complaint.",
+    "outcome": "Kumar must provide documentary evidence to support his complaint, which will be placed on record for the hearing of the complaint. The District Commission will hear the complaint based on the affidavit and documentary evidence provided."
+  },
+  "derived_from": [
+    "evidence.documentary_evidence"
+  ],
+  "related_concepts": [
+    "evidence.documentary_evidence"
+  ],
+  "search": {
+    "keywords": [
+      "documentary evidence",
+      "complaint hearing",
+      "District Commission",
+      "consumer protection",
+      "affidavit"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What evidence is required for a complaint hearing?",
+      "Can I provide oral testimony instead of documentary evidence?",
+      "How will the District Commission hear my complaint?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

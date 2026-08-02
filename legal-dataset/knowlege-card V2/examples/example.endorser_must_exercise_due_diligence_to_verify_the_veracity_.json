@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.endorser_must_exercise_due_diligence_to_verify_the_veracity_",
+  "concept_type": "example",
+  "title": "Endorser's Obligation to Exercise Due Diligence",
+  "description": "Illustrative example for: obligation.endorser_must_exercise_due_diligence_to_verify_the_veracity_",
+  "content": {
+    "scenario": "A celebrity endorses a product and makes claims about its benefits. To avoid liability, the celebrity must exercise due diligence to verify the veracity of the claims made in the advertisement.",
+    "outcome": "The endorser must exercise due diligence to verify the veracity of the claims made in the advertisement regarding the product or service being endorsed, to avoid liability to a penalty under sub-sections (2) and (3) of Section 21 of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.endorser_must_exercise_due_diligence_to_verify_the_veracity_"
+  ],
+  "related_concepts": [
+    "obligation.endorser_must_exercise_due_diligence_to_verify_the_veracity_"
+  ],
+  "search": {
+    "keywords": [
+      "endorser",
+      "due diligence",
+      "veracity",
+      "claims",
+      "advertisement",
+      "Consumer Protection Act"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the responsibility of an endorser in India?",
+      "How can an endorser avoid liability for a false advertisement?",
+      "What does due diligence mean for an endorser in India?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

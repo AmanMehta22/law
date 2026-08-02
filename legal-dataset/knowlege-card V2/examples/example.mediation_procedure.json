@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.mediation_procedure",
+  "concept_type": "example",
+  "title": "Mediation Procedure When No Agreement is Reached",
+  "description": "Illustrative example for: procedure.mediation_procedure",
+  "content": {
+    "scenario": "Despite mediation efforts, Rahul and the retailer could not reach an agreement within the specified time. The mediator prepared a report stating that settlement was not possible and submitted it to the District Commission.",
+    "outcome": "The District Commission received the mediator's report and proceeded with the complaint as per the provisions of the Consumer Protection Act. The Commission may have passed an order or directed further proceedings to resolve the consumer dispute."
+  },
+  "derived_from": [
+    "procedure.mediation_procedure"
+  ],
+  "related_concepts": [
+    "procedure.mediation_procedure"
+  ],
+  "search": {
+    "keywords": [
+      "mediation procedure",
+      "no agreement",
+      "mediator's report",
+      "district commission",
+      "consumer dispute"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What happens when no agreement is reached through mediation?",
+      "What is the mediator's role when settlement is not possible?",
+      "What are the next steps after a mediator submits a report to the District Commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

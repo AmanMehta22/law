@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.state_commission_shall_have_administrative_control",
+  "concept_type": "example",
+  "title": "Administrative Control of State Commission",
+  "description": "Illustrative example for: obligation.state_commission_shall_have_administrative_control",
+  "content": {
+    "scenario": "The State Commission exercised administrative control over a District Commission outside its jurisdiction, directing it to dispose of a case in a particular manner.",
+    "outcome": "The State Commission has administrative control over all District Commissions within its jurisdiction in all matters referred to in sub-section (1). The Commission's attempt to exercise control over a District Commission outside its jurisdiction is ultra vires and a violation of the provisions of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.state_commission_shall_have_administrative_control"
+  ],
+  "related_concepts": [
+    "obligation.state_commission_shall_have_administrative_control"
+  ],
+  "search": {
+    "keywords": [
+      "Consumer Protection Act",
+      "State Commission",
+      "administrative control",
+      "District Commissions",
+      "jurisdiction"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the scope of administrative control of the State Commission?",
+      "Can the State Commission exercise control over District Commissions outside its jurisdiction?",
+      "What are the consequences of exceeding administrative control?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

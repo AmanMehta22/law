@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.documents_showing_control_over_designing_testing_manufacturi",
+  "concept_type": "example",
+  "title": "Documents Showing Control over Product Designing, Testing, Manufacturing",
+  "description": "Illustrative example for: evidence.documents_showing_control_over_designing_testing_manufacturi",
+  "content": {
+    "scenario": "A consumer, Ramesh, purchases a product from a seller that causes harm. Ramesh wants to establish the seller's liability for the harm caused.",
+    "outcome": "Ramesh can use documents showing control over designing, testing, manufacturing, packaging, or labelling to establish the seller's liability in a product liability action, if the seller exercised substantial control over these aspects."
+  },
+  "derived_from": [
+    "evidence.documents_showing_control_over_designing_testing_manufacturi"
+  ],
+  "related_concepts": [
+    "evidence.documents_showing_control_over_designing_testing_manufacturi"
+  ],
+  "search": {
+    "keywords": [
+      "control over designing",
+      "testing",
+      "manufacturing",
+      "product liability",
+      "seller's liability",
+      "consumer protection"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How can I establish a seller's liability for a product defect?",
+      "What documents are required to prove a seller's control over product designing?",
+      "Can a seller be liable for a product defect if they did not manufacture the product?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

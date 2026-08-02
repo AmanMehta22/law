@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.sales_records_invoice_receipt",
+  "concept_type": "example",
+  "title": "Sales Records, Invoice, and Receipt",
+  "description": "Illustrative example for: evidence.sales_records_invoice_receipt",
+  "content": {
+    "scenario": "A consumer, Priya, purchases a product from a seller, but the product turns out to be defective. Priya files a complaint against the seller, who claims that the product was manufactured by a third party. The seller provides sales records, invoice, and receipt to prove that they are not the manufacturer.",
+    "outcome": "The seller may be liable in a product liability action if they have exercised substantial control over the designing, testing, manufacturing, packaging or labelling of the product, or if they have altered or modified the product, as per Section 86 of the Consumer Protection Act, 2019. The sales records, invoice, and receipt may be used as evidence to determine the seller's liability."
+  },
+  "derived_from": [
+    "evidence.sales_records_invoice_receipt"
+  ],
+  "related_concepts": [
+    "evidence.sales_records_invoice_receipt"
+  ],
+  "search": {
+    "keywords": [
+      "sales records",
+      "invoice",
+      "receipt",
+      "product liability",
+      "seller",
+      "manufacturer"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the requirements for a seller to be liable in a product liability action?",
+      "Can a seller use sales records, invoice, and receipt as evidence to prove their case?",
+      "How does the Consumer Protection Act, 2019, define the liability of a seller in a product liability action?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.search_and_seizure",
+  "concept_type": "example",
+  "title": "Search and Seizure under the Consumer Protection Act, 2019",
+  "description": "Illustrative example for: procedure.search_and_seizure",
+  "content": {
+    "scenario": "A consumer complaint is filed against a company for selling counterfeit products. The District Commission, under the provisions of the Code of Criminal Procedure, 1973, conducts a search and seizure operation at the company's premises to gather evidence.",
+    "outcome": "The search and seizure operation is conducted in accordance with the provisions of the Code of Criminal Procedure, 1973, and the evidence gathered is used to determine the liability of the company under the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "procedure.search_and_seizure"
+  ],
+  "related_concepts": [
+    "procedure.search_and_seizure"
+  ],
+  "search": {
+    "keywords": [
+      "search and seizure",
+      "Code of Criminal Procedure",
+      "consumer protection",
+      "counterfeit products",
+      "District Commission",
+      "evidence"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the procedure for search and seizure under the Consumer Protection Act, 2019?",
+      "Can the District Commission conduct a search and seizure operation without a warrant?",
+      "What are the consequences of non-compliance with the search and seizure procedure?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.central_authority_ensure_that_no_person_takes_part_in_the_pu",
+  "concept_type": "example",
+  "title": "Central Authority's Obligation to Prevent False Advertisements",
+  "description": "Illustrative example for: obligation.central_authority_ensure_that_no_person_takes_part_in_the_pu",
+  "content": {
+    "scenario": "A popular Indian celebrity endorses a new energy drink, claiming it can boost energy levels by 500%. The advertisement is published in major newspapers and social media platforms. However, an investigation reveals that the claim is false and misleading.",
+    "outcome": "The Central Authority may take action to ensure that no person takes part in the publication of such false or misleading advertisements, as it contravenes the provisions of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.central_authority_ensure_that_no_person_takes_part_in_the_pu"
+  ],
+  "related_concepts": [
+    "obligation.central_authority_ensure_that_no_person_takes_part_in_the_pu"
+  ],
+  "search": {
+    "keywords": [
+      "Central Authority",
+      "false advertisement",
+      "misleading claim",
+      "consumer protection",
+      "endorsement",
+      "energy drink"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the Central Authority's role in preventing false advertisements?",
+      "Can a celebrity be held liable for endorsing a false product?",
+      "How does the Consumer Protection Act, 2019 regulate advertisements?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

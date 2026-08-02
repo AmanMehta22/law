@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.central_authority_may_impose_penalty",
+  "concept_type": "example",
+  "title": "Central Authority's Power to Impose Penalty for False Advertisements",
+  "description": "Illustrative example for: obligation.central_authority_may_impose_penalty",
+  "content": {
+    "scenario": "A manufacturer of a popular skin cream is found to have published a false advertisement claiming that the product can reduce wrinkles by 90%. The Central Authority investigates and finds that the claim is misleading and prejudicial to consumer interest.",
+    "outcome": "The Central Authority may impose a penalty of up to ten lakh rupees on the manufacturer for the first contravention, and up to fifty lakh rupees for subsequent contraventions, as per the provisions of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.central_authority_may_impose_penalty"
+  ],
+  "related_concepts": [
+    "obligation.central_authority_may_impose_penalty"
+  ],
+  "search": {
+    "keywords": [
+      "Central Authority",
+      "penalty",
+      "false advertisement",
+      "misleading claim",
+      "consumer protection",
+      "skin cream"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the maximum penalty for publishing a false advertisement?",
+      "Can the Central Authority impose a penalty on a manufacturer for a misleading claim?",
+      "How does the Consumer Protection Act, 2019 regulate penalties for false advertisements?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

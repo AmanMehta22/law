@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.shall_be_deemed_to_have_been_done_or_taken_under_the_corresp",
+  "concept_type": "example",
+  "title": "Deemed Actions Under the Repealed Act",
+  "description": "Illustrative example for: exception.shall_be_deemed_to_have_been_done_or_taken_under_the_corresp",
+  "content": {
+    "scenario": "A consumer filed a complaint under the old Consumer Protection Act, which was repealed and replaced by the new Act. The complaint was pending when the new Act came into effect.",
+    "outcome": "The complaint shall be deemed to have been filed under the corresponding provisions of the new Act, as long as it is not inconsistent with the provisions of the new Act. This means that the consumer's complaint will be processed under the new Act, as if it had been filed under the new Act."
+  },
+  "derived_from": [
+    "exception.shall_be_deemed_to_have_been_done_or_taken_under_the_corresp"
+  ],
+  "related_concepts": [
+    "exception.shall_be_deemed_to_have_been_done_or_taken_under_the_corresp"
+  ],
+  "search": {
+    "keywords": [
+      "repealed Act",
+      "deemed actions",
+      "corresponding provisions",
+      "new Act",
+      "complaint filing"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What happens to pending complaints when a new Act comes into effect?",
+      "How does the repeal of an Act affect pending complaints?",
+      "Can a complaint filed under an old Act be processed under a new Act?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

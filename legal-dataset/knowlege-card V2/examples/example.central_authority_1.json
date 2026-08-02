@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.central_authority_1",
+  "concept_type": "example",
+  "title": "Central Authority's Role and Powers",
+  "description": "Illustrative example for: authority.central_authority",
+  "content": {
+    "scenario": "The Central Authority is established under the Consumer Protection Act, 2019, to make regulations and exercise powers to protect consumer rights.",
+    "outcome": "The Central Authority makes regulations, exercises powers, and discharges functions under the Act, including protecting consumer rights, preventing unfair trade practices, and ensuring compliance with provisions of the Act or rules/regulations."
+  },
+  "derived_from": [
+    "authority.central_authority"
+  ],
+  "related_concepts": [
+    "authority.central_authority"
+  ],
+  "search": {
+    "keywords": [
+      "Central Authority",
+      "regulations",
+      "consumer rights",
+      "unfair trade practices",
+      "compliance",
+      "Consumer Protection Act"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the powers of the Central Authority?",
+      "Can the Central Authority make regulations?",
+      "What is the role of the Central Authority in protecting consumer rights?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

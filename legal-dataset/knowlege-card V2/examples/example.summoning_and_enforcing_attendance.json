@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.summoning_and_enforcing_attendance",
+  "concept_type": "example",
+  "title": "Summoning and Enforcing Attendance",
+  "description": "Illustrative example for: procedure.summoning_and_enforcing_attendance",
+  "content": {
+    "scenario": "A consumer files a complaint against a company with the District Commission, alleging unfair trade practices. The Commission issues a summons to the company's representative to appear before it and provide evidence.",
+    "outcome": "The company's representative fails to appear before the Commission, and the Commission enforces attendance by issuing a warrant or imposing a penalty. The representative is then examined on oath, and the Commission takes further actions based on the evidence presented."
+  },
+  "derived_from": [
+    "procedure.summoning_and_enforcing_attendance"
+  ],
+  "related_concepts": [
+    "procedure.summoning_and_enforcing_attendance"
+  ],
+  "search": {
+    "keywords": [
+      "summoning",
+      "enforcing attendance",
+      "District Commission",
+      "consumer complaint",
+      "unfair trade practices"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the powers of the District Commission in summoning and enforcing attendance?",
+      "What happens if a defendant or witness fails to appear before the District Commission?",
+      "Can the District Commission impose penalties for non-attendance?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

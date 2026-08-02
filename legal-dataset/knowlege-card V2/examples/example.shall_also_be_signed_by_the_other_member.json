@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.shall_also_be_signed_by_the_other_member",
+  "concept_type": "example",
+  "title": "Signature Requirement for District Commission Orders",
+  "description": "Illustrative example for: exception.shall_also_be_signed_by_the_other_member",
+  "content": {
+    "scenario": "A District Commission in Mumbai makes an order based on a majority opinion under sub-section (3). The President and the member who conducted the proceeding sign the order. However, the other member does not sign it.",
+    "outcome": "The order is not valid because it was not signed by the other member, as required by the provision that states 'such order shall also be signed by the other member' where the order is made as per majority opinion under sub-section (3)."
+  },
+  "derived_from": [
+    "exception.shall_also_be_signed_by_the_other_member"
+  ],
+  "related_concepts": [
+    "exception.shall_also_be_signed_by_the_other_member"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "majority opinion",
+      "signature requirement",
+      "order validity",
+      "President",
+      "member"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the signature requirements for District Commission orders?",
+      "Can a District Commission order be valid without the other member's signature?",
+      "How does the majority opinion affect the signature requirements for District Commission orders?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

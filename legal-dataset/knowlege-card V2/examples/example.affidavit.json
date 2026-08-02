@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.affidavit",
+  "concept_type": "example",
+  "title": "Affidavit in Consumer Complaints",
+  "description": "Illustrative example for: evidence.affidavit",
+  "content": {
+    "scenario": "A consumer files a complaint against a company for selling a defective product and submits an affidavit in support of their claim. The company disputes the allegations and requests a hearing to cross-examine the consumer.",
+    "outcome": "The District Commission may allow the company's request for a hearing under Section 38(6) of the Consumer Protection Act, 2019, but the consumer's affidavit will be considered as part of the evidence on record. The Commission may also examine the consumer and other witnesses on oath."
+  },
+  "derived_from": [
+    "evidence.affidavit"
+  ],
+  "related_concepts": [
+    "evidence.affidavit"
+  ],
+  "search": {
+    "keywords": [
+      "affidavit",
+      "consumer complaint",
+      "hearing",
+      "District Commission",
+      "evidence"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the role of an affidavit in a consumer complaint?",
+      "Can a company request a hearing to cross-examine a consumer?",
+      "How does the District Commission consider evidence in a consumer complaint?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

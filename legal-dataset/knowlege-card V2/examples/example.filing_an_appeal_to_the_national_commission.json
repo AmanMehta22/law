@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.filing_an_appeal_to_the_national_commission",
+  "concept_type": "example",
+  "title": "Filing an appeal to the National Commission",
+  "description": "Illustrative example for: procedure.filing_an_appeal_to_the_national_commission",
+  "content": {
+    "scenario": "A consumer in India has received an order from the State Commission, and they want to appeal it to the National Commission. The National Commission is satisfied that the case involves a substantial question of law.",
+    "outcome": "The National Commission will consider the appeal and make a decision based on the substantial question of law."
+  },
+  "derived_from": [
+    "procedure.filing_an_appeal_to_the_national_commission"
+  ],
+  "related_concepts": [
+    "procedure.filing_an_appeal_to_the_national_commission"
+  ],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "appeal",
+      "consumer dispute",
+      "India",
+      "law",
+      "State Commission"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How to file an appeal to the National Commission?",
+      "What is the process for filing an appeal to the National Commission?",
+      "Can I appeal an order from the State Commission to the National Commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

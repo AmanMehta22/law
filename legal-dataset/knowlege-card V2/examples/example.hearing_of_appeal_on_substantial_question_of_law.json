@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.hearing_of_appeal_on_substantial_question_of_law",
+  "concept_type": "example",
+  "title": "Hearing of Appeal on Substantial Question of Law",
+  "description": "Illustrative example for: procedure.hearing_of_appeal_on_substantial_question_of_law",
+  "content": {
+    "scenario": "A consumer, Mr. Kumar, files an appeal before the National Commission against a decision of the State Commission. The National Commission is satisfied that a substantial question of law is involved in the case, namely, whether a manufacturer can be held liable for a defect in a product that was not apparent at the time of purchase.",
+    "outcome": "The National Commission formulates the substantial question of law and hears the appeal on that question. The Commission records its reasons in writing and passes an order, which may affirm, modify or reverse the decision of the State Commission."
+  },
+  "derived_from": [
+    "procedure.hearing_of_appeal_on_substantial_question_of_law"
+  ],
+  "related_concepts": [
+    "procedure.hearing_of_appeal_on_substantial_question_of_law"
+  ],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "substantial question of law",
+      "appeal",
+      "consumer dispute",
+      "manufacturer liability"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the procedure for hearing an appeal on a substantial question of law?",
+      "Can the National Commission review a decision of the State Commission?",
+      "What are the requirements for formulating a substantial question of law?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

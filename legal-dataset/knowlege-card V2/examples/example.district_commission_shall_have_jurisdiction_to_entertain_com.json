@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.district_commission_shall_have_jurisdiction_to_entertain_com",
+  "concept_type": "example",
+  "title": "District Commission Jurisdiction to Entertain Complaints",
+  "description": "Illustrative example for: obligation.district_commission_shall_have_jurisdiction_to_entertain_com",
+  "content": {
+    "scenario": "A consumer dispute was filed with the District Commission. The District Commission must have jurisdiction to entertain complaints where the value of the goods or services paid as consideration does not exceed one crore rupees.",
+    "outcome": "The District Commission must have jurisdiction to entertain complaints where the value of the goods or services paid as consideration does not exceed one crore rupees, as prescribed by the Central Government if it deems necessary."
+  },
+  "derived_from": [
+    "obligation.district_commission_shall_have_jurisdiction_to_entertain_com"
+  ],
+  "related_concepts": [
+    "obligation.district_commission_shall_have_jurisdiction_to_entertain_com"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "jurisdiction",
+      "complaints",
+      "one crore rupees",
+      "Central Government"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the jurisdiction of the District Commission to entertain complaints?",
+      "How does the District Commission decide on the value of the goods or services paid as consideration?",
+      "What is the role of the Central Government in prescribing the value of the goods or services paid as consideration?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.mediator_nominated_by_the_commission_shall_have_regard_to_th",
+  "concept_type": "example",
+  "title": "Mediator's Duty to Consider Relevant Factors",
+  "description": "Illustrative example for: obligation.mediator_nominated_by_the_commission_shall_have_regard_to_th",
+  "content": {
+    "scenario": "A consumer, Karan, files a complaint against a company with the State Commission. The mediator nominated, Mr. Jain, must consider the rights and obligations of the parties, usages of trade, and circumstances giving rise to the dispute.",
+    "outcome": "The mediator, Mr. Jain, is required to have regard to the rights and obligations of the parties, usages of trade, circumstances giving rise to the consumer dispute, and other relevant factors, while being guided by the principles of natural justice, as per Section 79(2) of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.mediator_nominated_by_the_commission_shall_have_regard_to_th"
+  ],
+  "related_concepts": [
+    "obligation.mediator_nominated_by_the_commission_shall_have_regard_to_th"
+  ],
+  "search": {
+    "keywords": [
+      "mediator",
+      "relevant factors",
+      "natural justice",
+      "consumer dispute",
+      "Commission"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What factors must a mediator consider during mediation?",
+      "How does a mediator ensure a fair mediation process?",
+      "What are the principles of natural justice in mediation?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

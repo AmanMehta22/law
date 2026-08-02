@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.national_commission_must_dispose_of_complaints",
+  "concept_type": "example",
+  "title": "National Commission's Obligation to Dispose of Complaints",
+  "description": "Illustrative example for: obligation.national_commission_must_dispose_of_complaints",
+  "content": {
+    "scenario": "A consumer files a complaint with the National Commission regarding a defective product. The National Commission must dispose of the complaint with necessary modifications as per sections 35, 36, 37, 38, and 39 of the Consumer Protection Act, 2019.",
+    "outcome": "The National Commission disposes of the complaint in accordance with the provisions of sections 35, 36, 37, 38, and 39, with modifications as necessary."
+  },
+  "derived_from": [
+    "obligation.national_commission_must_dispose_of_complaints"
+  ],
+  "related_concepts": [
+    "obligation.national_commission_must_dispose_of_complaints"
+  ],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "complaint disposal",
+      "sections 35-39",
+      "Consumer Protection Act",
+      "modification of provisions"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the National Commission's role in disposing of complaints?",
+      "How does the National Commission handle complaints under sections 35-39?",
+      "What modifications can the National Commission make while disposing of complaints?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

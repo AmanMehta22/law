@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.authority_must_provide_for_re_empanelment_of_mediators",
+  "concept_type": "example",
+  "title": "Re-empanelment of Mediators",
+  "description": "Illustrative example for: obligation.authority_must_provide_for_re_empanelment_of_mediators",
+  "content": {
+    "scenario": "The Consumer Mediation Cell of the National Commission has a mediator whose term is about to expire. The mediator has expressed interest in being re-empaneled for another term. The Authority must provide for the re-empanelment of mediators under sub-section (3) of section 75.",
+    "outcome": "The Authority will provide for the re-empanelment of the mediator for another term under sub-section (3) of section 75, as per the regulations made under the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.authority_must_provide_for_re_empanelment_of_mediators"
+  ],
+  "related_concepts": [
+    "obligation.authority_must_provide_for_re_empanelment_of_mediators"
+  ],
+  "search": {
+    "keywords": [
+      "re-empanelment",
+      "mediators",
+      "Consumer Mediation Cell",
+      "National Commission",
+      "section 75"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the process for re-empanelment of mediators?",
+      "Can a mediator be re-empaneled for another term?",
+      "What are the conditions for re-empanelment of mediators?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

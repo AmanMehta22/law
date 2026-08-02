@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.state_commission_bench_no_pecuniary_limits_mentioned_no_specific_terri",
+  "concept_type": "example",
+  "title": "State Commission Bench with No Pecuniary Limits",
+  "description": "Illustrative example for: jurisdiction.state_commission_bench_no_pecuniary_limits_mentioned_no_specific_territorial_lim",
+  "content": {
+    "scenario": "A consumer in Mumbai files a complaint against a company for a defective product worth Rs. 50 lakhs. The President of the State Commission constitutes a Bench with one or more members to hear the case.",
+    "outcome": "The State Commission Bench has the authority to exercise jurisdiction over the case, and the senior-most member shall preside over the Bench, as per the provisions of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "jurisdiction.state_commission_bench_no_pecuniary_limits_mentioned_no_specific_territorial_lim"
+  ],
+  "related_concepts": [
+    "jurisdiction.state_commission_bench_no_pecuniary_limits_mentioned_no_specific_territorial_lim"
+  ],
+  "search": {
+    "keywords": [
+      "State Commission",
+      "Bench",
+      "no pecuniary limits",
+      "President",
+      "senior-most member"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can a State Commission Bench be constituted without pecuniary limits?",
+      "Who presides over a State Commission Bench?",
+      "What is the authority of a State Commission Bench?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

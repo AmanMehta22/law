@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.appeal_to_state_commission",
+  "concept_type": "example",
+  "title": "Appeal to State Commission",
+  "description": "Illustrative example for: procedure.appeal_to_state_commission",
+  "content": {
+    "scenario": "Sonia, a consumer from Delhi, purchased a faulty air conditioner from a manufacturer. She filed a complaint with the District Forum, but the order was not in her favor. Sonia wants to appeal to the State Commission. She files an appeal with the State Commission, attaching the bill, cash memo, and receipt for the air conditioner, as well as copies of the documents seized or produced during the proceedings.",
+    "outcome": "The State Commission will consider Sonia's appeal and may pass an order in her favor if it finds that the District Forum's order was incorrect. The State Commission may also direct the manufacturer to repair or replace the faulty air conditioner."
+  },
+  "derived_from": [
+    "procedure.appeal_to_state_commission"
+  ],
+  "related_concepts": [
+    "procedure.appeal_to_state_commission"
+  ],
+  "search": {
+    "keywords": [
+      "State Commission",
+      "appeal",
+      "consumer protection",
+      "faulty product",
+      "repair",
+      "replacement"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How to appeal to the State Commission?",
+      "What documents are required for an appeal to the State Commission?",
+      "Can I get a repair or replacement for a faulty product?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

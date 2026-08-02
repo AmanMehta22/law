@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.mediator_must_prepare_a_settlement_report_and_forward_the_si",
+  "concept_type": "example",
+  "title": "Mediator's Duty to Prepare Settlement Report",
+  "description": "Illustrative example for: obligation.mediator_must_prepare_a_settlement_report_and_forward_the_si",
+  "content": {
+    "scenario": "After mediation, a consumer, Priya, and a company reach a settlement. The mediator, Ms. Sharma, must prepare a report and forward the signed agreement to the concerned Commission.",
+    "outcome": "The mediator, Ms. Sharma, is required to prepare a settlement report and forward the signed agreement along with the report to the concerned Commission, as per Section 80(2) of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.mediator_must_prepare_a_settlement_report_and_forward_the_si"
+  ],
+  "related_concepts": [
+    "obligation.mediator_must_prepare_a_settlement_report_and_forward_the_si"
+  ],
+  "search": {
+    "keywords": [
+      "mediator",
+      "settlement report",
+      "signed agreement",
+      "consumer dispute",
+      "Commission"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What happens after a settlement is reached in mediation?",
+      "What is the mediator's role after a settlement?",
+      "How is a settlement report prepared and submitted?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

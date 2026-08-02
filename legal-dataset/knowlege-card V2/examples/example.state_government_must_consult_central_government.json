@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.state_government_must_consult_central_government",
+  "concept_type": "example",
+  "title": "State Government's Obligation to Consult Central Government",
+  "description": "Illustrative example for: obligation.state_government_must_consult_central_government",
+  "content": {
+    "scenario": "The State Government of Karnataka wants to prescribe the number of members in the State Commission. They need to determine the appropriate number of members.",
+    "outcome": "The State Government of Karnataka must consult the Central Government to prescribe the number of members in the State Commission, which shall not be less than four or more than the prescribed number, as per Section 42(3) of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.state_government_must_consult_central_government"
+  ],
+  "related_concepts": [
+    "obligation.state_government_must_consult_central_government"
+  ],
+  "search": {
+    "keywords": [
+      "State Government",
+      "Central Government",
+      "consultation",
+      "State Commission",
+      "members"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the process for determining the number of members in a State Commission?",
+      "Why is consultation with the Central Government necessary?",
+      "What are the limits on the number of members in a State Commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

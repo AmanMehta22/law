@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.adjournment_may_be_granted_if_sufficient_cause_is_shown",
+  "concept_type": "example",
+  "title": "Adjournment May Be Granted If Sufficient Cause Is Shown",
+  "description": "Illustrative example for: exception.adjournment_may_be_granted_if_sufficient_cause_is_shown",
+  "content": {
+    "scenario": "A consumer, Priya, files a complaint before the District Commission against a seller for defective goods. The seller requests an adjournment due to the absence of their lawyer, citing a family emergency. The District Commission grants the adjournment after being satisfied that sufficient cause has been shown and records the reasons in writing.",
+    "outcome": "The District Commission is justified in granting the adjournment as sufficient cause has been shown and the reasons for the grant of adjournment have been recorded in writing, in accordance with the provisions of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "exception.adjournment_may_be_granted_if_sufficient_cause_is_shown"
+  ],
+  "related_concepts": [
+    "exception.adjournment_may_be_granted_if_sufficient_cause_is_shown"
+  ],
+  "search": {
+    "keywords": [
+      "adjournment",
+      "sufficient cause",
+      "District Commission",
+      "consumer complaint",
+      "defective goods"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Under what conditions can the District Commission grant an adjournment?",
+      "What is the purpose of requiring sufficient cause for an adjournment?",
+      "Can the District Commission grant an adjournment without recording the reasons in writing?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

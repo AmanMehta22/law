@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.complaint_handling",
+  "concept_type": "example",
+  "title": "Complaint Handling Procedure",
+  "description": "Illustrative example for: procedure.complaint_handling",
+  "content": {
+    "scenario": "A consumer, Ramesh, files a complaint with the District Commission in Chennai against a company alleging a defect in a product. The Commission admits the complaint and refers a copy to the company, directing them to respond within 30 days.",
+    "outcome": "The company responds to the complaint, denying the allegations. The District Commission proceeds to settle the consumer dispute and may require the complainant to deposit fees for payment to a laboratory for analysis or testing of the product. The Commission will then issue an appropriate order under section 39 of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "procedure.complaint_handling"
+  ],
+  "related_concepts": [
+    "procedure.complaint_handling"
+  ],
+  "search": {
+    "keywords": [
+      "complaint handling",
+      "District Commission",
+      "defect in product",
+      "laboratory testing",
+      "order under section 39"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What happens after a complaint is admitted by the District Commission?",
+      "How does the District Commission handle a complaint alleging a defect in a product?",
+      "What is the role of laboratory testing in complaint handling?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

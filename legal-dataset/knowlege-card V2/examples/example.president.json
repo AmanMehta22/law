@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.president",
+  "concept_type": "example",
+  "title": "President's Powers in Constituting Benches",
+  "description": "Illustrative example for: authority.president",
+  "content": {
+    "scenario": "A consumer dispute is filed with the State Commission, and the members of the Bench differ in opinion on a key point. The President of the State Commission is required to decide the point or refer it to another member for hearing.",
+    "outcome": "The President constitutes a Bench with one or more members to hear the case, and if the members differ in opinion, the President may hear the point himself or refer it to another member for hearing, ensuring a decision is made according to the opinion of the majority."
+  },
+  "derived_from": [
+    "authority.president"
+  ],
+  "related_concepts": [
+    "authority.president"
+  ],
+  "search": {
+    "keywords": [
+      "President",
+      "State Commission",
+      "Bench",
+      "consumer dispute",
+      "opinion",
+      "majority"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the powers of the President in constituting Benches?",
+      "How are disputes resolved when members of a Bench differ in opinion?",
+      "Can the President hear a case himself?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

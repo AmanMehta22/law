@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.national_consumer_disputes_redressal_commission",
+  "concept_type": "example",
+  "title": "National Consumer Disputes Redressal Commission's Role",
+  "description": "Illustrative example for: authority.national_consumer_disputes_redressal_commission",
+  "content": {
+    "scenario": "A consumer files a complaint with the National Consumer Disputes Redressal Commission against a company for defective goods. The Commission hears the complaint and finds the company liable.",
+    "outcome": "The National Consumer Disputes Redressal Commission can order the company to pay compensation to the consumer. The Commission's order is binding on all parties, and the company can appeal against the order to a higher court."
+  },
+  "derived_from": [
+    "authority.national_consumer_disputes_redressal_commission"
+  ],
+  "related_concepts": [
+    "authority.national_consumer_disputes_redressal_commission"
+  ],
+  "search": {
+    "keywords": [
+      "National Consumer Disputes Redressal Commission",
+      "complaint",
+      "defective goods",
+      "compensation",
+      "appeal"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the role of the National Consumer Disputes Redressal Commission?",
+      "Can the Commission order a company to pay compensation to a consumer?",
+      "How can a company appeal against the Commission's order?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.product_seller_must_exercise_reasonable_care_in_assembling_i",
+  "concept_type": "example",
+  "title": "Product Seller's Duty of Care",
+  "description": "Illustrative example for: obligation.product_seller_must_exercise_reasonable_care_in_assembling_i",
+  "content": {
+    "scenario": "A product seller, Rohan, sold a product to a consumer, which was later found to be defective and caused harm. Rohan had altered the product before selling it, and the alteration was the substantial factor in causing the harm.",
+    "outcome": "The product seller, Rohan, is liable in a product liability action because he altered the product and the alteration was the substantial factor in causing the harm, and he failed to exercise reasonable care in assembling, inspecting, or maintaining the product, as per the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.product_seller_must_exercise_reasonable_care_in_assembling_i"
+  ],
+  "related_concepts": [
+    "obligation.product_seller_must_exercise_reasonable_care_in_assembling_i"
+  ],
+  "search": {
+    "keywords": [
+      "product seller",
+      "duty of care",
+      "reasonable care",
+      "product liability",
+      "alteration",
+      "defective product"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the duty of care for a product seller?",
+      "Can a product seller be liable for a defective product if they altered it?",
+      "How does the Consumer Protection Act, 2019, address product seller liability?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

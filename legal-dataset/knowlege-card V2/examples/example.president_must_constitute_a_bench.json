@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.president_must_constitute_a_bench",
+  "concept_type": "example",
+  "title": "Constitution of Benches by State Commission",
+  "description": "Illustrative example for: obligation.president_must_constitute_a_bench",
+  "content": {
+    "scenario": "The President of the State Commission needs to constitute a Bench to hear a case, and is considering the composition of the Bench.",
+    "outcome": "The President must constitute a Bench with one or more members, as the President may deem fit, as per CPA2019-CH4-S47-2. The senior-most member shall preside over the Bench."
+  },
+  "derived_from": [
+    "obligation.president_must_constitute_a_bench"
+  ],
+  "related_concepts": [
+    "obligation.president_must_constitute_a_bench"
+  ],
+  "search": {
+    "keywords": [
+      "State Commission",
+      "Bench",
+      "President",
+      "constitution of Bench",
+      "consumer protection",
+      "CPA2019"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How are Benches constituted in the State Commission?",
+      "Who presides over a Bench?",
+      "Can the President constitute a Bench with any number of members?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

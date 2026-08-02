@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.accounts_records",
+  "concept_type": "example",
+  "title": "Maintenance of Accounts and Records",
+  "description": "Illustrative example for: evidence.accounts_records",
+  "content": {
+    "scenario": "A consumer purchases a product from an e-commerce company and later discovers that the company has not maintained proper accounts and records of the transaction, making it difficult for the consumer to track their order and claim a refund.",
+    "outcome": "The Central Authority may take action against the e-commerce company for not maintaining proper accounts and records as required under Section 26(1) of the Consumer Protection Act, 2019, which mandates the maintenance of proper accounts and other relevant records."
+  },
+  "derived_from": [
+    "evidence.accounts_records"
+  ],
+  "related_concepts": [
+    "evidence.accounts_records"
+  ],
+  "search": {
+    "keywords": [
+      "consumer protection",
+      "accounts",
+      "records",
+      "e-commerce",
+      "refund",
+      "Central Authority"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the requirements for maintaining accounts and records under the Consumer Protection Act?",
+      "Can a consumer claim a refund if the company has not maintained proper records?",
+      "What action can be taken against a company that fails to maintain proper accounts and records?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

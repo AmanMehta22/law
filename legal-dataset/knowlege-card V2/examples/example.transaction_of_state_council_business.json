@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.transaction_of_state_council_business",
+  "concept_type": "example",
+  "title": "State Council Meeting Procedure",
+  "description": "Illustrative example for: procedure.transaction_of_state_council_business",
+  "content": {
+    "scenario": "The State Council of Consumer Protection is scheduled to meet on January 15th, 2024, at 10:00 AM in New Delhi to discuss the new consumer protection policies. The Chairperson has determined the time and place of the meeting. The Council will observe the prescribed procedure for transaction of its business.",
+    "outcome": "The State Council meeting will be conducted in accordance with the prescribed procedure, as determined by the Chairperson. The meeting will be held at the specified time and place, and the Council will follow the established protocol for transaction of its business."
+  },
+  "derived_from": [
+    "procedure.transaction_of_state_council_business"
+  ],
+  "related_concepts": [
+    "procedure.transaction_of_state_council_business"
+  ],
+  "search": {
+    "keywords": [
+      "State Council",
+      "consumer protection",
+      "meeting procedure",
+      "prescribed procedure",
+      "Chairperson",
+      "New Delhi"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the procedure for a State Council meeting?",
+      "Who determines the time and place of a State Council meeting?",
+      "What is the role of the Chairperson in a State Council meeting?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

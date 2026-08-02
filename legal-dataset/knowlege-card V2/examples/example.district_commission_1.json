@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.district_commission_1",
+  "concept_type": "example",
+  "title": "District Commission Role and Powers",
+  "description": "Illustrative example for: authority.district_commission",
+  "content": {
+    "scenario": "A consumer in Mumbai purchases a defective smartphone from a local retailer. The consumer files a complaint with the District Commission in Mumbai, seeking compensation for the defective product. The District Commission exercises its jurisdiction to entertain the complaint and conducts proceedings to settle the consumer dispute.",
+    "outcome": "The District Commission has the power to pass orders on complaints, refer a copy of the admitted complaint to the opposite party, and direct the opposite party to give their version of the case. The Commission may also decide the complaint on its merits and grant compensation to the consumer if the complaint is found to be valid."
+  },
+  "derived_from": [
+    "authority.district_commission"
+  ],
+  "related_concepts": [
+    "authority.district_commission"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "consumer dispute",
+      "defective product",
+      "compensation",
+      "jurisdiction",
+      "proceedings"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the role of the District Commission in consumer disputes?",
+      "How does the District Commission exercise its jurisdiction?",
+      "What powers does the District Commission have in conducting proceedings?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

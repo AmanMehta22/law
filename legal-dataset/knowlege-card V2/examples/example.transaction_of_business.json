@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.transaction_of_business",
+  "concept_type": "example",
+  "title": "Transaction of Business",
+  "description": "Illustrative example for: procedure.transaction_of_business",
+  "content": {
+    "scenario": "The Central Authority regulates the transaction of business and allocation of business of the Chief Commissioner and Commissioner under the Consumer Protection Act, 2019. The Authority prescribes the procedure for transaction of business, including the allocation of cases and the delegation of powers.",
+    "outcome": "The Chief Commissioner and Commissioner follow the prescribed procedure for transaction of business, ensuring that consumer complaints are handled efficiently and effectively. The Central Authority monitors and reviews the performance of the Chief Commissioner and Commissioner to ensure compliance with the regulations."
+  },
+  "derived_from": [
+    "procedure.transaction_of_business"
+  ],
+  "related_concepts": [
+    "procedure.transaction_of_business"
+  ],
+  "search": {
+    "keywords": [
+      "transaction of business",
+      "Central Authority",
+      "Chief Commissioner",
+      "Commissioner",
+      "consumer complaints"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the role of the Central Authority in regulating the transaction of business?",
+      "How are cases allocated to the Chief Commissioner and Commissioner?",
+      "What are the powers delegated to the Chief Commissioner and Commissioner?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

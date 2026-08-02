@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.subject_to_the_modification_that_every_reference_to_the_decr",
+  "concept_type": "example",
+  "title": "Enforcement of Orders by Consumer Commissions",
+  "description": "Illustrative example for: exception.subject_to_the_modification_that_every_reference_to_the_decr",
+  "content": {
+    "scenario": "The State Commission passes an order directing a company to refund the amount paid by a consumer for a defective product. The company fails to comply with the order, and the consumer approaches the State Commission for enforcement.",
+    "outcome": "The State Commission enforces the order in the same manner as if it were a decree made by a Court, and applies the provisions of Order XXI of the First Schedule to the Code of Civil Procedure, 1908, subject to the modification that every reference to the decree is construed as a reference to the order made under the Consumer Protection Act."
+  },
+  "derived_from": [
+    "exception.subject_to_the_modification_that_every_reference_to_the_decr"
+  ],
+  "related_concepts": [
+    "exception.subject_to_the_modification_that_every_reference_to_the_decr"
+  ],
+  "search": {
+    "keywords": [
+      "enforcement of orders",
+      "State Commission",
+      "Code of Civil Procedure",
+      "Order XXI",
+      "consumer protection"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How are orders of the Consumer Commissions enforced?",
+      "What are the provisions applicable to enforcement of orders?",
+      "What is the effect of non-compliance with an order of the Consumer Commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

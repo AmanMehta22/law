@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.mediation_authority_must_conduct_mediation_within_a_specifie",
+  "concept_type": "example",
+  "title": "Mediation Authority's Obligation to Conduct Mediation within a Specified Time and Manner",
+  "description": "Illustrative example for: obligation.mediation_authority_must_conduct_mediation_within_a_specifie",
+  "content": {
+    "scenario": "A consumer has filed a complaint with the District Commission, which has referred the matter to mediation. The mediation authority must conduct the mediation within a specified time and manner.",
+    "outcome": "The mediation authority shall conduct the mediation within the time and manner specified under sub-section (3) of Section 79 of the Consumer Protection Act, 2019, as per the regulations made by the Central Government."
+  },
+  "derived_from": [
+    "obligation.mediation_authority_must_conduct_mediation_within_a_specifie"
+  ],
+  "related_concepts": [
+    "obligation.mediation_authority_must_conduct_mediation_within_a_specifie"
+  ],
+  "search": {
+    "keywords": [
+      "Consumer Protection Act",
+      "mediation",
+      "mediation authority",
+      "time",
+      "manner",
+      "regulations"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the obligations of a mediation authority in conducting mediation?",
+      "How is the time and manner of mediation determined?",
+      "What are the regulations governing mediation under the Consumer Protection Act?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

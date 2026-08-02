@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.endorser_must_discontinue_or_modify_advertisement_as_directe",
+  "concept_type": "example",
+  "title": "Endorser's Obligation to Discontinue or Modify Advertisement",
+  "description": "Illustrative example for: obligation.endorser_must_discontinue_or_modify_advertisement_as_directe",
+  "content": {
+    "scenario": "A celebrity endorses a product in a television advertisement. The Central Authority investigates and finds the advertisement to be false and misleading. The Authority directs the endorser to discontinue the advertisement within a specified time.",
+    "outcome": "The endorser must discontinue or modify the advertisement as directed by the Central Authority, within the specified time, as per Section 21(1) of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.endorser_must_discontinue_or_modify_advertisement_as_directe"
+  ],
+  "related_concepts": [
+    "obligation.endorser_must_discontinue_or_modify_advertisement_as_directe"
+  ],
+  "search": {
+    "keywords": [
+      "endorser",
+      "advertisement",
+      "Central Authority",
+      "Consumer Protection Act",
+      "false and misleading"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the obligations of an endorser in India?",
+      "Can the Central Authority direct an endorser to discontinue an advertisement?",
+      "What happens if an endorser fails to comply with the Central Authority's direction?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

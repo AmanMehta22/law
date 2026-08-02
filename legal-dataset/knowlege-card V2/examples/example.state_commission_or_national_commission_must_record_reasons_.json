@@ -1,0 +1,43 @@
+{
+  "concept_id": "example.state_commission_or_national_commission_must_record_reasons_",
+  "concept_type": "example",
+  "title": "Recording Reasons for Delayed Disposal of Appeals",
+  "description": "Illustrative example for: obligation.state_commission_or_national_commission_must_record_reasons_",
+  "content": {
+    "scenario": "The National Commission disposed of an appeal 120 days after its admission. The appellant had requested an adjournment, which was granted due to sufficient cause. However, the Commission did not record the reasons for the delayed disposal in writing.",
+    "outcome": "The National Commission is obligated to record in writing the reasons for disposing of the appeal after the specified period of 90 days. The Commission's failure to do so is a violation of the provisions of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.state_commission_or_national_commission_must_record_reasons_"
+  ],
+  "related_concepts": [
+    "obligation.state_commission_or_national_commission_must_record_reasons_"
+  ],
+  "search": {
+    "keywords": [
+      "Consumer Protection Act",
+      "National Commission",
+      "appeal disposal",
+      "delayed disposal",
+      "recording reasons",
+      "adjournment",
+      "sufficient cause"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the obligations of the National Commission in disposing of appeals?",
+      "Can the National Commission grant adjournments without recording reasons?",
+      "What are the consequences of not recording reasons for delayed disposal of appeals?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

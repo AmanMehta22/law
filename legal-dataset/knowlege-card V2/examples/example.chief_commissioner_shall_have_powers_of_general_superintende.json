@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.chief_commissioner_shall_have_powers_of_general_superintende",
+  "concept_type": "example",
+  "title": "Chief Commissioner's Powers of General Superintendence",
+  "description": "Illustrative example for: obligation.chief_commissioner_shall_have_powers_of_general_superintende",
+  "content": {
+    "scenario": "The Chief Commissioner of the Central Authority needs to delegate some of his powers to a Commissioner of a regional office to ensure efficient administration of the Authority.",
+    "outcome": "The Chief Commissioner has the power to delegate his powers relating to administrative matters of the Central Authority to any Commissioner (including Commissioner of a regional office) or any other officer of the Central Authority, as he may think fit."
+  },
+  "derived_from": [
+    "obligation.chief_commissioner_shall_have_powers_of_general_superintende"
+  ],
+  "related_concepts": [
+    "obligation.chief_commissioner_shall_have_powers_of_general_superintende"
+  ],
+  "search": {
+    "keywords": [
+      "Chief Commissioner",
+      "Central Authority",
+      "powers",
+      "delegation",
+      "administration",
+      "consumer protection"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the powers of the Chief Commissioner?",
+      "Can the Chief Commissioner delegate his powers?",
+      "How does the Chief Commissioner exercise his powers of general superintendence?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

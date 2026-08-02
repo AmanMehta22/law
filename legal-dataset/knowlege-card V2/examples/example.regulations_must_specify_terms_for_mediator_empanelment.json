@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.regulations_must_specify_terms_for_mediator_empanelment",
+  "concept_type": "example",
+  "title": "Regulations for Mediator Empanelment",
+  "description": "Illustrative example for: obligation.regulations_must_specify_terms_for_mediator_empanelment",
+  "content": {
+    "scenario": "A consumer wants to know the qualifications and experience required for a mediator to be empanelled under the Consumer Protection Act, 2019. The consumer checks the regulations and finds that the qualifications and experience required for empanelment are specified in the regulations.",
+    "outcome": "The regulations must specify the terms for mediator empanelment, including qualifications and experience required, procedure for empanelment, manner of training, fee payable, terms and conditions, code of conduct, and grounds for removal or cancellation of empanelment, as per Section 75(2) of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.regulations_must_specify_terms_for_mediator_empanelment"
+  ],
+  "related_concepts": [
+    "obligation.regulations_must_specify_terms_for_mediator_empanelment"
+  ],
+  "search": {
+    "keywords": [
+      "consumer protection",
+      "mediator empanelment",
+      "regulations",
+      "qualifications and experience",
+      "procedure for empanelment"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the qualifications and experience required for a mediator to be empanelled?",
+      "How are mediators empanelled under the Consumer Protection Act, 2019?",
+      "What are the terms and conditions for mediator empanelment?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

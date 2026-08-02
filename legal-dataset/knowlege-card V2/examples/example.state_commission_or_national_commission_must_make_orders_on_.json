@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.state_commission_or_national_commission_must_make_orders_on_",
+  "concept_type": "example",
+  "title": "State Commission or National Commission Must Make Orders on Costs of Adjournment",
+  "description": "Illustrative example for: obligation.state_commission_or_national_commission_must_make_orders_on_",
+  "content": {
+    "scenario": "The State Commission grants an adjournment in an appeal hearing and imposes costs on the respondent. The respondent, Ramesh, requests the Commission to specify the costs.",
+    "outcome": "The State Commission or National Commission must make orders as to the costs occasioned by the adjournment, as specified by regulations, under the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.state_commission_or_national_commission_must_make_orders_on_"
+  ],
+  "related_concepts": [
+    "obligation.state_commission_or_national_commission_must_make_orders_on_"
+  ],
+  "search": {
+    "keywords": [
+      "Consumer Protection Act",
+      "State Commission",
+      "National Commission",
+      "adjournment",
+      "costs",
+      "orders"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the costs for adjournment?",
+      "How are costs for adjournment determined?",
+      "Can the State Commission waive costs for adjournment?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

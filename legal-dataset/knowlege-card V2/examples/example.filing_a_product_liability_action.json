@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.filing_a_product_liability_action",
+  "concept_type": "example",
+  "title": "Product Liability Action",
+  "description": "Illustrative example for: procedure.filing_a_product_liability_action",
+  "content": {
+    "scenario": "Rahul, a consumer, purchases a defective mobile phone from a retailer. The phone explodes, causing harm to Rahul. He files a complaint before the District Commission, seeking compensation for the harm caused.",
+    "outcome": "The District Commission may order the manufacturer or seller to pay compensation to Rahul for the harm caused, as per the provisions of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "procedure.filing_a_product_liability_action"
+  ],
+  "related_concepts": [
+    "procedure.filing_a_product_liability_action"
+  ],
+  "search": {
+    "keywords": [
+      "product liability",
+      "consumer protection",
+      "compensation",
+      "District Commission",
+      "defective product"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How to file a product liability action in India?",
+      "What is the procedure for claiming compensation for a defective product?",
+      "Can a consumer file a complaint against a manufacturer for a defective product?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

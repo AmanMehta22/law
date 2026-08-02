@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.written_complaint",
+  "concept_type": "example",
+  "title": "Filing a Consumer Complaint",
+  "description": "Illustrative example for: evidence.written_complaint",
+  "content": {
+    "scenario": "Ramesh purchased a defective air conditioner from a retailer. He wants to file a complaint to obtain relief under the Consumer Protection Act.",
+    "outcome": "Ramesh needs to make a written complaint, which is an allegation in writing, to obtain any relief provided by or under the Act. The complaint should state the defects in the air conditioner and the relief sought."
+  },
+  "derived_from": [
+    "evidence.written_complaint"
+  ],
+  "related_concepts": [
+    "evidence.written_complaint"
+  ],
+  "search": {
+    "keywords": [
+      "written complaint",
+      "consumer protection",
+      "defective product",
+      "relief",
+      "allegation in writing"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is a written complaint under the Consumer Protection Act?",
+      "How do I file a complaint for a defective product?",
+      "What relief can I obtain through a written complaint?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

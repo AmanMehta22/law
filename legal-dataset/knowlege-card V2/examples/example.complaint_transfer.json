@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.complaint_transfer",
+  "concept_type": "example",
+  "title": "Complaint Transfer by National Commission",
+  "description": "Illustrative example for: procedure.complaint_transfer",
+  "content": {
+    "scenario": "A consumer in India files a complaint with the District Commission regarding a defective product. The National Commission reviews and decides to transfer the complaint to another State Commission in the interest of justice.",
+    "outcome": "The National Commission transfers the complaint to another State Commission in the interest of justice."
+  },
+  "derived_from": [
+    "procedure.complaint_transfer"
+  ],
+  "related_concepts": [
+    "procedure.complaint_transfer"
+  ],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "complaint transfer",
+      "consumer rights",
+      "India",
+      "CPA2019"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the procedure for transferring complaints by the National Commission?",
+      "How does the National Commission decide to transfer complaints?",
+      "What happens after the National Commission transfers the complaint?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

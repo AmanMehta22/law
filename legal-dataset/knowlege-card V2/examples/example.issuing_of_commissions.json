@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.issuing_of_commissions",
+  "concept_type": "example",
+  "title": "Issuing of Commissions by District Commission",
+  "description": "Illustrative example for: procedure.issuing_of_commissions",
+  "content": {
+    "scenario": "A consumer in Mumbai files a complaint against a company for selling defective products. The District Commission in Mumbai issues a commission to examine a witness who is based in Delhi.",
+    "outcome": "The District Commission has the power to issue commissions for the examination of any witness or document, as per Section 38(9) of the Consumer Protection Act, 2019. The commission can be issued to examine the witness in Delhi, and the District Commission can proceed with the case based on the evidence collected."
+  },
+  "derived_from": [
+    "procedure.issuing_of_commissions"
+  ],
+  "related_concepts": [
+    "procedure.issuing_of_commissions"
+  ],
+  "search": {
+    "keywords": [
+      "consumer protection",
+      "district commission",
+      "issuing of commissions",
+      "examination of witness",
+      "consumer rights",
+      "defective products"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the process of issuing commissions by the District Commission?",
+      "Can the District Commission examine a witness based in another city?",
+      "What are the powers of the District Commission under the Consumer Protection Act, 2019?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

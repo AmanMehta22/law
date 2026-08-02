@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.state_commission_or_national_commission_must_not_grant_adjou",
+  "concept_type": "example",
+  "title": "State Commission or National Commission Must Not Grant Adjournment Without Sufficient Cause",
+  "description": "Illustrative example for: obligation.state_commission_or_national_commission_must_not_grant_adjou",
+  "content": {
+    "scenario": "The respondent in an appeal, Suresh, requests an adjournment without showing sufficient cause. The appellant, Kumar, objects to the adjournment.",
+    "outcome": "The State Commission or National Commission must not grant an adjournment unless sufficient cause is shown and the reasons for grant of adjournment have been recorded in writing, as per the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.state_commission_or_national_commission_must_not_grant_adjou"
+  ],
+  "related_concepts": [
+    "obligation.state_commission_or_national_commission_must_not_grant_adjou"
+  ],
+  "search": {
+    "keywords": [
+      "Consumer Protection Act",
+      "State Commission",
+      "National Commission",
+      "adjournment",
+      "sufficient cause",
+      "written reasons"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is sufficient cause for adjournment?",
+      "Can the State Commission grant adjournment without sufficient cause?",
+      "What are the consequences of granting adjournment without sufficient cause?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

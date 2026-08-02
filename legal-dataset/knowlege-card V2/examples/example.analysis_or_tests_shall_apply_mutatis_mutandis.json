@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.analysis_or_tests_shall_apply_mutatis_mutandis",
+  "concept_type": "example",
+  "title": "Analysis or Tests Shall Apply Mutatis Mutandis",
+  "description": "Illustrative example for: exception.analysis_or_tests_shall_apply_mutatis_mutandis",
+  "content": {
+    "scenario": "The Director-General of the Consumer Protection Authority receives a complaint about contaminated food products that are not subject to speedy or natural decay. The Authority decides to send the samples for analysis to determine the level of contamination.",
+    "outcome": "The provisions contained in clause (c) of sub-section (2) of section 38 of the Consumer Protection Act, 2019, regarding sealing samples and sending them to the appropriate laboratory for analysis or test, shall apply mutatis mutandis in relation to the analysis or tests of the contaminated food products, as they are not subject to speedy or natural decay."
+  },
+  "derived_from": [
+    "exception.analysis_or_tests_shall_apply_mutatis_mutandis"
+  ],
+  "related_concepts": [
+    "exception.analysis_or_tests_shall_apply_mutatis_mutandis"
+  ],
+  "search": {
+    "keywords": [
+      "analysis",
+      "tests",
+      "mutatis mutandis",
+      "contaminated food products",
+      "Consumer Protection Authority"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the procedures for analyzing or testing contaminated food products?",
+      "Do the provisions for analysis or testing apply to all types of products?",
+      "What is the purpose of applying the provisions mutatis mutandis?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

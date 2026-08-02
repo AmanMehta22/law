@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.a_complaint_shall_not_be_rejected_unless_an_opportunity_of_b",
+  "concept_type": "example",
+  "title": "Rejection of Complaints by the District Commission",
+  "description": "Illustrative example for: exception.a_complaint_shall_not_be_rejected_unless_an_opportunity_of_b",
+  "content": {
+    "scenario": "A consumer from Chennai files a complaint against a service provider for deficient services. The District Commission rejects the complaint without giving the consumer an opportunity to be heard.",
+    "outcome": "The rejection of the complaint by the District Commission is invalid, as the consumer was not given an opportunity to be heard. The District Commission must provide an opportunity to the consumer to be heard before rejecting the complaint."
+  },
+  "derived_from": [
+    "exception.a_complaint_shall_not_be_rejected_unless_an_opportunity_of_b"
+  ],
+  "related_concepts": [
+    "exception.a_complaint_shall_not_be_rejected_unless_an_opportunity_of_b"
+  ],
+  "search": {
+    "keywords": [
+      "complaint",
+      "rejection",
+      "opportunity to be heard",
+      "District Commission",
+      "consumer rights",
+      "deficient services"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can a complaint be rejected without an opportunity to be heard?",
+      "What is the procedure for rejecting a complaint?",
+      "How does the District Commission ensure that the consumer is heard?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

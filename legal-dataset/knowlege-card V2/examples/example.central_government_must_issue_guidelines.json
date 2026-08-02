@@ -1,0 +1,39 @@
+{
+  "concept_id": "example.central_government_must_issue_guidelines",
+  "concept_type": "example",
+  "title": "Central Government Must Issue Guidelines",
+  "description": "Illustrative example for: obligation.central_government_must_issue_guidelines",
+  "content": {
+    "scenario": "The Central Government is planning to issue guidelines for the recognition of laboratories or organisations. The Central Government must issue these guidelines to ensure that the laboratories or organisations are recognised.",
+    "outcome": "The Central Government must issue guidelines for the recognition of laboratories or organisations."
+  },
+  "derived_from": [
+    "obligation.central_government_must_issue_guidelines"
+  ],
+  "related_concepts": [
+    "obligation.central_government_must_issue_guidelines"
+  ],
+  "search": {
+    "keywords": [
+      "Central Government",
+      "guidelines",
+      "recognition of laboratories or organisations"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the Central Government's obligation regarding guidelines?",
+      "How does the Central Government issue guidelines?",
+      "What is the purpose of the guidelines?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

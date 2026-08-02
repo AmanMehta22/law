@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.report_from_laboratory",
+  "concept_type": "example",
+  "title": "Report from Laboratory to Determine Defect in Goods",
+  "description": "Illustrative example for: evidence.report_from_laboratory",
+  "content": {
+    "scenario": "A consumer files a complaint against a company alleging a defect in the goods. The District Commission refers a sample of the goods to a laboratory for analysis, and the laboratory submits a report.",
+    "outcome": "The laboratory report will determine whether the goods suffer from any defect alleged in the complaint or from any other defect, as per Section 38(2)(c) of the Consumer Protection Act, 2019. The report will be submitted to the District Commission within 45 days of receipt of the reference or within an extended period granted by the Commission."
+  },
+  "derived_from": [
+    "evidence.report_from_laboratory"
+  ],
+  "related_concepts": [
+    "evidence.report_from_laboratory"
+  ],
+  "search": {
+    "keywords": [
+      "laboratory report",
+      "defect in goods",
+      "Consumer Protection Act",
+      "Section 38(2)(c)",
+      "District Commission"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the purpose of obtaining a laboratory report in a consumer complaint?",
+      "Can a consumer dispute the findings of a laboratory report?",
+      "What is the timeframe for submitting a laboratory report to the District Commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

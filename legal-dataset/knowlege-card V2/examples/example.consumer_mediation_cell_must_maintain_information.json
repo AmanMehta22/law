@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.consumer_mediation_cell_must_maintain_information",
+  "concept_type": "example",
+  "title": "Consumer Mediation Cell Must Maintain Information",
+  "description": "Illustrative example for: obligation.consumer_mediation_cell_must_maintain_information",
+  "content": {
+    "scenario": "A Consumer Mediation Cell is required to submit a quarterly report to the District Commission. The cell must maintain certain information as per the Consumer Protection Act, 2019.",
+    "outcome": "The Consumer Mediation Cell must maintain information under sub-section (4) of section 74, which includes a list of empanelled mediators, a list of cases handled by the cell, a record of proceedings, and any other information as may be specified by regulations."
+  },
+  "derived_from": [
+    "obligation.consumer_mediation_cell_must_maintain_information"
+  ],
+  "related_concepts": [
+    "obligation.consumer_mediation_cell_must_maintain_information"
+  ],
+  "search": {
+    "keywords": [
+      "Consumer Mediation Cell",
+      "information",
+      "maintenance",
+      "regulations",
+      "quarterly report",
+      "District Commission"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What information must a Consumer Mediation Cell maintain under sub-section (4) of section 74?",
+      "How often must a Consumer Mediation Cell submit a report to the District Commission?",
+      "Can a Consumer Mediation Cell maintain information beyond what is specified in the regulations?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.state_commission_must_dispose_of_complaints",
+  "concept_type": "example",
+  "title": "State Commission's Obligation to Dispose of Complaints",
+  "description": "Illustrative example for: obligation.state_commission_must_dispose_of_complaints",
+  "content": {
+    "scenario": "A consumer files a complaint with the State Commission, alleging unfair trade practices by a company. The company responds to the complaint, and the Commission must now dispose of the complaint.",
+    "outcome": "The State Commission must dispose of the complaint with such modifications as may be necessary, as per the provisions of sections 35, 36, 37, 38, and 39 of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.state_commission_must_dispose_of_complaints"
+  ],
+  "related_concepts": [
+    "obligation.state_commission_must_dispose_of_complaints"
+  ],
+  "search": {
+    "keywords": [
+      "State Commission",
+      "complaints",
+      "disposal",
+      "sections 35-39",
+      "Consumer Protection Act",
+      "2019"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How does the State Commission dispose of complaints?",
+      "What are the provisions governing the disposal of complaints by the State Commission?",
+      "Can the State Commission modify the complaint before disposing of it?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

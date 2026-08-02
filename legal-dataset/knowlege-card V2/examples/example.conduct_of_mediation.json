@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.conduct_of_mediation",
+  "concept_type": "example",
+  "title": "Conduct of Mediation",
+  "description": "Illustrative example for: procedure.conduct_of_mediation",
+  "content": {
+    "scenario": "A consumer, Rohan, files a complaint against a company, XYZ Ltd., for defective goods. The District Commission refers the matter to mediation under sub-section (3) of section 79. The mediator, appointed by the Commission, conducts the mediation and prepares a quarterly report to be submitted to the District Commission.",
+    "outcome": "The mediation is conducted under the provisions of sub-section (3) of section 79, and the mediator submits a quarterly report to the District Commission as required. The consumer, Rohan, and the company, XYZ Ltd., reach a settlement, and the complaint is disposed of."
+  },
+  "derived_from": [
+    "procedure.conduct_of_mediation"
+  ],
+  "related_concepts": [
+    "procedure.conduct_of_mediation"
+  ],
+  "search": {
+    "keywords": [
+      "mediation",
+      "consumer dispute",
+      "District Commission",
+      "quarterly report",
+      "section 79",
+      "Consumer Protection Act"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the procedure for conducting mediation under the Consumer Protection Act?",
+      "How is mediation conducted in consumer disputes?",
+      "What is the role of the District Commission in mediation?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

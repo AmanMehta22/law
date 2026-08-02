@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.three_years",
+  "concept_type": "example",
+  "title": "Three Year Timeline for Compounding Offences",
+  "description": "Illustrative example for: timeline.three_years",
+  "content": {
+    "scenario": "Rahul, a consumer, had committed an offence under the Consumer Protection Act, 2019, and it was compounded. However, within three years from the date of compounding, Rahul committed the same offence again. The Central Authority is now considering whether to treat this as a first offence or a subsequent offence for the purpose of determining the period of prohibition from making endorsements.",
+    "outcome": "According to the explanation under sub-section (3) of Section 96, since the second offence was committed within three years from the date of compounding of the first offence, it shall not be deemed to be a first offence. Therefore, the Central Authority may prohibit Rahul from making endorsements for a period that may extend to three years."
+  },
+  "derived_from": [
+    "timeline.three_years"
+  ],
+  "related_concepts": [
+    "timeline.three_years"
+  ],
+  "search": {
+    "keywords": [
+      "Consumer Protection Act",
+      "compounding offences",
+      "three year timeline",
+      "endorsement prohibition",
+      "Central Authority",
+      "subsequent offence"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the timeline for compounding offences under the Consumer Protection Act?",
+      "How does the Central Authority determine the period of prohibition for subsequent offences?",
+      "Can a subsequent offence be treated as a first offence under certain circumstances?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.district_commission_state_commission_national_commission_supreme_court",
+  "concept_type": "example",
+  "title": "Appeals from Consumer Commissions",
+  "description": "Illustrative example for: jurisdiction.district_commission_state_commission_national_commission_supreme_court_no_pecuni",
+  "content": {
+    "scenario": "A consumer files a complaint before the District Commission, which is dismissed. The consumer appeals to the State Commission, which also dismisses the appeal. The consumer then approaches the National Commission, which allows the appeal and directs the company to refund the amount paid by the consumer.",
+    "outcome": "The company appeals to the Supreme Court against the order of the National Commission, both on facts and on law. The Supreme Court hears the appeal and passes an order, which is final and binding on the parties."
+  },
+  "derived_from": [
+    "jurisdiction.district_commission_state_commission_national_commission_supreme_court_no_pecuni"
+  ],
+  "related_concepts": [
+    "jurisdiction.district_commission_state_commission_national_commission_supreme_court_no_pecuni"
+  ],
+  "search": {
+    "keywords": [
+      "appeals",
+      "Consumer Commissions",
+      "Supreme Court",
+      "jurisdiction",
+      "facts",
+      "law"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the hierarchy of appeals from Consumer Commissions?",
+      "What are the grounds for appealing to the Supreme Court?",
+      "What is the effect of an order passed by the Supreme Court in a consumer appeal?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

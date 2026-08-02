@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.the_president_and_members_shall_hold_office_for_a_term_not_e",
+  "concept_type": "example",
+  "title": "Term of Office for President and Members of National Commission",
+  "description": "Illustrative example for: exception.the_president_and_members_shall_hold_office_for_a_term_not_e",
+  "content": {
+    "scenario": "The Central Government is framing rules for the National Commission and wants to determine the term of office for its President and members.",
+    "outcome": "The President and members of the National Commission shall hold office for a term not exceeding five years from the date on which they enter upon their office and shall be eligible for re-appointment, subject to age limits of seventy years for the President and sixty-seven years for other members."
+  },
+  "derived_from": [
+    "exception.the_president_and_members_shall_hold_office_for_a_term_not_e"
+  ],
+  "related_concepts": [
+    "exception.the_president_and_members_shall_hold_office_for_a_term_not_e"
+  ],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "term of office",
+      "President",
+      "members",
+      "re-appointment",
+      "age limit"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the term of office for the President of the National Commission?",
+      "Can members of the National Commission be re-appointed?",
+      "What are the age limits for the President and members?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

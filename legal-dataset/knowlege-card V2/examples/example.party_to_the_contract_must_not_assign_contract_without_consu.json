@@ -1,0 +1,40 @@
+{
+  "concept_id": "example.party_to_the_contract_must_not_assign_contract_without_consu",
+  "concept_type": "example",
+  "title": "Assignment of Contract",
+  "description": "Illustrative example for: obligation.party_to_the_contract_must_not_assign_contract_without_consu",
+  "content": {
+    "scenario": "A consumer, Kumar, enters into a contract with a service provider, DEF Services, for a specific service. DEF Services assigns the contract to another service provider, GHI Services, without Kumar's consent.",
+    "outcome": "The assignment of the contract by DEF Services to GHI Services without Kumar's consent is not valid as it is an unfair contract term."
+  },
+  "derived_from": [
+    "obligation.party_to_the_contract_must_not_assign_contract_without_consu"
+  ],
+  "related_concepts": [
+    "obligation.party_to_the_contract_must_not_assign_contract_without_consu"
+  ],
+  "search": {
+    "keywords": [
+      "assignment of contract",
+      "consumer consent",
+      "unfair contract",
+      "service provider"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can a service provider assign a contract without consumer consent?",
+      "What are the conditions for assigning a contract?",
+      "Is assigning a contract without consent an unfair contract term?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

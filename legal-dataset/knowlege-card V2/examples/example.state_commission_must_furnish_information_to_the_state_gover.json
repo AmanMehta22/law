@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.state_commission_must_furnish_information_to_the_state_gover",
+  "concept_type": "example",
+  "title": "State Commission's Obligation to Furnish Information to the State Government",
+  "description": "Illustrative example for: obligation.state_commission_must_furnish_information_to_the_state_gover",
+  "content": {
+    "scenario": "The State Government requests the State Commission to provide information on consumer disputes handled by the Commission. The Commission must respond to the request.",
+    "outcome": "The State Commission must furnish information to the State Government as per sub-section (5) of section 70 of the Consumer Protection Act, 2019, in the form prescribed under the rules."
+  },
+  "derived_from": [
+    "obligation.state_commission_must_furnish_information_to_the_state_gover"
+  ],
+  "related_concepts": [
+    "obligation.state_commission_must_furnish_information_to_the_state_gover"
+  ],
+  "search": {
+    "keywords": [
+      "State Commission",
+      "State Government",
+      "information",
+      "section 70",
+      "rules"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What information must the State Commission furnish to the State Government?",
+      "In what form must the State Commission provide information to the State Government?",
+      "Can the State Commission refuse to furnish information to the State Government?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.the_mention_of_particular_matters_in_sub_section_2_shall_not",
+  "concept_type": "example",
+  "title": "Effect of Repeal on Consumer Protection Laws",
+  "description": "Illustrative example for: exception.the_mention_of_particular_matters_in_sub_section_2_shall_not",
+  "content": {
+    "scenario": "The government repeals a consumer protection law, but the repeal does not affect the general application of section 6 of the General Clauses Act, 1897. A consumer, Rohan, files a complaint against a company for violating the repealed law, arguing that the repeal does not prejudice his rights.",
+    "outcome": "The court rules that the repeal of the consumer protection law does not affect the general application of section 6 of the General Clauses Act, 1897, and Rohan's complaint is heard on its merits. The court may order the company to compensate Rohan for any loss or injury suffered due to the violation of the repealed law."
+  },
+  "derived_from": [
+    "exception.the_mention_of_particular_matters_in_sub_section_2_shall_not"
+  ],
+  "related_concepts": [
+    "exception.the_mention_of_particular_matters_in_sub_section_2_shall_not"
+  ],
+  "search": {
+    "keywords": [
+      "repeal",
+      "consumer protection laws",
+      "General Clauses Act",
+      "section 6",
+      "effect of repeal"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What happens to consumer protection laws when they are repealed?",
+      "Does the repeal of a law affect the rights of consumers?",
+      "How does the General Clauses Act apply to consumer protection laws?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

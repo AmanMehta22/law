@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.district_commission_shall_have_the_same_powers_as_are_vested",
+  "concept_type": "example",
+  "title": "District Commission Powers",
+  "description": "Illustrative example for: obligation.district_commission_shall_have_the_same_powers_as_are_vested",
+  "content": {
+    "scenario": "Rahul, a consumer, files a complaint against a company in the District Commission, Delhi, alleging that the company sold him a defective product. The company denies any wrongdoing and refuses to produce relevant documents. The District Commission wants to examine a key witness who is not willing to attend the hearing.",
+    "outcome": "The District Commission can summon and enforce the attendance of the witness, examine the witness on oath, and require the production of relevant documents as evidence, just like a civil court would, as per Section 38(9) of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.district_commission_shall_have_the_same_powers_as_are_vested"
+  ],
+  "related_concepts": [
+    "obligation.district_commission_shall_have_the_same_powers_as_are_vested"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "civil court powers",
+      "summoning witness",
+      "examining witness on oath",
+      "production of documents",
+      "Consumer Protection Act 2019"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What powers does the District Commission have?",
+      "Can the District Commission summon a witness?",
+      "How does the District Commission examine evidence?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.central_government_shall_establish_a_central_consumer_protec",
+  "concept_type": "example",
+  "title": "Establishment of Central Consumer Protection Authority",
+  "description": "Illustrative example for: obligation.central_government_shall_establish_a_central_consumer_protec",
+  "content": {
+    "scenario": "The Central Government wants to regulate unfair trade practices and protect consumer rights. It needs to set up a dedicated authority to oversee these matters.",
+    "outcome": "The Central Government shall establish a Central Consumer Protection Authority by notification, with effect from a specified date. This Authority will regulate matters relating to violation of consumer rights, unfair trade practices, and false or misleading advertisements, and promote, protect, and enforce consumer rights as a class."
+  },
+  "derived_from": [
+    "obligation.central_government_shall_establish_a_central_consumer_protec"
+  ],
+  "related_concepts": [
+    "obligation.central_government_shall_establish_a_central_consumer_protec"
+  ],
+  "search": {
+    "keywords": [
+      "Central Government",
+      "Central Consumer Protection Authority",
+      "consumer rights",
+      "unfair trade practices",
+      "regulation",
+      "notification"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the role of the Central Consumer Protection Authority?",
+      "How will the Central Government establish the Central Consumer Protection Authority?",
+      "What are the powers of the Central Consumer Protection Authority?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

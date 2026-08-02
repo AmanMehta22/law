@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.district_collector",
+  "concept_type": "example",
+  "title": "District Collector's Role and Powers",
+  "description": "Illustrative example for: authority.district_collector",
+  "content": {
+    "scenario": "A consumer files a complaint with the District Collector against a local business for unfair trade practices. The District Collector, within his jurisdiction, inquires into or investigates the complaint and submits a report to the Central Authority.",
+    "outcome": "The District Collector, with the power to inquire into or investigate complaints, calls upon the business to produce documents or records, and may enter and search premises to gather evidence. The District Collector submits a report to the Central Authority, which may take further action against the business."
+  },
+  "derived_from": [
+    "authority.district_collector"
+  ],
+  "related_concepts": [
+    "authority.district_collector"
+  ],
+  "search": {
+    "keywords": [
+      "District Collector",
+      "investigation",
+      "unfair trade practices",
+      "consumer complaint",
+      "jurisdiction"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the powers of a District Collector under the Consumer Protection Act?",
+      "Can a District Collector investigate a consumer complaint independently?",
+      "What is the role of a District Collector in consumer protection?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

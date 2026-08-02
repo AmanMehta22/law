@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.investigation",
+  "concept_type": "example",
+  "title": "Investigation by the Central Authority",
+  "description": "Illustrative example for: procedure.investigation",
+  "content": {
+    "scenario": "A consumer, Rohan, files a complaint with the District Commission against a company, XYZ Ltd, for violating his consumer rights by selling a hazardous product. The Central Authority conducts an investigation to determine if there is a prima facie case of violation of consumer rights or unfair trade practices.",
+    "outcome": "The Central Authority may conduct an investigation to determine if there is a prima facie case of violation of consumer rights or unfair trade practices, and may call upon a person referred to in sub-section (1) and also direct him to produce any document or record in his possession."
+  },
+  "derived_from": [
+    "procedure.investigation"
+  ],
+  "related_concepts": [
+    "procedure.investigation"
+  ],
+  "search": {
+    "keywords": [
+      "consumer rights",
+      "Central Authority",
+      "investigation",
+      "hazardous product",
+      "unfair trade practices"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the role of the Central Authority in investigating violations of consumer rights or unfair trade practices?",
+      "How does the Central Authority conduct an investigation?",
+      "What are the powers of the Central Authority in investigating violations of consumer rights or unfair trade practices?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

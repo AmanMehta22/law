@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.seven_days",
+  "concept_type": "example",
+  "title": "Settlement Report Order",
+  "description": "Illustrative example for: timeline.seven_days",
+  "content": {
+    "scenario": "Rahul filed a complaint against a company with the District Commission. After negotiations, the parties reached a settlement, and the Commission received the settlement report. Within how many days must the District Commission pass a suitable order recording the settlement?",
+    "outcome": "The District Commission shall pass a suitable order recording the settlement within seven days of the receipt of the settlement report."
+  },
+  "derived_from": [
+    "timeline.seven_days"
+  ],
+  "related_concepts": [
+    "timeline.seven_days"
+  ],
+  "search": {
+    "keywords": [
+      "settlement report",
+      "District Commission",
+      "consumer dispute",
+      "seven days",
+      "order",
+      "recording settlement"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the timeline for the District Commission to pass an order after receiving a settlement report?",
+      "How long does the District Commission have to record a settlement?",
+      "What is the deadline for the District Commission to pass a suitable order after receiving a settlement report?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

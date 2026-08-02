@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.commissioner_of_regional_office",
+  "concept_type": "example",
+  "title": "Commissioner of Regional Office",
+  "description": "Illustrative example for: authority.commissioner_of_regional_office",
+  "content": {
+    "scenario": "A consumer in Mumbai files a complaint with the Commissioner of Regional Office regarding a false advertisement by a company, which is prejudicial to the interests of consumers as a class.",
+    "outcome": "The Commissioner of Regional Office receives the complaint and takes action according to the powers vested in them, relating to violation of consumer rights or unfair trade practices or false or misleading advertisements."
+  },
+  "derived_from": [
+    "authority.commissioner_of_regional_office"
+  ],
+  "related_concepts": [
+    "authority.commissioner_of_regional_office"
+  ],
+  "search": {
+    "keywords": [
+      "Commissioner of Regional Office",
+      "consumer rights",
+      "unfair trade practices",
+      "false advertisements",
+      "consumer protection"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How to file a complaint with the Commissioner of Regional Office?",
+      "What are the powers of the Commissioner of Regional Office?",
+      "Can the Commissioner of Regional Office handle complaints related to false advertisements?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

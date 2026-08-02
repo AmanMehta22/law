@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.two_years",
+  "concept_type": "example",
+  "title": "Two-Year Limitation Period for Filing Complaints",
+  "description": "Illustrative example for: timeline.two_years",
+  "content": {
+    "scenario": "Rahul purchased a defective smartphone from an online retailer on January 1, 2022. He discovered the defect on January 15, 2022, but did not file a complaint until January 16, 2024. The retailer argues that the complaint is time-barred.",
+    "outcome": "The District Commission will not admit Rahul's complaint because it was filed more than two years after the cause of action arose, i.e., the date he discovered the defect. However, if the Central Government has made an order under Section 106 to remove difficulties in giving effect to the provisions of the Act, the complaint may still be admitted."
+  },
+  "derived_from": [
+    "timeline.two_years"
+  ],
+  "related_concepts": [
+    "timeline.two_years"
+  ],
+  "search": {
+    "keywords": [
+      "limitation period",
+      "two years",
+      "cause of action",
+      "complaint",
+      "District Commission",
+      "Section 69"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the time limit for filing a complaint under the Consumer Protection Act?",
+      "Can a complaint be filed after two years from the date of purchase?",
+      "What are the exceptions to the two-year limitation period?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

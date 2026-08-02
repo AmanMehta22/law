@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.the_chief_commissioner_may_delegate_such_powers_to_any_commi",
+  "concept_type": "example",
+  "title": "Delegation of Powers by the Chief Commissioner",
+  "description": "Illustrative example for: exception.the_chief_commissioner_may_delegate_such_powers_to_any_commi",
+  "content": {
+    "scenario": "The Chief Commissioner of the Central Authority delegates his powers of general superintendence to a Commissioner, allowing for more efficient management of administrative matters.",
+    "outcome": "The Chief Commissioner may delegate his powers relating to administrative matters of the Central Authority to any Commissioner or other officer, as he may think fit, enabling more effective administration of the Central Authority."
+  },
+  "derived_from": [
+    "exception.the_chief_commissioner_may_delegate_such_powers_to_any_commi"
+  ],
+  "related_concepts": [
+    "exception.the_chief_commissioner_may_delegate_such_powers_to_any_commi"
+  ],
+  "search": {
+    "keywords": [
+      "Chief Commissioner",
+      "delegation of powers",
+      "Central Authority",
+      "Commissioner",
+      "administrative matters"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can the Chief Commissioner delegate his powers?",
+      "To whom can the Chief Commissioner delegate his powers?",
+      "What powers can be delegated?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

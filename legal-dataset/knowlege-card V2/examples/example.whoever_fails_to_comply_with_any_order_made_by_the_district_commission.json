@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.whoever_fails_to_comply_with_any_order_made_by_the_district_commission",
+  "concept_type": "example",
+  "title": "Non-Compliance with Consumer Commission Orders",
+  "description": "Illustrative example for: offence.whoever_fails_to_comply_with_any_order_made_by_the_district_commission_or_the_st",
+  "content": {
+    "scenario": "A consumer in Chennai files a complaint against a company with the District Consumer Commission, which orders the company to refund the consumer's money. The company fails to comply with the order, claiming that it is unfair.",
+    "outcome": "The company may be punished with imprisonment for a term of one month to three years, or a fine of twenty-five thousand rupees to one lakh rupees, or both, as per Section 72(1) of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "offence.whoever_fails_to_comply_with_any_order_made_by_the_district_commission_or_the_st"
+  ],
+  "related_concepts": [
+    "offence.whoever_fails_to_comply_with_any_order_made_by_the_district_commission_or_the_st"
+  ],
+  "search": {
+    "keywords": [
+      "Consumer Protection Act",
+      "Consumer Commission",
+      "non-compliance",
+      "order",
+      "Section 72(1)"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the punishment for non-compliance with Consumer Commission orders?",
+      "Can a company be held liable for failing to comply with a Consumer Commission order?",
+      "What are the consequences of violating Section 72(1) of the Consumer Protection Act?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

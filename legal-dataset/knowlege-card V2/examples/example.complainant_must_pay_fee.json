@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.complainant_must_pay_fee",
+  "concept_type": "example",
+  "title": "Complainant's Obligation to Pay Fee",
+  "description": "Illustrative example for: obligation.complainant_must_pay_fee",
+  "content": {
+    "scenario": "A consumer wants to file a complaint with the District Commission but is unsure about the fee payable for filing the complaint.",
+    "outcome": "The complainant must pay the prescribed fee in the manner specified, which may include electronic form, to file the complaint with the District Commission."
+  },
+  "derived_from": [
+    "obligation.complainant_must_pay_fee"
+  ],
+  "related_concepts": [
+    "obligation.complainant_must_pay_fee"
+  ],
+  "search": {
+    "keywords": [
+      "complainant",
+      "fee",
+      "payment",
+      "filing complaint",
+      "consumer protection"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the fee for filing a complaint?",
+      "How can I pay the fee for filing a complaint?",
+      "Is the fee for filing a complaint refundable?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

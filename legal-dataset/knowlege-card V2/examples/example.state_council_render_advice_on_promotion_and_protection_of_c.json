@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.state_council_render_advice_on_promotion_and_protection_of_c",
+  "concept_type": "example",
+  "title": "State Council Advice on Consumer Rights",
+  "description": "Illustrative example for: obligation.state_council_render_advice_on_promotion_and_protection_of_c",
+  "content": {
+    "scenario": "The State Council of Maharashtra receives a complaint from a consumer regarding a defective product sold by a local retailer. The consumer seeks advice on how to proceed with the complaint.",
+    "outcome": "The State Council shall render advice to the consumer on the promotion and protection of their rights under the Consumer Protection Act, 2019, within the state of Maharashtra."
+  },
+  "derived_from": [
+    "obligation.state_council_render_advice_on_promotion_and_protection_of_c"
+  ],
+  "related_concepts": [
+    "obligation.state_council_render_advice_on_promotion_and_protection_of_c"
+  ],
+  "search": {
+    "keywords": [
+      "State Council",
+      "consumer rights",
+      "advice",
+      "Maharashtra",
+      "defective product",
+      "consumer complaint"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the role of the State Council in consumer protection?",
+      "How can I get advice on consumer rights in Maharashtra?",
+      "What are the responsibilities of the State Council under the Consumer Protection Act, 2019?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

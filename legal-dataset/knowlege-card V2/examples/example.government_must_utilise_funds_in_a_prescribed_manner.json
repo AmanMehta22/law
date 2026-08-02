@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.government_must_utilise_funds_in_a_prescribed_manner",
+  "concept_type": "example",
+  "title": "Government's Obligation to Utilise Funds in a Prescribed Manner",
+  "description": "Illustrative example for: obligation.government_must_utilise_funds_in_a_prescribed_manner",
+  "content": {
+    "scenario": "The Government of India has collected funds under the Consumer Protection Act, 2019, for the purpose of consumer welfare. The Government must utilise these funds in a manner prescribed by the Act.",
+    "outcome": "The Government shall utilise the funds collected under the Consumer Protection Act, 2019, in such manner as may be prescribed, as per the provisions of Section 39(2) of the Act."
+  },
+  "derived_from": [
+    "obligation.government_must_utilise_funds_in_a_prescribed_manner"
+  ],
+  "related_concepts": [
+    "obligation.government_must_utilise_funds_in_a_prescribed_manner"
+  ],
+  "search": {
+    "keywords": [
+      "Consumer Protection Act",
+      "Government",
+      "funds",
+      "utilisation",
+      "prescription",
+      "consumer welfare"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How must the Government utilise funds collected under the Consumer Protection Act?",
+      "What are the rules for utilising consumer protection funds?",
+      "In what manner can the Government use the funds collected for consumer welfare?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

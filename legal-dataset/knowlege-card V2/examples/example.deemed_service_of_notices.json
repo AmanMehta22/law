@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.deemed_service_of_notices",
+  "concept_type": "example",
+  "title": "Deemed Service of Notices",
+  "description": "Illustrative example for: procedure.deemed_service_of_notices",
+  "content": {
+    "scenario": "A consumer, Kumar, files a complaint against a company, DEF Ltd., for defective goods. The District Commission serves a notice on the company at its business address and on Kumar at his residential address. The notice is deemed to be sufficiently served, and the company and Kumar are required to respond to the notice.",
+    "outcome": "The notice is deemed to be sufficiently served on the company and Kumar, as it is addressed to the place where the company carries on its business and where Kumar actually and voluntarily resides. The company and Kumar are required to respond to the notice, and the District Commission proceeds with the complaint."
+  },
+  "derived_from": [
+    "procedure.deemed_service_of_notices"
+  ],
+  "related_concepts": [
+    "procedure.deemed_service_of_notices"
+  ],
+  "search": {
+    "keywords": [
+      "deemed service",
+      "notices",
+      "District Commission",
+      "consumer complaint",
+      "business address",
+      "residential address"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is deemed service of notices under the Consumer Protection Act?",
+      "How is a notice served on a company and a consumer?",
+      "What is the effect of deemed service of notices on the proceedings before the District Commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

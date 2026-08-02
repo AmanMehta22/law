@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.the_other_member_shall_give_his_opinion_on_such_point_or_poi",
+  "concept_type": "example",
+  "title": "Opinion of Majority in District Commission Proceedings",
+  "description": "Illustrative example for: exception.the_other_member_shall_give_his_opinion_on_such_point_or_poi",
+  "content": {
+    "scenario": "The President and a member of the District Commission differ on a point in a consumer case. They refer the point to another member, who gives his opinion within one month. The opinion of the majority becomes the order of the District Commission.",
+    "outcome": "The District Commission makes a decision based on the opinion of the majority, which may include an order to the company to compensate the consumer or provide other relief. The consumer may appeal the decision if they are not satisfied with the outcome."
+  },
+  "derived_from": [
+    "exception.the_other_member_shall_give_his_opinion_on_such_point_or_poi"
+  ],
+  "related_concepts": [
+    "exception.the_other_member_shall_give_his_opinion_on_such_point_or_poi"
+  ],
+  "search": {
+    "keywords": [
+      "opinion of majority",
+      "District Commission",
+      "consumer case",
+      "President and member",
+      "reference to another member"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What happens when the President and a member of the District Commission disagree on a point?",
+      "How does the District Commission make a decision in such cases?",
+      "Can the consumer appeal the decision of the District Commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

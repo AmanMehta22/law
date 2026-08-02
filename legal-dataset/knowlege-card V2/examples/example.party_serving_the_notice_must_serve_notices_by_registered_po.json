@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.party_serving_the_notice_must_serve_notices_by_registered_po",
+  "concept_type": "example",
+  "title": "Notice Serving Obligations",
+  "description": "Illustrative example for: obligation.party_serving_the_notice_must_serve_notices_by_registered_po",
+  "content": {
+    "scenario": "A consumer, Rohan, files a complaint against a company, XYZ Ltd., for defective goods. The District Commission requires XYZ Ltd. to serve a notice to Rohan. XYZ Ltd. serves the notice via ordinary post.",
+    "outcome": "The notice served by XYZ Ltd. is not valid as it was not served by registered post, speed post, courier service, or electronic means as required by the Act."
+  },
+  "derived_from": [
+    "obligation.party_serving_the_notice_must_serve_notices_by_registered_po"
+  ],
+  "related_concepts": [
+    "obligation.party_serving_the_notice_must_serve_notices_by_registered_po"
+  ],
+  "search": {
+    "keywords": [
+      "notice",
+      "registered post",
+      "speed post",
+      "courier service",
+      "electronic means",
+      "consumer protection"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How to serve a notice under the Consumer Protection Act?",
+      "What are the valid modes of serving a notice?",
+      "Can a notice be served via ordinary post?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

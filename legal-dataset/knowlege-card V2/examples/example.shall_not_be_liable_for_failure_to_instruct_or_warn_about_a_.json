@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.shall_not_be_liable_for_failure_to_instruct_or_warn_about_a_",
+  "concept_type": "example",
+  "title": "No Liability for Obvious Dangers",
+  "description": "Illustrative example for: exception.shall_not_be_liable_for_failure_to_instruct_or_warn_about_a_",
+  "content": {
+    "scenario": "Rahul, a consumer, purchased a sharp kitchen knife from a manufacturer. While using the knife, he cut his finger. The manufacturer had not provided any warning about the sharpness of the knife. Rahul claims that the manufacturer is liable for his injury.",
+    "outcome": "The manufacturer shall not be liable for failure to instruct or warn about the danger of the sharp knife, as it is obvious and commonly known to the user or consumer that a sharp knife can cause cuts."
+  },
+  "derived_from": [
+    "exception.shall_not_be_liable_for_failure_to_instruct_or_warn_about_a_"
+  ],
+  "related_concepts": [
+    "exception.shall_not_be_liable_for_failure_to_instruct_or_warn_about_a_"
+  ],
+  "search": {
+    "keywords": [
+      "product liability",
+      "obvious danger",
+      "consumer protection",
+      "warning labels",
+      "sharp objects",
+      "kitchen appliances"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What if a product manufacturer doesn't warn about obvious dangers?",
+      "Can a consumer sue for injuries from obvious product dangers?",
+      "Is a manufacturer liable for not warning about sharp objects?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.the_central_government_may_prescribe_a_different_value_as_it",
+  "concept_type": "example",
+  "title": "Prescription of Different Value for National Commission's Jurisdiction",
+  "description": "Illustrative example for: exception.the_central_government_may_prescribe_a_different_value_as_it",
+  "content": {
+    "scenario": "The Central Government, deeming it necessary, prescribes a new value of rupees five crore for the National Commission's jurisdiction over complaints, replacing the existing value of rupees ten crore.",
+    "outcome": "The Central Government may prescribe a different value, in this case rupees five crore, as it deems fit, allowing the National Commission to have jurisdiction over complaints where the value of goods or services exceeds the newly prescribed amount."
+  },
+  "derived_from": [
+    "exception.the_central_government_may_prescribe_a_different_value_as_it"
+  ],
+  "related_concepts": [
+    "exception.the_central_government_may_prescribe_a_different_value_as_it"
+  ],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "jurisdiction",
+      "value of goods or services",
+      "Central Government",
+      "prescription"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can the Central Government change the value for the National Commission's jurisdiction?",
+      "What is the current value for the National Commission's jurisdiction?",
+      "How can the value be changed?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

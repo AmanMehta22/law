@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.notice_or_process_records_service_records",
+  "concept_type": "example",
+  "title": "Product Liability of a Seller",
+  "description": "Illustrative example for: evidence.notice_or_process_records_service_records",
+  "content": {
+    "scenario": "A customer, Priya, purchased a defective product from a seller, who is not the manufacturer. The product caused harm to her, and she wants to file a complaint against the seller.",
+    "outcome": "The seller may be liable for the harm caused if they exercised substantial control over the product, altered or modified it, made an express warranty, or failed to exercise reasonable care in assembling, inspecting, or maintaining the product, as per Section 86 of the Consumer Protection Act, 2019. The seller may be required to produce notice or process records and service records to prove their role in the harm caused."
+  },
+  "derived_from": [
+    "evidence.notice_or_process_records_service_records"
+  ],
+  "related_concepts": [
+    "evidence.notice_or_process_records_service_records"
+  ],
+  "search": {
+    "keywords": [
+      "product liability",
+      "seller liability",
+      "Section 86",
+      "CPA 2019",
+      "defective product",
+      "consumer protection"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can a seller be held liable for a defective product?",
+      "What are the grounds for seller liability under the Consumer Protection Act?",
+      "What documents may be required to prove seller liability?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

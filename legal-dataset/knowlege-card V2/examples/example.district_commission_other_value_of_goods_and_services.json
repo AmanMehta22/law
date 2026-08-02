@@ -1,0 +1,40 @@
+{
+  "concept_id": "example.district_commission_other_value_of_goods_and_services",
+  "concept_type": "example",
+  "title": "District Commission's Jurisdiction",
+  "description": "Illustrative example for: jurisdiction.district_commission_other_value_of_goods_and_services",
+  "content": {
+    "scenario": "A consumer purchases goods worth Rs. 10 lakhs from a company and files a complaint with the District Commission. Does the District Commission have jurisdiction to hear the complaint?",
+    "outcome": "The District Commission has jurisdiction to hear complaints where the value of goods and services is as prescribed, which includes the value of the goods purchased by the consumer in this case."
+  },
+  "derived_from": [
+    "jurisdiction.district_commission_other_value_of_goods_and_services"
+  ],
+  "related_concepts": [
+    "jurisdiction.district_commission_other_value_of_goods_and_services"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "jurisdiction",
+      "value of goods and services",
+      "complaint"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the jurisdiction of the District Commission?",
+      "Can the District Commission hear complaints of any value?",
+      "How is the value of goods and services determined for jurisdiction purposes?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

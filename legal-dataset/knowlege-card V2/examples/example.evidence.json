@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.evidence",
+  "concept_type": "example",
+  "title": "Evidence in Consumer Disputes",
+  "description": "Illustrative example for: evidence.evidence",
+  "content": {
+    "scenario": "Rahul, a consumer, files a complaint against a company for selling him a defective product. The company denies the allegations and fails to respond within the given time frame. The District Commission proceeds to settle the dispute based on the evidence provided by Rahul.",
+    "outcome": "The District Commission settles the consumer dispute ex parte on the basis of evidence brought to its notice by Rahul, as the opposite party failed to represent their case within the given time frame."
+  },
+  "derived_from": [
+    "evidence.evidence"
+  ],
+  "related_concepts": [
+    "evidence.evidence"
+  ],
+  "search": {
+    "keywords": [
+      "consumer dispute",
+      "evidence",
+      "District Commission",
+      "ex parte",
+      "settlement"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What happens if the opposite party fails to respond in a consumer dispute?",
+      "How does the District Commission settle a consumer dispute?",
+      "What is the role of evidence in a consumer dispute?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

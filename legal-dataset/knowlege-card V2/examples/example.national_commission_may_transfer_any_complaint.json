@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.national_commission_may_transfer_any_complaint",
+  "concept_type": "example",
+  "title": "National Commission's Power to Transfer Complaints",
+  "description": "Illustrative example for: obligation.national_commission_may_transfer_any_complaint",
+  "content": {
+    "scenario": "A consumer files a complaint with the District Commission of one state, but the respondent is located in another state. The consumer applies to the National Commission to transfer the complaint to the District Commission of the respondent's state.",
+    "outcome": "The National Commission may transfer the complaint to the District Commission of the respondent's state, if it is in the interest of justice, as per Section 62 of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.national_commission_may_transfer_any_complaint"
+  ],
+  "related_concepts": [
+    "obligation.national_commission_may_transfer_any_complaint"
+  ],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "complaint transfer",
+      "District Commission",
+      "interest of justice",
+      "consumer protection"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can the National Commission transfer complaints between states?",
+      "What are the conditions for transferring a complaint?",
+      "How does the National Commission decide whether to transfer a complaint?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

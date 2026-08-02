@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.one_month",
+  "concept_type": "example",
+  "title": "Reference to Another Member",
+  "description": "Illustrative example for: timeline.one_month",
+  "content": {
+    "scenario": "A District Commission is hearing a case, and the President and a member differ on a point. They refer the point to another member for hearing.",
+    "outcome": "The other member shall give their opinion on the referred point within a period of one month from the date of such reference."
+  },
+  "derived_from": [
+    "timeline.one_month"
+  ],
+  "related_concepts": [
+    "timeline.one_month"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "reference",
+      "one month",
+      "differing opinion",
+      "President"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What happens when members of a District Commission differ in opinion?",
+      "How long does the other member have to give their opinion?",
+      "Can the reference be made to more than one member?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.district_commission_may_pass_interim_order",
+  "concept_type": "example",
+  "title": "District Commission's Interim Orders",
+  "description": "Illustrative example for: obligation.district_commission_may_pass_interim_order",
+  "content": {
+    "scenario": "A consumer files a complaint with the District Commission against a company for unfair trade practices. The consumer requests an interim order to stop the company from continuing the unfair practices during the pendency of the complaint.",
+    "outcome": "The District Commission, if it appears necessary, passes an interim order to restrain the company from continuing the unfair trade practices. The order is passed as is just and proper in the facts and circumstances of the case."
+  },
+  "derived_from": [
+    "obligation.district_commission_may_pass_interim_order"
+  ],
+  "related_concepts": [
+    "obligation.district_commission_may_pass_interim_order"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "interim order",
+      "unfair trade practices",
+      "consumer complaint",
+      "pendency of complaint",
+      "restraining order"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can the District Commission pass an interim order in a consumer complaint?",
+      "What are the conditions for passing an interim order?",
+      "What is the effect of an interim order on the parties involved?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

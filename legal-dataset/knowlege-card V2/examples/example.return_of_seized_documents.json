@@ -1,0 +1,40 @@
+{
+  "concept_id": "example.return_of_seized_documents",
+  "concept_type": "example",
+  "title": "Return of Seized Documents",
+  "description": "Illustrative example for: procedure.return_of_seized_documents",
+  "content": {
+    "scenario": "During an investigation into unfair trade practices, the authorities seize certain documents from a company. The company wants to know when they can expect the documents to be returned.",
+    "outcome": "The seized documents shall be returned to the company within a period of twenty days of the date of seizure, after copies thereof or extracts therefrom certified by the company have been taken."
+  },
+  "derived_from": [
+    "procedure.return_of_seized_documents"
+  ],
+  "related_concepts": [
+    "procedure.return_of_seized_documents"
+  ],
+  "search": {
+    "keywords": [
+      "seized documents",
+      "unfair trade practices",
+      "investigation",
+      "return of documents"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "When will the seized documents be returned?",
+      "What is the procedure for returning seized documents?",
+      "How long does it take to return seized documents?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

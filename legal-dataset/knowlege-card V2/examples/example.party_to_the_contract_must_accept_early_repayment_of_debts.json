@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.party_to_the_contract_must_accept_early_repayment_of_debts",
+  "concept_type": "example",
+  "title": "Early Repayment of Debts",
+  "description": "Illustrative example for: obligation.party_to_the_contract_must_accept_early_repayment_of_debts",
+  "content": {
+    "scenario": "A consumer, Priya, takes a loan from a bank, ABC Bank, with a condition that she cannot repay the loan before the end of the loan period without paying a penalty. However, Priya wants to repay the loan early and is willing to pay the applicable penalty.",
+    "outcome": "ABC Bank must accept the early repayment of the debt from Priya as refusing to do so would be an unfair contract term."
+  },
+  "derived_from": [
+    "obligation.party_to_the_contract_must_accept_early_repayment_of_debts"
+  ],
+  "related_concepts": [
+    "obligation.party_to_the_contract_must_accept_early_repayment_of_debts"
+  ],
+  "search": {
+    "keywords": [
+      "early repayment",
+      "debt",
+      "penalty",
+      "unfair contract",
+      "consumer protection"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can a consumer repay a debt early?",
+      "What are the conditions for early repayment of a debt?",
+      "Is refusing early repayment an unfair contract term?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.evidence_of_manufacturing_process_quality_control_records",
+  "concept_type": "example",
+  "title": "Evidence of Manufacturing Process and Quality Control Records",
+  "description": "Illustrative example for: evidence.evidence_of_manufacturing_process_quality_control_records",
+  "content": {
+    "scenario": "A consumer, Priya, purchases a product that turns out to be defective due to a manufacturing defect. She files a complaint against the manufacturer, providing evidence of the manufacturing process and quality control records to prove the defect.",
+    "outcome": "The court holds the manufacturer liable for the defect, as the evidence provided by Priya proves that the product contains a manufacturing defect, and the manufacturer fails to establish that the product was not defective at the time of sale."
+  },
+  "derived_from": [
+    "evidence.evidence_of_manufacturing_process_quality_control_records"
+  ],
+  "related_concepts": [
+    "evidence.evidence_of_manufacturing_process_quality_control_records"
+  ],
+  "search": {
+    "keywords": [
+      "product liability",
+      "manufacturing defect",
+      "quality control records",
+      "evidence",
+      "consumer protection"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What evidence is required to prove a manufacturing defect?",
+      "How can a consumer prove a product liability claim?",
+      "What is the role of quality control records in a product liability case?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

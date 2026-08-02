@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.affidavits",
+  "concept_type": "example",
+  "title": "Receiving Evidence on Affidavits",
+  "description": "Illustrative example for: evidence.affidavits",
+  "content": {
+    "scenario": "A consumer files a complaint against a company for unfair trade practices and submits affidavits from multiple witnesses in support of their claim. The company disputes the allegations and requests that the witnesses be examined on oath.",
+    "outcome": "The District Commission may receive the affidavits as evidence under Section 38(9) of the Consumer Protection Act, 2019, and may also examine the witnesses on oath. The Commission has the same powers as a civil court in receiving evidence on affidavits and examining witnesses."
+  },
+  "derived_from": [
+    "evidence.affidavits"
+  ],
+  "related_concepts": [
+    "evidence.affidavits"
+  ],
+  "search": {
+    "keywords": [
+      "affidavits",
+      "evidence",
+      "District Commission",
+      "witnesses",
+      "oath"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can a consumer submit affidavits as evidence in a complaint?",
+      "How does the District Commission receive evidence on affidavits?",
+      "What are the powers of the District Commission in examining witnesses?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

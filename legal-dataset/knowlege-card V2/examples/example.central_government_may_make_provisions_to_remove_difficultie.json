@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.central_government_may_make_provisions_to_remove_difficultie",
+  "concept_type": "example",
+  "title": "Central Government's Power to Make Provisions to Remove Difficulties",
+  "description": "Illustrative example for: obligation.central_government_may_make_provisions_to_remove_difficultie",
+  "content": {
+    "scenario": "The Central Government encounters difficulties in implementing the provisions of the Consumer Protection Act, 2019. The difficulties need to be removed to ensure effective implementation of the Act.",
+    "outcome": "The Central Government may make provisions by order in the Official Gazette to remove difficulties in giving effect to the provisions of the Consumer Protection Act, 2019, as per Section 106 of the Act. The provisions must not be inconsistent with the Act and must be made within two years from the commencement of the Act."
+  },
+  "derived_from": [
+    "obligation.central_government_may_make_provisions_to_remove_difficultie"
+  ],
+  "related_concepts": [
+    "obligation.central_government_may_make_provisions_to_remove_difficultie"
+  ],
+  "search": {
+    "keywords": [
+      "Central Government",
+      "difficulties",
+      "provisions",
+      "Official Gazette",
+      "Consumer Protection Act"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can the Central Government make provisions to remove difficulties in implementing the Consumer Protection Act?",
+      "What is the procedure for making provisions to remove difficulties?",
+      "Is there a time limit for making provisions to remove difficulties under the Consumer Protection Act?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

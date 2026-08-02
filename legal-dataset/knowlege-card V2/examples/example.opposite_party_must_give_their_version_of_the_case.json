@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.opposite_party_must_give_their_version_of_the_case",
+  "concept_type": "example",
+  "title": "Opposite Party's Obligations",
+  "description": "Illustrative example for: obligation.opposite_party_must_give_their_version_of_the_case",
+  "content": {
+    "scenario": "A consumer files a complaint against a company with the District Commission. The company receives a copy of the complaint but fails to respond within the given time frame.",
+    "outcome": "The District Commission proceeds to settle the consumer dispute ex parte, on the basis of evidence brought to its notice by the complainant, as the opposite party omitted to take any action to represent their case within the time given."
+  },
+  "derived_from": [
+    "obligation.opposite_party_must_give_their_version_of_the_case"
+  ],
+  "related_concepts": [
+    "obligation.opposite_party_must_give_their_version_of_the_case"
+  ],
+  "search": {
+    "keywords": [
+      "opposite party",
+      "complaint",
+      "District Commission",
+      "consumer dispute",
+      "ex parte"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What happens if the opposite party doesn't respond to a complaint?",
+      "Can the District Commission settle a dispute without the opposite party's input?",
+      "What is the time frame for the opposite party to respond to a complaint?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

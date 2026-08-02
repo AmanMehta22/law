@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.officers_and_other_employees_of_the_national_commission_disc",
+  "concept_type": "example",
+  "title": "National Commission Officers' and Employees' Functions",
+  "description": "Illustrative example for: obligation.officers_and_other_employees_of_the_national_commission_disc",
+  "content": {
+    "scenario": "An employee of the National Commission is unsure about the proper procedure to follow in a particular case. The employee seeks guidance from the President of the National Commission.",
+    "outcome": "The officers and other employees of the National Commission shall discharge their functions under the general superintendence of the President of the National Commission."
+  },
+  "derived_from": [
+    "obligation.officers_and_other_employees_of_the_national_commission_disc"
+  ],
+  "related_concepts": [
+    "obligation.officers_and_other_employees_of_the_national_commission_disc"
+  ],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "officers",
+      "employees",
+      "superintendence",
+      "consumer protection"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Who supervises the officers and employees of the National Commission?",
+      "What is the role of the President of the National Commission in relation to its officers and employees?",
+      "How do officers and employees of the National Commission discharge their functions?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

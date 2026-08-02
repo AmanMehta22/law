@@ -1,0 +1,40 @@
+{
+  "concept_id": "example.central_authority_prevent_unfair_trade_practices",
+  "concept_type": "example",
+  "title": "Central Authority Prevention of Unfair Trade Practices",
+  "description": "Illustrative example for: obligation.central_authority_prevent_unfair_trade_practices",
+  "content": {
+    "scenario": "The Central Authority is required to prevent unfair trade practices and ensure that no person engages himself in unfair trade practices.",
+    "outcome": "The Central Authority shall prevent unfair trade practices and ensure that no person engages himself in unfair trade practices."
+  },
+  "derived_from": [
+    "obligation.central_authority_prevent_unfair_trade_practices"
+  ],
+  "related_concepts": [
+    "obligation.central_authority_prevent_unfair_trade_practices"
+  ],
+  "search": {
+    "keywords": [
+      "Central Authority",
+      "unfair trade practices",
+      "prevention",
+      "regulation"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the role of the Central Authority in preventing unfair trade practices?",
+      "How does the Central Authority regulate unfair trade practices?",
+      "What are the consequences of engaging in unfair trade practices?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

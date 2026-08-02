@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.central_authority_must_maintain_proper_accounts_and_other_re",
+  "concept_type": "example",
+  "title": "Maintenance of Proper Accounts by Central Authority",
+  "description": "Illustrative example for: obligation.central_authority_must_maintain_proper_accounts_and_other_re",
+  "content": {
+    "scenario": "The Central Authority of India fails to maintain proper accounts and other relevant records for the financial year 2022-2023, resulting in an inability to prepare an accurate annual statement of accounts.",
+    "outcome": "The Central Authority is in violation of Section 26(1) of the Consumer Protection Act, 2019, which mandates the maintenance of proper accounts and other relevant records, and the preparation of an annual statement of accounts in the prescribed form and manner. The Comptroller and Auditor-General of India may take necessary actions to ensure compliance."
+  },
+  "derived_from": [
+    "obligation.central_authority_must_maintain_proper_accounts_and_other_re"
+  ],
+  "related_concepts": [
+    "obligation.central_authority_must_maintain_proper_accounts_and_other_re"
+  ],
+  "search": {
+    "keywords": [
+      "Central Authority",
+      "proper accounts",
+      "annual statement",
+      "Comptroller and Auditor-General",
+      "Consumer Protection Act",
+      "regulations"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the accounting obligations of the Central Authority?",
+      "How often must the Central Authority prepare an annual statement of accounts?",
+      "What are the consequences of non-compliance with accounting regulations?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

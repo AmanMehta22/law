@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.officers_and_other_employees_of_the_state_commission_dischar",
+  "concept_type": "example",
+  "title": "State Commission Officers' Obligations",
+  "description": "Illustrative example for: obligation.officers_and_other_employees_of_the_state_commission_dischar",
+  "content": {
+    "scenario": "The President of the State Commission assigns a task to an officer, who then fails to follow the President's instructions. The officer claims that they were not bound to follow the President's orders.",
+    "outcome": "The officer's claim is rejected, as the Consumer Protection Act, 2019, mandates that officers and other employees of the State Commission discharge their functions under the general superintendence of the President."
+  },
+  "derived_from": [
+    "obligation.officers_and_other_employees_of_the_state_commission_dischar"
+  ],
+  "related_concepts": [
+    "obligation.officers_and_other_employees_of_the_state_commission_dischar"
+  ],
+  "search": {
+    "keywords": [
+      "State Commission",
+      "officers",
+      "President",
+      "superintendence",
+      "Consumer Protection Act",
+      "2019"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the obligations of State Commission officers?",
+      "Who supervises State Commission officers?",
+      "Can State Commission officers disregard the President's instructions?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

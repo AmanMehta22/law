@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.forty_five_days",
+  "concept_type": "example",
+  "title": "Laboratory Analysis",
+  "description": "Illustrative example for: timeline.forty_five_days",
+  "content": {
+    "scenario": "A consumer, Kumar, files a complaint against a company with the District Commission. The complaint alleges a defect in the goods that requires laboratory analysis.",
+    "outcome": "The District Commission refers the sample to the laboratory for analysis, which must be completed within forty-five days of receipt of the reference, or within an extended period granted by the Commission."
+  },
+  "derived_from": [
+    "timeline.forty_five_days"
+  ],
+  "related_concepts": [
+    "timeline.forty_five_days"
+  ],
+  "search": {
+    "keywords": [
+      "laboratory analysis",
+      "District Commission",
+      "consumer complaint",
+      "defect",
+      "goods"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the timeline for laboratory analysis in consumer complaints?",
+      "Can the District Commission grant extensions for laboratory analysis?",
+      "What happens if the laboratory analysis is not completed within the timeline?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

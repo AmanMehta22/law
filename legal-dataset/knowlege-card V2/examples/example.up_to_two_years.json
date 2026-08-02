@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.up_to_two_years",
+  "concept_type": "example",
+  "title": "Suspension of Licence for Up to Two Years",
+  "description": "Illustrative example for: timeline.up_to_two_years",
+  "content": {
+    "scenario": "A food manufacturer was convicted for the first time for selling adulterated products. The court is considering suspending the manufacturer's licence.",
+    "outcome": "The court may suspend the manufacturer's licence for a period up to two years, as it is the first conviction. However, if the manufacturer is convicted again, the court may cancel the licence."
+  },
+  "derived_from": [
+    "timeline.up_to_two_years"
+  ],
+  "related_concepts": [
+    "timeline.up_to_two_years"
+  ],
+  "search": {
+    "keywords": [
+      "licence suspension",
+      "up to two years",
+      "first conviction",
+      "adulterated products",
+      "Section 90"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the maximum period for which a licence can be suspended for a first conviction?",
+      "Can a licence be cancelled for a first conviction?",
+      "What are the consequences of a second conviction for selling adulterated products?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

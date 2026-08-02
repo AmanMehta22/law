@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.five_years",
+  "concept_type": "example",
+  "title": "Term of Office",
+  "description": "Illustrative example for: timeline.five_years",
+  "content": {
+    "scenario": "The Central Government appoints a President and members to the National Commission. The rules specify a term of office not exceeding five years.",
+    "outcome": "The President and members of the National Commission shall hold office for a term not exceeding five years from the date they enter upon their office and are eligible for re-appointment."
+  },
+  "derived_from": [
+    "timeline.five_years"
+  ],
+  "related_concepts": [
+    "timeline.five_years"
+  ],
+  "search": {
+    "keywords": [
+      "term of office",
+      "National Commission",
+      "President",
+      "members",
+      "re-appointment"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the term of office for the President and members of the National Commission?",
+      "Can the President and members be re-appointed?",
+      "What are the conditions for re-appointment?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

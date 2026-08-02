@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.resolution_of_differing_opinions",
+  "concept_type": "example",
+  "title": "Resolution of Differing Opinions",
+  "description": "Illustrative example for: procedure.resolution_of_differing_opinions",
+  "content": {
+    "scenario": "In a case before the National Commission, the members of the Bench differ in opinion on a point. They need to resolve the difference of opinion and make a decision.",
+    "outcome": "The members of the Bench shall state the point or points on which they differ and make a reference to the President, who shall either hear the point or points himself or refer the case for hearing on such point or points by one or more of the other members, and the point or points shall be decided according to the opinion of the majority of the members who have heard the case."
+  },
+  "derived_from": [
+    "procedure.resolution_of_differing_opinions"
+  ],
+  "related_concepts": [
+    "procedure.resolution_of_differing_opinions"
+  ],
+  "search": {
+    "keywords": [
+      "differing opinions",
+      "National Commission",
+      "Bench",
+      "President",
+      "majority opinion"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How are differing opinions resolved in the National Commission?",
+      "What is the role of the President in resolving differing opinions?",
+      "How is a decision made when members of the Bench differ in opinion?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.district_council",
+  "concept_type": "example",
+  "title": "District Council Role and Powers",
+  "description": "Illustrative example for: authority.district_council",
+  "content": {
+    "scenario": "A consumer in Chennai approaches the District Council seeking advice on how to promote and protect consumer rights in the district. The District Council provides guidance and support to the consumer.",
+    "outcome": "The District Council has the power to render advice on promotion and protection of consumer rights under the Act within the district. The Council can provide guidance and support to consumers, and its advice can help promote consumer awareness and protection in the district."
+  },
+  "derived_from": [
+    "authority.district_council"
+  ],
+  "related_concepts": [
+    "authority.district_council"
+  ],
+  "search": {
+    "keywords": [
+      "District Council",
+      "consumer rights",
+      "promotion",
+      "protection",
+      "advice",
+      "guidance"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the role of the District Council in promoting consumer rights?",
+      "How can consumers access advice and guidance from the District Council?",
+      "What powers does the District Council have in rendering advice?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

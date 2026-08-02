@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.district_commission_must_settle_the_consumer_dispute",
+  "concept_type": "example",
+  "title": "District Commission's Obligation to Settle the Consumer Dispute",
+  "description": "Illustrative example for: obligation.district_commission_must_settle_the_consumer_dispute",
+  "content": {
+    "scenario": "Priya, a consumer, filed a complaint against a service provider with the District Commission in Chennai. The complaint was admitted by the District Commission under sub-section (2) of section 36. The opposite party denied the allegations contained in the complaint. The District Commission must settle the consumer dispute on the basis of evidence brought to its notice by the parties.",
+    "outcome": "The District Commission shall settle the consumer dispute between Priya and the service provider on the basis of evidence brought to its notice by the parties, as per the provisions of Section 38(3) of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.district_commission_must_settle_the_consumer_dispute"
+  ],
+  "related_concepts": [
+    "obligation.district_commission_must_settle_the_consumer_dispute"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "settle consumer dispute",
+      "evidence",
+      "admitted complaint",
+      "Consumer Protection Act",
+      "Section 38(3)"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How does the District Commission settle a consumer dispute?",
+      "What is the basis for settling a consumer dispute?",
+      "What happens if the opposite party denies the allegations in the complaint?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

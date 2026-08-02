@@ -1,0 +1,40 @@
+{
+  "concept_id": "example.review_of_order",
+  "concept_type": "example",
+  "title": "Review of Order",
+  "description": "Illustrative example for: procedure.review_of_order",
+  "content": {
+    "scenario": "A consumer files an application with the District Commission to review an order passed against them, citing an error apparent on the face of the record. The consumer claims that the order was passed without considering crucial evidence.",
+    "outcome": "The District Commission reviews the order and finds that there was indeed an error apparent on the face of the record. The Commission passes a revised order, taking into account the new evidence and correcting the earlier mistake."
+  },
+  "derived_from": [
+    "procedure.review_of_order"
+  ],
+  "related_concepts": [
+    "procedure.review_of_order"
+  ],
+  "search": {
+    "keywords": [
+      "review of order",
+      "error apparent on the face of the record",
+      "District Commission",
+      "consumer rights"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How can a consumer review an order passed by the District Commission?",
+      "What is the process for correcting errors in an order?",
+      "Can a consumer appeal against an order passed by the District Commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

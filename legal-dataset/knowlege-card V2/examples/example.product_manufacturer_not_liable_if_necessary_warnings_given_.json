@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.product_manufacturer_not_liable_if_necessary_warnings_given_",
+  "concept_type": "example",
+  "title": "Product Manufacturer Not Liable If Necessary Warnings Given To Purchaser Of Component Or Material",
+  "description": "Illustrative example for: exception.product_manufacturer_not_liable_if_necessary_warnings_given_",
+  "content": {
+    "scenario": "A product manufacturer sold a product as a component or material to be used in another product. The product manufacturer had given necessary warnings or instructions to the purchaser of such component or material. Later, a complainant used the end product and was harmed. The product manufacturer is not liable because the product manufacturer had given necessary warnings or instructions to the purchaser of such component or material.",
+    "outcome": "The product manufacturer is not liable for the harm caused to the complainant because the product manufacturer had given necessary warnings or instructions to the purchaser of such component or material."
+  },
+  "derived_from": [
+    "exception.product_manufacturer_not_liable_if_necessary_warnings_given_"
+  ],
+  "related_concepts": [
+    "exception.product_manufacturer_not_liable_if_necessary_warnings_given_"
+  ],
+  "search": {
+    "keywords": [
+      "product manufacturer",
+      "product liability",
+      "warnings or instructions",
+      "component or material",
+      "end product"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the exceptions to product liability?",
+      "Can a product manufacturer be liable if the product is used in another product?",
+      "What are the conditions for a product manufacturer not to be liable for product liability?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

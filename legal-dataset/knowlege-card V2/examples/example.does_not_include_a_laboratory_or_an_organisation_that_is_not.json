@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.does_not_include_a_laboratory_or_an_organisation_that_is_not",
+  "concept_type": "example",
+  "title": "Exception to Appropriate Laboratory",
+  "description": "Illustrative example for: exception.does_not_include_a_laboratory_or_an_organisation_that_is_not",
+  "content": {
+    "scenario": "A consumer purchases a product that was tested by a laboratory not recognized by the Central Government or any State Government. The laboratory is not established by or under any law for the time being in force, and it is not maintained, financed, or aided by the Central Government or a State Government.",
+    "outcome": "The laboratory does not meet the definition of an 'appropriate laboratory' as per the Consumer Protection Act, 2019, since it is not recognized by the Central Government or a State Government, and it does not fall under any other category of recognized laboratories."
+  },
+  "derived_from": [
+    "exception.does_not_include_a_laboratory_or_an_organisation_that_is_not"
+  ],
+  "related_concepts": [
+    "exception.does_not_include_a_laboratory_or_an_organisation_that_is_not"
+  ],
+  "search": {
+    "keywords": [
+      "appropriate laboratory",
+      "recognition",
+      "Central Government",
+      "State Government",
+      "consumer protection"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is an appropriate laboratory?",
+      "Can a non-recognized laboratory test products?",
+      "What are the requirements for a laboratory to be considered appropriate?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

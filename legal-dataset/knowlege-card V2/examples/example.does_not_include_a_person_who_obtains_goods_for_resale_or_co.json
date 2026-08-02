@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.does_not_include_a_person_who_obtains_goods_for_resale_or_co",
+  "concept_type": "example",
+  "title": "Exception to Consumer",
+  "description": "Illustrative example for: exception.does_not_include_a_person_who_obtains_goods_for_resale_or_co",
+  "content": {
+    "scenario": "A person buys goods for resale or for any commercial purpose, but not for personal use or self-employment.",
+    "outcome": "The person is not considered a 'consumer' as per the Consumer Protection Act, 2019, since they obtain goods for resale or for any commercial purpose, which is an exception to the definition of a consumer."
+  },
+  "derived_from": [
+    "exception.does_not_include_a_person_who_obtains_goods_for_resale_or_co"
+  ],
+  "related_concepts": [
+    "exception.does_not_include_a_person_who_obtains_goods_for_resale_or_co"
+  ],
+  "search": {
+    "keywords": [
+      "consumer",
+      "resale",
+      "commercial purpose",
+      "exception",
+      "consumer protection"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Who is a consumer?",
+      "Can a person buying goods for resale be considered a consumer?",
+      "What are the exceptions to being a consumer?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

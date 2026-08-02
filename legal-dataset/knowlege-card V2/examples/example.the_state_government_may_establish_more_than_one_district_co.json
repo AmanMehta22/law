@@ -1,0 +1,40 @@
+{
+  "concept_id": "example.the_state_government_may_establish_more_than_one_district_co",
+  "concept_type": "example",
+  "title": "Establishment of Multiple District Commissions",
+  "description": "Illustrative example for: exception.the_state_government_may_establish_more_than_one_district_co",
+  "content": {
+    "scenario": "The State Government of Maharashtra wants to establish more than one District Consumer Disputes Redressal Commission in the district of Mumbai.",
+    "outcome": "The State Government of Maharashtra may establish more than one District Commission in the district of Mumbai if it deems fit, by issuing a notification."
+  },
+  "derived_from": [
+    "exception.the_state_government_may_establish_more_than_one_district_co"
+  ],
+  "related_concepts": [
+    "exception.the_state_government_may_establish_more_than_one_district_co"
+  ],
+  "search": {
+    "keywords": [
+      "District Consumer Disputes Redressal Commission",
+      "State Government",
+      "multiple commissions",
+      "notification"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can a State Government establish multiple District Commissions?",
+      "What is the process for establishing multiple District Commissions?",
+      "Is notification required for establishing multiple District Commissions?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

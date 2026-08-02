@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.appeal_to_national_commission",
+  "concept_type": "example",
+  "title": "Appeal to National Commission",
+  "description": "Illustrative example for: procedure.appeal_to_national_commission",
+  "content": {
+    "scenario": "Rahul, a consumer from Mumbai, purchased a defective smartphone from a retailer. He filed a complaint with the State Commission, but the order was not in his favor. Rahul wants to appeal to the National Commission. He deposits fifty per cent of the amount ordered by the State Commission and files an appeal with the National Commission, attaching the bill, cash memo, and receipt for the smartphone.",
+    "outcome": "The National Commission will consider Rahul's appeal and may pass an order in his favor if it finds that the State Commission's order was incorrect. The National Commission may also direct the retailer to replace the defective smartphone or refund the amount paid by Rahul."
+  },
+  "derived_from": [
+    "procedure.appeal_to_national_commission"
+  ],
+  "related_concepts": [
+    "procedure.appeal_to_national_commission"
+  ],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "appeal",
+      "consumer protection",
+      "defective product",
+      "refund",
+      "replacement"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How to appeal to the National Commission?",
+      "What documents are required for an appeal to the National Commission?",
+      "Can I get a refund or replacement for a defective product?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

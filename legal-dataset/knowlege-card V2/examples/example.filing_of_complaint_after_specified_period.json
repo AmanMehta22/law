@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.filing_of_complaint_after_specified_period",
+  "concept_type": "example",
+  "title": "Filing of Complaint after Specified Period",
+  "description": "Illustrative example for: procedure.filing_of_complaint_after_specified_period",
+  "content": {
+    "scenario": "A consumer discovers a defect in a product after the specified period for filing a complaint has expired. The consumer approaches the District Commission, explaining that they had sufficient cause for not filing the complaint earlier.",
+    "outcome": "The District Commission condones the delay and entertains the complaint, recording its reasons for doing so. The Commission may then proceed to hear the complaint and pass an order."
+  },
+  "derived_from": [
+    "procedure.filing_of_complaint_after_specified_period"
+  ],
+  "related_concepts": [
+    "procedure.filing_of_complaint_after_specified_period"
+  ],
+  "search": {
+    "keywords": [
+      "complaint",
+      "specified period",
+      "sufficient cause",
+      "delay",
+      "condonation"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What happens if a complaint is filed after the specified period?",
+      "How can a consumer show sufficient cause for not filing a complaint earlier?",
+      "Can the Commission condone a delay in filing a complaint?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

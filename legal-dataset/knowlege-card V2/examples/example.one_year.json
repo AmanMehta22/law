@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.one_year",
+  "concept_type": "example",
+  "title": "Prohibition on Endorsement",
+  "description": "Illustrative example for: timeline.one_year",
+  "content": {
+    "scenario": "The Central Authority finds that a celebrity has endorsed a false or misleading advertisement. The Central Authority deems it necessary to prohibit the celebrity from making endorsements for a period.",
+    "outcome": "The Central Authority may prohibit the celebrity from making endorsements for a period that may extend to one year. If the celebrity contravenes again, the prohibition may extend to three years."
+  },
+  "derived_from": [
+    "timeline.one_year"
+  ],
+  "related_concepts": [
+    "timeline.one_year"
+  ],
+  "search": {
+    "keywords": [
+      "Central Authority",
+      "endorsement",
+      "false advertisement",
+      "prohibition",
+      "one year"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can the Central Authority prohibit a celebrity from making endorsements?",
+      "For how long can the prohibition be imposed?",
+      "What happens if the celebrity contravenes again?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

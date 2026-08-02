@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.complaint_filing",
+  "concept_type": "example",
+  "title": "Complaint Filing Procedure",
+  "description": "Illustrative example for: procedure.complaint_filing",
+  "content": {
+    "scenario": "A consumer, Karan, purchases a defective product from a company in Bangalore. Karan wants to file a complaint against the company and approaches the District Commission in Bangalore to inquire about the procedure.",
+    "outcome": "Karan can file a complaint with the District Commission in Bangalore, as the company has a branch office in the city. The complaint can be filed electronically, and Karan needs to provide the required documents and information. The District Commission will then proceed with the complaint as per the procedure laid down in the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "procedure.complaint_filing"
+  ],
+  "related_concepts": [
+    "procedure.complaint_filing"
+  ],
+  "search": {
+    "keywords": [
+      "complaint filing",
+      "District Commission",
+      "defective product",
+      "electronic filing",
+      "required documents"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Where can I file a complaint against a company?",
+      "What are the required documents for filing a complaint?",
+      "Can I file a complaint electronically?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

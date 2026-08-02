@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.five_months",
+  "concept_type": "example",
+  "title": "Complaint Disposal",
+  "description": "Illustrative example for: timeline.five_months",
+  "content": {
+    "scenario": "A consumer, Priya, files a complaint against a company with the District Commission. The complaint requires analysis and testing of commodities.",
+    "outcome": "The District Commission shall endeavour to dispose of the complaint within five months from the date of receipt of notice by the opposite party."
+  },
+  "derived_from": [
+    "timeline.five_months"
+  ],
+  "related_concepts": [
+    "timeline.five_months"
+  ],
+  "search": {
+    "keywords": [
+      "complaint disposal",
+      "District Commission",
+      "consumer protection",
+      "analysis",
+      "testing"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the timeline for disposing of complaints?",
+      "How does the District Commission handle complaints that require analysis and testing?",
+      "Can the District Commission grant adjournments?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

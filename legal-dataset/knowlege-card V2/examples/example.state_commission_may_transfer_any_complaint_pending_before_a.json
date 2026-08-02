@@ -1,0 +1,44 @@
+{
+  "concept_id": "example.state_commission_may_transfer_any_complaint_pending_before_a",
+  "concept_type": "example",
+  "title": "State Commission to Transfer Complaints",
+  "description": "Illustrative example for: obligation.state_commission_may_transfer_any_complaint_pending_before_a",
+  "content": {
+    "scenario": "A complaint is pending before the District Commission of Mumbai, but the complainant, Ms. Patel, requests the State Commission to transfer the complaint to the District Commission of Pune as the interest of justice so requires.",
+    "outcome": "The State Commission may transfer the complaint pending before the District Commission of Mumbai to the District Commission of Pune if the interest of justice so requires. This ensures that the complaint is heard in a fair and efficient manner."
+  },
+  "derived_from": [
+    "obligation.state_commission_may_transfer_any_complaint_pending_before_a"
+  ],
+  "related_concepts": [
+    "obligation.state_commission_may_transfer_any_complaint_pending_before_a"
+  ],
+  "search": {
+    "keywords": [
+      "State Commission",
+      "complaint",
+      "transfer",
+      "District Commission",
+      "interest of justice",
+      "CPA 2019",
+      "Mumbai",
+      "Pune"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can the State Commission transfer a complaint from one District Commission to another?",
+      "How does the State Commission decide whether to transfer a complaint?",
+      "What is the purpose of transferring a complaint from one District Commission to another?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

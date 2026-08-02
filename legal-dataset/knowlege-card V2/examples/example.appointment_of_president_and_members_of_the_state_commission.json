@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.appointment_of_president_and_members_of_the_state_commission",
+  "concept_type": "example",
+  "title": "Appointment of President and Members of the State Commission",
+  "description": "Illustrative example for: procedure.appointment_of_president_and_members_of_the_state_commission",
+  "content": {
+    "scenario": "The Central Government wants to appoint a new President and members to the State Commission. It issues a notification outlining the rules for the appointment, including the qualification, method of recruitment, procedure of appointment, term of office, resignation, and removal of the President and members.",
+    "outcome": "The Central Government will follow the rules outlined in the notification to appoint the new President and members to the State Commission. The appointed President and members will have the specified term of office and will be subject to the rules regarding resignation and removal."
+  },
+  "derived_from": [
+    "procedure.appointment_of_president_and_members_of_the_state_commission"
+  ],
+  "related_concepts": [
+    "procedure.appointment_of_president_and_members_of_the_state_commission"
+  ],
+  "search": {
+    "keywords": [
+      "State Commission",
+      "appointment",
+      "President",
+      "members",
+      "Central Government",
+      "notification"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How are the President and members of the State Commission appointed?",
+      "What are the rules for the appointment of the State Commission?",
+      "What is the term of office for the President and members of the State Commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.furnishing_information",
+  "concept_type": "example",
+  "title": "Furnishing Information to the Central Government",
+  "description": "Illustrative example for: procedure.furnishing_information",
+  "content": {
+    "scenario": "The National Commission is required to furnish information to the Central Government periodically, including the pendency of cases. The Commission compiles the necessary data and submits it to the Central Government in the prescribed form and manner.",
+    "outcome": "The Central Government receives the information and uses it to monitor the functioning of the National Commission and the State Commissions. The State Commission also furnishes similar information to the State Government."
+  },
+  "derived_from": [
+    "procedure.furnishing_information"
+  ],
+  "related_concepts": [
+    "procedure.furnishing_information"
+  ],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "information",
+      "Central Government",
+      "pendency of cases",
+      "reporting"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What information must the National Commission furnish to the Central Government?",
+      "How often must the National Commission submit this information?",
+      "Can the State Government also require the State Commission to furnish information?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

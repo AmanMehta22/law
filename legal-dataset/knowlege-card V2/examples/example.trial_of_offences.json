@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.trial_of_offences",
+  "concept_type": "example",
+  "title": "Trial of Offences under Consumer Protection Act",
+  "description": "Illustrative example for: procedure.trial_of_offences",
+  "content": {
+    "scenario": "A consumer files a complaint against a company for violating the Consumer Protection Act, 2019. The District Commission tries the offence summarily.",
+    "outcome": "The District Commission will try the offence summarily, as per the provisions of the Consumer Protection Act, 2019. The Commission will hear the case and pass an order accordingly."
+  },
+  "derived_from": [
+    "procedure.trial_of_offences"
+  ],
+  "related_concepts": [
+    "procedure.trial_of_offences"
+  ],
+  "search": {
+    "keywords": [
+      "trial of offences",
+      "Consumer Protection Act",
+      "District Commission",
+      "summary trial",
+      "consumer complaint"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How are offences under the Consumer Protection Act tried?",
+      "What is the role of the District Commission in trying offences?",
+      "What is a summary trial in the context of consumer protection?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

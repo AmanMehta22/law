@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.court_must_consider_factors_while_determining_penalty",
+  "concept_type": "example",
+  "title": "Court's Consideration of Factors in Determining Penalty",
+  "description": "Illustrative example for: obligation.court_must_consider_factors_while_determining_penalty",
+  "content": {
+    "scenario": "A court is determining the penalty for a company that has been found guilty of violating consumer rights. The company's offence affected a large population and resulted in significant revenue.",
+    "outcome": "The court must consider factors such as the population and area impacted, frequency and duration of the offence, vulnerability of the affected persons, and gross revenue from sales, as per section 21(7) of the Consumer Protection Act, 2019, while determining the penalty."
+  },
+  "derived_from": [
+    "obligation.court_must_consider_factors_while_determining_penalty"
+  ],
+  "related_concepts": [
+    "obligation.court_must_consider_factors_while_determining_penalty"
+  ],
+  "search": {
+    "keywords": [
+      "court",
+      "penalty",
+      "factors",
+      "consumer rights",
+      "section 21"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What factors must a court consider when determining a penalty for consumer rights violation?",
+      "How does the population affected by an offence impact the penalty?",
+      "Can a court impose a penalty without considering the gross revenue from sales?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

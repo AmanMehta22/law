@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.offences_under_clauses_b_and_c_of_sub_section_1_of_section_91_cognizab",
+  "concept_type": "example",
+  "title": "Cognizable and Non-Bailable Offences Under Section 91",
+  "description": "Illustrative example for: offence.offences_under_clauses_b_and_c_of_sub_section_1_of_section_91_cognizable_and_non_bailable",
+  "content": {
+    "scenario": "A company in Chennai imported and sold spurious goods that caused grievous hurt to several consumers, and also resulted in the death of a few consumers. The company's actions were found to be in violation of the Consumer Protection Act, 2019.",
+    "outcome": "The offences committed by the company are cognizable and non-bailable, and the company may be punished with imprisonment and fine as per Section 91(1) of the Consumer Protection Act, 2019, with the specific punishments depending on whether the offence falls under clause (b) or clause (c) of sub-section (1) of Section 91."
+  },
+  "derived_from": [
+    "offence.offences_under_clauses_b_and_c_of_sub_section_1_of_section_91_cognizable_and_non_bailable"
+  ],
+  "related_concepts": [
+    "offence.offences_under_clauses_b_and_c_of_sub_section_1_of_section_91_cognizable_and_non_bailable"
+  ],
+  "search": {
+    "keywords": [
+      "cognizable offence",
+      "non-bailable offence",
+      "spurious goods",
+      "consumer protection",
+      "Section 91"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the consequences of committing cognizable and non-bailable offences under the Consumer Protection Act?",
+      "Can a company be arrested without a warrant for selling spurious goods?",
+      "What are the punishments for offences that result in grievous hurt or death to consumers?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

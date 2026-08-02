@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.a_period",
+  "concept_type": "example",
+  "title": "Unfair Trade Practices",
+  "description": "Illustrative example for: timeline.a_period",
+  "content": {
+    "scenario": "A company is accused of making false representations about the quality of its products. The consumer claims that the company has adopted an unfair trade practice.",
+    "outcome": "The company's actions may be considered an unfair trade practice, as it has made false representations about the quality of its products. The consumer may file a complaint with the relevant authorities, who will investigate and take action accordingly."
+  },
+  "derived_from": [
+    "timeline.a_period"
+  ],
+  "related_concepts": [
+    "timeline.a_period"
+  ],
+  "search": {
+    "keywords": [
+      "unfair trade practice",
+      "false representation",
+      "consumer protection",
+      "quality of products",
+      "investigation"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What constitutes an unfair trade practice?",
+      "How can a consumer complain about false representations?",
+      "What action can be taken against a company for unfair trade practices?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.state_commission_may_entertain_appeal_after_45_days",
+  "concept_type": "example",
+  "title": "Late Appeal to State Commission",
+  "description": "Illustrative example for: exception.state_commission_may_entertain_appeal_after_45_days",
+  "content": {
+    "scenario": "A consumer, Kumar, received an order from the District Commission, but he missed the 45-day deadline to file an appeal to the State Commission. He wants to file an appeal now, citing sufficient cause for the delay.",
+    "outcome": "The State Commission may entertain Kumar's appeal after the expiry of the 45-day period, if it is satisfied that there was sufficient cause for not filing it within that period. However, Kumar may need to deposit 50% of the amount ordered by the District Commission."
+  },
+  "derived_from": [
+    "exception.state_commission_may_entertain_appeal_after_45_days"
+  ],
+  "related_concepts": [
+    "exception.state_commission_may_entertain_appeal_after_45_days"
+  ],
+  "search": {
+    "keywords": [
+      "appeal deadline",
+      "State Commission",
+      "sufficient cause",
+      "late appeal",
+      "deposit requirement"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What if I miss the appeal deadline to the State Commission?",
+      "Can I file a late appeal to the State Commission?",
+      "What are the conditions for a late appeal to the State Commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

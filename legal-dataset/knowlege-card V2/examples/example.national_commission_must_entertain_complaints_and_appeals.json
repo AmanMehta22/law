@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.national_commission_must_entertain_complaints_and_appeals",
+  "concept_type": "example",
+  "title": "National Commission's Jurisdiction to Entertain Complaints and Appeals",
+  "description": "Illustrative example for: obligation.national_commission_must_entertain_complaints_and_appeals",
+  "content": {
+    "scenario": "A consumer purchases a product worth Rs. 15 crore and files a complaint against the seller for unfair contract terms. The consumer also files an appeal against the order of the State Commission.",
+    "outcome": "The National Commission entertains the complaint and appeal, as the value of the goods or services exceeds Rs. 10 crore and the complaint is against an unfair contract. The National Commission also hears the appeal against the State Commission's order."
+  },
+  "derived_from": [
+    "obligation.national_commission_must_entertain_complaints_and_appeals"
+  ],
+  "related_concepts": [
+    "obligation.national_commission_must_entertain_complaints_and_appeals"
+  ],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "jurisdiction",
+      "complaints",
+      "appeals",
+      "unfair contracts",
+      "value of goods or services"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the National Commission's jurisdiction in entertaining complaints and appeals?",
+      "Can the National Commission hear complaints against unfair contracts?",
+      "What is the minimum value of goods or services for the National Commission to entertain complaints?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

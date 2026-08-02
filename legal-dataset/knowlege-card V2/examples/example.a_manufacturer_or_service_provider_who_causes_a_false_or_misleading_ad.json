@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.a_manufacturer_or_service_provider_who_causes_a_false_or_misleading_ad",
+  "concept_type": "example",
+  "title": "Punishment for False Advertisements",
+  "description": "Illustrative example for: offence.a_manufacturer_or_service_provider_who_causes_a_false_or_misleading_advertisemen",
+  "content": {
+    "scenario": "A manufacturer of a popular skin cream is found to have caused a false advertisement to be made, claiming the cream has anti-aging properties that it does not actually possess. This advertisement is prejudicial to the interests of consumers.",
+    "outcome": "The manufacturer can be punished with imprisonment up to 2 years and a fine up to ten lakh rupees for causing a false or misleading advertisement that is prejudicial to the interest of consumers, under Section 89 of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "offence.a_manufacturer_or_service_provider_who_causes_a_false_or_misleading_advertisemen"
+  ],
+  "related_concepts": [
+    "offence.a_manufacturer_or_service_provider_who_causes_a_false_or_misleading_advertisemen"
+  ],
+  "search": {
+    "keywords": [
+      "false advertisement",
+      "punishment",
+      "manufacturer",
+      "misleading claims",
+      "consumer interest",
+      "Section 89"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the punishment for false advertising?",
+      "Can a manufacturer be jailed for misleading ads?",
+      "How does the law protect consumers from false claims?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

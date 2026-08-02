@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.books_accounts_connected_vouchers_other_documents_and_papers",
+  "concept_type": "example",
+  "title": "Audit of Central Authority",
+  "description": "Illustrative example for: evidence.books_accounts_connected_vouchers_other_documents_and_papers",
+  "content": {
+    "scenario": "The Comptroller and Auditor-General of India is conducting an audit of the Central Authority and demands the production of books, accounts, connected vouchers, and other documents and papers to inspect the offices of the Central Authority.",
+    "outcome": "The Central Authority is required to produce the demanded documents and allow the inspection of its offices as per the audit requirements."
+  },
+  "derived_from": [
+    "evidence.books_accounts_connected_vouchers_other_documents_and_papers"
+  ],
+  "related_concepts": [
+    "evidence.books_accounts_connected_vouchers_other_documents_and_papers"
+  ],
+  "search": {
+    "keywords": [
+      "audit",
+      "Central Authority",
+      "Comptroller and Auditor-General",
+      "books",
+      "accounts",
+      "connected vouchers"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What documents are required for the audit of the Central Authority?",
+      "Can the Comptroller and Auditor-General inspect the offices of the Central Authority?",
+      "What is the purpose of the audit of the Central Authority?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

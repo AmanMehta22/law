@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.warning_or_instruction_records_documentation_of_warnings_or_",
+  "concept_type": "example",
+  "title": "Product Seller's Liability - Failure to Exercise Reasonable Care",
+  "description": "Illustrative example for: evidence.warning_or_instruction_records_documentation_of_warnings_or_",
+  "content": {
+    "scenario": "A retailer, DEF Retail, sells a product without providing adequate warnings or instructions, despite receiving such warnings and instructions from the manufacturer. A consumer, Rohan, purchases the product and suffers harm due to the lack of warnings and instructions.",
+    "outcome": "The retailer, DEF Retail, is liable for the harm caused to Rohan, as it failed to exercise reasonable care in passing on the warnings and instructions from the manufacturer. The retailer's failure to provide adequate warnings and instructions is the proximate cause of the harm."
+  },
+  "derived_from": [
+    "evidence.warning_or_instruction_records_documentation_of_warnings_or_"
+  ],
+  "related_concepts": [
+    "evidence.warning_or_instruction_records_documentation_of_warnings_or_"
+  ],
+  "search": {
+    "keywords": [
+      "product seller's liability",
+      "warnings",
+      "instructions",
+      "reasonable care",
+      "harm",
+      "proximate cause"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the obligations of a product seller regarding warnings and instructions?",
+      "How can a product seller establish that it exercised reasonable care?",
+      "What is the effect of a product seller's failure to provide adequate warnings and instructions?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

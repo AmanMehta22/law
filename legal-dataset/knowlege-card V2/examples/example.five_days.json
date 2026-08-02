@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.five_days",
+  "concept_type": "example",
+  "title": "Mediation Settlement",
+  "description": "Illustrative example for: timeline.five_days",
+  "content": {
+    "scenario": "Rahul files a complaint against a company with the District Commission. The Commission directs the parties to give their consent for mediation within five days. Both parties agree to mediation and give their consent in writing.",
+    "outcome": "The District Commission refers the matter for mediation within five days of receiving the consent, and the provisions of Chapter V relating to mediation will apply."
+  },
+  "derived_from": [
+    "timeline.five_days"
+  ],
+  "related_concepts": [
+    "timeline.five_days"
+  ],
+  "search": {
+    "keywords": [
+      "mediation",
+      "District Commission",
+      "consumer dispute",
+      "settlement",
+      "consent"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the timeline for mediation in consumer disputes?",
+      "How does the District Commission handle mediation?",
+      "Can parties opt out of mediation?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

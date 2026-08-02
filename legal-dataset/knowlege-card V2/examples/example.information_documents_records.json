@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.information_documents_records",
+  "concept_type": "example",
+  "title": "District Commission's Power to Require Information",
+  "description": "Illustrative example for: evidence.information_documents_records",
+  "content": {
+    "scenario": "A consumer files a complaint against an e-commerce company with the District Commission. The Commission requires the company to provide information, documents, or records to investigate the complaint.",
+    "outcome": "The District Commission may order the e-commerce company to provide the required information, documents, or records for the purposes of sub-sections (2) and (3) of Section 38 of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "evidence.information_documents_records"
+  ],
+  "related_concepts": [
+    "evidence.information_documents_records"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "information",
+      "documents",
+      "records",
+      "e-commerce",
+      "consumer complaint"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What information can the District Commission require from an e-commerce company?",
+      "Can the District Commission order an e-commerce company to provide documents?",
+      "What is the purpose of the District Commission's power to require information?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

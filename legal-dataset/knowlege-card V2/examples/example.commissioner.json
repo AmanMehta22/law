@@ -1,0 +1,40 @@
+{
+  "concept_id": "example.commissioner",
+  "concept_type": "example",
+  "title": "Commissioner",
+  "description": "Illustrative example for: authority.commissioner",
+  "content": {
+    "scenario": "A consumer in India files a complaint against a company for violating their rights. The Chief Commissioner delegates his powers relating to administrative matters of the Central Authority to a Commissioner.",
+    "outcome": "The Commissioner, as delegated by the Chief Commissioner, exercises the powers of general superintendence, direction and control in respect of all administrative matters of the Central Authority."
+  },
+  "derived_from": [
+    "authority.commissioner"
+  ],
+  "related_concepts": [
+    "authority.commissioner"
+  ],
+  "search": {
+    "keywords": [
+      "Commissioner",
+      "Central Authority",
+      "consumer rights",
+      "India"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the role of the Commissioner in the Central Authority?",
+      "How does the Chief Commissioner delegate his powers?",
+      "What are the powers of the Commissioner in the Central Authority?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

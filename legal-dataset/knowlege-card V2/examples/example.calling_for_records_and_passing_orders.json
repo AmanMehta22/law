@@ -1,0 +1,43 @@
+{
+  "concept_id": "example.calling_for_records_and_passing_orders",
+  "concept_type": "example",
+  "title": "Calling for Records and Passing Orders",
+  "description": "Illustrative example for: procedure.calling_for_records_and_passing_orders",
+  "content": {
+    "scenario": "A consumer dispute is pending before a District Commission. The State Commission calls for the records of the dispute and passes an order.",
+    "outcome": "The State Commission has the jurisdiction to call for the records and pass appropriate orders in any consumer dispute which is pending before or has been decided by any District Commission within the State, as per the provisions of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "procedure.calling_for_records_and_passing_orders"
+  ],
+  "related_concepts": [
+    "procedure.calling_for_records_and_passing_orders"
+  ],
+  "search": {
+    "keywords": [
+      "State Commission",
+      "District Commission",
+      "consumer dispute",
+      "records",
+      "orders",
+      "jurisdiction",
+      "consumer protection"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the jurisdiction of the State Commission in consumer disputes?",
+      "How can the State Commission call for records of a consumer dispute?",
+      "What orders can the State Commission pass in a consumer dispute?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

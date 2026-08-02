@@ -1,0 +1,40 @@
+{
+  "concept_id": "example.review_of_state_commission_decisions",
+  "concept_type": "example",
+  "title": "Review of State Commission Decisions",
+  "description": "Illustrative example for: procedure.review_of_state_commission_decisions",
+  "content": {
+    "scenario": "A consumer files an appeal with the National Commission against an order passed by the State Commission, alleging that the State Commission exercised jurisdiction not vested in it. The consumer claims that the State Commission did not have the authority to hear the case.",
+    "outcome": "The National Commission calls for the records of the case and reviews the decision. After examining the records, the National Commission finds that the State Commission did indeed exercise jurisdiction not vested in it. The National Commission passes an order setting aside the decision of the State Commission and directs the case to be heard by the appropriate authority."
+  },
+  "derived_from": [
+    "procedure.review_of_state_commission_decisions"
+  ],
+  "related_concepts": [
+    "procedure.review_of_state_commission_decisions"
+  ],
+  "search": {
+    "keywords": [
+      "review of State Commission decisions",
+      "National Commission",
+      "jurisdiction",
+      "consumer rights"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How can a consumer appeal against a decision of the State Commission?",
+      "What is the process for reviewing decisions of the State Commission?",
+      "Can the National Commission set aside a decision of the State Commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.consumer_mediation_cell_must_submit_quarterly_report",
+  "concept_type": "example",
+  "title": "Consumer Mediation Cell Quarterly Report Submission",
+  "description": "Illustrative example for: obligation.consumer_mediation_cell_must_submit_quarterly_report",
+  "content": {
+    "scenario": "A consumer mediation cell in Mumbai, attached to the State Commission, fails to submit its quarterly report for the last two quarters. The State Commission issues a notice to the cell, asking for an explanation for the delay.",
+    "outcome": "The consumer mediation cell must submit the quarterly report to the State Commission as per the regulations under sub-section (5) of section 74 of the Consumer Protection Act, 2019. The cell's failure to do so may result in further action by the State Commission."
+  },
+  "derived_from": [
+    "obligation.consumer_mediation_cell_must_submit_quarterly_report"
+  ],
+  "related_concepts": [
+    "obligation.consumer_mediation_cell_must_submit_quarterly_report"
+  ],
+  "search": {
+    "keywords": [
+      "consumer mediation cell",
+      "quarterly report",
+      "State Commission",
+      "section 74",
+      "Consumer Protection Act"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the obligation of a consumer mediation cell regarding quarterly reports?",
+      "Can a consumer mediation cell be penalized for not submitting a quarterly report?",
+      "What is the role of the State Commission in ensuring consumer mediation cells submit quarterly reports?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

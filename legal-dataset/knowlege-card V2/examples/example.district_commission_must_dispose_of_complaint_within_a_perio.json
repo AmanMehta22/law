@@ -1,0 +1,43 @@
+{
+  "concept_id": "example.district_commission_must_dispose_of_complaint_within_a_perio",
+  "concept_type": "example",
+  "title": "District Commission's Obligation to Dispose of Complaint within a Period",
+  "description": "Illustrative example for: obligation.district_commission_must_dispose_of_complaint_within_a_perio",
+  "content": {
+    "scenario": "A consumer, Priya, files a complaint with the District Commission against a manufacturer for a defective product. The Commission receives the complaint and starts the process of resolving it.",
+    "outcome": "The District Commission must dispose of the complaint within a period of three months from the date of receipt of notice by the opposite party, or within five months if the complaint requires analysis or testing of commodities, as per section 38(7) of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.district_commission_must_dispose_of_complaint_within_a_perio"
+  ],
+  "related_concepts": [
+    "obligation.district_commission_must_dispose_of_complaint_within_a_perio"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "complaint",
+      "time limit",
+      "disposal",
+      "analysis",
+      "testing",
+      "Consumer Protection Act"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the time limit for the District Commission to dispose of a complaint?",
+      "Can the District Commission grant an adjournment?",
+      "What happens if the District Commission fails to dispose of the complaint within the specified time limit?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.warranty",
+  "concept_type": "example",
+  "title": "Establishing Express Warranty",
+  "description": "Illustrative example for: evidence.warranty",
+  "content": {
+    "scenario": "Rahul purchased a smartphone with a one-year warranty. After six months, the phone's battery started draining quickly. Rahul wants to claim a replacement under the warranty.",
+    "outcome": "To establish the express warranty, Rahul needs to provide the warranty document as evidence. The product service provider will be liable if the service did not conform to the express warranty or the terms and conditions of the contract."
+  },
+  "derived_from": [
+    "evidence.warranty"
+  ],
+  "related_concepts": [
+    "evidence.warranty"
+  ],
+  "search": {
+    "keywords": [
+      "express warranty",
+      "product liability",
+      "consumer protection",
+      "warranty document",
+      "contract terms",
+      "product service provider"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What documents are required to establish express warranty?",
+      "Can I claim a replacement under warranty?",
+      "What are the terms and conditions of the contract?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

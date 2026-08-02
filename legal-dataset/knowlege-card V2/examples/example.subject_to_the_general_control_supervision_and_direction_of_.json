@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.subject_to_the_general_control_supervision_and_direction_of_",
+  "concept_type": "example",
+  "title": "Control and Supervision of Consumer Protection Authorities",
+  "description": "Illustrative example for: exception.subject_to_the_general_control_supervision_and_direction_of_",
+  "content": {
+    "scenario": "The Director-General of the Central Consumer Protection Authority has appointed an Additional Director-General to oversee consumer protection in a particular region. The Additional Director-General wants to exercise his powers independently.",
+    "outcome": "The Additional Director-General shall exercise his powers and discharge his functions subject to the general control, supervision, and direction of the Director-General. This means that the Director-General has oversight and control over the actions of the Additional Director-General."
+  },
+  "derived_from": [
+    "exception.subject_to_the_general_control_supervision_and_direction_of_"
+  ],
+  "related_concepts": [
+    "exception.subject_to_the_general_control_supervision_and_direction_of_"
+  ],
+  "search": {
+    "keywords": [
+      "consumer protection authority",
+      "control and supervision",
+      "Director-General",
+      "Additional Director-General",
+      "oversight"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Who controls the consumer protection authorities?",
+      "Can the Additional Director-General act independently?",
+      "What is the role of the Director-General in consumer protection?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

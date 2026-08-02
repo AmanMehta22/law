@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.district_commission_must_make_orders_as_to_the_costs_occasio",
+  "concept_type": "example",
+  "title": "District Commission's Obligation to Make Orders as to Costs Occasioned by Adjournment",
+  "description": "Illustrative example for: obligation.district_commission_must_make_orders_as_to_the_costs_occasio",
+  "content": {
+    "scenario": "A consumer files a complaint against a company in the District Commission. The company requests an adjournment, which is granted after showing sufficient cause and recording the reasons in writing. The consumer seeks costs for the adjournment.",
+    "outcome": "The District Commission must make orders as to the costs occasioned by the adjournment as may be specified by regulations, since sufficient cause was shown and the reasons for the adjournment were recorded in writing."
+  },
+  "derived_from": [
+    "obligation.district_commission_must_make_orders_as_to_the_costs_occasio"
+  ],
+  "related_concepts": [
+    "obligation.district_commission_must_make_orders_as_to_the_costs_occasio"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "adjournment",
+      "costs",
+      "sufficient cause",
+      "regulations",
+      "Consumer Protection Act"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the rules for costs of adjournment in the District Commission?",
+      "Can the District Commission grant adjournment without sufficient cause?",
+      "How are costs of adjournment determined in the District Commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

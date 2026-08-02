@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.district_commission_must_impose_costs_for_adjournment",
+  "concept_type": "example",
+  "title": "District Commission's Obligation to Impose Costs for Adjournment",
+  "description": "Illustrative example for: obligation.district_commission_must_impose_costs_for_adjournment",
+  "content": {
+    "scenario": "A consumer files a complaint against a company in the District Commission. The company requests an adjournment, which is granted under the second proviso to sub-section (7) of section 38. The consumer seeks costs for the adjournment.",
+    "outcome": "The District Commission must impose costs for the adjournment as per the regulations under the second proviso to sub-section (7) of section 38."
+  },
+  "derived_from": [
+    "obligation.district_commission_must_impose_costs_for_adjournment"
+  ],
+  "related_concepts": [
+    "obligation.district_commission_must_impose_costs_for_adjournment"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "adjournment",
+      "costs",
+      "regulations",
+      "section 38",
+      "Consumer Protection Act"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the rules for adjournment in the District Commission?",
+      "Can the District Commission impose costs for adjournment?",
+      "What are the regulations for costs of adjournment in the District Commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

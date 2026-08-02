@@ -1,0 +1,40 @@
+{
+  "concept_id": "example.requisitioning_of_report",
+  "concept_type": "example",
+  "title": "Requisitioning of Report",
+  "description": "Illustrative example for: procedure.requisitioning_of_report",
+  "content": {
+    "scenario": "A consumer files a complaint with the District Commission regarding a defective product, and the Commission requires a laboratory test report to determine the defect. The Commission requests the report from a laboratory.",
+    "outcome": "The District Commission requisitions the report of the concerned analysis or test from the laboratory, as per Section 38(9) of the Consumer Protection Act, 2019, and uses it as evidence to decide the complaint."
+  },
+  "derived_from": [
+    "procedure.requisitioning_of_report"
+  ],
+  "related_concepts": [
+    "procedure.requisitioning_of_report"
+  ],
+  "search": {
+    "keywords": [
+      "consumer protection",
+      "requisitioning of report",
+      "district commission",
+      "laboratory test"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can the District Commission request a laboratory test report?",
+      "What are the procedures for requisitioning a report?",
+      "How does the District Commission use the report in deciding a complaint?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

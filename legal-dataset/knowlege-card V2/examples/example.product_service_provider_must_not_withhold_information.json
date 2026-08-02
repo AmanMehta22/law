@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.product_service_provider_must_not_withhold_information",
+  "concept_type": "example",
+  "title": "Product Service Provider's Obligation to Not Withhold Information",
+  "description": "Illustrative example for: obligation.product_service_provider_must_not_withhold_information",
+  "content": {
+    "scenario": "A pharmaceutical company, XYZ Ltd., failed to disclose the potential side effects of their new medication, which resulted in harm to a consumer, Rohan.",
+    "outcome": "The pharmaceutical company (XYZ Ltd.) is liable for withholding information about the potential side effects of their medication. The consumer (Rohan) can file a complaint against the company for product liability, as the service provider did not meet their obligation to provide complete information."
+  },
+  "derived_from": [
+    "obligation.product_service_provider_must_not_withhold_information"
+  ],
+  "related_concepts": [
+    "obligation.product_service_provider_must_not_withhold_information"
+  ],
+  "search": {
+    "keywords": [
+      "product liability",
+      "withholding information",
+      "consumer protection",
+      "pharmaceutical company",
+      "medication",
+      "side effects"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the obligations of a product service provider regarding information disclosure?",
+      "Can a consumer file a complaint for withholding information?",
+      "What happens if a product causes harm due to lack of information?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

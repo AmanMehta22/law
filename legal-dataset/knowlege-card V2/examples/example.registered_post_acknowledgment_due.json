@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.registered_post_acknowledgment_due",
+  "concept_type": "example",
+  "title": "Service of Notices through Registered Post Acknowledgment Due",
+  "description": "Illustrative example for: evidence.registered_post_acknowledgment_due",
+  "content": {
+    "scenario": "A consumer files a complaint against a company, and the District Commission serves a notice to the company through registered post acknowledgment due.",
+    "outcome": "The notice is deemed to be served as per Section 65(1) of the Consumer Protection Act, 2019, which requires that all notices be served by delivering or transmitting a copy thereof by registered post acknowledgment due addressed to the opposite party."
+  },
+  "derived_from": [
+    "evidence.registered_post_acknowledgment_due"
+  ],
+  "related_concepts": [
+    "evidence.registered_post_acknowledgment_due"
+  ],
+  "search": {
+    "keywords": [
+      "service of notices",
+      "registered post acknowledgment due",
+      "Consumer Protection Act",
+      "Section 65(1)",
+      "District Commission"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the mode of service of notices under the Consumer Protection Act?",
+      "Can a notice be served through electronic means?",
+      "What is the relevance of registered post acknowledgment due in serving notices?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

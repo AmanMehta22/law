@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.person_seizing_the_documents_must_return_seized_documents",
+  "concept_type": "example",
+  "title": "Return of Seized Documents",
+  "description": "Illustrative example for: obligation.person_seizing_the_documents_must_return_seized_documents",
+  "content": {
+    "scenario": "Rahul, a consumer, had his documents seized by the authorities during an investigation into a complaint he filed against a company. After 25 days, Rahul has not received his documents back.",
+    "outcome": "The person seizing the documents must return them to Rahul within 20 days of seizure, after taking copies or extracts, as per CPA2019-CH3-S22-3. Since this was not done, Rahul can approach the authorities to return his documents."
+  },
+  "derived_from": [
+    "obligation.person_seizing_the_documents_must_return_seized_documents"
+  ],
+  "related_concepts": [
+    "obligation.person_seizing_the_documents_must_return_seized_documents"
+  ],
+  "search": {
+    "keywords": [
+      "seized documents",
+      "return of documents",
+      "consumer protection",
+      "CPA2019",
+      "investigation",
+      "complaint"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What happens to seized documents during an investigation?",
+      "How long does it take to get seized documents back?",
+      "Can I get my documents back if they were seized during a complaint?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

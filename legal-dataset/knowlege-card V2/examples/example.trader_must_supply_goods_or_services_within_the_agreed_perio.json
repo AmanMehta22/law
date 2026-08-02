@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.trader_must_supply_goods_or_services_within_the_agreed_perio",
+  "concept_type": "example",
+  "title": "Supply of Goods within Agreed Period",
+  "description": "Illustrative example for: obligation.trader_must_supply_goods_or_services_within_the_agreed_perio",
+  "content": {
+    "scenario": "A consumer in Delhi orders a smartphone from an online retailer with a promised delivery date of 7 days. However, the retailer delays the delivery by 14 days, causing the consumer to buy the same phone from another retailer at a higher price due to the urgency of the need.",
+    "outcome": "The online retailer's delay in supplying the goods beyond the agreed period, leading to a rise in the price the consumer had to pay elsewhere, constitutes a restrictive trade practice. The consumer may seek redressal for the unjustified costs incurred."
+  },
+  "derived_from": [
+    "obligation.trader_must_supply_goods_or_services_within_the_agreed_perio"
+  ],
+  "related_concepts": [
+    "obligation.trader_must_supply_goods_or_services_within_the_agreed_perio"
+  ],
+  "search": {
+    "keywords": [
+      "agreed period",
+      "delay in supply",
+      "restrictive trade practice",
+      "unjustified costs",
+      "consumer rights",
+      "supply of goods"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What if a retailer delays the delivery of goods?",
+      "Can a consumer seek compensation for delay in supply?",
+      "Is delaying delivery beyond the agreed time a restrictive trade practice?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

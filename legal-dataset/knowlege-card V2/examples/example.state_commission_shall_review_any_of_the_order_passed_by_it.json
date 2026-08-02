@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.state_commission_shall_review_any_of_the_order_passed_by_it",
+  "concept_type": "example",
+  "title": "Review of Orders by State Commission",
+  "description": "Illustrative example for: obligation.state_commission_shall_review_any_of_the_order_passed_by_it",
+  "content": {
+    "scenario": "The State Commission passed an order 20 days ago, and one of the parties applied for a review, alleging an error apparent on the face of the record. The Commission refused the review, stating that it was not made within the prescribed time limit.",
+    "outcome": "The State Commission has the power to review any of its orders if there is an error apparent on the face of the record, either of its own motion or on an application made by any of the parties within 30 days of such order. The Commission's refusal to review the order is unjustified, as the application was made within the prescribed time limit."
+  },
+  "derived_from": [
+    "obligation.state_commission_shall_review_any_of_the_order_passed_by_it"
+  ],
+  "related_concepts": [
+    "obligation.state_commission_shall_review_any_of_the_order_passed_by_it"
+  ],
+  "search": {
+    "keywords": [
+      "Consumer Protection Act",
+      "State Commission",
+      "order review",
+      "error apparent",
+      "time limit",
+      "application"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can the State Commission review its own orders?",
+      "What are the grounds for reviewing an order?",
+      "What is the time limit for applying for a review of an order?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

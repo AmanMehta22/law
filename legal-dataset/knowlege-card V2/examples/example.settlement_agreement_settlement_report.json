@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.settlement_agreement_settlement_report",
+  "concept_type": "example",
+  "title": "Settlement Agreement and Settlement Report",
+  "description": "Illustrative example for: evidence.settlement_agreement_settlement_report",
+  "content": {
+    "scenario": "A consumer, Sharma, files a complaint against a company, but the parties reach a settlement through mediation. The mediator prepares a settlement report and a settlement agreement, which are forwarded to the Commission.",
+    "outcome": "The mediator is required to prepare a settlement report of the settlement and forward the signed agreement along with such report to the concerned Commission, as per Section 80(2) of the Consumer Protection Act, 2019. The settlement agreement and settlement report are mandatory documents to document the settlement."
+  },
+  "derived_from": [
+    "evidence.settlement_agreement_settlement_report"
+  ],
+  "related_concepts": [
+    "evidence.settlement_agreement_settlement_report"
+  ],
+  "search": {
+    "keywords": [
+      "settlement agreement",
+      "settlement report",
+      "mediation",
+      "Commission",
+      "consumer dispute"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the purpose of a settlement agreement and settlement report in a consumer dispute?",
+      "Is a settlement agreement and settlement report mandatory in a consumer dispute?",
+      "How does the mediator prepare a settlement report and forward it to the Commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

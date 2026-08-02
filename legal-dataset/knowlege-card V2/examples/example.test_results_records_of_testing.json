@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.test_results_records_of_testing",
+  "concept_type": "example",
+  "title": "Unfair Trade Practice - False Representation of Product Quality",
+  "description": "Illustrative example for: evidence.test_results_records_of_testing",
+  "content": {
+    "scenario": "A company, XYZ Ltd., is selling a product, claiming it has undergone rigorous testing and meets international quality standards. However, the company has not conducted any testing, and the product does not meet the claimed standards. A consumer, Priya, purchases the product and discovers the false representation.",
+    "outcome": "The company's claim of the product's quality is an unfair trade practice, as it falsely represents the product's standard and quality. The burden of proof lies on the company to prove that the warranty or guarantee is based on adequate or proper testing. If the company fails to provide evidence, it may be liable for unfair trade practice."
+  },
+  "derived_from": [
+    "evidence.test_results_records_of_testing"
+  ],
+  "related_concepts": [
+    "evidence.test_results_records_of_testing"
+  ],
+  "search": {
+    "keywords": [
+      "unfair trade practice",
+      "false representation",
+      "product quality",
+      "testing",
+      "warranty",
+      "guarantee"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What constitutes an unfair trade practice?",
+      "How can a company prove that its warranty or guarantee is based on adequate testing?",
+      "What are the consequences of false representation of product quality?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

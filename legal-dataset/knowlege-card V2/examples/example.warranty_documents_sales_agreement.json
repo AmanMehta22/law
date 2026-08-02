@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.warranty_documents_sales_agreement",
+  "concept_type": "example",
+  "title": "Proving Non-Conformity to Express Warranty",
+  "description": "Illustrative example for: evidence.warranty_documents_sales_agreement",
+  "content": {
+    "scenario": "Amit bought a laptop with a two-year warranty. After one year, the laptop's screen started flickering. Amit wants to prove that the laptop does not conform to the express warranty and claim a replacement.",
+    "outcome": "To prove that the laptop does not conform to the express warranty, Amit needs to provide the warranty documents and the sales agreement as evidence. The product manufacturer will be liable if the product does not conform to the express warranty or the terms and conditions of the contract."
+  },
+  "derived_from": [
+    "evidence.warranty_documents_sales_agreement"
+  ],
+  "related_concepts": [
+    "evidence.warranty_documents_sales_agreement"
+  ],
+  "search": {
+    "keywords": [
+      "express warranty",
+      "product liability",
+      "consumer protection",
+      "warranty documents",
+      "sales agreement",
+      "product manufacturer"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What documents are required to prove non-conformity to express warranty?",
+      "Can I claim a replacement if the product does not conform to warranty?",
+      "What are the terms and conditions of the sales agreement?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

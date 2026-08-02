@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.state_government_must_prescribe_interests_for_non_official_m",
+  "concept_type": "example",
+  "title": "Prescription of Interests for Non-Official Members",
+  "description": "Illustrative example for: obligation.state_government_must_prescribe_interests_for_non_official_m",
+  "content": {
+    "scenario": "The State Government of Gujarat wants to constitute a State Council with non-official members representing various interests. It must prescribe the interests that these non-official members will represent.",
+    "outcome": "The State Government of Gujarat will prescribe the interests that the non-official members of the State Council will represent, as required by law. These interests will be specified by the State Government, and the non-official members will be selected based on their representation of these interests."
+  },
+  "derived_from": [
+    "obligation.state_government_must_prescribe_interests_for_non_official_m"
+  ],
+  "related_concepts": [
+    "obligation.state_government_must_prescribe_interests_for_non_official_m"
+  ],
+  "search": {
+    "keywords": [
+      "State Government",
+      "State Council",
+      "non-official members",
+      "prescription of interests",
+      "representation"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the procedure for selecting non-official members of the State Council?",
+      "How does the State Government prescribe the interests for non-official members?",
+      "What is the role of non-official members in the State Council?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

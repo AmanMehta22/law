@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.national_commission_benches",
+  "concept_type": "example",
+  "title": "National Commission Benches",
+  "description": "Illustrative example for: jurisdiction.national_commission_benches",
+  "content": {
+    "scenario": "A consumer files a complaint against a company with the National Commission, which is then assigned to a Bench consisting of three members. The senior-most member of the Bench presides over the hearing.",
+    "outcome": "The National Commission Bench, presided over by the senior-most member, has the authority to exercise the jurisdiction, powers, and authority of the National Commission, as per Section 58(2) of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "jurisdiction.national_commission_benches"
+  ],
+  "related_concepts": [
+    "jurisdiction.national_commission_benches"
+  ],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "Bench",
+      "senior-most member",
+      "jurisdiction",
+      "powers",
+      "authority"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the composition of a National Commission Bench?",
+      "Who presides over a National Commission Bench?",
+      "What are the powers of a National Commission Bench?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

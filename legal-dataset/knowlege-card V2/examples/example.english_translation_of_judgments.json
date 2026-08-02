@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.english_translation_of_judgments",
+  "concept_type": "example",
+  "title": "English Translation of Judgments for Uniform Procedure",
+  "description": "Illustrative example for: evidence.english_translation_of_judgments",
+  "content": {
+    "scenario": "The National Commission issues a judgment in a consumer dispute case, originally written in Hindi. The Commission provides an English translation of the judgment to ensure uniform procedure in the hearing of matters.",
+    "outcome": "The National Commission has the authority to lay down standards for the adoption of uniform procedure in the hearing of matters, including the furnishing of English translations of judgments written in any language, as per Section 70(1) of the Consumer Protection Act, 2019. The English translation of the judgment is mandatory to ensure that all parties understand the judgment."
+  },
+  "derived_from": [
+    "evidence.english_translation_of_judgments"
+  ],
+  "related_concepts": [
+    "evidence.english_translation_of_judgments"
+  ],
+  "search": {
+    "keywords": [
+      "consumer protection",
+      "uniform procedure",
+      "English translation",
+      "judgments",
+      "National Commission"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Why is an English translation of judgments required?",
+      "Can the National Commission issue judgments in languages other than English?",
+      "What is the purpose of providing English translations of judgments?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.central_authority_be_bound_by_directions_on_questions_of_pol",
+  "concept_type": "example",
+  "title": "Directions on Questions of Policy",
+  "description": "Illustrative example for: obligation.central_authority_be_bound_by_directions_on_questions_of_pol",
+  "content": {
+    "scenario": "The Central Government has given a direction to the Central Authority on a question of policy regarding the regulation of e-commerce platforms. The Central Authority must be bound by such directions.",
+    "outcome": "The Central Authority will be bound by the direction given by the Central Government on the question of policy, as per section 99 of the Consumer Protection Act, 2019, and will implement the direction in exercise of its powers or performance of its functions under the Act."
+  },
+  "derived_from": [
+    "obligation.central_authority_be_bound_by_directions_on_questions_of_pol"
+  ],
+  "related_concepts": [
+    "obligation.central_authority_be_bound_by_directions_on_questions_of_pol"
+  ],
+  "search": {
+    "keywords": [
+      "directions",
+      "questions of policy",
+      "Central Authority",
+      "Central Government",
+      "section 99"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the role of the Central Government in giving directions to the Central Authority?",
+      "Can the Central Authority disregard directions from the Central Government?",
+      "How does the Central Authority implement directions on questions of policy?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

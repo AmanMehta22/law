@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.shall_not_admit_a_complaint_unless_it_is_filed_within_two_ye",
+  "concept_type": "example",
+  "title": "Time Limit for Filing Complaints",
+  "description": "Illustrative example for: exception.shall_not_admit_a_complaint_unless_it_is_filed_within_two_ye",
+  "content": {
+    "scenario": "A consumer purchased a defective product three years ago and wants to file a complaint against the seller.",
+    "outcome": "The District Commission, State Commission, or National Commission shall not admit the complaint because it was not filed within two years from the date on which the cause of action arose. The consumer is barred from filing the complaint due to the time limit."
+  },
+  "derived_from": [
+    "exception.shall_not_admit_a_complaint_unless_it_is_filed_within_two_ye"
+  ],
+  "related_concepts": [
+    "exception.shall_not_admit_a_complaint_unless_it_is_filed_within_two_ye"
+  ],
+  "search": {
+    "keywords": [
+      "time limit for complaints",
+      "cause of action",
+      "complaint filing",
+      "District Commission",
+      "State Commission",
+      "National Commission"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the time limit for filing a complaint?",
+      "Can a complaint be filed after the time limit has expired?",
+      "How does the cause of action affect the time limit for filing a complaint?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

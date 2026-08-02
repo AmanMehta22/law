@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.appeal_hearing",
+  "concept_type": "example",
+  "title": "Appeal Hearing",
+  "description": "Illustrative example for: procedure.appeal_hearing",
+  "content": {
+    "scenario": "A consumer, Priya, files an appeal before the State Commission against a company. The appeal is admitted, and a hearing is scheduled. The State Commission hears the appeal expeditiously and disposes of it within 90 days.",
+    "outcome": "The State Commission hears the appeal and disposes of it within 90 days, and if an adjournment is granted, the Commission records the reasons for the adjournment and makes orders as to the costs occasioned by the adjournment."
+  },
+  "derived_from": [
+    "procedure.appeal_hearing"
+  ],
+  "related_concepts": [
+    "procedure.appeal_hearing"
+  ],
+  "search": {
+    "keywords": [
+      "appeal",
+      "hearing",
+      "State Commission",
+      "adjournment",
+      "costs"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the procedure for appeal hearing in consumer cases?",
+      "How long does it take to dispose of an appeal?",
+      "Can the State Commission grant an adjournment in an appeal hearing?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

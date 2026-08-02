@@ -1,0 +1,43 @@
+{
+  "concept_id": "example.additional_director_general",
+  "concept_type": "example",
+  "title": "Additional Director-General's Role and Powers",
+  "description": "Illustrative example for: authority.additional_director_general",
+  "content": {
+    "scenario": "The Central Government appoints an Additional Director-General to assist in investigations under the Consumer Protection Act, 2019. The Director-General delegates some of his powers to the Additional Director-General to conduct inquiries.",
+    "outcome": "The Additional Director-General exercises his powers subject to the general control, supervision, and direction of the Director-General, and conducts inquiries or investigations under the Act."
+  },
+  "derived_from": [
+    "authority.additional_director_general"
+  ],
+  "related_concepts": [
+    "authority.additional_director_general"
+  ],
+  "search": {
+    "keywords": [
+      "Additional Director-General",
+      "investigations",
+      "Consumer Protection Act",
+      "Director-General",
+      "inquiries",
+      "powers",
+      "delegation"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the powers of the Additional Director-General?",
+      "Can the Director-General delegate powers to the Additional Director-General?",
+      "What is the role of the Additional Director-General in investigations?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

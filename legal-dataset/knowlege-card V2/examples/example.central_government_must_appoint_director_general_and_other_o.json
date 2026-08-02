@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.central_government_must_appoint_director_general_and_other_o",
+  "concept_type": "example",
+  "title": "Appointment of Director-General and Other Officers",
+  "description": "Illustrative example for: obligation.central_government_must_appoint_director_general_and_other_o",
+  "content": {
+    "scenario": "The Central Government needs to establish a team to investigate consumer complaints under the Consumer Protection Act, 2019. They are looking to appoint a Director-General and other officers to lead the team.",
+    "outcome": "The Central Government must appoint a Director-General and other officers, such as Additional Director-General, Director, Joint Director, Deputy Director, and Assistant Director, from amongst persons with experience in investigation and possessing prescribed qualifications, in the manner prescribed."
+  },
+  "derived_from": [
+    "obligation.central_government_must_appoint_director_general_and_other_o"
+  ],
+  "related_concepts": [
+    "obligation.central_government_must_appoint_director_general_and_other_o"
+  ],
+  "search": {
+    "keywords": [
+      "Consumer Protection Act",
+      "Director-General",
+      "investigation",
+      "officers",
+      "appointment",
+      "qualifications"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the qualifications required for the Director-General and other officers?",
+      "How are the Director-General and other officers appointed?",
+      "What is the role of the Director-General and other officers in investigating consumer complaints?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.state_commission_must_authenticate_goods_sampled",
+  "concept_type": "example",
+  "title": "State Commission's Obligation to Authenticate Goods Sampled",
+  "description": "Illustrative example for: obligation.state_commission_must_authenticate_goods_sampled",
+  "content": {
+    "scenario": "A consumer purchases a product from a company and files a complaint with the State Commission, alleging that the product is defective. The State Commission samples the product to verify the claim. The company disputes the sampling process, claiming it was not done in accordance with the law.",
+    "outcome": "The State Commission must authenticate the goods sampled in the manner prescribed under clause (c) of sub-section (2) of section 38 of the Consumer Protection Act, 2019. The Commission's authentication process will be guided by the rules made under section 102(2) of the Act."
+  },
+  "derived_from": [
+    "obligation.state_commission_must_authenticate_goods_sampled"
+  ],
+  "related_concepts": [
+    "obligation.state_commission_must_authenticate_goods_sampled"
+  ],
+  "search": {
+    "keywords": [
+      "State Commission",
+      "goods sampled",
+      "authentication",
+      "section 38",
+      "Consumer Protection Act",
+      "2019"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the State Commission's role in authenticating goods sampled?",
+      "How does the State Commission authenticate goods sampled?",
+      "What are the rules governing the authentication of goods sampled by the State Commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

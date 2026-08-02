@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.written_record_of_reasons",
+  "concept_type": "example",
+  "title": "Written Record of Reasons for Adjournment",
+  "description": "Illustrative example for: evidence.written_record_of_reasons",
+  "content": {
+    "scenario": "Rahul, a consumer, files an appeal before the National Commission against a decision of the State Commission. The National Commission grants an adjournment due to a request from the opposite party, citing a sudden illness of their key witness. The Commission records the reasons for the adjournment in writing.",
+    "outcome": "The National Commission is justified in granting the adjournment as sufficient cause has been shown and the reasons for the grant of adjournment have been recorded in writing, as required by the provisions of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "evidence.written_record_of_reasons"
+  ],
+  "related_concepts": [
+    "evidence.written_record_of_reasons"
+  ],
+  "search": {
+    "keywords": [
+      "adjournment",
+      "sufficient cause",
+      "written record",
+      "National Commission",
+      "Consumer Protection Act",
+      "appeal"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the conditions for granting an adjournment in the National Commission?",
+      "Can the National Commission grant an adjournment without recording reasons in writing?",
+      "What is the purpose of requiring a written record of reasons for adjournment?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

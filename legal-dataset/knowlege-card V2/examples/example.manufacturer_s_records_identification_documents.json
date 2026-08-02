@@ -1,0 +1,40 @@
+{
+  "concept_id": "example.manufacturer_s_records_identification_documents",
+  "concept_type": "example",
+  "title": "Product Seller's Liability for Failure to Identify Manufacturer",
+  "description": "Illustrative example for: evidence.manufacturer_s_records_identification_documents",
+  "content": {
+    "scenario": "A consumer purchases a product from a seller who is not the manufacturer. The seller fails to provide the manufacturer's records or identification documents, and the product causes harm.",
+    "outcome": "The product seller may be liable in a product liability action if they failed to identify the product manufacturer or provide the manufacturer's records or identification documents, as per Section 86 of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "evidence.manufacturer_s_records_identification_documents"
+  ],
+  "related_concepts": [
+    "evidence.manufacturer_s_records_identification_documents"
+  ],
+  "search": {
+    "keywords": [
+      "product seller",
+      "manufacturer's records",
+      "identification documents",
+      "product liability"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What documents must a product seller provide to identify the manufacturer?",
+      "Can a product seller be liable for failure to provide manufacturer's records?",
+      "What is the consequence of a product seller's failure to identify the manufacturer?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

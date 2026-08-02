@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.sufficient_cause",
+  "concept_type": "example",
+  "title": "Sufficient Cause for Delay in Filing Complaint",
+  "description": "Illustrative example for: evidence.sufficient_cause",
+  "content": {
+    "scenario": "Rahul, a consumer, purchased a defective smartphone from a retailer in Mumbai. Due to his busy schedule, he couldn't file a complaint within the specified time period. However, he has a valid reason for the delay, which is supported by documentary evidence. He now wants to file a complaint against the retailer.",
+    "outcome": "The District Commission may entertain Rahul's complaint if he provides sufficient cause for the delay, along with the required documents, including reasons for condoning the delay. The Commission will record its reasons for condoning the delay if it decides to entertain the complaint."
+  },
+  "derived_from": [
+    "evidence.sufficient_cause"
+  ],
+  "related_concepts": [
+    "evidence.sufficient_cause"
+  ],
+  "search": {
+    "keywords": [
+      "sufficient cause",
+      "delay",
+      "complaint",
+      "District Commission",
+      "condoning delay",
+      "documentary evidence"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the process for filing a complaint after the specified time period?",
+      "How can I provide sufficient cause for delay in filing a complaint?",
+      "What are the required documents for filing a complaint after a delay?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

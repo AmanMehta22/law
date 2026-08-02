@@ -1,0 +1,40 @@
+{
+  "concept_id": "example.regulator_must_specify_conditions_for_re_empanelment_of_medi",
+  "concept_type": "example",
+  "title": "Regulator's Obligation to Specify Conditions for Re-empanelment of Mediators",
+  "description": "Illustrative example for: obligation.regulator_must_specify_conditions_for_re_empanelment_of_medi",
+  "content": {
+    "scenario": "A mediator's empanelment is about to expire, and the mediator wants to know the conditions for re-empanelment. The regulator specifies the conditions for re-empanelment in the regulations.",
+    "outcome": "The regulator must specify the conditions for re-empanelment of mediators, as per Section 75(3) of the Consumer Protection Act, 2019, and the mediator must meet these conditions to be considered for re-empanelment."
+  },
+  "derived_from": [
+    "obligation.regulator_must_specify_conditions_for_re_empanelment_of_medi"
+  ],
+  "related_concepts": [
+    "obligation.regulator_must_specify_conditions_for_re_empanelment_of_medi"
+  ],
+  "search": {
+    "keywords": [
+      "consumer protection",
+      "mediator re-empanelment",
+      "regulator obligation",
+      "conditions for re-empanelment"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the conditions for re-empanelment of mediators?",
+      "How can a mediator be re-empanelled under the Consumer Protection Act, 2019?",
+      "What is the role of the regulator in specifying conditions for re-empanelment of mediators?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

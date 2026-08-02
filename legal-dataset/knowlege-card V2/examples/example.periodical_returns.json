@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.periodical_returns",
+  "concept_type": "example",
+  "title": "Monitoring Performance of State Commissions",
+  "description": "Illustrative example for: evidence.periodical_returns",
+  "content": {
+    "scenario": "The National Commission wants to monitor the performance of the State Commissions in disposing of consumer cases. It requires the State Commissions to submit periodical returns.",
+    "outcome": "The National Commission has the authority to require the State Commissions to submit periodical returns regarding the institution, disposal, and pendency of cases, as per Section 70(1)(a) of the Consumer Protection Act, 2019. This is to ensure that the State Commissions are performing their functions efficiently and effectively."
+  },
+  "derived_from": [
+    "evidence.periodical_returns"
+  ],
+  "related_concepts": [
+    "evidence.periodical_returns"
+  ],
+  "search": {
+    "keywords": [
+      "periodical returns",
+      "State Commissions",
+      "National Commission",
+      "Section 70",
+      "CPA 2019",
+      "consumer protection"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the purpose of periodical returns?",
+      "Can the National Commission require State Commissions to submit periodical returns?",
+      "What information must be included in periodical returns?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

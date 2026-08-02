@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.report_of_analysis_or_test",
+  "concept_type": "example",
+  "title": "Report of Analysis or Test",
+  "description": "Illustrative example for: evidence.report_of_analysis_or_test",
+  "content": {
+    "scenario": "Rahul, a consumer, files a complaint against a company for selling him a defective smartphone. The District Commission, in order to determine the defect, requires the company to provide a report of analysis or test from an appropriate laboratory.",
+    "outcome": "The District Commission has the power to requisition the report of the concerned analysis or test from the appropriate laboratory or from any other relevant source, as per Section 38(9) of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "evidence.report_of_analysis_or_test"
+  ],
+  "related_concepts": [
+    "evidence.report_of_analysis_or_test"
+  ],
+  "search": {
+    "keywords": [
+      "report of analysis",
+      "test",
+      "laboratory",
+      "District Commission",
+      "consumer protection"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the purpose of a report of analysis or test in a consumer complaint?",
+      "Can the District Commission require a company to provide a report of analysis or test?",
+      "How does the District Commission use the report of analysis or test in a consumer dispute?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

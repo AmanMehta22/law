@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.product_service_provider_must_provide_service_of_quality_req",
+  "concept_type": "example",
+  "title": "Product Service Provider's Obligation to Provide Service of Required Quality",
+  "description": "Illustrative example for: obligation.product_service_provider_must_provide_service_of_quality_req",
+  "content": {
+    "scenario": "A consumer, Karan, hired a contractor to build a house, but the contractor used substandard materials, resulting in a poorly constructed house that did not meet the quality required by the contract.",
+    "outcome": "The contractor is liable for not providing a service of the quality required by the contract. The consumer (Karan) can file a complaint against the contractor for product liability, as the service provider did not meet their obligation to provide a service of the required quality."
+  },
+  "derived_from": [
+    "obligation.product_service_provider_must_provide_service_of_quality_req"
+  ],
+  "related_concepts": [
+    "obligation.product_service_provider_must_provide_service_of_quality_req"
+  ],
+  "search": {
+    "keywords": [
+      "product liability",
+      "quality required",
+      "contract",
+      "consumer protection",
+      "contractor",
+      "construction"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the obligations of a product service provider regarding quality?",
+      "Can a consumer file a complaint for poor quality service?",
+      "What happens if a service does not meet the contract requirements?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

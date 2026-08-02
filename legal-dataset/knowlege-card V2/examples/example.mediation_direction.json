@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.mediation_direction",
+  "concept_type": "example",
+  "title": "Direction for Mediation by District Commission",
+  "description": "Illustrative example for: procedure.mediation_direction",
+  "content": {
+    "scenario": "The District Commission, after admitting Rahul's complaint, assessed that there were elements of a settlement acceptable to both parties. The Commission directed Rahul and the retailer to give written consent for mediation within five days.",
+    "outcome": "Rahul and the retailer gave their written consent for mediation, and the District Commission referred the matter to a mediator. The mediator then carried out the mediation procedure to resolve the consumer dispute."
+  },
+  "derived_from": [
+    "procedure.mediation_direction"
+  ],
+  "related_concepts": [
+    "procedure.mediation_direction"
+  ],
+  "search": {
+    "keywords": [
+      "district commission",
+      "mediation direction",
+      "consumer dispute",
+      "settlement",
+      "written consent"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "When can a District Commission direct parties to mediate?",
+      "What is the procedure for giving written consent for mediation?",
+      "What happens after a District Commission directs parties to mediate?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

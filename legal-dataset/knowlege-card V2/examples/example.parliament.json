@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.parliament",
+  "concept_type": "example",
+  "title": "Parliament's Role in Consumer Protection",
+  "description": "Illustrative example for: authority.parliament",
+  "content": {
+    "scenario": "The Central Consumer Protection Authority submits its annual report to the Parliament, highlighting the key issues faced by consumers in India. The report reveals a significant increase in consumer complaints related to e-commerce platforms.",
+    "outcome": "The Parliament receives a copy of the annual report and may discuss the findings and recommendations to improve consumer protection in India."
+  },
+  "derived_from": [
+    "authority.parliament"
+  ],
+  "related_concepts": [
+    "authority.parliament"
+  ],
+  "search": {
+    "keywords": [
+      "Parliament",
+      "annual report",
+      "consumer protection",
+      "e-commerce",
+      "complaints",
+      "India"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the role of Parliament in consumer protection?",
+      "How does Parliament receive information about consumer issues?",
+      "What happens to the annual report submitted by the Central Consumer Protection Authority?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.review_of_consumer_rights",
+  "concept_type": "example",
+  "title": "Review of Consumer Rights",
+  "description": "Illustrative example for: procedure.review_of_consumer_rights",
+  "content": {
+    "scenario": "A consumer complaint is filed with the Central Authority regarding a company's unfair trade practice of selling defective products. The Central Authority reviews the matter and identifies factors inhibiting the enjoyment of consumer rights, including lack of awareness and inadequate safeguards.",
+    "outcome": "The Central Authority recommends remedial measures, such as spreading awareness and implementing stricter quality control measures, to ensure effective implementation of consumer rights. The company is also directed to issue a safety notice to alert consumers about the defective products."
+  },
+  "derived_from": [
+    "procedure.review_of_consumer_rights"
+  ],
+  "related_concepts": [
+    "procedure.review_of_consumer_rights"
+  ],
+  "search": {
+    "keywords": [
+      "consumer rights",
+      "Central Authority",
+      "unfair trade practices",
+      "safety notice",
+      "remedial measures"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the process for reviewing consumer rights?",
+      "How does the Central Authority address unfair trade practices?",
+      "What measures can be taken to protect consumer rights?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

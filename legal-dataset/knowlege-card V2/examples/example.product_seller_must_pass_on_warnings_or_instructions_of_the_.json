@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.product_seller_must_pass_on_warnings_or_instructions_of_the_",
+  "concept_type": "example",
+  "title": "Product Seller's Duty to Pass on Warnings",
+  "description": "Illustrative example for: obligation.product_seller_must_pass_on_warnings_or_instructions_of_the_",
+  "content": {
+    "scenario": "A consumer, Karan, purchased a product from a seller, but the seller did not provide any warnings or instructions regarding the proper usage of the product. The product caused harm to Karan due to his improper use.",
+    "outcome": "The product seller is liable in a product liability action because they failed to pass on the warnings or instructions of the product manufacturer regarding the dangers involved or proper usage of the product, which was the proximate cause of the harm, as per the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.product_seller_must_pass_on_warnings_or_instructions_of_the_"
+  ],
+  "related_concepts": [
+    "obligation.product_seller_must_pass_on_warnings_or_instructions_of_the_"
+  ],
+  "search": {
+    "keywords": [
+      "product seller",
+      "warnings",
+      "instructions",
+      "product liability",
+      "proper usage",
+      "consumer protection"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the duty of a product seller to pass on warnings or instructions?",
+      "Can a product seller be liable for failing to provide warnings or instructions?",
+      "How does the Consumer Protection Act, 2019, address product seller liability for failing to pass on warnings or instructions?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

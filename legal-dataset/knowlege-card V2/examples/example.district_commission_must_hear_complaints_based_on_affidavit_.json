@@ -1,0 +1,43 @@
+{
+  "concept_id": "example.district_commission_must_hear_complaints_based_on_affidavit_",
+  "concept_type": "example",
+  "title": "District Commission's Obligation to Hear Complaints based on Affidavit",
+  "description": "Illustrative example for: obligation.district_commission_must_hear_complaints_based_on_affidavit_",
+  "content": {
+    "scenario": "A consumer, Sharma, files a complaint with the District Commission against a company for unfair trade practice. The Commission decides to hear the complaint based on affidavit and documentary evidence.",
+    "outcome": "The District Commission must hear the complaint based on affidavit and documentary evidence placed on record, as per section 38(6) of the Consumer Protection Act, 2019, but may allow hearing or examination of parties in person or through video conferencing on sufficient cause being shown and after recording its reasons in writing."
+  },
+  "derived_from": [
+    "obligation.district_commission_must_hear_complaints_based_on_affidavit_"
+  ],
+  "related_concepts": [
+    "obligation.district_commission_must_hear_complaints_based_on_affidavit_"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "complaint",
+      "affidavit",
+      "documentary evidence",
+      "hearing",
+      "video conferencing",
+      "Consumer Protection Act"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the procedure for hearing complaints by the District Commission?",
+      "Can the District Commission allow hearing or examination of parties in person?",
+      "What are the conditions for allowing video conferencing in a complaint hearing?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

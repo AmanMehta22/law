@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.memorandum_of_appeal",
+  "concept_type": "example",
+  "title": "Filing an Appeal Involving a Question of Law",
+  "description": "Illustrative example for: evidence.memorandum_of_appeal",
+  "content": {
+    "scenario": "A consumer, Rohan, filed a complaint against a company for unfair trade practices. The District Commission dismissed his complaint, and he wants to appeal to the State Commission. He needs to file a memorandum of appeal.",
+    "outcome": "Rohan's memorandum of appeal must precisely state the substantial question of law involved in the appeal, as required by Section 51(3) of the Consumer Protection Act, 2019. The memorandum of appeal is a mandatory document in an appeal involving a question of law."
+  },
+  "derived_from": [
+    "evidence.memorandum_of_appeal"
+  ],
+  "related_concepts": [
+    "evidence.memorandum_of_appeal"
+  ],
+  "search": {
+    "keywords": [
+      "memorandum of appeal",
+      "question of law",
+      "Section 51",
+      "CPA 2019",
+      "consumer appeal",
+      "State Commission"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the purpose of a memorandum of appeal?",
+      "Is a memorandum of appeal mandatory in an appeal involving a question of law?",
+      "What are the requirements for filing a memorandum of appeal?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

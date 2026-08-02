@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.national_commission_must_call_for_records_and_pass_appropria",
+  "concept_type": "example",
+  "title": "National Commission's Obligation to Call for Records and Pass Orders",
+  "description": "Illustrative example for: obligation.national_commission_must_call_for_records_and_pass_appropria",
+  "content": {
+    "scenario": "A consumer dispute is pending before a State Commission, and the National Commission suspects that the State Commission has exercised jurisdiction not vested in it by law. The National Commission decides to call for the records of the case.",
+    "outcome": "The National Commission must call for the records of the case and pass appropriate orders, as per Section 58(1) of the Consumer Protection Act, 2019, if the value of the goods or services paid as consideration exceeds rupees ten crore or the Central Government prescribed value."
+  },
+  "derived_from": [
+    "obligation.national_commission_must_call_for_records_and_pass_appropria"
+  ],
+  "related_concepts": [
+    "obligation.national_commission_must_call_for_records_and_pass_appropria"
+  ],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "records",
+      "orders",
+      "State Commission",
+      "jurisdiction",
+      "consumer dispute"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the National Commission's obligation when a State Commission exceeds its jurisdiction?",
+      "How does the National Commission call for records and pass orders?",
+      "What are the conditions for the National Commission to intervene in a State Commission's proceedings?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

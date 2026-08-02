@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.mediator_must_disclose_such_other_facts_as_may_be_specified_",
+  "concept_type": "example",
+  "title": "Mediator's Duty to Disclose Facts",
+  "description": "Illustrative example for: obligation.mediator_must_disclose_such_other_facts_as_may_be_specified_",
+  "content": {
+    "scenario": "Rahul, a consumer, files a complaint against a company with the District Commission. The mediator appointed, Mr. Kumar, has a personal connection with the company's CEO. Mr. Kumar must disclose this information to ensure a fair mediation process.",
+    "outcome": "The mediator, Mr. Kumar, is required to disclose his personal connection with the company's CEO as it may give rise to a justifiable doubt about his independence or impartiality, as per Section 77 of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.mediator_must_disclose_such_other_facts_as_may_be_specified_"
+  ],
+  "related_concepts": [
+    "obligation.mediator_must_disclose_such_other_facts_as_may_be_specified_"
+  ],
+  "search": {
+    "keywords": [
+      "mediator",
+      "disclosure",
+      "independence",
+      "impartiality",
+      "consumer dispute",
+      "regulations"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the duties of a mediator in a consumer dispute?",
+      "Can a mediator with a personal connection to one of the parties still mediate?",
+      "What information must a mediator disclose during mediation?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

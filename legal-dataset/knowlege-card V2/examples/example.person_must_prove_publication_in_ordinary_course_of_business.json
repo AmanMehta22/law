@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.person_must_prove_publication_in_ordinary_course_of_business",
+  "concept_type": "example",
+  "title": "Publication in Ordinary Course of Business",
+  "description": "Illustrative example for: obligation.person_must_prove_publication_in_ordinary_course_of_business",
+  "content": {
+    "scenario": "A company publishes an advertisement for a product, which is later found to be misleading. The company claims it published the advertisement in the ordinary course of its business and had no knowledge of any order from the Central Authority to withdraw or modify it.",
+    "outcome": "The company may not be liable for the penalty if it can prove that it published the advertisement in the ordinary course of its business and had no previous knowledge of any order from the Central Authority for withdrawal or modification of the advertisement."
+  },
+  "derived_from": [
+    "obligation.person_must_prove_publication_in_ordinary_course_of_business"
+  ],
+  "related_concepts": [
+    "obligation.person_must_prove_publication_in_ordinary_course_of_business"
+  ],
+  "search": {
+    "keywords": [
+      "ordinary course of business",
+      "publication of advertisement",
+      "misleading advertisements",
+      "Central Authority orders",
+      "penalty liability"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is considered publication in the ordinary course of business?",
+      "Can a company avoid penalty by claiming lack of knowledge of Central Authority orders?",
+      "How does the Consumer Protection Act regulate misleading advertisements?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

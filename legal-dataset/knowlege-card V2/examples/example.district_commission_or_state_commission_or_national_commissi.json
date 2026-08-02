@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.district_commission_or_state_commission_or_national_commissi",
+  "concept_type": "example",
+  "title": "District Commission or State Commission or National Commission",
+  "description": "Illustrative example for: obligation.district_commission_or_state_commission_or_national_commissi",
+  "content": {
+    "scenario": "A consumer dispute was settled by mediation. The District Commission or the State Commission or the National Commission must pass a suitable order recording the settlement and dispose of the matter.",
+    "outcome": "The District Commission or the State Commission or the National Commission must pass a suitable order recording the settlement and dispose of the matter within seven days of the receipt of the settlement report."
+  },
+  "derived_from": [
+    "obligation.district_commission_or_state_commission_or_national_commissi"
+  ],
+  "related_concepts": [
+    "obligation.district_commission_or_state_commission_or_national_commissi"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "State Commission",
+      "National Commission",
+      "consumer dispute",
+      "mediation",
+      "settlement report"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the role of the District Commission or the State Commission or the National Commission in settling a consumer dispute?",
+      "How does the District Commission or the State Commission or the National Commission pass a suitable order?",
+      "What is the time limit for passing a suitable order after receiving the settlement report?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

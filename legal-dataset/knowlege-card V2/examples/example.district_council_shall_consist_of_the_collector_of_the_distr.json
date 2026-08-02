@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.district_council_shall_consist_of_the_collector_of_the_distr",
+  "concept_type": "example",
+  "title": "Composition of District Council",
+  "description": "Illustrative example for: obligation.district_council_shall_consist_of_the_collector_of_the_distr",
+  "content": {
+    "scenario": "The government of Maharashtra is setting up a new District Council in Pune. The Collector of Pune district is appointed as the Chairperson, and other members are to be selected.",
+    "outcome": "The District Council in Pune shall consist of the Collector of the district as the Chairperson and other official and non-official members representing prescribed interests, as may be prescribed by the government."
+  },
+  "derived_from": [
+    "obligation.district_council_shall_consist_of_the_collector_of_the_distr"
+  ],
+  "related_concepts": [
+    "obligation.district_council_shall_consist_of_the_collector_of_the_distr"
+  ],
+  "search": {
+    "keywords": [
+      "District Council",
+      "Collector",
+      "Chairperson",
+      "Pune",
+      "composition",
+      "members"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Who is the Chairperson of the District Council?",
+      "What is the composition of the District Council?",
+      "How are members of the District Council selected?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

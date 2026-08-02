@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.meeting_of_central_council",
+  "concept_type": "example",
+  "title": "Meeting of Central Council Procedure",
+  "description": "Illustrative example for: procedure.meeting_of_central_council",
+  "content": {
+    "scenario": "The Chairperson of the Central Council determines the time and place of a meeting. The Central Council meets at the determined time and place and observes the prescribed procedure for transaction of its business.",
+    "outcome": "The Central Council meets at the time and place determined by the Chairperson and observes the prescribed procedure for transaction of its business, as per the provisions of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "procedure.meeting_of_central_council"
+  ],
+  "related_concepts": [
+    "procedure.meeting_of_central_council"
+  ],
+  "search": {
+    "keywords": [
+      "Central Council",
+      "meeting procedure",
+      "Chairperson",
+      "prescribed procedure",
+      "Consumer Protection Act"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How often does the Central Council meet?",
+      "What is the role of the Chairperson in the Central Council meeting?",
+      "What procedure does the Central Council follow for its meetings?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

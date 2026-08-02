@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.two_months",
+  "concept_type": "example",
+  "title": "Two Month Timeline for Presidential Reference",
+  "description": "Illustrative example for: timeline.two_months",
+  "content": {
+    "scenario": "A Bench of the State Commission differed in opinion on a point and made a reference to the President. The President is now considering the point and needs to give an opinion.",
+    "outcome": "According to the proviso to sub-section (3) of Section 58, the President shall give an opinion on the point referred within a period of two months from the date of such reference."
+  },
+  "derived_from": [
+    "timeline.two_months"
+  ],
+  "related_concepts": [
+    "timeline.two_months"
+  ],
+  "search": {
+    "keywords": [
+      "Consumer Protection Act",
+      "two month timeline",
+      "presidential reference",
+      "State Commission",
+      "Bench opinion"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the timeline for the President to give an opinion on a referred point under the Consumer Protection Act?",
+      "Can the President extend the timeline for giving an opinion?",
+      "What happens if the President does not give an opinion within the specified timeline?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

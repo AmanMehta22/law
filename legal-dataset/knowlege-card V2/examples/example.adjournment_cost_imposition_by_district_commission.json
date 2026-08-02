@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.adjournment_cost_imposition_by_district_commission",
+  "concept_type": "example",
+  "title": "Adjournment Cost Imposition by District Commission",
+  "description": "Illustrative example for: procedure.adjournment_cost_imposition_by_district_commission",
+  "content": {
+    "scenario": "Rahul, a consumer, files a complaint against a company before the District Commission in Mumbai. The company requests an adjournment, which is granted by the Commission. The Commission imposes costs for the adjournment as per the regulations under section 38.",
+    "outcome": "The District Commission imposes costs for adjournment on the company as per the regulations under section 38, and the company is required to pay the costs."
+  },
+  "derived_from": [
+    "procedure.adjournment_cost_imposition_by_district_commission"
+  ],
+  "related_concepts": [
+    "procedure.adjournment_cost_imposition_by_district_commission"
+  ],
+  "search": {
+    "keywords": [
+      "adjournment",
+      "costs",
+      "District Commission",
+      "section 38",
+      "regulations",
+      "consumer protection"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the rules for adjournment costs in consumer cases?",
+      "Can the District Commission impose costs for adjournment?",
+      "How are adjournment costs calculated in consumer cases?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

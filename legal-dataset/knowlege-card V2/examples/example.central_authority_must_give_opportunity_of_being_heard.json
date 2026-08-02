@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.central_authority_must_give_opportunity_of_being_heard",
+  "concept_type": "example",
+  "title": "Opportunity of Being Heard",
+  "description": "Illustrative example for: obligation.central_authority_must_give_opportunity_of_being_heard",
+  "content": {
+    "scenario": "The Central Authority is satisfied that a company has engaged in unfair trade practices and decides to pass an order recalling the defective products. Before passing the order, the Central Authority must give the company an opportunity to respond.",
+    "outcome": "The Central Authority must give the company an opportunity of being heard before passing an order under this section, to ensure that the company has a chance to present its case and respond to the allegations."
+  },
+  "derived_from": [
+    "obligation.central_authority_must_give_opportunity_of_being_heard"
+  ],
+  "related_concepts": [
+    "obligation.central_authority_must_give_opportunity_of_being_heard"
+  ],
+  "search": {
+    "keywords": [
+      "Central Authority",
+      "opportunity of being heard",
+      "unfair trade practices",
+      "order",
+      "recall of products"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What happens before the Central Authority passes an order?",
+      "Does the Central Authority have to give the company a chance to respond?",
+      "How does the Central Authority ensure that the company is heard before passing an order?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.records_of_business_transactions_publication_records",
+  "concept_type": "example",
+  "title": "Records of Business Transactions and Publication Records",
+  "description": "Illustrative example for: evidence.records_of_business_transactions_publication_records",
+  "content": {
+    "scenario": "A consumer files a complaint against a company for publishing a misleading advertisement. The company claims it published the advertisement in the ordinary course of its business and provides records of business transactions and publication records as evidence.",
+    "outcome": "The company may not be liable for the penalty if it proves that it had published or arranged for the publication of the advertisement in the ordinary course of its business, as per Section 21(6) of the Consumer Protection Act, 2019. However, if the company had previous knowledge of the order passed by the Central Authority for withdrawal or modification of the advertisement, this defense will not be available."
+  },
+  "derived_from": [
+    "evidence.records_of_business_transactions_publication_records"
+  ],
+  "related_concepts": [
+    "evidence.records_of_business_transactions_publication_records"
+  ],
+  "search": {
+    "keywords": [
+      "misleading advertisement",
+      "business transactions",
+      "publication records",
+      "ordinary course of business",
+      "Consumer Protection Act",
+      "Section 21(6)"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the requirements for a company to prove it published an advertisement in the ordinary course of business?",
+      "Can a company be liable for a penalty if it publishes a misleading advertisement?",
+      "What is the relevance of records of business transactions and publication records in a consumer complaint?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

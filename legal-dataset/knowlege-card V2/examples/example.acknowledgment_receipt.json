@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.acknowledgment_receipt",
+  "concept_type": "example",
+  "title": "Acknowledgment and Receipt of Notice",
+  "description": "Illustrative example for: evidence.acknowledgment_receipt",
+  "content": {
+    "scenario": "A consumer sends a notice to a company regarding a defective product, but the company claims that it never received the notice. The consumer has a receipt from the postal service confirming that the notice was delivered to the company's address.",
+    "outcome": "The District Commission may declare that the notice has been duly served on the company under Section 65(3) of the Consumer Protection Act, 2019, as the consumer has a receipt from the postal service confirming delivery, and the company's claim of non-receipt is not sufficient to dispute the service of notice."
+  },
+  "derived_from": [
+    "evidence.acknowledgment_receipt"
+  ],
+  "related_concepts": [
+    "evidence.acknowledgment_receipt"
+  ],
+  "search": {
+    "keywords": [
+      "notice",
+      "acknowledgment",
+      "receipt",
+      "postal service",
+      "District Commission",
+      "service of notice"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How can a consumer prove that a notice has been served on a company?",
+      "What is the effect of a receipt from the postal service on the service of notice?",
+      "Can a company dispute the service of notice if it claims not to have received it?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

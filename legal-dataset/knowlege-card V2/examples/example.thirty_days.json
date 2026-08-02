@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.thirty_days",
+  "concept_type": "example",
+  "title": "Filing an Appeal",
+  "description": "Illustrative example for: timeline.thirty_days",
+  "content": {
+    "scenario": "A person, Kumar, received an order from the Central Authority under sections 20 and 21. How many days does Kumar have to file an appeal to the National Commission?",
+    "outcome": "Kumar can file an appeal to the National Commission within thirty days from the date of receipt of the order."
+  },
+  "derived_from": [
+    "timeline.thirty_days"
+  ],
+  "related_concepts": [
+    "timeline.thirty_days"
+  ],
+  "search": {
+    "keywords": [
+      "appeal",
+      "National Commission",
+      "thirty days",
+      "Central Authority",
+      "order"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How long does a person have to file an appeal to the National Commission?",
+      "What is the deadline for filing an appeal against an order of the Central Authority?",
+      "Can a person file an appeal to the National Commission after thirty days of receiving the order?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

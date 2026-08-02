@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.district_commission_must_decide_the_issue_of_admissibility_o",
+  "concept_type": "example",
+  "title": "District Commission's Obligation to Decide the Issue of Admissibility of the Complaint",
+  "description": "Illustrative example for: obligation.district_commission_must_decide_the_issue_of_admissibility_o",
+  "content": {
+    "scenario": "A consumer files a complaint against a trader alleging unfair trade practices. The District Commission receives the complaint but fails to decide on its admissibility within the specified timeframe of 21 days.",
+    "outcome": "The complaint shall be deemed to have been admitted, as the District Commission has not decided on the issue of admissibility within the specified timeframe."
+  },
+  "derived_from": [
+    "obligation.district_commission_must_decide_the_issue_of_admissibility_o"
+  ],
+  "related_concepts": [
+    "obligation.district_commission_must_decide_the_issue_of_admissibility_o"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "admissibility",
+      "complaint",
+      "timeframe",
+      "deemed admitted"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What happens if the District Commission does not decide on admissibility within the specified timeframe?",
+      "Can a complaint be deemed admitted if the District Commission fails to decide on admissibility?",
+      "What are the consequences of a complaint being deemed admitted?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

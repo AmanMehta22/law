@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.submission_of_inquiries_or_investigation",
+  "concept_type": "example",
+  "title": "Submission of Inquiries or Investigation",
+  "description": "Illustrative example for: procedure.submission_of_inquiries_or_investigation",
+  "content": {
+    "scenario": "The Director-General of the Central Authority conducts an investigation into a complaint filed by a consumer against a company for selling defective products. After completing the investigation, the Director-General submits the report to the Central Authority in the prescribed form and manner within the specified time.",
+    "outcome": "The Central Authority reviews the report and takes necessary actions against the company as per the Consumer Protection Act, 2019. The company may be required to refund the consumer, pay compensation, or take other corrective measures."
+  },
+  "derived_from": [
+    "procedure.submission_of_inquiries_or_investigation"
+  ],
+  "related_concepts": [
+    "procedure.submission_of_inquiries_or_investigation"
+  ],
+  "search": {
+    "keywords": [
+      "consumer protection",
+      "inquiry",
+      "investigation",
+      "Director-General",
+      "Central Authority",
+      "defective products"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the procedure for submitting inquiries or investigations?",
+      "Who conducts investigations under the Consumer Protection Act?",
+      "What actions can be taken against a company selling defective products?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

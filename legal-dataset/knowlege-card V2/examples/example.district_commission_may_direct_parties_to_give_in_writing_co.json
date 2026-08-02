@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.district_commission_may_direct_parties_to_give_in_writing_co",
+  "concept_type": "example",
+  "title": "District Commission's Direction for Mediation",
+  "description": "Illustrative example for: obligation.district_commission_may_direct_parties_to_give_in_writing_co",
+  "content": {
+    "scenario": "A consumer and a company are involved in a dispute regarding a defective product. The District Commission, at the first hearing, directs the parties to consider mediation to settle the dispute.",
+    "outcome": "The consumer and the company are given five days to provide their consent in writing to have their dispute settled by mediation. If they agree, the District Commission refers the matter to mediation in accordance with the provisions of Chapter V."
+  },
+  "derived_from": [
+    "obligation.district_commission_may_direct_parties_to_give_in_writing_co"
+  ],
+  "related_concepts": [
+    "obligation.district_commission_may_direct_parties_to_give_in_writing_co"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "mediation",
+      "dispute settlement",
+      "consumer dispute",
+      "defective product",
+      "written consent"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can the District Commission direct parties to consider mediation?",
+      "What is the process for mediation in consumer disputes?",
+      "What happens if the parties agree to mediation?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

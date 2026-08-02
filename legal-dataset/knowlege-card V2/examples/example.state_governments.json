@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.state_governments",
+  "concept_type": "example",
+  "title": "State Governments' Rule-Making Power",
+  "description": "Illustrative example for: authority.state_governments",
+  "content": {
+    "scenario": "The State Government of Maharashtra wants to make rules for the implementation of the Consumer Protection Act, 2019, in the state. They issue a notification to make rules for carrying out the provisions of the Act.",
+    "outcome": "The State Government of Maharashtra has the power to make rules for carrying out the provisions of the Consumer Protection Act, 2019, as per Section 102 of the Act. The Central Government may frame model rules, but the State Government's rules will apply until they are made."
+  },
+  "derived_from": [
+    "authority.state_governments"
+  ],
+  "related_concepts": [
+    "authority.state_governments"
+  ],
+  "search": {
+    "keywords": [
+      "State Governments",
+      "rule-making power",
+      "Consumer Protection Act",
+      "2019",
+      "Maharashtra",
+      "notification"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the role of State Governments in implementing the Consumer Protection Act?",
+      "Can State Governments make rules for the Act?",
+      "How do State Governments' rules relate to the Central Government's model rules?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

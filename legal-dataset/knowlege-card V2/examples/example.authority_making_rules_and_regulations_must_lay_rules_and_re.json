@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.authority_making_rules_and_regulations_must_lay_rules_and_re",
+  "concept_type": "example",
+  "title": "Authority's Obligation to Lay Rules and Regulations before Parliament",
+  "description": "Illustrative example for: obligation.authority_making_rules_and_regulations_must_lay_rules_and_re",
+  "content": {
+    "scenario": "The Central Government makes a new rule under the Consumer Protection Act, 2019, regarding the procedure for filing consumer complaints.",
+    "outcome": "The Central Government must lay the new rule before each House of Parliament, as soon as may be after it is made, for a total period of 30 days, while it is in session, to allow for modification or annulment."
+  },
+  "derived_from": [
+    "obligation.authority_making_rules_and_regulations_must_lay_rules_and_re"
+  ],
+  "related_concepts": [
+    "obligation.authority_making_rules_and_regulations_must_lay_rules_and_re"
+  ],
+  "search": {
+    "keywords": [
+      "rules",
+      "regulations",
+      "Parliament",
+      "modification",
+      "annulment",
+      "session"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the requirement for making rules and regulations under the Act?",
+      "How must the rules and regulations be laid before Parliament?",
+      "Can the rules and regulations be modified or annulled by Parliament?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

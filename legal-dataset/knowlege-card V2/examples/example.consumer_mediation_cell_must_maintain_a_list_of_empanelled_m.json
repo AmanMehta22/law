@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.consumer_mediation_cell_must_maintain_a_list_of_empanelled_m",
+  "concept_type": "example",
+  "title": "Consumer Mediation Cell Must Maintain a List of Empanelled Mediators",
+  "description": "Illustrative example for: obligation.consumer_mediation_cell_must_maintain_a_list_of_empanelled_m",
+  "content": {
+    "scenario": "A Consumer Mediation Cell has been established in a district to resolve consumer disputes. The cell needs to maintain certain information as per the Consumer Protection Act, 2019.",
+    "outcome": "The Consumer Mediation Cell must maintain a list of empanelled mediators, a list of cases handled by the cell, a record of proceedings, and any other information as may be specified by regulations."
+  },
+  "derived_from": [
+    "obligation.consumer_mediation_cell_must_maintain_a_list_of_empanelled_m"
+  ],
+  "related_concepts": [
+    "obligation.consumer_mediation_cell_must_maintain_a_list_of_empanelled_m"
+  ],
+  "search": {
+    "keywords": [
+      "Consumer Mediation Cell",
+      "empanelled mediators",
+      "list",
+      "cases",
+      "record of proceedings",
+      "regulations"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What information must a Consumer Mediation Cell maintain?",
+      "What is the purpose of maintaining a list of empanelled mediators?",
+      "Can a Consumer Mediation Cell maintain additional information beyond what is specified in the Act?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

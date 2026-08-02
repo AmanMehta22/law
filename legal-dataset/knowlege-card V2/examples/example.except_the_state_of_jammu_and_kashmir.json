@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.except_the_state_of_jammu_and_kashmir",
+  "concept_type": "example",
+  "title": "Exception to the Application of the Consumer Protection Act, 2019",
+  "description": "Illustrative example for: exception.except_the_state_of_jammu_and_kashmir",
+  "content": {
+    "scenario": "A consumer from the State of Jammu and Kashmir purchases a defective product from a seller in New Delhi. The consumer files a complaint against the seller in a consumer court in New Delhi.",
+    "outcome": "The consumer court in New Delhi will not have jurisdiction to hear the case as the Consumer Protection Act, 2019 does not extend to the State of Jammu and Kashmir."
+  },
+  "derived_from": [
+    "exception.except_the_state_of_jammu_and_kashmir"
+  ],
+  "related_concepts": [
+    "exception.except_the_state_of_jammu_and_kashmir"
+  ],
+  "search": {
+    "keywords": [
+      "Consumer Protection Act",
+      "Jammu and Kashmir",
+      "exception",
+      "jurisdiction",
+      "consumer court"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the jurisdiction of the Consumer Protection Act, 2019?",
+      "Can a consumer from Jammu and Kashmir file a complaint in a consumer court in New Delhi?",
+      "Is the Consumer Protection Act, 2019 applicable in Jammu and Kashmir?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

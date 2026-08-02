@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.complaint_admissibility_procedure",
+  "concept_type": "example",
+  "title": "Complaint Admissibility Procedure",
+  "description": "Illustrative example for: procedure.complaint_admissibility_procedure",
+  "content": {
+    "scenario": "Rahul, a consumer, files a complaint against a company with the District Commission in Delhi, alleging that the company sold him a defective product. The District Commission receives the complaint and provides Rahul with an opportunity to be heard.",
+    "outcome": "The District Commission decides on the admissibility of the complaint within 21 days from the date of filing and may admit or reject the complaint. If the complaint is admitted, the Commission proceeds with the next steps. If rejected, the Commission provides reasons for the rejection in writing."
+  },
+  "derived_from": [
+    "procedure.complaint_admissibility_procedure"
+  ],
+  "related_concepts": [
+    "procedure.complaint_admissibility_procedure"
+  ],
+  "search": {
+    "keywords": [
+      "complaint admissibility",
+      "District Commission",
+      "consumer protection",
+      "defective product",
+      "opportunity to be heard"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the procedure for filing a complaint with the District Commission?",
+      "How long does the District Commission take to decide on the admissibility of a complaint?",
+      "What happens if the District Commission rejects a complaint?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

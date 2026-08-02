@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.copies_of_documents",
+  "concept_type": "example",
+  "title": "Uniform Procedure in Hearing of Matters",
+  "description": "Illustrative example for: evidence.copies_of_documents",
+  "content": {
+    "scenario": "The National Commission issues instructions to the State Commissions to adopt a uniform procedure in the hearing of matters, including the prior service of copies of documents produced by one party to the opposite parties.",
+    "outcome": "The State Commissions are required to follow the uniform procedure laid down by the National Commission, including the prior service of copies of documents, to ensure speedy disposal of cases and better protection of consumer interests."
+  },
+  "derived_from": [
+    "evidence.copies_of_documents"
+  ],
+  "related_concepts": [
+    "evidence.copies_of_documents"
+  ],
+  "search": {
+    "keywords": [
+      "uniform procedure",
+      "National Commission",
+      "State Commissions",
+      "copies of documents",
+      "hearing of matters"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the purpose of the uniform procedure in the hearing of matters?",
+      "Can the National Commission lay down standards for the State Commissions?",
+      "What is the role of the prior service of copies of documents in the hearing of matters?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

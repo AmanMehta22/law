@@ -1,0 +1,40 @@
+{
+  "concept_id": "example.party_to_the_contract_must_not_impose_disproportionate_penal",
+  "concept_type": "example",
+  "title": "Disproportionate Penalties",
+  "description": "Illustrative example for: obligation.party_to_the_contract_must_not_impose_disproportionate_penal",
+  "content": {
+    "scenario": "A consumer, Ramesh, enters into a contract with a manufacturer, JKL Ltd., for the purchase of a product. Ramesh breaches the contract and JKL Ltd. imposes a penalty that is wholly disproportionate to the loss occurred due to the breach.",
+    "outcome": "The penalty imposed by JKL Ltd. is not valid as it is an unfair contract term, being wholly disproportionate to the loss occurred due to the breach."
+  },
+  "derived_from": [
+    "obligation.party_to_the_contract_must_not_impose_disproportionate_penal"
+  ],
+  "related_concepts": [
+    "obligation.party_to_the_contract_must_not_impose_disproportionate_penal"
+  ],
+  "search": {
+    "keywords": [
+      "disproportionate penalty",
+      "unfair contract",
+      "breach of contract",
+      "consumer protection"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is a disproportionate penalty?",
+      "Can a manufacturer impose a penalty for breach of contract?",
+      "Is a wholly disproportionate penalty an unfair contract term?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

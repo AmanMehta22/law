@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.central_council",
+  "concept_type": "example",
+  "title": "Central Council",
+  "description": "Illustrative example for: authority.central_council",
+  "content": {
+    "scenario": "The Central Council meets to discuss the promotion and protection of consumer rights. A consumer in Chennai wants to know the objects of the Central Council.",
+    "outcome": "The Central Council renders advice on the promotion and protection of consumer rights under the Act, and its objects are to advise on these matters."
+  },
+  "derived_from": [
+    "authority.central_council"
+  ],
+  "related_concepts": [
+    "authority.central_council"
+  ],
+  "search": {
+    "keywords": [
+      "Central Council",
+      "consumer rights",
+      "promotion",
+      "protection",
+      "advice"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the objects of the Central Council?",
+      "How does the Central Council promote consumer rights?",
+      "What is the role of the Central Council in advising on consumer protection?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

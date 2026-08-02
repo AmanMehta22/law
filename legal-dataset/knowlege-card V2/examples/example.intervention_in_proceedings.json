@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.intervention_in_proceedings",
+  "concept_type": "example",
+  "title": "Intervention in Proceedings",
+  "description": "Illustrative example for: procedure.intervention_in_proceedings",
+  "content": {
+    "scenario": "A consumer, Rohan, files a complaint with the District Commission against a company, XYZ Ltd, for violating his consumer rights by selling a hazardous product. The Central Authority intervenes in the proceedings to investigate the allegations of violation of consumer rights or unfair trade practices.",
+    "outcome": "The Central Authority may file complaints before the District Commission, the State Commission or the National Commission, as the case may be, under this Act, and intervene in any proceedings before the District Commission or the State Commission or the National Commission, as the case may be, in respect of any allegation of violation of consumer rights or unfair trade practices."
+  },
+  "derived_from": [
+    "procedure.intervention_in_proceedings"
+  ],
+  "related_concepts": [
+    "procedure.intervention_in_proceedings"
+  ],
+  "search": {
+    "keywords": [
+      "consumer rights",
+      "Central Authority",
+      "intervention in proceedings",
+      "hazardous product",
+      "unfair trade practices"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the role of the Central Authority in consumer rights?",
+      "How does the Central Authority intervene in proceedings?",
+      "What are the powers of the Central Authority in investigating violations of consumer rights or unfair trade practices?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

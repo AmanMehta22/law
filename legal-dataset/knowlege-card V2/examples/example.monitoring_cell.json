@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.monitoring_cell",
+  "concept_type": "example",
+  "title": "Monitoring Cell's Role",
+  "description": "Illustrative example for: authority.monitoring_cell",
+  "content": {
+    "scenario": "The President of the National Commission constitutes a Monitoring Cell to oversee the functioning of the State Commissions from an administrative point of view. The Monitoring Cell finds that one of the State Commissions is not functioning efficiently and reports it to the National Commission.",
+    "outcome": "The National Commission can take corrective action against the State Commission based on the report of the Monitoring Cell. The Monitoring Cell's oversight is limited to the administrative point of view, and it does not have the power to interfere with the judicial functions of the State Commissions."
+  },
+  "derived_from": [
+    "authority.monitoring_cell"
+  ],
+  "related_concepts": [
+    "authority.monitoring_cell"
+  ],
+  "search": {
+    "keywords": [
+      "Monitoring Cell",
+      "National Commission",
+      "State Commissions",
+      "administrative point of view",
+      "oversight"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the role of the Monitoring Cell?",
+      "Can the Monitoring Cell interfere with the judicial functions of the State Commissions?",
+      "How can the National Commission take corrective action against a State Commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

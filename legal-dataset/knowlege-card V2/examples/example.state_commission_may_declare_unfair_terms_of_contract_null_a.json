@@ -1,0 +1,43 @@
+{
+  "concept_id": "example.state_commission_may_declare_unfair_terms_of_contract_null_a",
+  "concept_type": "example",
+  "title": "State Commission to Declare Unfair Terms Null and Void",
+  "description": "Illustrative example for: obligation.state_commission_may_declare_unfair_terms_of_contract_null_a",
+  "content": {
+    "scenario": "A consumer, Mr. Singh, files a complaint before the State Commission of Delhi against a company for including unfair terms in their contract. The State Commission is required to declare such terms null and void if they are unfair to the consumer.",
+    "outcome": "The State Commission may declare the unfair terms of the contract null and void as they are unfair to Mr. Singh. This ensures that the consumer is protected from exploitation and that the company is held accountable for their actions."
+  },
+  "derived_from": [
+    "obligation.state_commission_may_declare_unfair_terms_of_contract_null_a"
+  ],
+  "related_concepts": [
+    "obligation.state_commission_may_declare_unfair_terms_of_contract_null_a"
+  ],
+  "search": {
+    "keywords": [
+      "State Commission",
+      "unfair terms",
+      "contract",
+      "null and void",
+      "consumer protection",
+      "CPA 2019",
+      "Delhi"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can the State Commission declare unfair terms of a contract null and void?",
+      "How does the State Commission protect consumers from unfair contracts?",
+      "What happens when a company includes unfair terms in their contract?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

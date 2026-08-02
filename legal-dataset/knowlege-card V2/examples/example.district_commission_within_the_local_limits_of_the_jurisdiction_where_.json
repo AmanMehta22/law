@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.district_commission_within_the_local_limits_of_the_jurisdiction_where_",
+  "concept_type": "example",
+  "title": "Jurisdiction of District Commission Based on Territorial Limits",
+  "description": "Illustrative example for: jurisdiction.district_commission_within_the_local_limits_of_the_jurisdiction_where_the_opposi",
+  "content": {
+    "scenario": "A consumer, Karan, purchases a product from a company that has a branch office in Delhi. Karan resides in Gurgaon. He wants to file a complaint against the company in the District Commission.",
+    "outcome": "Karan can file his complaint in the District Commission within the local limits of whose jurisdiction the company has a branch office, which is Delhi, or where Karan resides, which is Gurgaon."
+  },
+  "derived_from": [
+    "jurisdiction.district_commission_within_the_local_limits_of_the_jurisdiction_where_the_opposi"
+  ],
+  "related_concepts": [
+    "jurisdiction.district_commission_within_the_local_limits_of_the_jurisdiction_where_the_opposi"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "territorial limits",
+      "jurisdiction",
+      "branch office",
+      "residence"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Where can I file a complaint against a company with a branch office in another city?",
+      "Can I file a complaint in the District Commission where I reside?",
+      "What are the territorial limits for filing a complaint in the District Commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

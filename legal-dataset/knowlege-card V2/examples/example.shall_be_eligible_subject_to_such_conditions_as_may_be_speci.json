@@ -1,0 +1,40 @@
+{
+  "concept_id": "example.shall_be_eligible_subject_to_such_conditions_as_may_be_speci",
+  "concept_type": "example",
+  "title": "Re-empanelment of Mediators",
+  "description": "Illustrative example for: exception.shall_be_eligible_subject_to_such_conditions_as_may_be_speci",
+  "content": {
+    "scenario": "A mediator was empanelled by a District Commission for a term of five years. The term has expired, and the mediator wants to be re-empanelled.",
+    "outcome": "The mediator shall be eligible to be considered for re-empanelment for another term, subject to such conditions as may be specified by regulations. This means that the mediator can be re-empanelled if they meet the conditions specified by regulations."
+  },
+  "derived_from": [
+    "exception.shall_be_eligible_subject_to_such_conditions_as_may_be_speci"
+  ],
+  "related_concepts": [
+    "exception.shall_be_eligible_subject_to_such_conditions_as_may_be_speci"
+  ],
+  "search": {
+    "keywords": [
+      "mediator re-empanelment",
+      "conditions for re-empanelment",
+      "regulations",
+      "District Commission"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can a mediator be re-empanelled after their term expires?",
+      "What are the conditions for re-empanelment of mediators?",
+      "How do regulations affect mediator re-empanelment?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

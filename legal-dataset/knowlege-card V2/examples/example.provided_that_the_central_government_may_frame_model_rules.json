@@ -1,0 +1,40 @@
+{
+  "concept_id": "example.provided_that_the_central_government_may_frame_model_rules",
+  "concept_type": "example",
+  "title": "Provided That The Central Government May Frame Model Rules",
+  "description": "Illustrative example for: exception.provided_that_the_central_government_may_frame_model_rules",
+  "content": {
+    "scenario": "The Central Government has framed model rules for carrying out the provisions of the Act. The State Governments are making rules for the same provisions. The Central Government's model rules will apply to the State until the State Government makes its own rules.",
+    "outcome": "The Central Government's model rules will apply to the State until the State Government makes its own rules."
+  },
+  "derived_from": [
+    "exception.provided_that_the_central_government_may_frame_model_rules"
+  ],
+  "related_concepts": [
+    "exception.provided_that_the_central_government_may_frame_model_rules"
+  ],
+  "search": {
+    "keywords": [
+      "Central Government",
+      "model rules",
+      "State Governments",
+      "provisions of the Act"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the exceptions to product liability?",
+      "Can the Central Government frame model rules for the Act?",
+      "What are the conditions for the Central Government's model rules to apply to the State?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

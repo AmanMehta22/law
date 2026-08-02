@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.national_commission_must_obtain_previous_approval_of_the_cen",
+  "concept_type": "example",
+  "title": "National Commission Regulation Approval",
+  "description": "Illustrative example for: obligation.national_commission_must_obtain_previous_approval_of_the_cen",
+  "content": {
+    "scenario": "The National Commission wants to make regulations regarding e-commerce consumer protection, but needs to obtain approval from the Central Government before doing so.",
+    "outcome": "The National Commission must obtain the previous approval of the Central Government before making regulations, ensuring that they are not inconsistent with the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.national_commission_must_obtain_previous_approval_of_the_cen"
+  ],
+  "related_concepts": [
+    "obligation.national_commission_must_obtain_previous_approval_of_the_cen"
+  ],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "regulations",
+      "Central Government",
+      "approval",
+      "e-commerce",
+      "consumer protection"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the process for the National Commission to make regulations?",
+      "Can the National Commission make regulations without Central Government approval?",
+      "What are the limitations on the National Commission's regulatory powers?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

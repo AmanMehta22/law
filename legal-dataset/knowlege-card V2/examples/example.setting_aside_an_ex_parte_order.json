@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.setting_aside_an_ex_parte_order",
+  "concept_type": "example",
+  "title": "Setting Aside an Ex Parte Order under the Consumer Protection Act, 2019",
+  "description": "Illustrative example for: procedure.setting_aside_an_ex_parte_order",
+  "content": {
+    "scenario": "The National Commission passes an ex parte order against a company for non-compliance with a consumer protection regulation. The company, which was not given an opportunity to be heard, applies to the National Commission to set aside the order.",
+    "outcome": "The National Commission considers the company's application and may set aside the ex parte order if it is satisfied that the company was not given a fair opportunity to be heard or that there are other sufficient grounds for setting aside the order."
+  },
+  "derived_from": [
+    "procedure.setting_aside_an_ex_parte_order"
+  ],
+  "related_concepts": [
+    "procedure.setting_aside_an_ex_parte_order"
+  ],
+  "search": {
+    "keywords": [
+      "ex parte order",
+      "National Commission",
+      "consumer protection regulation",
+      "setting aside an order",
+      "fair opportunity to be heard"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is an ex parte order under the Consumer Protection Act, 2019?",
+      "How can an ex parte order be set aside?",
+      "What are the grounds for setting aside an ex parte order?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

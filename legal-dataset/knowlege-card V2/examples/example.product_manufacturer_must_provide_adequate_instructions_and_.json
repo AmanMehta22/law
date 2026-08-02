@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.product_manufacturer_must_provide_adequate_instructions_and_",
+  "concept_type": "example",
+  "title": "Product Manufacturer's Obligation to Provide Adequate Instructions and Warnings",
+  "description": "Illustrative example for: obligation.product_manufacturer_must_provide_adequate_instructions_and_",
+  "content": {
+    "scenario": "A product manufacturer is selling a product that requires specific usage instructions to prevent harm. The manufacturer needs to provide adequate instructions and warnings to the consumer.",
+    "outcome": "The product manufacturer is liable to provide adequate instructions and warnings to the consumer, as the product may contain a manufacturing defect, be defective in design, or fail to conform to the express warranty, as per Section 84(1) of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.product_manufacturer_must_provide_adequate_instructions_and_"
+  ],
+  "related_concepts": [
+    "obligation.product_manufacturer_must_provide_adequate_instructions_and_"
+  ],
+  "search": {
+    "keywords": [
+      "product manufacturer",
+      "adequate instructions",
+      "warnings",
+      "product liability",
+      "consumer protection"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the obligations of a product manufacturer?",
+      "What happens if a product is defective?",
+      "How can a consumer protect themselves from harm caused by a product?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

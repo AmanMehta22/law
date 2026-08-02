@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.national_commission_1",
+  "concept_type": "example",
+  "title": "National Commission's Powers and Functions",
+  "description": "Illustrative example for: authority.national_commission",
+  "content": {
+    "scenario": "A consumer files an appeal against the order of the Central Authority before the National Commission. The National Commission hears the appeal and finds that the Central Authority's order was incorrect.",
+    "outcome": "The National Commission can set aside the order of the Central Authority and pass a new order. The National Commission has the power to hear appeals against the orders of the Central Authority and can also entertain complaints directly from consumers. The National Commission's order is binding on all parties."
+  },
+  "derived_from": [
+    "authority.national_commission"
+  ],
+  "related_concepts": [
+    "authority.national_commission"
+  ],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "Central Authority",
+      "appeal",
+      "order",
+      "complaint"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the powers of the National Commission?",
+      "Can the National Commission hear appeals against the orders of the Central Authority?",
+      "How can a consumer file a complaint directly with the National Commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

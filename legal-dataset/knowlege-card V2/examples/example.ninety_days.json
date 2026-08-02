@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.ninety_days",
+  "concept_type": "example",
+  "title": "Appeal Disposal Timeline",
+  "description": "Illustrative example for: timeline.ninety_days",
+  "content": {
+    "scenario": "Rahul files an appeal before the National Commission against a decision of the State Commission. The appeal is admitted on 1st January 2024. Rahul requests an adjournment, but the National Commission denies it as no sufficient cause is shown.",
+    "outcome": "The National Commission shall endeavour to dispose of the appeal within ninety days from the date of its admission, i.e., by 1st April 2024. If the appeal is disposed of after this period, the National Commission shall record in writing the reasons for the delay."
+  },
+  "derived_from": [
+    "timeline.ninety_days"
+  ],
+  "related_concepts": [
+    "timeline.ninety_days"
+  ],
+  "search": {
+    "keywords": [
+      "appeal",
+      "National Commission",
+      "ninety days",
+      "adjournment",
+      "sufficient cause",
+      "disposal"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the timeline for disposing of an appeal before the National Commission?",
+      "Can the National Commission grant an adjournment without sufficient cause?",
+      "What happens if the appeal is not disposed of within ninety days?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

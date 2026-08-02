@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.authority_must_set_qualifications_and_experience_for_empanel",
+  "concept_type": "example",
+  "title": "Qualifications and Experience for Empanelment as Mediator",
+  "description": "Illustrative example for: obligation.authority_must_set_qualifications_and_experience_for_empanel",
+  "content": {
+    "scenario": "The Central Authority is in the process of empaneling new mediators for the Consumer Mediation Cell. The Authority must set the qualifications and experience required for empanelment as mediator under sub-section (2) of section 75.",
+    "outcome": "The Authority will set the qualifications and experience required for empanelment as mediator under sub-section (2) of section 75, as per the regulations made under the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.authority_must_set_qualifications_and_experience_for_empanel"
+  ],
+  "related_concepts": [
+    "obligation.authority_must_set_qualifications_and_experience_for_empanel"
+  ],
+  "search": {
+    "keywords": [
+      "qualifications",
+      "experience",
+      "empanelment",
+      "mediator",
+      "section 75"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the qualifications required to become a mediator?",
+      "What experience is required for empanelment as a mediator?",
+      "How are mediators empaneled under the Consumer Protection Act, 2019?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

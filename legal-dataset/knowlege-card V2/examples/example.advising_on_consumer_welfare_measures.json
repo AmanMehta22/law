@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.advising_on_consumer_welfare_measures",
+  "concept_type": "example",
+  "title": "Advising on Consumer Welfare Measures",
+  "description": "Illustrative example for: procedure.advising_on_consumer_welfare_measures",
+  "content": {
+    "scenario": "The Central Authority identifies a need to advise the Ministries and Departments on consumer welfare measures to protect consumers from unfair trade practices. The Central Authority issues safety notices and guidelines to alert consumers against hazardous goods and services.",
+    "outcome": "The Central Authority advises the Ministries and Departments on consumer welfare measures, including the issuance of safety notices and guidelines, to protect consumers from unfair trade practices."
+  },
+  "derived_from": [
+    "procedure.advising_on_consumer_welfare_measures"
+  ],
+  "related_concepts": [
+    "procedure.advising_on_consumer_welfare_measures"
+  ],
+  "search": {
+    "keywords": [
+      "consumer welfare",
+      "safety notices",
+      "guidelines",
+      "Central Authority",
+      "unfair trade practices"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the role of the Central Authority in consumer protection?",
+      "How does the Central Authority advise on consumer welfare measures?",
+      "What are the measures taken by the Central Authority to protect consumers?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

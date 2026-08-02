@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.district_commission_must_consider_complaint_filed_on_behalf_",
+  "concept_type": "example",
+  "title": "District Commission's Obligation to Consider Complaints Filed on Behalf of Multiple Consumers",
+  "description": "Illustrative example for: obligation.district_commission_must_consider_complaint_filed_on_behalf_",
+  "content": {
+    "scenario": "A group of 50 consumers from Delhi approach a recognized consumer association, alleging unfair trade practices by a prominent e-commerce company. The association, with the permission of the District Commission, files a complaint on behalf of all the consumers. The complaint alleges that the company has been charging exorbitant prices for its products and services.",
+    "outcome": "The District Commission must consider the complaint filed on behalf of the multiple consumers, as it has been filed with the permission of the District Commission and there are numerous consumers having the same interest."
+  },
+  "derived_from": [
+    "obligation.district_commission_must_consider_complaint_filed_on_behalf_"
+  ],
+  "related_concepts": [
+    "obligation.district_commission_must_consider_complaint_filed_on_behalf_"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "complaint",
+      "multiple consumers",
+      "unfair trade practices",
+      "recognized consumer association",
+      "permission"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can a complaint be filed on behalf of multiple consumers?",
+      "What is the role of a recognized consumer association in filing complaints?",
+      "How does the District Commission handle complaints filed on behalf of multiple consumers?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

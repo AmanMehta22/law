@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.national_commission_or_the_state_commission_or_the_district_",
+  "concept_type": "example",
+  "title": "Mediator Panel Preparation",
+  "description": "Illustrative example for: obligation.national_commission_or_the_state_commission_or_the_district_",
+  "content": {
+    "scenario": "The District Commission wants to establish a consumer mediation cell and needs to prepare a panel of mediators to assist in resolving consumer disputes.",
+    "outcome": "The District Commission shall prepare a panel of mediators on the recommendation of a selection committee consisting of the President and a member of the Commission, to be maintained by the consumer mediation cell."
+  },
+  "derived_from": [
+    "obligation.national_commission_or_the_state_commission_or_the_district_"
+  ],
+  "related_concepts": [
+    "obligation.national_commission_or_the_state_commission_or_the_district_"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "mediator panel",
+      "consumer mediation cell",
+      "selection committee",
+      "dispute resolution"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How does the Commission prepare a panel of mediators?",
+      "What is the role of the selection committee?",
+      "What is the purpose of the consumer mediation cell?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

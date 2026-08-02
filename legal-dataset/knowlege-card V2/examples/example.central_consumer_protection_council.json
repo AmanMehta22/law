@@ -1,0 +1,40 @@
+{
+  "concept_id": "example.central_consumer_protection_council",
+  "concept_type": "example",
+  "title": "Central Consumer Protection Council",
+  "description": "Illustrative example for: authority.central_consumer_protection_council",
+  "content": {
+    "scenario": "The Central Government establishes the Central Consumer Protection Council to advise on consumer protection matters. A consumer in Delhi wants to know the role of the Council.",
+    "outcome": "The Central Consumer Protection Council is established by the Central Government to provide advice, but its powers and jurisdiction are not specified in the Act."
+  },
+  "derived_from": [
+    "authority.central_consumer_protection_council"
+  ],
+  "related_concepts": [
+    "authority.central_consumer_protection_council"
+  ],
+  "search": {
+    "keywords": [
+      "Central Consumer Protection Council",
+      "consumer protection",
+      "advice",
+      "Central Government"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the role of the Central Consumer Protection Council?",
+      "How is the Central Consumer Protection Council established?",
+      "What are the powers of the Central Consumer Protection Council?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

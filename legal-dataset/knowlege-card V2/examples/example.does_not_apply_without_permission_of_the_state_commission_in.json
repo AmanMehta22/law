@@ -1,0 +1,40 @@
+{
+  "concept_id": "example.does_not_apply_without_permission_of_the_state_commission_in",
+  "concept_type": "example",
+  "title": "State Commission Permission Exception",
+  "description": "Illustrative example for: exception.does_not_apply_without_permission_of_the_state_commission_in",
+  "content": {
+    "scenario": "A consumer wants to institute a complaint in a State Commission but does not have permission. The consumer wants to know if the Act applies to this scenario.",
+    "outcome": "The Act does not apply without permission of the State Commission in case of actual and voluntary residence or business of opposite party. The consumer needs to obtain permission from the State Commission to institute a complaint."
+  },
+  "derived_from": [
+    "exception.does_not_apply_without_permission_of_the_state_commission_in"
+  ],
+  "related_concepts": [
+    "exception.does_not_apply_without_permission_of_the_state_commission_in"
+  ],
+  "search": {
+    "keywords": [
+      "State Commission",
+      "permission",
+      "complaint institution",
+      "Act application"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Does the Act apply to a complaint in a State Commission?",
+      "What is the exception for the State Commission's permission?",
+      "How does the permission of the State Commission affect the Act's application?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

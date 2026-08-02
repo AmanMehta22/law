@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.central_authority_ensure_that_no_false_or_misleading_adverti",
+  "concept_type": "example",
+  "title": "Prevention of False or Misleading Advertisements",
+  "description": "Illustrative example for: obligation.central_authority_ensure_that_no_false_or_misleading_adverti",
+  "content": {
+    "scenario": "A company is making false claims about its product in an advertisement, which contravenes the provisions of the Consumer Protection Act, 2019. The Central Authority must ensure that no false or misleading advertisement is made.",
+    "outcome": "The Central Authority will take action to prevent the company from making false or misleading advertisements, as per section 18 of the Consumer Protection Act, 2019, and will ensure that the company complies with the provisions of the Act and the rules or regulations made thereunder."
+  },
+  "derived_from": [
+    "obligation.central_authority_ensure_that_no_false_or_misleading_adverti"
+  ],
+  "related_concepts": [
+    "obligation.central_authority_ensure_that_no_false_or_misleading_adverti"
+  ],
+  "search": {
+    "keywords": [
+      "false advertisements",
+      "misleading advertisements",
+      "Central Authority",
+      "section 18",
+      "consumer protection"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the role of the Central Authority in preventing false advertisements?",
+      "How does the Central Authority regulate advertisements under the Consumer Protection Act, 2019?",
+      "What are the consequences for making false or misleading advertisements?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

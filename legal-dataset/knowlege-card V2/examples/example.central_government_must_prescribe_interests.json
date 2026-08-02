@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.central_government_must_prescribe_interests",
+  "concept_type": "example",
+  "title": "Central Government's Obligation to Prescribe Interests",
+  "description": "Illustrative example for: obligation.central_government_must_prescribe_interests",
+  "content": {
+    "scenario": "The Central Government is setting up a Central Council to advise on consumer protection matters. The Council needs to have members representing various interests, but the specific interests to be represented are not yet defined.",
+    "outcome": "The Central Government must prescribe the interests to be represented on the Central Council, as per the Consumer Protection Act, 2019. This will ensure that the Council has members who can provide advice on a wide range of consumer-related issues."
+  },
+  "derived_from": [
+    "obligation.central_government_must_prescribe_interests"
+  ],
+  "related_concepts": [
+    "obligation.central_government_must_prescribe_interests"
+  ],
+  "search": {
+    "keywords": [
+      "Central Government",
+      "Consumer Protection Act",
+      "Central Council",
+      "prescribe interests",
+      "consumer rights",
+      "advisory council"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the role of the Central Government in setting up the Central Council?",
+      "How are the interests to be represented on the Central Council determined?",
+      "What is the purpose of the Central Council in consumer protection?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

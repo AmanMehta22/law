@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.product_manufacturer_not_liable_if_product_meant_for_use_und",
+  "concept_type": "example",
+  "title": "Product Manufacturer Not Liable If Product Meant For Use Under Expert Supervision With Adequate Warnings",
+  "description": "Illustrative example for: exception.product_manufacturer_not_liable_if_product_meant_for_use_und",
+  "content": {
+    "scenario": "A product manufacturer sold a product that was legally meant to be used or dispensed only by or under the supervision of an expert or a class of experts. The product manufacturer had employed reasonable means to give the warnings or instructions for usage of such product to such expert or class of experts. Later, a complainant used the product and was harmed. The product manufacturer is not liable because the product was one which was legally meant to be used or dispensed only by or under the supervision of an expert or a class of experts and the product manufacturer had employed reasonable means to give the warnings or instructions for usage of such product to such expert or class of experts.",
+    "outcome": "The product manufacturer is not liable for the harm caused to the complainant because the product was one which was legally meant to be used or dispensed only by or under the supervision of an expert or a class of experts and the product manufacturer had employed reasonable means to give the warnings or instructions for usage of such product to such expert or class of experts."
+  },
+  "derived_from": [
+    "exception.product_manufacturer_not_liable_if_product_meant_for_use_und"
+  ],
+  "related_concepts": [
+    "exception.product_manufacturer_not_liable_if_product_meant_for_use_und"
+  ],
+  "search": {
+    "keywords": [
+      "product manufacturer",
+      "product liability",
+      "warnings or instructions",
+      "expert supervision",
+      "end product"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the exceptions to product liability?",
+      "Can a product manufacturer be liable if the product is used under expert supervision?",
+      "What are the conditions for a product manufacturer not to be liable for product liability?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

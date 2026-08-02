@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.does_not_include_the_rendering_of_any_service_free_of_charge",
+  "concept_type": "example",
+  "title": "Free Service Exception",
+  "description": "Illustrative example for: exception.does_not_include_the_rendering_of_any_service_free_of_charge",
+  "content": {
+    "scenario": "A non-profit organization provides free medical check-ups to the underprivileged. The organization does not charge any fees for these services.",
+    "outcome": "The services provided by the non-profit organization are exempt from the definition of 'service' under the Consumer Protection Act, 2019, as they are rendered free of charge."
+  },
+  "derived_from": [
+    "exception.does_not_include_the_rendering_of_any_service_free_of_charge"
+  ],
+  "related_concepts": [
+    "exception.does_not_include_the_rendering_of_any_service_free_of_charge"
+  ],
+  "search": {
+    "keywords": [
+      "free service",
+      "non-profit organization",
+      "medical check-ups",
+      "consumer protection",
+      "exemption"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What services are exempt from the Consumer Protection Act?",
+      "Are free services considered a consumer service?",
+      "Do non-profit organizations fall under the Consumer Protection Act?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

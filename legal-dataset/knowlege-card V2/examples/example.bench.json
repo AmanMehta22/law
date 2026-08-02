@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.bench",
+  "concept_type": "example",
+  "title": "Bench's Jurisdiction and Powers",
+  "description": "Illustrative example for: authority.bench",
+  "content": {
+    "scenario": "A Bench is constituted by the President of the State Commission to exercise jurisdiction, powers, and authority of the State Commission under the Consumer Protection Act, 2019.",
+    "outcome": "The Bench exercises the jurisdiction, powers, and authority of the State Commission, with the senior-most member presiding over the Bench."
+  },
+  "derived_from": [
+    "authority.bench"
+  ],
+  "related_concepts": [
+    "authority.bench"
+  ],
+  "search": {
+    "keywords": [
+      "Bench",
+      "State Commission",
+      "jurisdiction",
+      "powers",
+      "authority",
+      "Consumer Protection Act"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the jurisdiction of a Bench?",
+      "Can a Bench exercise the powers of the State Commission?",
+      "How is a Bench constituted?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "concept_id": "example.senior_most_member_must_preside_over_the_bench",
+  "concept_type": "example",
+  "title": "Senior-most Member to Preside over the Bench",
+  "description": "Illustrative example for: obligation.senior_most_member_must_preside_over_the_bench",
+  "content": {
+    "scenario": "In the State Commission of Maharashtra, a Bench is constituted with three members. The senior-most member, Mr. Kumar, is required to preside over the Bench as per the provisions of the Consumer Protection Act, 2019.",
+    "outcome": "The senior-most member, Mr. Kumar, shall preside over the Bench as it is mandatory for the senior-most member to do so. This ensures that the Bench is headed by the most experienced member, which is essential for fair and efficient dispute resolution."
+  },
+  "derived_from": [
+    "obligation.senior_most_member_must_preside_over_the_bench"
+  ],
+  "related_concepts": [
+    "obligation.senior_most_member_must_preside_over_the_bench"
+  ],
+  "search": {
+    "keywords": [
+      "senior-most member",
+      "Bench",
+      "State Commission",
+      "preside",
+      "Consumer Protection Act",
+      "CPA 2019",
+      "Maharashtra"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Who presides over the Bench in the State Commission?",
+      "What is the role of the senior-most member in the State Commission?",
+      "How is the Bench constituted in the State Commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.filing_complaints",
+  "concept_type": "example",
+  "title": "Filing Complaints with the Central Authority",
+  "description": "Illustrative example for: procedure.filing_complaints",
+  "content": {
+    "scenario": "A group of consumers, affected by a company's unfair trade practices, want to file a complaint with the Central Authority. They identify the violation of consumer rights and prepare a complaint, along with safety notices and guidelines.",
+    "outcome": "The Central Authority may inquire into the complaint, file a complaint before the relevant Commission, or intervene in any proceedings, as per the provisions of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "procedure.filing_complaints"
+  ],
+  "related_concepts": [
+    "procedure.filing_complaints"
+  ],
+  "search": {
+    "keywords": [
+      "Central Authority",
+      "consumer rights",
+      "unfair trade practices",
+      "safety notices",
+      "guidelines"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How to file a complaint with the Central Authority?",
+      "What is the role of the Central Authority in consumer protection?",
+      "Can the Central Authority intervene in proceedings?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

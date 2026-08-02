@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.mediation_agreement",
+  "concept_type": "example",
+  "title": "Mediation Agreement Under Consumer Protection Act",
+  "description": "Illustrative example for: procedure.mediation_agreement",
+  "content": {
+    "scenario": "After mediation, Rahul and the retailer reached an agreement, which was reduced to writing. The agreement stated that the retailer would replace the defective smartphone with a new one within a week.",
+    "outcome": "The written agreement was signed by Rahul and the retailer's authorized representative, bringing an end to the consumer dispute. The agreement was in accordance with the provisions of the Consumer Protection Act."
+  },
+  "derived_from": [
+    "procedure.mediation_agreement"
+  ],
+  "related_concepts": [
+    "procedure.mediation_agreement"
+  ],
+  "search": {
+    "keywords": [
+      "mediation agreement",
+      "consumer protection",
+      "settlement",
+      "consumer dispute",
+      "written agreement"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What happens when an agreement is reached through mediation?",
+      "How is a mediation agreement documented?",
+      "What are the requirements for a valid mediation agreement under the Consumer Protection Act?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

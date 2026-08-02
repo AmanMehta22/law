@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.mediation_1",
+  "concept_type": "example",
+  "title": "Mediation Procedure Under Consumer Protection Act",
+  "description": "Illustrative example for: procedure.mediation",
+  "content": {
+    "scenario": "Rahul, a consumer, purchased a defective smartphone from a retailer in Delhi. He filed a complaint with the District Commission, which referred the matter to mediation. The mediator, nominated by the Commission, considered the rights and obligations of the parties, the usages of trade, and the circumstances giving rise to the dispute.",
+    "outcome": "The mediator carried out the mediation guided by the principles of natural justice and helped the parties reach a settlement. The terms of the agreement were reduced to writing and signed by the parties."
+  },
+  "derived_from": [
+    "procedure.mediation"
+  ],
+  "related_concepts": [
+    "procedure.mediation"
+  ],
+  "search": {
+    "keywords": [
+      "consumer protection",
+      "mediation",
+      "district commission",
+      "natural justice",
+      "settlement",
+      "consumer dispute"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the procedure for mediation under the Consumer Protection Act?",
+      "How is a mediator nominated for consumer dispute resolution?",
+      "What are the principles guiding mediation in consumer disputes?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

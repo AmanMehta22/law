@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.consumer_protection_act_2019",
+  "concept_type": "example",
+  "title": "Short Title of the Statute",
+  "description": "Illustrative example for: definition.consumer_protection_act_2019",
+  "content": {
+    "scenario": "A consumer wants to refer to the new consumer protection law in a complaint. They are unsure what to call the statute.",
+    "outcome": "The consumer can refer to the statute as the 'Consumer Protection Act, 2019', as per Section 1 of the Act. This is the official short title of the statute."
+  },
+  "derived_from": [
+    "definition.consumer_protection_act_2019"
+  ],
+  "related_concepts": [
+    "definition.consumer_protection_act_2019"
+  ],
+  "search": {
+    "keywords": [
+      "Consumer Protection Act",
+      "2019",
+      "short title",
+      "statute",
+      "official title"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the short title of the new consumer protection law?",
+      "How can I refer to the Consumer Protection Act in a complaint?",
+      "What is the official title of the statute?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

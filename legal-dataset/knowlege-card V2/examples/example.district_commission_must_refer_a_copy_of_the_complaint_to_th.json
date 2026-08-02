@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.district_commission_must_refer_a_copy_of_the_complaint_to_th",
+  "concept_type": "example",
+  "title": "District Commission's Obligation to Refer a Copy of the Complaint to the Opposite Party",
+  "description": "Illustrative example for: obligation.district_commission_must_refer_a_copy_of_the_complaint_to_th",
+  "content": {
+    "scenario": "Sonia, a consumer, filed a complaint against a service provider with the District Commission in Delhi. The complaint was admitted by the District Commission under sub-section (2) of section 36. The District Commission must refer a copy of the complaint to the opposite party, directing them to give their version of the case within a specified period.",
+    "outcome": "The District Commission shall refer a copy of Sonia's complaint to the opposite party, directing them to give their version of the case within thirty days or such extended period not exceeding fifteen days as may be granted by the District Commission, as per the provisions of Section 38(3) of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.district_commission_must_refer_a_copy_of_the_complaint_to_th"
+  ],
+  "related_concepts": [
+    "obligation.district_commission_must_refer_a_copy_of_the_complaint_to_th"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "refer copy of complaint",
+      "opposite party",
+      "response period",
+      "Consumer Protection Act",
+      "Section 38(3)"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What happens after a complaint is admitted by the District Commission?",
+      "Is the opposite party required to respond to the complaint?",
+      "What is the time limit for the opposite party to respond to the complaint?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

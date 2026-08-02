@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.accounts_audit_report",
+  "concept_type": "example",
+  "title": "Accounts and Audit Report of the Central Authority",
+  "description": "Illustrative example for: evidence.accounts_audit_report",
+  "content": {
+    "scenario": "The Central Authority has prepared its accounts and audit report for the financial year. They need to submit these documents to the relevant authority.",
+    "outcome": "The Central Authority must forward its accounts and audit report to the Central Government, which will cause them to be laid before each House of Parliament, as per Section 26 of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "evidence.accounts_audit_report"
+  ],
+  "related_concepts": [
+    "evidence.accounts_audit_report"
+  ],
+  "search": {
+    "keywords": [
+      "accounts",
+      "audit report",
+      "Central Authority",
+      "Central Government",
+      "Parliament"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What documents must the Central Authority submit to the Central Government?",
+      "Where are the accounts and audit report of the Central Authority laid?",
+      "What is the purpose of submitting the accounts and audit report?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

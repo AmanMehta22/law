@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.mediation_referral",
+  "concept_type": "example",
+  "title": "Mediation Referral Procedure",
+  "description": "Illustrative example for: procedure.mediation_referral",
+  "content": {
+    "scenario": "Rahul, a consumer, files a complaint against a company with the District Commission in Delhi. Both parties agree to settle the dispute through mediation and provide written consent. The District Commission receives the consent and refers the matter for mediation within the stipulated timeframe.",
+    "outcome": "The District Commission refers the matter for mediation within five days of receiving the written consent from Rahul and the company, as per the provisions of Chapter V of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "procedure.mediation_referral"
+  ],
+  "related_concepts": [
+    "procedure.mediation_referral"
+  ],
+  "search": {
+    "keywords": [
+      "mediation",
+      "District Commission",
+      "consumer dispute",
+      "written consent",
+      "settlement",
+      "Consumer Protection Act"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How do I refer a consumer dispute for mediation?",
+      "What is the role of the District Commission in mediation?",
+      "Can a consumer dispute be settled through mediation?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

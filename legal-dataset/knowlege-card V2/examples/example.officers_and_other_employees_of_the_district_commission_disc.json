@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.officers_and_other_employees_of_the_district_commission_disc",
+  "concept_type": "example",
+  "title": "District Commission Officers' and Employees' Functions",
+  "description": "Illustrative example for: obligation.officers_and_other_employees_of_the_district_commission_disc",
+  "content": {
+    "scenario": "An officer of a District Commission is unsure about the proper procedure to follow in a particular case. The officer seeks guidance from the President of the District Commission.",
+    "outcome": "The officers and other employees of the District Commission shall discharge their functions under the general superintendence of the President of the District Commission."
+  },
+  "derived_from": [
+    "obligation.officers_and_other_employees_of_the_district_commission_disc"
+  ],
+  "related_concepts": [
+    "obligation.officers_and_other_employees_of_the_district_commission_disc"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "officers",
+      "employees",
+      "superintendence",
+      "consumer protection"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Who supervises the officers and employees of a District Commission?",
+      "What is the role of the President of a District Commission in relation to its officers and employees?",
+      "How do officers and employees of a District Commission discharge their functions?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

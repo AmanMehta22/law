@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.copies_of_documents_records_or_articles_extracts_therefrom",
+  "concept_type": "example",
+  "title": "Retention of Seized or Produced Documents",
+  "description": "Illustrative example for: evidence.copies_of_documents_records_or_articles_extracts_therefrom",
+  "content": {
+    "scenario": "The authorities seize certain documents and records during an investigation, and the person from whom they were seized demands their return.",
+    "outcome": "The authorities are required to return the seized documents and records within 20 days, after taking copies or extracts certified by the person, to retain a record of the seized or produced documents."
+  },
+  "derived_from": [
+    "evidence.copies_of_documents_records_or_articles_extracts_therefrom"
+  ],
+  "related_concepts": [
+    "evidence.copies_of_documents_records_or_articles_extracts_therefrom"
+  ],
+  "search": {
+    "keywords": [
+      "seized documents",
+      "produced documents",
+      "copies",
+      "extracts",
+      "certification",
+      "retention of records"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the procedure for returning seized documents?",
+      "Can the authorities retain copies of seized documents?",
+      "What is the purpose of certifying copies or extracts of seized documents?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.issuance_of_instructions_for_uniform_procedure",
+  "concept_type": "example",
+  "title": "Issuance of Instructions for Uniform Procedure",
+  "description": "Illustrative example for: procedure.issuance_of_instructions_for_uniform_procedure",
+  "content": {
+    "scenario": "The National Commission notices discrepancies in the hearing procedures followed by different State Commissions, leading to inconsistent consumer protection outcomes.",
+    "outcome": "The National Commission issues instructions to all State Commissions regarding the adoption of a uniform procedure in the hearing of matters, ensuring consistency and fairness in consumer protection across the country."
+  },
+  "derived_from": [
+    "procedure.issuance_of_instructions_for_uniform_procedure"
+  ],
+  "related_concepts": [
+    "procedure.issuance_of_instructions_for_uniform_procedure"
+  ],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "uniform procedure",
+      "State Commissions",
+      "consumer protection",
+      "hearing procedures"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How does the National Commission ensure uniformity in consumer protection procedures?",
+      "Can the National Commission dictate procedures to State Commissions?",
+      "What is the purpose of having a uniform procedure in consumer protection cases?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

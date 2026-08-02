@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.inquiry_report",
+  "concept_type": "example",
+  "title": "National Commission's Authority to Investigate Allegations",
+  "description": "Illustrative example for: evidence.inquiry_report",
+  "content": {
+    "scenario": "A complaint is filed against the President of a State Commission, alleging misconduct. The National Commission initiates an investigation and submits an inquiry report to the State Government.",
+    "outcome": "The National Commission has the authority to investigate allegations against the President and members of a State Commission and submit an inquiry report to the State Government concerned, along with a copy endorsed to the Central Government for necessary action, as per Section 70(1)(b) of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "evidence.inquiry_report"
+  ],
+  "related_concepts": [
+    "evidence.inquiry_report"
+  ],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "inquiry report",
+      "State Commission",
+      "allegations",
+      "investigation"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the National Commission's role in investigating allegations against State Commission members?",
+      "Can the National Commission submit an inquiry report to the State Government?",
+      "What action can the Central Government take based on the inquiry report?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

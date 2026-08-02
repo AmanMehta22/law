@@ -1,0 +1,40 @@
+{
+  "concept_id": "example.district_commission_state_commission_or_national_commission_",
+  "concept_type": "example",
+  "title": "Mediator Selection",
+  "description": "Illustrative example for: obligation.district_commission_state_commission_or_national_commission_",
+  "content": {
+    "scenario": "The State Commission, Karnataka, wants to nominate a mediator to resolve a consumer dispute. The Commission has a panel of mediators to choose from.",
+    "outcome": "The State Commission shall consider the suitability of the person from the panel of mediators for resolving the consumer dispute involved, as per Section 76 of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.district_commission_state_commission_or_national_commission_"
+  ],
+  "related_concepts": [
+    "obligation.district_commission_state_commission_or_national_commission_"
+  ],
+  "search": {
+    "keywords": [
+      "State Commission",
+      "mediator selection",
+      "consumer dispute resolution",
+      "Consumer Protection Act 2019"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How are mediators selected?",
+      "What factors are considered when selecting a mediator?",
+      "Can the State Commission choose any mediator?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

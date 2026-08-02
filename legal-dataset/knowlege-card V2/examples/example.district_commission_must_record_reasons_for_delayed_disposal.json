@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.district_commission_must_record_reasons_for_delayed_disposal",
+  "concept_type": "example",
+  "title": "District Commission's Obligation to Record Reasons for Delayed Disposal",
+  "description": "Illustrative example for: obligation.district_commission_must_record_reasons_for_delayed_disposal",
+  "content": {
+    "scenario": "Rahul, a consumer, filed a complaint against a company with the District Commission in Mumbai. The complaint was regarding a defective product. However, the District Commission took six months to dispose of the complaint, which is beyond the specified period of three months for complaints not requiring analysis or testing of commodities. The District Commission must record the reasons for the delay in writing.",
+    "outcome": "The District Commission shall record in writing the reasons for the delayed disposal of Rahul's complaint at the time of disposing of the said complaint, as per the provisions of Section 38(7) of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.district_commission_must_record_reasons_for_delayed_disposal"
+  ],
+  "related_concepts": [
+    "obligation.district_commission_must_record_reasons_for_delayed_disposal"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "delayed disposal",
+      "record reasons",
+      "writing",
+      "Consumer Protection Act",
+      "Section 38(7)"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What happens if the District Commission delays disposal of a complaint?",
+      "Is the District Commission required to record reasons for delayed disposal?",
+      "What is the time limit for disposing of a complaint by the District Commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

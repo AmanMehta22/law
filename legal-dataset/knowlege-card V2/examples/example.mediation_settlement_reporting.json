@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.mediation_settlement_reporting",
+  "concept_type": "example",
+  "title": "Mediation Settlement Reporting Procedure",
+  "description": "Illustrative example for: procedure.mediation_settlement_reporting",
+  "content": {
+    "scenario": "After mediation, the mediator prepares a settlement report and obtains the signed agreement from both parties. The mediator then forwards the report and agreement to the concerned Commission.",
+    "outcome": "The mediator prepares a settlement report of the settlement and forwards the signed agreement along with the report to the concerned Commission, as required by the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "procedure.mediation_settlement_reporting"
+  ],
+  "related_concepts": [
+    "procedure.mediation_settlement_reporting"
+  ],
+  "search": {
+    "keywords": [
+      "mediation",
+      "settlement report",
+      "signed agreement",
+      "concerned Commission",
+      "Consumer Protection Act"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What happens after a mediation settlement is reached?",
+      "How is a mediation settlement reported?",
+      "What documents are required for mediation settlement reporting?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

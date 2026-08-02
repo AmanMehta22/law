@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.government_must_lay_a_copy_of_the_annual_report_before_each_",
+  "concept_type": "example",
+  "title": "Government's Obligation to Lay a Copy of the Annual Report before Each House of Parliament",
+  "description": "Illustrative example for: obligation.government_must_lay_a_copy_of_the_annual_report_before_each_",
+  "content": {
+    "scenario": "The Central Consumer Protection Authority has submitted its annual report to the Government of India. The Government must now decide what to do with the report.",
+    "outcome": "The Government must lay a copy of the annual report before each House of Parliament as soon as may be after it is received."
+  },
+  "derived_from": [
+    "obligation.government_must_lay_a_copy_of_the_annual_report_before_each_"
+  ],
+  "related_concepts": [
+    "obligation.government_must_lay_a_copy_of_the_annual_report_before_each_"
+  ],
+  "search": {
+    "keywords": [
+      "Consumer Protection Act",
+      "annual report",
+      "Government",
+      "Parliament",
+      "Central Consumer Protection Authority"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What happens to the annual report submitted by the Central Consumer Protection Authority?",
+      "Is the Government required to lay the annual report before Parliament?",
+      "What is the timeline for laying the annual report before Parliament?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

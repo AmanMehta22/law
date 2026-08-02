@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.state_commission_exceeds_rupees_one_crore_but_does_not_exceed_rupees_t",
+  "concept_type": "example",
+  "title": "State Commission Jurisdiction for Complaints Exceeding Rs. 1 Crore",
+  "description": "Illustrative example for: jurisdiction.state_commission_exceeds_rupees_one_crore_but_does_not_exceed_rupees_ten_crore_w",
+  "content": {
+    "scenario": "A consumer in Delhi files a complaint against a company for a defective product worth Rs. 5 crores. The complaint is filed with the State Commission.",
+    "outcome": "The State Commission has jurisdiction to entertain the complaint, as the value of the goods or services paid as consideration exceeds Rs. 1 crore but does not exceed Rs. 10 crore, as per Section 47(1) of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "jurisdiction.state_commission_exceeds_rupees_one_crore_but_does_not_exceed_rupees_ten_crore_w"
+  ],
+  "related_concepts": [
+    "jurisdiction.state_commission_exceeds_rupees_one_crore_but_does_not_exceed_rupees_ten_crore_w"
+  ],
+  "search": {
+    "keywords": [
+      "State Commission",
+      "jurisdiction",
+      "exceeds Rs. 1 crore",
+      "does not exceed Rs. 10 crore",
+      "complaint"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the jurisdiction of the State Commission for complaints exceeding Rs. 1 crore?",
+      "Can a complaint worth Rs. 5 crores be filed with the State Commission?",
+      "What are the conditions for the State Commission to entertain a complaint?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

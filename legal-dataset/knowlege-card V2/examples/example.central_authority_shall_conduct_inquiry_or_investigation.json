@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.central_authority_shall_conduct_inquiry_or_investigation",
+  "concept_type": "example",
+  "title": "Central Authority Inquiry or Investigation",
+  "description": "Illustrative example for: obligation.central_authority_shall_conduct_inquiry_or_investigation",
+  "content": {
+    "scenario": "A consumer in Mumbai files a complaint with the Central Authority regarding a defective product. The Central Authority directs its Investigation Wing to conduct an inquiry into the matter.",
+    "outcome": "The Central Authority shall conduct an inquiry or investigation into the complaint as directed by the Central Authority, under the provisions of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.central_authority_shall_conduct_inquiry_or_investigation"
+  ],
+  "related_concepts": [
+    "obligation.central_authority_shall_conduct_inquiry_or_investigation"
+  ],
+  "search": {
+    "keywords": [
+      "Central Authority",
+      "inquiry",
+      "investigation",
+      "consumer complaint",
+      "defective product",
+      "CPA 2019"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the role of the Central Authority in consumer complaints?",
+      "How does the Central Authority handle inquiries?",
+      "What are the powers of the Central Authority under the CPA 2019?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

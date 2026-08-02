@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.a_complaint_may_be_entertained_after_the_period_specified_in",
+  "concept_type": "example",
+  "title": "Entertaining Complaints after the Specified Period",
+  "description": "Illustrative example for: exception.a_complaint_may_be_entertained_after_the_period_specified_in",
+  "content": {
+    "scenario": "A consumer from Delhi files a complaint against a manufacturer for a defective refrigerator two years after the purchase, citing that he was not aware of his rights as a consumer. The consumer satisfies the State Commission that he had sufficient cause for not filing the complaint within the specified period.",
+    "outcome": "The State Commission may entertain the complaint, despite it being filed after the specified period, as the consumer has satisfied the Commission that he had sufficient cause for the delay. The Commission will record its reasons for condoning the delay."
+  },
+  "derived_from": [
+    "exception.a_complaint_may_be_entertained_after_the_period_specified_in"
+  ],
+  "related_concepts": [
+    "exception.a_complaint_may_be_entertained_after_the_period_specified_in"
+  ],
+  "search": {
+    "keywords": [
+      "complaint",
+      "specified period",
+      "sufficient cause",
+      "State Commission",
+      "consumer rights",
+      "delay"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can a complaint be filed after the specified period?",
+      "What is the condition for entertaining a complaint after the specified period?",
+      "How does the Commission decide on condoning the delay?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

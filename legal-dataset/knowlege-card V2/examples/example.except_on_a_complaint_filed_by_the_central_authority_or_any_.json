@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.except_on_a_complaint_filed_by_the_central_authority_or_any_",
+  "concept_type": "example",
+  "title": "Complaint Filing Exception",
+  "description": "Illustrative example for: exception.except_on_a_complaint_filed_by_the_central_authority_or_any_",
+  "content": {
+    "scenario": "A consumer files a complaint against a company for violating the Consumer Protection Act, 2019. However, the complaint is not filed through the Central Authority or an authorized officer.",
+    "outcome": "The competent court will not take cognizance of the complaint, as it was not filed by the Central Authority or an authorized officer, as required under the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "exception.except_on_a_complaint_filed_by_the_central_authority_or_any_"
+  ],
+  "related_concepts": [
+    "exception.except_on_a_complaint_filed_by_the_central_authority_or_any_"
+  ],
+  "search": {
+    "keywords": [
+      "complaint filing",
+      "Central Authority",
+      "authorized officer",
+      "consumer protection",
+      "court jurisdiction"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How do I file a complaint under the Consumer Protection Act?",
+      "Can I file a complaint directly with the court?",
+      "What is the role of the Central Authority in complaint filing?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

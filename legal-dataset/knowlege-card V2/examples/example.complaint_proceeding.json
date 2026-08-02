@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.complaint_proceeding",
+  "concept_type": "example",
+  "title": "Complaint Proceeding by District Commission",
+  "description": "Illustrative example for: procedure.complaint_proceeding",
+  "content": {
+    "scenario": "A consumer in India files a complaint with the District Commission regarding a defective product. The District Commission admits the complaint and proceeds with the complaint by the District Commission.",
+    "outcome": "The District Commission proceeds with the complaint by the District Commission."
+  },
+  "derived_from": [
+    "procedure.complaint_proceeding"
+  ],
+  "related_concepts": [
+    "procedure.complaint_proceeding"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "complaint proceeding",
+      "consumer rights",
+      "India",
+      "CPA2019"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the procedure for admitting complaints by the District Commission?",
+      "How does the District Commission proceed with complaints?",
+      "What happens after the complaint is admitted by the District Commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

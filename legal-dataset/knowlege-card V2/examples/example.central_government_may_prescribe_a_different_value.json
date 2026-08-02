@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.central_government_may_prescribe_a_different_value",
+  "concept_type": "example",
+  "title": "Jurisdiction of the District Commission",
+  "description": "Illustrative example for: exception.central_government_may_prescribe_a_different_value",
+  "content": {
+    "scenario": "The Central Government prescribes a value of fifty lakh rupees for the jurisdiction of the District Commission, instead of the usual one crore rupees. A consumer from Bangalore files a complaint against a manufacturer for a defective product worth seventy-five lakh rupees.",
+    "outcome": "The District Commission will not have jurisdiction to entertain the complaint, as the value of the goods or services paid as consideration exceeds the prescribed value of fifty lakh rupees. The complaint will need to be filed with the State Commission or the National Commission, as applicable."
+  },
+  "derived_from": [
+    "exception.central_government_may_prescribe_a_different_value"
+  ],
+  "related_concepts": [
+    "exception.central_government_may_prescribe_a_different_value"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "jurisdiction",
+      "value",
+      "Central Government",
+      "consumer complaint",
+      "defective product"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the jurisdiction of the District Commission?",
+      "Can the Central Government change the jurisdictional value?",
+      "How does the change in jurisdictional value affect consumer complaints?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

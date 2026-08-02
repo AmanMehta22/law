@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.district_commission_must_decide_on_admissibility_of_complain",
+  "concept_type": "example",
+  "title": "District Commission's Obligation to Decide on Admissibility of Complaint",
+  "description": "Illustrative example for: obligation.district_commission_must_decide_on_admissibility_of_complain",
+  "content": {
+    "scenario": "A consumer files a complaint against a manufacturer alleging defective goods. The complaint is filed electronically, as prescribed by the regulations. The District Commission receives the complaint and must decide on its admissibility.",
+    "outcome": "The District Commission must decide on the admissibility of the complaint within 21 days of filing, ordinarily. If the complaint is not rejected within this timeframe, it shall be deemed admitted."
+  },
+  "derived_from": [
+    "obligation.district_commission_must_decide_on_admissibility_of_complain"
+  ],
+  "related_concepts": [
+    "obligation.district_commission_must_decide_on_admissibility_of_complain"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "admissibility",
+      "complaint",
+      "21 days",
+      "ordinarily"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the timeframe for the District Commission to decide on admissibility of a complaint?",
+      "Can a complaint be rejected without giving the complainant an opportunity to be heard?",
+      "What happens if the District Commission does not decide on admissibility within the specified timeframe?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

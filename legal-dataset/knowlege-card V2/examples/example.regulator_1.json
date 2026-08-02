@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.regulator_1",
+  "concept_type": "example",
+  "title": "Regulator's Role in Dealing with Referred Matters",
+  "description": "Illustrative example for: authority.regulator",
+  "content": {
+    "scenario": "The Central Authority receives a complaint about a company's unfair trade practice, which falls under the jurisdiction of the sectoral regulator. The Central Authority refers the matter to the concerned Regulator.",
+    "outcome": "The Regulator deals with the referred matter, using its powers to investigate and take action against the company, if necessary, to protect consumer interests."
+  },
+  "derived_from": [
+    "authority.regulator"
+  ],
+  "related_concepts": [
+    "authority.regulator"
+  ],
+  "search": {
+    "keywords": [
+      "Regulator",
+      "Central Authority",
+      "sectoral regulator",
+      "unfair trade practice",
+      "consumer protection"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the role of a Regulator in consumer protection?",
+      "How are matters referred to a Regulator?",
+      "What powers does a Regulator have to deal with consumer complaints?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "concept_id": "example.central_government_make_rules_for_the_qualifications_appoint",
+  "concept_type": "example",
+  "title": "Central Government's Obligation to Make Rules for Qualifications and Appointment of Chief Commissioner and Commissioners",
+  "description": "Illustrative example for: obligation.central_government_make_rules_for_the_qualifications_appoint",
+  "content": {
+    "scenario": "The Central Government needs to establish rules for the qualifications, appointment, and terms of service of the Chief Commissioner and Commissioners of the Central Authority. The rules must include qualifications for appointment, method of recruitment, procedure for appointment, term of office, salaries and allowances, resignation, removal, and other terms and conditions of service.",
+    "outcome": "The Central Government must make rules by notification to provide for the qualifications for appointment, method of recruitment, procedure for appointment, term of office, salaries and allowances, resignation, removal, and other terms and conditions of the service of the Chief Commissioner and Commissioners of the Central Authority, as per Section 11 of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.central_government_make_rules_for_the_qualifications_appoint"
+  ],
+  "related_concepts": [
+    "obligation.central_government_make_rules_for_the_qualifications_appoint"
+  ],
+  "search": {
+    "keywords": [
+      "Central Government",
+      "Chief Commissioner",
+      "Commissioners",
+      "qualifications",
+      "appointment",
+      "rules",
+      "notification",
+      "Central Authority"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the qualifications for appointing a Chief Commissioner?",
+      "How are the salaries and allowances of Commissioners determined?",
+      "What is the procedure for removing a Commissioner from the Central Authority?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

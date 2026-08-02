@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.empanelment_of_mediators",
+  "concept_type": "example",
+  "title": "Empanelment of Mediators",
+  "description": "Illustrative example for: procedure.empanelment_of_mediators",
+  "content": {
+    "scenario": "A consumer mediation cell in Delhi wants to empanel a new mediator. The cell needs to follow the procedure for empanelment as per the regulations, which includes submitting the qualifications and experience required for empanelment, the procedure for empanelment, and the code of conduct for empanelled mediators.",
+    "outcome": "The District Commission, State Commission, or National Commission will consider the application and empanel the mediator if they meet the required qualifications and experience. The empanelled mediator will be required to follow the code of conduct and can be removed or have their empanelment cancelled if they fail to comply."
+  },
+  "derived_from": [
+    "procedure.empanelment_of_mediators"
+  ],
+  "related_concepts": [
+    "procedure.empanelment_of_mediators"
+  ],
+  "search": {
+    "keywords": [
+      "empanelment of mediators",
+      "consumer mediation cell",
+      "regulations",
+      "qualifications",
+      "experience",
+      "code of conduct"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How do I become an empanelled mediator?",
+      "What are the qualifications required for empanelment as a mediator?",
+      "What is the procedure for empanelment of mediators?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

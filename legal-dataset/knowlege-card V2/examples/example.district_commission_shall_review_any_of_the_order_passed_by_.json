@@ -1,0 +1,40 @@
+{
+  "concept_id": "example.district_commission_shall_review_any_of_the_order_passed_by_",
+  "concept_type": "example",
+  "title": "Review of Orders by District Commission",
+  "description": "Illustrative example for: obligation.district_commission_shall_review_any_of_the_order_passed_by_",
+  "content": {
+    "scenario": "The District Commission, Mumbai, passes an order in favor of a consumer, but the consumer realizes that there is an error in the order. The consumer wants the order to be reviewed.",
+    "outcome": "The District Commission can review its own order if there is an error apparent on the face of the record, either on its own motion or on an application made by the consumer within 30 days of the order, as per Section 40 of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.district_commission_shall_review_any_of_the_order_passed_by_"
+  ],
+  "related_concepts": [
+    "obligation.district_commission_shall_review_any_of_the_order_passed_by_"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "review of orders",
+      "error apparent on the face of the record",
+      "Consumer Protection Act 2019"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can the District Commission review its own orders?",
+      "What is the time limit for reviewing an order?",
+      "On what grounds can the District Commission review an order?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

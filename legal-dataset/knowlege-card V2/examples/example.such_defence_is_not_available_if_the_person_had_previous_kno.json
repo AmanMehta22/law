@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.such_defence_is_not_available_if_the_person_had_previous_kno",
+  "concept_type": "example",
+  "title": "Liability for Publishing False Advertisements",
+  "description": "Illustrative example for: exception.such_defence_is_not_available_if_the_person_had_previous_kno",
+  "content": {
+    "scenario": "A company publishes an advertisement for a product, which is later found to be false and misleading. The Central Authority passes an order directing the company to withdraw the advertisement. However, the company had prior knowledge of the order and still continued to publish the advertisement.",
+    "outcome": "The company is liable to penalty for publishing the false advertisement, as the defence of publishing the advertisement in the ordinary course of business is not available due to the company's prior knowledge of the Central Authority's order."
+  },
+  "derived_from": [
+    "exception.such_defence_is_not_available_if_the_person_had_previous_kno"
+  ],
+  "related_concepts": [
+    "exception.such_defence_is_not_available_if_the_person_had_previous_kno"
+  ],
+  "search": {
+    "keywords": [
+      "false advertisements",
+      "Central Authority",
+      "penalty",
+      "prior knowledge",
+      "defence"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the liability for publishing false advertisements?",
+      "What is the effect of prior knowledge of the Central Authority's order?",
+      "What are the defences available to a person publishing an advertisement?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

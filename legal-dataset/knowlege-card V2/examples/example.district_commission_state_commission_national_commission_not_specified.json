@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.district_commission_state_commission_national_commission_not_specified",
+  "concept_type": "example",
+  "title": "Jurisdiction of Consumer Commissions",
+  "description": "Illustrative example for: jurisdiction.district_commission_state_commission_national_commission_not_specified_not_speci",
+  "content": {
+    "scenario": "A company is accused of violating consumer rights, and a complaint is filed. Which commission has jurisdiction to try the offence?",
+    "outcome": "The offence can be tried summarily by the District Commission or the State Commission or the National Commission, as the case may be, save as otherwise provided."
+  },
+  "derived_from": [
+    "jurisdiction.district_commission_state_commission_national_commission_not_specified_not_speci"
+  ],
+  "related_concepts": [
+    "jurisdiction.district_commission_state_commission_national_commission_not_specified_not_speci"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "State Commission",
+      "National Commission",
+      "jurisdiction",
+      "offence"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Which commission has jurisdiction to try consumer offences?",
+      "Can the District Commission try all consumer offences?",
+      "What is the role of the National Commission in trying consumer offences?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

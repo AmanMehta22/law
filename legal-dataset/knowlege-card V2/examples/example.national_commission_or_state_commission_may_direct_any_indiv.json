@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.national_commission_or_state_commission_may_direct_any_indiv",
+  "concept_type": "example",
+  "title": "Commission Direction for Consumer Interest",
+  "description": "Illustrative example for: obligation.national_commission_or_state_commission_may_direct_any_indiv",
+  "content": {
+    "scenario": "The State Commission receives a complaint about a defective product that affects a large number of consumers, and wants to direct an expert to assist in the investigation.",
+    "outcome": "The State Commission may direct an individual or organisation to assist in the investigation, as it involves the larger interest of consumers, and the Commission has the power to do so under the Act."
+  },
+  "derived_from": [
+    "obligation.national_commission_or_state_commission_may_direct_any_indiv"
+  ],
+  "related_concepts": [
+    "obligation.national_commission_or_state_commission_may_direct_any_indiv"
+  ],
+  "search": {
+    "keywords": [
+      "State Commission",
+      "consumer interest",
+      "expert assistance",
+      "defective product",
+      "investigation"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can the Commission direct an expert to assist in an investigation?",
+      "What is the larger interest of consumers in this context?",
+      "How does the Commission determine when to direct assistance?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

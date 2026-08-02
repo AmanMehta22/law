@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.court_may_suspend_or_cancel_licence",
+  "concept_type": "example",
+  "title": "Court's Power to Suspend or Cancel Licence",
+  "description": "Illustrative example for: obligation.court_may_suspend_or_cancel_licence",
+  "content": {
+    "scenario": "A company is found guilty of violating consumer rights for the second time. The court is considering the punishment, including the possibility of suspending or cancelling the company's licence.",
+    "outcome": "The court may cancel the licence issued to the company under any law for the time being in force, as per section 91(3) of the Consumer Protection Act, 2019, since it is a second or subsequent conviction."
+  },
+  "derived_from": [
+    "obligation.court_may_suspend_or_cancel_licence"
+  ],
+  "related_concepts": [
+    "obligation.court_may_suspend_or_cancel_licence"
+  ],
+  "search": {
+    "keywords": [
+      "court",
+      "licence",
+      "suspend",
+      "cancel",
+      "consumer rights",
+      "section 91"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can a court suspend a company's licence for violating consumer rights?",
+      "What is the maximum period for which a court can suspend a licence?",
+      "What are the conditions for a court to cancel a licence?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

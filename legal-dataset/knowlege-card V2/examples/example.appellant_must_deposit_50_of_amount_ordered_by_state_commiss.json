@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.appellant_must_deposit_50_of_amount_ordered_by_state_commiss",
+  "concept_type": "example",
+  "title": "Appellant's Obligation to Deposit 50% of Amount Ordered by State Commission",
+  "description": "Illustrative example for: obligation.appellant_must_deposit_50_of_amount_ordered_by_state_commiss",
+  "content": {
+    "scenario": "A consumer in Delhi is ordered by the State Commission to pay Rs. 1 lakh to a seller as compensation. The consumer decides to appeal to the National Commission.",
+    "outcome": "The consumer must deposit 50% of the amount ordered by the State Commission, which is Rs. 50,000, within 30 days from the date of the order, in order for the National Commission to entertain the appeal."
+  },
+  "derived_from": [
+    "obligation.appellant_must_deposit_50_of_amount_ordered_by_state_commiss"
+  ],
+  "related_concepts": [
+    "obligation.appellant_must_deposit_50_of_amount_ordered_by_state_commiss"
+  ],
+  "search": {
+    "keywords": [
+      "appeal",
+      "National Commission",
+      "State Commission",
+      "compensation",
+      "deposit",
+      "amount"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the requirement for appealing an order of the State Commission?",
+      "How much amount must be deposited to appeal an order?",
+      "Can the National Commission entertain an appeal without the deposit?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.national_commission_and_the_state_commissions_shall_furnish_",
+  "concept_type": "example",
+  "title": "National Commission and State Commissions' Information Furnishing Obligation",
+  "description": "Illustrative example for: obligation.national_commission_and_the_state_commissions_shall_furnish_",
+  "content": {
+    "scenario": "The Central Government requests the National Commission to provide information on the pendency of cases related to consumer disputes in India. The National Commission is required to furnish this information periodically.",
+    "outcome": "The National Commission shall furnish the requested information to the Central Government in the prescribed form and manner, as per Section 70(4) of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.national_commission_and_the_state_commissions_shall_furnish_"
+  ],
+  "related_concepts": [
+    "obligation.national_commission_and_the_state_commissions_shall_furnish_"
+  ],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "State Commissions",
+      "information furnishing",
+      "Central Government",
+      "consumer disputes",
+      "pendency of cases"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What information must the National Commission provide to the Central Government?",
+      "How often must the National Commission furnish information to the Central Government?",
+      "In what form and manner must the National Commission provide information to the Central Government?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

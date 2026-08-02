@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.provided_that_the_opinion_shall_be_given_within_a_period_of_",
+  "concept_type": "example",
+  "title": "Provided that the opinion shall be given within a period of two months from the date of such reference",
+  "description": "Illustrative example for: exception.provided_that_the_opinion_shall_be_given_within_a_period_of_",
+  "content": {
+    "scenario": "A consumer files a complaint with the District Commission, which then refers the case to the President or another member of the Bench for an opinion. The President or the other member must give an opinion on the point or points so referred within a period of two months from the date of such reference.",
+    "outcome": "The President or the other member will give an opinion on the point or points so referred within a period of two months from the date of such reference."
+  },
+  "derived_from": [
+    "exception.provided_that_the_opinion_shall_be_given_within_a_period_of_"
+  ],
+  "related_concepts": [
+    "exception.provided_that_the_opinion_shall_be_given_within_a_period_of_"
+  ],
+  "search": {
+    "keywords": [
+      "consumer protection",
+      "District Commission",
+      "President or the other member",
+      "opinion",
+      "two months"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the timeframe for giving an opinion on a case?",
+      "Can a consumer appeal to the National Commission if the State Commission has passed an order in appeal?",
+      "What are the requirements for the President or the other member to give an opinion on a case?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

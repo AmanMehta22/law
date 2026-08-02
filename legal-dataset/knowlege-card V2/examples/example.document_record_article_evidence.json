@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.document_record_article_evidence",
+  "concept_type": "example",
+  "title": "Search and Seizure of Evidence for Consumer Rights Violation",
+  "description": "Illustrative example for: evidence.document_record_article_evidence",
+  "content": {
+    "scenario": "The Director-General receives a complaint about a company's unfair trade practices. The Director-General conducts a search of the company's premises and seizes documents, records, and articles that may serve as evidence of the violation.",
+    "outcome": "The Director-General has the power to enter premises, search for and seize documents, records, articles, or any other form of evidence, as per Section 22(1) of the Consumer Protection Act, 2019, if there is reason to believe that a person has violated consumer rights or committed unfair trade practices. The seized evidence will be used to investigate the complaint."
+  },
+  "derived_from": [
+    "evidence.document_record_article_evidence"
+  ],
+  "related_concepts": [
+    "evidence.document_record_article_evidence"
+  ],
+  "search": {
+    "keywords": [
+      "consumer protection",
+      "search and seizure",
+      "evidence",
+      "unfair trade practices",
+      "Director-General"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What powers does the Director-General have to investigate consumer rights violations?",
+      "Can the Director-General seize evidence from a company's premises?",
+      "How does the Director-General support its investigation into unfair trade practices?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

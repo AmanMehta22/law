@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.information_requirement",
+  "concept_type": "example",
+  "title": "Information Requirement",
+  "description": "Illustrative example for: procedure.information_requirement",
+  "content": {
+    "scenario": "The District Commission requires an electronic service provider, XYZ Ltd., to provide information about a consumer's account details in relation to a consumer dispute.",
+    "outcome": "The District Commission passes an order requiring XYZ Ltd. to provide the specified information, documents or records within a stipulated time frame. Failure to comply with the order may result in penalties."
+  },
+  "derived_from": [
+    "procedure.information_requirement"
+  ],
+  "related_concepts": [
+    "procedure.information_requirement"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "information requirement",
+      "electronic service provider",
+      "consumer dispute",
+      "account details"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What information can the District Commission require from an electronic service provider?",
+      "Can the District Commission impose penalties for non-compliance with an information requirement order?",
+      "What is the purpose of requiring information from an electronic service provider in a consumer dispute?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

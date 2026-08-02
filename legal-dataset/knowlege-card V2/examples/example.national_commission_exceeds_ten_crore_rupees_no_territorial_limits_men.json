@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.national_commission_exceeds_ten_crore_rupees_no_territorial_limits_men",
+  "concept_type": "example",
+  "title": "National Commission Jurisdiction over Complaints Exceeding Ten Crore Rupees",
+  "description": "Illustrative example for: jurisdiction.national_commission_exceeds_ten_crore_rupees_no_territorial_limits_mentioned",
+  "content": {
+    "scenario": "A consumer purchases a product worth Rs. 15 crore and files a complaint against the manufacturer with the National Commission, alleging defects in the product.",
+    "outcome": "The National Commission has jurisdiction to entertain the complaint, as the value of the goods or services paid as consideration exceeds Rs. 10 crore, as per Section 58(1)(a)(i) of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "jurisdiction.national_commission_exceeds_ten_crore_rupees_no_territorial_limits_mentioned"
+  ],
+  "related_concepts": [
+    "jurisdiction.national_commission_exceeds_ten_crore_rupees_no_territorial_limits_mentioned"
+  ],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "jurisdiction",
+      "complaint",
+      "value",
+      "exceeds ten crore rupees"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the jurisdiction of the National Commission over complaints?",
+      "Can the National Commission hear complaints exceeding ten crore rupees?",
+      "What are the conditions for the National Commission to exercise jurisdiction?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.central_government_shall_provide_officers_and_other_employee",
+  "concept_type": "example",
+  "title": "Central Government's Obligation to Provide Assistance to National Commission",
+  "description": "Illustrative example for: obligation.central_government_shall_provide_officers_and_other_employee",
+  "content": {
+    "scenario": "The National Commission is facing a shortage of staff to handle the increasing number of consumer complaints. The President of the National Commission requests the Central Government to provide additional officers and employees to assist the Commission.",
+    "outcome": "The Central Government, in consultation with the President of the National Commission, shall provide the required number of officers and employees to assist the National Commission in discharging its functions."
+  },
+  "derived_from": [
+    "obligation.central_government_shall_provide_officers_and_other_employee"
+  ],
+  "related_concepts": [
+    "obligation.central_government_shall_provide_officers_and_other_employee"
+  ],
+  "search": {
+    "keywords": [
+      "Central Government",
+      "National Commission",
+      "officers",
+      "employees",
+      "assistance",
+      "consumer protection"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the Central Government's role in assisting the National Commission?",
+      "How does the Central Government provide support to the National Commission?",
+      "What is the process for the Central Government to provide officers and employees to the National Commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

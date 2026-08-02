@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.state_government_may_direct_any_other_district_commission_or",
+  "concept_type": "example",
+  "title": "State Government's Power to Direct Other District Commissions",
+  "description": "Illustrative example for: obligation.state_government_may_direct_any_other_district_commission_or",
+  "content": {
+    "scenario": "There is a vacancy in the office of the President of the District Commission in Delhi. The State Government of Delhi wants to ensure that the functions of the District Commission are not disrupted.",
+    "outcome": "The State Government of Delhi may, by notification, direct any other District Commission or the President or a member of any other District Commission to exercise jurisdiction or powers, as per Section 32 of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.state_government_may_direct_any_other_district_commission_or"
+  ],
+  "related_concepts": [
+    "obligation.state_government_may_direct_any_other_district_commission_or"
+  ],
+  "search": {
+    "keywords": [
+      "State Government",
+      "District Commission",
+      "vacancy",
+      "notification",
+      "jurisdiction",
+      "powers"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What happens when there is a vacancy in the office of the President of a District Commission?",
+      "How can the State Government ensure continuity of functions in a District Commission?",
+      "What are the powers of the State Government in directing other District Commissions?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

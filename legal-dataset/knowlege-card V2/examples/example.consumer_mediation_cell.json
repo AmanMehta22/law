@@ -1,0 +1,40 @@
+{
+  "concept_id": "example.consumer_mediation_cell",
+  "concept_type": "example",
+  "title": "Consumer Mediation Cell",
+  "description": "Illustrative example for: authority.consumer_mediation_cell",
+  "content": {
+    "scenario": "A consumer in Delhi approaches the Consumer Mediation Cell attached to the State Commission to resolve a dispute with a seller through mediation.",
+    "outcome": "The Consumer Mediation Cell maintains a list of empanelled mediators and handles the case, maintaining a record of the proceeding and submitting quarterly reports as required."
+  },
+  "derived_from": [
+    "authority.consumer_mediation_cell"
+  ],
+  "related_concepts": [
+    "authority.consumer_mediation_cell"
+  ],
+  "search": {
+    "keywords": [
+      "Consumer Mediation Cell",
+      "mediation",
+      "consumer dispute",
+      "State Commission"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the role of the Consumer Mediation Cell?",
+      "How does the Consumer Mediation Cell handle consumer disputes?",
+      "Can the Consumer Mediation Cell provide information on empanelled mediators?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

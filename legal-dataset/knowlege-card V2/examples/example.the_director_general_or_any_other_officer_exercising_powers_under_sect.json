@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.the_director_general_or_any_other_officer_exercising_powers_under_sect",
+  "concept_type": "example",
+  "title": "Unlawful Search and Seizure by Director General or Officer",
+  "description": "Illustrative example for: offence.the_director_general_or_any_other_officer_exercising_powers_under_section_22_who",
+  "content": {
+    "scenario": "The Director General of the Consumer Protection Authority, without reasonable grounds, searches the premises of a small business in Mumbai and seizes several documents. The business owner claims that the search and seizure were unlawful and demands action against the Director General.",
+    "outcome": "The Director General may be punished with imprisonment for a term which may extend to one year, or with a fine which may extend to ten thousand rupees, or with both, as per Section 93 of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "offence.the_director_general_or_any_other_officer_exercising_powers_under_section_22_who"
+  ],
+  "related_concepts": [
+    "offence.the_director_general_or_any_other_officer_exercising_powers_under_section_22_who"
+  ],
+  "search": {
+    "keywords": [
+      "Consumer Protection Act",
+      "Director General",
+      "search and seizure",
+      "unlawful search",
+      "Section 93"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the punishment for unlawful search and seizure by the Director General?",
+      "Can the Director General be held liable for unlawful search and seizure?",
+      "What are the consequences of violating Section 93 of the Consumer Protection Act?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

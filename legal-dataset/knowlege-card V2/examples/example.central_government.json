@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.central_government",
+  "concept_type": "example",
+  "title": "Central Government",
+  "description": "Illustrative example for: authority.central_government",
+  "content": {
+    "scenario": "The Central Government appoints the date of coming into force of the Consumer Protection Act, 2019. A consumer in Bangalore wants to know the role of the Central Government in implementing the Act.",
+    "outcome": "The Central Government appoints the date of coming into force of the Act, provides notifications for express provisions, and has various powers, including making rules, establishing the Central Consumer Protection Council and Authority, and recognizing laboratories."
+  },
+  "derived_from": [
+    "authority.central_government"
+  ],
+  "related_concepts": [
+    "authority.central_government"
+  ],
+  "search": {
+    "keywords": [
+      "Central Government",
+      "Consumer Protection Act",
+      "implementation",
+      "notifications",
+      "rule-making"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the role of the Central Government in implementing the Consumer Protection Act?",
+      "How does the Central Government appoint the date of coming into force of the Act?",
+      "What are the powers of the Central Government under the Act?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

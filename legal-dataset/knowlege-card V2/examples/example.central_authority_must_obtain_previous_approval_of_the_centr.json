@@ -1,0 +1,43 @@
+{
+  "concept_id": "example.central_authority_must_obtain_previous_approval_of_the_centr",
+  "concept_type": "example",
+  "title": "Previous Approval Requirement for Central Authority Regulations",
+  "description": "Illustrative example for: obligation.central_authority_must_obtain_previous_approval_of_the_centr",
+  "content": {
+    "scenario": "The Central Authority issues a regulation without obtaining the previous approval of the Central Government, citing urgency and public interest.",
+    "outcome": "The regulation is invalid, as the Central Authority failed to obtain the previous approval of the Central Government, which is a mandatory requirement under Section 104(1) of the Consumer Protection Act, 2019. The Central Authority must follow the prescribed procedure for making regulations, including obtaining previous approval, to ensure validity."
+  },
+  "derived_from": [
+    "obligation.central_authority_must_obtain_previous_approval_of_the_centr"
+  ],
+  "related_concepts": [
+    "obligation.central_authority_must_obtain_previous_approval_of_the_centr"
+  ],
+  "search": {
+    "keywords": [
+      "previous approval",
+      "Central Government",
+      "regulations",
+      "Central Authority",
+      "Consumer Protection Act",
+      "urgency",
+      "public interest"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Is previous approval of the Central Government required for Central Authority regulations?",
+      "What are the consequences of issuing regulations without previous approval?",
+      "Can the Central Authority issue regulations without following the prescribed procedure?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

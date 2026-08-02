@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.document_record",
+  "concept_type": "example",
+  "title": "Production of Documents and Records for Investigation",
+  "description": "Illustrative example for: evidence.document_record",
+  "content": {
+    "scenario": "The Central Authority initiates an investigation into a company's business practices. The Authority directs the company to produce its financial records and customer complaint documents for review.",
+    "outcome": "The Central Authority has the power to direct any person to produce any document or record in their possession for the purposes of investigation under Section 19(3) of the Consumer Protection Act, 2019. The company is required to produce the requested documents and records to facilitate the investigation."
+  },
+  "derived_from": [
+    "evidence.document_record"
+  ],
+  "related_concepts": [
+    "evidence.document_record"
+  ],
+  "search": {
+    "keywords": [
+      "consumer protection",
+      "investigation",
+      "document",
+      "record",
+      "Central Authority"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What documents can the Central Authority ask for during an investigation?",
+      "Can the Central Authority direct a company to produce its records?",
+      "How does the Central Authority conduct its investigation?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

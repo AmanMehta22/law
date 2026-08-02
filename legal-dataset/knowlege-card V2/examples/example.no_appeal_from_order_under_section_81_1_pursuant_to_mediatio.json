@@ -1,0 +1,40 @@
+{
+  "concept_id": "example.no_appeal_from_order_under_section_81_1_pursuant_to_mediatio",
+  "concept_type": "example",
+  "title": "No appeal from order under section 81(1) pursuant to mediation under section 80",
+  "description": "Illustrative example for: exception.no_appeal_from_order_under_section_81_1_pursuant_to_mediatio",
+  "content": {
+    "scenario": "A consumer files an appeal with the State Commission, but the order was passed under section 81(1) by the District Commission pursuant to a settlement by mediation under section 80.",
+    "outcome": "No appeal shall lie from any order passed under sub-section (1) of section 81 by the District Commission pursuant to a settlement by mediation under section 80."
+  },
+  "derived_from": [
+    "exception.no_appeal_from_order_under_section_81_1_pursuant_to_mediatio"
+  ],
+  "related_concepts": [
+    "exception.no_appeal_from_order_under_section_81_1_pursuant_to_mediatio"
+  ],
+  "search": {
+    "keywords": [
+      "order under section 81(1)",
+      "mediation under section 80",
+      "District Commission",
+      "State Commission"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What happens if an order is passed under section 81(1) by the District Commission?",
+      "Can an appeal be filed with the State Commission if the order was passed under section 81(1)?",
+      "How does the mediation under section 80 affect the appeal process?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

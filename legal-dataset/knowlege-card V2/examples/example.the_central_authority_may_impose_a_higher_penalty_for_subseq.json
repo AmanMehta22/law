@@ -1,0 +1,40 @@
+{
+  "concept_id": "example.the_central_authority_may_impose_a_higher_penalty_for_subseq",
+  "concept_type": "example",
+  "title": "Higher Penalty for Subsequent Contraventions",
+  "description": "Illustrative example for: exception.the_central_authority_may_impose_a_higher_penalty_for_subseq",
+  "content": {
+    "scenario": "A manufacturer publishes a false advertisement, which is then challenged by the Central Authority. The manufacturer is found to have published the advertisement in the ordinary course of business, but it is revealed that they had previous knowledge of the order passed by the Central Authority for withdrawal or modification of the advertisement. The Central Authority may impose a higher penalty for subsequent contraventions.",
+    "outcome": "The Central Authority may impose a higher penalty for subsequent contraventions, which may extend to fifty lakh rupees."
+  },
+  "derived_from": [
+    "exception.the_central_authority_may_impose_a_higher_penalty_for_subseq"
+  ],
+  "related_concepts": [
+    "exception.the_central_authority_may_impose_a_higher_penalty_for_subseq"
+  ],
+  "search": {
+    "keywords": [
+      "higher penalty",
+      "subsequent contraventions",
+      "Central Authority",
+      "false advertisement"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the higher penalty for subsequent contraventions?",
+      "How does the Central Authority impose a higher penalty?",
+      "What is the role of the Central Authority in imposing a higher penalty for subsequent contraventions?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

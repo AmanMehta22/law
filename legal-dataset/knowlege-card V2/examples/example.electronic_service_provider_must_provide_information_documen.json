@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.electronic_service_provider_must_provide_information_documen",
+  "concept_type": "example",
+  "title": "Electronic Service Provider's Obligation to Provide Information",
+  "description": "Illustrative example for: obligation.electronic_service_provider_must_provide_information_documen",
+  "content": {
+    "scenario": "A consumer files a complaint against an e-commerce platform with the District Commission. The Commission requires the platform to provide specific documents related to the complaint. The platform is obligated to provide these documents as specified in the Commission's order.",
+    "outcome": "The electronic service provider must provide the required information, documents, or records as specified in the District Commission's order, as per Section 38(4) of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.electronic_service_provider_must_provide_information_documen"
+  ],
+  "related_concepts": [
+    "obligation.electronic_service_provider_must_provide_information_documen"
+  ],
+  "search": {
+    "keywords": [
+      "electronic service provider",
+      "District Commission",
+      "information",
+      "documents",
+      "records",
+      "Consumer Protection Act"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the obligations of an electronic service provider in India?",
+      "Can a District Commission require an e-commerce platform to provide documents?",
+      "What information must an electronic service provider provide to the District Commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

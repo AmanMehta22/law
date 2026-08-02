@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.settlement_disposal",
+  "concept_type": "example",
+  "title": "Settlement and Disposal of Consumer Disputes under the Consumer Protection Act, 2019",
+  "description": "Illustrative example for: procedure.settlement_disposal",
+  "content": {
+    "scenario": "A consumer complaint is filed against a company for defective goods. The parties reach a settlement, and a settlement report is submitted to the District Commission. The District Commission passes a suitable order recording the settlement and disposes of the matter.",
+    "outcome": "The consumer dispute is settled and disposed of in accordance with the provisions of the Consumer Protection Act, 2019, and the District Commission's order is binding on the parties."
+  },
+  "derived_from": [
+    "procedure.settlement_disposal"
+  ],
+  "related_concepts": [
+    "procedure.settlement_disposal"
+  ],
+  "search": {
+    "keywords": [
+      "settlement",
+      "consumer dispute",
+      "District Commission",
+      "settlement report",
+      "disposal of matter"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How are consumer disputes settled under the Consumer Protection Act, 2019?",
+      "What is the role of the District Commission in settling consumer disputes?",
+      "Can a settlement be challenged or appealed?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.district_council_shall_meet_and_observe_procedure",
+  "concept_type": "example",
+  "title": "District Council Meetings and Procedure",
+  "description": "Illustrative example for: obligation.district_council_shall_meet_and_observe_procedure",
+  "content": {
+    "scenario": "The District Council in Bangalore is scheduled to meet to discuss consumer protection issues in the district. The Chairperson needs to decide on the meeting procedure.",
+    "outcome": "The District Council in Bangalore shall meet at a time and place decided by the Chairperson and observe a procedure as may be prescribed, to transact its business."
+  },
+  "derived_from": [
+    "obligation.district_council_shall_meet_and_observe_procedure"
+  ],
+  "related_concepts": [
+    "obligation.district_council_shall_meet_and_observe_procedure"
+  ],
+  "search": {
+    "keywords": [
+      "District Council",
+      "meetings",
+      "procedure",
+      "Bangalore",
+      "Chairperson"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How often does the District Council meet?",
+      "What is the procedure for District Council meetings?",
+      "Who decides the meeting schedule of the District Council?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

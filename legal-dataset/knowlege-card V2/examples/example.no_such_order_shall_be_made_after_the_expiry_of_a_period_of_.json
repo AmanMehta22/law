@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.no_such_order_shall_be_made_after_the_expiry_of_a_period_of_",
+  "concept_type": "example",
+  "title": "No Order After Expiry of Two Years",
+  "description": "Illustrative example for: exception.no_such_order_shall_be_made_after_the_expiry_of_a_period_of_",
+  "content": {
+    "scenario": "The Central Government tried to make an order to remove difficulties in giving effect to the provisions of the Consumer Protection Act, 2019, three years after the commencement of the Act.",
+    "outcome": "The order will not be valid as it was made after the expiry of a period of two years from the commencement of the Act. According to section 106 of the Consumer Protection Act, 2019, no such order shall be made after the expiry of a period of two years from the commencement of this Act."
+  },
+  "derived_from": [
+    "exception.no_such_order_shall_be_made_after_the_expiry_of_a_period_of_"
+  ],
+  "related_concepts": [
+    "exception.no_such_order_shall_be_made_after_the_expiry_of_a_period_of_"
+  ],
+  "search": {
+    "keywords": [
+      "Central Government",
+      "order",
+      "difficulty",
+      "commencement of Act",
+      "section 106"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can the Central Government make orders after two years of the Act's commencement?",
+      "What is the time limit for the Central Government to make orders under section 106?",
+      "How does the expiry of two years affect the Central Government's power to make orders?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

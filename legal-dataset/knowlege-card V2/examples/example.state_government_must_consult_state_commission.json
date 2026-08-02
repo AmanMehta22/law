@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.state_government_must_consult_state_commission",
+  "concept_type": "example",
+  "title": "State Government's Obligation to Consult State Commission",
+  "description": "Illustrative example for: obligation.state_government_must_consult_state_commission",
+  "content": {
+    "scenario": "The State Government of Tamil Nadu wants to establish a regional bench of the State Commission in Chennai. They need to determine the location and notify it in the Official Gazette.",
+    "outcome": "The State Government of Tamil Nadu must consult the State Commission to notify the location of the regional bench in the Official Gazette, as per Section 42(2) of the Consumer Protection Act, 2019. The State Commission shall ordinarily function at the State capital."
+  },
+  "derived_from": [
+    "obligation.state_government_must_consult_state_commission"
+  ],
+  "related_concepts": [
+    "obligation.state_government_must_consult_state_commission"
+  ],
+  "search": {
+    "keywords": [
+      "State Government",
+      "State Commission",
+      "consultation",
+      "regional bench",
+      "notification"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the process for establishing a regional bench of a State Commission?",
+      "Why is consultation with the State Commission necessary?",
+      "Where shall the State Commission ordinarily function?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

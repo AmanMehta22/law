@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.president_of_the_national_commission_must_constitute_a_bench",
+  "concept_type": "example",
+  "title": "Constitution of a Bench by the President of the National Commission",
+  "description": "Illustrative example for: obligation.president_of_the_national_commission_must_constitute_a_bench",
+  "content": {
+    "scenario": "The President of the National Commission needs to constitute a Bench to hear a consumer dispute. The President decides to form a Bench with three members, including the senior-most member, to preside over the Bench.",
+    "outcome": "The President of the National Commission constitutes a Bench with one or more members, as deemed fit, and the senior-most member of the Bench presides over it, in accordance with Section 58(2) of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.president_of_the_national_commission_must_constitute_a_bench"
+  ],
+  "related_concepts": [
+    "obligation.president_of_the_national_commission_must_constitute_a_bench"
+  ],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "Bench",
+      "President",
+      "consumer dispute",
+      "senior-most member"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How is a Bench constituted in the National Commission?",
+      "Who presides over a Bench in the National Commission?",
+      "What are the powers of the President of the National Commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

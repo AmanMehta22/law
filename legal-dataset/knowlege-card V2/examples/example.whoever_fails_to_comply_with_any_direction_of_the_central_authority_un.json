@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.whoever_fails_to_comply_with_any_direction_of_the_central_authority_un",
+  "concept_type": "example",
+  "title": "Non-Compliance with Central Authority Directions",
+  "description": "Illustrative example for: offence.whoever_fails_to_comply_with_any_direction_of_the_central_authority_under_sectio",
+  "content": {
+    "scenario": "A company in Delhi fails to comply with a direction from the Central Consumer Protection Authority to recall a defective product. The company claims that the direction was unreasonable, but the Central Authority insists that the company must comply.",
+    "outcome": "The company may be punished with imprisonment for a term which may extend to six months or with a fine which may extend to twenty lakh rupees, or with both, as per Section 88 of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "offence.whoever_fails_to_comply_with_any_direction_of_the_central_authority_under_sectio"
+  ],
+  "related_concepts": [
+    "offence.whoever_fails_to_comply_with_any_direction_of_the_central_authority_under_sectio"
+  ],
+  "search": {
+    "keywords": [
+      "Consumer Protection Act",
+      "Central Authority",
+      "non-compliance",
+      "direction",
+      "Section 88"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the punishment for non-compliance with Central Authority directions?",
+      "Can a company be held liable for failing to comply with a Central Authority direction?",
+      "What are the consequences of violating Section 88 of the Consumer Protection Act?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

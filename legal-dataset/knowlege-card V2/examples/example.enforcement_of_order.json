@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.enforcement_of_order",
+  "concept_type": "example",
+  "title": "Enforcement of Order",
+  "description": "Illustrative example for: procedure.enforcement_of_order",
+  "content": {
+    "scenario": "A consumer in Mumbai has obtained an order from the District Commission against a company for defective goods. The company has not complied with the order, and the consumer wants to enforce it.",
+    "outcome": "The District Commission will enforce the order in the same manner as a decree made by a Court in a suit, as per the provisions of Order XXI of the First Schedule to the Code of Civil Procedure, 1908. The consumer can approach the District Commission to initiate the enforcement process."
+  },
+  "derived_from": [
+    "procedure.enforcement_of_order"
+  ],
+  "related_concepts": [
+    "procedure.enforcement_of_order"
+  ],
+  "search": {
+    "keywords": [
+      "enforcement of order",
+      "District Commission",
+      "Code of Civil Procedure",
+      "decree",
+      "court"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How do I enforce an order passed by the District Commission?",
+      "What is the procedure for enforcing an order under the Consumer Protection Act?",
+      "Can a consumer enforce an order against a company?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

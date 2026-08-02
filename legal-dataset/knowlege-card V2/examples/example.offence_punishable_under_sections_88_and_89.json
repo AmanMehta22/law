@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.offence_punishable_under_sections_88_and_89",
+  "concept_type": "example",
+  "title": "Compounding of Offences under Sections 88 and 89",
+  "description": "Illustrative example for: penalty.offence_punishable_under_sections_88_and_89",
+  "content": {
+    "scenario": "A company in Bangalore is found guilty of an offence under Section 88 of the Consumer Protection Act, 2019. The company wants to compound the offence and avoid prosecution.",
+    "outcome": "The company may compound the offence on payment of a prescribed amount, which shall not exceed the maximum amount of the fine that may be imposed under the Act for the offence, as per Section 96(1) of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "penalty.offence_punishable_under_sections_88_and_89"
+  ],
+  "related_concepts": [
+    "penalty.offence_punishable_under_sections_88_and_89"
+  ],
+  "search": {
+    "keywords": [
+      "Consumer Protection Act",
+      "compounding of offences",
+      "Section 88",
+      "Section 89",
+      "Section 96(1)"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the process for compounding offences under Sections 88 and 89?",
+      "Can a company compound an offence under the Consumer Protection Act?",
+      "What are the consequences of compounding an offence under Section 96(1) of the Consumer Protection Act?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

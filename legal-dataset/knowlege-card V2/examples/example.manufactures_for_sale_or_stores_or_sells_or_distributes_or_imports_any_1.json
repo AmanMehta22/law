@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.manufactures_for_sale_or_stores_or_sells_or_distributes_or_imports_any_1",
+  "concept_type": "example",
+  "title": "Manufacturing and Selling Spurious Goods Causing Injury",
+  "description": "Illustrative example for: offence.manufactures_for_sale_or_stores_or_sells_or_distributes_or_imports_any_spurious_",
+  "content": {
+    "scenario": "A company in Mumbai manufactured and sold spurious baby food that caused non-grievous hurt to several infants. The company's actions were found to be in violation of the Consumer Protection Act, 2019.",
+    "outcome": "The company may be punished with imprisonment for a term which may extend to one year and with a fine which may extend to three lakh rupees, as per Section 91(1) of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "offence.manufactures_for_sale_or_stores_or_sells_or_distributes_or_imports_any_spurious_"
+  ],
+  "related_concepts": [
+    "offence.manufactures_for_sale_or_stores_or_sells_or_distributes_or_imports_any_spurious_"
+  ],
+  "search": {
+    "keywords": [
+      "spurious goods",
+      "consumer protection",
+      "non-grievous hurt",
+      "imprisonment",
+      "fine",
+      "Section 91"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the punishment for selling spurious goods?",
+      "Can a company be imprisoned for selling fake products?",
+      "What are the consequences of causing non-grievous hurt to consumers?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

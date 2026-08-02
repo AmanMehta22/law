@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.comptroller_and_auditor_general_of_india_must_audit_accounts",
+  "concept_type": "example",
+  "title": "Comptroller and Auditor-General of India Must Audit Accounts",
+  "description": "Illustrative example for: obligation.comptroller_and_auditor_general_of_india_must_audit_accounts",
+  "content": {
+    "scenario": "The Central Authority of India has submitted its annual accounts for the financial year 2022-2023. The Comptroller and Auditor-General of India is required to audit these accounts as per the Consumer Protection Act, 2019.",
+    "outcome": "The Comptroller and Auditor-General of India shall audit the accounts of the Central Authority at such intervals as may be specified by him. The Central Authority shall pay any expenditure incurred in connection with such audit to the Comptroller and Auditor-General of India."
+  },
+  "derived_from": [
+    "obligation.comptroller_and_auditor_general_of_india_must_audit_accounts"
+  ],
+  "related_concepts": [
+    "obligation.comptroller_and_auditor_general_of_india_must_audit_accounts"
+  ],
+  "search": {
+    "keywords": [
+      "Comptroller and Auditor-General of India",
+      "audit",
+      "Central Authority",
+      "accounts",
+      "Consumer Protection Act",
+      "India"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the role of the Comptroller and Auditor-General of India in auditing the Central Authority's accounts?",
+      "How often must the Comptroller and Auditor-General of India audit the Central Authority's accounts?",
+      "Who bears the expenditure for the audit of the Central Authority's accounts?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

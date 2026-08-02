@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.central_government_must_appoint_commissioners",
+  "concept_type": "example",
+  "title": "Central Government's Obligation to Appoint Commissioners",
+  "description": "Illustrative example for: obligation.central_government_must_appoint_commissioners",
+  "content": {
+    "scenario": "The Central Government is setting up the Central Authority to exercise powers and discharge functions under the Consumer Protection Act. It appoints a Chief Commissioner and two other Commissioners as prescribed.",
+    "outcome": "The Central Government's appointment of the Commissioners is valid as it is in accordance with the prescribed requirements, and the Central Authority can exercise its powers and discharge its functions under the Act."
+  },
+  "derived_from": [
+    "obligation.central_government_must_appoint_commissioners"
+  ],
+  "related_concepts": [
+    "obligation.central_government_must_appoint_commissioners"
+  ],
+  "search": {
+    "keywords": [
+      "Central Government",
+      "Central Authority",
+      "Commissioners",
+      "appointment",
+      "consumer protection"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Who appoints the Commissioners of the Central Authority?",
+      "What is the role of the Central Authority?",
+      "How many Commissioners can be appointed?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

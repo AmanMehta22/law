@@ -1,0 +1,43 @@
+{
+  "concept_id": "example.mediators_must_disclose_facts",
+  "concept_type": "example",
+  "title": "Mediators' Disclosure Obligations",
+  "description": "Illustrative example for: obligation.mediators_must_disclose_facts",
+  "content": {
+    "scenario": "Rahul, a consumer, files a complaint against a company with the District Commission. The Commission refers the matter to a mediation cell, where a mediator, Ms. Sharma, is appointed. During the mediation process, Ms. Sharma discovers a potential conflict of interest but fails to disclose it to Rahul or the company.",
+    "outcome": "The mediation process may be compromised due to Ms. Sharma's failure to disclose the conflict of interest, as required under clause (c) of section 77 of the Consumer Protection Act, 2019. The District Commission may take action against Ms. Sharma for non-compliance with the regulations."
+  },
+  "derived_from": [
+    "obligation.mediators_must_disclose_facts"
+  ],
+  "related_concepts": [
+    "obligation.mediators_must_disclose_facts"
+  ],
+  "search": {
+    "keywords": [
+      "mediators",
+      "disclosure",
+      "conflict of interest",
+      "Consumer Protection Act",
+      "section 77",
+      "mediation cell",
+      "District Commission"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the obligations of mediators in consumer disputes?",
+      "Can a mediator be removed for non-disclosure of conflict of interest?",
+      "What are the consequences of a mediator's failure to disclose facts under section 77?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

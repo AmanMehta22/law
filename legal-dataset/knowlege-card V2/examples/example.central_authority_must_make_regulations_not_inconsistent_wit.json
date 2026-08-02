@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.central_authority_must_make_regulations_not_inconsistent_wit",
+  "concept_type": "example",
+  "title": "Regulation-Making Power of Central Authority",
+  "description": "Illustrative example for: obligation.central_authority_must_make_regulations_not_inconsistent_wit",
+  "content": {
+    "scenario": "The Central Authority issues a regulation that contradicts a provision of the Consumer Protection Act, 2019, without obtaining the previous approval of the Central Government.",
+    "outcome": "The regulation is invalid, as it is inconsistent with the Consumer Protection Act, 2019. The Central Authority must make regulations that are not inconsistent with the Act, and must obtain the previous approval of the Central Government before making such regulations, as per Section 104(1) of the Act."
+  },
+  "derived_from": [
+    "obligation.central_authority_must_make_regulations_not_inconsistent_wit"
+  ],
+  "related_concepts": [
+    "obligation.central_authority_must_make_regulations_not_inconsistent_wit"
+  ],
+  "search": {
+    "keywords": [
+      "Central Authority",
+      "regulations",
+      "Consumer Protection Act",
+      "inconsistent regulations",
+      "previous approval",
+      "Central Government"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can the Central Authority make regulations that contradict the Consumer Protection Act?",
+      "What is the process for making regulations by the Central Authority?",
+      "How can inconsistencies in regulations be addressed?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

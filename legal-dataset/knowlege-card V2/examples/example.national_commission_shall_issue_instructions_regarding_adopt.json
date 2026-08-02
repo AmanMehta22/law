@@ -1,0 +1,40 @@
+{
+  "concept_id": "example.national_commission_shall_issue_instructions_regarding_adopt",
+  "concept_type": "example",
+  "title": "National Commission's Issuance of Instructions Regarding Adoption of Uniform Procedure",
+  "description": "Illustrative example for: obligation.national_commission_shall_issue_instructions_regarding_adopt",
+  "content": {
+    "scenario": "A consumer in India files a complaint against a business, alleging that they have engaged in unfair practices. The National Commission receives this complaint and decides to issue instructions regarding the adoption of uniform procedure in the hearing of matters.",
+    "outcome": "The National Commission issues instructions regarding the adoption of uniform procedure in the hearing of matters, including prior service of copies of documents produced by one party to the opposite parties, furnishing of english translation of judgments written in any language, and speedy grant of copies of documents."
+  },
+  "derived_from": [
+    "obligation.national_commission_shall_issue_instructions_regarding_adopt"
+  ],
+  "related_concepts": [
+    "obligation.national_commission_shall_issue_instructions_regarding_adopt"
+  ],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "uniform procedure",
+      "instructions",
+      "quasi-judicial freedom"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the National Commission's role in issuing instructions regarding adoption of uniform procedure?",
+      "How does the National Commission issue instructions regarding adoption of uniform procedure?",
+      "What is the outcome of the National Commission's issuance of instructions regarding adoption of uniform procedure?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.president_or_other_members_must_give_opinion_on_the_referred",
+  "concept_type": "example",
+  "title": "Opinion of the President or Other Members on Referred Points",
+  "description": "Illustrative example for: obligation.president_or_other_members_must_give_opinion_on_the_referred",
+  "content": {
+    "scenario": "A Bench of the National Commission is hearing a consumer dispute, but the members differ in opinion on a point. The point is referred to the President, who needs to give an opinion within a specified timeframe.",
+    "outcome": "The President or other members of the National Commission give an opinion on the referred point or points within a period of one month from the date of such reference, as per Section 47(3) of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.president_or_other_members_must_give_opinion_on_the_referred"
+  ],
+  "related_concepts": [
+    "obligation.president_or_other_members_must_give_opinion_on_the_referred"
+  ],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "Bench",
+      "President",
+      "referred point",
+      "opinion"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What happens when members of a Bench differ in opinion?",
+      "How is a referred point decided in the National Commission?",
+      "What is the timeframe for giving an opinion on a referred point?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

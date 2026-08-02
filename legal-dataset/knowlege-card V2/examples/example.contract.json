@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.contract",
+  "concept_type": "example",
+  "title": "Product Liability Action",
+  "description": "Illustrative example for: evidence.contract",
+  "content": {
+    "scenario": "A consumer purchases a product from a service provider and suffers harm due to a faulty product. The consumer files a product liability action against the service provider.",
+    "outcome": "The service provider is liable if the product was faulty or imperfect, or if there was an act of omission or commission, or negligence, or conscious withholding of information that caused harm, or if the product did not conform to the express warranty or terms and conditions of the contract."
+  },
+  "derived_from": [
+    "evidence.contract"
+  ],
+  "related_concepts": [
+    "evidence.contract"
+  ],
+  "search": {
+    "keywords": [
+      "product liability",
+      "service provider",
+      "contract",
+      "faulty product",
+      "consumer protection"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the grounds for a product liability action?",
+      "Can a service provider be held liable for a faulty product?",
+      "What is the role of the contract in a product liability action?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

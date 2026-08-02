@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.central_authority_must_pay_expenditure_incurred_in_connectio",
+  "concept_type": "example",
+  "title": "Payment of Audit Expenditure by Central Authority",
+  "description": "Illustrative example for: obligation.central_authority_must_pay_expenditure_incurred_in_connectio",
+  "content": {
+    "scenario": "The Comptroller and Auditor-General of India conducts an audit of the Central Authority's accounts and incurs expenditure, but the Central Authority refuses to pay the expenditure, citing lack of funds.",
+    "outcome": "The Central Authority is obligated to pay the expenditure incurred in connection with the audit, as per Section 26(2) of the Consumer Protection Act, 2019. The Central Authority must reimburse the Comptroller and Auditor-General of India for the audit expenditure, regardless of its financial situation."
+  },
+  "derived_from": [
+    "obligation.central_authority_must_pay_expenditure_incurred_in_connectio"
+  ],
+  "related_concepts": [
+    "obligation.central_authority_must_pay_expenditure_incurred_in_connectio"
+  ],
+  "search": {
+    "keywords": [
+      "audit expenditure",
+      "Comptroller and Auditor-General",
+      "Central Authority",
+      "payment obligation",
+      "Consumer Protection Act",
+      "accountability"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Is the Central Authority responsible for paying audit expenditure?",
+      "What are the consequences of non-payment of audit expenditure?",
+      "How can the Central Authority ensure timely payment of audit expenditure?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

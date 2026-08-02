@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.central_council_must_render_advice_on_promotion_and_protecti",
+  "concept_type": "example",
+  "title": "Central Council Advice on Consumer Rights",
+  "description": "Illustrative example for: obligation.central_council_must_render_advice_on_promotion_and_protecti",
+  "content": {
+    "scenario": "A state government seeks advice from the Central Council on how to promote and protect consumer rights in their region.",
+    "outcome": "The Central Council shall render advice on the promotion and protection of consumers' rights under the Consumer Protection Act, 2019, to help the state government develop effective consumer protection policies."
+  },
+  "derived_from": [
+    "obligation.central_council_must_render_advice_on_promotion_and_protecti"
+  ],
+  "related_concepts": [
+    "obligation.central_council_must_render_advice_on_promotion_and_protecti"
+  ],
+  "search": {
+    "keywords": [
+      "Central Council",
+      "consumer rights",
+      "promotion",
+      "protection",
+      "advice",
+      "CPA 2019"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the role of the Central Council in promoting consumer rights?",
+      "How does the Central Council advise on consumer protection?",
+      "What are the objectives of the Central Council under the CPA 2019?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

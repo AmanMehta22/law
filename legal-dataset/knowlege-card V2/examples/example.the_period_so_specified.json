@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.the_period_so_specified",
+  "concept_type": "example",
+  "title": "Admissibility of Complaint",
+  "description": "Illustrative example for: timeline.the_period_so_specified",
+  "content": {
+    "scenario": "A consumer, Priya, filed a complaint with the District Commission. If the Commission does not decide on the admissibility of the complaint within the specified period, what happens?",
+    "outcome": "If the District Commission does not decide on the admissibility of the complaint within the period so specified, it shall be deemed to have been admitted."
+  },
+  "derived_from": [
+    "timeline.the_period_so_specified"
+  ],
+  "related_concepts": [
+    "timeline.the_period_so_specified"
+  ],
+  "search": {
+    "keywords": [
+      "admissibility",
+      "complaint",
+      "District Commission",
+      "deemed admitted",
+      "period so specified"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What happens if the District Commission does not decide on the admissibility of a complaint?",
+      "How long does the District Commission have to decide on the admissibility of a complaint?",
+      "What is the consequence of the District Commission not deciding on the admissibility of a complaint within the specified period?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

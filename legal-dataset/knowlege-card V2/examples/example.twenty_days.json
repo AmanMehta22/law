@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.twenty_days",
+  "concept_type": "example",
+  "title": "Twenty Day Timeline for Returning Seized Documents",
+  "description": "Illustrative example for: timeline.twenty_days",
+  "content": {
+    "scenario": "The Central Authority seized certain documents from a company during an investigation under the Consumer Protection Act, 2019. The company is now requesting the return of these documents.",
+    "outcome": "According to sub-section (3) of Section 22, the Central Authority shall return the seized documents to the company within twenty days from the date of seizure, after taking certified copies or extracts of the same."
+  },
+  "derived_from": [
+    "timeline.twenty_days"
+  ],
+  "related_concepts": [
+    "timeline.twenty_days"
+  ],
+  "search": {
+    "keywords": [
+      "Consumer Protection Act",
+      "seized documents",
+      "twenty day timeline",
+      "Central Authority",
+      "return of documents"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the timeline for returning seized documents under the Consumer Protection Act?",
+      "Can the Central Authority retain seized documents beyond twenty days?",
+      "What is the procedure for returning seized documents?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

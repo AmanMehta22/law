@@ -1,0 +1,43 @@
+{
+  "concept_id": "example.state_commission_where_the_opposite_party_resides_carries_on_business_",
+  "concept_type": "example",
+  "title": "State Commission Jurisdiction",
+  "description": "Illustrative example for: jurisdiction.state_commission_where_the_opposite_party_resides_carries_on_business_has_a_bran",
+  "content": {
+    "scenario": "Rahul, a consumer from Mumbai, purchases a defective product from a company that has its head office in Delhi and a branch office in Mumbai. Rahul wants to file a complaint against the company.",
+    "outcome": "Rahul can file a complaint in the State Commission of Maharashtra, as the company has a branch office in Mumbai, which falls within the territorial jurisdiction of the State Commission."
+  },
+  "derived_from": [
+    "jurisdiction.state_commission_where_the_opposite_party_resides_carries_on_business_has_a_bran"
+  ],
+  "related_concepts": [
+    "jurisdiction.state_commission_where_the_opposite_party_resides_carries_on_business_has_a_bran"
+  ],
+  "search": {
+    "keywords": [
+      "State Commission",
+      "jurisdiction",
+      "consumer protection",
+      "complaint",
+      "branch office",
+      "Mumbai",
+      "Delhi"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Where can I file a complaint against a company with a branch office in my state?",
+      "Can I file a complaint in the State Commission of the state where the company has its head office?",
+      "What is the jurisdiction of the State Commission in consumer protection cases?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

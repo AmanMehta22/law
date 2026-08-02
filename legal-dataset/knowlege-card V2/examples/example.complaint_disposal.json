@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.complaint_disposal",
+  "concept_type": "example",
+  "title": "Complaint Disposal Procedure",
+  "description": "Illustrative example for: procedure.complaint_disposal",
+  "content": {
+    "scenario": "The District Commission in Mumbai receives a complaint from a consumer, Priya, against a company alleging unfair trade practices. The company responds to the complaint, and the Commission decides to analyze the evidence.",
+    "outcome": "The District Commission endeavors to dispose of the complaint within 3 months from the date of receipt of the notice by the opposite party. If analysis or testing of commodities is required, the Commission may take up to 5 months to dispose of the complaint. The Commission may grant adjournments if sufficient cause is shown and records the reasons in writing."
+  },
+  "derived_from": [
+    "procedure.complaint_disposal"
+  ],
+  "related_concepts": [
+    "procedure.complaint_disposal"
+  ],
+  "search": {
+    "keywords": [
+      "complaint disposal",
+      "District Commission",
+      "unfair trade practices",
+      "analysis of evidence",
+      "adjournment"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How long does the District Commission take to dispose of a complaint?",
+      "What happens if the complaint requires analysis or testing of commodities?",
+      "Can the District Commission grant adjournments in a complaint disposal procedure?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

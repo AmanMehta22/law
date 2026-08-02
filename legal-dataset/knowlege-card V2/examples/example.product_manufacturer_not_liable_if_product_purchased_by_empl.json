@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.product_manufacturer_not_liable_if_product_purchased_by_empl",
+  "concept_type": "example",
+  "title": "Product Manufacturer Not Liable If Product Purchased By Employer For Workplace Use With Adequate Warnings",
+  "description": "Illustrative example for: exception.product_manufacturer_not_liable_if_product_purchased_by_empl",
+  "content": {
+    "scenario": "A product manufacturer sold a product to an employer for use at the workplace. The product manufacturer had provided warnings or instructions to the employer. Later, a complainant used the product and was harmed. The product manufacturer is not liable because the product was purchased by an employer for use at the workplace and the product manufacturer had provided warnings or instructions to such employer.",
+    "outcome": "The product manufacturer is not liable for the harm caused to the complainant because the product was purchased by an employer for use at the workplace and the product manufacturer had provided warnings or instructions to such employer."
+  },
+  "derived_from": [
+    "exception.product_manufacturer_not_liable_if_product_purchased_by_empl"
+  ],
+  "related_concepts": [
+    "exception.product_manufacturer_not_liable_if_product_purchased_by_empl"
+  ],
+  "search": {
+    "keywords": [
+      "product manufacturer",
+      "product liability",
+      "warnings or instructions",
+      "workplace use",
+      "employer"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the exceptions to product liability?",
+      "Can a product manufacturer be liable if the product is used at the workplace?",
+      "What are the conditions for a product manufacturer not to be liable for product liability?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

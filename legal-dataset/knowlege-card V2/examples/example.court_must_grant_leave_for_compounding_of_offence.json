@@ -1,0 +1,44 @@
+{
+  "concept_id": "example.court_must_grant_leave_for_compounding_of_offence",
+  "concept_type": "example",
+  "title": "Court Leave for Compounding of Offence",
+  "description": "Illustrative example for: obligation.court_must_grant_leave_for_compounding_of_offence",
+  "content": {
+    "scenario": "A consumer in India files a complaint under section 92. The court must grant leave for compounding of the offence.",
+    "outcome": "The court grants leave for compounding of the offence, allowing the consumer to pay a prescribed amount, which does not exceed the maximum amount of the fine."
+  },
+  "derived_from": [
+    "obligation.court_must_grant_leave_for_compounding_of_offence"
+  ],
+  "related_concepts": [
+    "obligation.court_must_grant_leave_for_compounding_of_offence"
+  ],
+  "search": {
+    "keywords": [
+      "court",
+      "leave",
+      "compounding",
+      "offence",
+      "fine",
+      "CPA2019",
+      "India",
+      "consumer"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the process for compounding of an offence in India?",
+      "How does the court grant leave for compounding of an offence?",
+      "What are the limitations for compounding of an offence in India?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

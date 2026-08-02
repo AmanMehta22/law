@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.does_not_include_a_provider_of_professional_services_in_any_",
+  "concept_type": "example",
+  "title": "Exception to Product Seller Definition",
+  "description": "Illustrative example for: exception.does_not_include_a_provider_of_professional_services_in_any_",
+  "content": {
+    "scenario": "Dr. Smith is a medical professional who provides consultation services to patients. She also prescribes and sells medicines to her patients as part of her practice. However, the primary purpose of her practice is to provide medical consultation and advice, not to sell products.",
+    "outcome": "Dr. Smith does not qualify as a product seller under the Consumer Protection Act, 2019, because she is a provider of professional services and the sale of medicines is only incidental to her primary service of providing medical consultation and advice."
+  },
+  "derived_from": [
+    "exception.does_not_include_a_provider_of_professional_services_in_any_"
+  ],
+  "related_concepts": [
+    "exception.does_not_include_a_provider_of_professional_services_in_any_"
+  ],
+  "search": {
+    "keywords": [
+      "product seller",
+      "professional services",
+      "incidental sale",
+      "medical practice",
+      "consultation services"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the definition of a product seller under the Consumer Protection Act?",
+      "Can a medical professional be considered a product seller?",
+      "What are the exceptions to the definition of a product seller?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

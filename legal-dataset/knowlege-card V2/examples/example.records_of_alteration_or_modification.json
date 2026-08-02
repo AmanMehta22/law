@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.records_of_alteration_or_modification",
+  "concept_type": "example",
+  "title": "Product Seller's Liability for Alteration or Modification",
+  "description": "Illustrative example for: evidence.records_of_alteration_or_modification",
+  "content": {
+    "scenario": "A product seller, Rohan, altered a product before selling it to a consumer, who later suffered harm. The consumer filed a product liability case against Rohan.",
+    "outcome": "Rohan, the product seller, may be liable if the alteration or modification was the substantial factor in causing the harm, as per Section 86(b) of the Consumer Protection Act, 2019. Rohan can provide records of alteration or modification as evidence to establish his liability."
+  },
+  "derived_from": [
+    "evidence.records_of_alteration_or_modification"
+  ],
+  "related_concepts": [
+    "evidence.records_of_alteration_or_modification"
+  ],
+  "search": {
+    "keywords": [
+      "product seller",
+      "alteration",
+      "modification",
+      "product liability",
+      "consumer protection",
+      "Section 86"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can a product seller be held liable for altering or modifying a product?",
+      "What happens if a product seller fails to provide warnings or instructions after altering a product?",
+      "How does the Consumer Protection Act, 2019, address product seller liability in cases involving alteration or modification?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

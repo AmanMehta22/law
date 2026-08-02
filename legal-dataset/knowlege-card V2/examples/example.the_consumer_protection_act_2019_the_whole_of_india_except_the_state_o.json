@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.the_consumer_protection_act_2019_the_whole_of_india_except_the_state_o",
+  "concept_type": "example",
+  "title": "Applicability of the Consumer Protection Act, 2019",
+  "description": "Illustrative example for: jurisdiction.the_consumer_protection_act_2019_the_whole_of_india_except_the_state_of_jammu_an",
+  "content": {
+    "scenario": "A consumer from the state of Jammu and Kashmir wants to file a complaint against a company for a defective product.",
+    "outcome": "The Consumer Protection Act, 2019 does not apply to the state of Jammu and Kashmir, and therefore, the consumer cannot file a complaint under this Act."
+  },
+  "derived_from": [
+    "jurisdiction.the_consumer_protection_act_2019_the_whole_of_india_except_the_state_of_jammu_an"
+  ],
+  "related_concepts": [
+    "jurisdiction.the_consumer_protection_act_2019_the_whole_of_india_except_the_state_of_jammu_an"
+  ],
+  "search": {
+    "keywords": [
+      "Consumer Protection Act, 2019",
+      "applicability",
+      "Jammu and Kashmir",
+      "consumer protection",
+      "complaint"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Is the Consumer Protection Act, 2019 applicable in Jammu and Kashmir?",
+      "Can a consumer from Jammu and Kashmir file a complaint under this Act?",
+      "What are the implications of the Act not applying to Jammu and Kashmir?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.product_manual_warning_labels",
+  "concept_type": "example",
+  "title": "Product Liability and Inadequate Warnings",
+  "description": "Illustrative example for: evidence.product_manual_warning_labels",
+  "content": {
+    "scenario": "A consumer, Priya, purchased a hair dryer that did not come with adequate instructions or warnings. She used the product and suffered burns. Priya filed a product liability case against the manufacturer.",
+    "outcome": "The court may hold the manufacturer liable as the product failed to contain adequate instructions or warnings, as per Section 84(1)(e) of the Consumer Protection Act, 2019. The consumer can provide the product manual and warning labels as evidence to prove the manufacturer's liability."
+  },
+  "derived_from": [
+    "evidence.product_manual_warning_labels"
+  ],
+  "related_concepts": [
+    "evidence.product_manual_warning_labels"
+  ],
+  "search": {
+    "keywords": [
+      "product liability",
+      "inadequate warnings",
+      "instructions",
+      "consumer protection",
+      "Section 84",
+      "CPA 2019"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What happens if a product does not have adequate warnings or instructions?",
+      "Can a manufacturer be held liable for a product that causes harm due to lack of warnings?",
+      "How does the Consumer Protection Act, 2019, address product liability in cases involving inadequate warnings or instructions?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

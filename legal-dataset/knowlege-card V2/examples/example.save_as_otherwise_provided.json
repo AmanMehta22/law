@@ -1,0 +1,40 @@
+{
+  "concept_id": "example.save_as_otherwise_provided",
+  "concept_type": "example",
+  "title": "Save as otherwise provided",
+  "description": "Illustrative example for: exception.save_as_otherwise_provided",
+  "content": {
+    "scenario": "A consumer files a complaint with the District Commission, which then tries the offence summarily. The consumer wants to know if the District Commission has the authority to try the offence summarily.",
+    "outcome": "The District Commission has the authority to try the offence summarily, as the case may be."
+  },
+  "derived_from": [
+    "exception.save_as_otherwise_provided"
+  ],
+  "related_concepts": [
+    "exception.save_as_otherwise_provided"
+  ],
+  "search": {
+    "keywords": [
+      "consumer protection",
+      "District Commission",
+      "offence",
+      "summarily"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the process for trying an offence summarily?",
+      "Can a consumer appeal to the National Commission if the State Commission has passed an order in appeal?",
+      "What are the requirements for the District Commission to try an offence summarily?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

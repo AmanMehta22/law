@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.mediator_must_disclose_personal_professional_or_financial_in",
+  "concept_type": "example",
+  "title": "Mediator's Duty to Disclose Personal, Professional or Financial Interests",
+  "description": "Illustrative example for: obligation.mediator_must_disclose_personal_professional_or_financial_in",
+  "content": {
+    "scenario": "A mediator in India is assigned to mediate a consumer dispute. The mediator has a financial interest in the outcome of the dispute, which may affect his independence or impartiality.",
+    "outcome": "The mediator must disclose any personal, professional or financial interest in the outcome of the consumer dispute, as well as the circumstances which may give rise to a justifiable doubt as to his independence or impartiality."
+  },
+  "derived_from": [
+    "obligation.mediator_must_disclose_personal_professional_or_financial_in"
+  ],
+  "related_concepts": [
+    "obligation.mediator_must_disclose_personal_professional_or_financial_in"
+  ],
+  "search": {
+    "keywords": [
+      "mediator",
+      "consumer dispute",
+      "personal interest",
+      "professional interest",
+      "financial interest",
+      "disclosure"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the mediator's duty in a consumer dispute?",
+      "Why must mediators disclose personal interests?",
+      "How does a mediator's independence affect the mediation process?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

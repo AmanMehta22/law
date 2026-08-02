@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.central_government_give_an_opportunity_to_express_views",
+  "concept_type": "example",
+  "title": "Expression of Views by Central Authority",
+  "description": "Illustrative example for: obligation.central_government_give_an_opportunity_to_express_views",
+  "content": {
+    "scenario": "The Central Government is considering issuing a direction to the Central Authority regarding the regulation of e-commerce platforms. Before issuing the direction, the Central Government must provide an opportunity for the Central Authority to express its views.",
+    "outcome": "The Central Authority must be given an opportunity to express its views before the Central Government issues any direction, as far as practicable. This allows the Central Authority to provide its input and expertise on the matter."
+  },
+  "derived_from": [
+    "obligation.central_government_give_an_opportunity_to_express_views"
+  ],
+  "related_concepts": [
+    "obligation.central_government_give_an_opportunity_to_express_views"
+  ],
+  "search": {
+    "keywords": [
+      "Central Authority",
+      "expression of views",
+      "direction",
+      "Central Government",
+      "regulation",
+      "e-commerce"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the process for issuing directions to the Central Authority?",
+      "Can the Central Government issue directions without consulting the Central Authority?",
+      "What is the role of the Central Authority in regulating e-commerce platforms?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.state_government_make_rules_to_provide_for_salaries_and_allo",
+  "concept_type": "example",
+  "title": "State Government's Obligation to Make Rules for Salaries and Allowances",
+  "description": "Illustrative example for: obligation.state_government_make_rules_to_provide_for_salaries_and_allo",
+  "content": {
+    "scenario": "The State Government of Maharashtra is considering the salaries and allowances of the President and members of the District Commission in Mumbai. They want to ensure that the rules are in place to provide for these benefits.",
+    "outcome": "The State Government of Maharashtra may, by notification, make rules to provide for the salaries and allowances of the President and members of the District Commission in Mumbai, as per Section 30 of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.state_government_make_rules_to_provide_for_salaries_and_allo"
+  ],
+  "related_concepts": [
+    "obligation.state_government_make_rules_to_provide_for_salaries_and_allo"
+  ],
+  "search": {
+    "keywords": [
+      "State Government",
+      "salaries",
+      "allowances",
+      "District Commission",
+      "notification",
+      "Consumer Protection Act"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the rules for salaries and allowances of District Commission members?",
+      "How does the State Government provide for benefits of District Commission members?",
+      "What is the process for making rules for salaries and allowances of District Commission members?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

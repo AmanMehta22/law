@@ -1,0 +1,40 @@
+{
+  "concept_id": "example.receiving_evidence_on_affidavits",
+  "concept_type": "example",
+  "title": "Receiving Evidence on Affidavits by District Commission",
+  "description": "Illustrative example for: procedure.receiving_evidence_on_affidavits",
+  "content": {
+    "scenario": "A consumer, Ms. Sharma, files a complaint before the District Commission against a service provider for deficiency in service. The District Commission allows the consumer to submit evidence on affidavits to support her claim.",
+    "outcome": "The District Commission receives the evidence on affidavits and considers it while deciding the complaint, as it has the same powers as a civil court in this regard."
+  },
+  "derived_from": [
+    "procedure.receiving_evidence_on_affidavits"
+  ],
+  "related_concepts": [
+    "procedure.receiving_evidence_on_affidavits"
+  ],
+  "search": {
+    "keywords": [
+      "receiving evidence on affidavits",
+      "District Commission",
+      "consumer protection",
+      "deficiency in service"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can the District Commission receive evidence on affidavits?",
+      "What are the powers of the District Commission in receiving evidence?",
+      "How does the District Commission consider evidence on affidavits?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

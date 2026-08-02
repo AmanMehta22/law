@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.national_commission_must_hear_appeal",
+  "concept_type": "example",
+  "title": "National Commission Appeal Hearing",
+  "description": "Illustrative example for: obligation.national_commission_must_hear_appeal",
+  "content": {
+    "scenario": "A consumer, Rohan, files an appeal in the National Commission against a State Commission order, arguing that the case involves a substantial question of law regarding product liability. The National Commission must decide whether to hear the appeal.",
+    "outcome": "The National Commission must hear Rohan's appeal, as it involves a substantial question of law, unless otherwise provided under the Act or any other law for the time being in force."
+  },
+  "derived_from": [
+    "obligation.national_commission_must_hear_appeal"
+  ],
+  "related_concepts": [
+    "obligation.national_commission_must_hear_appeal"
+  ],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "appeal",
+      "substantial question of law",
+      "product liability",
+      "consumer protection",
+      "CPA 2019"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the process for filing an appeal in the National Commission?",
+      "Can the National Commission refuse to hear an appeal?",
+      "What is a substantial question of law in the context of consumer protection?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.the_central_authority_shall_be_given_an_opportunity_to_expre",
+  "concept_type": "example",
+  "title": "Central Authority's Opportunity to Express Views",
+  "description": "Illustrative example for: exception.the_central_authority_shall_be_given_an_opportunity_to_expre",
+  "content": {
+    "scenario": "The Central Government is considering issuing a direction to the Central Authority regarding a new consumer protection policy. Before doing so, the Government must decide whether to consult the Central Authority.",
+    "outcome": "The Central Authority shall be given an opportunity to express its views before the Central Government gives any direction, as far as practicable."
+  },
+  "derived_from": [
+    "exception.the_central_authority_shall_be_given_an_opportunity_to_expre"
+  ],
+  "related_concepts": [
+    "exception.the_central_authority_shall_be_given_an_opportunity_to_expre"
+  ],
+  "search": {
+    "keywords": [
+      "Central Authority",
+      "Central Government",
+      "direction",
+      "opportunity to express views",
+      "consumer protection policy"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Does the Central Authority have a say in government directions?",
+      "How does the Central Government direct the Central Authority?",
+      "What is the process for Central Authority feedback?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

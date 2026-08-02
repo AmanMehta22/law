@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.district_collector_within_his_jurisdiction",
+  "concept_type": "example",
+  "title": "District Collector's Jurisdiction",
+  "description": "Illustrative example for: jurisdiction.district_collector_within_his_jurisdiction",
+  "content": {
+    "scenario": "A consumer files a complaint against a company for unfair trade practices in a district. Can the District Collector investigate the complaint?",
+    "outcome": "Yes, the District Collector can investigate the complaint as it falls within his jurisdiction, and he has the authority to do so on a complaint or on a reference made to him by the Central Authority or the Commissioner of a regional office."
+  },
+  "derived_from": [
+    "jurisdiction.district_collector_within_his_jurisdiction"
+  ],
+  "related_concepts": [
+    "jurisdiction.district_collector_within_his_jurisdiction"
+  ],
+  "search": {
+    "keywords": [
+      "District Collector",
+      "jurisdiction",
+      "complaint",
+      "unfair trade practices",
+      "investigation"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can the District Collector investigate complaints?",
+      "What is the jurisdiction of the District Collector?",
+      "How can a consumer file a complaint with the District Collector?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

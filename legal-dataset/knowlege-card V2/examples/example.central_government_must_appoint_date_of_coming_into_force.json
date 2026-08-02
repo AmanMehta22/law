@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.central_government_must_appoint_date_of_coming_into_force",
+  "concept_type": "example",
+  "title": "Appointment of Date of Coming into Force",
+  "description": "Illustrative example for: obligation.central_government_must_appoint_date_of_coming_into_force",
+  "content": {
+    "scenario": "The Central Government is preparing to implement the Consumer Protection Act, 2019 in the state of Maharashtra. They need to decide on a date for the Act to come into force in the state.",
+    "outcome": "The Central Government must appoint a date for the Act to come into force in Maharashtra by notification, and may appoint different dates for different states or provisions of the Act."
+  },
+  "derived_from": [
+    "obligation.central_government_must_appoint_date_of_coming_into_force"
+  ],
+  "related_concepts": [
+    "obligation.central_government_must_appoint_date_of_coming_into_force"
+  ],
+  "search": {
+    "keywords": [
+      "Consumer Protection Act",
+      "coming into force",
+      "Central Government",
+      "notification",
+      "Maharashtra",
+      "implementation"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the process for implementing the Consumer Protection Act?",
+      "How does the Central Government decide on the date of coming into force?",
+      "Can the Act be implemented on different dates in different states?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.information",
+  "concept_type": "example",
+  "title": "Furnishing Information to the Central Government",
+  "description": "Illustrative example for: evidence.information",
+  "content": {
+    "scenario": "The National Commission receives a request from the Central Government to furnish information on the pendency of cases. The National Commission provides the required information in the prescribed form and manner.",
+    "outcome": "The National Commission fulfils its statutory obligation to furnish information to the Central Government, as required under the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "evidence.information"
+  ],
+  "related_concepts": [
+    "evidence.information"
+  ],
+  "search": {
+    "keywords": [
+      "information",
+      "Central Government",
+      "National Commission",
+      "statutory obligation",
+      "consumer protection"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What information is the National Commission required to furnish to the Central Government?",
+      "How often is the National Commission required to provide information to the Central Government?",
+      "What is the purpose of furnishing information to the Central Government?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.central_government_must_consult",
+  "concept_type": "example",
+  "title": "Consultation for Prescribing Number of Members for District Commission",
+  "description": "Illustrative example for: obligation.central_government_must_consult",
+  "content": {
+    "scenario": "The Central Government is establishing a District Commission under the Consumer Protection Act, 2019 and needs to prescribe the number of members for the Commission. They are considering the composition of the Commission.",
+    "outcome": "The Central Government must consult with the relevant authorities when prescribing the number of members for the District Commission, which shall consist of a President and not less than two and not more than such number of members as may be prescribed."
+  },
+  "derived_from": [
+    "obligation.central_government_must_consult"
+  ],
+  "related_concepts": [
+    "obligation.central_government_must_consult"
+  ],
+  "search": {
+    "keywords": [
+      "Consumer Protection Act",
+      "District Commission",
+      "consultation",
+      "members",
+      "prescription"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the process for prescribing the number of members for the District Commission?",
+      "Who must the Central Government consult with?",
+      "What is the composition of the District Commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

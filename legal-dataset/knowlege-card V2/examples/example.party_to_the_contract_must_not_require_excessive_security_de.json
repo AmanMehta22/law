@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.party_to_the_contract_must_not_require_excessive_security_de",
+  "concept_type": "example",
+  "title": "Excessive Security Deposits in Contracts",
+  "description": "Illustrative example for: obligation.party_to_the_contract_must_not_require_excessive_security_de",
+  "content": {
+    "scenario": "A consumer, Priya, rents an apartment and is required to pay a security deposit of ₹200,000, which is significantly higher than the monthly rent. The landlord claims this is necessary to cover potential damages.",
+    "outcome": "The contract is considered unfair as it requires an excessive security deposit from Priya, which is manifestly disproportionate to the potential loss due to breach of contract, thus causing a significant change in her rights as a consumer."
+  },
+  "derived_from": [
+    "obligation.party_to_the_contract_must_not_require_excessive_security_de"
+  ],
+  "related_concepts": [
+    "obligation.party_to_the_contract_must_not_require_excessive_security_de"
+  ],
+  "search": {
+    "keywords": [
+      "security deposits",
+      "excessive deposits",
+      "unfair contract",
+      "consumer protection",
+      "rental agreements"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is considered an excessive security deposit?",
+      "Can a landlord demand a high security deposit?",
+      "How does the Consumer Protection Act regulate security deposits?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

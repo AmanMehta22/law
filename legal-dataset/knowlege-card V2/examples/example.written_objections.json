@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.written_objections",
+  "concept_type": "example",
+  "title": "Written Objections to Laboratory Findings",
+  "description": "Illustrative example for: evidence.written_objections",
+  "content": {
+    "scenario": "A consumer, Rohan, files a complaint against a company alleging a defect in a product. The District Commission sends the product to a laboratory for testing, and the laboratory reports that the product is not defective. Rohan submits written objections to the laboratory's findings.",
+    "outcome": "The District Commission considers Rohan's written objections and may direct the laboratory to re-test the product or provide further clarification on its findings."
+  },
+  "derived_from": [
+    "evidence.written_objections"
+  ],
+  "related_concepts": [
+    "evidence.written_objections"
+  ],
+  "search": {
+    "keywords": [
+      "laboratory testing",
+      "written objections",
+      "product defect",
+      "District Commission",
+      "consumer complaint"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How can I dispute laboratory findings in a consumer complaint?",
+      "What is the process for testing products in consumer disputes?",
+      "Can I object to laboratory results?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

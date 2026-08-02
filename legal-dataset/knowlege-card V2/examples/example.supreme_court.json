@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.supreme_court",
+  "concept_type": "example",
+  "title": "Supreme Court's Appellate Jurisdiction",
+  "description": "Illustrative example for: authority.supreme_court",
+  "content": {
+    "scenario": "A consumer, aggrieved by an order of the National Commission, wants to appeal to the Supreme Court. The order was made 40 days ago, but the consumer claims they had sufficient cause for not filing the appeal within the 30-day time limit.",
+    "outcome": "The Supreme Court may entertain the appeal despite the expiry of the 30-day time limit, as per Section 67 of the Consumer Protection Act, 2019, if it is satisfied that there was sufficient cause for not filing it within that period. However, the consumer must deposit 50% of the amount ordered by the National Commission."
+  },
+  "derived_from": [
+    "authority.supreme_court"
+  ],
+  "related_concepts": [
+    "authority.supreme_court"
+  ],
+  "search": {
+    "keywords": [
+      "Supreme Court",
+      "appellate jurisdiction",
+      "National Commission",
+      "Consumer Protection Act",
+      "2019",
+      "sufficient cause"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can the Supreme Court entertain an appeal after the 30-day time limit?",
+      "What is the condition for the Supreme Court to entertain a late appeal?",
+      "How much amount must be deposited by the consumer to appeal to the Supreme Court?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

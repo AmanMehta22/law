@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.complainant_must_satisfy_the_commission_that_he_had_sufficie",
+  "concept_type": "example",
+  "title": "Complainant's Obligation to Satisfy the Commission about Delay",
+  "description": "Illustrative example for: obligation.complainant_must_satisfy_the_commission_that_he_had_sufficie",
+  "content": {
+    "scenario": "A consumer files a complaint with the State Commission after the specified period, citing sufficient cause for the delay.",
+    "outcome": "The complainant must satisfy the State Commission that he had sufficient cause for not filing the complaint within the specified period, and the State Commission must record its reasons for condoning the delay, if it chooses to do so."
+  },
+  "derived_from": [
+    "obligation.complainant_must_satisfy_the_commission_that_he_had_sufficie"
+  ],
+  "related_concepts": [
+    "obligation.complainant_must_satisfy_the_commission_that_he_had_sufficie"
+  ],
+  "search": {
+    "keywords": [
+      "complainant",
+      "delay",
+      "sufficient cause",
+      "condoning delay",
+      "consumer protection"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the process for filing a complaint after the specified period?",
+      "How can I satisfy the Commission about the delay in filing the complaint?",
+      "What are the consequences of not satisfying the Commission about the delay?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

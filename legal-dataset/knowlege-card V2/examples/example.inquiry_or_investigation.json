@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.inquiry_or_investigation",
+  "concept_type": "example",
+  "title": "Inquiry or Investigation",
+  "description": "Illustrative example for: procedure.inquiry_or_investigation",
+  "content": {
+    "scenario": "The Central Authority receives a complaint from a consumer about a company's unfair trade practice of making false claims about its product. The Central Authority directs the District Collector to inquire into the matter.",
+    "outcome": "The District Collector inquires into the complaint and submits a report to the Central Authority, which may then take further action, such as filing a complaint before the District Commission or recommending remedial measures to the company."
+  },
+  "derived_from": [
+    "procedure.inquiry_or_investigation"
+  ],
+  "related_concepts": [
+    "procedure.inquiry_or_investigation"
+  ],
+  "search": {
+    "keywords": [
+      "Central Authority",
+      "District Collector",
+      "inquiry",
+      "investigation",
+      "unfair trade practice",
+      "false claims"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the procedure for inquiring into a complaint about unfair trade practices?",
+      "Can the District Collector investigate a complaint on its own initiative?",
+      "What are the possible actions that the Central Authority can take after receiving a report from the District Collector?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

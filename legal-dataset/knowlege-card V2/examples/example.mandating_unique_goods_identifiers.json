@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.mandating_unique_goods_identifiers",
+  "concept_type": "example",
+  "title": "Mandating Unique Goods Identifiers by Central Authority",
+  "description": "Illustrative example for: procedure.mandating_unique_goods_identifiers",
+  "content": {
+    "scenario": "The Central Authority receives a complaint about counterfeit products being sold in the market. The Central Authority mandates the use of unique and universal goods identifiers for certain products to prevent unfair trade practices.",
+    "outcome": "The Central Authority has the power to mandate the use of unique and universal goods identifiers in such goods, as may be necessary, to prevent unfair trade practices and to protect consumers’ interest, as per Section 18(2)(i) of the Consumer Protection Act, 2019. The unique goods identifiers can help track the origin and authenticity of products, preventing counterfeit products from being sold in the market."
+  },
+  "derived_from": [
+    "procedure.mandating_unique_goods_identifiers"
+  ],
+  "related_concepts": [
+    "procedure.mandating_unique_goods_identifiers"
+  ],
+  "search": {
+    "keywords": [
+      "consumer protection",
+      "central authority",
+      "unique goods identifiers",
+      "unfair trade practices",
+      "counterfeit products",
+      "product authentication"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the process of mandating unique goods identifiers by the Central Authority?",
+      "Can the Central Authority mandate unique goods identifiers for all products?",
+      "What are the benefits of using unique goods identifiers in preventing unfair trade practices?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

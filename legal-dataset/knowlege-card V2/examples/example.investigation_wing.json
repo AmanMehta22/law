@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.investigation_wing",
+  "concept_type": "example",
+  "title": "Investigation Wing Role and Powers",
+  "description": "Illustrative example for: authority.investigation_wing",
+  "content": {
+    "scenario": "The Central Authority directs the Investigation Wing to conduct an inquiry into a complaint of unfair trade practices by a company in Bangalore. The Investigation Wing conducts the inquiry and submits its report to the Central Authority.",
+    "outcome": "The Investigation Wing has the power to conduct inquiries or investigations under the direction of the Central Authority. The Wing can gather evidence, examine witnesses, and submit its report to the Central Authority, which can then take further action based on the findings."
+  },
+  "derived_from": [
+    "authority.investigation_wing"
+  ],
+  "related_concepts": [
+    "authority.investigation_wing"
+  ],
+  "search": {
+    "keywords": [
+      "Investigation Wing",
+      "inquiry",
+      "unfair trade practices",
+      "Central Authority",
+      "direction"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the role of the Investigation Wing in conducting inquiries?",
+      "How does the Investigation Wing exercise its powers?",
+      "What is the relationship between the Investigation Wing and the Central Authority?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

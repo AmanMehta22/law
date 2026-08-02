@@ -1,0 +1,44 @@
+{
+  "concept_id": "example.central_government_make_rules_for_district_commission_appoin",
+  "concept_type": "example",
+  "title": "Central Government's Obligation to Make Rules for District Commission Appointments",
+  "description": "Illustrative example for: obligation.central_government_make_rules_for_district_commission_appoin",
+  "content": {
+    "scenario": "The Central Government is required to establish rules for the appointment of the President and members of the District Commission in the state of Maharashtra. The rules must include qualifications, method of recruitment, procedure for appointment, term of office, resignation, and removal of the President and members.",
+    "outcome": "The Central Government must make rules by notification to provide for the qualifications, method of recruitment, procedure for appointment, term of office, resignation, and removal of the President and members of the District Commission in Maharashtra, as per Section 29 of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.central_government_make_rules_for_district_commission_appoin"
+  ],
+  "related_concepts": [
+    "obligation.central_government_make_rules_for_district_commission_appoin"
+  ],
+  "search": {
+    "keywords": [
+      "Central Government",
+      "District Commission",
+      "appointments",
+      "rules",
+      "notification",
+      "qualifications",
+      "recruitment",
+      "Maharashtra"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the rules for appointing District Commission members in Maharashtra?",
+      "How are the qualifications for District Commission appointments determined?",
+      "What is the procedure for removing a District Commission member in Maharashtra?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "concept_id": "example.state_government",
+  "concept_type": "example",
+  "title": "State Government",
+  "description": "Illustrative example for: authority.state_government",
+  "content": {
+    "scenario": "The State Government of Tamil Nadu recognizes a laboratory for testing consumer goods, as per the guidelines issued by the Central Government. The laboratory is authorized to conduct tests to determine whether consumer goods suffer from any defects.",
+    "outcome": "The State Government has the power to recognize laboratories for testing consumer goods, as per the provisions of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "authority.state_government"
+  ],
+  "related_concepts": [
+    "authority.state_government"
+  ],
+  "search": {
+    "keywords": [
+      "State Government",
+      "laboratory recognition",
+      "consumer goods testing",
+      "defect determination"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the powers of the State Government?",
+      "How can a laboratory be recognized by the State Government?",
+      "What is the role of the State Government in consumer protection?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.an_appeal_may_lie_before_a_court_as_provided_in_sub_section_",
+  "concept_type": "example",
+  "title": "An Appeal May Lie Before a Court as Provided in Sub-Section",
+  "description": "Illustrative example for: exception.an_appeal_may_lie_before_a_court_as_provided_in_sub_section_",
+  "content": {
+    "scenario": "A consumer, Kumar, files an appeal before the National Commission against a decision of the State Commission. The National Commission dismisses the appeal, and Kumar wants to challenge this decision in a court.",
+    "outcome": "An appeal may lie before a court from the order of the National Commission, but only as provided in sub-section (1) of section 73 of the Consumer Protection Act, 2019. Otherwise, no appeal shall lie before any court from any order of the National Commission."
+  },
+  "derived_from": [
+    "exception.an_appeal_may_lie_before_a_court_as_provided_in_sub_section_"
+  ],
+  "related_concepts": [
+    "exception.an_appeal_may_lie_before_a_court_as_provided_in_sub_section_"
+  ],
+  "search": {
+    "keywords": [
+      "appeal",
+      "court",
+      "National Commission",
+      "sub-section (1)",
+      "Consumer Protection Act"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Under what conditions can an appeal be filed in a court against a decision of the National Commission?",
+      "What is the purpose of limiting appeals to a court?",
+      "Can an appeal be filed in a court against any order of the National Commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

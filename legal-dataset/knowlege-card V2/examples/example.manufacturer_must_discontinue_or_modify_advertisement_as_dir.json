@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.manufacturer_must_discontinue_or_modify_advertisement_as_dir",
+  "concept_type": "example",
+  "title": "Manufacturer's Obligation to Discontinue or Modify Advertisement",
+  "description": "Illustrative example for: obligation.manufacturer_must_discontinue_or_modify_advertisement_as_dir",
+  "content": {
+    "scenario": "A manufacturer has published an advertisement that is found to be false and misleading by the Central Authority. The Central Authority has issued an order directing the manufacturer to discontinue or modify the advertisement.",
+    "outcome": "The manufacturer must discontinue or modify the advertisement as directed by the Central Authority, within the time specified in the order, as per the provisions of Section 21(1) of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.manufacturer_must_discontinue_or_modify_advertisement_as_dir"
+  ],
+  "related_concepts": [
+    "obligation.manufacturer_must_discontinue_or_modify_advertisement_as_dir"
+  ],
+  "search": {
+    "keywords": [
+      "Consumer Protection Act",
+      "manufacturer",
+      "advertisement",
+      "Central Authority",
+      "discontinuation",
+      "modification"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the obligations of a manufacturer regarding false advertisements?",
+      "How can the Central Authority regulate advertisements?",
+      "What happens if a manufacturer fails to comply with the Central Authority's order?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

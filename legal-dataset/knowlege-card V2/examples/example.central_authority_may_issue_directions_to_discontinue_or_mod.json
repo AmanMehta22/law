@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.central_authority_may_issue_directions_to_discontinue_or_mod",
+  "concept_type": "example",
+  "title": "Central Authority's Power to Issue Directions to Discontinue or Modify Advertisements",
+  "description": "Illustrative example for: obligation.central_authority_may_issue_directions_to_discontinue_or_mod",
+  "content": {
+    "scenario": "A company publishes an advertisement for a new weight loss product, claiming that it can help users lose 10 kg in just one week. The Central Authority investigates and finds that the claim is false and misleading.",
+    "outcome": "The Central Authority may issue directions to the company to discontinue the advertisement or modify it to remove the false claim, as per the provisions of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.central_authority_may_issue_directions_to_discontinue_or_mod"
+  ],
+  "related_concepts": [
+    "obligation.central_authority_may_issue_directions_to_discontinue_or_mod"
+  ],
+  "search": {
+    "keywords": [
+      "Central Authority",
+      "directions",
+      "false advertisement",
+      "misleading claim",
+      "consumer protection",
+      "weight loss product"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What can the Central Authority do to stop a false advertisement?",
+      "Can the Central Authority direct a company to modify an advertisement?",
+      "How does the Consumer Protection Act, 2019 regulate directions to companies?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

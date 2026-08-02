@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.service_of_notice",
+  "concept_type": "example",
+  "title": "Service of Notice under the Consumer Protection Act, 2019",
+  "description": "Illustrative example for: procedure.service_of_notice",
+  "content": {
+    "scenario": "A consumer files a complaint against a company for defective goods. The District Commission serves a notice on the company by registered post acknowledgment due, but the company refuses to accept the notice.",
+    "outcome": "The District Commission declares that the notice has been duly served on the company, as the notice was properly addressed, pre-paid, and duly sent by registered post acknowledgment due, and the company's refusal to accept the notice does not affect the validity of the service."
+  },
+  "derived_from": [
+    "procedure.service_of_notice"
+  ],
+  "related_concepts": [
+    "procedure.service_of_notice"
+  ],
+  "search": {
+    "keywords": [
+      "service of notice",
+      "registered post",
+      "acknowledgment due",
+      "refusal to accept notice",
+      "District Commission",
+      "consumer complaint"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How is a notice served on a company under the Consumer Protection Act, 2019?",
+      "What happens if a company refuses to accept a notice?",
+      "Can a notice be served by electronic means?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.deposit_of_amount",
+  "concept_type": "example",
+  "title": "Deposit of Amount Before Filing Appeal",
+  "description": "Illustrative example for: procedure.deposit_of_amount",
+  "content": {
+    "scenario": "Rahul, a consumer, wants to file an appeal against a decision of the State Commission. He needs to deposit 50% of the amount before filing the appeal with the National Commission.",
+    "outcome": "Rahul must deposit 50% of the amount as per the rules of the National Commission before filing his appeal, along with the required documents such as the bill, cash memo, or receipt."
+  },
+  "derived_from": [
+    "procedure.deposit_of_amount"
+  ],
+  "related_concepts": [
+    "procedure.deposit_of_amount"
+  ],
+  "search": {
+    "keywords": [
+      "deposit",
+      "amount",
+      "appeal",
+      "National Commission",
+      "consumer",
+      "rules"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the procedure for depositing the amount before filing an appeal?",
+      "How much amount needs to be deposited before filing an appeal?",
+      "What documents are required for depositing the amount?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "concept_id": "example.representative_proceeding",
+  "concept_type": "example",
+  "title": "Representative Proceeding",
+  "description": "Illustrative example for: procedure.representative_proceeding",
+  "content": {
+    "scenario": "A consumer association files a complaint with the District Commission on behalf of multiple consumers who have been affected by a defective product. The association seeks relief for all the affected consumers.",
+    "outcome": "The District Commission applies the provisions of Order I Rule 8 of the First Schedule to the Code of Civil Procedure, 1908, with modifications, to allow the consumer association to represent the affected consumers, as per Section 38(11) of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "procedure.representative_proceeding"
+  ],
+  "related_concepts": [
+    "procedure.representative_proceeding"
+  ],
+  "search": {
+    "keywords": [
+      "consumer protection",
+      "representative proceeding",
+      "district commission",
+      "consumer association"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can a consumer association file a complaint on behalf of multiple consumers?",
+      "What are the procedures for a representative proceeding?",
+      "How does the District Commission handle representative proceedings?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

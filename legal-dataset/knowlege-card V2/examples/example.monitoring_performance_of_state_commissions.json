@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.monitoring_performance_of_state_commissions",
+  "concept_type": "example",
+  "title": "Monitoring Performance of State Commissions",
+  "description": "Illustrative example for: procedure.monitoring_performance_of_state_commissions",
+  "content": {
+    "scenario": "The National Commission calls for periodical returns from the State Commission of Maharashtra regarding the institution, disposal, and pendency of cases. The State Commission submits the required returns, which are then reviewed by the National Commission.",
+    "outcome": "The National Commission monitors the performance of the State Commission of Maharashtra by reviewing the periodical returns, ensuring that the State Commission is functioning efficiently and effectively in disposing of consumer cases."
+  },
+  "derived_from": [
+    "procedure.monitoring_performance_of_state_commissions"
+  ],
+  "related_concepts": [
+    "procedure.monitoring_performance_of_state_commissions"
+  ],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "State Commission",
+      "periodical returns",
+      "performance monitoring",
+      "consumer cases"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How does the National Commission monitor State Commissions?",
+      "What are periodical returns in the context of consumer protection?",
+      "How is the performance of State Commissions evaluated?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

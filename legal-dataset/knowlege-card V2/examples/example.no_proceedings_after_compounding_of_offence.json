@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.no_proceedings_after_compounding_of_offence",
+  "concept_type": "example",
+  "title": "No Proceedings After Compounding of Offence",
+  "description": "Illustrative example for: exception.no_proceedings_after_compounding_of_offence",
+  "content": {
+    "scenario": "Rahul, a consumer, filed a complaint against a company for selling defective products. The company compounded the offence by paying the prescribed amount with the leave of the court. Later, Rahul tried to initiate further proceedings against the company for the same offence.",
+    "outcome": "The court will not allow further proceedings against the company as the offence has already been compounded. According to section 96 of the Consumer Protection Act, 2019, where an offence has been compounded, no proceeding or further proceeding shall be taken against the offender in respect of the offence so compounded."
+  },
+  "derived_from": [
+    "exception.no_proceedings_after_compounding_of_offence"
+  ],
+  "related_concepts": [
+    "exception.no_proceedings_after_compounding_of_offence"
+  ],
+  "search": {
+    "keywords": [
+      "compounding of offence",
+      "consumer protection",
+      "section 96",
+      "court proceedings",
+      "defective products"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What happens after an offence is compounded under the Consumer Protection Act?",
+      "Can I initiate further proceedings after compounding of an offence?",
+      "How does compounding of an offence affect court proceedings?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.filing_an_appeal",
+  "concept_type": "example",
+  "title": "Filing an Appeal",
+  "description": "Illustrative example for: procedure.filing_an_appeal",
+  "content": {
+    "scenario": "A consumer in Chennai has received an order from the District Commission, but is not satisfied with the decision. The consumer wants to file an appeal against the order.",
+    "outcome": "The consumer can file an appeal to the State Commission within thirty days from the date of receipt of the order. If the appeal is filed after thirty days, the consumer must show sufficient cause for the delay. The appeal can be filed against the order made by the District Commission, State Commission, or National Commission, as the case may be."
+  },
+  "derived_from": [
+    "procedure.filing_an_appeal"
+  ],
+  "related_concepts": [
+    "procedure.filing_an_appeal"
+  ],
+  "search": {
+    "keywords": [
+      "filing an appeal",
+      "District Commission",
+      "State Commission",
+      "National Commission",
+      "time limit"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How do I file an appeal against an order?",
+      "What is the time limit for filing an appeal?",
+      "Can I file an appeal after thirty days?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

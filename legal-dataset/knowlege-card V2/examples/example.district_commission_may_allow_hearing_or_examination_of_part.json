@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.district_commission_may_allow_hearing_or_examination_of_part",
+  "concept_type": "example",
+  "title": "District Commission's Hearing and Examination of Parties",
+  "description": "Illustrative example for: obligation.district_commission_may_allow_hearing_or_examination_of_part",
+  "content": {
+    "scenario": "A consumer files a complaint with the District Commission against a company for unfair trade practices. The consumer requests a hearing in person to present their case.",
+    "outcome": "The District Commission, after recording its reasons in writing, allows the consumer to be heard in person on showing sufficient cause. The Commission examines the parties and considers their arguments before making a decision."
+  },
+  "derived_from": [
+    "obligation.district_commission_may_allow_hearing_or_examination_of_part"
+  ],
+  "related_concepts": [
+    "obligation.district_commission_may_allow_hearing_or_examination_of_part"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "hearing",
+      "examination of parties",
+      "unfair trade practices",
+      "consumer complaint",
+      "sufficient cause"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can a consumer request a hearing in person before the District Commission?",
+      "What are the conditions for the District Commission to allow a hearing or examination of parties?",
+      "How does the District Commission make a decision after hearing the parties?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

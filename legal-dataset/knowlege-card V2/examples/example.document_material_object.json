@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.document_material_object",
+  "concept_type": "example",
+  "title": "Production of Documents and Material Objects as Evidence",
+  "description": "Illustrative example for: evidence.document_material_object",
+  "content": {
+    "scenario": "Rahul, a consumer, files a complaint against a manufacturer for selling a defective product. The District Commission asks the manufacturer to produce the product's design documents and a sample of the defective product as evidence.",
+    "outcome": "The District Commission has the power to require the production of any document or other material object as evidence, as per Section 38(9) of the Consumer Protection Act, 2019. The manufacturer is obligated to produce the requested documents and material object to support the investigation."
+  },
+  "derived_from": [
+    "evidence.document_material_object"
+  ],
+  "related_concepts": [
+    "evidence.document_material_object"
+  ],
+  "search": {
+    "keywords": [
+      "consumer protection",
+      "evidence",
+      "document",
+      "material object",
+      "District Commission",
+      "investigation"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the powers of the District Commission in terms of evidence production?",
+      "Can the District Commission ask for material objects as evidence?",
+      "How does the District Commission support its investigation?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

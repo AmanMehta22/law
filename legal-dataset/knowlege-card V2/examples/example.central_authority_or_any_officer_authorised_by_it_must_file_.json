@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.central_authority_or_any_officer_authorised_by_it_must_file_",
+  "concept_type": "example",
+  "title": "Central Authority Filing Complaint",
+  "description": "Illustrative example for: obligation.central_authority_or_any_officer_authorised_by_it_must_file_",
+  "content": {
+    "scenario": "The Central Authority or any officer authorised by it must file a complaint for any offence under sections 88 and 89.",
+    "outcome": "No cognizance shall be taken by a competent court of any offence under sections 88 and 89 except on a complaint filed by the Central Authority or any officer authorised by it in this behalf."
+  },
+  "derived_from": [
+    "obligation.central_authority_or_any_officer_authorised_by_it_must_file_"
+  ],
+  "related_concepts": [
+    "obligation.central_authority_or_any_officer_authorised_by_it_must_file_"
+  ],
+  "search": {
+    "keywords": [
+      "Central Authority",
+      "complaint",
+      "filing",
+      "officer",
+      "authorised"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the process for filing a complaint?",
+      "Who can file a complaint?",
+      "What are the requirements for filing a complaint?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

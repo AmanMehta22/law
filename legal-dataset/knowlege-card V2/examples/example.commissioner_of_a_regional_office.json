@@ -1,0 +1,40 @@
+{
+  "concept_id": "example.commissioner_of_a_regional_office",
+  "concept_type": "example",
+  "title": "Commissioner of a regional office",
+  "description": "Illustrative example for: authority.commissioner_of_a_regional_office",
+  "content": {
+    "scenario": "A consumer in India files a complaint against a company for violating their rights. The Commissioner of a regional office receives reports on consumer rights violations and submits his report to the Central Authority or to the Commissioner of a regional office, as the case may be.",
+    "outcome": "The Commissioner of a regional office receives reports on consumer rights violations and submits his report to the Central Authority or to the Commissioner of a regional office, as the case may be."
+  },
+  "derived_from": [
+    "authority.commissioner_of_a_regional_office"
+  ],
+  "related_concepts": [
+    "authority.commissioner_of_a_regional_office"
+  ],
+  "search": {
+    "keywords": [
+      "Commissioner of a regional office",
+      "consumer rights",
+      "India",
+      "Central Authority"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the role of the Commissioner of a regional office in the Central Authority?",
+      "How does the Commissioner of a regional office receive reports?",
+      "What are the powers of the Commissioner of a regional office in the Central Authority?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

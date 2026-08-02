@@ -1,0 +1,40 @@
+{
+  "concept_id": "example.district_commission_shall_function_in_district_headquarters",
+  "concept_type": "example",
+  "title": "District Commission Functioning in District Headquarters",
+  "description": "Illustrative example for: obligation.district_commission_shall_function_in_district_headquarters",
+  "content": {
+    "scenario": "A consumer dispute was filed with the District Commission. The District Commission must function in the district headquarters.",
+    "outcome": "The District Commission must function in the district headquarters, as notified in the Official Gazette from time to time, and may perform its functions at such other place in the district, as the State Government may decide in consultation with the State Commission."
+  },
+  "derived_from": [
+    "obligation.district_commission_shall_function_in_district_headquarters"
+  ],
+  "related_concepts": [
+    "obligation.district_commission_shall_function_in_district_headquarters"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "district headquarters",
+      "State Commission",
+      "Official Gazette"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Where does the District Commission function?",
+      "What is the role of the District Commission in the district headquarters?",
+      "How does the District Commission decide on the place of its functioning?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

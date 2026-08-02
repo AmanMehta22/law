@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.maintenance_of_information_by_consumer_mediation_cell",
+  "concept_type": "example",
+  "title": "Maintenance of Information by Consumer Mediation Cell",
+  "description": "Illustrative example for: procedure.maintenance_of_information_by_consumer_mediation_cell",
+  "content": {
+    "scenario": "A consumer mediation cell is established in a district to resolve consumer disputes. The cell maintains information about the number of cases resolved, the types of disputes, and the outcomes.",
+    "outcome": "The consumer mediation cell is required to maintain information under sub-section (4) of section 74 of the Consumer Protection Act, 2019. The cell must maintain records of the cases resolved, the types of disputes, and the outcomes, and submit quarterly reports to the District Commission, State Commission, or National Commission."
+  },
+  "derived_from": [
+    "procedure.maintenance_of_information_by_consumer_mediation_cell"
+  ],
+  "related_concepts": [
+    "procedure.maintenance_of_information_by_consumer_mediation_cell"
+  ],
+  "search": {
+    "keywords": [
+      "consumer protection",
+      "consumer mediation cell",
+      "maintenance of information",
+      "consumer disputes",
+      "mediation"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What information must be maintained by the consumer mediation cell?",
+      "How often must the consumer mediation cell submit reports to the District Commission?",
+      "What are the requirements for maintaining information by the consumer mediation cell under the Consumer Protection Act, 2019?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

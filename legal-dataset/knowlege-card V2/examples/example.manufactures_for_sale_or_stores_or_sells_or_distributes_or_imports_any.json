@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.manufactures_for_sale_or_stores_or_sells_or_distributes_or_imports_any",
+  "concept_type": "example",
+  "title": "Offence of Manufacturing or Selling Adulterated Products",
+  "description": "Illustrative example for: offence.manufactures_for_sale_or_stores_or_sells_or_distributes_or_imports_any_product_c",
+  "content": {
+    "scenario": "A food manufacturer in India is found to be selling packaged snacks that contain adulterants. Fortunately, no consumer has been injured by consuming these snacks.",
+    "outcome": "The manufacturer can be punished with imprisonment for a term which may extend to six months and with a fine which may extend to one lakh rupees, as per Section 90(1) of the Consumer Protection Act, 2019, for manufacturing for sale or selling products containing adulterants, even if no injury to the consumer has occurred."
+  },
+  "derived_from": [
+    "offence.manufactures_for_sale_or_stores_or_sells_or_distributes_or_imports_any_product_c"
+  ],
+  "related_concepts": [
+    "offence.manufactures_for_sale_or_stores_or_sells_or_distributes_or_imports_any_product_c"
+  ],
+  "search": {
+    "keywords": [
+      "adulterated products",
+      "punishment",
+      "manufacturing",
+      "selling",
+      "consumer safety",
+      "Section 90"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the punishment for selling adulterated food?",
+      "Can a manufacturer be punished if no one is harmed by the product?",
+      "How does the law protect consumers from adulterated products?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

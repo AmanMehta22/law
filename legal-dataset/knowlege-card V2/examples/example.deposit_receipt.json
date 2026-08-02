@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.deposit_receipt",
+  "concept_type": "example",
+  "title": "Deposit Receipt for Appeal",
+  "description": "Illustrative example for: evidence.deposit_receipt",
+  "content": {
+    "scenario": "Rahul, a consumer, files an appeal against the District Commission's order to pay Rs. 1 lakh to a seller. Rahul wants to appeal to the State Commission but has not deposited 50% of the ordered amount.",
+    "outcome": "The State Commission will not entertain Rahul's appeal unless he deposits 50% of the ordered amount, i.e., Rs. 50,000, in the prescribed manner."
+  },
+  "derived_from": [
+    "evidence.deposit_receipt"
+  ],
+  "related_concepts": [
+    "evidence.deposit_receipt"
+  ],
+  "search": {
+    "keywords": [
+      "deposit receipt",
+      "appeal",
+      "State Commission",
+      "District Commission",
+      "consumer protection"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the requirement for appealing to the State Commission?",
+      "Can I appeal without depositing 50% of the ordered amount?",
+      "What is the purpose of depositing 50% of the ordered amount?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

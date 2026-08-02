@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.state_government_shall_establish_a_state_consumer_disputes_r",
+  "concept_type": "example",
+  "title": "State Government's Obligation to Establish a State Consumer Disputes Redressal Commission",
+  "description": "Illustrative example for: obligation.state_government_shall_establish_a_state_consumer_disputes_r",
+  "content": {
+    "scenario": "The State Government of Maharashtra has not yet established a State Consumer Disputes Redressal Commission. A consumer rights activist files a petition in the High Court to direct the State Government to establish the Commission.",
+    "outcome": "The High Court directs the State Government of Maharashtra to establish a State Consumer Disputes Redressal Commission by notification, as mandated by the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.state_government_shall_establish_a_state_consumer_disputes_r"
+  ],
+  "related_concepts": [
+    "obligation.state_government_shall_establish_a_state_consumer_disputes_r"
+  ],
+  "search": {
+    "keywords": [
+      "State Government",
+      "Consumer Disputes Redressal Commission",
+      "notification",
+      "Consumer Protection Act",
+      "2019",
+      "Maharashtra"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the obligation of the State Government under the Consumer Protection Act?",
+      "Can a State Government be directed to establish a Consumer Disputes Redressal Commission?",
+      "What is the role of the High Court in ensuring compliance with the Consumer Protection Act?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.central_authority_must_regulate_the_procedure_for_transactio",
+  "concept_type": "example",
+  "title": "Central Authority Regulation",
+  "description": "Illustrative example for: obligation.central_authority_must_regulate_the_procedure_for_transactio",
+  "content": {
+    "scenario": "The Central Authority is required to regulate the procedure for transaction of its business and allocation of its business amongst the Chief Commissioner and Commissioners as may be specified by regulations.",
+    "outcome": "The Central Authority must regulate the procedure for transaction of its business and allocation of its business amongst the Chief Commissioner and Commissioners as may be specified by regulations."
+  },
+  "derived_from": [
+    "obligation.central_authority_must_regulate_the_procedure_for_transactio"
+  ],
+  "related_concepts": [
+    "obligation.central_authority_must_regulate_the_procedure_for_transactio"
+  ],
+  "search": {
+    "keywords": [
+      "Central Authority",
+      "regulation",
+      "procedure",
+      "transaction",
+      "business"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the role of the Central Authority?",
+      "How does the Central Authority regulate the procedure for transaction of its business?",
+      "What are the regulations for the Central Authority?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

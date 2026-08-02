@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.express_warranty_documents",
+  "concept_type": "example",
+  "title": "Express Warranty Documents in Product Liability",
+  "description": "Illustrative example for: evidence.express_warranty_documents",
+  "content": {
+    "scenario": "A consumer, Karan, purchases a product with an express warranty from a seller. The product fails to conform to the express warranty, causing harm to Karan. He files a complaint against the seller, providing the express warranty documents as evidence.",
+    "outcome": "The court holds the seller liable for the harm caused, as the express warranty documents establish that the seller made an express warranty independent of the manufacturer's warranty, and the product failed to conform to that warranty."
+  },
+  "derived_from": [
+    "evidence.express_warranty_documents"
+  ],
+  "related_concepts": [
+    "evidence.express_warranty_documents"
+  ],
+  "search": {
+    "keywords": [
+      "product liability",
+      "express warranty",
+      "seller's liability",
+      "evidence",
+      "consumer protection"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the role of express warranty documents in a product liability case?",
+      "How can a consumer establish a seller's liability for a product defect?",
+      "What is the difference between a manufacturer's warranty and a seller's warranty?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

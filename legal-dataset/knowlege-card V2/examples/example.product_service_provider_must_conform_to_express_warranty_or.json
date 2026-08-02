@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.product_service_provider_must_conform_to_express_warranty_or",
+  "concept_type": "example",
+  "title": "Product Service Provider's Obligation to Conform to Express Warranty",
+  "description": "Illustrative example for: obligation.product_service_provider_must_conform_to_express_warranty_or",
+  "content": {
+    "scenario": "Rahul purchased a smartphone from a retailer with a one-year warranty. However, the phone's battery started draining quickly within six months. The retailer refused to replace the battery, citing that it was not a manufacturing defect.",
+    "outcome": "The retailer is liable for not conforming to the express warranty, as the service provided (the smartphone) did not meet the quality required by the contract (the one-year warranty). The consumer (Rahul) can file a complaint against the retailer for product liability."
+  },
+  "derived_from": [
+    "obligation.product_service_provider_must_conform_to_express_warranty_or"
+  ],
+  "related_concepts": [
+    "obligation.product_service_provider_must_conform_to_express_warranty_or"
+  ],
+  "search": {
+    "keywords": [
+      "product liability",
+      "express warranty",
+      "contract terms",
+      "consumer protection",
+      "smartphone",
+      "retailer"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What happens if a product does not meet the express warranty?",
+      "Can a consumer file a complaint for product liability?",
+      "What are the obligations of a product service provider?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

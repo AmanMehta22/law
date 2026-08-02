@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.a_bench_may_be_constituted_by_the_president_with_one_or_more",
+  "concept_type": "example",
+  "title": "Constitution of Benches by the President",
+  "description": "Illustrative example for: exception.a_bench_may_be_constituted_by_the_president_with_one_or_more",
+  "content": {
+    "scenario": "The President of the National Commission constitutes a Bench with one member to hear a complaint regarding a defective product, citing the need for specialized expertise. The complainant, a consumer from Mumbai, had purchased a smartphone that stopped working within a month of purchase.",
+    "outcome": "The Bench, presided over by the single member, has the jurisdiction, powers, and authority to hear the complaint, as per the provision that allows the President to constitute a Bench with one or more members. The senior-most member of the Bench, in this case, the single member, will preside over the Bench."
+  },
+  "derived_from": [
+    "exception.a_bench_may_be_constituted_by_the_president_with_one_or_more"
+  ],
+  "related_concepts": [
+    "exception.a_bench_may_be_constituted_by_the_president_with_one_or_more"
+  ],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "Bench",
+      "President",
+      "consumer complaint",
+      "defective product",
+      "jurisdiction"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can the President constitute a Bench with one member?",
+      "What are the powers of a Bench constituted by the President?",
+      "How is the jurisdiction of the National Commission exercised?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.state_commission_state_capital_and_other_notified_places",
+  "concept_type": "example",
+  "title": "State Commission Functioning at State Capital and Other Notified Places",
+  "description": "Illustrative example for: jurisdiction.state_commission_state_capital_and_other_notified_places",
+  "content": {
+    "scenario": "The State Government of Maharashtra notifies Pune as a place where the State Commission can function, in addition to the state capital Mumbai. A consumer in Pune files a complaint against a company.",
+    "outcome": "The State Commission can function at Pune and hear the complaint, as it is a notified place, in addition to the state capital Mumbai, as per Section 42(2) of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "jurisdiction.state_commission_state_capital_and_other_notified_places"
+  ],
+  "related_concepts": [
+    "jurisdiction.state_commission_state_capital_and_other_notified_places"
+  ],
+  "search": {
+    "keywords": [
+      "State Commission",
+      "state capital",
+      "notified places",
+      "functioning",
+      "complaint"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Where can the State Commission function?",
+      "Can the State Commission hear complaints at places other than the state capital?",
+      "What are the conditions for the State Commission to function at other places?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.party_to_the_contract_must_not_terminate_contract_unilateral",
+  "concept_type": "example",
+  "title": "Unilateral Termination of Contracts",
+  "description": "Illustrative example for: obligation.party_to_the_contract_must_not_terminate_contract_unilateral",
+  "content": {
+    "scenario": "A service provider, without reasonable cause, decides to terminate its contract with a consumer, Amit, who has been paying his bills on time and has not breached any terms of the contract.",
+    "outcome": "The termination of the contract by the service provider without reasonable cause is considered unfair, as it entitles the service provider to terminate the contract unilaterally, which is to the detriment of Amit, the consumer."
+  },
+  "derived_from": [
+    "obligation.party_to_the_contract_must_not_terminate_contract_unilateral"
+  ],
+  "related_concepts": [
+    "obligation.party_to_the_contract_must_not_terminate_contract_unilateral"
+  ],
+  "search": {
+    "keywords": [
+      "unilateral termination",
+      "contract termination",
+      "consumer rights",
+      "unfair contract terms",
+      "reasonable cause"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can a service provider terminate a contract without reason?",
+      "What constitutes reasonable cause for contract termination?",
+      "How does the Consumer Protection Act protect consumers from unfair contract terminations?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

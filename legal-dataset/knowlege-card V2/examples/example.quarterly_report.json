@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.quarterly_report",
+  "concept_type": "example",
+  "title": "Consumer Mediation Cell Reporting",
+  "description": "Illustrative example for: evidence.quarterly_report",
+  "content": {
+    "scenario": "A consumer mediation cell, attached to the State Commission, failed to submit its quarterly report. The State Commission issued a notice to the cell, seeking an explanation for the non-compliance.",
+    "outcome": "The consumer mediation cell must submit a quarterly report to the State Commission, as per Section 74(5) of the Consumer Protection Act, 2019. The cell's failure to comply may result in consequences, as specified by regulations made under Section 103(2)(d) of the Act."
+  },
+  "derived_from": [
+    "evidence.quarterly_report"
+  ],
+  "related_concepts": [
+    "evidence.quarterly_report"
+  ],
+  "search": {
+    "keywords": [
+      "consumer mediation cell",
+      "quarterly report",
+      "State Commission",
+      "consumer protection",
+      "Section 74",
+      "CPA 2019"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the purpose of a quarterly report in consumer mediation?",
+      "Can a consumer mediation cell be penalized for not submitting a quarterly report?",
+      "How does the Consumer Protection Act, 2019, regulate consumer mediation cells and their reporting requirements?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

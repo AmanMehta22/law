@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.proceedings_not_to_be_called_in_question_on_natural_justice_grounds",
+  "concept_type": "example",
+  "title": "Proceedings Not to be Questioned on Natural Justice Grounds",
+  "description": "Illustrative example for: exception.proceedings_not_to_be_called_in_question_on_natural_justice_grounds",
+  "content": {
+    "scenario": "A consumer filed a complaint before the District Commission, which conducted the proceedings according to the procedure laid down in sub-sections (1) and (2) of section 38. Later, the consumer tried to challenge the proceedings in court on the ground that the principles of natural justice were not complied with.",
+    "outcome": "The court will not entertain the challenge as the proceedings before the District Commission complied with the procedure laid down in sub-sections (1) and (2) of section 38. According to section 38 of the Consumer Protection Act, 2019, no proceedings complying with the procedure shall be called in question in any court on the ground that the principles of natural justice have not been complied with."
+  },
+  "derived_from": [
+    "exception.proceedings_not_to_be_called_in_question_on_natural_justice_grounds"
+  ],
+  "related_concepts": [
+    "exception.proceedings_not_to_be_called_in_question_on_natural_justice_grounds"
+  ],
+  "search": {
+    "keywords": [
+      "natural justice",
+      "District Commission",
+      "procedure",
+      "section 38",
+      "court proceedings"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can I challenge proceedings before the District Commission on natural justice grounds?",
+      "How does the procedure laid down in section 38 affect court proceedings?",
+      "What are the implications of complying with the procedure under section 38?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

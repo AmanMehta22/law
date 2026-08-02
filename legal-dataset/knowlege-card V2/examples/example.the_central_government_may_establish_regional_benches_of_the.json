@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.the_central_government_may_establish_regional_benches_of_the",
+  "concept_type": "example",
+  "title": "Establishment of Regional Benches of the National Commission",
+  "description": "Illustrative example for: exception.the_central_government_may_establish_regional_benches_of_the",
+  "content": {
+    "scenario": "The Central Government, in consultation with the National Commission, decides to establish a regional bench in Mumbai to cater to the growing number of consumer disputes in the western region.",
+    "outcome": "The Central Government may establish a regional bench of the National Commission in Mumbai by notification, allowing for more accessible and efficient dispute resolution for consumers in the region."
+  },
+  "derived_from": [
+    "exception.the_central_government_may_establish_regional_benches_of_the"
+  ],
+  "related_concepts": [
+    "exception.the_central_government_may_establish_regional_benches_of_the"
+  ],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "regional benches",
+      "Central Government",
+      "consumer disputes",
+      "Mumbai"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can the Central Government establish regional benches of the National Commission?",
+      "How can regional benches be established?",
+      "What is the purpose of regional benches?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

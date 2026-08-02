@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.district_commission_that_district",
+  "concept_type": "example",
+  "title": "Jurisdiction of District Commission in Case of Vacancy",
+  "description": "Illustrative example for: jurisdiction.district_commission_that_district",
+  "content": {
+    "scenario": "The President of the District Commission in Mumbai resigns, and there is a vacancy. The State Government notifies that the District Commission in Pune will exercise jurisdiction in Mumbai until a new President is appointed. A consumer, Rohan, wants to file a complaint against a company in Mumbai.",
+    "outcome": "Rohan can file his complaint in the District Commission in Pune, as it has been notified to exercise jurisdiction in Mumbai due to the vacancy in the office of the President of the Mumbai District Commission."
+  },
+  "derived_from": [
+    "jurisdiction.district_commission_that_district"
+  ],
+  "related_concepts": [
+    "jurisdiction.district_commission_that_district"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "vacancy",
+      "jurisdiction",
+      "State Government",
+      "notification"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What happens when there is a vacancy in the District Commission?",
+      "Can a District Commission exercise jurisdiction in another district?",
+      "How is jurisdiction determined in case of a vacancy?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

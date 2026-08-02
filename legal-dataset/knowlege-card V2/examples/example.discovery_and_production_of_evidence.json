@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.discovery_and_production_of_evidence",
+  "concept_type": "example",
+  "title": "Discovery and Production of Evidence",
+  "description": "Illustrative example for: procedure.discovery_and_production_of_evidence",
+  "content": {
+    "scenario": "The District Commission requires evidence in a consumer dispute case, and the respondent is not willing to produce the documents.",
+    "outcome": "The District Commission can require the discovery and production of any document or other material object as evidence, using its powers under the Code of Civil Procedure, 1908."
+  },
+  "derived_from": [
+    "procedure.discovery_and_production_of_evidence"
+  ],
+  "related_concepts": [
+    "procedure.discovery_and_production_of_evidence"
+  ],
+  "search": {
+    "keywords": [
+      "discovery",
+      "production",
+      "evidence",
+      "District Commission",
+      "Code of Civil Procedure"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What powers does the District Commission have to require evidence?",
+      "How can the District Commission obtain evidence in a consumer dispute case?",
+      "What is the procedure for producing evidence before the District Commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.no_adjournment_shall_ordinarily_be_granted",
+  "concept_type": "example",
+  "title": "No adjournment shall ordinarily be granted",
+  "description": "Illustrative example for: exception.no_adjournment_shall_ordinarily_be_granted",
+  "content": {
+    "scenario": "A consumer files an appeal with the State Commission or the National Commission, and the State Commission or the National Commission, as the case may be, is considering whether to grant an adjournment.",
+    "outcome": "The State Commission or the National Commission, as the case may be, shall not grant an adjournment unless sufficient cause is shown and the reasons for grant of adjournment have been recorded in writing."
+  },
+  "derived_from": [
+    "exception.no_adjournment_shall_ordinarily_be_granted"
+  ],
+  "related_concepts": [
+    "exception.no_adjournment_shall_ordinarily_be_granted"
+  ],
+  "search": {
+    "keywords": [
+      "adjournment",
+      "State Commission",
+      "National Commission",
+      "sufficient cause",
+      "recorded in writing"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What happens if an appeal is filed with the State Commission or the National Commission?",
+      "Can an adjournment be granted if there is sufficient cause?",
+      "How does the State Commission or the National Commission decide whether to grant an adjournment?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

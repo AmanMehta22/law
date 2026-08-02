@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.publisher_must_discontinue_or_modify_advertisement_as_direct",
+  "concept_type": "example",
+  "title": "Publisher's Obligation to Discontinue or Modify Advertisement",
+  "description": "Illustrative example for: obligation.publisher_must_discontinue_or_modify_advertisement_as_direct",
+  "content": {
+    "scenario": "A consumer complaint is filed against a popular food brand for running a misleading advertisement on social media. The Central Authority investigates and finds the advertisement to be false and prejudicial to consumer interests. The Central Authority issues an order directing the publisher to discontinue the advertisement within 7 days.",
+    "outcome": "The publisher must discontinue the advertisement as directed by the Central Authority within the specified time frame of 7 days, as per the order issued under Section 21(1) of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.publisher_must_discontinue_or_modify_advertisement_as_direct"
+  ],
+  "related_concepts": [
+    "obligation.publisher_must_discontinue_or_modify_advertisement_as_direct"
+  ],
+  "search": {
+    "keywords": [
+      "consumer protection",
+      "misleading advertisement",
+      "Central Authority",
+      "publisher obligation",
+      "discontinue advertisement"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What happens if a publisher runs a misleading advertisement?",
+      "Can the Central Authority direct a publisher to discontinue an advertisement?",
+      "What is the time frame for a publisher to discontinue an advertisement as per the Central Authority's order?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

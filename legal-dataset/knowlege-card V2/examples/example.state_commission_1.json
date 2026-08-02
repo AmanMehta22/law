@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.state_commission_1",
+  "concept_type": "example",
+  "title": "State Commission",
+  "description": "Illustrative example for: authority.state_commission",
+  "content": {
+    "scenario": "A consumer in Maharashtra purchases a defective refrigerator from a local dealer. The consumer files a complaint before the State Commission, seeking compensation for the harm caused. The State Commission, after hearing the complaint, declares the terms of the contract null and void and orders the dealer to pay compensation to the consumer.",
+    "outcome": "The State Commission has the power to declare the terms of the contract null and void and order the dealer to pay compensation to the consumer, as per its powers conferred by the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "authority.state_commission"
+  ],
+  "related_concepts": [
+    "authority.state_commission"
+  ],
+  "search": {
+    "keywords": [
+      "State Commission",
+      "consumer complaint",
+      "defective product",
+      "compensation",
+      "null and void",
+      "contract terms"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the powers of the State Commission?",
+      "How can I file a complaint before the State Commission?",
+      "What relief can I expect from the State Commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

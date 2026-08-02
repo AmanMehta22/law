@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.state_governments_must_conform_to_model_rules",
+  "concept_type": "example",
+  "title": "State Governments and Model Rules",
+  "description": "Illustrative example for: obligation.state_governments_must_conform_to_model_rules",
+  "content": {
+    "scenario": "The State Government of Gujarat is drafting rules for implementing the Consumer Protection Act, 2019, but is unsure whether to follow the model rules framed by the Central Government.",
+    "outcome": "The State Government of Gujarat must conform to the model rules framed by the Central Government, so far as is practicable, while making rules for carrying out the provisions of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.state_governments_must_conform_to_model_rules"
+  ],
+  "related_concepts": [
+    "obligation.state_governments_must_conform_to_model_rules"
+  ],
+  "search": {
+    "keywords": [
+      "State Government",
+      "model rules",
+      "Gujarat",
+      "Consumer Protection Act",
+      "Central Government"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Must the State Government follow the model rules?",
+      "What is the role of the Central Government in framing model rules?",
+      "Can the State Government make its own rules without following the model rules?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.government_must_make_rules",
+  "concept_type": "example",
+  "title": "Government's Obligation to Make Rules",
+  "description": "Illustrative example for: obligation.government_must_make_rules",
+  "content": {
+    "scenario": "The Government of India wants to specify the qualifications for appointment of the Chief Commissioner and other Commissioners of the Central Authority. The Government must now decide how to proceed.",
+    "outcome": "The Government must make rules to provide for the qualifications for appointment, method of recruitment, procedure of appointment, term of office, salaries and allowances, resignation, removal, and other terms and conditions of service of the Chief Commissioner and other Commissioners of the Central Authority."
+  },
+  "derived_from": [
+    "obligation.government_must_make_rules"
+  ],
+  "related_concepts": [
+    "obligation.government_must_make_rules"
+  ],
+  "search": {
+    "keywords": [
+      "Consumer Protection Act",
+      "Government",
+      "rules",
+      "Central Authority",
+      "Chief Commissioner",
+      "Commissioners"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the Government's obligation regarding the appointment of the Chief Commissioner and Commissioners?",
+      "Can the Government make rules for the Central Authority?",
+      "What are the specifics that the Government must provide for in the rules?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.state_council",
+  "concept_type": "example",
+  "title": "State Council",
+  "description": "Illustrative example for: authority.state_council",
+  "content": {
+    "scenario": "The State Government of Karnataka establishes a State Consumer Protection Council, which advises the State Government on the promotion and protection of consumer rights. The Council meets quarterly to discuss consumer-related issues and makes recommendations to the State Government.",
+    "outcome": "The State Council has the authority to advise the State Government on consumer-related issues and make recommendations, as per the provisions of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "authority.state_council"
+  ],
+  "related_concepts": [
+    "authority.state_council"
+  ],
+  "search": {
+    "keywords": [
+      "State Council",
+      "consumer protection",
+      "advisory role",
+      "State Government",
+      "recommendations"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the role of the State Council?",
+      "How does the State Council advise the State Government?",
+      "What are the functions of the State Council?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

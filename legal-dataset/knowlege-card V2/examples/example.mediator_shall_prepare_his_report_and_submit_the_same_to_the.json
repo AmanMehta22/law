@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.mediator_shall_prepare_his_report_and_submit_the_same_to_the",
+  "concept_type": "example",
+  "title": "Mediator's Duty to Prepare Report when No Agreement is Reached",
+  "description": "Illustrative example for: obligation.mediator_shall_prepare_his_report_and_submit_the_same_to_the",
+  "content": {
+    "scenario": "After mediation, a consumer, Rohan, and a company fail to reach a settlement within the specified time. The mediator, Ms. Singh, must prepare a report and submit it to the concerned Commission.",
+    "outcome": "The mediator, Ms. Singh, is required to prepare a report and submit it to the concerned Commission, as no agreement was reached between the parties within the specified time, as per Section 80(3) of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.mediator_shall_prepare_his_report_and_submit_the_same_to_the"
+  ],
+  "related_concepts": [
+    "obligation.mediator_shall_prepare_his_report_and_submit_the_same_to_the"
+  ],
+  "search": {
+    "keywords": [
+      "mediator",
+      "report",
+      "no agreement",
+      "consumer dispute",
+      "Commission"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What happens when no settlement is reached in mediation?",
+      "What is the mediator's role when no agreement is reached?",
+      "How is a report prepared and submitted when no settlement is reached?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

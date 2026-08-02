@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.national_commission_shall_oversee_the_functioning_of_the_sta",
+  "concept_type": "example",
+  "title": "National Commission's Oversight of State and District Commissions",
+  "description": "Illustrative example for: obligation.national_commission_shall_oversee_the_functioning_of_the_sta",
+  "content": {
+    "scenario": "The National Commission receives a complaint about the slow disposal of cases in a particular State Commission. The National Commission decides to inspect the State Commission to ensure that the objects and purposes of the Act are being served.",
+    "outcome": "The National Commission has the authority to oversee the functioning of the State Commission or the District Commission by way of inspection or any other means to ensure that the standards set by the National Commission are implemented, without interfering with their quasi-judicial freedom."
+  },
+  "derived_from": [
+    "obligation.national_commission_shall_oversee_the_functioning_of_the_sta"
+  ],
+  "related_concepts": [
+    "obligation.national_commission_shall_oversee_the_functioning_of_the_sta"
+  ],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "State Commission",
+      "District Commission",
+      "oversight",
+      "inspection",
+      "consumer protection"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the role of the National Commission in overseeing State Commissions?",
+      "Can the National Commission inspect a State Commission?",
+      "How does the National Commission ensure that State Commissions are serving the objects and purposes of the Act?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

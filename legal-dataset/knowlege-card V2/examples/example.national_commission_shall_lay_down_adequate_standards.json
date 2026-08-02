@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.national_commission_shall_lay_down_adequate_standards",
+  "concept_type": "example",
+  "title": "National Commission's Laying Down of Adequate Standards",
+  "description": "Illustrative example for: obligation.national_commission_shall_lay_down_adequate_standards",
+  "content": {
+    "scenario": "A consumer in India files a complaint against a business, alleging that they have engaged in unfair practices. The National Commission receives this complaint and decides to lay down adequate standards in consultation with the Central Government from time to time.",
+    "outcome": "The National Commission lays down adequate standards in consultation with the Central Government from time to time, for better protection of the interests of consumers and for that purpose, shall have administrative control over all the State Commissions in the following matters."
+  },
+  "derived_from": [
+    "obligation.national_commission_shall_lay_down_adequate_standards"
+  ],
+  "related_concepts": [
+    "obligation.national_commission_shall_lay_down_adequate_standards"
+  ],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "adequate standards",
+      "consultation",
+      "Central Government",
+      "quasi-judicial freedom"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the National Commission's role in laying down adequate standards?",
+      "How does the National Commission lay down adequate standards?",
+      "What is the outcome of the National Commission's laying down of adequate standards?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

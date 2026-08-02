@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.national_commission_must_function_at_specified_locations",
+  "concept_type": "example",
+  "title": "National Commission's Obligation to Function at Specified Locations",
+  "description": "Illustrative example for: obligation.national_commission_must_function_at_specified_locations",
+  "content": {
+    "scenario": "The National Commission is required to function at the National Capital Region and perform its functions at other places notified by the Central Government in consultation with the National Commission.",
+    "outcome": "The National Commission functions at the National Capital Region and performs its functions at other specified locations, including regional Benches established by the Central Government."
+  },
+  "derived_from": [
+    "obligation.national_commission_must_function_at_specified_locations"
+  ],
+  "related_concepts": [
+    "obligation.national_commission_must_function_at_specified_locations"
+  ],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "specified locations",
+      "National Capital Region",
+      "regional Benches",
+      "Central Government notification"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Where is the National Commission required to function?",
+      "Can the National Commission function at locations other than the National Capital Region?",
+      "What is the process for establishing regional Benches of the National Commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

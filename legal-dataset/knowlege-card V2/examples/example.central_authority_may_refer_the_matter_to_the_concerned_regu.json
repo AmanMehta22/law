@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.central_authority_may_refer_the_matter_to_the_concerned_regu",
+  "concept_type": "example",
+  "title": "Referral to Concerned Regulator",
+  "description": "Illustrative example for: obligation.central_authority_may_refer_the_matter_to_the_concerned_regu",
+  "content": {
+    "scenario": "A consumer complaint is filed with the Central Authority regarding a faulty mobile phone. After a preliminary inquiry, the Central Authority finds that the matter falls under the jurisdiction of the Telecom Regulatory Authority of India (TRAI).",
+    "outcome": "The Central Authority may refer the matter to TRAI along with its report, as the matter is to be dealt with by a Regulator established under any other law for the time being in force."
+  },
+  "derived_from": [
+    "obligation.central_authority_may_refer_the_matter_to_the_concerned_regu"
+  ],
+  "related_concepts": [
+    "obligation.central_authority_may_refer_the_matter_to_the_concerned_regu"
+  ],
+  "search": {
+    "keywords": [
+      "Central Authority",
+      "Regulator",
+      "preliminary inquiry",
+      "consumer complaint",
+      "TRAI",
+      "referral"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What happens when the Central Authority receives a complaint?",
+      "Can the Central Authority refer a matter to another regulator?",
+      "How does the Central Authority handle complaints that fall under other laws?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

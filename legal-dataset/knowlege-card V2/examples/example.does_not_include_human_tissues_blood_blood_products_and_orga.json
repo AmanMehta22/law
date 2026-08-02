@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.does_not_include_human_tissues_blood_blood_products_and_orga",
+  "concept_type": "example",
+  "title": "Exception to Product Definition",
+  "description": "Illustrative example for: exception.does_not_include_human_tissues_blood_blood_products_and_orga",
+  "content": {
+    "scenario": "A hospital purchases human blood from a blood bank for use in surgical procedures. The blood is stored and handled according to standard medical protocols. However, the hospital later discovers that the blood is contaminated with a infectious agent.",
+    "outcome": "The human blood does not qualify as a product under the Consumer Protection Act, 2019, because it is specifically excluded from the definition of a product. Therefore, the hospital's claim for compensation or damages would not be governed by the product liability provisions of the Act."
+  },
+  "derived_from": [
+    "exception.does_not_include_human_tissues_blood_blood_products_and_orga"
+  ],
+  "related_concepts": [
+    "exception.does_not_include_human_tissues_blood_blood_products_and_orga"
+  ],
+  "search": {
+    "keywords": [
+      "product definition",
+      "human blood",
+      "blood bank",
+      "medical procedures",
+      "contaminated blood"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the definition of a product under the Consumer Protection Act?",
+      "Are human tissues and blood products considered products under the Act?",
+      "What are the exceptions to the definition of a product?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

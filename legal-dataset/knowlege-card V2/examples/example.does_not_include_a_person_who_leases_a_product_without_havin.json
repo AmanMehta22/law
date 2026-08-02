@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.does_not_include_a_person_who_leases_a_product_without_havin",
+  "concept_type": "example",
+  "title": "Exception to Product Seller",
+  "description": "Illustrative example for: exception.does_not_include_a_person_who_leases_a_product_without_havin",
+  "content": {
+    "scenario": "A person leases a product to a consumer without having a reasonable opportunity to inspect and discover defects in the product. The selection, possession, maintenance, and operation of the product are controlled by a person other than the lessor.",
+    "outcome": "The person is not considered a 'product seller' as per the Consumer Protection Act, 2019, since they lease a product without having a reasonable opportunity to inspect and discover defects, and the control of the product is with another person."
+  },
+  "derived_from": [
+    "exception.does_not_include_a_person_who_leases_a_product_without_havin"
+  ],
+  "related_concepts": [
+    "exception.does_not_include_a_person_who_leases_a_product_without_havin"
+  ],
+  "search": {
+    "keywords": [
+      "product seller",
+      "lease",
+      "defects",
+      "consumer protection",
+      "exception"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Who is a product seller?",
+      "Can a lessor be considered a product seller?",
+      "What are the exceptions to being a product seller?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

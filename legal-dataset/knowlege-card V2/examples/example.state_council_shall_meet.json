@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.state_council_shall_meet",
+  "concept_type": "example",
+  "title": "State Council Meetings",
+  "description": "Illustrative example for: obligation.state_council_shall_meet",
+  "content": {
+    "scenario": "The State Council of Karnataka has not met for the past 12 months, despite having several pending consumer complaints to address.",
+    "outcome": "The State Council of Karnataka is obligated to meet at least twice a year, and as and when necessary, to discuss and address consumer complaints and other relevant matters."
+  },
+  "derived_from": [
+    "obligation.state_council_shall_meet"
+  ],
+  "related_concepts": [
+    "obligation.state_council_shall_meet"
+  ],
+  "search": {
+    "keywords": [
+      "State Council",
+      "meetings",
+      "Karnataka",
+      "consumer complaints",
+      "frequency of meetings"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How often must the State Council meet?",
+      "What is the minimum number of meetings required for the State Council per year?",
+      "Can the State Council meet only once a year?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

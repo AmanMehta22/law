@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.district_commission_must_direct_the_opposite_party_to_give_t",
+  "concept_type": "example",
+  "title": "District Commission's Obligation to Direct Opposite Party",
+  "description": "Illustrative example for: obligation.district_commission_must_direct_the_opposite_party_to_give_t",
+  "content": {
+    "scenario": "Rahul, a consumer, files a complaint with the District Commission against a local electronics store for selling him a defective smartphone. The Commission admits the complaint and directs the store to respond within 30 days.",
+    "outcome": "The District Commission must direct the opposite party (the electronics store) to give their version of the case within a period of 30 days or an extended period not exceeding 15 days, as per section 38(3) of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.district_commission_must_direct_the_opposite_party_to_give_t"
+  ],
+  "related_concepts": [
+    "obligation.district_commission_must_direct_the_opposite_party_to_give_t"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "complaint",
+      "opposite party",
+      "response",
+      "time limit",
+      "Consumer Protection Act"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the time limit for the opposite party to respond to a complaint?",
+      "Can the District Commission extend the time limit for response?",
+      "What happens if the opposite party fails to respond within the given time limit?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

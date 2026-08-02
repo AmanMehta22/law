@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.the_central_authority_may_prohibit_such_endorser_from_making",
+  "concept_type": "example",
+  "title": "Prohibition of Endorsement by Central Authority",
+  "description": "Illustrative example for: exception.the_central_authority_may_prohibit_such_endorser_from_making",
+  "content": {
+    "scenario": "A famous Indian cricketer endorses a health supplement that is later found to be misleading. The Central Authority investigates and finds that this is the cricketer's second offense within a year.",
+    "outcome": "The Central Authority may prohibit the cricketer from making any endorsement of any product or service for a period of up to three years due to subsequent contravention."
+  },
+  "derived_from": [
+    "exception.the_central_authority_may_prohibit_such_endorser_from_making"
+  ],
+  "related_concepts": [
+    "exception.the_central_authority_may_prohibit_such_endorser_from_making"
+  ],
+  "search": {
+    "keywords": [
+      "endorsement",
+      "misleading advertisement",
+      "Central Authority",
+      "prohibition",
+      "consumer protection",
+      "false advertising"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What happens if a celebrity endorses a false product?",
+      "Can the Central Authority ban endorsements?",
+      "How long can an endorser be prohibited from making endorsements?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

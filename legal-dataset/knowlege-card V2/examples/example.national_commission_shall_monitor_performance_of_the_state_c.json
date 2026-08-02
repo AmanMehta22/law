@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.national_commission_shall_monitor_performance_of_the_state_c",
+  "concept_type": "example",
+  "title": "National Commission's Monitoring of Performance of the State Commissions",
+  "description": "Illustrative example for: obligation.national_commission_shall_monitor_performance_of_the_state_c",
+  "content": {
+    "scenario": "A consumer in India files a complaint against a business, alleging that they have engaged in unfair practices. The National Commission receives this complaint and decides to monitor the performance of the State Commissions in terms of their disposal by calling for periodical returns regarding the institution, disposal and pendency of cases.",
+    "outcome": "The National Commission monitors the performance of the State Commissions in terms of their disposal by calling for periodical returns regarding the institution, disposal and pendency of cases, for better protection of the interests of consumers and for that purpose, shall have administrative control over all the State Commissions in the following matters."
+  },
+  "derived_from": [
+    "obligation.national_commission_shall_monitor_performance_of_the_state_c"
+  ],
+  "related_concepts": [
+    "obligation.national_commission_shall_monitor_performance_of_the_state_c"
+  ],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "State Commissions",
+      "monitoring",
+      "performance",
+      "quasi-judicial freedom"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the National Commission's role in monitoring the performance of the State Commissions?",
+      "How does the National Commission monitor the performance of the State Commissions?",
+      "What is the outcome of the National Commission's monitoring of the performance of the State Commissions?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

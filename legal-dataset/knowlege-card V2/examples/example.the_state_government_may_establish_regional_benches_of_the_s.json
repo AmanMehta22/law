@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.the_state_government_may_establish_regional_benches_of_the_s",
+  "concept_type": "example",
+  "title": "Establishment of Regional Benches of State Commission",
+  "description": "Illustrative example for: exception.the_state_government_may_establish_regional_benches_of_the_s",
+  "content": {
+    "scenario": "The State Government of Tamil Nadu wants to establish regional benches of the State Commission at places other than the State capital.",
+    "outcome": "The State Government of Tamil Nadu may establish regional benches of the State Commission at such places as it deems fit, by notification, in consultation with the State Commission."
+  },
+  "derived_from": [
+    "exception.the_state_government_may_establish_regional_benches_of_the_s"
+  ],
+  "related_concepts": [
+    "exception.the_state_government_may_establish_regional_benches_of_the_s"
+  ],
+  "search": {
+    "keywords": [
+      "State Commission",
+      "regional benches",
+      "State Government",
+      "notification",
+      "consultation"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can a State Government establish regional benches of the State Commission?",
+      "What is the process for establishing regional benches?",
+      "Is consultation with the State Commission required?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

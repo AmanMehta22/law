@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.product_manufacturer_shall_be_liable_in_a_product_liability_",
+  "concept_type": "example",
+  "title": "Product Manufacturer's Liability",
+  "description": "Illustrative example for: obligation.product_manufacturer_shall_be_liable_in_a_product_liability_",
+  "content": {
+    "scenario": "A consumer, Priya, purchased a product with an express warranty from a manufacturer, but the product caused her harm due to a defect. The manufacturer claims they were not negligent in making the express warranty.",
+    "outcome": "The product manufacturer shall be liable in a product liability action, even if they prove that they were not negligent or fraudulent in making the express warranty of the product, as per the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.product_manufacturer_shall_be_liable_in_a_product_liability_"
+  ],
+  "related_concepts": [
+    "obligation.product_manufacturer_shall_be_liable_in_a_product_liability_"
+  ],
+  "search": {
+    "keywords": [
+      "product manufacturer",
+      "product liability",
+      "express warranty",
+      "negligence",
+      "fraud",
+      "consumer protection"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can a product manufacturer be liable for a defective product even if they were not negligent?",
+      "What is the role of express warranty in product liability?",
+      "How does the Consumer Protection Act, 2019, address product manufacturer liability?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

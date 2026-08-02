@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.district_commissions",
+  "concept_type": "example",
+  "title": "District Commissions and Consumer Mediation Cells",
+  "description": "Illustrative example for: authority.district_commissions",
+  "content": {
+    "scenario": "A consumer in Delhi has a dispute with a local service provider and seeks to resolve the issue through mediation. The consumer approaches the District Commission in Delhi, which has a consumer mediation cell attached to it.",
+    "outcome": "The consumer mediation cell attached to the District Commission in Delhi can facilitate mediation between the consumer and the service provider. The District Commission can provide support and guidance to the mediation cell to help resolve the consumer dispute."
+  },
+  "derived_from": [
+    "authority.district_commissions"
+  ],
+  "related_concepts": [
+    "authority.district_commissions"
+  ],
+  "search": {
+    "keywords": [
+      "District Commissions",
+      "consumer mediation cell",
+      "mediation",
+      "dispute resolution",
+      "Delhi"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the role of the consumer mediation cell in District Commissions?",
+      "How can consumers access mediation services through District Commissions?",
+      "What support does the District Commission provide to the mediation cell?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

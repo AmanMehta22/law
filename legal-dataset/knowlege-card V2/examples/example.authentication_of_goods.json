@@ -1,0 +1,43 @@
+{
+  "concept_id": "example.authentication_of_goods",
+  "concept_type": "example",
+  "title": "Authentication of Goods",
+  "description": "Illustrative example for: procedure.authentication_of_goods",
+  "content": {
+    "scenario": "A consumer purchases a product from a retailer and receives a bill, cash memo, and receipt. The consumer wants to verify the authenticity of the product.",
+    "outcome": "The National Commission may provide rules for the authentication of goods, including the manner of issuing bills or cash memos or receipts for goods sold or services rendered, as per the provisions of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "procedure.authentication_of_goods"
+  ],
+  "related_concepts": [
+    "procedure.authentication_of_goods"
+  ],
+  "search": {
+    "keywords": [
+      "authentication",
+      "goods",
+      "National Commission",
+      "bill",
+      "cash memo",
+      "receipt",
+      "consumer protection"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How can I verify the authenticity of a product?",
+      "What rules are provided for the authentication of goods?",
+      "What documents are required for the authentication of goods?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

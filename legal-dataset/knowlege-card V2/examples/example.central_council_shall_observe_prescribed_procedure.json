@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.central_council_shall_observe_prescribed_procedure",
+  "concept_type": "example",
+  "title": "Central Council Procedure",
+  "description": "Illustrative example for: obligation.central_council_shall_observe_prescribed_procedure",
+  "content": {
+    "scenario": "The Central Council is scheduled to meet to discuss a critical consumer issue, but there is confusion among the members regarding the procedure to be followed.",
+    "outcome": "The Central Council shall observe the prescribed procedure in regard to the transaction of its business, as may be prescribed, to ensure that the meeting is conducted in a fair and orderly manner."
+  },
+  "derived_from": [
+    "obligation.central_council_shall_observe_prescribed_procedure"
+  ],
+  "related_concepts": [
+    "obligation.central_council_shall_observe_prescribed_procedure"
+  ],
+  "search": {
+    "keywords": [
+      "Central Council",
+      "procedure",
+      "prescribed procedure",
+      "consumer protection",
+      "CPA 2019",
+      "meeting protocol"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What procedure must the Central Council follow?",
+      "How are the meetings of the Central Council conducted?",
+      "What are the rules governing the Central Council's business transactions?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

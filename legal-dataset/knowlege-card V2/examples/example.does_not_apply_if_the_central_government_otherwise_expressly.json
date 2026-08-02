@@ -1,0 +1,40 @@
+{
+  "concept_id": "example.does_not_apply_if_the_central_government_otherwise_expressly",
+  "concept_type": "example",
+  "title": "Central Government Notification Exception",
+  "description": "Illustrative example for: exception.does_not_apply_if_the_central_government_otherwise_expressly",
+  "content": {
+    "scenario": "A consumer buys a product that is not covered by the Central Government's notification. The consumer wants to know if the Act applies to this product.",
+    "outcome": "The Act does not apply to this product because the Central Government has otherwise expressly provided by notification."
+  },
+  "derived_from": [
+    "exception.does_not_apply_if_the_central_government_otherwise_expressly"
+  ],
+  "related_concepts": [
+    "exception.does_not_apply_if_the_central_government_otherwise_expressly"
+  ],
+  "search": {
+    "keywords": [
+      "Central Government",
+      "notification",
+      "goods and services",
+      "Act application"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Does the Act apply to all goods and services?",
+      "What is the exception for the Central Government's notification?",
+      "How does the Central Government's notification affect the Act's application?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

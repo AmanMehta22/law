@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.may_entertain_an_appeal_after_the_expiry_of_the_said_period_",
+  "concept_type": "example",
+  "title": "Exception to the Time Limit for Filing an Appeal",
+  "description": "Illustrative example for: exception.may_entertain_an_appeal_after_the_expiry_of_the_said_period_",
+  "content": {
+    "scenario": "A consumer files an appeal against a decision of a District Commission after 45 days from the date of the order. The consumer claims that there was a sufficient cause for the delay in filing the appeal.",
+    "outcome": "The State Commission or the National Commission may entertain the appeal after the expiry of the said period of 30 days if it is satisfied that the appellant had sufficient cause for not preferring the appeal within the said period."
+  },
+  "derived_from": [
+    "exception.may_entertain_an_appeal_after_the_expiry_of_the_said_period_"
+  ],
+  "related_concepts": [
+    "exception.may_entertain_an_appeal_after_the_expiry_of_the_said_period_"
+  ],
+  "search": {
+    "keywords": [
+      "appeal",
+      "time limit",
+      "sufficient cause",
+      "consumer protection",
+      "delay"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the time limit for filing an appeal under the Consumer Protection Act, 2019?",
+      "Can an appeal be filed after the expiry of the time limit?",
+      "What is the condition for entertaining an appeal after the expiry of the time limit?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

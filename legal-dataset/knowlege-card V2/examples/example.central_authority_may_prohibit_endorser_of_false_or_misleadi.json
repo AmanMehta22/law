@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.central_authority_may_prohibit_endorser_of_false_or_misleadi",
+  "concept_type": "example",
+  "title": "Central Authority's Power to Prohibit Endorsers of False or Misleading Advertisements",
+  "description": "Illustrative example for: obligation.central_authority_may_prohibit_endorser_of_false_or_misleadi",
+  "content": {
+    "scenario": "A popular Indian actor endorses a new fitness program, claiming that it can help users get six-pack abs in just one month. The Central Authority investigates and finds that the claim is false and misleading.",
+    "outcome": "The Central Authority may prohibit the actor from making endorsements for any product or service for a period of up to one year, and up to three years for subsequent contraventions, as per the provisions of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.central_authority_may_prohibit_endorser_of_false_or_misleadi"
+  ],
+  "related_concepts": [
+    "obligation.central_authority_may_prohibit_endorser_of_false_or_misleadi"
+  ],
+  "search": {
+    "keywords": [
+      "Central Authority",
+      "prohibition",
+      "endorser",
+      "false advertisement",
+      "misleading claim",
+      "consumer protection"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What can the Central Authority do to an endorser of a false advertisement?",
+      "Can the Central Authority prohibit an endorser from making future endorsements?",
+      "How does the Consumer Protection Act, 2019 regulate prohibitions on endorsers?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

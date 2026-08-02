@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.research_in_consumer_rights",
+  "concept_type": "example",
+  "title": "Research in Consumer Rights",
+  "description": "Illustrative example for: procedure.research_in_consumer_rights",
+  "content": {
+    "scenario": "A consumer rights organization in India wants to investigate a complaint about a company engaging in unfair trade practices. They approach the Central Authority to inquire into the matter and file a complaint before the National Commission.",
+    "outcome": "The Central Authority may inquire or cause an inquiry or investigation to be made into the violations of consumer rights or unfair trade practices, either suo motu or on a complaint received or on the directions from the Central Government, and file complaints before the National Commission under the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "procedure.research_in_consumer_rights"
+  ],
+  "related_concepts": [
+    "procedure.research_in_consumer_rights"
+  ],
+  "search": {
+    "keywords": [
+      "consumer rights",
+      "unfair trade practices",
+      "Central Authority",
+      "National Commission",
+      "inquiry",
+      "investigation"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How can I file a complaint about unfair trade practices?",
+      "What is the role of the Central Authority in consumer protection?",
+      "How can I report a violation of consumer rights?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

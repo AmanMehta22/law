@@ -1,0 +1,43 @@
+{
+  "concept_id": "example.central_government_make_rules_for_appointment_of_president_a",
+  "concept_type": "example",
+  "title": "Appointment of President and Members of State Commission",
+  "description": "Illustrative example for: obligation.central_government_make_rules_for_appointment_of_president_a",
+  "content": {
+    "scenario": "The Central Government needs to establish the rules for appointing the President and members of the State Commission, which is responsible for regulating consumer markets at the state level. The Central Government must make rules for their appointment, including qualification, recruitment, and term of office.",
+    "outcome": "The Central Government must make rules, by notification, to provide for the qualification, method of recruitment, procedure of appointment, term of office, resignation, and removal of the President and members of the State Commission. These rules will ensure a transparent and fair appointment process."
+  },
+  "derived_from": [
+    "obligation.central_government_make_rules_for_appointment_of_president_a"
+  ],
+  "related_concepts": [
+    "obligation.central_government_make_rules_for_appointment_of_president_a"
+  ],
+  "search": {
+    "keywords": [
+      "State Commission",
+      "appointment",
+      "President",
+      "members",
+      "Central Government",
+      "rules",
+      "notification"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the qualifications for appointment to the State Commission?",
+      "How are the President and members of the State Commission appointed?",
+      "What is the term of office for the President and members of the State Commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

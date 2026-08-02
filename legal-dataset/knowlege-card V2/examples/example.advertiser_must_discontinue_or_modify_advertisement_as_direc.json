@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.advertiser_must_discontinue_or_modify_advertisement_as_direc",
+  "concept_type": "example",
+  "title": "Advertiser's Obligation to Discontinue or Modify Advertisement",
+  "description": "Illustrative example for: obligation.advertiser_must_discontinue_or_modify_advertisement_as_direc",
+  "content": {
+    "scenario": "A company in Mumbai is found to be airing a misleading advertisement for its new energy drink. The Central Authority, after investigation, orders the company to discontinue the advertisement within 15 days.",
+    "outcome": "The company must discontinue the advertisement as directed by the Central Authority within the specified time frame of 15 days, as per the order, to avoid any further action."
+  },
+  "derived_from": [
+    "obligation.advertiser_must_discontinue_or_modify_advertisement_as_direc"
+  ],
+  "related_concepts": [
+    "obligation.advertiser_must_discontinue_or_modify_advertisement_as_direc"
+  ],
+  "search": {
+    "keywords": [
+      "advertisement",
+      "Central Authority",
+      "misleading",
+      "consumer rights",
+      "investigation",
+      "order"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What happens if an advertisement is found to be misleading?",
+      "Can the Central Authority order an advertiser to discontinue an advertisement?",
+      "What are the consequences of not complying with the Central Authority's order?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

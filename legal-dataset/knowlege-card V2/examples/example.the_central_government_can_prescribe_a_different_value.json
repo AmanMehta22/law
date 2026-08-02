@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.the_central_government_can_prescribe_a_different_value",
+  "concept_type": "example",
+  "title": "Central Government's Power to Prescribe Value",
+  "description": "Illustrative example for: exception.the_central_government_can_prescribe_a_different_value",
+  "content": {
+    "scenario": "The Central Government is reviewing the jurisdiction of the State Commission regarding complaints about goods and services. They are considering changing the value threshold for the State Commission's jurisdiction.",
+    "outcome": "The Central Government can prescribe a different value for the jurisdiction of the State Commission if it deems it necessary, potentially altering the threshold from the current one crore to ten crore rupees."
+  },
+  "derived_from": [
+    "exception.the_central_government_can_prescribe_a_different_value"
+  ],
+  "related_concepts": [
+    "exception.the_central_government_can_prescribe_a_different_value"
+  ],
+  "search": {
+    "keywords": [
+      "Central Government",
+      "State Commission",
+      "jurisdiction",
+      "value threshold",
+      "consumer complaints"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the current jurisdiction threshold for the State Commission?",
+      "Can the Central Government change the jurisdiction threshold?",
+      "How does the Central Government determine the jurisdiction value?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

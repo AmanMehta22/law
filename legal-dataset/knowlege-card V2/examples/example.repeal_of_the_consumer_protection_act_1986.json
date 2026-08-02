@@ -1,0 +1,39 @@
+{
+  "concept_id": "example.repeal_of_the_consumer_protection_act_1986",
+  "concept_type": "example",
+  "title": "The Consumer Protection Act, 1986 is hereby repealed",
+  "description": "Illustrative example for: exception.repeal_of_the_consumer_protection_act_1986",
+  "content": {
+    "scenario": "A consumer wants to know if the Consumer Protection Act, 1986 is still in force.",
+    "outcome": "The Consumer Protection Act, 1986 is repealed."
+  },
+  "derived_from": [
+    "exception.repeal_of_the_consumer_protection_act_1986"
+  ],
+  "related_concepts": [
+    "exception.repeal_of_the_consumer_protection_act_1986"
+  ],
+  "search": {
+    "keywords": [
+      "consumer protection",
+      "repeal",
+      "1986"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the current status of the Consumer Protection Act, 1986?",
+      "Is the Consumer Protection Act, 1986 still in force?",
+      "What are the implications of the repeal of the Consumer Protection Act, 1986?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

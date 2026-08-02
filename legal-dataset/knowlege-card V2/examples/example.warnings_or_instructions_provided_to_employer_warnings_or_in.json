@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.warnings_or_instructions_provided_to_employer_warnings_or_in",
+  "concept_type": "example",
+  "title": "Product Liability - Failure to Provide Adequate Warnings or Instructions",
+  "description": "Illustrative example for: evidence.warnings_or_instructions_provided_to_employer_warnings_or_in",
+  "content": {
+    "scenario": "A manufacturer, ABC Ltd., produces a chemical product that requires special handling and usage instructions. The manufacturer provides warnings and instructions to the employer who purchases the product for use in the workplace. However, the employer does not pass on the warnings and instructions to the employees, resulting in an accident.",
+    "outcome": "The manufacturer, ABC Ltd., is not liable for the accident, as it had provided adequate warnings and instructions to the employer. The employer's failure to pass on the warnings and instructions to the employees is the proximate cause of the accident."
+  },
+  "derived_from": [
+    "evidence.warnings_or_instructions_provided_to_employer_warnings_or_in"
+  ],
+  "related_concepts": [
+    "evidence.warnings_or_instructions_provided_to_employer_warnings_or_in"
+  ],
+  "search": {
+    "keywords": [
+      "product liability",
+      "warnings",
+      "instructions",
+      "employer",
+      "workplace",
+      "accident"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the manufacturer's obligations regarding warnings and instructions?",
+      "How can a manufacturer establish that it provided adequate warnings and instructions?",
+      "What is the effect of an employer's failure to pass on warnings and instructions to employees?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

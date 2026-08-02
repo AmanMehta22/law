@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.does_not_include_harm_caused_to_a_product_itself_or_any_dama",
+  "concept_type": "example",
+  "title": "Exception to Harm in Product Liability",
+  "description": "Illustrative example for: exception.does_not_include_harm_caused_to_a_product_itself_or_any_dama",
+  "content": {
+    "scenario": "Amit buys a smartphone that develops a manufacturing defect after a few months of use. The defect causes the phone's screen to crack, resulting in a loss of functionality. However, the defect does not cause any damage to Amit's person or property other than the phone itself.",
+    "outcome": "The harm caused to the smartphone itself is not included in the definition of harm under the product liability provisions of the Consumer Protection Act, 2019. Therefore, Amit's claim for compensation would not include the cost of repairing or replacing the phone, but may include other losses such as mental agony or emotional distress, if any."
+  },
+  "derived_from": [
+    "exception.does_not_include_harm_caused_to_a_product_itself_or_any_dama"
+  ],
+  "related_concepts": [
+    "exception.does_not_include_harm_caused_to_a_product_itself_or_any_dama"
+  ],
+  "search": {
+    "keywords": [
+      "product liability",
+      "harm",
+      "manufacturing defect",
+      "smartphone",
+      "damage to property"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the definition of harm in product liability under the Consumer Protection Act?",
+      "Can a consumer claim compensation for damage to a product itself?",
+      "What are the exceptions to the definition of harm in product liability?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

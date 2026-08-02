@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.assistance_direction",
+  "concept_type": "example",
+  "title": "Assistance Direction",
+  "description": "Illustrative example for: procedure.assistance_direction",
+  "content": {
+    "scenario": "The National Commission is hearing a case involving a large number of consumers who have been affected by a defective product. The Commission forms an opinion that it involves the larger interest of consumers and directs a consumer organization to assist the Commission in the case.",
+    "outcome": "The consumer organization will assist the National Commission in the case, providing expert opinion and evidence to help the Commission make a decision in the larger interest of consumers. The Commission may also direct the organization to assist in the implementation of its order."
+  },
+  "derived_from": [
+    "procedure.assistance_direction"
+  ],
+  "related_concepts": [
+    "procedure.assistance_direction"
+  ],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "assistance direction",
+      "consumer organization",
+      "larger interest of consumers",
+      "defective product"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is an assistance direction?",
+      "How does the National Commission provide assistance direction?",
+      "Can a consumer organization assist the National Commission in a case?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

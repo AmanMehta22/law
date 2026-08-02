@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.central_authority_must_engage_experts_and_professionals",
+  "concept_type": "example",
+  "title": "Engagement of Experts and Professionals",
+  "description": "Illustrative example for: obligation.central_authority_must_engage_experts_and_professionals",
+  "content": {
+    "scenario": "The Central Authority needs specialized expertise to investigate a complaint regarding a faulty medical device. It decides to engage experts in the field of medicine and product safety to assist in the investigation.",
+    "outcome": "The Central Authority may engage experts and professionals of integrity and ability, who have special knowledge and experience in the areas of consumer rights and welfare, to assist it in the discharge of its functions under the Act."
+  },
+  "derived_from": [
+    "obligation.central_authority_must_engage_experts_and_professionals"
+  ],
+  "related_concepts": [
+    "obligation.central_authority_must_engage_experts_and_professionals"
+  ],
+  "search": {
+    "keywords": [
+      "Central Authority",
+      "experts",
+      "professionals",
+      "specialized expertise",
+      "consumer rights",
+      "product safety"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can the Central Authority engage external experts to assist in investigations?",
+      "What kind of experts can the Central Authority engage?",
+      "How does the Central Authority ensure the integrity and ability of engaged experts?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

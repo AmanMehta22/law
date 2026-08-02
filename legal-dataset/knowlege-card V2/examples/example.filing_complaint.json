@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.filing_complaint",
+  "concept_type": "example",
+  "title": "Filing a Complaint",
+  "description": "Illustrative example for: procedure.filing_complaint",
+  "content": {
+    "scenario": "A consumer, Priya, purchases a product online, but the product is not delivered. She wants to file a complaint against the e-commerce company. She prepares the necessary documents, including the bill and receipt, and files a complaint electronically.",
+    "outcome": "The relevant authority may investigate the complaint and take necessary action against the e-commerce company, as per the provisions of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "procedure.filing_complaint"
+  ],
+  "related_concepts": [
+    "procedure.filing_complaint"
+  ],
+  "search": {
+    "keywords": [
+      "filing a complaint",
+      "consumer protection",
+      "e-commerce",
+      "electronic complaint",
+      "bill and receipt"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How to file a complaint against an e-commerce company?",
+      "What documents are required to file a complaint?",
+      "Can a complaint be filed electronically?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

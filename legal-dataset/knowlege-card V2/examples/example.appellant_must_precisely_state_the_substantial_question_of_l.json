@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.appellant_must_precisely_state_the_substantial_question_of_l",
+  "concept_type": "example",
+  "title": "Appellant's Obligation to Precisely State the Substantial Question of Law",
+  "description": "Illustrative example for: obligation.appellant_must_precisely_state_the_substantial_question_of_l",
+  "content": {
+    "scenario": "A company in Bangalore appeals an order of the State Commission to the National Commission, involving a question of law regarding the liability of a manufacturer.",
+    "outcome": "The company must precisely state the substantial question of law involved in the appeal, such as 'Whether the manufacturer can be held liable for a defect in the product?', in the memorandum of appeal."
+  },
+  "derived_from": [
+    "obligation.appellant_must_precisely_state_the_substantial_question_of_l"
+  ],
+  "related_concepts": [
+    "obligation.appellant_must_precisely_state_the_substantial_question_of_l"
+  ],
+  "search": {
+    "keywords": [
+      "appeal",
+      "National Commission",
+      "question of law",
+      "substantial question",
+      "memorandum of appeal"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the requirement for stating a question of law in an appeal?",
+      "How must the substantial question of law be stated in the appeal?",
+      "Can the appeal be entertained without precisely stating the question of law?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

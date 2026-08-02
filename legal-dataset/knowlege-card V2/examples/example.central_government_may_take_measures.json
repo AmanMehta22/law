@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.central_government_may_take_measures",
+  "concept_type": "example",
+  "title": "Central Government's Power to Prevent Unfair Trade Practices",
+  "description": "Illustrative example for: obligation.central_government_may_take_measures",
+  "content": {
+    "scenario": "The Central Government notices a rise in unfair trade practices in e-commerce and direct selling. It takes measures to prevent these practices and protect consumer interests, including prescribing guidelines for e-commerce platforms.",
+    "outcome": "The Central Government's measures to prevent unfair trade practices are valid as they are taken to protect consumer interests, and e-commerce platforms must comply with the prescribed guidelines."
+  },
+  "derived_from": [
+    "obligation.central_government_may_take_measures"
+  ],
+  "related_concepts": [
+    "obligation.central_government_may_take_measures"
+  ],
+  "search": {
+    "keywords": [
+      "Central Government",
+      "unfair trade practices",
+      "e-commerce",
+      "direct selling",
+      "consumer protection"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What can the Central Government do to prevent unfair trade practices?",
+      "How does the Central Government protect consumer interests?",
+      "What are the guidelines for e-commerce platforms?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

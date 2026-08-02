@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.party_to_the_contract_must_not_impose_unreasonable_charges_o",
+  "concept_type": "example",
+  "title": "Unreasonable Charges in Contracts",
+  "description": "Illustrative example for: obligation.party_to_the_contract_must_not_impose_unreasonable_charges_o",
+  "content": {
+    "scenario": "Rahul, a consumer, signs a contract with a mobile service provider that includes a clause imposing a penalty of ₹10,000 for any late payment, which is disproportionate to the loss occurred due to such breach. The contract also requires Rahul to pay an additional ₹5,000 as a security deposit, which seems excessive.",
+    "outcome": "The contract is considered unfair as it imposes unreasonable charges and conditions on Rahul, including a disproportionate penalty for late payment and an excessive security deposit, causing significant change in his rights as a consumer."
+  },
+  "derived_from": [
+    "obligation.party_to_the_contract_must_not_impose_unreasonable_charges_o"
+  ],
+  "related_concepts": [
+    "obligation.party_to_the_contract_must_not_impose_unreasonable_charges_o"
+  ],
+  "search": {
+    "keywords": [
+      "unfair contract",
+      "unreasonable charges",
+      "security deposits",
+      "consumer rights",
+      "contract terms",
+      "penalty clauses"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What constitutes an unfair contract?",
+      "Can a contract impose excessive security deposits?",
+      "What are the consequences of an unfair contract?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

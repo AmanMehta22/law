@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.resolving_difference_of_opinion",
+  "concept_type": "example",
+  "title": "Resolving Difference of Opinion",
+  "description": "Illustrative example for: procedure.resolving_difference_of_opinion",
+  "content": {
+    "scenario": "In a proceeding before the District Commission, the President and a member differ in opinion on a point. They need to resolve the difference of opinion and make a decision.",
+    "outcome": "The President and the member shall state the point or points on which they differ and refer the same to another member for hearing on such point or points, and the opinion of the majority shall be the order of the District Commission."
+  },
+  "derived_from": [
+    "procedure.resolving_difference_of_opinion"
+  ],
+  "related_concepts": [
+    "procedure.resolving_difference_of_opinion"
+  ],
+  "search": {
+    "keywords": [
+      "difference of opinion",
+      "District Commission",
+      "President",
+      "member",
+      "majority opinion"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How are differences of opinion resolved in the District Commission?",
+      "What is the role of the President in resolving differences of opinion?",
+      "How is a decision made when the President and a member differ in opinion?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

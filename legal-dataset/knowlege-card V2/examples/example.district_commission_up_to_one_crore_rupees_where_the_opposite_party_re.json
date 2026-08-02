@@ -1,0 +1,40 @@
+{
+  "concept_id": "example.district_commission_up_to_one_crore_rupees_where_the_opposite_party_re",
+  "concept_type": "example",
+  "title": "Jurisdiction of District Commission Based on Complaint Value",
+  "description": "Illustrative example for: jurisdiction.district_commission_up_to_one_crore_rupees_where_the_opposite_party_resides_or_c",
+  "content": {
+    "scenario": "A consumer, Priya, purchases a product worth Rs. 50 lakhs from a company. She wants to file a complaint against the company in the District Commission.",
+    "outcome": "The District Commission has jurisdiction to entertain Priya's complaint, as the value of the goods or services paid as consideration does not exceed one crore rupees."
+  },
+  "derived_from": [
+    "jurisdiction.district_commission_up_to_one_crore_rupees_where_the_opposite_party_resides_or_c"
+  ],
+  "related_concepts": [
+    "jurisdiction.district_commission_up_to_one_crore_rupees_where_the_opposite_party_resides_or_c"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "complaint value",
+      "jurisdiction",
+      "one crore rupees"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the jurisdiction of the District Commission based on complaint value?",
+      "Can I file a complaint in the District Commission for a product worth Rs. 50 lakhs?",
+      "What is the limit for filing a complaint in the District Commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

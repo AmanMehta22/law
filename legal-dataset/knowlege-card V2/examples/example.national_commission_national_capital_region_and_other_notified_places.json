@@ -1,0 +1,40 @@
+{
+  "concept_id": "example.national_commission_national_capital_region_and_other_notified_places",
+  "concept_type": "example",
+  "title": "National Commission's Territorial Jurisdiction",
+  "description": "Illustrative example for: jurisdiction.national_commission_national_capital_region_and_other_notified_places",
+  "content": {
+    "scenario": "The National Commission is required to function at the National Capital Region, but the Central Government notifies other places where the Commission can perform its functions.",
+    "outcome": "The National Commission shall ordinarily function at the National Capital Region and can perform its functions at other places notified by the Central Government in consultation with the National Commission, as per Section 53(2) of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "jurisdiction.national_commission_national_capital_region_and_other_notified_places"
+  ],
+  "related_concepts": [
+    "jurisdiction.national_commission_national_capital_region_and_other_notified_places"
+  ],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "territorial jurisdiction",
+      "National Capital Region",
+      "notified places"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Where does the National Commission function?",
+      "Can the National Commission function outside the National Capital Region?",
+      "What are the conditions for the National Commission to function at other places?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

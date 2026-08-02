@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.subject_to_the_modification_that_every_reference_therein_to_",
+  "concept_type": "example",
+  "title": "Application of Code of Civil Procedure to Consumer Complaints",
+  "description": "Illustrative example for: exception.subject_to_the_modification_that_every_reference_therein_to_",
+  "content": {
+    "scenario": "Rahul, a consumer, files a complaint before the District Commission against a company for defective goods. The company argues that the complaint is not maintainable as it does not disclose a cause of action. The District Commission applies the provisions of Order I Rule 8 of the First Schedule to the Code of Civil Procedure, 1908 to determine the maintainability of the complaint.",
+    "outcome": "The District Commission construes every reference to a suit or decree in Order I Rule 8 as a reference to a complaint or the order of the District Commission, and proceeds to hear the complaint. The company's argument is rejected, and the complaint is held maintainable."
+  },
+  "derived_from": [
+    "exception.subject_to_the_modification_that_every_reference_therein_to_"
+  ],
+  "related_concepts": [
+    "exception.subject_to_the_modification_that_every_reference_therein_to_"
+  ],
+  "search": {
+    "keywords": [
+      "consumer complaint",
+      "District Commission",
+      "Code of Civil Procedure",
+      "Order I Rule 8",
+      "maintainability",
+      "cause of action"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the provisions applicable to consumer complaints?",
+      "How does the District Commission determine the maintainability of a complaint?",
+      "What is the effect of applying the Code of Civil Procedure to consumer complaints?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

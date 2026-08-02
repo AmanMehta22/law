@@ -1,0 +1,43 @@
+{
+  "concept_id": "example.product_manufacturer_or_product_seller_must_compensate_for_h",
+  "concept_type": "example",
+  "title": "Product Liability for Defective Products",
+  "description": "Illustrative example for: obligation.product_manufacturer_or_product_seller_must_compensate_for_h",
+  "content": {
+    "scenario": "Rahul purchased a defective mobile phone from a retailer in Mumbai, which caused him physical harm due to an explosion. The product was manufactured by a company based in China.",
+    "outcome": "The product manufacturer or the product seller is liable to compensate Rahul for the harm caused by the defective product, as per the product liability provisions under the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.product_manufacturer_or_product_seller_must_compensate_for_h"
+  ],
+  "related_concepts": [
+    "obligation.product_manufacturer_or_product_seller_must_compensate_for_h"
+  ],
+  "search": {
+    "keywords": [
+      "product liability",
+      "defective product",
+      "consumer protection",
+      "compensation",
+      "harm",
+      "manufacturer",
+      "seller"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is product liability?",
+      "Who is liable for a defective product?",
+      "How can a consumer claim compensation for harm caused by a product?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

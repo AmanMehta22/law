@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.twenty_one_days",
+  "concept_type": "example",
+  "title": "Twenty-One Day Timeline for Admitting Complaints",
+  "description": "Illustrative example for: timeline.twenty_one_days",
+  "content": {
+    "scenario": "A consumer filed a complaint with the District Commission under the Consumer Protection Act, 2019. The consumer is now waiting to hear whether the complaint will be admitted or rejected.",
+    "outcome": "According to sub-section (2) of Section 36, the District Commission shall decide on the admissibility of the complaint within twenty-one days from the date on which the complaint was filed. If the complaint is admitted, the District Commission shall refer a copy of the complaint to the opposite party within twenty-one days from the date of admission."
+  },
+  "derived_from": [
+    "timeline.twenty_one_days"
+  ],
+  "related_concepts": [
+    "timeline.twenty_one_days"
+  ],
+  "search": {
+    "keywords": [
+      "Consumer Protection Act",
+      "twenty-one day timeline",
+      "admitting complaints",
+      "District Commission",
+      "complaint procedure"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the timeline for admitting complaints under the Consumer Protection Act?",
+      "Can the District Commission reject a complaint without giving the consumer an opportunity to be heard?",
+      "What happens after a complaint is admitted by the District Commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

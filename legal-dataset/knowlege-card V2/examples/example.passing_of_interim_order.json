@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.passing_of_interim_order",
+  "concept_type": "example",
+  "title": "Passing of Interim Order by District Commission",
+  "description": "Illustrative example for: procedure.passing_of_interim_order",
+  "content": {
+    "scenario": "A consumer, Mr. Kumar, files a complaint before the District Commission against a builder for not delivering possession of his flat on time. The District Commission, after hearing the parties, finds it necessary to pass an interim order to prevent the builder from selling the flat to someone else.",
+    "outcome": "The District Commission passes an interim order restraining the builder from selling the flat to anyone else until the final disposal of the complaint, as it appears necessary and just and proper in the facts and circumstances of the case."
+  },
+  "derived_from": [
+    "procedure.passing_of_interim_order"
+  ],
+  "related_concepts": [
+    "procedure.passing_of_interim_order"
+  ],
+  "search": {
+    "keywords": [
+      "interim order",
+      "District Commission",
+      "consumer protection",
+      "builder",
+      "flat possession"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is an interim order in consumer protection?",
+      "Can the District Commission pass an interim order?",
+      "How does the District Commission decide on an interim order?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

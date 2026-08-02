@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.state_commission_or_national_commission_must_hear_appeal_exp",
+  "concept_type": "example",
+  "title": "State Commission or National Commission Must Hear Appeal Expeditiously",
+  "description": "Illustrative example for: obligation.state_commission_or_national_commission_must_hear_appeal_exp",
+  "content": {
+    "scenario": "Rahul, a consumer, files an appeal before the State Commission against a district commission's order. The State Commission has been delaying the hearing for over 6 months. Rahul requests the Commission to expedite the hearing as per the law.",
+    "outcome": "The State Commission or National Commission must hear Rahul's appeal as expeditiously as possible and endeavour to dispose of it within 90 days from the date of its admission, as mandated by the Consumer Protection Act, 2019. If the Commission fails to do so, it must record in writing the reasons for the delay."
+  },
+  "derived_from": [
+    "obligation.state_commission_or_national_commission_must_hear_appeal_exp"
+  ],
+  "related_concepts": [
+    "obligation.state_commission_or_national_commission_must_hear_appeal_exp"
+  ],
+  "search": {
+    "keywords": [
+      "Consumer Protection Act",
+      "State Commission",
+      "National Commission",
+      "appeal",
+      "expeditious hearing",
+      "90-day limit"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the time limit for the State Commission to hear an appeal?",
+      "Can the State Commission delay hearing an appeal?",
+      "What happens if the State Commission fails to hear an appeal within 90 days?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

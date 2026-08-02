@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.consumer_mediation_cell_shall_submit_a_quarterly_report",
+  "concept_type": "example",
+  "title": "Consumer Mediation Cell Quarterly Report Submission",
+  "description": "Illustrative example for: obligation.consumer_mediation_cell_shall_submit_a_quarterly_report",
+  "content": {
+    "scenario": "A new consumer mediation cell is established in Delhi and is attached to the National Commission. The cell is unsure about the procedure for submitting its quarterly report.",
+    "outcome": "The consumer mediation cell shall submit a quarterly report to the National Commission in the manner specified by regulations, as per section 74(5) of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.consumer_mediation_cell_shall_submit_a_quarterly_report"
+  ],
+  "related_concepts": [
+    "obligation.consumer_mediation_cell_shall_submit_a_quarterly_report"
+  ],
+  "search": {
+    "keywords": [
+      "consumer mediation cell",
+      "quarterly report",
+      "National Commission",
+      "section 74",
+      "regulations"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How often must a consumer mediation cell submit a report?",
+      "What is the procedure for submitting a quarterly report by a consumer mediation cell?",
+      "Can a consumer mediation cell submit a quarterly report in any format?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

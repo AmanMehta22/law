@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.conduct_of_proceeding_before_district_commission",
+  "concept_type": "example",
+  "title": "Conduct of Proceeding before District Commission",
+  "description": "Illustrative example for: procedure.conduct_of_proceeding_before_district_commission",
+  "content": {
+    "scenario": "A consumer, Priya, files a complaint against a company, ABC Ltd., for unfair trade practices. The District Commission, consisting of the President and two members, conducts the proceeding. One of the members is unable to continue, and the President and the other member continue the proceeding from the stage at which it was last heard.",
+    "outcome": "The proceeding is conducted by the President and at least one member of the District Commission, sitting together. The President and the other member continue the proceeding from the stage at which it was last heard, ensuring that the complaint is disposed of in a fair and efficient manner."
+  },
+  "derived_from": [
+    "procedure.conduct_of_proceeding_before_district_commission"
+  ],
+  "related_concepts": [
+    "procedure.conduct_of_proceeding_before_district_commission"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "proceeding",
+      "President",
+      "member",
+      "consumer complaint",
+      "unfair trade practices"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How is a proceeding conducted before the District Commission?",
+      "What happens if a member of the District Commission is unable to continue a proceeding?",
+      "What is the role of the President in a proceeding before the District Commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

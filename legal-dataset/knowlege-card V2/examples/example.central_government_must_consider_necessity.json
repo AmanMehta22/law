@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.central_government_must_consider_necessity",
+  "concept_type": "example",
+  "title": "Consideration of Necessity for Designation of Authority",
+  "description": "Illustrative example for: obligation.central_government_must_consider_necessity",
+  "content": {
+    "scenario": "The Central Government is considering designating a statutory authority to exercise the powers and perform the functions of the Central Authority under the Consumer Protection Act, 2019. They need to decide whether it is necessary to do so.",
+    "outcome": "The Central Government must consider whether it is necessary to designate a statutory authority or body to exercise the powers and perform the functions of the Central Authority, and if so, may do so by notification."
+  },
+  "derived_from": [
+    "obligation.central_government_must_consider_necessity"
+  ],
+  "related_concepts": [
+    "obligation.central_government_must_consider_necessity"
+  ],
+  "search": {
+    "keywords": [
+      "Consumer Protection Act",
+      "Central Authority",
+      "designation",
+      "necessity",
+      "notification"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the process for designating a statutory authority?",
+      "How does the Central Government determine the necessity for designation?",
+      "What are the powers and functions of the Central Authority?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

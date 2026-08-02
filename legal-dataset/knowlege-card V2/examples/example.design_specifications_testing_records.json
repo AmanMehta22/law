@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.design_specifications_testing_records",
+  "concept_type": "example",
+  "title": "Design Specifications and Testing Records",
+  "description": "Illustrative example for: evidence.design_specifications_testing_records",
+  "content": {
+    "scenario": "A consumer, Priya, purchases a product that turns out to be defective in design. She wants to prove that the product manufacturer is liable for the defect.",
+    "outcome": "Priya can use design specifications and testing records as evidence to prove that the product is defective in design, making the product manufacturer liable in a product liability action."
+  },
+  "derived_from": [
+    "evidence.design_specifications_testing_records"
+  ],
+  "related_concepts": [
+    "evidence.design_specifications_testing_records"
+  ],
+  "search": {
+    "keywords": [
+      "design specifications",
+      "testing records",
+      "product liability",
+      "defective design",
+      "consumer protection"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How can I prove a product is defective in design?",
+      "What evidence is required to establish product liability?",
+      "Can I use design specifications to prove a product defect?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

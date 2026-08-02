@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.every_year",
+  "concept_type": "example",
+  "title": "Annual Meeting of Central Council",
+  "description": "Illustrative example for: timeline.every_year",
+  "content": {
+    "scenario": "The Central Council of Consumer Protection is required to meet at least once every year to discuss consumer protection policies and issues.",
+    "outcome": "The Central Council will meet at least once every year, as mandated by the Consumer Protection Act, 2019. The meeting will provide an opportunity for the Council to review consumer protection policies and address any emerging issues."
+  },
+  "derived_from": [
+    "timeline.every_year"
+  ],
+  "related_concepts": [
+    "timeline.every_year"
+  ],
+  "search": {
+    "keywords": [
+      "Central Council",
+      "annual meeting",
+      "consumer protection",
+      "policies",
+      "review"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How often must the Central Council meet?",
+      "What is the purpose of the Central Council's annual meeting?",
+      "Who attends the Central Council's annual meeting?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

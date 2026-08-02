@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.cooperation_with_non_governmental_organisations",
+  "concept_type": "example",
+  "title": "Cooperation with Non-Governmental Organisations",
+  "description": "Illustrative example for: procedure.cooperation_with_non_governmental_organisations",
+  "content": {
+    "scenario": "The Central Authority, established under the Consumer Protection Act, encourages a non-governmental organisation, Consumer Rights Forum, to cooperate and work with consumer protection agencies. The organisation provides complaints, safety notices, and guidelines to the Central Authority, which uses them to promote consumer awareness and protect consumer rights.",
+    "outcome": "The Central Authority and the Consumer Rights Forum work together to promote consumer awareness and protect consumer rights. The organisation provides valuable information and support to the Central Authority, which enables it to take effective measures to prevent unfair trade practices and protect consumers."
+  },
+  "derived_from": [
+    "procedure.cooperation_with_non_governmental_organisations"
+  ],
+  "related_concepts": [
+    "procedure.cooperation_with_non_governmental_organisations"
+  ],
+  "search": {
+    "keywords": [
+      "Central Authority",
+      "non-governmental organisation",
+      "consumer rights",
+      "cooperation",
+      "consumer protection agencies"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How does the Central Authority cooperate with non-governmental organisations?",
+      "What is the role of non-governmental organisations in promoting consumer rights?",
+      "How can consumer protection agencies work with non-governmental organisations to protect consumer rights?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

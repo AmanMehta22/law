@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.deputy_director",
+  "concept_type": "example",
+  "title": "Deputy Director's Role and Powers",
+  "description": "Illustrative example for: authority.deputy_director",
+  "content": {
+    "scenario": "A consumer files a complaint against a company for unfair trade practices. The Deputy Director of the Central Authority is assigned to investigate the complaint. During the investigation, the Deputy Director exercises his powers to gather evidence and discharge his functions under the general control and supervision of the Director-General.",
+    "outcome": "The Deputy Director, subject to the general control, supervision, and direction of the Director-General, exercises his powers and discharges his functions to investigate the complaint and submit a report to the Central Authority."
+  },
+  "derived_from": [
+    "authority.deputy_director"
+  ],
+  "related_concepts": [
+    "authority.deputy_director"
+  ],
+  "search": {
+    "keywords": [
+      "Deputy Director",
+      "Central Authority",
+      "investigation",
+      "unfair trade practices",
+      "consumer complaint"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What are the powers of a Deputy Director under the Consumer Protection Act?",
+      "Can a Deputy Director investigate a consumer complaint independently?",
+      "What is the role of a Deputy Director in the Central Authority?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

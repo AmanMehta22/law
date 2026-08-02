@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.recommendation_of_international_covenants",
+  "concept_type": "example",
+  "title": "Recommendation of International Covenants by Central Authority",
+  "description": "Illustrative example for: procedure.recommendation_of_international_covenants",
+  "content": {
+    "scenario": "The Central Authority identifies a need to adopt international best practices to protect consumer rights in e-commerce transactions. It decides to recommend the adoption of relevant international covenants to ensure effective enforcement of consumer rights.",
+    "outcome": "The Central Authority recommends the adoption of international covenants and best international practices on consumer rights to the government, to ensure effective enforcement of consumer rights in e-commerce transactions."
+  },
+  "derived_from": [
+    "procedure.recommendation_of_international_covenants"
+  ],
+  "related_concepts": [
+    "procedure.recommendation_of_international_covenants"
+  ],
+  "search": {
+    "keywords": [
+      "recommendation of international covenants",
+      "Central Authority",
+      "consumer rights",
+      "e-commerce",
+      "best practices"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the role of the Central Authority in recommending international covenants?",
+      "Can the Central Authority adopt international best practices on its own?",
+      "How does the Central Authority ensure effective enforcement of consumer rights?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

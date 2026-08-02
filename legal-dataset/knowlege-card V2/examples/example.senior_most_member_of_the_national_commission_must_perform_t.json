@@ -1,0 +1,43 @@
+{
+  "concept_id": "example.senior_most_member_of_the_national_commission_must_perform_t",
+  "concept_type": "example",
+  "title": "Senior-most Member to Perform Duties of President",
+  "description": "Illustrative example for: obligation.senior_most_member_of_the_national_commission_must_perform_t",
+  "content": {
+    "scenario": "The President of the National Commission is unable to perform their duties due to illness. The senior-most member, Ms. Sharma, is a retired Judge of a High Court and is required to perform the duties of the President.",
+    "outcome": "The senior-most member, Ms. Sharma, shall perform the duties of the President as the office of the President is vacant due to illness. This ensures that the National Commission continues to function smoothly and efficiently."
+  },
+  "derived_from": [
+    "obligation.senior_most_member_of_the_national_commission_must_perform_t"
+  ],
+  "related_concepts": [
+    "obligation.senior_most_member_of_the_national_commission_must_perform_t"
+  ],
+  "search": {
+    "keywords": [
+      "senior-most member",
+      "National Commission",
+      "President",
+      "duties",
+      "retired Judge",
+      "High Court",
+      "CPA 2019"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Who performs the duties of the President in their absence?",
+      "What happens when the President of the National Commission is unable to perform their duties?",
+      "How is the senior-most member selected to perform the duties of the President?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "concept_id": "example.re_empanelment_of_mediators",
+  "concept_type": "example",
+  "title": "Re-empanelment of Mediators",
+  "description": "Illustrative example for: procedure.re_empanelment_of_mediators",
+  "content": {
+    "scenario": "A mediator who has completed their term with the District Commission applies for re-empanelment. The mediator has a good track record and has undergone the required training.",
+    "outcome": "The District Commission considers the application and finds that the mediator meets the qualifications and experience required for re-empanelment. The Commission re-empanels the mediator for another term, subject to the conditions and code of conduct for empanelled mediators."
+  },
+  "derived_from": [
+    "procedure.re_empanelment_of_mediators"
+  ],
+  "related_concepts": [
+    "procedure.re_empanelment_of_mediators"
+  ],
+  "search": {
+    "keywords": [
+      "re-empanelment of mediators",
+      "District Commission",
+      "code of conduct",
+      "mediator training"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the process for re-empanelment of mediators?",
+      "What are the qualifications and experience required for re-empanelment?",
+      "Can a mediator be re-empanelled for multiple terms?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

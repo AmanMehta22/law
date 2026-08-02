@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.complaint_handling_by_district_commission",
+  "concept_type": "example",
+  "title": "Complaint Handling by District Commission",
+  "description": "Illustrative example for: procedure.complaint_handling_by_district_commission",
+  "content": {
+    "scenario": "A consumer in India files a complaint with the District Commission regarding a defective product. The District Commission refers a copy of the complaint to the opposite party, directing them to respond within 30 days. The opposite party responds, denying the allegations. The District Commission proceeds to settle the consumer dispute based on evidence from the complainant and opposite party.",
+    "outcome": "The District Commission decides the complaint on merits if the complainant fails to appear on the date of hearing."
+  },
+  "derived_from": [
+    "procedure.complaint_handling_by_district_commission"
+  ],
+  "related_concepts": [
+    "procedure.complaint_handling_by_district_commission"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "complaint handling",
+      "consumer dispute",
+      "India",
+      "CPA2019",
+      "consumer rights"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the procedure for handling complaints by the District Commission?",
+      "How does the District Commission settle consumer disputes?",
+      "What happens if the complainant fails to appear on the date of hearing?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

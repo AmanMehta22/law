@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.central_consumer_protection_authority",
+  "concept_type": "example",
+  "title": "Central Consumer Protection Authority",
+  "description": "Illustrative example for: authority.central_consumer_protection_authority",
+  "content": {
+    "scenario": "A consumer in Mumbai files a complaint against a company for false advertising, which is prejudicial to the interests of the public and consumers. The Central Consumer Protection Authority takes action to regulate the matter and protect the consumer's rights.",
+    "outcome": "The Central Consumer Protection Authority, established under section 10, regulates the matter relating to the violation of consumer rights and unfair trade practices, and promotes, protects, and enforces the rights of consumers as a class."
+  },
+  "derived_from": [
+    "authority.central_consumer_protection_authority"
+  ],
+  "related_concepts": [
+    "authority.central_consumer_protection_authority"
+  ],
+  "search": {
+    "keywords": [
+      "Central Consumer Protection Authority",
+      "consumer rights",
+      "unfair trade practices",
+      "false advertising",
+      "regulation"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the role of the Central Consumer Protection Authority?",
+      "How does the Central Consumer Protection Authority protect consumer rights?",
+      "What actions can the Central Consumer Protection Authority take against false advertising?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

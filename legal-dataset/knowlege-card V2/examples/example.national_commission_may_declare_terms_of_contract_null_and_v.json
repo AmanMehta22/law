@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.national_commission_may_declare_terms_of_contract_null_and_v",
+  "concept_type": "example",
+  "title": "National Commission's Power to Declare Unfair Contract Terms Null and Void",
+  "description": "Illustrative example for: obligation.national_commission_may_declare_terms_of_contract_null_and_v",
+  "content": {
+    "scenario": "A consumer files a complaint with the National Commission alleging that a term in their contract with a service provider is unfair. The National Commission investigates and finds the term to be indeed unfair.",
+    "outcome": "The National Commission may declare the unfair term of the contract null and void, as per Section 59(2) of the Consumer Protection Act, 2019."
+  },
+  "derived_from": [
+    "obligation.national_commission_may_declare_terms_of_contract_null_and_v"
+  ],
+  "related_concepts": [
+    "obligation.national_commission_may_declare_terms_of_contract_null_and_v"
+  ],
+  "search": {
+    "keywords": [
+      "National Commission",
+      "unfair contract terms",
+      "null and void",
+      "consumer protection",
+      "contract law"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can the National Commission declare unfair contract terms null and void?",
+      "What is the process for declaring unfair contract terms null and void?",
+      "What are the consequences of a term being declared null and void?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

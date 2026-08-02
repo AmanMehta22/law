@@ -1,0 +1,40 @@
+{
+  "concept_id": "example.comptroller_and_auditor_general_of_india",
+  "concept_type": "example",
+  "title": "Comptroller and Auditor-General of India",
+  "description": "Illustrative example for: authority.comptroller_and_auditor_general_of_india",
+  "content": {
+    "scenario": "The Central Authority prepares its annual statement of accounts, which needs to be certified by the Comptroller and Auditor-General of India.",
+    "outcome": "The Comptroller and Auditor-General of India prescribes the form and manner of the annual statement of accounts in consultation with the Central Authority, and certifies the accounts after audit."
+  },
+  "derived_from": [
+    "authority.comptroller_and_auditor_general_of_india"
+  ],
+  "related_concepts": [
+    "authority.comptroller_and_auditor_general_of_india"
+  ],
+  "search": {
+    "keywords": [
+      "Comptroller and Auditor-General of India",
+      "annual statement of accounts",
+      "certification of accounts",
+      "Central Authority"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the role of the Comptroller and Auditor-General of India in relation to the Central Authority's accounts?",
+      "How are the accounts of the Central Authority certified?",
+      "Can the Comptroller and Auditor-General of India inspect the offices of the Central Authority?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

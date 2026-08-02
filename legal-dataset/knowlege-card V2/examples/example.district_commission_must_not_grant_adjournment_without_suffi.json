@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.district_commission_must_not_grant_adjournment_without_suffi",
+  "concept_type": "example",
+  "title": "District Commission's Obligation Not to Grant Adjournment Without Sufficient Cause",
+  "description": "Illustrative example for: obligation.district_commission_must_not_grant_adjournment_without_suffi",
+  "content": {
+    "scenario": "A consumer files a complaint against a company in the District Commission. The company requests an adjournment without showing sufficient cause. The consumer objects to the adjournment.",
+    "outcome": "The District Commission must not grant the adjournment, as sufficient cause has not been shown. The Commission must record the reasons for not granting the adjournment in writing."
+  },
+  "derived_from": [
+    "obligation.district_commission_must_not_grant_adjournment_without_suffi"
+  ],
+  "related_concepts": [
+    "obligation.district_commission_must_not_grant_adjournment_without_suffi"
+  ],
+  "search": {
+    "keywords": [
+      "District Commission",
+      "adjournment",
+      "sufficient cause",
+      "Consumer Protection Act",
+      "complaint"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "Can the District Commission grant adjournment without sufficient cause?",
+      "What are the rules for adjournment in the District Commission?",
+      "How does the District Commission determine sufficient cause for adjournment?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

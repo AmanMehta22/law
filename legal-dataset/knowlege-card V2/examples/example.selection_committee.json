@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.selection_committee",
+  "concept_type": "example",
+  "title": "Selection Committee's Role in Recommending Mediators",
+  "description": "Illustrative example for: authority.selection_committee",
+  "content": {
+    "scenario": "The National Commission needs to prepare a panel of mediators for consumer mediation. The Selection Committee, consisting of the President and a member of the Commission, recommends a list of mediators.",
+    "outcome": "The National Commission prepares a panel of mediators based on the recommendation of the Selection Committee, ensuring that the mediators are suitable to handle consumer disputes and provide effective mediation services."
+  },
+  "derived_from": [
+    "authority.selection_committee"
+  ],
+  "related_concepts": [
+    "authority.selection_committee"
+  ],
+  "search": {
+    "keywords": [
+      "Selection Committee",
+      "mediators",
+      "consumer mediation",
+      "National Commission",
+      "panel"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the role of the Selection Committee in recommending mediators?",
+      "How are mediators selected for consumer mediation?",
+      "What is the process for preparing a panel of mediators?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

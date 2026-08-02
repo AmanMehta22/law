@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.meeting_of_district_council",
+  "concept_type": "example",
+  "title": "District Council Meeting Procedure",
+  "description": "Illustrative example for: procedure.meeting_of_district_council",
+  "content": {
+    "scenario": "The Chairperson of the District Council in Mumbai decides to hold a meeting at the district headquarters to discuss consumer protection issues. The meeting is attended by all members of the District Council, who follow the prescribed procedure for transaction of business.",
+    "outcome": "The District Council meeting is held at the decided time and place, and the members observe the prescribed procedure for transaction of business, ensuring that the meeting is conducted in a fair and transparent manner."
+  },
+  "derived_from": [
+    "procedure.meeting_of_district_council"
+  ],
+  "related_concepts": [
+    "procedure.meeting_of_district_council"
+  ],
+  "search": {
+    "keywords": [
+      "District Council",
+      "meeting procedure",
+      "consumer protection",
+      "Mumbai",
+      "prescribed procedure"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "What is the procedure for a District Council meeting?",
+      "How are District Council meetings conducted?",
+      "What are the rules for transaction of business in a District Council meeting?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

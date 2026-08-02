@@ -1,0 +1,41 @@
+{
+  "concept_id": "example.district_council_shall_meet_as_and_when_necessary_and_at_lea",
+  "concept_type": "example",
+  "title": "Frequency of District Council Meetings",
+  "description": "Illustrative example for: obligation.district_council_shall_meet_as_and_when_necessary_and_at_lea",
+  "content": {
+    "scenario": "The District Council in Chennai has not met for over a year, and consumers are concerned about the lack of attention to their issues.",
+    "outcome": "The District Council in Chennai shall meet as and when necessary, but not less than two meetings shall be held every year, to ensure that consumer issues are addressed regularly."
+  },
+  "derived_from": [
+    "obligation.district_council_shall_meet_as_and_when_necessary_and_at_lea"
+  ],
+  "related_concepts": [
+    "obligation.district_council_shall_meet_as_and_when_necessary_and_at_lea"
+  ],
+  "search": {
+    "keywords": [
+      "District Council",
+      "meetings",
+      "frequency",
+      "Chennai",
+      "consumer issues"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How often is the District Council required to meet?",
+      "What is the minimum number of meetings the District Council must hold?",
+      "Can the District Council meet less than twice a year?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

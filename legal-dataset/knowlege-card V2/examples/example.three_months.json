@@ -1,0 +1,42 @@
+{
+  "concept_id": "example.three_months",
+  "concept_type": "example",
+  "title": "Disposal of Complaint",
+  "description": "Illustrative example for: timeline.three_months",
+  "content": {
+    "scenario": "A consumer, Ramesh, filed a complaint with the District Commission that does not require analysis or testing of commodities. Within how many months should the Commission endeavour to dispose of the complaint?",
+    "outcome": "The District Commission shall endeavour to dispose of the complaint within three months from the date of receipt of notice by the opposite party."
+  },
+  "derived_from": [
+    "timeline.three_months"
+  ],
+  "related_concepts": [
+    "timeline.three_months"
+  ],
+  "search": {
+    "keywords": [
+      "complaint",
+      "District Commission",
+      "three months",
+      "disposal",
+      "notice",
+      "opposite party"
+    ],
+    "aliases": [],
+    "user_queries": [
+      "How long does the District Commission have to dispose of a complaint?",
+      "What is the timeline for the District Commission to decide on a complaint?",
+      "Can the District Commission take more than three months to dispose of a complaint?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExampleAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}
