@@ -5,10 +5,10 @@
   "description": "Cognizable and non-bailable offences",
   "content": {
     "offence": "Offences under clauses (c) and (d)",
-    "punishment": "Not specified in the Act",
+    "punishment": "Cognizable and non-bailable",
     "minimum": "Not specified in the Act",
     "maximum": "Not specified in the Act",
-    "applicable_section": "sub-section (1)"
+    "applicable_section": "Section 90(2)"
   },
   "derived_from": [
     "CPA2019-CH7-S90-2"
@@ -42,10 +42,10 @@
     "jurisdiction": "India",
     "act": "Consumer Protection Act, 2019",
     "language": "en",
-    "review_status": "draft",
-    "confidence": 0.0,
+    "review_status": "reviewed",
+    "confidence": 0.85,
     "created_by": "PenaltyAgent",
-    "reviewed_by": null,
+    "reviewed_by": "v2-review-llm-70b-2026-08-02",
     "version": 1
   }
 }
