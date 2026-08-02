@@ -6,17 +6,53 @@
   "content": {
     "name": "Commissioner of regional office",
     "role": "Receives complaints relating to consumer rights or unfair trade practices",
-    "powers": [],
-    "jurisdiction": ""
+    "powers": [
+      "Receives complaints relating to violation of consumer rights or unfair trade practices or false or misleading advertisements which are prejudicial to the interests of consumers as a class"
+    ],
+    "jurisdiction": "Receives complaints relating to consumer rights or unfair trade practices"
   },
   "derived_from": [
     "CPA2019-CH3-S17"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.commissioner_of_regional_office",
+    "alias.district_collector",
+    "alias.right_to_file_complaint",
+    "authority.central_authority",
+    "authority.district_collector",
+    "intent.central_authority"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "commissioner",
+      "regional",
+      "office",
+      "receives",
+      "complaints",
+      "relating",
+      "consumer",
+      "rights",
+      "unfair",
+      "trade"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority",
+      "ROC Comm",
+      "Regional Comm"
+    ],
+    "user_queries": [
+      "What is commissioner of regional office?",
+      "How does commissioner of regional office work?",
+      "Can you explain commissioner of regional office?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

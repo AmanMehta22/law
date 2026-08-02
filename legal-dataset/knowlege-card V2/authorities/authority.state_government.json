@@ -40,18 +40,43 @@
     "CPA2019-CH8-S102-2",
     "CPA2019-CH8-S105-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appropriate_laboratory",
+    "alias.central_government",
+    "alias.state_government",
+    "authority.central_government",
+    "definition.appropriate_laboratory",
+    "exception.does_not_include_a_laboratory_or_an_organisation_that_is_not",
+    "intent.appropriate_laboratory"
+  ],
   "search": {
     "keywords": [
       "consumer welfare",
       "State Commission",
-      "State Government"
+      "State Government",
+      "state",
+      "government",
+      "recognises",
+      "laboratories",
+      "recognise",
+      "makes",
+      "rules",
+      "establish",
+      "consumer"
     ],
     "aliases": [
       "Government of the State",
-      "State Govt"
+      "State Govt",
+      "Local Government",
+      "Regional Government",
+      "State Administration",
+      "State Authority"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is appropriate laboratory?",
+      "How does appropriate laboratory work?",
+      "Can you explain appropriate laboratory?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

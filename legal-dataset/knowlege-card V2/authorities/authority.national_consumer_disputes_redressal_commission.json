@@ -6,20 +6,44 @@
   "content": {
     "name": "National Consumer Disputes Redressal Commission",
     "role": "Redresses consumer disputes",
-    "powers": [],
-    "jurisdiction": ""
+    "powers": [
+      "Not specified in the Act"
+    ],
+    "jurisdiction": "Not specified in the Act"
   },
   "derived_from": [
     "CPA2019-CH1-S2-29",
     "CPA2019-CH4-S53-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.national_commission",
+    "alias.national_consumer_disputes_redressal_commission",
+    "definition.national_commission",
+    "intent.national_commission",
+    "intent.national_commission_3",
+    "intent.national_commission_references_national_consumer_disputes_redressal_commission",
+    "intent.national_consumer_disputes_redressal_commission"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [
-      "National Commission"
+    "keywords": [
+      "national",
+      "consumer",
+      "disputes",
+      "redressal",
+      "commission",
+      "redresses"
     ],
-    "user_queries": []
+    "aliases": [
+      "National Commission",
+      "Consumer Court",
+      "NCDRC",
+      "National Tribunal"
+    ],
+    "user_queries": [
+      "What is the National Commission for consumers?",
+      "How do I file a complaint with the National Commission?",
+      "What is the role of the National Commission in consumer protection?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

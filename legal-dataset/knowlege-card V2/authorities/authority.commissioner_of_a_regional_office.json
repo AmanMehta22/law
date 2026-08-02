@@ -9,16 +9,48 @@
     "powers": [
       "Receives reports"
     ],
-    "jurisdiction": ""
+    "jurisdiction": "within his jurisdiction"
   },
   "derived_from": [
     "CPA2019-CH3-S16"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.commissioner_of_a_regional_office",
+    "alias.district_collector",
+    "alias.district_collector_must_inquire_and_report",
+    "alias.inquiry_or_investigation",
+    "authority.central_authority",
+    "authority.district_collector"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "commissioner",
+      "regional",
+      "office",
+      "receives",
+      "reports",
+      "consumer",
+      "rights",
+      "violations"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority",
+      "Commissioner of Regional Office",
+      "ROC Commissioner"
+    ],
+    "user_queries": [
+      "What is commissioner of a regional office?",
+      "How does commissioner of a regional office work?",
+      "Can you explain commissioner of a regional office?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -21,18 +21,42 @@
     "CPA2019-CH7-S91-3",
     "CPA2019-CH8-S96-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.court",
+    "alias.district_commission",
+    "alias.enforcement_of_order",
+    "alias.national_commission",
+    "alias.state_commission",
+    "authority.district_commission",
+    "authority.national_commission"
+  ],
   "search": {
     "keywords": [
       "court",
-      "compounding of offences"
+      "compounding of offences",
+      "makes",
+      "decrees",
+      "suits",
+      "hears",
+      "appeals",
+      "suspend",
+      "licence",
+      "cancel",
+      "granting"
     ],
     "aliases": [
       "tribunal",
-      "judicial body"
+      "judicial body",
+      "Bench",
+      "Judiciary",
+      "Law Court",
+      "Tribunal"
     ],
     "user_queries": [
-      "What is the role of court in compounding of offences?"
+      "What is the role of court in compounding of offences?",
+      "What is appeal exception?",
+      "How does appeal exception work?",
+      "Can you explain appeal exception?"
     ]
   },
   "metadata": {

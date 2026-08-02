@@ -10,18 +10,52 @@
       "Entertaining appeals",
       "Extending time for filing appeals if sufficient cause is shown"
     ],
-    "jurisdiction": ""
+    "jurisdiction": "whole of India"
   },
   "derived_from": [
     "CPA2019-CH4-S67",
     "CPA2019-CH4-S73-1",
     "CPA2019-CH4-S73-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_time_limit",
+    "alias.filing_an_appeal_to_the_supreme_court",
+    "alias.national_commission",
+    "alias.proof_of_sufficient_cause",
+    "alias.right_to_appeal",
+    "alias.supreme_court",
+    "authority.national_commission"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "supreme",
+      "court",
+      "entertains",
+      "appeals",
+      "against",
+      "orders",
+      "national",
+      "commission",
+      "entertaining",
+      "extending"
+    ],
+    "aliases": [
+      "appeal deadline",
+      "filing appeal",
+      "opposite party response",
+      "time limit for appeal",
+      "time limit for application",
+      "time to respond",
+      "Apex Court",
+      "Federal Court",
+      "Highest Court",
+      "National Court"
+    ],
+    "user_queries": [
+      "What is filing an appeal handled by district commission?",
+      "How does filing an appeal handled by district commission work?",
+      "Can you explain filing an appeal handled by district commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

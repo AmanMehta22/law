@@ -6,7 +6,10 @@
   "content": {
     "name": "State Council",
     "role": "State Consumer Protection Council",
-    "powers": [],
+    "powers": [
+      "advising the State Government on promotion and protection of consumer rights",
+      "meeting as and when necessary"
+    ],
     "jurisdiction": "a State"
   },
   "derived_from": [
@@ -17,11 +20,35 @@
     "CPA2019-CH2-S7",
     "CPA2019-CH8-S102-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.state_council",
+    "alias.state_government",
+    "alias.state_government_must_establish_state_council",
+    "authority.state_government",
+    "intent.state_council",
+    "intent.state_council_2",
+    "intent.state_government"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "state",
+      "council",
+      "consumer",
+      "protection"
+    ],
+    "aliases": [
+      "State Advisory Council",
+      "State Consumer Council",
+      "State Consumer Protection Council"
+    ],
+    "user_queries": [
+      "What is district commission references state council?",
+      "How does district commission references state council work?",
+      "Can you explain district commission references state council?",
+      "What is district commission references central government?",
+      "How does district commission references central government work?",
+      "Can you explain district commission references central government?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

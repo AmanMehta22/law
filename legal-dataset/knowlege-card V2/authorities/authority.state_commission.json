@@ -89,7 +89,15 @@
     "CPA2019-CH8-S95",
     "CPA2019-CH8-S98"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.member",
+    "alias.national_commission",
+    "alias.state_commission",
+    "authority.district_commission",
+    "authority.national_commission",
+    "definition.member"
+  ],
   "search": {
     "keywords": [
       "consumer complaints",
@@ -108,10 +116,19 @@
     "aliases": [
       "State Consumer Disputes Redressal Commission",
       "Commission of the State",
-      "State Consumer Commission"
+      "State Consumer Commission",
+      "SCDRC",
+      "State Consumer Forum",
+      "State Tribunal"
     ],
     "user_queries": [
-      "file complaint in state commission"
+      "file complaint in state commission",
+      "What is adjournment exception?",
+      "How does adjournment exception work?",
+      "Can you explain adjournment exception?",
+      "What is acknowledgment?",
+      "How does acknowledgment work?",
+      "Can you explain acknowledgment?"
     ]
   },
   "metadata": {

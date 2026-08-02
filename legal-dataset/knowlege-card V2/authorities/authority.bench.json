@@ -9,16 +9,41 @@
     "powers": [
       "exercise jurisdiction, powers and authority of the State Commission"
     ],
-    "jurisdiction": ""
+    "jurisdiction": "of the State Commission"
   },
   "derived_from": [
     "CPA2019-CH4-S47-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.bench",
+    "alias.president",
+    "alias.state_commission",
+    "authority.president",
+    "authority.state_commission",
+    "exception.does_not_include_a_person_who_obtains_goods_for_resale_or_co",
+    "intent.bench"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "bench",
+      "exercises",
+      "jurisdiction",
+      "powers",
+      "authority",
+      "state",
+      "commission",
+      "exercise"
+    ],
+    "aliases": [
+      "Court Bench",
+      "Judicial Bench",
+      "Tribunal"
+    ],
+    "user_queries": [
+      "What is bench?",
+      "How does bench work?",
+      "Can you explain bench?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

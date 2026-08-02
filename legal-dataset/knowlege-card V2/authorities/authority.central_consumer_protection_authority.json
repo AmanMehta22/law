@@ -10,19 +10,44 @@
       "regulate matters relating to violation of rights of consumers, unfair trade practices and false or misleading advertisements",
       "promote, protect and enforce the rights of consumers as a class"
     ],
-    "jurisdiction": ""
+    "jurisdiction": "the whole of India"
   },
   "derived_from": [
     "CPA2019-CH1-S2-4",
     "CPA2019-CH3-S10-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_consumer_protection_authority",
+    "definition.central_authority",
+    "intent.central_authority",
+    "intent.central_authority_3",
+    "intent.central_consumer_protection_authority",
+    "intent.central_consumer_protection_authority_2"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [
-      "Central Authority"
+    "keywords": [
+      "central",
+      "consumer",
+      "protection",
+      "authority",
+      "established",
+      "section",
+      "regulate",
+      "matters",
+      "relating",
+      "violation"
     ],
-    "user_queries": []
+    "aliases": [
+      "Central Authority",
+      "CCPA",
+      "Consumer Protection Authority"
+    ],
+    "user_queries": [
+      "What is the Central Authority under the Consumer Protection Act",
+      "Who is responsible for enforcing consumer protection laws in India",
+      "What is the role of the Central Consumer Protection Authority"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

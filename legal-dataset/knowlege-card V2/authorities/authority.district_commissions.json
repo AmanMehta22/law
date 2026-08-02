@@ -6,17 +6,47 @@
   "content": {
     "name": "District Commissions",
     "role": "Has a consumer mediation cell attached",
-    "powers": [],
+    "powers": [
+      "Not specified in the Act"
+    ],
     "jurisdiction": "District"
   },
   "derived_from": [
     "CPA2019-CH5-S74-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.consumer_mediation_cell",
+    "alias.district_commissions",
+    "alias.state_commissions",
+    "alias.state_government",
+    "authority.consumer_mediation_cell",
+    "authority.state_commissions",
+    "authority.state_government"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "district",
+      "commissions",
+      "has",
+      "consumer",
+      "mediation",
+      "cell",
+      "attached"
+    ],
+    "aliases": [
+      "Consumer Arbitration",
+      "Consumer Mediator",
+      "Dispute Resolution Cell",
+      "Mediation Cell",
+      "Consumer Courts",
+      "District Forums",
+      "Local Commissions"
+    ],
+    "user_queries": [
+      "What is consumer mediation cell?",
+      "How does consumer mediation cell work?",
+      "Can you explain consumer mediation cell?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

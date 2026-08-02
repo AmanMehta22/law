@@ -24,17 +24,44 @@
     "CPA2019-CH3-S19-3",
     "CPA2019-CH3-S22-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.commissioner_of_a_regional_office",
+    "alias.district_collector",
+    "alias.district_collector_must_inquire_and_report",
+    "alias.inquiry_or_investigation",
+    "authority.central_authority",
+    "authority.commissioner_of_a_regional_office"
+  ],
   "search": {
     "keywords": [
       "investigation",
       "consumer rights",
-      "unfair trade practices"
+      "unfair trade practices",
+      "district",
+      "collector",
+      "inquires",
+      "into",
+      "investigates",
+      "complaints",
+      "regarding",
+      "consumer",
+      "rights"
     ],
     "aliases": [
-      "by whatever name called"
+      "by whatever name called",
+      "Collector",
+      "DC",
+      "District Magistrate"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is commissioner of regional office?",
+      "How does commissioner of regional office work?",
+      "Can you explain commissioner of regional office?",
+      "What is central authority must cause investigation?",
+      "How does central authority must cause investigation work?",
+      "Can you explain central authority must cause investigation?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

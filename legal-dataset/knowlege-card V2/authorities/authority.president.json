@@ -18,11 +18,43 @@
     "CPA2019-CH4-S47-3",
     "CPA2019-CH4-S58-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.bench",
+    "alias.president",
+    "alias.state_commission",
+    "authority.bench",
+    "authority.state_commission",
+    "exception.does_not_include_a_person_who_obtains_goods_for_resale_or_co",
+    "intent.bench"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "president",
+      "constitutes",
+      "benches",
+      "constitute",
+      "hear",
+      "point",
+      "points",
+      "himself",
+      "refer",
+      "case"
+    ],
+    "aliases": [
+      "Court Bench",
+      "Judicial Bench",
+      "Tribunal",
+      "Chairperson",
+      "Chief of Commission",
+      "Commission President",
+      "Head of Commission",
+      "Leader of the Commission"
+    ],
+    "user_queries": [
+      "What is bench?",
+      "How does bench work?",
+      "Can you explain bench?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

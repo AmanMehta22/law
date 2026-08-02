@@ -109,7 +109,15 @@
     "CPA2019-CH8-S95",
     "CPA2019-CH8-S98"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.member",
+    "alias.national_commission",
+    "alias.state_commission",
+    "authority.district_commission",
+    "authority.state_commission",
+    "definition.member"
+  ],
   "search": {
     "keywords": [
       "consumer complaints",
@@ -120,13 +128,27 @@
       "high-value complaints",
       "complaint transfer",
       "inter-state transfer",
-      "adjournment costs"
+      "adjournment costs",
+      "national",
+      "commission",
+      "adjudicates"
     ],
     "aliases": [
-      "National Consumer Commission"
+      "National Consumer Commission",
+      "Central Commission",
+      "Central Consumer Protection Council",
+      "NCDRC",
+      "National Consumer Disputes Redressal Commission",
+      "National Consumer Protection Agency"
     ],
     "user_queries": [
-      "complaint transfer between states"
+      "complaint transfer between states",
+      "What is acknowledgment due?",
+      "How does acknowledgment due work?",
+      "Can you explain acknowledgment due?",
+      "What is acknowledgment?",
+      "How does acknowledgment work?",
+      "Can you explain acknowledgment?"
     ]
   },
   "metadata": {

@@ -9,17 +9,47 @@
     "powers": [
       "deal with referred matters"
     ],
-    "jurisdiction": ""
+    "jurisdiction": "established under any other law for the time being in force"
   },
   "derived_from": [
     "CPA2019-CH1-S2-40",
     "CPA2019-CH3-S19-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.regulator",
+    "definition.regulator",
+    "intent.regulator",
+    "intent.regulator_2",
+    "intent.regulator_3",
+    "alias.central_authority",
+    "alias.central_authority_must_refer_matter_to_regulator"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "regulator",
+      "established",
+      "other",
+      "law",
+      "time",
+      "being",
+      "force",
+      "deal",
+      "referred",
+      "matters"
+    ],
+    "aliases": [
+      "Authority",
+      "Enforcement Agency",
+      "Oversight Body",
+      "Watchdog",
+      "authority",
+      "regulatory body"
+    ],
+    "user_queries": [
+      "What is central authority must refer matter to regulator?",
+      "How does central authority must refer matter to regulator work?",
+      "Can you explain central authority must refer matter to regulator?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

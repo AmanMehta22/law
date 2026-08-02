@@ -17,11 +17,37 @@
     "CPA2019-CH2-S4-2",
     "CPA2019-CH2-S5"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_council",
+    "alias.central_government_must_prescribe_interests",
+    "intent.central_council",
+    "intent.central_council_2",
+    "intent.central_government_must_prescribe_interests",
+    "intent.central_government_must_prescribe_interests_2",
+    "intent.mediation_references_central_council"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "central",
+      "council",
+      "provides",
+      "advice",
+      "render",
+      "promotion",
+      "protection",
+      "consumers",
+      "rights"
+    ],
+    "aliases": [
+      "Central Consumer Council",
+      "Consumer Council",
+      "National Council"
+    ],
+    "user_queries": [
+      "What is central council?",
+      "How does central council work?",
+      "Can you explain central council?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

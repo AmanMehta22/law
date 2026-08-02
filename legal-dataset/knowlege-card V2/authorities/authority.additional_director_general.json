@@ -6,8 +6,11 @@
   "content": {
     "name": "Additional Director-General",
     "role": "Assists in investigations",
-    "powers": [],
-    "jurisdiction": ""
+    "powers": [
+      "exercise powers subject to the general control, supervision and direction of the Director-General",
+      "delegate powers from the Director-General"
+    ],
+    "jurisdiction": "under this Act"
   },
   "derived_from": [
     "CPA2019-CH3-S15-2",
@@ -15,11 +18,38 @@
     "CPA2019-CH3-S15-4",
     "CPA2019-CH8-S95"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.additional_director_general",
+    "alias.assistant_director",
+    "alias.central_government",
+    "alias.central_government_must_appoint_officers_in_a_prescribed_manner",
+    "alias.deputy_director",
+    "alias.director",
+    "alias.director_general"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "additional",
+      "director",
+      "general",
+      "assists",
+      "investigations"
+    ],
+    "aliases": [
+      "Alternate Director-General",
+      "Assistant Director-General",
+      "Deputy Director-General",
+      "Extra Director-General",
+      "Supplemental Director-General"
+    ],
+    "user_queries": [
+      "What is control and supervision exception?",
+      "How does control and supervision exception work?",
+      "Can you explain control and supervision exception?",
+      "What is additional director-general?",
+      "How does additional director-general work?",
+      "Can you explain additional director-general?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

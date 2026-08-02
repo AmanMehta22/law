@@ -143,7 +143,15 @@
     "CPA2019-CH8-S95",
     "CPA2019-CH8-S98"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "definition.district_commission",
+    "intent.district_commission",
+    "intent.district_commission_2",
+    "intent.district_commission_3",
+    "alias.member",
+    "alias.national_commission"
+  ],
   "search": {
     "keywords": [
       "consumer complaints",
@@ -152,16 +160,31 @@
       "opposite party",
       "consumer complaint",
       "district level",
-      "adjournment costs"
+      "adjournment costs",
+      "district",
+      "commission",
+      "redresses",
+      "consumer",
+      "disputes"
     ],
     "aliases": [
       "DC",
-      "District Consumer Commission"
+      "District Consumer Commission",
+      "Consumer Forum District Level",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
     ],
     "user_queries": [
       "consumer dispute resolution",
       "What are the powers of District Commission?",
-      "file complaint in district commission"
+      "file complaint in district commission",
+      "What is acknowledgment due?",
+      "How does acknowledgment due work?",
+      "Can you explain acknowledgment due?",
+      "What is acknowledgment?",
+      "How does acknowledgment work?",
+      "Can you explain acknowledgment?"
     ]
   },
   "metadata": {

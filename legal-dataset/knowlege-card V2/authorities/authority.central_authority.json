@@ -102,7 +102,15 @@
     "CPA2019-CH8-S96-5",
     "CPA2019-CH8-S99-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.national_commission",
+    "alias.regulations",
+    "authority.national_commission",
+    "definition.regulations",
+    "intent.central_authority",
+    "intent.central_authority_2"
+  ],
   "search": {
     "keywords": [
       "consumer rights",
@@ -116,16 +124,23 @@
       "endorser",
       "annual report",
       "Central Authority",
-      "central decisions",
-      "appealable orders",
-      "complaint",
-      "offence"
+      "central decisions"
     ],
     "aliases": [
       "Central Consumer Protection Authority",
-      "Central Authority"
+      "Central Authority",
+      "CCPA",
+      "Central Agency",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is accounts and audit reports?",
+      "How does accounts and audit reports work?",
+      "Can you explain accounts and audit reports?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -6,17 +6,42 @@
   "content": {
     "name": "Parliament",
     "role": "Receives a copy of the annual report",
-    "powers": [],
-    "jurisdiction": ""
+    "powers": [
+      "Not specified in the Act"
+    ],
+    "jurisdiction": "each House of Parliament"
   },
   "derived_from": [
     "CPA2019-CH3-S27-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.government_must_lay_annual_report_before_parliament",
+    "alias.parliament",
+    "intent.government_must_lay_annual_report_before_parliament",
+    "intent.government_must_lay_annual_report_before_parliament_2",
+    "intent.parliament",
+    "intent.parliament_2"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "parliament",
+      "receives",
+      "copy",
+      "annual",
+      "report"
+    ],
+    "aliases": [
+      "laying of report",
+      "Assembly",
+      "House of Representatives",
+      "Legislature",
+      "National Assembly"
+    ],
+    "user_queries": [
+      "What is government must lay annual report before parliament?",
+      "How does government must lay annual report before parliament work?",
+      "Can you explain government must lay annual report before parliament?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -6,19 +6,42 @@
   "content": {
     "name": "Central Consumer Protection Council",
     "role": "To be established by the Central Government",
-    "powers": [],
-    "jurisdiction": ""
+    "powers": [
+      "Not specified in the Act"
+    ],
+    "jurisdiction": "Not specified in the Act"
   },
   "derived_from": [
     "CPA2019-CH2-S3-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_consumer_protection_council",
+    "alias.central_government",
+    "alias.central_government_must_establish_central_consumer_protection_council",
+    "authority.central_government",
+    "intent.central_consumer_protection_council",
+    "intent.central_consumer_protection_council_2",
+    "intent.central_government"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [
-      "Central Council"
+    "keywords": [
+      "central",
+      "consumer",
+      "protection",
+      "council",
+      "established",
+      "government"
     ],
-    "user_queries": []
+    "aliases": [
+      "Central Council",
+      "CCPC",
+      "National Consumer Council"
+    ],
+    "user_queries": [
+      "What is central consumer protection council?",
+      "How does central consumer protection council work?",
+      "Can you explain central consumer protection council?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

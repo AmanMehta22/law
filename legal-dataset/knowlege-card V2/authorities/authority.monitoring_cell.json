@@ -9,16 +9,40 @@
     "powers": [
       "Oversee the functioning of State Commissions"
     ],
-    "jurisdiction": ""
+    "jurisdiction": "administrative point of view"
   },
   "derived_from": [
     "CPA2019-CH4-S70-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.monitoring_cell",
+    "alias.national_commission",
+    "alias.state_commissions",
+    "authority.national_commission",
+    "authority.state_commissions",
+    "intent.monitoring_cell",
+    "intent.monitoring_cell_2"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "monitoring",
+      "cell",
+      "oversees",
+      "functioning",
+      "state",
+      "commissions",
+      "oversee"
+    ],
+    "aliases": [
+      "Regulatory Cell",
+      "Surveillance Cell",
+      "Watchdog"
+    ],
+    "user_queries": [
+      "What is monitoring cell?",
+      "How does monitoring cell work?",
+      "Can you explain monitoring cell?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -14,11 +14,43 @@
   "derived_from": [
     "CPA2019-CH8-S102-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.state_governments",
+    "authority.central_government",
+    "exception.provided_that_the_central_government_may_frame_model_rules",
+    "intent.central_government",
+    "intent.central_government_2",
+    "intent.state_governments"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "state",
+      "governments",
+      "makes",
+      "rules",
+      "carrying",
+      "out",
+      "provisions",
+      "act",
+      "make",
+      "matters"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government",
+      "Local Governments",
+      "Provincial Governments",
+      "Regional Governments",
+      "State Administrations"
+    ],
+    "user_queries": [
+      "What is state governments?",
+      "How does state governments work?",
+      "Can you explain state governments?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

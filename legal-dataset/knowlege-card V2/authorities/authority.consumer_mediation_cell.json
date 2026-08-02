@@ -15,7 +15,7 @@
       "Maintaining information",
       "Submitting quarterly reports"
     ],
-    "jurisdiction": ""
+    "jurisdiction": "Attached to District and State Commissions"
   },
   "derived_from": [
     "CPA2019-CH5-S74-1",
@@ -28,16 +28,44 @@
     "CPA2019-CH8-S102-2",
     "CPA2019-CH8-S103-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.consumer_mediation_cell",
+    "alias.district_commissions",
+    "alias.state_commissions",
+    "alias.state_government",
+    "authority.district_commissions",
+    "authority.state_commissions",
+    "authority.state_government"
+  ],
   "search": {
     "keywords": [
       "consumer mediation",
-      "quarterly reports"
+      "quarterly reports",
+      "consumer",
+      "mediation",
+      "cell",
+      "attached",
+      "district",
+      "state",
+      "commissions",
+      "maintain",
+      "list",
+      "empanelled"
     ],
     "aliases": [
-      "Mediation Cell"
+      "Mediation Cell",
+      "Consumer Arbitration",
+      "Consumer Mediator",
+      "Dispute Resolution Cell"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central government must establish consumer mediation cell?",
+      "How does central government must establish consumer mediation cell work?",
+      "Can you explain central government must establish consumer mediation cell?",
+      "What is adjournment cost imposition by district commission?",
+      "How does adjournment cost imposition by district commission work?",
+      "Can you explain adjournment cost imposition by district commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

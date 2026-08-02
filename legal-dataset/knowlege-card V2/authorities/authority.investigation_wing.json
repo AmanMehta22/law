@@ -6,17 +6,51 @@
   "content": {
     "name": "Investigation Wing",
     "role": "Conducts inquiries or investigations under the direction of the Central Authority",
-    "powers": [],
-    "jurisdiction": ""
+    "powers": [
+      "conducting inquiry or investigation under this Act"
+    ],
+    "jurisdiction": "under the direction of the Central Authority"
   },
   "derived_from": [
     "CPA2019-CH3-S15-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_authority_must_conduct_inquiry_or_investigation",
+    "alias.director_general",
+    "alias.investigation_wing",
+    "authority.central_authority",
+    "authority.director_general",
+    "intent.central_authority"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "investigation",
+      "wing",
+      "conducts",
+      "inquiries",
+      "investigations",
+      "direction",
+      "central",
+      "authority"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority",
+      "Enforcement Wing",
+      "Investigating Agency"
+    ],
+    "user_queries": [
+      "What is central authority must conduct inquiry or investigation?",
+      "How does central authority must conduct inquiry or investigation work?",
+      "Can you explain central authority must conduct inquiry or investigation?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

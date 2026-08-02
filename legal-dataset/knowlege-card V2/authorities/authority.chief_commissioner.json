@@ -17,11 +17,45 @@
     "CPA2019-CH3-S14-2",
     "CPA2019-CH8-S98"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.central_government_must_appoint_commissioners",
+    "alias.chief_commissioner",
+    "authority.central_authority",
+    "authority.central_government",
+    "intent.central_authority"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "chief",
+      "commissioner",
+      "part",
+      "central",
+      "authority",
+      "general",
+      "superintendence",
+      "direction",
+      "control",
+      "delegation"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority",
+      "CC",
+      "Chief Comm"
+    ],
+    "user_queries": [
+      "What is central government must appoint commissioners?",
+      "How does central government must appoint commissioners work?",
+      "Can you explain central government must appoint commissioners?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -6,7 +6,9 @@
   "content": {
     "name": "State Commissions",
     "role": "Functions overseen by the monitoring cell",
-    "powers": [],
+    "powers": [
+      "Not specified in the Act"
+    ],
     "jurisdiction": "State"
   },
   "derived_from": [
@@ -14,11 +16,38 @@
     "CPA2019-CH4-S70-4",
     "CPA2019-CH5-S74-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.monitoring_cell",
+    "alias.national_commission",
+    "alias.state_commissions",
+    "authority.monitoring_cell",
+    "authority.national_commission",
+    "intent.monitoring_cell",
+    "intent.monitoring_cell_2"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "state",
+      "commissions",
+      "functions",
+      "overseen",
+      "monitoring",
+      "cell"
+    ],
+    "aliases": [
+      "Regulatory Cell",
+      "Surveillance Cell",
+      "Watchdog",
+      "State Consumer Commissions",
+      "State Consumer Courts",
+      "State Consumer Dispute Redressal Commissions",
+      "State Consumer Forums"
+    ],
+    "user_queries": [
+      "What is consumer mediation cell?",
+      "How does consumer mediation cell work?",
+      "Can you explain consumer mediation cell?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

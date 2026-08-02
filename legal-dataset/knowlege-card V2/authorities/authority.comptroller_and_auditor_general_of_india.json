@@ -19,11 +19,45 @@
     "CPA2019-CH3-S26-3",
     "CPA2019-CH3-S26-4"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_authority_must_maintain_accounts_and_records",
+    "alias.comptroller_and_auditor_general_of_india",
+    "authority.central_authority",
+    "evidence.accounts_records",
+    "intent.accounts_and_records",
+    "intent.central_authority"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "comptroller",
+      "auditor",
+      "general",
+      "india",
+      "prescribes",
+      "form",
+      "manner",
+      "annual",
+      "statement",
+      "accounts"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority",
+      "Auditor General of India",
+      "CAG"
+    ],
+    "user_queries": [
+      "What is accounts and audit reports?",
+      "How does accounts and audit reports work?",
+      "Can you explain accounts and audit reports?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",
