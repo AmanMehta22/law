@@ -51,10 +51,10 @@
     "jurisdiction": "India",
     "act": "Consumer Protection Act, 2019",
     "language": "en",
-    "review_status": "draft",
-    "confidence": 0.0,
+    "review_status": "reviewed",
+    "confidence": 0.75,
     "created_by": "AuthorityAgent",
-    "reviewed_by": null,
+    "reviewed_by": "v2-review-llm-70b-2026-08-02 (bulk, 20% sample agreed)",
     "version": 1
   }
 }
