@@ -15,16 +15,53 @@
       }
     ],
     "authority": "Central Authority",
-    "documents": []
+    "documents": [
+      "complaints",
+      "safety notices",
+      "guidelines"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S18-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.advising_on_consumer_welfare_measures",
+    "alias.awareness_on_consumer_rights",
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.cooperation_with_non_governmental_organisations",
+    "alias.district_commission",
+    "alias.filing_complaints"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "cooperation",
+      "non",
+      "governmental",
+      "organisations",
+      "encourage",
+      "other",
+      "institutions",
+      "working",
+      "field",
+      "consumer"
+    ],
+    "aliases": [
+      "advice on consumer welfare",
+      "advising on consumer welfare",
+      "consumer rights guidance",
+      "consumer welfare advice",
+      "consumer welfare measures",
+      "NGO collaboration",
+      "civil society partnership",
+      "cooperation with non-profit organizations",
+      "partnership with NGOs"
+    ],
+    "user_queries": [
+      "What is advising on consumer welfare measures?",
+      "How does advising on consumer welfare measures work?",
+      "Can you explain advising on consumer welfare measures?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

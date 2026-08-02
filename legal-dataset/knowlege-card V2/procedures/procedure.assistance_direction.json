@@ -19,16 +19,46 @@
       }
     ],
     "authority": "National Commission or State Commission",
-    "documents": []
+    "documents": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S66"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.assistance_direction",
+    "alias.national_commission",
+    "alias.national_or_state_commission_may_direct_assistance",
+    "alias.state_commission",
+    "authority.national_commission",
+    "authority.state_commission",
+    "intent.assistance_direction"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "assistance",
+      "direction",
+      "assist",
+      "national",
+      "state",
+      "commission",
+      "order",
+      "step",
+      "application",
+      "complainant"
+    ],
+    "aliases": [
+      "assistance direction",
+      "assistance guidance",
+      "assistance order",
+      "direction for assistance"
+    ],
+    "user_queries": [
+      "What is assistance direction?",
+      "How does assistance direction work?",
+      "Can you explain assistance direction?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -19,16 +19,54 @@
       }
     ],
     "authority": "Central Authority",
-    "documents": []
+    "documents": [
+      "complaints",
+      "safety notices",
+      "guidelines"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S18-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.advising_on_consumer_welfare_measures",
+    "alias.awareness_on_consumer_rights",
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.cooperation_with_non_governmental_organisations",
+    "alias.district_commission",
+    "alias.filing_complaints"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "review",
+      "consumer",
+      "rights",
+      "matters",
+      "relating",
+      "factors",
+      "inhibiting",
+      "enjoyment",
+      "order",
+      "step"
+    ],
+    "aliases": [
+      "advice on consumer welfare",
+      "advising on consumer welfare",
+      "consumer rights guidance",
+      "consumer welfare advice",
+      "consumer welfare measures",
+      "analysis of consumer protection",
+      "consumer law assessment",
+      "consumer protection review",
+      "consumer rights examination",
+      "evaluation of consumer rights"
+    ],
+    "user_queries": [
+      "What is review of consumer rights?",
+      "How does review of consumer rights work?",
+      "Can you explain review of consumer rights?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

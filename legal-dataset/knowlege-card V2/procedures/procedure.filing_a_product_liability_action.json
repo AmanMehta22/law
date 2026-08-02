@@ -11,16 +11,49 @@
       }
     ],
     "authority": "District Commission or State Commission or National Commission",
-    "documents": []
+    "documents": [
+      "complaint"
+    ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-35"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.compensation_for_harm_caused",
+    "alias.district_commission",
+    "alias.filing_a_product_liability_action",
+    "alias.national_commission",
+    "alias.product_liability_action",
+    "alias.right_to_compensation",
+    "alias.state_commission"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "filing",
+      "product",
+      "liability",
+      "action",
+      "claiming",
+      "compensation",
+      "harm",
+      "caused",
+      "order",
+      "step"
+    ],
+    "aliases": [
+      "damages",
+      "reparation",
+      "claiming product liability",
+      "filing a product defect lawsuit",
+      "product liability claim",
+      "product liability lawsuit",
+      "suing for product defect"
+    ],
+    "user_queries": [
+      "What is filing a product liability action?",
+      "How does filing a product liability action work?",
+      "Can you explain filing a product liability action?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

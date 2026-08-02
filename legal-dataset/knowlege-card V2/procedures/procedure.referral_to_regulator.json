@@ -26,11 +26,45 @@
   "derived_from": [
     "CPA2019-CH3-S19-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_authority_must_refer_matter_to_regulator",
+    "alias.referral_to_regulator",
+    "alias.regulator",
+    "authority.central_authority",
+    "authority.regulator",
+    "intent.central_authority"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "referral",
+      "regulator",
+      "matter",
+      "after",
+      "preliminary",
+      "inquiry",
+      "order",
+      "step",
+      "central",
+      "authority"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority",
+      "complaint to regulator",
+      "filing with regulator"
+    ],
+    "user_queries": [
+      "What is central authority must refer matter to regulator?",
+      "How does central authority must refer matter to regulator work?",
+      "Can you explain central authority must refer matter to regulator?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

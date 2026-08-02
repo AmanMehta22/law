@@ -31,18 +31,55 @@
       }
     ],
     "authority": "District Commission",
-    "documents": []
+    "documents": [
+      "application made by any of the parties",
+      "error apparent on the face of the record"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S40",
     "CPA2019-CH4-S50",
     "CPA2019-CH4-S60"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_time_limit",
+    "alias.district_commission",
+    "alias.district_commission_must_review_order",
+    "alias.review_of_order",
+    "authority.district_commission",
+    "intent.appeal_time_limit",
+    "intent.appeal_time_limit_2"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "review",
+      "order",
+      "passed",
+      "district",
+      "commission",
+      "step",
+      "identifies",
+      "error",
+      "apparent",
+      "face"
+    ],
+    "aliases": [
+      "appeal deadline",
+      "filing appeal",
+      "opposite party response",
+      "time limit for appeal",
+      "time limit for application",
+      "time to respond",
+      "appeal of order",
+      "order assessment",
+      "order examination",
+      "re-examining an order"
+    ],
+    "user_queries": [
+      "What is district commission must review order?",
+      "How does district commission must review order work?",
+      "Can you explain district commission must review order?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

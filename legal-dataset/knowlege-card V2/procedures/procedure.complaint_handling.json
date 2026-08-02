@@ -35,16 +35,49 @@
       }
     ],
     "authority": "District Commission",
-    "documents": []
+    "documents": [
+      "copy of the admitted complaint",
+      "sample of the goods",
+      "report from the appropriate laboratory"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.admissibility_decision_time_limit",
+    "alias.appeal_time_limit",
+    "alias.complaint_handling",
+    "alias.district_commission",
+    "alias.right_to_be_heard",
+    "authority.district_commission",
+    "evidence.report_from_laboratory"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "complaint",
+      "handling",
+      "district",
+      "commission",
+      "related",
+      "goods",
+      "order",
+      "step",
+      "refer",
+      "copy"
+    ],
+    "aliases": [
+      "complaint admission",
+      "complaint management",
+      "complaint processing",
+      "complaint resolution process",
+      "handling customer complaints"
+    ],
+    "user_queries": [
+      "What is complaint handling?",
+      "How does complaint handling work?",
+      "Can you explain complaint handling?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

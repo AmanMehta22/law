@@ -19,16 +19,49 @@
       }
     ],
     "authority": "Central Council",
-    "documents": []
+    "documents": [
+      "such procedure in regard to the transaction of its business as may be prescribed"
+    ]
   },
   "derived_from": [
     "CPA2019-CH2-S4-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_council",
+    "alias.central_council_must_observe_prescribed_procedure",
+    "alias.meeting_of_central_council",
+    "authority.central_council",
+    "intent.central_council",
+    "intent.central_council_2",
+    "intent.central_council_must_observe_prescribed_procedure"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "meeting",
+      "central",
+      "council",
+      "meet",
+      "such",
+      "time",
+      "place",
+      "chairperson",
+      "think",
+      "fit"
+    ],
+    "aliases": [
+      "Central Consumer Council",
+      "Consumer Council",
+      "National Council",
+      "central council",
+      "central council meeting",
+      "council",
+      "council meeting"
+    ],
+    "user_queries": [
+      "What is central council must observe prescribed procedure?",
+      "How does central council must observe prescribed procedure work?",
+      "Can you explain central council must observe prescribed procedure?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

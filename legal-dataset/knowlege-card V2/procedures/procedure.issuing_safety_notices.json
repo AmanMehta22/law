@@ -15,16 +15,51 @@
       }
     ],
     "authority": "Central Authority",
-    "documents": []
+    "documents": [
+      "safety notices"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S18-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.advising_on_consumer_welfare_measures",
+    "alias.awareness_on_consumer_rights",
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.cooperation_with_non_governmental_organisations",
+    "alias.district_commission",
+    "alias.filing_complaints"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "issuing",
+      "safety",
+      "notices",
+      "issue",
+      "alert",
+      "consumers",
+      "against",
+      "dangerous",
+      "hazardous",
+      "unsafe"
+    ],
+    "aliases": [
+      "advice on consumer welfare",
+      "advising on consumer welfare",
+      "consumer rights guidance",
+      "consumer welfare advice",
+      "consumer welfare measures",
+      "Hazard Warning",
+      "Product Safety Notice",
+      "Risk Notification",
+      "Safety Alert"
+    ],
+    "user_queries": [
+      "What is issuing safety notices?",
+      "How does issuing safety notices work?",
+      "Can you explain issuing safety notices?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

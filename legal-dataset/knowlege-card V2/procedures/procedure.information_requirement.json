@@ -18,11 +18,45 @@
   "derived_from": [
     "CPA2019-CH4-S38-4"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.information_requirement",
+    "authority.district_commission",
+    "evidence.information_documents_records",
+    "intent.district_commission",
+    "intent.district_commission_2",
+    "intent.electronic_service_provider_must_provide_information"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "information",
+      "requirement",
+      "district",
+      "commission",
+      "requiring",
+      "documents",
+      "records",
+      "electronic",
+      "service",
+      "provider"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum",
+      "information needed",
+      "mandatory disclosure",
+      "necessary details",
+      "required information"
+    ],
+    "user_queries": [
+      "What is electronic service provider must provide information?",
+      "How does electronic service provider must provide information work?",
+      "Can you explain electronic service provider must provide information?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

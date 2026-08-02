@@ -23,16 +23,54 @@
       }
     ],
     "authority": "Central Authority",
-    "documents": []
+    "documents": [
+      "order recalling goods or withdrawal of services",
+      "order for reimbursement of prices of goods or services",
+      "order for discontinuation of unfair practices"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S20"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.discontinuation_of_unfair_practices",
+    "alias.investigation_and_order_passing",
+    "alias.opportunity_of_being_heard",
+    "alias.recall_of_goods_or_withdrawal_of_services",
+    "alias.reimbursement_of_prices",
+    "alias.right_to_reimbursement"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "investigation",
+      "order",
+      "passing",
+      "central",
+      "authority",
+      "orders",
+      "violation",
+      "consumer",
+      "rights",
+      "unfair"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority",
+      "Inquiry and Decision",
+      "Investigation and Judgment"
+    ],
+    "user_queries": [
+      "What is central authority must give opportunity of being heard?",
+      "How does central authority must give opportunity of being heard work?",
+      "Can you explain central authority must give opportunity of being heard?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

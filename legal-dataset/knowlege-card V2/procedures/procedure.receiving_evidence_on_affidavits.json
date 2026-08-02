@@ -15,16 +15,49 @@
       }
     ],
     "authority": "District Commission",
-    "documents": []
+    "documents": [
+      "any document or other material object as evidence"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-9"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.discovery_and_production_of_evidence",
+    "alias.district_commission",
+    "alias.district_commission_must_exercise_powers",
+    "alias.issuing_of_commissions",
+    "alias.receiving_evidence_on_affidavits",
+    "alias.requisitioning_of_report"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "receiving",
+      "evidence",
+      "affidavits",
+      "order",
+      "step",
+      "submission",
+      "district",
+      "commission"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government",
+      "affidavit evidence",
+      "evidence by affidavit",
+      "hearing evidence by affidavit",
+      "sworn testimony",
+      "written statements"
+    ],
+    "user_queries": [
+      "What is discovery and production of evidence?",
+      "How does discovery and production of evidence work?",
+      "Can you explain discovery and production of evidence?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

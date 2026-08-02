@@ -19,16 +19,54 @@
       }
     ],
     "authority": "Director-General or such other officer",
-    "documents": []
+    "documents": [
+      "order of seizure",
+      "report of seizure",
+      "record of disposal"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S22-4"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.director_general",
+    "alias.disposal_of_seized_articles_subject_to_decay",
+    "authority.director_general",
+    "intent.director_general",
+    "intent.director_general_2",
+    "intent.director_general_or_officer_must_dispose_of_seized_articles",
+    "intent.disposal_of_seized_articles_subject_to_decay"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "disposal",
+      "seized",
+      "articles",
+      "subject",
+      "decay",
+      "speedy",
+      "natural",
+      "order",
+      "step",
+      "seizure"
+    ],
+    "aliases": [
+      "Chief Director",
+      "DG",
+      "Director General of Consumer Affairs",
+      "Head of Consumer Protection",
+      "Main Official",
+      "destruction of perishable goods",
+      "disposal of spoiling items",
+      "getting rid of decaying products",
+      "removal of seized perishables",
+      "wasting of seized goods"
+    ],
+    "user_queries": [
+      "What is director-general or officer must dispose of seized articles?",
+      "How does director-general or officer must dispose of seized articles work?",
+      "Can you explain director-general or officer must dispose of seized articles?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

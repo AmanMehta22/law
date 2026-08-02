@@ -11,16 +11,52 @@
       }
     ],
     "authority": "District Commission or State Commission or National Commission",
-    "documents": []
+    "documents": [
+      "Save as otherwise provided, the offences under sub-section (1) shall be tried summarily by the District Commission or the State Commission or the National Commission, as the case may be."
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S72-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.national_commission",
+    "alias.state_commission",
+    "alias.trial_of_offences",
+    "authority.district_commission",
+    "authority.national_commission",
+    "authority.state_commission"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "trial",
+      "offences",
+      "sub",
+      "section",
+      "order",
+      "step",
+      "district",
+      "commission",
+      "state",
+      "national"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum",
+      "Court trial for offences",
+      "Criminal trial",
+      "Hearing of offences",
+      "Offence trial"
+    ],
+    "user_queries": [
+      "What is otherwise provided?",
+      "How does otherwise provided work?",
+      "Can you explain otherwise provided?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -43,7 +43,11 @@
       }
     ],
     "authority": "District Commission/ State Commission/ National Commission",
-    "documents": []
+    "documents": [
+      "bill",
+      "cash memo",
+      "receipt for goods sold or services rendered"
+    ]
   },
   "derived_from": [
     "CPA2019-CH5-S79-1",
@@ -51,11 +55,45 @@
     "CPA2019-CH5-S79-3",
     "CPA2019-CH8-S101-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.consumer_mediation_cell",
+    "alias.district_commission",
+    "alias.mediation",
+    "alias.national_commission",
+    "alias.state_commission",
+    "authority.consumer_mediation_cell",
+    "authority.district_commission"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "mediation",
+      "consumer",
+      "disputes",
+      "order",
+      "step",
+      "held",
+      "cell",
+      "referral",
+      "dispute",
+      "district"
+    ],
+    "aliases": [
+      "Consumer Arbitration",
+      "Consumer Mediator",
+      "Dispute Resolution Cell",
+      "Mediation Cell",
+      "ADR",
+      "Alternative Dispute Resolution",
+      "Dispute Mediation",
+      "Mediation Process",
+      "Negotiation",
+      "alternative dispute resolution"
+    ],
+    "user_queries": [
+      "What is district commission references mediation?",
+      "How does district commission references mediation work?",
+      "Can you explain district commission references mediation?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

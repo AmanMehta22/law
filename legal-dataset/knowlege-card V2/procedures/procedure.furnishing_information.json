@@ -11,16 +11,55 @@
       }
     ],
     "authority": "National Commission and State Commission",
-    "documents": []
+    "documents": [
+      "bill",
+      "cash memo",
+      "receipt",
+      "copies or extracts of document, record or article",
+      "annual statement of accounts",
+      "annual report",
+      "other reports and returns"
+    ]
   },
   "derived_from": [
     "CPA2019-CH8-S101-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_to_national_commission",
+    "alias.appeal_to_state_commission",
+    "alias.authentication_of_goods",
+    "alias.deposit_of_amount",
+    "alias.filing_complaint",
+    "alias.furnishing_information",
+    "alias.government_must_make_rules"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "furnishing",
+      "information",
+      "central",
+      "government",
+      "order",
+      "step",
+      "national",
+      "commission",
+      "state"
+    ],
+    "aliases": [
+      "appeal to national commission",
+      "appeal to national consumer commission",
+      "national appeal",
+      "national commission",
+      "national commission appeal",
+      "disclosure of information",
+      "information disclosure",
+      "providing information",
+      "submitting details"
+    ],
+    "user_queries": [
+      "How do I file appeal to national commission?",
+      "What are the steps for appeal to national commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

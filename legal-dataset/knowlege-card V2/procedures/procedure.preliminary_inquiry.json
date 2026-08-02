@@ -15,16 +15,54 @@
       }
     ],
     "authority": "Central Authority",
-    "documents": []
+    "documents": [
+      "information",
+      "complaint",
+      "directions from the Central Government"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S19-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_authority_must_cause_investigation",
+    "alias.central_government",
+    "alias.director_general",
+    "alias.district_collector",
+    "alias.investigation",
+    "alias.preliminary_inquiry"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "preliminary",
+      "inquiry",
+      "conducting",
+      "determine",
+      "there",
+      "exists",
+      "prima",
+      "facie",
+      "case",
+      "violation"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority",
+      "arbitration",
+      "dispute resolution"
+    ],
+    "user_queries": [
+      "What is central authority must cause investigation?",
+      "How does central authority must cause investigation work?",
+      "Can you explain central authority must cause investigation?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -31,17 +31,53 @@
       }
     ],
     "authority": "President",
-    "documents": []
+    "documents": [
+      "reference to the President"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S47-3",
     "CPA2019-CH4-S58-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.president",
+    "alias.president_or_other_members_must_give_opinion_within_a_month",
+    "alias.resolution_of_differing_opinions",
+    "authority.president",
+    "intent.opinion_time_limit",
+    "intent.president",
+    "intent.president_2"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "resolution",
+      "differing",
+      "opinions",
+      "procedure",
+      "resolve",
+      "among",
+      "bench",
+      "members",
+      "order",
+      "step"
+    ],
+    "aliases": [
+      "Chairperson",
+      "Chief of Commission",
+      "Commission President",
+      "Head of Commission",
+      "Leader of the Commission",
+      "conflict resolution",
+      "dispute resolution",
+      "opinion reconciliation",
+      "resolving disagreements",
+      "settling differences"
+    ],
+    "user_queries": [
+      "What is president or other members must give opinion within a month?",
+      "How does president or other members must give opinion within a month work?",
+      "Can you explain president or other members must give opinion within a month?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

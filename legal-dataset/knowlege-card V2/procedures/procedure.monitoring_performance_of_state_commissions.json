@@ -18,18 +18,42 @@
   "derived_from": [
     "CPA2019-CH4-S70-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.district_commission",
+    "alias.investigation_into_allegations_against_state_commission_members",
+    "alias.issuance_of_instructions_for_uniform_procedure",
+    "alias.monitoring_performance_of_state_commissions",
+    "alias.national_commission",
+    "alias.national_commission_must_investigate_allegations_against_state_commission_member"
+  ],
   "search": {
     "keywords": [
       "monitoring",
       "performance",
-      "State Commissions"
+      "State Commissions",
+      "state",
+      "commissions",
+      "national",
+      "commission",
+      "monitors",
+      "order",
+      "step",
+      "calls"
     ],
     "aliases": [
-      "oversight"
+      "oversight",
+      "commission",
+      "monitoring",
+      "performance",
+      "state",
+      "state commission"
     ],
     "user_queries": [
-      "How does National Commission monitor State Commissions"
+      "How does National Commission monitor State Commissions",
+      "What is copies of documents?",
+      "How does copies of documents work?",
+      "Can you explain copies of documents?"
     ]
   },
   "metadata": {

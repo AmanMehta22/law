@@ -15,16 +15,49 @@
       }
     ],
     "authority": "District Commission or State Commission or National Commission",
-    "documents": []
+    "documents": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH5-S81-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.commission_must_hear_consumer_dispute",
+    "alias.district_commission",
+    "alias.hearing_of_consumer_dispute",
+    "alias.national_commission",
+    "alias.state_commission",
+    "authority.district_commission",
+    "authority.national_commission"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "hearing",
+      "consumer",
+      "dispute",
+      "continuation",
+      "district",
+      "commission",
+      "state",
+      "national",
+      "order",
+      "step"
+    ],
+    "aliases": [
+      "District Commission",
+      "National Commission",
+      "State Commission",
+      "consumer case hearing",
+      "consumer dispute hearing",
+      "dispute resolution hearing",
+      "hearing of consumer complaint"
+    ],
+    "user_queries": [
+      "What is commission must hear consumer dispute?",
+      "How does commission must hear consumer dispute work?",
+      "Can you explain commission must hear consumer dispute?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

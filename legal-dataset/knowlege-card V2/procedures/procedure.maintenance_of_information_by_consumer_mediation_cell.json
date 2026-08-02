@@ -11,16 +11,61 @@
       }
     ],
     "authority": "consumer mediation cell",
-    "documents": []
+    "documents": [
+      "maintenance of any other information by the consumer mediation cell under sub-section (4) of section 74",
+      "quarterly report by consumer mediation cell to the District Commission, the State Commission or the National Commission under sub-section (5) of section 74",
+      "the qualifications and experience required for empanelment as mediator",
+      "the procedure for empanelment",
+      "the manner of training empanelled mediators",
+      "the fee payable to empanelled mediator",
+      "the code of conduct for empanelled mediators",
+      "the grounds on which, and the manner in which, empanelled mediators shall be removed or empanelment shall be cancelled",
+      "the other matters relating thereto under sub-section (2) of section 75",
+      "the conditions for re-empanelment of mediators for another term under sub-section (3) of section 75",
+      "the other facts to be disclosed by mediators under clause (c) of section 77",
+      "the time within which, and the manner in which, mediation may be conducted under sub-section (3) of section 79",
+      "such other matter for which provision is to be, or may be, made by regulation"
+    ]
   },
   "derived_from": [
     "CPA2019-CH8-S103-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.adjournment_cost_imposition_by_district_commission",
+    "alias.adjournment_cost_imposition_by_state_or_national_commission",
+    "alias.authority_must_provide_for_re_empanelment_of_mediators",
+    "alias.authority_must_set_qualifications_and_experience_for_empanelment_as_mediator",
+    "alias.conduct_of_mediation",
+    "alias.consumer_mediation_cell",
+    "alias.consumer_mediation_cell_must_maintain_information"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "maintenance",
+      "information",
+      "consumer",
+      "mediation",
+      "cell",
+      "order",
+      "step",
+      "maintains",
+      "sub",
+      "section"
+    ],
+    "aliases": [
+      "adjournment cost",
+      "cost imposition by district commission",
+      "district commission cost",
+      "Consumer Dispute Data Maintenance",
+      "Consumer Mediation Cell Records",
+      "Mediation Cell Documentation",
+      "Mediation Information Management"
+    ],
+    "user_queries": [
+      "What is maintenance of information by consumer mediation cell?",
+      "How does maintenance of information by consumer mediation cell work?",
+      "Can you explain maintenance of information by consumer mediation cell?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

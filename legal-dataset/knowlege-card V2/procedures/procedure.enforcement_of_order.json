@@ -14,17 +14,53 @@
         "step": "Enforcement of order in the same manner as a decree made by a Court in a suit"
       }
     ],
-    "authority": "",
-    "documents": []
+    "authority": "District Commission, State Commission or the National Commission",
+    "documents": [
+      "Order XXI of the First Schedule to the Code of Civil Procedure, 1908"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S71"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.court",
+    "alias.district_commission",
+    "alias.enforcement_of_order",
+    "alias.national_commission",
+    "alias.state_commission",
+    "authority.court",
+    "authority.district_commission"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "enforcement",
+      "order",
+      "made",
+      "district",
+      "commission",
+      "state",
+      "national",
+      "step",
+      "same",
+      "manner"
+    ],
+    "aliases": [
+      "Bench",
+      "Judiciary",
+      "Law Court",
+      "Tribunal",
+      "judicial body",
+      "tribunal",
+      "carrying out the judgment",
+      "execution of order",
+      "implementation of ruling",
+      "order enforcement"
+    ],
+    "user_queries": [
+      "What is commission must enforce order?",
+      "How does commission must enforce order work?",
+      "Can you explain commission must enforce order?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

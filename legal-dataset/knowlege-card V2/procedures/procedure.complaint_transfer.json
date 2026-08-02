@@ -15,16 +15,47 @@
       }
     ],
     "authority": "National Commission",
-    "documents": []
+    "documents": [
+      "application of the complainant",
+      "motion by the National Commission"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S62"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.complaint_transfer",
+    "alias.district_commission",
+    "alias.national_commission",
+    "alias.national_commission_must_consider_transfer_of_complaint",
+    "alias.state_commission",
+    "authority.district_commission",
+    "authority.national_commission"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "complaint",
+      "transfer",
+      "one",
+      "district",
+      "commission",
+      "state",
+      "another",
+      "order",
+      "step",
+      "application"
+    ],
+    "aliases": [
+      "complaint redirection",
+      "complaint relocation",
+      "transfer of case",
+      "transfer of complaint"
+    ],
+    "user_queries": [
+      "What is complaint transfer?",
+      "How does complaint transfer work?",
+      "Can you explain complaint transfer?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

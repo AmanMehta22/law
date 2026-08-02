@@ -35,18 +35,57 @@
       }
     ],
     "authority": "National Commission",
-    "documents": []
+    "documents": [
+      "order passed by the Central Authority under sections 20 and 21",
+      "order made by the District Commission",
+      "order made by the State Commission",
+      "order made by the National Commission"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S24",
     "CPA2019-CH4-S73-1",
     "CPA2019-CH4-S73-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_time_limit",
+    "alias.central_authority",
+    "alias.filing_an_appeal",
+    "alias.national_commission",
+    "alias.right_to_appeal",
+    "authority.central_authority",
+    "authority.national_commission"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "filing",
+      "appeal",
+      "against",
+      "order",
+      "passed",
+      "central",
+      "authority",
+      "step",
+      "receipt",
+      "sections"
+    ],
+    "aliases": [
+      "appeal deadline",
+      "filing appeal",
+      "opposite party response",
+      "time limit for appeal",
+      "time limit for application",
+      "time to respond",
+      "appealing a decision",
+      "challenging a ruling",
+      "filing an appeal petition",
+      "making an appeal"
+    ],
+    "user_queries": [
+      "What is appeal time limit?",
+      "How does appeal time limit work?",
+      "Can you explain appeal time limit?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -22,17 +22,51 @@
         "step": "Return of the seized or produced documents, records or articles to the person from whom they were seized or who produced them within twenty days of seizure or production"
       }
     ],
-    "authority": "",
-    "documents": []
+    "authority": "Not specified in the Act",
+    "documents": [
+      "document",
+      "record",
+      "article"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S22-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.return_of_seized_documents",
+    "alias.return_of_seized_or_produced_documents_records_or_articles",
+    "alias.right_to_return_of_seized_or_produced_documents",
+    "evidence.copies_of_documents_records_or_articles_extracts_therefrom",
+    "intent.copies_of_documents_records_or_articles",
+    "intent.mediation_references_return_of_seized_documents",
+    "intent.return_of_seized_documents"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "return",
+      "seized",
+      "documents",
+      "produced",
+      "records",
+      "articles",
+      "order",
+      "step",
+      "seizure",
+      "production"
+    ],
+    "aliases": [
+      "document return",
+      "giving back seized files",
+      "release of seized papers",
+      "restoration of documents",
+      "restoring seized documents",
+      "return of confiscated documents"
+    ],
+    "user_queries": [
+      "What is copies of documents, records or articles?",
+      "How does copies of documents, records or articles work?",
+      "Can you explain copies of documents, records or articles?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

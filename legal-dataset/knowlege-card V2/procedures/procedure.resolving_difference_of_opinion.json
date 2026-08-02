@@ -23,16 +23,52 @@
       }
     ],
     "authority": "District Commission",
-    "documents": []
+    "documents": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S39-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.member_must_give_opinion_within_a_month",
+    "alias.resolving_difference_of_opinion",
+    "authority.district_commission",
+    "exception.the_other_member_shall_give_his_opinion_on_such_point_or_poi",
+    "intent.district_commission",
+    "intent.district_commission_2"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "resolving",
+      "difference",
+      "opinion",
+      "procedure",
+      "among",
+      "members",
+      "district",
+      "commission",
+      "order",
+      "step"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum",
+      "difference of opinion resolution",
+      "disagreement resolution",
+      "opinion reconciliation process",
+      "resolving conflicts"
+    ],
+    "user_queries": [
+      "What is member must give opinion within a month?",
+      "How does member must give opinion within a month work?",
+      "Can you explain member must give opinion within a month?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

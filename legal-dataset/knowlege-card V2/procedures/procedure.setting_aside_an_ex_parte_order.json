@@ -15,16 +15,52 @@
       }
     ],
     "authority": "National Commission",
-    "documents": []
+    "documents": [
+      "application to the Commission"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S61"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.national_commission",
+    "alias.setting_aside_an_ex_parte_order",
+    "alias.setting_aside_of_ex_parte_order",
+    "authority.national_commission",
+    "intent.national_commission",
+    "intent.national_commission_2",
+    "intent.setting_aside_an_ex_parte_order"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "setting",
+      "aside",
+      "parte",
+      "order",
+      "application",
+      "set",
+      "passed",
+      "national",
+      "commission",
+      "step"
+    ],
+    "aliases": [
+      "Central Commission",
+      "Central Consumer Protection Council",
+      "NCDRC",
+      "National Consumer Commission",
+      "National Consumer Disputes Redressal Commission",
+      "National Consumer Protection Agency",
+      "Cancellation of ex parte order",
+      "Ex parte order reversal",
+      "Overturning an ex parte order",
+      "Recall of ex parte order"
+    ],
+    "user_queries": [
+      "What is setting aside an ex parte order?",
+      "How does setting aside an ex parte order work?",
+      "Can you explain setting aside an ex parte order?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

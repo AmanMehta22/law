@@ -19,17 +19,49 @@
       }
     ],
     "authority": "Court",
-    "documents": []
+    "documents": [
+      "court leave",
+      "complaint under section 92",
+      "payment receipt"
+    ]
   },
   "derived_from": [
     "CPA2019-CH8-S96-1",
     "CPA2019-CH8-S96-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.compounding_of_offence",
+    "alias.court",
+    "authority.court",
+    "intent.compounding_of_offence",
+    "intent.compounding_of_offence_3",
+    "intent.compounding_of_offence_5",
+    "intent.compounding_of_offence_handled_by_court"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "compounding",
+      "offence",
+      "punishable",
+      "sections",
+      "order",
+      "step",
+      "payment",
+      "prescribed",
+      "amount",
+      "leave"
+    ],
+    "aliases": [
+      "compromise on penalty",
+      "offence compounding",
+      "penalty waiver",
+      "settlement of offence"
+    ],
+    "user_queries": [
+      "What is compounding of offence?",
+      "How does compounding of offence work?",
+      "Can you explain compounding of offence?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

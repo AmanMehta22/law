@@ -23,16 +23,56 @@
       }
     ],
     "authority": "National Commission",
-    "documents": []
+    "documents": [
+      "complaints where the value of the goods or services paid as consideration exceeds rupees ten crore",
+      "complaints against unfair contracts, where the value of goods or services paid as consideration exceeds ten crore rupees",
+      "appeals against the orders of any State Commission",
+      "appeals against the orders of the Central Authority",
+      "records of any consumer dispute pending before or decided by any State Commission"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S58-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.filing_of_complaints_and_appeals_with_the_national_commission",
+    "alias.national_commission",
+    "alias.review_of_state_commission_decisions",
+    "alias.right_to_appeal",
+    "alias.state_commission"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "filing",
+      "complaints",
+      "appeals",
+      "national",
+      "commission",
+      "entertains",
+      "certain",
+      "conditions",
+      "order",
+      "step"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority",
+      "complaint to national consumer commission",
+      "filing appeal with national commission"
+    ],
+    "user_queries": [
+      "What is central government discretion on value?",
+      "How does central government discretion on value work?",
+      "Can you explain central government discretion on value?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

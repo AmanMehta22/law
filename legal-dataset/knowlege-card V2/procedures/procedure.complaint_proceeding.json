@@ -15,16 +15,46 @@
       }
     ],
     "authority": "District Commission",
-    "documents": []
+    "documents": [
+      "complaint"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.complaint_proceeding",
+    "alias.district_commission",
+    "authority.district_commission",
+    "intent.complaint_proceeding",
+    "intent.complaint_proceeding_2",
+    "intent.complaint_proceeding_handled_by_commission",
+    "intent.complaint_proceeding_handled_by_district_commission"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "complaint",
+      "proceeding",
+      "district",
+      "commission",
+      "admission",
+      "failure",
+      "settlement",
+      "mediation",
+      "order",
+      "step"
+    ],
+    "aliases": [
+      "complaint adjudication",
+      "complaint hearing",
+      "complaint proceedings",
+      "complaint trial"
+    ],
+    "user_queries": [
+      "What is complaint proceeding?",
+      "How does complaint proceeding work?",
+      "Can you explain complaint proceeding?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

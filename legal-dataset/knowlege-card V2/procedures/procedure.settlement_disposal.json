@@ -26,11 +26,42 @@
   "derived_from": [
     "CPA2019-CH5-S81-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.commission_must_pass_order_and_dispose_of_matter",
+    "alias.district_commission",
+    "alias.national_commission",
+    "alias.settlement_disposal",
+    "alias.state_commission",
+    "authority.district_commission",
+    "authority.national_commission"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "settlement",
+      "disposal",
+      "consumer",
+      "dispute",
+      "after",
+      "report",
+      "order",
+      "step",
+      "receipt",
+      "district"
+    ],
+    "aliases": [
+      "consumer complaint",
+      "dispute resolution",
+      "Case settlement disposal",
+      "Disposal of settlement",
+      "Disposing of a settlement",
+      "Finalizing a settlement",
+      "Settlement resolution"
+    ],
+    "user_queries": [
+      "What is commission must pass order and dispose of matter?",
+      "How does commission must pass order and dispose of matter work?",
+      "Can you explain commission must pass order and dispose of matter?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

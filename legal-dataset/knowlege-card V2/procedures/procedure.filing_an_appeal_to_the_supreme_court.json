@@ -31,11 +31,45 @@
   "derived_from": [
     "CPA2019-CH4-S67"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_time_limit",
+    "alias.filing_an_appeal_to_the_supreme_court",
+    "alias.national_commission",
+    "alias.proof_of_sufficient_cause",
+    "alias.right_to_appeal",
+    "alias.supreme_court",
+    "authority.national_commission"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "filing",
+      "appeal",
+      "supreme",
+      "court",
+      "against",
+      "order",
+      "made",
+      "national",
+      "commission",
+      "step"
+    ],
+    "aliases": [
+      "appeal deadline",
+      "filing appeal",
+      "opposite party response",
+      "time limit for appeal",
+      "time limit for application",
+      "time to respond",
+      "appealing to supreme court",
+      "filing appeal with supreme court",
+      "petitioning supreme court",
+      "submitting appeal to supreme court"
+    ],
+    "user_queries": [
+      "What is filing an appeal to the supreme court?",
+      "How does filing an appeal to the supreme court work?",
+      "Can you explain filing an appeal to the supreme court?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

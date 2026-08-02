@@ -11,16 +11,51 @@
       }
     ],
     "authority": "Central Authority or any officer authorised by it",
-    "documents": []
+    "documents": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH7-S92"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.filing_of_complaint",
+    "authority.central_authority",
+    "exception.except_on_a_complaint_filed_by_the_central_authority_or_any_",
+    "intent.central_authority",
+    "intent.central_authority_2",
+    "intent.central_authority_must_file_a_complaint"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "filing",
+      "complaint",
+      "central",
+      "authority",
+      "officer",
+      "authorised",
+      "order",
+      "step",
+      "files"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority",
+      "complaint registration",
+      "complaint submission process"
+    ],
+    "user_queries": [
+      "What is central authority must file a complaint?",
+      "How does central authority must file a complaint work?",
+      "Can you explain central authority must file a complaint?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

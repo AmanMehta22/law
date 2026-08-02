@@ -19,16 +19,54 @@
       }
     ],
     "authority": "Central Authority",
-    "documents": []
+    "documents": [
+      "complaints",
+      "safety notices",
+      "guidelines"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S18-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.advising_on_consumer_welfare_measures",
+    "alias.awareness_on_consumer_rights",
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.cooperation_with_non_governmental_organisations",
+    "alias.district_commission",
+    "alias.filing_complaints"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "research",
+      "consumer",
+      "rights",
+      "undertake",
+      "promote",
+      "field",
+      "order",
+      "step",
+      "identify",
+      "areas"
+    ],
+    "aliases": [
+      "advice on consumer welfare",
+      "advising on consumer welfare",
+      "consumer rights guidance",
+      "consumer welfare advice",
+      "consumer welfare measures",
+      "analysis of consumer rights",
+      "consumer law research",
+      "consumer protection research",
+      "consumer rights study",
+      "investigating consumer rights"
+    ],
+    "user_queries": [
+      "What is research in consumer rights?",
+      "How does research in consumer rights work?",
+      "Can you explain research in consumer rights?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -23,16 +23,48 @@
       }
     ],
     "authority": "District Commission or State Commission or National Commission",
-    "documents": []
+    "documents": [
+      "information furnished by the mediator",
+      "information received from any other person including parties to the complaint"
+    ]
   },
   "derived_from": [
     "CPA2019-CH5-S78"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.replacement_of_mediator",
+    "intent.replacement_of_mediator",
+    "intent.replacement_of_mediator_2",
+    "intent.replacement_of_mediator_handled_by_commission",
+    "intent.replacement_of_mediator_handled_by_district_commission",
+    "intent.replacement_of_mediator_handled_by_national_commission",
+    "intent.replacement_of_mediator_handled_by_state_commission"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "replacement",
+      "mediator",
+      "district",
+      "commission",
+      "state",
+      "national",
+      "order",
+      "step",
+      "receives",
+      "information"
+    ],
+    "aliases": [
+      "appointing a new mediator",
+      "change of mediator",
+      "mediator replacement process",
+      "mediator substitution",
+      "new mediator appointment"
+    ],
+    "user_queries": [
+      "What is replacement of mediator?",
+      "How does replacement of mediator work?",
+      "Can you explain replacement of mediator?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

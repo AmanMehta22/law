@@ -32,11 +32,41 @@
   "derived_from": [
     "CPA2019-CH4-S41"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.delayed_appeal",
+    "alias.deposit_for_appeal",
+    "alias.filing_an_appeal_to_the_state_commission",
+    "alias.no_appeal_from_mediated_settlement",
+    "alias.proof_of_sufficient_cause",
+    "evidence.deposit_receipt",
+    "evidence.written_explanation"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "filing",
+      "appeal",
+      "state",
+      "commission",
+      "against",
+      "order",
+      "district",
+      "step",
+      "person",
+      "aggrieved"
+    ],
+    "aliases": [
+      "late appeal",
+      "appealing to state commission",
+      "filing appeal with state commission",
+      "petitioning state commission",
+      "state commission appeal",
+      "submitting appeal to state commission"
+    ],
+    "user_queries": [
+      "What is delayed appeal?",
+      "How does delayed appeal work?",
+      "Can you explain delayed appeal?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

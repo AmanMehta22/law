@@ -18,17 +18,41 @@
   "derived_from": [
     "CPA2019-CH4-S70-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.district_commission",
+    "alias.investigation_into_allegations_against_state_commission_members",
+    "alias.issuance_of_instructions_for_uniform_procedure",
+    "alias.monitoring_performance_of_state_commissions",
+    "alias.national_commission",
+    "alias.national_commission_must_investigate_allegations_against_state_commission_member"
+  ],
   "search": {
     "keywords": [
       "uniform procedure",
-      "instructions"
+      "instructions",
+      "issuance",
+      "uniform",
+      "procedure",
+      "national",
+      "commission",
+      "issues",
+      "hearing",
+      "matters",
+      "order"
     ],
     "aliases": [
-      "guidelines"
+      "guidelines",
+      "Instruction for Consistent Practice",
+      "Procedure Standardization Order",
+      "Standard Operating Procedure Directive",
+      "Uniform Procedure Guidelines"
     ],
     "user_queries": [
-      "What instructions does National Commission issue for uniform procedure"
+      "What instructions does National Commission issue for uniform procedure",
+      "What is copies of documents?",
+      "How does copies of documents work?",
+      "Can you explain copies of documents?"
     ]
   },
   "metadata": {

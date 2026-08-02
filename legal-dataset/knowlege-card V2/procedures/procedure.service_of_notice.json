@@ -48,20 +48,44 @@
     "CPA2019-CH4-S65-1",
     "CPA2019-CH4-S65-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.national_commission",
+    "alias.service_of_notice",
+    "alias.serving_notices",
+    "alias.state_commission",
+    "authority.district_commission",
+    "authority.national_commission"
+  ],
   "search": {
     "keywords": [
       "notice",
       "service",
       "delivery",
-      "transmission"
+      "transmission",
+      "notices",
+      "required",
+      "act",
+      "order",
+      "step",
+      "delivering",
+      "copy",
+      "opposite"
     ],
     "aliases": [
       "serving a notice",
-      "giving notice"
+      "giving notice",
+      "Delivery of notice",
+      "Issuance of notice",
+      "Notice serving",
+      "Notification serving",
+      "Serving a notice"
     ],
     "user_queries": [
-      "how to serve a notice under the Consumer Protection Act"
+      "how to serve a notice under the Consumer Protection Act",
+      "What is acknowledgment?",
+      "How does acknowledgment work?",
+      "Can you explain acknowledgment?"
     ]
   },
   "metadata": {

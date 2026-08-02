@@ -23,26 +23,54 @@
       }
     ],
     "authority": "State Commission or the National Commission",
-    "documents": []
+    "documents": [
+      "reasons for grant of adjournment",
+      "orders as to the costs occasioned by the adjournment",
+      "reasons for disposal of appeal after specified period"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S52"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.adjournment_exception",
+    "alias.appeal_hearing",
+    "alias.national_commission",
+    "alias.right_to_expedient_hearing_of_appeal",
+    "alias.state_commission",
+    "authority.national_commission",
+    "authority.state_commission"
+  ],
   "search": {
     "keywords": [
       "appeal",
       "hearing",
       "State Commission",
-      "National Commission"
+      "National Commission",
+      "before",
+      "state",
+      "commission",
+      "national",
+      "order",
+      "step",
+      "filing",
+      "admission"
     ],
     "aliases": [
       "appeal procedure",
-      "hearing of appeal"
+      "hearing of appeal",
+      "appeal hearing",
+      "appeal hearing procedure",
+      "appeal to national commission",
+      "appeal to state commission",
+      "hearing for appeal"
     ],
     "user_queries": [
       "How to appeal to State Commission",
-      "What is the procedure for appeal to National Commission"
+      "What is the procedure for appeal to National Commission",
+      "What is adjournment exception?",
+      "How does adjournment exception work?",
+      "Can you explain adjournment exception?"
     ]
   },
   "metadata": {

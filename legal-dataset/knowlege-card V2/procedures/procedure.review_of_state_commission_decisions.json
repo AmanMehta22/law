@@ -19,16 +19,54 @@
       }
     ],
     "authority": "National Commission",
-    "documents": []
+    "documents": [
+      "The National Commission calls for records of a consumer dispute pending before or decided by any State Commission",
+      "The National Commission reviews the decision to check if the State Commission exercised jurisdiction not vested in it, failed to exercise jurisdiction, or acted illegally or with material irregularity",
+      "The National Commission passes appropriate orders"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S58-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.filing_of_complaints_and_appeals_with_the_national_commission",
+    "alias.national_commission",
+    "alias.review_of_state_commission_decisions",
+    "alias.right_to_appeal",
+    "alias.state_commission"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "review",
+      "state",
+      "commission",
+      "decisions",
+      "national",
+      "reviews",
+      "commissions",
+      "order",
+      "step",
+      "calls"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority",
+      "Appeal against State Commission",
+      "Challenging State Commission decisions"
+    ],
+    "user_queries": [
+      "What is central government discretion on value?",
+      "How does central government discretion on value work?",
+      "Can you explain central government discretion on value?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

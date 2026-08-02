@@ -15,16 +15,53 @@
       }
     ],
     "authority": "Central Authority",
-    "documents": []
+    "documents": [
+      "international covenants",
+      "best international practices on consumer rights"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S18-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.advising_on_consumer_welfare_measures",
+    "alias.awareness_on_consumer_rights",
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.cooperation_with_non_governmental_organisations",
+    "alias.district_commission",
+    "alias.filing_complaints"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "recommendation",
+      "international",
+      "covenants",
+      "recommend",
+      "adoption",
+      "best",
+      "practices",
+      "consumer",
+      "rights",
+      "order"
+    ],
+    "aliases": [
+      "advice on consumer welfare",
+      "advising on consumer welfare",
+      "consumer rights guidance",
+      "consumer welfare advice",
+      "consumer welfare measures",
+      "UN guideline proposals",
+      "covenant recommendations",
+      "global agreement suggestions",
+      "global pact advice",
+      "international treaty proposals"
+    ],
+    "user_queries": [
+      "What is recommendation of international covenants?",
+      "How does recommendation of international covenants work?",
+      "Can you explain recommendation of international covenants?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

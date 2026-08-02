@@ -15,16 +15,52 @@
       }
     ],
     "authority": "Central Authority",
-    "documents": []
+    "documents": [
+      "file complaints before the District Commission, the State Commission or the National Commission, as the case may be, under this Act",
+      "intervene in any proceedings before the District Commission or the State Commission or the National Commission, as the case may be, in respect of any allegation of violation of consumer rights or unfair trade practices"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S18-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.advising_on_consumer_welfare_measures",
+    "alias.awareness_on_consumer_rights",
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.cooperation_with_non_governmental_organisations",
+    "alias.district_commission",
+    "alias.filing_complaints"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "intervention",
+      "proceedings",
+      "intervene",
+      "before",
+      "district",
+      "commission",
+      "state",
+      "national",
+      "order",
+      "step"
+    ],
+    "aliases": [
+      "advice on consumer welfare",
+      "advising on consumer welfare",
+      "consumer rights guidance",
+      "consumer welfare advice",
+      "consumer welfare measures",
+      "amicus curiae",
+      "intervening in a case",
+      "intervention in a hearing",
+      "joining a lawsuit"
+    ],
+    "user_queries": [
+      "What is intervention in proceedings?",
+      "How does intervention in proceedings work?",
+      "Can you explain intervention in proceedings?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

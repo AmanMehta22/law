@@ -23,17 +23,56 @@
       }
     ],
     "authority": "District Collector",
-    "documents": []
+    "documents": [
+      "complaint",
+      "reference",
+      "report",
+      "directions from the Central Government"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S16",
     "CPA2019-CH3-S18-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.commissioner_of_a_regional_office",
+    "alias.district_collector",
+    "alias.district_collector_must_inquire_and_report",
+    "alias.inquiry_or_investigation",
+    "authority.central_authority",
+    "authority.commissioner_of_a_regional_office"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "inquiry",
+      "investigation",
+      "into",
+      "complaints",
+      "regarding",
+      "violation",
+      "rights",
+      "consumers",
+      "class",
+      "order"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority",
+      "fact-finding mission",
+      "inquiry procedure"
+    ],
+    "user_queries": [
+      "What is commissioner of a regional office?",
+      "How does commissioner of a regional office work?",
+      "Can you explain commissioner of a regional office?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

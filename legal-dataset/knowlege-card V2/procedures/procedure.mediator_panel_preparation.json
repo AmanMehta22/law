@@ -19,16 +19,56 @@
       }
     ],
     "authority": "National Commission or the State Commission or the District Commission",
-    "documents": []
+    "documents": [
+      "National Commission or the State Commission or the District Commission",
+      "consumer mediation cell",
+      "mediator panel preparation",
+      "selection committee consisting of the President and a member of that Commission",
+      "recommendation by the selection committee",
+      "preparation of a panel of mediators by the National Commission or the State Commission or the District Commission"
+    ]
   },
   "derived_from": [
     "CPA2019-CH5-S75-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.consumer_mediation_cell",
+    "alias.district_commission",
+    "alias.mediator_panel_preparation",
+    "alias.national_commission",
+    "alias.selection_committee",
+    "alias.state_commission",
+    "authority.consumer_mediation_cell"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "mediator",
+      "panel",
+      "preparation",
+      "mediators",
+      "consumer",
+      "mediation",
+      "order",
+      "step",
+      "constitution",
+      "selection"
+    ],
+    "aliases": [
+      "Consumer Arbitration",
+      "Consumer Mediator",
+      "Dispute Resolution Cell",
+      "Mediation Cell",
+      "arbitration",
+      "dispute resolution",
+      "mediation panel",
+      "mediator panel",
+      "mediators"
+    ],
+    "user_queries": [
+      "What is commission must prepare a panel of mediators?",
+      "How does commission must prepare a panel of mediators work?",
+      "Can you explain commission must prepare a panel of mediators?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

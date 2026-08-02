@@ -27,17 +27,53 @@
       }
     ],
     "authority": "National Commission",
-    "documents": []
+    "documents": [
+      "order passed in appeal by any State Commission",
+      "order passed ex parte by the State Commission"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S51-2",
     "CPA2019-CH4-S51-5"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_to_national_commission",
+    "alias.filing_an_appeal_to_the_national_commission",
+    "alias.national_commission_must_hear_appeal",
+    "alias.right_to_appeal",
+    "exception.save_as_otherwise_expressly_provided_under_this_act_or_by_an",
+    "intent.appeal_to_national_commission",
+    "intent.appeal_to_national_commission_2"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "filing",
+      "appeal",
+      "national",
+      "commission",
+      "state",
+      "order",
+      "step",
+      "passed",
+      "satisfied",
+      "case"
+    ],
+    "aliases": [
+      "appeal to national commission",
+      "appeal to national consumer commission",
+      "national appeal",
+      "national commission",
+      "national commission appeal",
+      "appealing to national commission",
+      "filing appeal with national commission",
+      "petitioning national commission",
+      "submitting appeal to national commission"
+    ],
+    "user_queries": [
+      "What is appeal to national commission?",
+      "How does appeal to national commission work?",
+      "Can you explain appeal to national commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

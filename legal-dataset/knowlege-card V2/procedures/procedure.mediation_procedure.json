@@ -23,16 +23,51 @@
       }
     ],
     "authority": "Mediator",
-    "documents": []
+    "documents": [
+      "mediator's report"
+    ]
   },
   "derived_from": [
     "CPA2019-CH5-S80-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.commission",
+    "alias.mediation_procedure",
+    "alias.mediator_must_prepare_and_submit_report",
+    "authority.commission",
+    "intent.commission",
+    "intent.commission_2",
+    "intent.mediation_procedure"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "mediation",
+      "procedure",
+      "mediator",
+      "report",
+      "submission",
+      "after",
+      "unsuccessful",
+      "order",
+      "step",
+      "between"
+    ],
+    "aliases": [
+      "Consumer Commission",
+      "Consumer Court",
+      "Court",
+      "Tribunal",
+      "arbitration",
+      "conciliation",
+      "dispute resolution",
+      "mediation",
+      "mediation process"
+    ],
+    "user_queries": [
+      "What is mediation procedure?",
+      "How does mediation procedure work?",
+      "Can you explain mediation procedure?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

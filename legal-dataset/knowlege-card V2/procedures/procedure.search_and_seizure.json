@@ -10,17 +10,44 @@
         "step": "Conduct search and seizure under this Act"
       }
     ],
-    "authority": "",
-    "documents": []
+    "authority": "Code of Criminal Procedure, 1973",
+    "documents": [
+      "Code of Criminal Procedure, 1973"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S22-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.search_and_seizure",
+    "intent.search_and_seizure",
+    "intent.search_and_seizure_2"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "search",
+      "seizure",
+      "application",
+      "code",
+      "criminal",
+      "procedure",
+      "provisions",
+      "order",
+      "step",
+      "conduct"
+    ],
+    "aliases": [
+      "Forced entry and search",
+      "Inspection and seizure",
+      "Raid and seizure",
+      "Search warrant",
+      "Seizure of goods"
+    ],
+    "user_queries": [
+      "What is search and seizure?",
+      "How does search and seizure work?",
+      "Can you explain search and seizure?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

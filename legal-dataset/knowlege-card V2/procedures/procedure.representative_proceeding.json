@@ -15,16 +15,55 @@
       }
     ],
     "authority": "District Commission",
-    "documents": []
+    "documents": [
+      "Code of Civil Procedure, 1908",
+      "Order I Rule 8 of the First Schedule to the Code of Civil Procedure, 1908 with modifications",
+      "Complaint or the order of the District Commission thereon",
+      "Where the complainant is a consumer referred to in sub-clause (v) of clause (5) of section 2, the provisions of Order I Rule 8 of the First Schedule to the Code of Civil Procedure, 1908 shall apply subject to the modification that every reference therein to a suit or decree shall be construed as a reference to a complaint or the order of the District Commission thereon."
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-11"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.representative_proceeding",
+    "authority.district_commission",
+    "exception.subject_to_the_modification_that_every_reference_therein_to_",
+    "intent.application_of_order_i_rule_8",
+    "intent.district_commission",
+    "intent.district_commission_2"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "representative",
+      "proceeding",
+      "procedure",
+      "consumer",
+      "referred",
+      "sub",
+      "clause",
+      "section",
+      "order",
+      "step"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum",
+      "class action",
+      "collective proceeding",
+      "group action",
+      "group lawsuit"
+    ],
+    "user_queries": [
+      "What is application of order i rule 8?",
+      "How does application of order i rule 8 work?",
+      "Can you explain application of order i rule 8?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",
