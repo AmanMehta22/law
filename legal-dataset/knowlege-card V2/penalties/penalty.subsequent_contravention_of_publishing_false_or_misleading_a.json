@@ -6,7 +6,7 @@
   "content": {
     "offence": "Subsequent contravention of publishing false or misleading advertisement",
     "punishment": "fine",
-    "minimum": "fifty lakh rupees",
+    "minimum": "Not specified in the Act",
     "maximum": "fifty lakh rupees",
     "applicable_section": "Provided that the Central Authority may, for every subsequent contravention by a manufacturer or endorser, impose a penalty, which may extend to fifty lakh rupees"
   },
@@ -53,10 +53,10 @@
     "jurisdiction": "India",
     "act": "Consumer Protection Act, 2019",
     "language": "en",
-    "review_status": "draft",
-    "confidence": 0.0,
+    "review_status": "reviewed",
+    "confidence": 0.85,
     "created_by": "PenaltyAgent",
-    "reviewed_by": null,
+    "reviewed_by": "v2-review-llm-70b-2026-08-02",
     "version": 1
   }
 }
