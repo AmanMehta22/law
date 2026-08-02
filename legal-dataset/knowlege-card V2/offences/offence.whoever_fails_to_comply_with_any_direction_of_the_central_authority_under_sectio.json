@@ -11,11 +11,45 @@
   "derived_from": [
     "CPA2019-CH7-S88"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "authority.central_authority",
+    "intent.central_authority",
+    "intent.central_authority_2",
+    "intent.court_references_central_authority",
+    "intent.non_compliance_with_central_authority_direction",
+    "intent.punishment_for_non_compliance_with_direction_of_central_authority_2"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "non",
+      "compliance",
+      "central",
+      "authority",
+      "direction",
+      "failure",
+      "comply",
+      "sections",
+      "whoever",
+      "fails"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority",
+      "disobeying central authority",
+      "failing to comply with central authority"
+    ],
+    "user_queries": [
+      "What is non-compliance with central authority direction?",
+      "How does non-compliance with central authority direction work?",
+      "Can you explain non-compliance with central authority direction?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

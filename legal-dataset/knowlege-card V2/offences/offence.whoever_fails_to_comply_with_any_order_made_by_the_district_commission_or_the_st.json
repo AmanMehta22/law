@@ -11,11 +11,45 @@
   "derived_from": [
     "CPA2019-CH4-S72-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.national_commission",
+    "alias.state_commission",
+    "authority.district_commission",
+    "authority.national_commission",
+    "authority.state_commission",
+    "intent.district_commission"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "non",
+      "compliance",
+      "commission",
+      "orders",
+      "failure",
+      "comply",
+      "made",
+      "district",
+      "state",
+      "national"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum",
+      "disobeying commission",
+      "failing to comply with commission",
+      "ignoring commission directives",
+      "non-compliance with regulatory orders"
+    ],
+    "user_queries": [
+      "What is non-compliance with commission orders?",
+      "How does non-compliance with commission orders work?",
+      "Can you explain non-compliance with commission orders?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

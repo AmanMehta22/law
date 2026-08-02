@@ -11,11 +11,42 @@
   "derived_from": [
     "CPA2019-CH7-S89"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.misleading_advertisement",
+    "intent.central_authority_references_misleading_advertisement",
+    "intent.court_references_misleading_advertisement",
+    "intent.misleading_advertisement",
+    "intent.misleading_advertisement_4",
+    "intent.penalty_for_false_or_misleading_advertisement_2",
+    "intent.penalty_for_false_or_misleading_advertisement_applies_to_misleading_advertisemen"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "misleading",
+      "advertisement",
+      "manufacturer",
+      "service",
+      "provider",
+      "who",
+      "makes",
+      "causes",
+      "false",
+      "made"
+    ],
+    "aliases": [
+      "Deceptive Advertising",
+      "False Ad",
+      "Fraudulent Claim",
+      "Misleading Promo",
+      "Untrue Advertisement",
+      "deceptive advertising",
+      "false ad"
+    ],
+    "user_queries": [
+      "What is central authority references misleading advertisement?",
+      "How does central authority references misleading advertisement work?",
+      "Can you explain central authority references misleading advertisement?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

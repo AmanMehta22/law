@@ -11,11 +11,38 @@
   "derived_from": [
     "CPA2019-CH7-S91-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "intent.manufacturing_storing_selling_distributing_or_importing_spurious_goods_causing_g",
+    "intent.manufacturing_storing_selling_distributing_or_importing_spurious_goods_causing_i",
+    "intent.manufacturing_storing_selling_distributing_or_importing_spurious_goods_resulting",
+    "offence.manufactures_for_sale_or_stores_or_sells_or_distributes_or_imports_any_spurious_",
+    "offence.manufactures_for_sale_or_stores_or_sells_or_distributes_or_imports_any_spur_2"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "manufacturing",
+      "storing",
+      "selling",
+      "distributing",
+      "importing",
+      "spurious",
+      "goods",
+      "resulting",
+      "death",
+      "consumer"
+    ],
+    "aliases": [
+      "counterfeit goods resulting in death",
+      "fake products leading to fatality",
+      "harmful fake products causing death",
+      "spurious goods causing death",
+      "spurious goods resulting in fatal injury"
+    ],
+    "user_queries": [
+      "What is manufacturing, storing, selling, distributing or importing spurious goods causing grievous hurt?",
+      "How does manufacturing, storing, selling, distributing or importing spurious goods causing grievous hurt work?",
+      "Can you explain manufacturing, storing, selling, distributing or importing spurious goods causing grievous hurt?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

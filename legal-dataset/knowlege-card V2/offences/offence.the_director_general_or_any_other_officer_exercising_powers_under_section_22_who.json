@@ -11,11 +11,44 @@
   "derived_from": [
     "CPA2019-CH7-S93"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.director_general",
+    "alias.penalty_for_unauthorized_search_or_seizure",
+    "authority.director_general",
+    "intent.director_general",
+    "intent.director_general_2",
+    "intent.penalty_for_unauthorized_search_or_seizure",
+    "intent.penalty_for_unauthorized_search_or_seizure_3"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "unlawful",
+      "search",
+      "seizure",
+      "without",
+      "reasonable",
+      "grounds",
+      "director",
+      "general",
+      "other",
+      "officer"
+    ],
+    "aliases": [
+      "Chief Director",
+      "DG",
+      "Director General of Consumer Affairs",
+      "Head of Consumer Protection",
+      "Main Official",
+      "illegal search",
+      "illegal seizure of property",
+      "unauthorized seizure",
+      "wrongful search and seizure"
+    ],
+    "user_queries": [
+      "What is unlawful search or seizure?",
+      "How does unlawful search or seizure work?",
+      "Can you explain unlawful search or seizure?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",
