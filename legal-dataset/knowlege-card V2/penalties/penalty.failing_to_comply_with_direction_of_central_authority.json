@@ -6,18 +6,52 @@
   "content": {
     "offence": "Failing to comply with direction of Central Authority",
     "punishment": "imprisonment or fine or both",
-    "minimum": "",
+    "minimum": "Not specified in the Act",
     "maximum": "six months or twenty lakh rupees",
     "applicable_section": "sections 20 and 21"
   },
   "derived_from": [
     "CPA2019-CH7-S88"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "authority.central_authority",
+    "intent.central_authority",
+    "intent.central_authority_2",
+    "intent.court_references_central_authority",
+    "intent.non_compliance_with_central_authority_direction",
+    "intent.punishment_for_non_compliance_with_direction_of_central_authority_2"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "punishment",
+      "non",
+      "compliance",
+      "direction",
+      "central",
+      "authority",
+      "failing",
+      "comply",
+      "sections",
+      "imprisonment"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority",
+      "consequences of non-compliance with central government",
+      "fine for non-compliance with central authority"
+    ],
+    "user_queries": [
+      "What is punishment for non-compliance with direction of central authority?",
+      "How does punishment for non-compliance with direction of central authority work?",
+      "Can you explain punishment for non-compliance with direction of central authority?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

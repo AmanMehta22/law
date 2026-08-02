@@ -6,18 +6,52 @@
   "content": {
     "offence": "Subsequent publishing of false or misleading advertisement",
     "punishment": "imprisonment and fine",
-    "minimum": "",
+    "minimum": "two years",
     "maximum": "five years imprisonment and fifty lakh rupees fine",
     "applicable_section": "section not specified"
   },
   "derived_from": [
     "CPA2019-CH7-S89"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.misleading_advertisement",
+    "intent.central_authority_references_misleading_advertisement",
+    "intent.court_references_misleading_advertisement",
+    "intent.misleading_advertisement",
+    "intent.misleading_advertisement_4",
+    "intent.penalty_for_false_or_misleading_advertisement_2",
+    "intent.penalty_for_false_or_misleading_advertisement_applies_to_misleading_advertisemen"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "penalty",
+      "subsequent",
+      "false",
+      "misleading",
+      "advertisement",
+      "punishment",
+      "publishing",
+      "imprisonment",
+      "fine",
+      "five"
+    ],
+    "aliases": [
+      "Deceptive Advertising",
+      "False Ad",
+      "Fraudulent Claim",
+      "Misleading Promo",
+      "Untrue Advertisement",
+      "deceptive advertising",
+      "false ad",
+      "repeat misleading ad fine",
+      "second false ad penalty",
+      "subsequent deceptive advertising penalty"
+    ],
+    "user_queries": [
+      "What is penalty for subsequent false or misleading advertisement?",
+      "How does penalty for subsequent false or misleading advertisement work?",
+      "Can you explain penalty for subsequent false or misleading advertisement?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

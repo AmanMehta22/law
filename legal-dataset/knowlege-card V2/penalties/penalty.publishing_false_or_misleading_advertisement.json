@@ -6,7 +6,7 @@
   "content": {
     "offence": "Publishing false or misleading advertisement",
     "punishment": "fine",
-    "minimum": "",
+    "minimum": "Not specified in the Act",
     "maximum": "ten lakh rupees",
     "applicable_section": "section not specified"
   },
@@ -14,11 +14,45 @@
     "CPA2019-CH3-S21-2",
     "CPA2019-CH7-S89"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_authority_may_impose_penalty",
+    "alias.subsequent_contravention_penalty",
+    "authority.central_authority",
+    "exception.the_central_authority_may_impose_a_higher_penalty_for_subseq",
+    "intent.central_authority",
+    "intent.central_authority_2"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "penalty",
+      "false",
+      "misleading",
+      "advertisement",
+      "manufacturer",
+      "endorser",
+      "publishing",
+      "fine",
+      "ten",
+      "lakh"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority",
+      "advertisement misconduct penalty",
+      "deceptive advertising penalty"
+    ],
+    "user_queries": [
+      "What is penalty for false or misleading advertisement?",
+      "How does penalty for false or misleading advertisement work?",
+      "Can you explain penalty for false or misleading advertisement?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

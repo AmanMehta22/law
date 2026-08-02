@@ -6,18 +6,46 @@
   "content": {
     "offence": "Offence punishable under sections 88 and 89",
     "punishment": "payment of prescribed amount",
-    "minimum": "",
+    "minimum": "Not specified in the Act",
     "maximum": "maximum amount of the fine under this Act",
     "applicable_section": "sections 88 and 89"
   },
   "derived_from": [
     "CPA2019-CH8-S96-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.compounding_of_offence",
+    "alias.court",
+    "authority.court",
+    "intent.compounding_of_offence",
+    "intent.compounding_of_offence_3",
+    "intent.compounding_of_offence_5",
+    "intent.compounding_of_offence_handled_by_court"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "compounding",
+      "offence",
+      "punishable",
+      "sections",
+      "payment",
+      "prescribed",
+      "amount",
+      "maximum",
+      "fine",
+      "act"
+    ],
+    "aliases": [
+      "compromise on penalty",
+      "offence compounding",
+      "penalty waiver",
+      "settlement of offence"
+    ],
+    "user_queries": [
+      "What is compounding of offence?",
+      "How does compounding of offence work?",
+      "Can you explain compounding of offence?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -6,18 +6,52 @@
   "content": {
     "offence": "Subsequent contravention of publishing false or misleading advertisement",
     "punishment": "fine",
-    "minimum": "",
+    "minimum": "ten lakh rupees",
     "maximum": "fifty lakh rupees",
-    "applicable_section": ""
+    "applicable_section": "Provided that the Central Authority may, for every subsequent contravention by a manufacturer or endorser, impose a penalty, which may extend to fifty lakh rupees"
   },
   "derived_from": [
     "CPA2019-CH3-S21-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_authority_may_impose_penalty",
+    "alias.subsequent_contravention_penalty",
+    "authority.central_authority",
+    "exception.the_central_authority_may_impose_a_higher_penalty_for_subseq",
+    "intent.central_authority",
+    "intent.central_authority_2"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "penalty",
+      "subsequent",
+      "contravention",
+      "false",
+      "misleading",
+      "advertisement",
+      "manufacturer",
+      "endorser",
+      "publishing",
+      "fine"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority",
+      "multiple false advertisement penalty",
+      "repeat false ad penalty"
+    ],
+    "user_queries": [
+      "What is penalty for subsequent contravention of false or misleading advertisement?",
+      "How does penalty for subsequent contravention of false or misleading advertisement work?",
+      "Can you explain penalty for subsequent contravention of false or misleading advertisement?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

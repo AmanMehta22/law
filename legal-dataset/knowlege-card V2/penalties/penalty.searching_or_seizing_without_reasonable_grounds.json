@@ -6,24 +6,45 @@
   "content": {
     "offence": "Searching or seizing without reasonable grounds",
     "punishment": "imprisonment or fine or both",
-    "minimum": "",
+    "minimum": "Not specified in the Act",
     "maximum": "one year or ten thousand rupees",
     "applicable_section": "section 22"
   },
   "derived_from": [
     "CPA2019-CH7-S93"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.director_general",
+    "alias.penalty_for_unauthorized_search_or_seizure",
+    "authority.director_general",
+    "intent.director_general",
+    "intent.director_general_2",
+    "intent.penalty_for_unauthorized_search_or_seizure",
+    "intent.penalty_for_unauthorized_search_or_seizure_3"
+  ],
   "search": {
     "keywords": [
       "unauthorized search",
-      "unreasonable seizure"
+      "unreasonable seizure",
+      "penalty",
+      "unauthorized",
+      "search",
+      "seizure",
+      "punishment",
+      "searching",
+      "seizing",
+      "without",
+      "reasonable",
+      "grounds"
     ],
     "aliases": [
       "penalty for misconduct"
     ],
     "user_queries": [
-      "what is the punishment for illegal search"
+      "what is the punishment for illegal search",
+      "What is penalty for unauthorized search or seizure?",
+      "How does penalty for unauthorized search or seizure work?",
+      "Can you explain penalty for unauthorized search or seizure?"
     ]
   },
   "metadata": {

@@ -8,16 +8,50 @@
     "punishment": "imprisonment or fine or both",
     "minimum": "one month or twenty-five thousand rupees",
     "maximum": "three years or one lakh rupees",
-    "applicable_section": ""
+    "applicable_section": "Section 67"
   },
   "derived_from": [
     "CPA2019-CH4-S72-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.national_commission",
+    "alias.state_commission",
+    "authority.district_commission",
+    "authority.national_commission",
+    "authority.state_commission",
+    "intent.district_commission"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "punishment",
+      "non",
+      "compliance",
+      "direction",
+      "failing",
+      "comply",
+      "order",
+      "made",
+      "district",
+      "commission"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum",
+      "consequences of disobeying orders",
+      "fine for non-compliance",
+      "penalty for non-compliance",
+      "punishment for ignoring directives"
+    ],
+    "user_queries": [
+      "What is punishment for non-compliance with direction?",
+      "How does punishment for non-compliance with direction work?",
+      "Can you explain punishment for non-compliance with direction?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

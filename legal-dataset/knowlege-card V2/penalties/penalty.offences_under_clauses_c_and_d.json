@@ -5,19 +5,40 @@
   "description": "Cognizable and non-bailable offences",
   "content": {
     "offence": "Offences under clauses (c) and (d)",
-    "punishment": "",
-    "minimum": "",
-    "maximum": "",
+    "punishment": "Not specified in the Act",
+    "minimum": "Not specified in the Act",
+    "maximum": "Not specified in the Act",
     "applicable_section": "sub-section (1)"
   },
   "derived_from": [
     "CPA2019-CH7-S90-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "intent.offences_under_clauses_c_and_d_2"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "offences",
+      "clauses",
+      "cognizable",
+      "non",
+      "bailable",
+      "sub",
+      "section"
+    ],
+    "aliases": [
+      "breaches under clauses c and d",
+      "crimes under clauses c and d",
+      "offenses under section c and d",
+      "violations of clauses c and d"
+    ],
+    "user_queries": [
+      "What is the punishment for offences under clauses (c) and (d)?",
+      "What happens if I commit offences under clauses (c) and (d)?",
+      "What is offences under clauses (c) and (d)?",
+      "How does offences under clauses (c) and (d) work?",
+      "Can you explain offences under clauses (c) and (d)?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

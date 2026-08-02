@@ -6,18 +6,53 @@
   "content": {
     "offence": "First conviction",
     "punishment": "suspension of licence up to two years",
-    "minimum": "",
+    "minimum": "Not specified in the Act",
     "maximum": "two years",
     "applicable_section": "this section"
   },
   "derived_from": [
     "CPA2019-CH7-S90-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.court",
+    "authority.court",
+    "intent.court",
+    "intent.court_2",
+    "intent.licence_suspension_period",
+    "intent.penalty_for_first_conviction_2",
+    "intent.penalty_for_subsequent_conviction"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "penalty",
+      "first",
+      "conviction",
+      "licence",
+      "suspension",
+      "two",
+      "years",
+      "section"
+    ],
+    "aliases": [
+      "Bench",
+      "Judiciary",
+      "Law Court",
+      "Tribunal",
+      "judicial body",
+      "tribunal",
+      "first conviction punishment",
+      "first-time offender penalty",
+      "initial conviction fine",
+      "penalty for first-time offense"
+    ],
+    "user_queries": [
+      "What is licence suspension period?",
+      "How does licence suspension period work?",
+      "Can you explain licence suspension period?",
+      "What is penalty for first conviction?",
+      "How does penalty for first conviction work?",
+      "Can you explain penalty for first conviction?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",
