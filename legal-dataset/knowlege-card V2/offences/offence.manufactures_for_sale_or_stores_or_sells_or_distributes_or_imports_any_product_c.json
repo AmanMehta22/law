@@ -5,7 +5,7 @@
   "description": "Manufacturing, storing, selling, distributing or importing products containing adulterants",
   "content": {
     "offence": "Manufactures for sale or stores or sells or distributes or imports any product containing an adulterant",
-    "punishment": "Imprisonment for a term which may extend to six months and with fine which may extend to one lakh rupees",
+    "punishment": "Tiered by injury: (a) no injury: imprisonment up to six months and fine up to one lakh rupees; (b) injury not amounting to grievous hurt: imprisonment up to one year and fine up to three lakh rupees; (c) injury resulting in grievous hurt: imprisonment up to seven years and fine up to five lakh rupees; (d) death of a consumer: imprisonment not less than seven years, extendable to life, and fine not less than ten lakh rupees",
     "applicable_section": "Section 90(1)"
   },
   "derived_from": [

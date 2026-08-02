@@ -5,7 +5,7 @@
   "description": "period for which the endorser is prohibited from making endorsement",
   "content": {
     "duration": "three years",
-    "trigger": "from the order",
+    "trigger": "for every subsequent contravention of an order prohibiting an endorser from making endorsement; and within a period of three years from the date on which the first offence, committed by him, was compounded (for repeat offences)",
     "exceptions": [
       "first offence",
       "offence committed after the expiry of a period of three years from the date on which the offence was previously compounded"
