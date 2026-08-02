@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.assistance_direction_handled_by_commission",
+  "concept_type": "intent",
+  "title": "Questions about Assistance Direction handled by Commission",
+  "description": "Natural language queries a user may ask about: Assistance Direction handled by Commission",
+  "content": {
+    "queries": [
+      "What is assistance direction handled by commission?",
+      "How does assistance direction handled by commission work?",
+      "Can you explain assistance direction handled by commission?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S66",
+    "relationship.procedure_assistance_direction_handled_by_authority_commission"
+  ],
+  "related_concepts": [
+    "relationship.procedure_assistance_direction_handled_by_authority_commission"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "assistance",
+      "direction",
+      "handled",
+      "commission",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "assistance direction",
+      "assistance guidance",
+      "assistance order",
+      "direction for assistance"
+    ],
+    "user_queries": [
+      "What is assistance direction handled by commission?",
+      "How does assistance direction handled by commission work?",
+      "Can you explain assistance direction handled by commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

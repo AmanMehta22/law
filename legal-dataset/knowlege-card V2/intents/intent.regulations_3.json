@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.regulations_3",
+  "concept_type": "intent",
+  "title": "Questions about Regulations",
+  "description": "Natural language queries a user may ask about: Regulations",
+  "content": {
+    "queries": [
+      "What is regulations?",
+      "How does regulations work?",
+      "Can you explain regulations?"
+    ]
+  },
+  "derived_from": [
+    "definition.regulations",
+    "example.regulations"
+  ],
+  "related_concepts": [
+    "example.regulations"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "regulations",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "how"
+    ],
+    "aliases": [
+      "rules",
+      "guidelines",
+      "norms"
+    ],
+    "user_queries": [
+      "What is regulations?",
+      "How does regulations work?",
+      "Can you explain regulations?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

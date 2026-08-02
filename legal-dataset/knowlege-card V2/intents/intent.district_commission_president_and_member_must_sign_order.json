@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: District Commission President and member must sign order",
   "content": {
     "queries": [
+      "Who signs the order in a District Commission?",
+      "What is the role of the District Commission President in signing orders?",
+      "Can a District Commission member sign an order without the President's approval?",
+      "How does the signing of orders by the District Commission President and member affect consumer cases?",
+      "What happens if the District Commission President and member do not sign an order?"
+    ]
+  },
+  "derived_from": [
+    "alias.district_commission_president_and_member_must_sign_order"
+  ],
+  "related_concepts": [
+    "alias.district_commission_president_and_member_must_sign_order"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commission",
+      "president",
+      "member",
+      "sign",
+      "order",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "district commission order signature",
+      "joint signing of order",
+      "president and member signature"
+    ],
+    "user_queries": [
       "What is district commission president and member must sign order?",
       "How does district commission president and member must sign order work?",
       "Can you explain district commission president and member must sign order?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S39-4",
-    "obligation.president_and_the_member_who_conducted_the_proceeding_shall_"
-  ],
-  "related_concepts": [
-    "obligation.president_and_the_member_who_conducted_the_proceeding_shall_"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

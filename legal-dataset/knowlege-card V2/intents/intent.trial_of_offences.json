@@ -5,21 +5,47 @@
   "description": "Natural language queries a user may ask about: Trial of offences",
   "content": {
     "queries": [
-      "How do I file trial of offences?",
-      "What are the steps for trial of offences?"
+      "What are the procedures for the trial of offences under the Consumer Protection Act?",
+      "Can a consumer file a complaint for trial of offences against a manufacturer?",
+      "How does the trial of offences affect the punishment for consumer rights violations?",
+      "What is the role of the consumer court in the trial of offences?",
+      "Are there any specific penalties for offences related to consumer protection?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S72-3",
-    "procedure.trial_of_offences"
+    "procedure.trial_of_offences",
+    "alias.trial_of_offences"
   ],
   "related_concepts": [
-    "procedure.trial_of_offences"
+    "alias.trial_of_offences"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "trial",
+      "offences",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is otherwise provided?",
+      "How does otherwise provided work?",
+      "Can you explain otherwise provided?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

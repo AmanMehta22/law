@@ -1,0 +1,61 @@
+{
+  "concept_id": "intent.filing_of_complaint_2",
+  "concept_type": "intent",
+  "title": "Questions about Filing of complaint",
+  "description": "Natural language queries a user may ask about: Filing of complaint",
+  "content": {
+    "queries": [
+      "What is the timeline for filing a complaint with the Central Authority?",
+      "Can a complaint be filed with the Central Authority after the expiry of the limitation period?",
+      "What are the grounds for rejecting a complaint filed with the Central Authority?",
+      "How can a consumer track the status of a complaint filed with the Central Authority?",
+      "What is the procedure for appealing a decision of the Central Authority on a complaint?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH7-S92",
+    "procedure.filing_of_complaint"
+  ],
+  "related_concepts": [
+    "procedure.filing_of_complaint"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "filing",
+      "complaint",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is central authority must file a complaint?",
+      "How does central authority must file a complaint work?",
+      "Can you explain central authority must file a complaint?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

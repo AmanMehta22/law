@@ -5,22 +5,60 @@
   "description": "Natural language queries a user may ask about: Director-General",
   "content": {
     "queries": [
-      "What is a Director-General?",
-      "Who is the Director-General under the Consumer Protection Act?",
-      "What does the Director-General do?"
+      "What is central authority must conduct inquiry or investigation?",
+      "How does central authority must conduct inquiry or investigation work?",
+      "Can you explain central authority must conduct inquiry or investigation?",
+      "What is additional director-general?",
+      "How does additional director-general work?",
+      "Can you explain additional director-general?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-14",
-    "definition.director_general"
+    "CPA2019-CH3-S15-1",
+    "CPA2019-CH3-S15-2",
+    "CPA2019-CH3-S15-3",
+    "CPA2019-CH3-S15-4",
+    "CPA2019-CH3-S15-5",
+    "CPA2019-CH3-S19-1",
+    "CPA2019-CH3-S19-3",
+    "CPA2019-CH3-S22-1",
+    "CPA2019-CH3-S22-4",
+    "CPA2019-CH7-S93",
+    "CPA2019-CH8-S104-2",
+    "CPA2019-CH8-S95",
+    "authority.director_general"
   ],
   "related_concepts": [
-    "definition.director_general"
+    "authority.director_general"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "director",
+      "general",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "DG"
+    ],
+    "user_queries": [
+      "What is director-general?",
+      "How does director-general work?",
+      "Can you explain director-general?",
+      "What is central authority must conduct inquiry or investigation?",
+      "How does central authority must conduct inquiry or investigation work?",
+      "Can you explain central authority must conduct inquiry or investigation?",
+      "What is additional director-general?",
+      "How does additional director-general work?",
+      "Can you explain additional director-general?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

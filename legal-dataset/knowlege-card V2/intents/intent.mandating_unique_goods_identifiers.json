@@ -5,21 +5,46 @@
   "description": "Natural language queries a user may ask about: Mandating Unique Goods Identifiers",
   "content": {
     "queries": [
-      "How do I file mandating unique goods identifiers?",
-      "What are the steps for mandating unique goods identifiers?"
+      "What is the role of the Central Consumer Protection Authority in mandating unique goods identifiers in India?",
+      "How does the Consumer Protection Act 2019 ensure that goods have unique identifiers in the Indian market?",
+      "What are the penalties for non-compliance with unique goods identifier mandates under the Indian Consumer Protection Act 2019?",
+      "Can the National Commission direct manufacturers to use unique goods identifiers for certain products?",
+      "How do District Commissions in India handle complaints related to non-unique goods identifiers?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S18-2",
-    "procedure.mandating_unique_goods_identifiers"
+    "procedure.mandating_unique_goods_identifiers",
+    "alias.mandating_unique_goods_identifiers"
   ],
   "related_concepts": [
-    "procedure.mandating_unique_goods_identifiers"
+    "alias.mandating_unique_goods_identifiers"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "mandating",
+      "unique",
+      "goods",
+      "identifiers",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "advice on consumer welfare",
+      "advising on consumer welfare",
+      "consumer rights guidance",
+      "consumer welfare advice",
+      "consumer welfare measures"
+    ],
+    "user_queries": [
+      "What is mandating unique goods identifiers?",
+      "How does mandating unique goods identifiers work?",
+      "Can you explain mandating unique goods identifiers?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

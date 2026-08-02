@@ -1,0 +1,53 @@
+{
+  "concept_id": "intent.right_to_safety_3",
+  "concept_type": "intent",
+  "title": "Questions about Right to Safety",
+  "description": "Natural language queries a user may ask about: Right to Safety",
+  "content": {
+    "queries": [
+      "are there any laws to protect me from hazardous products?",
+      "What is the punishment for cost of corrective advertisement?",
+      "What happens if I commit cost of corrective advertisement?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S39-1",
+    "right.right_to_safety"
+  ],
+  "related_concepts": [
+    "right.right_to_safety"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "right",
+      "safety",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "there"
+    ],
+    "aliases": [
+      "right to protection",
+      "right to security"
+    ],
+    "user_queries": [
+      "are there any laws to protect me from hazardous products?",
+      "What is the punishment for cost of corrective advertisement?",
+      "What happens if I commit cost of corrective advertisement?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

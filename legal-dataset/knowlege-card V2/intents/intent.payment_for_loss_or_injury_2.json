@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.payment_for_loss_or_injury_2",
+  "concept_type": "intent",
+  "title": "Questions about Payment for loss or injury",
+  "description": "Natural language queries a user may ask about: Payment for loss or injury",
+  "content": {
+    "queries": [
+      "What is payment for loss or injury?",
+      "How does payment for loss or injury work?",
+      "Can you explain payment for loss or injury?",
+      "What are the requirements for payment for loss or injury?",
+      "How does payment for loss or injury relate to consumer protection?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S39-1",
+    "penalty.negligence"
+  ],
+  "related_concepts": [
+    "penalty.negligence"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "payment",
+      "loss",
+      "injury",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is negligent service?",
+      "How does negligent service work?",
+      "Can you explain negligent service?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.party_to_the_contract_must_not_impose_disproportionate_penalties",
   "concept_type": "intent",
-  "title": "Questions about Party to the contract must not impose disproportionate penalties",
-  "description": "Natural language queries a user may ask about: Party to the contract must not impose disproportionate penalties",
+  "title": "Questions about Party To The Contract Must Not Impose Disproportionate Penalties",
+  "description": "Natural language queries a user may ask about: Party To The Contract Must Not Impose Disproportionate Penalties",
   "content": {
     "queries": [
-      "What are the rules for penalty clauses in consumer contracts?"
+      "What constitutes a disproportionate penalty in a contract?",
+      "Can a company impose a penalty that is higher than the actual loss incurred?",
+      "How can I determine if a penalty is disproportionate to the breach of contract?",
+      "What are my rights if a company imposes a disproportionate penalty on me?",
+      "Are there any laws that regulate the imposition of penalties in contracts?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-46",
-    "obligation.party_to_the_contract_must_not_impose_disproportionate_penal"
+    "obligation.party_to_the_contract_must_not_impose_disproportionate_penal",
+    "alias.party_to_the_contract_must_not_impose_disproportionate_penalties"
   ],
   "related_concepts": [
-    "obligation.party_to_the_contract_must_not_impose_disproportionate_penal"
+    "alias.party_to_the_contract_must_not_impose_disproportionate_penalties"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "party",
+      "contract",
+      "impose",
+      "disproportionate",
+      "penalties",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "penalty clauses"
+    ],
+    "user_queries": [
+      "What are the rules for penalty clauses in consumer contracts?",
+      "What is party to the contract must accept early repayment of debts?",
+      "How does party to the contract must accept early repayment of debts work?",
+      "Can you explain party to the contract must accept early repayment of debts?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

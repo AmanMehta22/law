@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Product seller must exercise reasonable care",
   "content": {
     "queries": [
+      "What does it mean for a product seller to exercise reasonable care?",
+      "How can a product seller demonstrate reasonable care in their business practices?",
+      "What are the consequences for a product seller who fails to exercise reasonable care?",
+      "Can a product seller be held liable if they fail to exercise reasonable care?",
+      "How does the concept of reasonable care impact product seller liability?"
+    ]
+  },
+  "derived_from": [
+    "alias.product_seller_must_exercise_reasonable_care"
+  ],
+  "related_concepts": [
+    "alias.product_seller_must_exercise_reasonable_care"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "product",
+      "seller",
+      "exercise",
+      "reasonable",
+      "care",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "product seller responsibility",
+      "reasonable care by seller",
+      "seller's duty of care"
+    ],
+    "user_queries": [
       "What is product seller must exercise reasonable care?",
       "How does product seller must exercise reasonable care work?",
       "Can you explain product seller must exercise reasonable care?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH6-S86",
-    "obligation.product_seller_must_exercise_reasonable_care_in_assembling_i"
-  ],
-  "related_concepts": [
-    "obligation.product_seller_must_exercise_reasonable_care_in_assembling_i"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

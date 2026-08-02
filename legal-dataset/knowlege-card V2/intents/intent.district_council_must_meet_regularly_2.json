@@ -1,0 +1,56 @@
+{
+  "concept_id": "intent.district_council_must_meet_regularly_2",
+  "concept_type": "intent",
+  "title": "Questions about District Council must meet regularly",
+  "description": "Natural language queries a user may ask about: District Council must meet regularly",
+  "content": {
+    "queries": [
+      "Are District Council meetings open to the public?",
+      "How are agendas set for regular District Council meetings?",
+      "Can consumers attend and participate in District Council meetings?",
+      "What is the typical duration of a District Council meeting?",
+      "How are minutes and decisions from District Council meetings recorded and shared?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH2-S8-3",
+    "obligation.district_council_shall_meet_as_and_when_necessary_and_at_lea"
+  ],
+  "related_concepts": [
+    "obligation.district_council_shall_meet_as_and_when_necessary_and_at_lea"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "council",
+      "meet",
+      "regularly",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "District Board",
+      "Local Council",
+      "Municipal Council"
+    ],
+    "user_queries": [
+      "What is district council must meet regularly?",
+      "How does district council must meet regularly work?",
+      "Can you explain district council must meet regularly?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

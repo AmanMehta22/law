@@ -5,9 +5,9 @@
   "description": "Natural language queries a user may ask about: State Council",
   "content": {
     "queries": [
-      "What is state council?",
-      "How does state council work?",
-      "Can you explain state council?"
+      "What is district commission references central government?",
+      "How does district commission references central government work?",
+      "Can you explain district commission references central government?"
     ]
   },
   "derived_from": [
@@ -17,15 +17,38 @@
     "CPA2019-CH2-S6-4",
     "CPA2019-CH2-S7",
     "CPA2019-CH8-S102-2",
-    "authority.state_council"
+    "authority.state_council",
+    "alias.state_council"
   ],
   "related_concepts": [
-    "authority.state_council"
+    "alias.state_council"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "state",
+      "council",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "State Advisory Council",
+      "State Consumer Council",
+      "State Consumer Protection Council"
+    ],
+    "user_queries": [
+      "What is district commission references state council?",
+      "How does district commission references state council work?",
+      "Can you explain district commission references state council?",
+      "What is district commission references central government?",
+      "How does district commission references central government work?",
+      "Can you explain district commission references central government?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

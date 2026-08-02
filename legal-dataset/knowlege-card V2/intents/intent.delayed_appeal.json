@@ -5,20 +5,45 @@
   "description": "Natural language queries a user may ask about: Delayed Appeal",
   "content": {
     "queries": [
-      "What if I miss the 30-day appeal deadline?"
+      "What are the grounds for filing a delayed appeal under the Consumer Protection Act?",
+      "How long does a consumer have to file a delayed appeal?",
+      "Can a delayed appeal be filed against a decision of the consumer forum?",
+      "What is the procedure for filing a delayed appeal in a consumer court?",
+      "Are there any fees associated with filing a delayed appeal?"
     ]
   },
   "derived_from": [
+    "CPA2019-CH4-S41",
     "CPA2019-CH4-S73-3",
-    "exception.may_entertain_an_appeal_after_the_expiry_of_the_said_period_"
+    "exception.may_entertain_an_appeal_after_the_expiry_of_the_said_period_",
+    "exception.state_commission_may_entertain_appeal_after_45_days",
+    "alias.delayed_appeal"
   ],
   "related_concepts": [
-    "exception.may_entertain_an_appeal_after_the_expiry_of_the_said_period_"
+    "alias.delayed_appeal"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "delayed",
+      "appeal",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "late appeal"
+    ],
+    "user_queries": [
+      "Can I appeal after 45 days?",
+      "What is delayed appeal?",
+      "How does delayed appeal work?",
+      "Can you explain delayed appeal?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -5,22 +5,48 @@
   "description": "Natural language queries a user may ask about: Pecuniary jurisdiction of National Commission",
   "content": {
     "queries": [
+      "Is the pecuniary jurisdiction of the National Commission limited to a specific range of claim amounts?",
+      "How does the National Commission's pecuniary jurisdiction impact the filing of complaints?",
+      "Can a complaint be transferred from the District Commission to the National Commission based on pecuniary jurisdiction?",
+      "What are the consequences of filing a complaint with the National Commission without meeting the pecuniary jurisdiction requirements?",
+      "Are there any guidelines for determining the pecuniary jurisdiction of the National Commission in complex cases?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S58-1",
+    "jurisdiction.national_commission_exceeds_ten_crore_rupees_no_territorial_limits_mentioned"
+  ],
+  "related_concepts": [
+    "jurisdiction.national_commission_exceeds_ten_crore_rupees_no_territorial_limits_mentioned"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "pecuniary",
+      "jurisdiction",
+      "national",
+      "commission",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
       "What is pecuniary jurisdiction of national commission?",
       "How does pecuniary jurisdiction of national commission work?",
       "Can you explain pecuniary jurisdiction of national commission?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH8-S101-2",
-    "jurisdiction.national_commission_other_value_of_goods_and_services"
-  ],
-  "related_concepts": [
-    "jurisdiction.national_commission_other_value_of_goods_and_services"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

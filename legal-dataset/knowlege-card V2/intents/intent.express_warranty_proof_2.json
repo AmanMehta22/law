@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.express_warranty_proof_2",
+  "concept_type": "intent",
+  "title": "Questions about Express warranty proof",
+  "description": "Natural language queries a user may ask about: Express warranty proof",
+  "content": {
+    "queries": [
+      "What documents are required to prove non-conformity to express warranty?",
+      "What is design defect evidence?",
+      "How does design defect evidence work?",
+      "Can you explain design defect evidence?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH6-S84-1",
+    "evidence.warranty_documents_sales_agreement"
+  ],
+  "related_concepts": [
+    "evidence.warranty_documents_sales_agreement"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "express",
+      "warranty",
+      "proof",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "product warranty"
+    ],
+    "user_queries": [
+      "What documents are required to prove non-conformity to express warranty?",
+      "What is design defect evidence?",
+      "How does design defect evidence work?",
+      "Can you explain design defect evidence?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

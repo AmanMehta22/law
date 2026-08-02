@@ -1,0 +1,57 @@
+{
+  "concept_id": "intent.representative_proceeding_handled_by_commission",
+  "concept_type": "intent",
+  "title": "Questions about Representative proceeding handled by Commission",
+  "description": "Natural language queries a user may ask about: Representative proceeding handled by Commission",
+  "content": {
+    "queries": [
+      "What is representative proceeding handled by commission?",
+      "How does representative proceeding handled by commission work?",
+      "Can you explain representative proceeding handled by commission?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-11",
+    "relationship.procedure_representative_proceeding_handled_by_authority_commission"
+  ],
+  "related_concepts": [
+    "relationship.procedure_representative_proceeding_handled_by_authority_commission"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "representative",
+      "proceeding",
+      "handled",
+      "commission",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is representative proceeding handled by commission?",
+      "How does representative proceeding handled by commission work?",
+      "Can you explain representative proceeding handled by commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

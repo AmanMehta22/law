@@ -11,16 +11,38 @@
     ]
   },
   "derived_from": [
-    "CPA2019-CH8-S102-1",
-    "exception.provided_that_the_central_government_may_frame_model_rules"
+    "alias.state_government_rule_making"
   ],
   "related_concepts": [
-    "exception.provided_that_the_central_government_may_frame_model_rules"
+    "alias.state_government_rule_making"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "state",
+      "government",
+      "rule",
+      "making",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "government rule making",
+      "regulatory framework",
+      "state law creation",
+      "state regulations"
+    ],
+    "user_queries": [
+      "What is state government rule making?",
+      "How does state government rule making work?",
+      "Can you explain state government rule making?",
+      "What is state governments?",
+      "How does state governments work?",
+      "Can you explain state governments?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,0 +1,56 @@
+{
+  "concept_id": "intent.regulator_must_specify_conditions_2",
+  "concept_type": "intent",
+  "title": "Questions about Regulator must specify conditions",
+  "description": "Natural language queries a user may ask about: Regulator must specify conditions",
+  "content": {
+    "queries": [
+      "Do the conditions specified by the regulator apply to all consumer protection cases?",
+      "How do the conditions specified by the regulator impact consumer rights?",
+      "Can consumers seek compensation if the regulator's specified conditions are not met?",
+      "Are there any specific criteria that the regulator must follow when specifying conditions?",
+      "How do the conditions specified by the regulator affect the role of mediators in consumer disputes?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S75-3",
+    "obligation.regulator_must_specify_conditions_for_re_empanelment_of_medi"
+  ],
+  "related_concepts": [
+    "obligation.regulator_must_specify_conditions_for_re_empanelment_of_medi"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "regulator",
+      "specify",
+      "conditions",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "regulator's conditions",
+      "regulatory conditions",
+      "specifying regulations"
+    ],
+    "user_queries": [
+      "What is regulator must specify conditions?",
+      "How does regulator must specify conditions work?",
+      "Can you explain regulator must specify conditions?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

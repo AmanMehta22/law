@@ -1,0 +1,56 @@
+{
+  "concept_id": "intent.issuing_safety_notices_handled_by_district_commission",
+  "concept_type": "intent",
+  "title": "Questions about Issuing Safety Notices handled by District Commission",
+  "description": "Natural language queries a user may ask about: Issuing Safety Notices handled by District Commission",
+  "content": {
+    "queries": [
+      "What is issuing safety notices handled by district commission?",
+      "How does issuing safety notices handled by district commission work?",
+      "Can you explain issuing safety notices handled by district commission?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S18-2",
+    "relationship.procedure_issuing_safety_notices_handled_by_authority_district_commiss"
+  ],
+  "related_concepts": [
+    "relationship.procedure_issuing_safety_notices_handled_by_authority_district_commiss"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "issuing",
+      "safety",
+      "notices",
+      "handled",
+      "district",
+      "commission",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "advice on consumer welfare",
+      "advising on consumer welfare",
+      "consumer rights guidance",
+      "consumer welfare advice",
+      "consumer welfare measures"
+    ],
+    "user_queries": [
+      "What is issuing safety notices handled by district commission?",
+      "How does issuing safety notices handled by district commission work?",
+      "Can you explain issuing safety notices handled by district commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

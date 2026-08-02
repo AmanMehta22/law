@@ -1,0 +1,57 @@
+{
+  "concept_id": "intent.requisitioning_of_report_2",
+  "concept_type": "intent",
+  "title": "Questions about Requisitioning of report",
+  "description": "Natural language queries a user may ask about: Requisitioning of report",
+  "content": {
+    "queries": [
+      "What are the requirements for a valid requisition of a report in a consumer case?",
+      "How does the court ensure that a requisitioned report is authentic and reliable?",
+      "Can a consumer requisition a report from a government agency for a complaint?",
+      "What is the procedure for requisitioning a report from an expert witness in a consumer dispute?",
+      "How long does it take to receive a requisitioned report in a consumer case?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-9",
+    "procedure.requisitioning_of_report"
+  ],
+  "related_concepts": [
+    "procedure.requisitioning_of_report"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "requisitioning",
+      "report",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government"
+    ],
+    "user_queries": [
+      "What is discovery and production of evidence?",
+      "How does discovery and production of evidence work?",
+      "Can you explain discovery and production of evidence?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.deviation_from_manufacturing_specifications_proof_2",
+  "concept_type": "intent",
+  "title": "Questions about Deviation from manufacturing specifications proof",
+  "description": "Natural language queries a user may ask about: Deviation from manufacturing specifications proof",
+  "content": {
+    "queries": [
+      "What documents are required to prove deviation from manufacturing specifications?",
+      "What is design defect evidence?",
+      "How does design defect evidence work?",
+      "Can you explain design defect evidence?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH6-S84-1",
+    "evidence.manufacturing_specifications_production_records"
+  ],
+  "related_concepts": [
+    "evidence.manufacturing_specifications_production_records"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "deviation",
+      "manufacturing",
+      "specifications",
+      "proof",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "non-compliance with specifications"
+    ],
+    "user_queries": [
+      "What documents are required to prove deviation from manufacturing specifications?",
+      "What is design defect evidence?",
+      "How does design defect evidence work?",
+      "Can you explain design defect evidence?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

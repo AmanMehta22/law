@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Audit documents",
   "content": {
     "queries": [
+      "What documents are required for an audit under the Consumer Protection Act?",
+      "How often are audit documents required to be submitted?",
+      "Can audit documents be submitted electronically?",
+      "What is the purpose of maintaining audit documents?",
+      "Are audit documents confidential under the Consumer Protection Act?"
+    ]
+  },
+  "derived_from": [
+    "alias.audit_documents"
+  ],
+  "related_concepts": [
+    "alias.audit_documents"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "audit",
+      "documents",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "accounting records",
+      "audit reports",
+      "financial audit papers"
+    ],
+    "user_queries": [
       "What is audit documents?",
       "How does audit documents work?",
       "Can you explain audit documents?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH3-S26-3",
-    "evidence.books_accounts_connected_vouchers_other_documents_and_papers"
-  ],
-  "related_concepts": [
-    "evidence.books_accounts_connected_vouchers_other_documents_and_papers"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

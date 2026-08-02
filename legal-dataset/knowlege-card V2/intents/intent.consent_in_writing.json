@@ -5,23 +5,43 @@
   "description": "Natural language queries a user may ask about: Consent in writing",
   "content": {
     "queries": [
+      "How do I provide consent in writing for a consumer transaction?",
+      "What are the benefits of obtaining consent in writing from a consumer?",
+      "Can consent in writing be given electronically?",
+      "Is consent in writing required for all consumer contracts?",
+      "How long should I keep a record of consent in writing?"
+    ]
+  },
+  "derived_from": [
+    "alias.consent_in_writing"
+  ],
+  "related_concepts": [
+    "alias.consent_in_writing"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "consent",
+      "writing",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "documented approval",
+      "informed consent",
+      "signed consent",
+      "written permission"
+    ],
+    "user_queries": [
       "What is consent in writing?",
       "How does consent in writing work?",
       "Can you explain consent in writing?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S37-1",
-    "CPA2019-CH4-S37-2",
-    "evidence.written_consent"
-  ],
-  "related_concepts": [
-    "evidence.written_consent"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

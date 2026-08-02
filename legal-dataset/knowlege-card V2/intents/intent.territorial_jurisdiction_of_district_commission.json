@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Territorial jurisdiction of District Commission",
   "content": {
     "queries": [
+      "What is the territorial scope of a District Commission's authority?",
+      "How do I know if my case falls within the territorial jurisdiction of a District Commission?",
+      "Can a District Commission hear cases from consumers outside their territorial jurisdiction?",
+      "What are the boundaries of a District Commission's territorial jurisdiction?",
+      "How does the territorial jurisdiction of a District Commission impact consumer dispute resolution?"
+    ]
+  },
+  "derived_from": [
+    "alias.territorial_jurisdiction_of_district_commission"
+  ],
+  "related_concepts": [
+    "alias.territorial_jurisdiction_of_district_commission"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "territorial",
+      "jurisdiction",
+      "district",
+      "commission",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "district commission authority area",
+      "district commission geographical area",
+      "district commission regional scope",
+      "territorial scope of district commission"
+    ],
+    "user_queries": [
       "What is territorial jurisdiction of district commission?",
       "How does territorial jurisdiction of district commission work?",
       "Can you explain territorial jurisdiction of district commission?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S32",
-    "jurisdiction.district_commission_that_district"
-  ],
-  "related_concepts": [
-    "jurisdiction.district_commission_that_district"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.right_to_protection_3",
+  "concept_type": "intent",
+  "title": "Questions about Right to Protection",
+  "description": "Natural language queries a user may ask about: Right to Protection",
+  "content": {
+    "queries": [
+      "What are my rights as a consumer?",
+      "What is central council must render advice?",
+      "How does central council must render advice work?",
+      "Can you explain central council must render advice?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH2-S5",
+    "right.right_to_protection"
+  ],
+  "related_concepts": [
+    "right.right_to_protection"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "right",
+      "protection",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "right to protection of consumers' rights"
+    ],
+    "user_queries": [
+      "What are my rights as a consumer?",
+      "What is central council must render advice?",
+      "How does central council must render advice work?",
+      "Can you explain central council must render advice?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

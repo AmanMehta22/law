@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Territorial jurisdiction of District Collector",
   "content": {
     "queries": [
+      "What is the territorial jurisdiction of a district collector in consumer protection cases?",
+      "How does the territorial jurisdiction of a district collector impact consumer complaints?",
+      "Can a district collector exercise jurisdiction over consumer cases outside their district?",
+      "What are the boundaries of the territorial jurisdiction of a district collector in a state?",
+      "Is the territorial jurisdiction of a district collector limited to specific types of consumer complaints?"
+    ]
+  },
+  "derived_from": [
+    "alias.territorial_jurisdiction_of_district_collector"
+  ],
+  "related_concepts": [
+    "alias.territorial_jurisdiction_of_district_collector"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "territorial",
+      "jurisdiction",
+      "district",
+      "collector",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "district collector authority area",
+      "district collector jurisdiction",
+      "district collector territorial scope",
+      "geographical jurisdiction of district collector"
+    ],
+    "user_queries": [
       "What is territorial jurisdiction of district collector?",
       "How does territorial jurisdiction of district collector work?",
       "Can you explain territorial jurisdiction of district collector?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH3-S16",
-    "jurisdiction.district_collector_within_his_jurisdiction"
-  ],
-  "related_concepts": [
-    "jurisdiction.district_collector_within_his_jurisdiction"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

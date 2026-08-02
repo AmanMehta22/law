@@ -5,22 +5,44 @@
   "description": "Natural language queries a user may ask about: Compounding of offence",
   "content": {
     "queries": [
-      "How do I file compounding of offence?",
-      "What are the steps for compounding of offence?"
+      "What is the meaning of compounding of offence?",
+      "How does compounding of offence work in the RAG system?",
+      "Can you explain the process of compounding of offence?",
+      "What are the consequences of compounding of offence?",
+      "How does compounding of offence affect the case?"
     ]
   },
   "derived_from": [
     "CPA2019-CH8-S96-1",
-    "CPA2019-CH8-S96-2",
-    "procedure.compounding_of_offence"
+    "penalty.offence_punishable_under_sections_88_and_89"
   ],
   "related_concepts": [
-    "procedure.compounding_of_offence"
+    "penalty.offence_punishable_under_sections_88_and_89"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "compounding",
+      "offence",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "compromise on penalty",
+      "offence compounding",
+      "penalty waiver",
+      "settlement of offence"
+    ],
+    "user_queries": [
+      "What is compounding of offence?",
+      "How does compounding of offence work?",
+      "Can you explain compounding of offence?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

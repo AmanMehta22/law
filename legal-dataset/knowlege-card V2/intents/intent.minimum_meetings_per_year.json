@@ -1,25 +1,48 @@
 {
   "concept_id": "intent.minimum_meetings_per_year",
   "concept_type": "intent",
-  "title": "Questions about Minimum meetings per year",
-  "description": "Natural language queries a user may ask about: Minimum meetings per year",
+  "title": "Questions about Minimum Meetings Per Year",
+  "description": "Natural language queries a user may ask about: Minimum Meetings Per Year",
   "content": {
     "queries": [
-      "how often does the State Council meet"
+      "How many meetings are required per year for the central authority to consider a prohibition?",
+      "What is the minimum number of meetings the central authority must hold to discuss prohibitions?",
+      "Can the central authority hold fewer meetings than the minimum required and still consider a prohibition?",
+      "How does the central authority ensure it meets the minimum meeting requirement for prohibition consideration?",
+      "What happens if the central authority fails to meet the minimum meeting requirement for prohibition consideration?"
     ]
   },
   "derived_from": [
     "CPA2019-CH2-S6-3",
     "CPA2019-CH3-S21-3",
-    "timeline.one_year"
+    "timeline.one_year",
+    "alias.minimum_meetings_per_year"
   ],
   "related_concepts": [
-    "timeline.one_year"
+    "alias.minimum_meetings_per_year"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "minimum",
+      "meetings",
+      "per",
+      "year",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "annual meetings"
+    ],
+    "user_queries": [
+      "how often does the State Council meet",
+      "What is central authority must consider prohibition?",
+      "How does central authority must consider prohibition work?",
+      "Can you explain central authority must consider prohibition?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

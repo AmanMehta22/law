@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.party_to_the_contract_must_not_impose_unreasonable_charges_or_conditions",
   "concept_type": "intent",
-  "title": "Questions about Party to the contract must not impose unreasonable charges or conditions",
-  "description": "Natural language queries a user may ask about: Party to the contract must not impose unreasonable charges or conditions",
+  "title": "Questions about Party To The Contract Must Not Impose Unreasonable Charges Or Conditions",
+  "description": "Natural language queries a user may ask about: Party To The Contract Must Not Impose Unreasonable Charges Or Conditions",
   "content": {
     "queries": [
-      "What constitutes an unfair contract term?"
+      "What are considered unreasonable charges or conditions in a contract?",
+      "Can a company impose hidden charges or conditions that are not clearly stated?",
+      "How can I identify unreasonable charges or conditions in a contract?",
+      "What are my rights if a company imposes unreasonable charges or conditions on me?",
+      "Are there any laws that protect consumers from unreasonable charges or conditions in contracts?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-46",
-    "obligation.party_to_the_contract_must_not_impose_unreasonable_charges_o"
+    "obligation.party_to_the_contract_must_not_impose_unreasonable_charges_o",
+    "alias.party_to_the_contract_must_not_impose_unreasonable_charges_or_conditions"
   ],
   "related_concepts": [
-    "obligation.party_to_the_contract_must_not_impose_unreasonable_charges_o"
+    "alias.party_to_the_contract_must_not_impose_unreasonable_charges_or_conditions"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "party",
+      "contract",
+      "impose",
+      "unreasonable",
+      "charges",
+      "conditions",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "unreasonable conditions"
+    ],
+    "user_queries": [
+      "What constitutes an unfair contract term?",
+      "What is party to the contract must accept early repayment of debts?",
+      "How does party to the contract must accept early repayment of debts work?",
+      "Can you explain party to the contract must accept early repayment of debts?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

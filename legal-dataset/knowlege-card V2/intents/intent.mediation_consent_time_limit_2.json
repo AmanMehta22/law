@@ -1,0 +1,60 @@
+{
+  "concept_id": "intent.mediation_consent_time_limit_2",
+  "concept_type": "intent",
+  "title": "Questions about Mediation consent time limit",
+  "description": "Natural language queries a user may ask about: Mediation consent time limit",
+  "content": {
+    "queries": [
+      "Are there any exceptions to the time limit for giving consent to mediation?",
+      "Can the mediation consent time limit be extended or waived in certain circumstances?",
+      "How does the mediation consent time limit affect the overall dispute resolution process?",
+      "What are the consequences of missing the mediation consent time limit?",
+      "Can I appeal a decision if I missed the mediation consent time limit?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S37-1",
+    "CPA2019-CH4-S37-2",
+    "timeline.five_days"
+  ],
+  "related_concepts": [
+    "timeline.five_days"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "mediation",
+      "consent",
+      "time",
+      "limit",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is mediation consent time limit?",
+      "How does mediation consent time limit work?",
+      "Can you explain mediation consent time limit?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

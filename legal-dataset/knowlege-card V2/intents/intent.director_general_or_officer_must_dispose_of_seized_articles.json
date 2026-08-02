@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Director-General or officer must dispose of seized articles",
   "content": {
     "queries": [
+      "What happens to seized articles in a consumer protection investigation led by the Director-General or officer?",
+      "How does the Director-General or officer determine what to do with seized goods in a consumer protection case?",
+      "Can the Director-General or officer return seized articles to a company if they are found not to be in violation of consumer laws?",
+      "What is the process for disposing of seized articles in a consumer protection investigation?",
+      "Does the Director-General or officer have the authority to destroy seized articles that are found to be hazardous?"
+    ]
+  },
+  "derived_from": [
+    "alias.director_general_or_officer_must_dispose_of_seized_articles"
+  ],
+  "related_concepts": [
+    "alias.director_general_or_officer_must_dispose_of_seized_articles"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "director",
+      "general",
+      "officer",
+      "dispose",
+      "seized",
+      "articles",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "director general disposal of seized items",
+      "disposal of seized goods",
+      "officer disposal of confiscated articles",
+      "seized article disposal"
+    ],
+    "user_queries": [
       "What is director-general or officer must dispose of seized articles?",
       "How does director-general or officer must dispose of seized articles work?",
       "Can you explain director-general or officer must dispose of seized articles?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH3-S22-4",
-    "obligation.director_general_or_such_other_officer_must_dispose_of_the_a"
-  ],
-  "related_concepts": [
-    "obligation.director_general_or_such_other_officer_must_dispose_of_the_a"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

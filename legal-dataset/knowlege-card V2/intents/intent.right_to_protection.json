@@ -5,20 +5,43 @@
   "description": "Natural language queries a user may ask about: Right to Protection",
   "content": {
     "queries": [
-      "What are my rights as a consumer?"
+      "What advice must the central council render to consumers?",
+      "How does the central council's advice impact consumer protection?",
+      "Can the central council refuse to render advice to consumers?",
+      "What is the purpose of the central council's advice in consumer protection?",
+      "Is the central council's advice binding on consumer complaints?"
     ]
   },
   "derived_from": [
     "CPA2019-CH2-S5",
-    "right.right_to_protection"
+    "right.right_to_protection",
+    "alias.right_to_protection"
   ],
   "related_concepts": [
-    "right.right_to_protection"
+    "alias.right_to_protection"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "right",
+      "protection",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "right to protection of consumers' rights"
+    ],
+    "user_queries": [
+      "What are my rights as a consumer?",
+      "What is central council must render advice?",
+      "How does central council must render advice work?",
+      "Can you explain central council must render advice?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

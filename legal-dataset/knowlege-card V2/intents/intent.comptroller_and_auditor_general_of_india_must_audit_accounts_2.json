@@ -1,0 +1,57 @@
+{
+  "concept_id": "intent.comptroller_and_auditor_general_of_india_must_audit_accounts_2",
+  "concept_type": "intent",
+  "title": "Questions about Comptroller and Auditor-General of India must audit accounts",
+  "description": "Natural language queries a user may ask about: Comptroller and Auditor-General of India must audit accounts",
+  "content": {
+    "queries": [
+      "What are the specific accounts that the Comptroller and Auditor-General of India must audit under the Consumer Protection Act?",
+      "How does the Comptroller and Auditor-General of India ensure that the accounts of consumer protection authorities are accurate and reliable?",
+      "Can the Comptroller and Auditor-General of India audit the accounts of consumer protection authorities at any time?",
+      "What is the purpose of the Comptroller and Auditor-General of India auditing the accounts of consumer protection authorities?",
+      "How does the Comptroller and Auditor-General of India report any irregularities found during the audit of consumer protection accounts?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S26-2",
+    "obligation.comptroller_and_auditor_general_of_india_must_audit_accounts"
+  ],
+  "related_concepts": [
+    "obligation.comptroller_and_auditor_general_of_india_must_audit_accounts"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "comptroller",
+      "auditor",
+      "general",
+      "india",
+      "audit",
+      "accounts",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "CAG audit",
+      "accounts audit by CAG",
+      "audit of accounts by comptroller and auditor general",
+      "financial audit by CAG"
+    ],
+    "user_queries": [
+      "What is comptroller and auditor-general of india must audit accounts?",
+      "How does comptroller and auditor-general of india must audit accounts work?",
+      "Can you explain comptroller and auditor-general of india must audit accounts?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

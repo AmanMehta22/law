@@ -5,23 +5,43 @@
   "description": "Natural language queries a user may ask about: Opinion time limit",
   "content": {
     "queries": [
+      "What is the time limit for providing an opinion under the Consumer Protection Act?",
+      "Can the opinion time limit be extended in certain circumstances?",
+      "How does the opinion time limit affect the consumer complaint process?",
+      "What happens if an opinion is not provided within the specified time limit?",
+      "Is the opinion time limit applicable to all types of consumer complaints?"
+    ]
+  },
+  "derived_from": [
+    "alias.opinion_time_limit"
+  ],
+  "related_concepts": [
+    "alias.opinion_time_limit"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "opinion",
+      "time",
+      "limit",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "expert opinion timeframe",
+      "opinion deadline",
+      "opinion submission period",
+      "timeframe for opinion"
+    ],
+    "user_queries": [
       "What is opinion time limit?",
       "How does opinion time limit work?",
       "Can you explain opinion time limit?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S39-3",
-    "CPA2019-CH4-S47-3",
-    "timeline.one_month"
-  ],
-  "related_concepts": [
-    "timeline.one_month"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

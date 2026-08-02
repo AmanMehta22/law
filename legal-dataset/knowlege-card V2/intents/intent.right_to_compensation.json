@@ -5,13 +5,11 @@
   "description": "Natural language queries a user may ask about: Right to Compensation",
   "content": {
     "queries": [
-      "how to claim compensation for harm",
-      "can I get compensation for defective product?",
-      "can I claim compensation for a defective product",
-      "can I sue for a defective product",
-      "can I claim compensation for a defective product?",
-      "can I get compensation for product harm",
-      "what are my rights if a product causes harm"
+      "What are the grounds for seeking compensation under the Consumer Protection Act?",
+      "How do I claim compensation for a defective product or service?",
+      "What is the process for seeking compensation from a manufacturer or seller?",
+      "Can I seek compensation for mental anguish or emotional distress?",
+      "Is there a time limit for seeking compensation under the Consumer Protection Act?"
     ]
   },
   "derived_from": [
@@ -21,15 +19,44 @@
     "CPA2019-CH6-S83",
     "CPA2019-CH6-S84-1",
     "CPA2019-CH6-S86",
-    "right.right_to_compensation"
+    "right.right_to_compensation",
+    "alias.right_to_compensation"
   ],
   "related_concepts": [
-    "right.right_to_compensation"
+    "alias.right_to_compensation"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "right",
+      "compensation",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "right to claim damages",
+      "right to damages",
+      "right to reparation",
+      "right to remedy",
+      "right to redress"
+    ],
+    "user_queries": [
+      "how to claim compensation for harm",
+      "can I get compensation for defective product?",
+      "can I claim compensation for a defective product",
+      "can I sue for a defective product",
+      "can I claim compensation for a defective product?",
+      "can I get compensation for product harm",
+      "what are my rights if a product causes harm",
+      "What is damages?",
+      "How does damages work?",
+      "Can you explain damages?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

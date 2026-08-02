@@ -1,24 +1,45 @@
 {
   "concept_id": "intent.district_commission_must_impose_costs_for_adjournment",
   "concept_type": "intent",
-  "title": "Questions about District Commission must impose costs for adjournment",
-  "description": "Natural language queries a user may ask about: District Commission must impose costs for adjournment",
+  "title": "Questions about District Commission Must Impose Costs For Adjournment",
+  "description": "Natural language queries a user may ask about: District Commission Must Impose Costs For Adjournment",
   "content": {
     "queries": [
-      "what are the costs for adjournment"
+      "What is district commission must impose costs for adjournment?",
+      "How does district commission must impose costs for adjournment work?",
+      "Can you explain district commission must impose costs for adjournment?"
     ]
   },
   "derived_from": [
     "CPA2019-CH8-S103-2",
-    "obligation.district_commission_must_impose_costs_for_adjournment"
+    "obligation.district_commission_must_impose_costs_for_adjournment",
+    "alias.district_commission_must_impose_costs_for_adjournment"
   ],
   "related_concepts": [
-    "obligation.district_commission_must_impose_costs_for_adjournment"
+    "alias.district_commission_must_impose_costs_for_adjournment"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commission",
+      "impose",
+      "costs",
+      "adjournment",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "costs for delay"
+    ],
+    "user_queries": [
+      "what are the costs for adjournment",
+      "What is district commission must impose costs for adjournment?",
+      "How does district commission must impose costs for adjournment work?",
+      "Can you explain district commission must impose costs for adjournment?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

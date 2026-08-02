@@ -1,0 +1,56 @@
+{
+  "concept_id": "intent.manufacturer_3",
+  "concept_type": "intent",
+  "title": "Questions about Manufacturer",
+  "description": "Natural language queries a user may ask about: Manufacturer",
+  "content": {
+    "queries": [
+      "What is the difference between a manufacturer and a service provider?",
+      "How does the manufacturer's warranty work under the Consumer Protection Act?",
+      "Can a manufacturer be sued for negligence?",
+      "What are the manufacturer's obligations regarding product labeling?",
+      "How can a consumer identify the manufacturer of a product?"
+    ]
+  },
+  "derived_from": [
+    "definition.manufacturer",
+    "example.manufacturer"
+  ],
+  "related_concepts": [
+    "example.manufacturer"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "manufacturer",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "how"
+    ],
+    "aliases": [
+      "maker",
+      "producer",
+      "assembler"
+    ],
+    "user_queries": [
+      "What is manufacturer?",
+      "How does manufacturer work?",
+      "Can you explain manufacturer?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

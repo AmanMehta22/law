@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.central_consumer_protection_authority_2",
+  "concept_type": "intent",
+  "title": "Questions about Central Consumer Protection Authority",
+  "description": "Natural language queries a user may ask about: Central Consumer Protection Authority",
+  "content": {
+    "queries": [
+      "Is the Central Consumer Protection Authority responsible for addressing consumer complaints?",
+      "How does the Central Authority under the Consumer Protection Act handle consumer disputes?",
+      "What is the process for filing a complaint with the Central Consumer Protection Authority?",
+      "Can the Central Consumer Protection Authority impose penalties on companies for violating consumer rights?",
+      "Does the Central Consumer Protection Authority provide guidance on consumer protection laws in India?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-4",
+    "CPA2019-CH3-S10-1",
+    "authority.central_consumer_protection_authority"
+  ],
+  "related_concepts": [
+    "authority.central_consumer_protection_authority"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "consumer",
+      "protection",
+      "authority",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "Central Authority"
+    ],
+    "user_queries": [
+      "What is the Central Authority under the Consumer Protection Act",
+      "Who is responsible for enforcing consumer protection laws in India",
+      "What is the role of the Central Consumer Protection Authority"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

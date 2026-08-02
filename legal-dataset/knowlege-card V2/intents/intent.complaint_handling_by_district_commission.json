@@ -5,21 +5,47 @@
   "description": "Natural language queries a user may ask about: Complaint handling by District Commission",
   "content": {
     "queries": [
-      "How do I file complaint handling by district commission?",
-      "What are the steps for complaint handling by district commission?"
+      "What is the role of a District Commission in handling consumer complaints?",
+      "How does a District Commission investigate a consumer complaint?",
+      "Can a consumer appeal a decision made by a District Commission?",
+      "What are the powers of a District Commission in resolving consumer complaints?",
+      "How long does it take for a District Commission to resolve a consumer complaint?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-3",
-    "procedure.complaint_handling_by_district_commission"
+    "procedure.complaint_handling_by_district_commission",
+    "alias.complaint_handling_by_district_commission"
   ],
   "related_concepts": [
-    "procedure.complaint_handling_by_district_commission"
+    "alias.complaint_handling_by_district_commission"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "complaint",
+      "handling",
+      "district",
+      "commission",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "appeal deadline",
+      "filing appeal",
+      "opposite party response",
+      "time limit for appeal",
+      "time limit for application",
+      "time to respond"
+    ],
+    "user_queries": [
+      "What is complaint handling by district commission?",
+      "How does complaint handling by district commission work?",
+      "Can you explain complaint handling by district commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.trader_must_supply_goods_or_services_within_agreed_period",
   "concept_type": "intent",
-  "title": "Questions about Trader must supply goods or services within agreed period",
-  "description": "Natural language queries a user may ask about: Trader must supply goods or services within agreed period",
+  "title": "Questions about Trader Must Supply Goods Or Services Within Agreed Period",
+  "description": "Natural language queries a user may ask about: Trader Must Supply Goods Or Services Within Agreed Period",
   "content": {
     "queries": [
-      "What are the obligations of a trader in supplying goods or services?"
+      "What happens if a trader fails to supply goods within the agreed period?",
+      "Can a consumer claim compensation if goods are not supplied on time?",
+      "How does the Consumer Protection Act ensure traders supply goods within the agreed period?",
+      "What is the timeframe for a trader to supply goods or services after an agreement is made?",
+      "Are there any exceptions to the rule that traders must supply goods within the agreed period?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-41",
-    "obligation.trader_must_supply_goods_or_services_within_the_agreed_perio"
+    "obligation.trader_must_supply_goods_or_services_within_the_agreed_perio",
+    "alias.trader_must_supply_goods_or_services_within_agreed_period"
   ],
   "related_concepts": [
-    "obligation.trader_must_supply_goods_or_services_within_the_agreed_perio"
+    "alias.trader_must_supply_goods_or_services_within_agreed_period"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "trader",
+      "supply",
+      "goods",
+      "services",
+      "agreed",
+      "period",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "supply goods or services on time"
+    ],
+    "user_queries": [
+      "What are the obligations of a trader in supplying goods or services?",
+      "What is restrictive trade practice?",
+      "How does restrictive trade practice work?",
+      "Can you explain restrictive trade practice?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

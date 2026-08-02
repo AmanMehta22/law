@@ -5,22 +5,47 @@
   "description": "Natural language queries a user may ask about: Product Seller",
   "content": {
     "queries": [
-      "What is a product seller?",
-      "Who is considered a product seller under the Consumer Protection Act?",
-      "What businesses are included in the definition of product seller?"
+      "What are the responsibilities of a product seller under the Consumer Protection Act?",
+      "How can a product seller be held liable for a defective product?",
+      "What obligations do product sellers have to disclose product information to consumers?",
+      "Can a product seller be sued for misleading or deceptive product advertising?",
+      "Are product sellers required to provide warranties or guarantees for their products?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-37",
-    "definition.product_seller"
+    "definition.product_seller",
+    "alias.product_seller"
   ],
   "related_concepts": [
-    "definition.product_seller"
+    "alias.product_seller"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "product",
+      "seller",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "seller",
+      "vendor",
+      "supplier"
+    ],
+    "user_queries": [
+      "What is product seller?",
+      "How does product seller work?",
+      "Can you explain product seller?",
+      "What is financial capacity?",
+      "How does financial capacity work?",
+      "Can you explain financial capacity?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

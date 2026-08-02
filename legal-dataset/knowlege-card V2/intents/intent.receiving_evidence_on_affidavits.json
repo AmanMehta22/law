@@ -5,21 +5,45 @@
   "description": "Natural language queries a user may ask about: Receiving evidence on affidavits",
   "content": {
     "queries": [
-      "How do I file receiving evidence on affidavits?",
-      "What are the steps for receiving evidence on affidavits?"
+      "Can evidence be received on affidavits in a consumer dispute?",
+      "What are the requirements for receiving evidence on affidavits in a consumer case?",
+      "How does the court verify the authenticity of evidence received on affidavits?",
+      "Are there any specific rules governing the reception of evidence on affidavits?",
+      "How does receiving evidence on affidavits impact the outcome of a consumer dispute?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-9",
-    "procedure.receiving_evidence_on_affidavits"
+    "procedure.receiving_evidence_on_affidavits",
+    "alias.receiving_evidence_on_affidavits"
   ],
   "related_concepts": [
-    "procedure.receiving_evidence_on_affidavits"
+    "alias.receiving_evidence_on_affidavits"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "receiving",
+      "evidence",
+      "affidavits",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government"
+    ],
+    "user_queries": [
+      "What is discovery and production of evidence?",
+      "How does discovery and production of evidence work?",
+      "Can you explain discovery and production of evidence?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

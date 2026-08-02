@@ -1,24 +1,45 @@
 {
   "concept_id": "intent.invalidation_of_central_authority_acts",
   "concept_type": "intent",
-  "title": "Questions about Invalidation of Central Authority acts",
-  "description": "Natural language queries a user may ask about: Invalidation of Central Authority acts",
+  "title": "Questions about Invalidation Of Central Authority Acts",
+  "description": "Natural language queries a user may ask about: Invalidation Of Central Authority Acts",
   "content": {
     "queries": [
-      "What makes Central Authority acts invalid?"
+      "What is invalidation of central authority acts?",
+      "How does invalidation of central authority acts work?",
+      "Can you explain invalidation of central authority acts?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S12",
-    "exception.no_act_or_proceeding_of_the_central_authority_shall_be_inval"
+    "exception.no_act_or_proceeding_of_the_central_authority_shall_be_inval",
+    "alias.invalidation_of_central_authority_acts"
   ],
   "related_concepts": [
-    "exception.no_act_or_proceeding_of_the_central_authority_shall_be_inval"
+    "alias.invalidation_of_central_authority_acts"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "invalidation",
+      "central",
+      "authority",
+      "acts",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "validity of acts"
+    ],
+    "user_queries": [
+      "What makes Central Authority acts invalid?",
+      "What is invalidation of central authority acts?",
+      "How does invalidation of central authority acts work?",
+      "Can you explain invalidation of central authority acts?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

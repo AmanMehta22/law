@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.district_council_must_meet_and_observe_procedure",
   "concept_type": "intent",
-  "title": "Questions about District Council must meet and observe procedure",
-  "description": "Natural language queries a user may ask about: District Council must meet and observe procedure",
+  "title": "Questions about District Council Must Meet And Observe Procedure",
+  "description": "Natural language queries a user may ask about: District Council Must Meet And Observe Procedure",
   "content": {
     "queries": [
-      "What are the obligations of the District Council?"
+      "What procedures must a District Council follow when hearing a consumer complaint?",
+      "Can a District Council dismiss a complaint without hearing both parties?",
+      "How does a District Council ensure that all parties are given a fair opportunity to present their case?",
+      "What are the requirements for a District Council to provide a written decision and reasons for its order?",
+      "Can a District Council's decision be set aside if it fails to follow proper procedure?"
     ]
   },
   "derived_from": [
     "CPA2019-CH2-S8-4",
-    "obligation.district_council_shall_meet_and_observe_procedure"
+    "obligation.district_council_shall_meet_and_observe_procedure",
+    "alias.district_council_must_meet_and_observe_procedure"
   ],
   "related_concepts": [
-    "obligation.district_council_shall_meet_and_observe_procedure"
+    "alias.district_council_must_meet_and_observe_procedure"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "council",
+      "meet",
+      "observe",
+      "procedure",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "District Consumer Council"
+    ],
+    "user_queries": [
+      "What are the obligations of the District Council?",
+      "What is district commission references district council?",
+      "How does district commission references district council work?",
+      "Can you explain district commission references district council?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

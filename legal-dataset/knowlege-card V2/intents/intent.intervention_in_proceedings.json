@@ -5,21 +5,46 @@
   "description": "Natural language queries a user may ask about: Intervention in Proceedings",
   "content": {
     "queries": [
-      "How do I file intervention in proceedings?",
-      "What are the steps for intervention in proceedings?"
+      "What are the benefits of intervention in proceedings under the Consumer Protection Act?",
+      "Can a consumer association intervene in proceedings on behalf of individual consumers?",
+      "How does the court decide whether to allow intervention in proceedings?",
+      "What is the role of the intervenor in proceedings under the Consumer Protection Act?",
+      "Can intervention in proceedings be used to delay or disrupt the legal process?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S18-2",
-    "procedure.intervention_in_proceedings"
+    "procedure.intervention_in_proceedings",
+    "alias.intervention_in_proceedings"
   ],
   "related_concepts": [
-    "procedure.intervention_in_proceedings"
+    "alias.intervention_in_proceedings"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "intervention",
+      "proceedings",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "advice on consumer welfare",
+      "advising on consumer welfare",
+      "consumer rights guidance",
+      "consumer welfare advice",
+      "consumer welfare measures"
+    ],
+    "user_queries": [
+      "What is intervention in proceedings?",
+      "How does intervention in proceedings work?",
+      "Can you explain intervention in proceedings?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

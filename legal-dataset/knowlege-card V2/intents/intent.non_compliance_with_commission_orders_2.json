@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.non_compliance_with_commission_orders_2",
+  "concept_type": "intent",
+  "title": "Questions about Non-compliance with Commission orders",
+  "description": "Natural language queries a user may ask about: Non-compliance with Commission orders",
+  "content": {
+    "queries": [
+      "What are the consequences of repeated non-compliance with Commission orders?",
+      "How does non-compliance with Commission orders affect consumer rights?",
+      "Can a company appeal a Commission order for non-compliance?",
+      "What is the role of the Commission in enforcing compliance with its orders?",
+      "Are there any specific rules for non-compliance with Commission orders under the Consumer Protection Act?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S72-1",
+    "offence.whoever_fails_to_comply_with_any_order_made_by_the_district_commission_or_the_st"
+  ],
+  "related_concepts": [
+    "offence.whoever_fails_to_comply_with_any_order_made_by_the_district_commission_or_the_st"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "non",
+      "compliance",
+      "commission",
+      "orders",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is non-compliance with commission orders?",
+      "How does non-compliance with commission orders work?",
+      "Can you explain non-compliance with commission orders?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

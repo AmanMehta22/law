@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: District Commission must hear complaints based on affidavit and documentary evidence",
   "content": {
     "queries": [
+      "How does the District Commission weigh the importance of affidavit and documentary evidence in complaints?",
+      "Can a complaint be dismissed if the affidavit is incomplete?",
+      "What happens if the documentary evidence is disputed by the other party?",
+      "How does the District Commission ensure that the affidavit and documentary evidence are authentic?",
+      "Are there any specific formats or requirements for the affidavit and documentary evidence?"
+    ]
+  },
+  "derived_from": [
+    "alias.district_commission_must_hear_complaints_based_on_affidavit_and_documentary_evid"
+  ],
+  "related_concepts": [
+    "alias.district_commission_must_hear_complaints_based_on_affidavit_and_documentary_evid"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commission",
+      "hear",
+      "complaints",
+      "based",
+      "affidavit",
+      "documentary",
+      "evidence"
+    ],
+    "aliases": [
+      "affidavit-based complaint",
+      "complaint hearing with supporting documents",
+      "documentary evidence hearing",
+      "evidence-based complaint hearing"
+    ],
+    "user_queries": [
       "What is district commission must hear complaints based on affidavit and documentary evidence?",
       "How does district commission must hear complaints based on affidavit and documentary evidence work?",
       "Can you explain district commission must hear complaints based on affidavit and documentary evidence?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S38-6",
-    "obligation.district_commission_must_hear_complaints_based_on_affidavit_"
-  ],
-  "related_concepts": [
-    "obligation.district_commission_must_hear_complaints_based_on_affidavit_"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,24 +1,48 @@
 {
   "concept_id": "intent.central_authority_must_refer_matter_to_regulator",
   "concept_type": "intent",
-  "title": "Questions about Central Authority must refer matter to Regulator",
-  "description": "Natural language queries a user may ask about: Central Authority must refer matter to Regulator",
+  "title": "Questions about Central Authority Must Refer Matter To Regulator",
+  "description": "Natural language queries a user may ask about: Central Authority Must Refer Matter To Regulator",
   "content": {
     "queries": [
-      "What are the obligations of the Central Authority?"
+      "Under what circumstances must the central authority refer a matter to the regulator?",
+      "What is the process for the central authority to refer a matter to the regulator?",
+      "Can you explain the central authority's role in referring matters to the regulator?",
+      "How does the central authority determine when to refer a matter to the regulator?",
+      "What are the requirements for the central authority to refer a matter to the regulator?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S19-2",
-    "obligation.central_authority_may_refer_the_matter_to_the_concerned_regu"
+    "obligation.central_authority_may_refer_the_matter_to_the_concerned_regu",
+    "alias.central_authority_must_refer_matter_to_regulator"
   ],
   "related_concepts": [
-    "obligation.central_authority_may_refer_the_matter_to_the_concerned_regu"
+    "alias.central_authority_must_refer_matter_to_regulator"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "authority",
+      "refer",
+      "matter",
+      "regulator",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "Central Authority",
+      "Regulator"
+    ],
+    "user_queries": [
+      "What are the obligations of the Central Authority?",
+      "What is central authority must refer matter to regulator?",
+      "How does central authority must refer matter to regulator work?",
+      "Can you explain central authority must refer matter to regulator?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

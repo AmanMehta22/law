@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.jurisdiction_of_national_commission_benches_2",
+  "concept_type": "intent",
+  "title": "Questions about Jurisdiction of National Commission Benches",
+  "description": "Natural language queries a user may ask about: Jurisdiction of National Commission Benches",
+  "content": {
+    "queries": [
+      "How do National Commission benches coordinate with other consumer forums to exercise their jurisdiction?",
+      "What is the role of National Commission benches in appeals against decisions of lower consumer forums?",
+      "Can a National Commission bench transfer a case to another bench with appropriate jurisdiction?",
+      "What are the guidelines for National Commission benches to follow in determining their jurisdiction?",
+      "Are there any exceptions to the general rules of jurisdiction for National Commission benches?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S58-2",
+    "jurisdiction.national_commission_benches"
+  ],
+  "related_concepts": [
+    "jurisdiction.national_commission_benches"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "jurisdiction",
+      "national",
+      "commission",
+      "benches",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "Central Commission",
+      "Central Consumer Protection Council",
+      "NCDRC",
+      "National Consumer Commission",
+      "National Consumer Disputes Redressal Commission",
+      "National Consumer Protection Agency"
+    ],
+    "user_queries": [
+      "What is jurisdiction of national commission benches?",
+      "How does jurisdiction of national commission benches work?",
+      "Can you explain jurisdiction of national commission benches?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

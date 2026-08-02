@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Central Government must issue guidelines",
   "content": {
     "queries": [
+      "What guidelines must the Central Government issue under the Consumer Protection Act?",
+      "How do I know if the Central Government has issued necessary guidelines?",
+      "Can the Central Government refuse to issue guidelines for consumer protection?",
+      "What is the process for the Central Government to issue guidelines for consumer protection?",
+      "Are the guidelines issued by the Central Government binding on all states?"
+    ]
+  },
+  "derived_from": [
+    "alias.central_government_must_issue_guidelines"
+  ],
+  "related_concepts": [
+    "alias.central_government_must_issue_guidelines"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "government",
+      "issue",
+      "guidelines",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "central government directive",
+      "government guidelines",
+      "regulatory guidelines by central government"
+    ],
+    "user_queries": [
       "What is central government must issue guidelines?",
       "How does central government must issue guidelines work?",
       "Can you explain central government must issue guidelines?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH1-S2-2",
-    "obligation.central_government_must_issue_guidelines"
-  ],
-  "related_concepts": [
-    "obligation.central_government_must_issue_guidelines"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

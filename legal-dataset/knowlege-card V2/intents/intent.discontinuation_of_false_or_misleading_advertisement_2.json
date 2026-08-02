@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.discontinuation_of_false_or_misleading_advertisement_2",
+  "concept_type": "intent",
+  "title": "Questions about Discontinuation of false or misleading advertisement",
+  "description": "Natural language queries a user may ask about: Discontinuation of false or misleading advertisement",
+  "content": {
+    "queries": [
+      "stop false ads",
+      "What is discontinuation of false advertisement?",
+      "How does discontinuation of false advertisement work?",
+      "Can you explain discontinuation of false advertisement?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S21-1",
+    "remedy.discontinuation_of_unfair_practice"
+  ],
+  "related_concepts": [
+    "remedy.discontinuation_of_unfair_practice"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "discontinuation",
+      "false",
+      "misleading",
+      "advertisement",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "withdrawal of advertisement"
+    ],
+    "user_queries": [
+      "stop false ads",
+      "What is discontinuation of false advertisement?",
+      "How does discontinuation of false advertisement work?",
+      "Can you explain discontinuation of false advertisement?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

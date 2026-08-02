@@ -1,0 +1,58 @@
+{
+  "concept_id": "intent.government_must_utilise_funds_2",
+  "concept_type": "intent",
+  "title": "Questions about Government must utilise funds",
+  "description": "Natural language queries a user may ask about: Government must utilise funds",
+  "content": {
+    "queries": [
+      "How does the government utilise funds for consumer protection?",
+      "What are the rules for government utilisation of funds under the Consumer Protection Act?",
+      "Can the government utilise funds for purposes other than consumer protection?",
+      "How do I know if the government is utilising funds correctly for consumer protection?",
+      "What happens if the government fails to utilise funds for consumer protection?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S39-2",
+    "obligation.government_must_utilise_funds_in_a_prescribed_manner"
+  ],
+  "related_concepts": [
+    "obligation.government_must_utilise_funds_in_a_prescribed_manner"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "government",
+      "utilise",
+      "funds",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "appeal to national commission",
+      "appeal to national consumer commission",
+      "national appeal",
+      "national commission",
+      "national commission appeal"
+    ],
+    "user_queries": [
+      "What is government must utilise funds?",
+      "How does government must utilise funds work?",
+      "Can you explain government must utilise funds?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.investigation_into_allegations_against_state_commission_members_handled_by_state",
+  "concept_type": "intent",
+  "title": "Questions about Investigation into allegations against State Commission members handled by State Government",
+  "description": "Natural language queries a user may ask about: Investigation into allegations against State Commission members handled by State Government",
+  "content": {
+    "queries": [
+      "What is investigation into allegations against state commission members handled by state government?",
+      "How does investigation into allegations against state commission members handled by state government work?",
+      "Can you explain investigation into allegations against state commission members handled by state government?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S70-1",
+    "relationship.procedure_investigation_into_allegations_against_state_commission_memb_10"
+  ],
+  "related_concepts": [
+    "relationship.procedure_investigation_into_allegations_against_state_commission_memb_10"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "investigation",
+      "into",
+      "allegations",
+      "against",
+      "state",
+      "commission",
+      "members",
+      "handled"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government"
+    ],
+    "user_queries": [
+      "What is investigation into allegations against state commission members handled by state government?",
+      "How does investigation into allegations against state commission members handled by state government work?",
+      "Can you explain investigation into allegations against state commission members handled by state government?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

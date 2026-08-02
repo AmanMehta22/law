@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Exclusion of human tissues, blood, blood products and organs",
   "content": {
     "queries": [
+      "What is the rationale behind excluding human tissues, blood, blood products, and organs from the scope of product liability?",
+      "How does the exclusion of these products impact the rights of consumers who have suffered harm due to their use?",
+      "Are there any specific regulations or laws that govern the use of human tissues, blood, blood products, and organs, and how do they intersect with consumer protection laws?",
+      "Can a consumer claim compensation for harm caused by a product that is derived from human tissues, blood, blood products, or organs, but is not itself a human tissue or product?",
+      "What are the implications of excluding human tissues, blood, blood products, and organs from product liability on public health and safety?"
+    ]
+  },
+  "derived_from": [
+    "alias.exclusion_of_human_tissues_blood_blood_products_and_organs"
+  ],
+  "related_concepts": [
+    "alias.exclusion_of_human_tissues_blood_blood_products_and_organs"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "exclusion",
+      "human",
+      "tissues",
+      "blood",
+      "products",
+      "organs",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "biological material exclusion",
+      "blood product exclusion",
+      "human tissue exemption",
+      "organ donation exception"
+    ],
+    "user_queries": [
       "What is exclusion of human tissues, blood, blood products and organs?",
       "How does exclusion of human tissues, blood, blood products and organs work?",
       "Can you explain exclusion of human tissues, blood, blood products and organs?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH1-S2-33",
-    "exception.does_not_include_human_tissues_blood_blood_products_and_orga"
-  ],
-  "related_concepts": [
-    "exception.does_not_include_human_tissues_blood_blood_products_and_orga"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

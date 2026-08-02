@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Non-compliance with Commission orders",
   "content": {
     "queries": [
+      "What are the penalties for non-compliance with Commission orders?",
+      "Can a company be fined for non-compliance with Commission orders?",
+      "How does the Commission ensure compliance with its orders?",
+      "What is the process for addressing non-compliance with Commission orders?",
+      "Can a consumer file a complaint for non-compliance with Commission orders?"
+    ]
+  },
+  "derived_from": [
+    "alias.non_compliance_with_commission_orders"
+  ],
+  "related_concepts": [
+    "alias.non_compliance_with_commission_orders"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "non",
+      "compliance",
+      "commission",
+      "orders",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "disobeying commission",
+      "failing to comply with commission",
+      "ignoring commission directives",
+      "non-compliance with regulatory orders"
+    ],
+    "user_queries": [
       "What is non-compliance with commission orders?",
       "How does non-compliance with commission orders work?",
       "Can you explain non-compliance with commission orders?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S72-1",
-    "offence.whoever_fails_to_comply_with_any_order_made_by_the_district_commission_or_the_st"
-  ],
-  "related_concepts": [
-    "offence.whoever_fails_to_comply_with_any_order_made_by_the_district_commission_or_the_st"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

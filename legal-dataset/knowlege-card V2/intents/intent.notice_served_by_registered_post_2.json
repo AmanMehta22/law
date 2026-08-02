@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.notice_served_by_registered_post_2",
+  "concept_type": "intent",
+  "title": "Questions about Notice served by registered post",
+  "description": "Natural language queries a user may ask about: Notice served by registered post",
+  "content": {
+    "queries": [
+      "what if acknowledgment is lost",
+      "What is acknowledgment?",
+      "How does acknowledgment work?",
+      "Can you explain acknowledgment?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S65-3",
+    "exception.notice_is_considered_served_even_if_acknowledgment_is_lost_m"
+  ],
+  "related_concepts": [
+    "exception.notice_is_considered_served_even_if_acknowledgment_is_lost_m"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "notice",
+      "served",
+      "registered",
+      "post",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "service of notice"
+    ],
+    "user_queries": [
+      "what if acknowledgment is lost",
+      "What is acknowledgment?",
+      "How does acknowledgment work?",
+      "Can you explain acknowledgment?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.issuance_of_directions_to_discontinue_or_modify_advertisement_2",
+  "concept_type": "intent",
+  "title": "Questions about Issuance of directions to discontinue or modify advertisement",
+  "description": "Natural language queries a user may ask about: Issuance of directions to discontinue or modify advertisement",
+  "content": {
+    "queries": [
+      "What are the consequences for an advertiser who fails to discontinue or modify an advertisement?",
+      "Can the consumer commission issue directions to discontinue or modify an advertisement?",
+      "How does the issuance of directions to discontinue or modify an advertisement protect consumers?",
+      "What is the process for issuing directions to discontinue or modify an advertisement?",
+      "Can a consumer file a complaint to discontinue or modify a misleading advertisement?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S21-1",
+    "procedure.issuance_of_directions_to_discontinue_or_modify_advertisemen"
+  ],
+  "related_concepts": [
+    "procedure.issuance_of_directions_to_discontinue_or_modify_advertisemen"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "issuance",
+      "directions",
+      "discontinue",
+      "modify",
+      "advertisement",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "endorser responsibilities",
+      "manufacturer duties"
+    ],
+    "user_queries": [
+      "What is advertiser must discontinue or modify advertisement?",
+      "How does advertiser must discontinue or modify advertisement work?",
+      "Can you explain advertiser must discontinue or modify advertisement?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "concept_id": "intent.adulterated_food_product",
+  "concept_type": "intent",
+  "title": "Questions about Adulterated Food Product",
+  "description": "Natural language queries a user may ask about: Adulterated Food Product",
+  "content": {
+    "queries": [
+      "What is adulterated food product?",
+      "How does adulterated food product work?",
+      "Can you explain adulterated food product?"
+    ]
+  },
+  "derived_from": [
+    "penalty.manufacturing_storing_selling_distributing_or_importing_prod",
+    "example.adulterated_food_product"
+  ],
+  "related_concepts": [
+    "example.adulterated_food_product"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "adulterated",
+      "food",
+      "product",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "penalty for adulterated products"
+    ],
+    "user_queries": [
+      "What is adulterated food product?",
+      "How does adulterated food product work?",
+      "Can you explain adulterated food product?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

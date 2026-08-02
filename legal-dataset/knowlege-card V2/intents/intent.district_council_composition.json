@@ -5,22 +5,44 @@
   "description": "Natural language queries a user may ask about: District Council composition",
   "content": {
     "queries": [
+      "What is the ideal composition of a District Council?",
+      "How are members of a District Council selected or elected?",
+      "What are the qualifications and eligibility criteria for becoming a member of a District Council?",
+      "Can a District Council have representatives from different consumer groups?",
+      "How often are elections or selections held to form a new District Council?"
+    ]
+  },
+  "derived_from": [
+    "alias.district_council_composition"
+  ],
+  "related_concepts": [
+    "alias.district_council_composition"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "council",
+      "composition",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "council",
+      "council composition",
+      "council members",
+      "district council",
+      "district council structure"
+    ],
+    "user_queries": [
       "What is district council composition?",
       "How does district council composition work?",
       "Can you explain district council composition?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH2-S8-2",
-    "obligation.district_council_shall_consist_of_the_collector_of_the_distr"
-  ],
-  "related_concepts": [
-    "obligation.district_council_shall_consist_of_the_collector_of_the_distr"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

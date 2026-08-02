@@ -1,0 +1,58 @@
+{
+  "concept_id": "intent.replacement_of_mediator_2",
+  "concept_type": "intent",
+  "title": "Questions about Replacement of Mediator",
+  "description": "Natural language queries a user may ask about: Replacement of Mediator",
+  "content": {
+    "queries": [
+      "What are the grounds for replacing a mediator in a consumer dispute?",
+      "How is the replacement of mediator initiated by the consumer?",
+      "Can the replacement mediator review the previous mediator's decisions?",
+      "What are the responsibilities of the replacement mediator in a consumer case?",
+      "Is the replacement of mediator a time-consuming process in consumer disputes?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S78",
+    "procedure.replacement_of_mediator"
+  ],
+  "related_concepts": [
+    "procedure.replacement_of_mediator"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "replacement",
+      "mediator",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "appointing a new mediator",
+      "change of mediator",
+      "mediator replacement process",
+      "mediator substitution",
+      "new mediator appointment"
+    ],
+    "user_queries": [
+      "What is replacement of mediator?",
+      "How does replacement of mediator work?",
+      "Can you explain replacement of mediator?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

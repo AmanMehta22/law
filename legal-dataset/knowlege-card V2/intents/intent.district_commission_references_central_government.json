@@ -1,0 +1,60 @@
+{
+  "concept_id": "intent.district_commission_references_central_government",
+  "concept_type": "intent",
+  "title": "Questions about District Commission references Central Government",
+  "description": "Natural language queries a user may ask about: District Commission references Central Government",
+  "content": {
+    "queries": [
+      "When does the District Commission reference the Central Government?",
+      "What issues are referred to the Central Government by the District Commission?",
+      "How does the District Commission communicate with the Central Government?",
+      "Can the District Commission make decisions without referencing the Central Government?",
+      "What is the process for the Central Government to respond to references from the District Commission?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S1-3",
+    "CPA2019-CH2-S6-2",
+    "CPA2019-CH4-S39-4",
+    "CPA2019-CH8-S102-2",
+    "relationship.alias_district_commission_references_alias_central_government"
+  ],
+  "related_concepts": [
+    "relationship.alias_district_commission_references_alias_central_government"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commission",
+      "references",
+      "central",
+      "government",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government"
+    ],
+    "user_queries": [
+      "What is central government?",
+      "How does central government work?",
+      "Can you explain central government?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

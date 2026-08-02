@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.discovery_and_production_of_evidence_depends_on_report_of_analysis_or_test",
+  "concept_type": "intent",
+  "title": "Questions about Discovery and production of evidence depends on Report of analysis or test",
+  "description": "Natural language queries a user may ask about: Discovery and production of evidence depends on Report of analysis or test",
+  "content": {
+    "queries": [
+      "What is discovery and production of evidence depends on report of analysis or test?",
+      "How does discovery and production of evidence depends on report of analysis or test work?",
+      "Can you explain discovery and production of evidence depends on report of analysis or test?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-9",
+    "relationship.procedure_discovery_and_production_of_evidence_depends_on_evidence_rep"
+  ],
+  "related_concepts": [
+    "relationship.procedure_discovery_and_production_of_evidence_depends_on_evidence_rep"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "discovery",
+      "production",
+      "evidence",
+      "depends",
+      "report",
+      "analysis",
+      "test",
+      "natural"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government"
+    ],
+    "user_queries": [
+      "What is discovery and production of evidence depends on report of analysis or test?",
+      "How does discovery and production of evidence depends on report of analysis or test work?",
+      "Can you explain discovery and production of evidence depends on report of analysis or test?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Endorsement",
   "content": {
     "queries": [
-      "What is an endorsement in advertising",
-      "How does endorsement affect consumer behavior",
-      "What constitutes an endorsement under the Consumer Protection Act"
+      "What constitutes an endorsement under the Consumer Protection Act?",
+      "Are celebrities liable for endorsing false or misleading advertisements?",
+      "Can a consumer file a complaint against a celebrity endorser?",
+      "What are the responsibilities of a celebrity endorser under the Consumer Protection Act?",
+      "How does the Consumer Protection Act regulate endorsements in advertisements?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-18",
-    "definition.endorsement"
+    "definition.endorsement",
+    "alias.endorsement"
   ],
   "related_concepts": [
-    "definition.endorsement"
+    "alias.endorsement"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "endorsement",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "how"
+    ],
+    "aliases": [
+      "testimonial",
+      "recommendation"
+    ],
+    "user_queries": [
+      "What is endorsement?",
+      "How does endorsement work?",
+      "Can you explain endorsement?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

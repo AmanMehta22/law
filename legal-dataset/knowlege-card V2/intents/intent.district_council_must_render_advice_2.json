@@ -1,0 +1,56 @@
+{
+  "concept_id": "intent.district_council_must_render_advice_2",
+  "concept_type": "intent",
+  "title": "Questions about District Council must render advice",
+  "description": "Natural language queries a user may ask about: District Council must render advice",
+  "content": {
+    "queries": [
+      "What is the role of a District Council in rendering advice under the Consumer Protection Act?",
+      "How does the District Council provide advice to consumers?",
+      "Can a consumer approach the District Council for advice on a complaint?",
+      "What kind of advice can a consumer expect from the District Council?",
+      "Is the District Council's advice binding on consumer complaints?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH2-S9",
+    "obligation.district_council_must_render_advice_on_promotion_and_protect"
+  ],
+  "related_concepts": [
+    "obligation.district_council_must_render_advice_on_promotion_and_protect"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "council",
+      "render",
+      "advice",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "District Board",
+      "Local Council",
+      "Municipal Council"
+    ],
+    "user_queries": [
+      "What is district council must render advice?",
+      "How does district council must render advice work?",
+      "Can you explain district council must render advice?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

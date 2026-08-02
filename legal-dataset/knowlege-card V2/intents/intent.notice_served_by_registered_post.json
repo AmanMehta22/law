@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.notice_served_by_registered_post",
   "concept_type": "intent",
-  "title": "Questions about Notice served by registered post",
-  "description": "Natural language queries a user may ask about: Notice served by registered post",
+  "title": "Questions about Notice Served By Registered Post",
+  "description": "Natural language queries a user may ask about: Notice Served By Registered Post",
   "content": {
     "queries": [
-      "what if acknowledgment is lost"
+      "What is the significance of serving a notice by registered post in consumer cases?",
+      "How does serving a notice by registered post affect the acknowledgment process?",
+      "Can a notice served by registered post be considered proof of acknowledgment?",
+      "What are the requirements for serving a notice by registered post under the Consumer Protection Act?",
+      "Is serving a notice by registered post mandatory for consumer complaints?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S65-3",
-    "exception.notice_is_considered_served_even_if_acknowledgment_is_lost_m"
+    "exception.notice_is_considered_served_even_if_acknowledgment_is_lost_m",
+    "alias.notice_served_by_registered_post"
   ],
   "related_concepts": [
-    "exception.notice_is_considered_served_even_if_acknowledgment_is_lost_m"
+    "alias.notice_served_by_registered_post"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "notice",
+      "served",
+      "registered",
+      "post",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "service of notice"
+    ],
+    "user_queries": [
+      "what if acknowledgment is lost",
+      "What is acknowledgment?",
+      "How does acknowledgment work?",
+      "Can you explain acknowledgment?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: President must constitute Bench",
   "content": {
     "queries": [
+      "What is the role of the President in constituting a bench for consumer disputes?",
+      "How does the President ensure the constitution of a fair and impartial bench?",
+      "Can the President constitute a bench without the recommendation of the Chief Justice?",
+      "What are the qualifications required for a member to be part of the bench constituted by the President?",
+      "How does the President's decision to constitute a bench impact the consumer dispute resolution process?"
+    ]
+  },
+  "derived_from": [
+    "alias.president_must_constitute_bench"
+  ],
+  "related_concepts": [
+    "alias.president_must_constitute_bench"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "president",
+      "constitute",
+      "bench",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "appointing a bench",
+      "bench formation",
+      "constituting a bench"
+    ],
+    "user_queries": [
       "What is president must constitute bench?",
       "How does president must constitute bench work?",
       "Can you explain president must constitute bench?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S47-2",
-    "obligation.president_must_constitute_a_bench"
-  ],
-  "related_concepts": [
-    "obligation.president_must_constitute_a_bench"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

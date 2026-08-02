@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Application of Order I Rule 8",
   "content": {
     "queries": [
+      "What are the implications of Order I Rule 8 on my case?",
+      "Can I apply Order I Rule 8 in a consumer dispute?",
+      "How does Order I Rule 8 affect the court's decision?",
+      "What are the requirements for applying Order I Rule 8?",
+      "Is Order I Rule 8 applicable in all consumer protection cases?"
+    ]
+  },
+  "derived_from": [
+    "alias.application_of_order_i_rule_8"
+  ],
+  "related_concepts": [
+    "alias.application_of_order_i_rule_8"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "application",
+      "order",
+      "rule",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "order application",
+      "regulatory order application",
+      "rule 8 application",
+      "specific order application"
+    ],
+    "user_queries": [
       "What is application of order i rule 8?",
       "How does application of order i rule 8 work?",
       "Can you explain application of order i rule 8?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S38-11",
-    "exception.subject_to_the_modification_that_every_reference_therein_to_"
-  ],
-  "related_concepts": [
-    "exception.subject_to_the_modification_that_every_reference_therein_to_"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

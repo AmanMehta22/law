@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Senior-most member must preside over Bench",
   "content": {
     "queries": [
+      "Why is it important for the senior-most member to preside over the bench in consumer protection cases?",
+      "What happens if the senior-most member is unavailable to preside over the bench?",
+      "Can a junior member preside over the bench in the absence of the senior-most member?",
+      "How does the senior-most member's experience affect the outcome of consumer protection cases?",
+      "What are the responsibilities of the senior-most member presiding over the bench in consumer protection cases?"
+    ]
+  },
+  "derived_from": [
+    "alias.senior_most_member_must_preside_over_bench"
+  ],
+  "related_concepts": [
+    "alias.senior_most_member_must_preside_over_bench"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "senior",
+      "most",
+      "member",
+      "preside",
+      "over",
+      "bench",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "bench presiding officer",
+      "senior member presiding",
+      "senior-most member's role"
+    ],
+    "user_queries": [
       "What is senior-most member must preside over bench?",
       "How does senior-most member must preside over bench work?",
       "Can you explain senior-most member must preside over bench?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S47-2",
-    "obligation.senior_most_member_must_preside_over_the_bench"
-  ],
-  "related_concepts": [
-    "obligation.senior_most_member_must_preside_over_the_bench"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

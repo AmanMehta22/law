@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.overseeing_functioning_of_state_and_district_commissions_depends_on_english_tran",
+  "concept_type": "intent",
+  "title": "Questions about Overseeing functioning of State and District Commissions depends on English translation of judgments",
+  "description": "Natural language queries a user may ask about: Overseeing functioning of State and District Commissions depends on English translation of judgments",
+  "content": {
+    "queries": [
+      "What is overseeing functioning of state and district commissions depends on english translation of judgments?",
+      "How does overseeing functioning of state and district commissions depends on english translation of judgments work?",
+      "Can you explain overseeing functioning of state and district commissions depends on english translation of judgments?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S70-1",
+    "relationship.procedure_overseeing_functioning_of_state_and_district_commissions_dep_2"
+  ],
+  "related_concepts": [
+    "relationship.procedure_overseeing_functioning_of_state_and_district_commissions_dep_2"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "overseeing",
+      "functioning",
+      "state",
+      "district",
+      "commissions",
+      "depends",
+      "english",
+      "translation"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government"
+    ],
+    "user_queries": [
+      "What is overseeing functioning of state and district commissions depends on english translation of judgments?",
+      "How does overseeing functioning of state and district commissions depends on english translation of judgments work?",
+      "Can you explain overseeing functioning of state and district commissions depends on english translation of judgments?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

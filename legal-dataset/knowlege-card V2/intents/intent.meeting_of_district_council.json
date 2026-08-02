@@ -5,21 +5,44 @@
   "description": "Natural language queries a user may ask about: Meeting of District Council",
   "content": {
     "queries": [
-      "How do I file meeting of district council?",
-      "What are the steps for meeting of district council?"
+      "How often must the district council meet to discuss consumer disputes?",
+      "What procedures must the district council follow during a meeting?",
+      "Can the district council meet virtually to discuss consumer complaints?",
+      "What are the quorum requirements for a district council meeting?",
+      "How are decisions made during a district council meeting?"
     ]
   },
   "derived_from": [
     "CPA2019-CH2-S8-4",
-    "procedure.meeting_of_district_council"
+    "procedure.meeting_of_district_council",
+    "alias.meeting_of_district_council"
   ],
   "related_concepts": [
-    "procedure.meeting_of_district_council"
+    "alias.meeting_of_district_council"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "meeting",
+      "district",
+      "council",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "District Board",
+      "Local Council",
+      "Municipal Council"
+    ],
+    "user_queries": [
+      "What is district council must meet and observe procedure?",
+      "How does district council must meet and observe procedure work?",
+      "Can you explain district council must meet and observe procedure?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

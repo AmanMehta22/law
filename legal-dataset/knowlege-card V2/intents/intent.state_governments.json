@@ -5,22 +5,45 @@
   "description": "Natural language queries a user may ask about: State Governments",
   "content": {
     "queries": [
-      "What is state governments?",
-      "How does state governments work?",
-      "Can you explain state governments?"
+      "What role do State Governments play in consumer protection?",
+      "How do State Governments implement consumer protection laws?",
+      "What are the responsibilities of State Governments in regulating consumer markets?",
+      "Can State Governments establish their own consumer protection agencies?",
+      "How do State Governments coordinate with the central government on consumer protection issues?"
     ]
   },
   "derived_from": [
     "CPA2019-CH8-S102-1",
-    "authority.state_governments"
+    "authority.state_governments",
+    "alias.state_governments"
   ],
   "related_concepts": [
-    "authority.state_governments"
+    "alias.state_governments"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "state",
+      "governments",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government"
+    ],
+    "user_queries": [
+      "What is state governments?",
+      "How does state governments work?",
+      "Can you explain state governments?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

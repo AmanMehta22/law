@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.declaration_of_unfair_contract_terms_as_null_and_void_2",
+  "concept_type": "intent",
+  "title": "Questions about Declaration of unfair contract terms as null and void",
+  "description": "Natural language queries a user may ask about: Declaration of unfair contract terms as null and void",
+  "content": {
+    "queries": [
+      "what happens to unfair contract terms",
+      "What is declaration of unfair contract terms as null and void?",
+      "How does declaration of unfair contract terms as null and void work?",
+      "Can you explain declaration of unfair contract terms as null and void?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S49-2",
+    "remedy.declaration_of_unfair_contract_terms_as_null_and_void"
+  ],
+  "related_concepts": [
+    "remedy.declaration_of_unfair_contract_terms_as_null_and_void"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "declaration",
+      "unfair",
+      "contract",
+      "terms",
+      "null",
+      "void",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "declaration of invalid contract terms"
+    ],
+    "user_queries": [
+      "what happens to unfair contract terms",
+      "What is declaration of unfair contract terms as null and void?",
+      "How does declaration of unfair contract terms as null and void work?",
+      "Can you explain declaration of unfair contract terms as null and void?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

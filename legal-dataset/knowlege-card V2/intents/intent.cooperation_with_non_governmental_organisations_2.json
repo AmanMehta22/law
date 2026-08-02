@@ -1,0 +1,58 @@
+{
+  "concept_id": "intent.cooperation_with_non_governmental_organisations_2",
+  "concept_type": "intent",
+  "title": "Questions about Cooperation with Non-Governmental Organisations",
+  "description": "Natural language queries a user may ask about: Cooperation with Non-Governmental Organisations",
+  "content": {
+    "queries": [
+      "How do non-governmental organisations contribute to consumer welfare measures?",
+      "What role do NGOs play in advising on consumer welfare?",
+      "Can non-governmental organisations help with filing complaints related to consumer welfare?",
+      "How does cooperation with non-governmental organisations benefit consumer protection?",
+      "What kind of support can I expect from non-governmental organisations for consumer welfare issues?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S18-2",
+    "procedure.cooperation_with_non_governmental_organisations"
+  ],
+  "related_concepts": [
+    "procedure.cooperation_with_non_governmental_organisations"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "cooperation",
+      "non",
+      "governmental",
+      "organisations",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "advice on consumer welfare",
+      "advising on consumer welfare",
+      "consumer rights guidance",
+      "consumer welfare advice",
+      "consumer welfare measures"
+    ],
+    "user_queries": [
+      "What is advising on consumer welfare measures?",
+      "How does advising on consumer welfare measures work?",
+      "Can you explain advising on consumer welfare measures?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

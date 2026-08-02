@@ -5,21 +5,47 @@
   "description": "Natural language queries a user may ask about: Representative proceeding",
   "content": {
     "queries": [
-      "How do I file representative proceeding?",
-      "What are the steps for representative proceeding?"
+      "What is a representative proceeding in a consumer protection case?",
+      "Can a representative proceeding be initiated by an individual?",
+      "How does a representative proceeding differ from a class action lawsuit?",
+      "What are the benefits of a representative proceeding for consumers?",
+      "Can a representative proceeding be used to address multiple consumer complaints?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-11",
-    "procedure.representative_proceeding"
+    "procedure.representative_proceeding",
+    "alias.representative_proceeding"
   ],
   "related_concepts": [
-    "procedure.representative_proceeding"
+    "alias.representative_proceeding"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "representative",
+      "proceeding",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is application of order i rule 8?",
+      "How does application of order i rule 8 work?",
+      "Can you explain application of order i rule 8?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

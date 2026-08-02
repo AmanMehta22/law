@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Pecuniary jurisdiction of National Commission",
   "content": {
     "queries": [
+      "What is the highest amount for which the National Commission can adjudicate a complaint?",
+      "How does the National Commission's pecuniary jurisdiction differ from that of the District Commission?",
+      "Can a consumer appeal to the National Commission if the claim amount is below a certain threshold?",
+      "What is the process for determining the pecuniary jurisdiction of the National Commission in a particular case?",
+      "Are there any exceptions to the pecuniary jurisdiction of the National Commission?"
+    ]
+  },
+  "derived_from": [
+    "alias.pecuniary_jurisdiction_of_national_commission"
+  ],
+  "related_concepts": [
+    "alias.pecuniary_jurisdiction_of_national_commission"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "pecuniary",
+      "jurisdiction",
+      "national",
+      "commission",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "national commission financial limit",
+      "national commission monetary jurisdiction",
+      "national commission money threshold",
+      "pecuniary limit of national commission"
+    ],
+    "user_queries": [
       "What is pecuniary jurisdiction of national commission?",
       "How does pecuniary jurisdiction of national commission work?",
       "Can you explain pecuniary jurisdiction of national commission?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S58-1",
-    "jurisdiction.national_commission_exceeds_ten_crore_rupees_no_territorial_limits_mentioned"
-  ],
-  "related_concepts": [
-    "jurisdiction.national_commission_exceeds_ten_crore_rupees_no_territorial_limits_mentioned"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

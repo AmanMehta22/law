@@ -1,24 +1,48 @@
 {
   "concept_id": "intent.publisher_must_discontinue_or_modify_advertisement",
   "concept_type": "intent",
-  "title": "Questions about Publisher must discontinue or modify advertisement",
-  "description": "Natural language queries a user may ask about: Publisher must discontinue or modify advertisement",
+  "title": "Questions about Publisher Must Discontinue Or Modify Advertisement",
+  "description": "Natural language queries a user may ask about: Publisher Must Discontinue Or Modify Advertisement",
   "content": {
     "queries": [
-      "What must a publisher do if their advertisement is found to be misleading?"
+      "Is a publisher responsible for discontinuing or modifying an advertisement that is found to be misleading?",
+      "What are the obligations of a publisher in relation to discontinuing or modifying an advertisement?",
+      "Can a publisher be held liable for failing to discontinue or modify an advertisement?",
+      "How does a publisher discontinue or modify an advertisement that has already been published?",
+      "What are the consequences for a publisher that fails to comply with an order to discontinue or modify an advertisement?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S21-1",
-    "obligation.publisher_must_discontinue_or_modify_advertisement_as_direct"
+    "obligation.publisher_must_discontinue_or_modify_advertisement_as_direct",
+    "alias.publisher_must_discontinue_or_modify_advertisement"
   ],
   "related_concepts": [
-    "obligation.publisher_must_discontinue_or_modify_advertisement_as_direct"
+    "alias.publisher_must_discontinue_or_modify_advertisement"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "publisher",
+      "discontinue",
+      "modify",
+      "advertisement",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "advertiser duties",
+      "manufacturer responsibilities"
+    ],
+    "user_queries": [
+      "What must a publisher do if their advertisement is found to be misleading?",
+      "What is advertiser must discontinue or modify advertisement?",
+      "How does advertiser must discontinue or modify advertisement work?",
+      "Can you explain advertiser must discontinue or modify advertisement?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

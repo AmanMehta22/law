@@ -1,0 +1,58 @@
+{
+  "concept_id": "intent.unlawful_search_or_seizure_2",
+  "concept_type": "intent",
+  "title": "Questions about Unlawful search or seizure",
+  "description": "Natural language queries a user may ask about: Unlawful search or seizure",
+  "content": {
+    "queries": [
+      "What is the process for reporting an unlawful search or seizure to the authorities?",
+      "How can a consumer prove that a search or seizure was unlawful?",
+      "Are there any specific laws or regulations that govern unlawful search or seizure?",
+      "Can a consumer seek compensation for damages resulting from an unlawful search or seizure?",
+      "What role do consumer protection agencies play in preventing unlawful search or seizure?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH7-S93",
+    "offence.the_director_general_or_any_other_officer_exercising_powers_under_section_22_who"
+  ],
+  "related_concepts": [
+    "offence.the_director_general_or_any_other_officer_exercising_powers_under_section_22_who"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "unlawful",
+      "search",
+      "seizure",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "Chief Director",
+      "DG",
+      "Director General of Consumer Affairs",
+      "Head of Consumer Protection",
+      "Main Official"
+    ],
+    "user_queries": [
+      "What is unlawful search or seizure?",
+      "How does unlawful search or seizure work?",
+      "Can you explain unlawful search or seizure?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

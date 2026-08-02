@@ -5,21 +5,46 @@
   "description": "Natural language queries a user may ask about: Penalty for first conviction",
   "content": {
     "queries": [
-      "What is the punishment for penalty for first conviction?",
-      "What happens if I commit penalty for first conviction?"
+      "What is the penalty for a first-time offender under the Consumer Protection Act?",
+      "How does the penalty for first conviction differ from subsequent convictions?",
+      "Can a first-time offender be given a warning instead of a penalty?",
+      "What are the factors that determine the penalty for first conviction?",
+      "Is the penalty for first conviction the same for all types of consumer protection offenses?"
     ]
   },
   "derived_from": [
-    "CPA2019-CH7-S90-3",
-    "penalty.first_conviction"
+    "alias.penalty_for_first_conviction"
   ],
   "related_concepts": [
-    "penalty.first_conviction"
+    "alias.penalty_for_first_conviction"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "penalty",
+      "first",
+      "conviction",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "first conviction punishment",
+      "first-time offender penalty",
+      "initial conviction fine",
+      "penalty for first-time offense"
+    ],
+    "user_queries": [
+      "What is licence suspension period?",
+      "How does licence suspension period work?",
+      "Can you explain licence suspension period?",
+      "What is penalty for first conviction?",
+      "How does penalty for first conviction work?",
+      "Can you explain penalty for first conviction?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

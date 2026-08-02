@@ -1,24 +1,46 @@
 {
   "concept_id": "intent.central_government_must_make_grants",
   "concept_type": "intent",
-  "title": "Questions about Central Government must make grants",
-  "description": "Natural language queries a user may ask about: Central Government must make grants",
+  "title": "Questions about Central Government Must Make Grants",
+  "description": "Natural language queries a user may ask about: Central Government Must Make Grants",
   "content": {
     "queries": [
-      "How is the Central Authority funded?"
+      "What is central government must make grants?",
+      "How does central government must make grants work?",
+      "Can you explain central government must make grants?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S25",
-    "obligation.central_government_make_grants_of_money_to_the_central_autho"
+    "obligation.central_government_make_grants_of_money_to_the_central_autho",
+    "alias.central_government_must_make_grants"
   ],
   "related_concepts": [
-    "obligation.central_government_make_grants_of_money_to_the_central_autho"
+    "alias.central_government_must_make_grants"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "government",
+      "make",
+      "grants",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "financial support",
+      "allocation of funds"
+    ],
+    "user_queries": [
+      "How is the Central Authority funded?",
+      "What is central government must make grants?",
+      "How does central government must make grants work?",
+      "Can you explain central government must make grants?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

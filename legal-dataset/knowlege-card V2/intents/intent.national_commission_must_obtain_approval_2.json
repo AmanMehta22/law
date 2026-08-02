@@ -1,0 +1,57 @@
+{
+  "concept_id": "intent.national_commission_must_obtain_approval_2",
+  "concept_type": "intent",
+  "title": "Questions about National Commission must obtain approval",
+  "description": "Natural language queries a user may ask about: National Commission must obtain approval",
+  "content": {
+    "queries": [
+      "What are the requirements for the National Commission to obtain approval?",
+      "How does the approval process work for the National Commission?",
+      "Can the National Commission function without obtaining approval?",
+      "What happens if the National Commission fails to obtain approval?",
+      "Is obtaining approval mandatory for the National Commission to make decisions?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S103-1",
+    "obligation.national_commission_must_obtain_previous_approval_of_the_cen"
+  ],
+  "related_concepts": [
+    "obligation.national_commission_must_obtain_previous_approval_of_the_cen"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "national",
+      "commission",
+      "obtain",
+      "approval",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government"
+    ],
+    "user_queries": [
+      "What is national commission must obtain approval?",
+      "How does national commission must obtain approval work?",
+      "Can you explain national commission must obtain approval?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

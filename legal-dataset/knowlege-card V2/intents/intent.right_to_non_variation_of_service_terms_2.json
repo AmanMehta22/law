@@ -1,0 +1,63 @@
+{
+  "concept_id": "intent.right_to_non_variation_of_service_terms_2",
+  "concept_type": "intent",
+  "title": "Questions about Right to Non-Variation of Service Terms",
+  "description": "Natural language queries a user may ask about: Right to Non-Variation of Service Terms",
+  "content": {
+    "queries": [
+      "can my salary be reduced after appointment",
+      "are my benefits protected after joining",
+      "What is right to non-variation of service terms?",
+      "How does right to non-variation of service terms work?",
+      "Can you explain right to non-variation of service terms?",
+      "What is protection of service terms for a commission member?",
+      "How does protection of service terms for a commission member work?",
+      "Can you explain protection of service terms for a commission member?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S55-2",
+    "right.right_to_non_variation_of_service_terms"
+  ],
+  "related_concepts": [
+    "right.right_to_non_variation_of_service_terms"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "right",
+      "non",
+      "variation",
+      "service",
+      "terms",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "job security",
+      "terms of service"
+    ],
+    "user_queries": [
+      "can my salary be reduced after appointment",
+      "are my benefits protected after joining",
+      "What is right to non-variation of service terms?",
+      "How does right to non-variation of service terms work?",
+      "Can you explain right to non-variation of service terms?",
+      "What is protection of service terms for a commission member?",
+      "How does protection of service terms for a commission member work?",
+      "Can you explain protection of service terms for a commission member?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

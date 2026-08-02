@@ -1,0 +1,60 @@
+{
+  "concept_id": "intent.manufacturer_2",
+  "concept_type": "intent",
+  "title": "Questions about Manufacturer",
+  "description": "Natural language queries a user may ask about: Manufacturer",
+  "content": {
+    "queries": [
+      "What is a manufacturer?",
+      "Who is considered a manufacturer under the law?",
+      "What does it mean to be a manufacturer?",
+      "What is manufacturer?",
+      "How does manufacturer work?",
+      "Can you explain manufacturer?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-24",
+    "definition.manufacturer"
+  ],
+  "related_concepts": [
+    "definition.manufacturer"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "manufacturer",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "who"
+    ],
+    "aliases": [
+      "maker",
+      "producer",
+      "assembler"
+    ],
+    "user_queries": [
+      "What is manufacturer?",
+      "How does manufacturer work?",
+      "Can you explain manufacturer?",
+      "What is a manufacturer?",
+      "Who is considered a manufacturer under the law?",
+      "What does it mean to be a manufacturer?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -5,20 +5,43 @@
   "description": "Natural language queries a user may ask about: Monitoring performance of State Commissions",
   "content": {
     "queries": [
-      "How does National Commission monitor State Commissions"
+      "How are the performance of State Commissions monitored?",
+      "What are the key indicators used to monitor State Commission performance?",
+      "Can you describe the process of monitoring State Commission performance?",
+      "What are the consequences of poor performance by a State Commission?",
+      "How often are State Commissions evaluated for their performance?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S70-1",
-    "procedure.monitoring_performance_of_state_commissions"
+    "procedure.monitoring_performance_of_state_commissions",
+    "alias.monitoring_performance_of_state_commissions"
   ],
   "related_concepts": [
-    "procedure.monitoring_performance_of_state_commissions"
+    "alias.monitoring_performance_of_state_commissions"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "monitoring",
+      "performance",
+      "state",
+      "commissions",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "oversight"
+    ],
+    "user_queries": [
+      "How does National Commission monitor State Commissions",
+      "What is copies of documents?",
+      "How does copies of documents work?",
+      "Can you explain copies of documents?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

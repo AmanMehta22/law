@@ -1,0 +1,58 @@
+{
+  "concept_id": "intent.state_commissions_2",
+  "concept_type": "intent",
+  "title": "Questions about State Commissions",
+  "description": "Natural language queries a user may ask about: State Commissions",
+  "content": {
+    "queries": [
+      "What is the difference between State Commissions and District Commissions?",
+      "How do State Commissions ensure consumer protection in their states?",
+      "Can you provide information on the procedure for filing an appeal with State Commissions?",
+      "What are the consequences of non-compliance with State Commissions' orders?",
+      "How can I find the contact details of my state's State Commission?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S70-2",
+    "CPA2019-CH4-S70-4",
+    "CPA2019-CH5-S74-1",
+    "authority.state_commissions"
+  ],
+  "related_concepts": [
+    "authority.state_commissions"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "state",
+      "commissions",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Regulatory Cell",
+      "Surveillance Cell",
+      "Watchdog"
+    ],
+    "user_queries": [
+      "What is consumer mediation cell?",
+      "How does consumer mediation cell work?",
+      "Can you explain consumer mediation cell?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

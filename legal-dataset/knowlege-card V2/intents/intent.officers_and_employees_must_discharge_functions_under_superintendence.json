@@ -1,24 +1,51 @@
 {
   "concept_id": "intent.officers_and_employees_must_discharge_functions_under_superintendence",
   "concept_type": "intent",
-  "title": "Questions about Officers and employees must discharge functions under superintendence",
-  "description": "Natural language queries a user may ask about: Officers and employees must discharge functions under superintendence",
+  "title": "Questions about Officers And Employees Must Discharge Functions Under Superintendence",
+  "description": "Natural language queries a user may ask about: Officers And Employees Must Discharge Functions Under Superintendence",
   "content": {
     "queries": [
-      "District Commission duties"
+      "Who is responsible for supervising officers and employees under the Consumer Protection Act?",
+      "What are the functions that officers and employees must discharge under superintendence?",
+      "How do officers and employees ensure they are discharging their functions under superintendence?",
+      "What are the consequences of not discharging functions under superintendence?",
+      "Can officers and employees be held liable for not following superintendence?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S33-2",
-    "obligation.officers_and_other_employees_of_the_district_commission_disc"
+    "CPA2019-CH4-S46-2",
+    "CPA2019-CH4-S57-2",
+    "obligation.officers_and_other_employees_of_the_district_commission_disc",
+    "obligation.officers_and_other_employees_of_the_national_commission_disc",
+    "obligation.officers_and_other_employees_of_the_state_commission_dischar",
+    "alias.officers_and_employees_must_discharge_functions_under_superintendence"
   ],
   "related_concepts": [
-    "obligation.officers_and_other_employees_of_the_district_commission_disc"
+    "alias.officers_and_employees_must_discharge_functions_under_superintendence"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "officers",
+      "employees",
+      "discharge",
+      "functions",
+      "superintendence",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "officers",
+      "employees"
+    ],
+    "user_queries": [
+      "What is officers and employees must discharge functions under superintendence?",
+      "How does officers and employees must discharge functions under superintendence work?",
+      "Can you explain officers and employees must discharge functions under superintendence?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,0 +1,57 @@
+{
+  "concept_id": "intent.district_commission_must_entertain_complaints_2",
+  "concept_type": "intent",
+  "title": "Questions about District Commission must entertain complaints",
+  "description": "Natural language queries a user may ask about: District Commission must entertain complaints",
+  "content": {
+    "queries": [
+      "What complaints can be entertained by the District Commission?",
+      "How do I file a complaint that the District Commission must entertain?",
+      "Can the District Commission refuse to entertain a complaint?",
+      "What is the process for the District Commission to entertain complaints?",
+      "Are there any specific requirements for a complaint to be entertained by the District Commission?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S34-1",
+    "obligation.district_commission_shall_have_jurisdiction_to_entertain_com"
+  ],
+  "related_concepts": [
+    "obligation.district_commission_shall_have_jurisdiction_to_entertain_com"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commission",
+      "entertain",
+      "complaints",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government"
+    ],
+    "user_queries": [
+      "What is district commission must entertain complaints?",
+      "How does district commission must entertain complaints work?",
+      "Can you explain district commission must entertain complaints?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

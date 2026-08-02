@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Action taken under repealed Act",
   "content": {
     "queries": [
+      "What happens to actions taken under the repealed Act after its repeal?",
+      "Can actions initiated under the repealed Act still be pursued?",
+      "How does the repeal of the Act affect ongoing actions?",
+      "Are actions taken under the repealed Act still valid?",
+      "What is the status of actions taken under the repealed Act after the new Act comes into force?"
+    ]
+  },
+  "derived_from": [
+    "alias.action_taken_under_repealed_act"
+  ],
+  "related_concepts": [
+    "alias.action_taken_under_repealed_act"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "action",
+      "taken",
+      "repealed",
+      "act",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "obsolete law application",
+      "prior law action",
+      "repealed law action",
+      "superseded law effect"
+    ],
+    "user_queries": [
       "What is action taken under repealed act?",
       "How does action taken under repealed act work?",
       "Can you explain action taken under repealed act?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH8-S107-2",
-    "exception.shall_be_deemed_to_have_been_done_or_taken_under_the_corresp"
-  ],
-  "related_concepts": [
-    "exception.shall_be_deemed_to_have_been_done_or_taken_under_the_corresp"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

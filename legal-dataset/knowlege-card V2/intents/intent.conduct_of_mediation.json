@@ -5,21 +5,44 @@
   "description": "Natural language queries a user may ask about: Conduct of mediation",
   "content": {
     "queries": [
-      "How do I file conduct of mediation?",
-      "What are the steps for conduct of mediation?"
+      "What are the rules for conducting mediation under the Consumer Protection Act?",
+      "Can mediation be conducted online?",
+      "How long does a mediation session typically last?",
+      "What is the role of the mediator in the conduct of mediation?",
+      "Can parties to a dispute opt out of mediation at any time?"
     ]
   },
   "derived_from": [
     "CPA2019-CH8-S103-2",
-    "procedure.conduct_of_mediation"
+    "procedure.conduct_of_mediation",
+    "alias.conduct_of_mediation"
   ],
   "related_concepts": [
-    "procedure.conduct_of_mediation"
+    "alias.conduct_of_mediation"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "conduct",
+      "mediation",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "adjournment cost",
+      "cost imposition by district commission",
+      "district commission cost"
+    ],
+    "user_queries": [
+      "What is adjournment cost imposition by district commission?",
+      "How does adjournment cost imposition by district commission work?",
+      "Can you explain adjournment cost imposition by district commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

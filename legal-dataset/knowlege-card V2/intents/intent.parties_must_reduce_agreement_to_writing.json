@@ -1,25 +1,49 @@
 {
   "concept_id": "intent.parties_must_reduce_agreement_to_writing",
   "concept_type": "intent",
-  "title": "Questions about Parties must reduce agreement to writing",
-  "description": "Natural language queries a user may ask about: Parties must reduce agreement to writing",
+  "title": "Questions about Parties Must Reduce Agreement To Writing",
+  "description": "Natural language queries a user may ask about: Parties Must Reduce Agreement To Writing",
   "content": {
     "queries": [
-      "what happens after mediation",
-      "consumer dispute resolution"
+      "Why is it necessary for parties to reduce their agreement to writing?",
+      "What happens if parties fail to reduce their agreement to writing?",
+      "Can parties reduce their agreement to writing after a dispute arises?",
+      "How does reducing an agreement to writing help prevent disputes?",
+      "What are the consequences of not having a written agreement between parties?"
     ]
   },
   "derived_from": [
     "CPA2019-CH5-S80-1",
-    "obligation.parties_to_a_consumer_dispute_or_their_authorised_representa"
+    "obligation.parties_to_a_consumer_dispute_or_their_authorised_representa",
+    "alias.parties_must_reduce_agreement_to_writing"
   ],
   "related_concepts": [
-    "obligation.parties_to_a_consumer_dispute_or_their_authorised_representa"
+    "alias.parties_must_reduce_agreement_to_writing"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "parties",
+      "reduce",
+      "agreement",
+      "writing",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "written agreement",
+      "settlement"
+    ],
+    "user_queries": [
+      "what happens after mediation",
+      "consumer dispute resolution",
+      "What is agreement in writing?",
+      "How does agreement in writing work?",
+      "Can you explain agreement in writing?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

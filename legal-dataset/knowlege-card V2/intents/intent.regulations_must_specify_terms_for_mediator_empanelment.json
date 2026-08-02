@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Regulations must specify terms for mediator empanelment",
   "content": {
     "queries": [
+      "What are the terms that regulations must specify for mediator empanelment?",
+      "How do regulations ensure transparency in mediator empanelment terms?",
+      "Can regulations change the terms for mediator empanelment over time?",
+      "What happens if regulations do not specify terms for mediator empanelment?",
+      "Are the terms for mediator empanelment specified by regulations publicly available?"
+    ]
+  },
+  "derived_from": [
+    "alias.regulations_must_specify_terms_for_mediator_empanelment"
+  ],
+  "related_concepts": [
+    "alias.regulations_must_specify_terms_for_mediator_empanelment"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "regulations",
+      "specify",
+      "terms",
+      "mediator",
+      "empanelment",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "empanelment regulations",
+      "mediator appointment terms",
+      "mediator empanelment terms"
+    ],
+    "user_queries": [
       "What is regulations must specify terms for mediator empanelment?",
       "How does regulations must specify terms for mediator empanelment work?",
       "Can you explain regulations must specify terms for mediator empanelment?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH5-S75-2",
-    "obligation.regulations_must_specify_terms_for_mediator_empanelment"
-  ],
-  "related_concepts": [
-    "obligation.regulations_must_specify_terms_for_mediator_empanelment"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,24 +1,48 @@
 {
   "concept_id": "intent.pecuniary_jurisdiction_of_state_commission",
   "concept_type": "intent",
-  "title": "Questions about Pecuniary jurisdiction of State Commission",
-  "description": "Natural language queries a user may ask about: Pecuniary jurisdiction of State Commission",
+  "title": "Questions about Pecuniary Jurisdiction Of State Commission",
+  "description": "Natural language queries a user may ask about: Pecuniary Jurisdiction Of State Commission",
   "content": {
     "queries": [
-      "State Commission jurisdiction"
+      "What is the pecuniary limit for filing a complaint with the State Commission?",
+      "How does the State Commission determine its pecuniary jurisdiction?",
+      "Can the State Commission hear cases that exceed its pecuniary limit?",
+      "What are the consequences of filing a complaint that exceeds the State Commission's pecuniary jurisdiction?",
+      "How does the pecuniary jurisdiction of the State Commission affect the filing of complaints?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S47-1",
-    "jurisdiction.state_commission_exceeds_rupees_one_crore_but_does_not_exceed_rupees_ten_crore_w"
+    "CPA2019-CH8-S101-2",
+    "jurisdiction.state_commission_exceeds_rupees_one_crore_but_does_not_exceed_rupees_ten_crore_w",
+    "jurisdiction.state_commission_other_value_of_goods_and_services",
+    "alias.pecuniary_jurisdiction_of_state_commission"
   ],
   "related_concepts": [
-    "jurisdiction.state_commission_exceeds_rupees_one_crore_but_does_not_exceed_rupees_ten_crore_w"
+    "alias.pecuniary_jurisdiction_of_state_commission"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "pecuniary",
+      "jurisdiction",
+      "state",
+      "commission",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "State Consumer Commission"
+    ],
+    "user_queries": [
+      "What is calling for records and passing orders?",
+      "How does calling for records and passing orders work?",
+      "Can you explain calling for records and passing orders?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

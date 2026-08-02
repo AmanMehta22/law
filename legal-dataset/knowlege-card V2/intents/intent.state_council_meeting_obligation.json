@@ -1,24 +1,45 @@
 {
   "concept_id": "intent.state_council_meeting_obligation",
   "concept_type": "intent",
-  "title": "Questions about State Council meeting obligation",
-  "description": "Natural language queries a user may ask about: State Council meeting obligation",
+  "title": "Questions about State Council Meeting Obligation",
+  "description": "Natural language queries a user may ask about: State Council Meeting Obligation",
   "content": {
     "queries": [
-      "How often must the State Council meet?"
+      "What is minimum meetings per year?",
+      "How does minimum meetings per year work?",
+      "Can you explain minimum meetings per year?"
     ]
   },
   "derived_from": [
     "CPA2019-CH2-S6-3",
-    "obligation.state_council_shall_meet"
+    "obligation.state_council_shall_meet",
+    "alias.state_council_meeting_obligation"
   ],
   "related_concepts": [
-    "obligation.state_council_shall_meet"
+    "alias.state_council_meeting_obligation"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "state",
+      "council",
+      "meeting",
+      "obligation",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "State Council meeting requirement"
+    ],
+    "user_queries": [
+      "How often must the State Council meet?",
+      "What is minimum meetings per year?",
+      "How does minimum meetings per year work?",
+      "Can you explain minimum meetings per year?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

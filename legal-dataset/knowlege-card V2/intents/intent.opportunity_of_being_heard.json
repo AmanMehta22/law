@@ -1,24 +1,48 @@
 {
   "concept_id": "intent.opportunity_of_being_heard",
   "concept_type": "intent",
-  "title": "Questions about Opportunity of being heard",
-  "description": "Natural language queries a user may ask about: Opportunity of being heard",
+  "title": "Questions about Opportunity Of Being Heard",
+  "description": "Natural language queries a user may ask about: Opportunity Of Being Heard",
   "content": {
     "queries": [
-      "What are the exceptions to passing an order under the Consumer Protection Act?"
+      "What is the process for giving opportunity of being heard by the central authority?",
+      "How does the central authority ensure opportunity of being heard for consumers?",
+      "Can a consumer be denied opportunity of being heard by the central authority?",
+      "What are the consequences of not providing opportunity of being heard by the central authority?",
+      "Is opportunity of being heard mandatory for the central authority in all cases?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S20",
-    "exception.the_central_authority_shall_give_the_person_an_opportunity_o"
+    "exception.the_central_authority_shall_give_the_person_an_opportunity_o",
+    "alias.opportunity_of_being_heard"
   ],
   "related_concepts": [
-    "exception.the_central_authority_shall_give_the_person_an_opportunity_o"
+    "alias.opportunity_of_being_heard"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "opportunity",
+      "being",
+      "heard",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "right to be heard",
+      "hearing opportunity"
+    ],
+    "user_queries": [
+      "What are the exceptions to passing an order under the Consumer Protection Act?",
+      "What is central authority must give opportunity of being heard?",
+      "How does central authority must give opportunity of being heard work?",
+      "Can you explain central authority must give opportunity of being heard?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,0 +1,56 @@
+{
+  "concept_id": "intent.awareness_on_consumer_rights_handled_by_state_commission",
+  "concept_type": "intent",
+  "title": "Questions about Awareness on Consumer Rights handled by State Commission",
+  "description": "Natural language queries a user may ask about: Awareness on Consumer Rights handled by State Commission",
+  "content": {
+    "queries": [
+      "What is awareness on consumer rights handled by state commission?",
+      "How does awareness on consumer rights handled by state commission work?",
+      "Can you explain awareness on consumer rights handled by state commission?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S18-2",
+    "relationship.procedure_awareness_on_consumer_rights_handled_by_authority_state_comm"
+  ],
+  "related_concepts": [
+    "relationship.procedure_awareness_on_consumer_rights_handled_by_authority_state_comm"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "awareness",
+      "consumer",
+      "rights",
+      "handled",
+      "state",
+      "commission",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "advice on consumer welfare",
+      "advising on consumer welfare",
+      "consumer rights guidance",
+      "consumer welfare advice",
+      "consumer welfare measures"
+    ],
+    "user_queries": [
+      "What is awareness on consumer rights handled by state commission?",
+      "How does awareness on consumer rights handled by state commission work?",
+      "Can you explain awareness on consumer rights handled by state commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

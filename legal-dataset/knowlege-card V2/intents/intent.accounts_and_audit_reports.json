@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Accounts and audit reports",
   "content": {
     "queries": [
+      "How are audit reports used in consumer protection?",
+      "What information is included in accounts and audit reports?",
+      "Can I request an audit report from a company?",
+      "How often are accounts and audit reports required to be filed?",
+      "What is the purpose of accounts and audit reports in the Consumer Protection Act?"
+    ]
+  },
+  "derived_from": [
+    "alias.accounts_and_audit_reports"
+  ],
+  "related_concepts": [
+    "alias.accounts_and_audit_reports"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "accounts",
+      "audit",
+      "reports",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "accounting reports",
+      "audit records",
+      "financial statements"
+    ],
+    "user_queries": [
       "What is accounts and audit reports?",
       "How does accounts and audit reports work?",
       "Can you explain accounts and audit reports?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH3-S26-4",
-    "evidence.accounts_audit_report"
-  ],
-  "related_concepts": [
-    "evidence.accounts_audit_report"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

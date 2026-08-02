@@ -11,16 +11,38 @@
     ]
   },
   "derived_from": [
-    "CPA2019-CH1-S1-2",
-    "jurisdiction.the_consumer_protection_act_2019_the_whole_of_india_except_the_state_of_jammu_an"
+    "alias.territorial_jurisdiction_of_the_act"
   ],
   "related_concepts": [
-    "jurisdiction.the_consumer_protection_act_2019_the_whole_of_india_except_the_state_of_jammu_an"
+    "alias.territorial_jurisdiction_of_the_act"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "territorial",
+      "jurisdiction",
+      "act",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "act area of authority",
+      "act jurisdiction",
+      "consumer protection act jurisdiction",
+      "geographical area of the act"
+    ],
+    "user_queries": [
+      "What is geographical exception?",
+      "How does geographical exception work?",
+      "Can you explain geographical exception?",
+      "What is territorial jurisdiction of the act?",
+      "How does territorial jurisdiction of the act work?",
+      "Can you explain territorial jurisdiction of the act?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

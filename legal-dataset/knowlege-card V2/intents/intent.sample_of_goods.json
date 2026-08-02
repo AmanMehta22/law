@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Sample of goods",
   "content": {
     "queries": [
+      "What is the purpose of providing a sample of goods to consumers?",
+      "How does the sample of goods help consumers make informed purchasing decisions?",
+      "Can a consumer demand a sample of goods before making a purchase?",
+      "What are the responsibilities of the manufacturer or seller in providing a sample of goods?",
+      "How does the sample of goods affect the warranty or guarantee of a product?"
+    ]
+  },
+  "derived_from": [
+    "alias.sample_of_goods"
+  ],
+  "related_concepts": [
+    "alias.sample_of_goods"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "sample",
+      "goods",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "goods specimen",
+      "item example",
+      "product sample"
+    ],
+    "user_queries": [
       "What is sample of goods?",
       "How does sample of goods work?",
       "Can you explain sample of goods?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S38-2",
-    "evidence.sample_of_goods"
-  ],
-  "related_concepts": [
-    "evidence.sample_of_goods"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

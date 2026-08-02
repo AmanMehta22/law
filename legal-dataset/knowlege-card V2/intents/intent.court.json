@@ -5,7 +5,11 @@
   "description": "Natural language queries a user may ask about: Court",
   "content": {
     "queries": [
-      "What is the role of court in compounding of offences?"
+      "Which court has the jurisdiction to hear consumer appeal cases?",
+      "Can a consumer court hear cases that involve multiple states?",
+      "What is the procedure for filing a complaint in a consumer court?",
+      "How does the court determine the validity of a consumer complaint?",
+      "Are there any specific rules for representing oneself in a consumer court?"
     ]
   },
   "derived_from": [
@@ -14,15 +18,35 @@
     "CPA2019-CH7-S90-3",
     "CPA2019-CH7-S91-3",
     "CPA2019-CH8-S96-1",
-    "authority.court"
+    "authority.court",
+    "alias.court"
   ],
   "related_concepts": [
-    "authority.court"
+    "alias.court"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "court",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "appeal"
+    ],
+    "aliases": [
+      "tribunal",
+      "judicial body"
+    ],
+    "user_queries": [
+      "What is the role of court in compounding of offences?",
+      "What is appeal exception?",
+      "How does appeal exception work?",
+      "Can you explain appeal exception?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

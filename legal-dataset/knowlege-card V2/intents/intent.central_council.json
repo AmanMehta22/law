@@ -5,9 +5,11 @@
   "description": "Natural language queries a user may ask about: Central Council",
   "content": {
     "queries": [
-      "What is central council?",
-      "How does central council work?",
-      "Can you explain central council?"
+      "What are the powers and functions of the Central Council?",
+      "How are members of the Central Council appointed?",
+      "What is the term of office for members of the Central Council?",
+      "Can the Central Council make recommendations to the Central Government?",
+      "How does the Central Council ensure consumer welfare?"
     ]
   },
   "derived_from": [
@@ -15,15 +17,35 @@
     "CPA2019-CH2-S4-1",
     "CPA2019-CH2-S4-2",
     "CPA2019-CH2-S5",
-    "authority.central_council"
+    "authority.central_council",
+    "alias.central_council"
   ],
   "related_concepts": [
-    "authority.central_council"
+    "alias.central_council"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "council",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Central Consumer Council",
+      "Consumer Council",
+      "National Council"
+    ],
+    "user_queries": [
+      "What is central council?",
+      "How does central council work?",
+      "Can you explain central council?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

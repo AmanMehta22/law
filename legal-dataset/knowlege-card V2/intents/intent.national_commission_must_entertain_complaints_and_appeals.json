@@ -5,22 +5,40 @@
   "description": "Natural language queries a user may ask about: National Commission must entertain complaints and appeals",
   "content": {
     "queries": [
+      "What types of complaints can be entertained by the National Commission?",
+      "How do I file an appeal with the National Commission?",
+      "What is the timeline for the National Commission to respond to complaints and appeals?",
+      "Can the National Commission entertain complaints against state commissions?",
+      "What is the procedure for the National Commission to entertain complaints and appeals?"
+    ]
+  },
+  "derived_from": [
+    "alias.national_commission_must_entertain_complaints_and_appeals"
+  ],
+  "related_concepts": [
+    "alias.national_commission_must_entertain_complaints_and_appeals"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "national",
+      "commission",
+      "entertain",
+      "complaints",
+      "appeals",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "national commission"
+    ],
+    "user_queries": [
       "What is national commission must entertain complaints and appeals?",
       "How does national commission must entertain complaints and appeals work?",
       "Can you explain national commission must entertain complaints and appeals?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S58-1",
-    "obligation.national_commission_must_entertain_complaints_and_appeals"
-  ],
-  "related_concepts": [
-    "obligation.national_commission_must_entertain_complaints_and_appeals"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

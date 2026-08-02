@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Territorial jurisdiction of State Commission Bench",
   "content": {
     "queries": [
+      "What is the role of a bench in determining territorial jurisdiction for State Commissions?",
+      "Can a single bench of a State Commission hear cases from multiple territories?",
+      "How are benches of State Commissions organized in terms of territorial jurisdiction?",
+      "Do all benches of a State Commission have the same territorial jurisdiction?",
+      "Can a bench of a State Commission transfer a case to another bench with appropriate territorial jurisdiction?"
+    ]
+  },
+  "derived_from": [
+    "alias.territorial_jurisdiction_of_state_commission_bench"
+  ],
+  "related_concepts": [
+    "alias.territorial_jurisdiction_of_state_commission_bench"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "territorial",
+      "jurisdiction",
+      "state",
+      "commission",
+      "bench",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "state bench area of authority",
+      "state bench geographical area",
+      "state commission bench jurisdiction"
+    ],
+    "user_queries": [
       "What is territorial jurisdiction of state commission bench?",
       "How does territorial jurisdiction of state commission bench work?",
       "Can you explain territorial jurisdiction of state commission bench?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S47-2",
-    "jurisdiction.state_commission_bench_no_pecuniary_limits_mentioned_no_specific_territorial_lim"
-  ],
-  "related_concepts": [
-    "jurisdiction.state_commission_bench_no_pecuniary_limits_mentioned_no_specific_territorial_lim"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

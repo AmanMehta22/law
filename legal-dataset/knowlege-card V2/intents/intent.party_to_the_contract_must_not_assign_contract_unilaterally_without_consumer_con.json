@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.party_to_the_contract_must_not_assign_contract_unilaterally_without_consumer_con",
   "concept_type": "intent",
-  "title": "Questions about Party to the contract must not assign contract unilaterally without consumer consent",
-  "description": "Natural language queries a user may ask about: Party to the contract must not assign contract unilaterally without consumer consent",
+  "title": "Questions about Party To The Contract Must Not Assign Contract Unilaterally Without Consumer Consent",
+  "description": "Natural language queries a user may ask about: Party To The Contract Must Not Assign Contract Unilaterally Without Consumer Consent",
   "content": {
     "queries": [
-      "What are the rules for contract assignment in consumer contracts?"
+      "Can a company assign my contract to another party without my consent?",
+      "What are my rights if a company tries to unilaterally assign my contract?",
+      "How can I prevent a company from assigning my contract without my consent?",
+      "Is it legal for a company to assign a contract without the consumer's consent?",
+      "What are the consequences for a company that assigns a contract unilaterally without consumer consent?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-46",
-    "obligation.party_to_the_contract_must_not_assign_contract_without_consu"
+    "obligation.party_to_the_contract_must_not_assign_contract_without_consu",
+    "alias.party_to_the_contract_must_not_assign_contract_unilaterally_without_consumer_con"
   ],
   "related_concepts": [
-    "obligation.party_to_the_contract_must_not_assign_contract_without_consu"
+    "alias.party_to_the_contract_must_not_assign_contract_unilaterally_without_consumer_con"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "party",
+      "contract",
+      "assign",
+      "unilaterally",
+      "without",
+      "consumer",
+      "consent",
+      "natural"
+    ],
+    "aliases": [
+      "unilateral assignment"
+    ],
+    "user_queries": [
+      "What are the rules for contract assignment in consumer contracts?",
+      "What is party to the contract must accept early repayment of debts?",
+      "How does party to the contract must accept early repayment of debts work?",
+      "Can you explain party to the contract must accept early repayment of debts?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.proof_of_substantial_control_2",
+  "concept_type": "intent",
+  "title": "Questions about Proof of substantial control",
+  "description": "Natural language queries a user may ask about: Proof of substantial control",
+  "content": {
+    "queries": [
+      "What is meant by substantial control in the context of product liability?",
+      "How can a product seller demonstrate substantial control over their products?",
+      "What are the factors that determine substantial control in a product liability case?",
+      "Can a product seller be held liable if they have substantial control over a defective product?",
+      "What are the implications of substantial control on product seller liability?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH6-S86",
+    "evidence.documents_showing_control_over_designing_testing_manufacturi"
+  ],
+  "related_concepts": [
+    "evidence.documents_showing_control_over_designing_testing_manufacturi"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "proof",
+      "substantial",
+      "control",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "damages",
+      "reparation"
+    ],
+    "user_queries": [
+      "What is product seller must exercise reasonable care?",
+      "How does product seller must exercise reasonable care work?",
+      "Can you explain product seller must exercise reasonable care?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

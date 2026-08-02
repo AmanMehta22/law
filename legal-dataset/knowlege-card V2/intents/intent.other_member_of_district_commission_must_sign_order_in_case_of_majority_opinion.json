@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Other member of District Commission must sign order in case of majority opinion",
   "content": {
     "queries": [
+      "What happens when there's a majority opinion in a District Commission case?",
+      "Do all members of the District Commission need to sign an order in case of a majority opinion?",
+      "Can a single member of the District Commission sign an order if there's a majority opinion?",
+      "How does the signing of an order by another member of the District Commission affect the case outcome?",
+      "Is it mandatory for another member of the District Commission to sign an order in case of a majority opinion?"
+    ]
+  },
+  "derived_from": [
+    "alias.other_member_of_district_commission_must_sign_order_in_case_of_majority_opinion"
+  ],
+  "related_concepts": [
+    "alias.other_member_of_district_commission_must_sign_order_in_case_of_majority_opinion"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "other",
+      "member",
+      "district",
+      "commission",
+      "sign",
+      "order",
+      "case",
+      "majority"
+    ],
+    "aliases": [
+      "district commission majority order signature",
+      "district commission order signing",
+      "majority decision signing"
+    ],
+    "user_queries": [
       "What is other member of district commission must sign order in case of majority opinion?",
       "How does other member of district commission must sign order in case of majority opinion work?",
       "Can you explain other member of district commission must sign order in case of majority opinion?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S39-4",
-    "obligation.other_member_shall_sign_the_order"
-  ],
-  "related_concepts": [
-    "obligation.other_member_shall_sign_the_order"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.district_commission_must_direct_opposite_party_to_respond",
   "concept_type": "intent",
-  "title": "Questions about District Commission must direct opposite party to respond",
-  "description": "Natural language queries a user may ask about: District Commission must direct opposite party to respond",
+  "title": "Questions about District Commission Must Direct Opposite Party To Respond",
+  "description": "Natural language queries a user may ask about: District Commission Must Direct Opposite Party To Respond",
   "content": {
     "queries": [
-      "how long does the opposite party have to respond"
+      "What happens if the opposite party doesn't respond to the district commission's direction?",
+      "Can the district commission force the opposite party to respond to a complaint?",
+      "How long does the opposite party have to respond to the district commission's direction?",
+      "What are the consequences if the opposite party fails to respond to the district commission's direction?",
+      "Can the district commission proceed with the complaint if the opposite party doesn't respond to its direction?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-3",
-    "obligation.district_commission_must_direct_the_opposite_party_to_give_t"
+    "obligation.district_commission_must_direct_the_opposite_party_to_give_t",
+    "alias.district_commission_must_direct_opposite_party_to_respond"
   ],
   "related_concepts": [
-    "obligation.district_commission_must_direct_the_opposite_party_to_give_t"
+    "alias.district_commission_must_direct_opposite_party_to_respond"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commission",
+      "direct",
+      "opposite",
+      "party",
+      "respond",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "time limit for response"
+    ],
+    "user_queries": [
+      "how long does the opposite party have to respond",
+      "What is complaint handling by district commission?",
+      "How does complaint handling by district commission work?",
+      "Can you explain complaint handling by district commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

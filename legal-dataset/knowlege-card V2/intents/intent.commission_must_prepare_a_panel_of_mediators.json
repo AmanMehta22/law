@@ -5,22 +5,40 @@
   "description": "Natural language queries a user may ask about: Commission must prepare a panel of mediators",
   "content": {
     "queries": [
+      "What is the purpose of the commission preparing a panel of mediators?",
+      "How does the commission select mediators for the panel?",
+      "Can a consumer request a specific mediator from the panel?",
+      "What is the role of the commission in preparing a panel of mediators under the Consumer Protection Act?",
+      "How often must the commission update the panel of mediators?"
+    ]
+  },
+  "derived_from": [
+    "alias.commission_must_prepare_a_panel_of_mediators"
+  ],
+  "related_concepts": [
+    "alias.commission_must_prepare_a_panel_of_mediators"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "commission",
+      "prepare",
+      "panel",
+      "mediators",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "commission"
+    ],
+    "user_queries": [
       "What is commission must prepare a panel of mediators?",
       "How does commission must prepare a panel of mediators work?",
       "Can you explain commission must prepare a panel of mediators?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH5-S75-1",
-    "obligation.national_commission_or_the_state_commission_or_the_district_"
-  ],
-  "related_concepts": [
-    "obligation.national_commission_or_the_state_commission_or_the_district_"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

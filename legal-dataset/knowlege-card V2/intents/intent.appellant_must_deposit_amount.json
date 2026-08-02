@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Appellant must deposit amount",
   "content": {
     "queries": [
+      "What is the purpose of the appellant depositing an amount during the appeal process?",
+      "How is the amount to be deposited by the appellant determined?",
+      "Can the deposited amount be refunded if the appeal is successful?",
+      "What happens if the appellant fails to deposit the required amount?",
+      "Is the deposited amount the only fee associated with filing an appeal?"
+    ]
+  },
+  "derived_from": [
+    "alias.appellant_must_deposit_amount"
+  ],
+  "related_concepts": [
+    "alias.appellant_must_deposit_amount"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "appellant",
+      "deposit",
+      "amount",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "appeal deposit amount",
+      "appellant deposit requirement",
+      "security deposit for appeal"
+    ],
+    "user_queries": [
       "What is appellant must deposit amount?",
       "How does appellant must deposit amount work?",
       "Can you explain appellant must deposit amount?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S51-1",
-    "obligation.appellant_must_deposit_50_of_amount_ordered_by_state_commiss"
-  ],
-  "related_concepts": [
-    "obligation.appellant_must_deposit_50_of_amount_ordered_by_state_commiss"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

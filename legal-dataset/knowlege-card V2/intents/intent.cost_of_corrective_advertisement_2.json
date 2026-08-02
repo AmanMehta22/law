@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.cost_of_corrective_advertisement_2",
+  "concept_type": "intent",
+  "title": "Questions about Cost of corrective advertisement",
+  "description": "Natural language queries a user may ask about: Cost of corrective advertisement",
+  "content": {
+    "queries": [
+      "Is the cost of corrective advertisement a fixed amount or does it vary?",
+      "Can a consumer claim compensation for a defective product through a corrective advertisement?",
+      "How does the cost of corrective advertisement impact the overall cost of a product?",
+      "Are there any specific guidelines for calculating the cost of corrective advertisement?",
+      "Can a company appeal against an order to pay for a corrective advertisement?"
+    ]
+  },
+  "derived_from": [
+    "penalty.issuing_misleading_advertisement",
+    "example.cost_of_corrective_advertisement"
+  ],
+  "related_concepts": [
+    "example.cost_of_corrective_advertisement"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "cost",
+      "corrective",
+      "advertisement",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is cost of corrective advertisement?",
+      "How does cost of corrective advertisement work?",
+      "Can you explain cost of corrective advertisement?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

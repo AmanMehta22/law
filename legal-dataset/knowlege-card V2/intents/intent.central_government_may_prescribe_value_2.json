@@ -1,0 +1,57 @@
+{
+  "concept_id": "intent.central_government_may_prescribe_value_2",
+  "concept_type": "intent",
+  "title": "Questions about Central Government may prescribe value",
+  "description": "Natural language queries a user may ask about: Central Government may prescribe value",
+  "content": {
+    "queries": [
+      "What are the factors that the central government considers when prescribing a value for a complaint?",
+      "How does the central government's prescription of a value for a complaint affect the jurisdiction of the consumer court?",
+      "Can a consumer challenge the central government's prescription of a value for a complaint?",
+      "What is the relationship between the central government's prescription of a value and the consumer's right to appeal?",
+      "Are there any guidelines or rules that the central government must follow when prescribing a value for a complaint?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S34-1",
+    "obligation.central_government_may_prescribe_such_other_value"
+  ],
+  "related_concepts": [
+    "obligation.central_government_may_prescribe_such_other_value"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "government",
+      "prescribe",
+      "value",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government"
+    ],
+    "user_queries": [
+      "What is central government may prescribe value?",
+      "How does central government may prescribe value work?",
+      "Can you explain central government may prescribe value?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

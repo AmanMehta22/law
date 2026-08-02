@@ -1,24 +1,48 @@
 {
   "concept_id": "intent.manufacturer_must_discontinue_or_modify_advertisement",
   "concept_type": "intent",
-  "title": "Questions about Manufacturer must discontinue or modify advertisement",
-  "description": "Natural language queries a user may ask about: Manufacturer must discontinue or modify advertisement",
+  "title": "Questions about Manufacturer Must Discontinue Or Modify Advertisement",
+  "description": "Natural language queries a user may ask about: Manufacturer Must Discontinue Or Modify Advertisement",
   "content": {
     "queries": [
-      "What are the obligations of a manufacturer regarding false advertisements?"
+      "Is a manufacturer responsible for discontinuing or modifying an advertisement that is found to be misleading?",
+      "What are the obligations of a manufacturer in relation to discontinuing or modifying an advertisement?",
+      "Can a manufacturer be held liable for failing to discontinue or modify an advertisement?",
+      "How does a manufacturer discontinue or modify an advertisement that has already been published?",
+      "What are the consequences for a manufacturer that fails to comply with an order to discontinue or modify an advertisement?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S21-1",
-    "obligation.manufacturer_must_discontinue_or_modify_advertisement_as_dir"
+    "obligation.manufacturer_must_discontinue_or_modify_advertisement_as_dir",
+    "alias.manufacturer_must_discontinue_or_modify_advertisement"
   ],
   "related_concepts": [
-    "obligation.manufacturer_must_discontinue_or_modify_advertisement_as_dir"
+    "alias.manufacturer_must_discontinue_or_modify_advertisement"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "manufacturer",
+      "discontinue",
+      "modify",
+      "advertisement",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "advertiser duties",
+      "publisher responsibilities"
+    ],
+    "user_queries": [
+      "What are the obligations of a manufacturer regarding false advertisements?",
+      "What is advertiser must discontinue or modify advertisement?",
+      "How does advertiser must discontinue or modify advertisement work?",
+      "Can you explain advertiser must discontinue or modify advertisement?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

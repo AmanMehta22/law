@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.party_to_the_contract_must_not_terminate_contract_unilaterally_without_reasonabl",
   "concept_type": "intent",
-  "title": "Questions about Party to the contract must not terminate contract unilaterally without reasonable cause",
-  "description": "Natural language queries a user may ask about: Party to the contract must not terminate contract unilaterally without reasonable cause",
+  "title": "Questions about Party To The Contract Must Not Terminate Contract Unilaterally Without Reasonable Cause",
+  "description": "Natural language queries a user may ask about: Party To The Contract Must Not Terminate Contract Unilaterally Without Reasonable Cause",
   "content": {
     "queries": [
-      "Can a company terminate a contract without reasonable cause?"
+      "What are the consequences for a party to the contract if they terminate the contract unilaterally without reasonable cause?",
+      "Can a party to the contract terminate the agreement without reasonable cause if the other party is not fulfilling their obligations?",
+      "How does the requirement for reasonable cause affect the termination of a contract by a party to the contract?",
+      "What constitutes reasonable cause for a party to the contract to terminate the contract unilaterally?",
+      "Are there any exceptions that allow a party to the contract to terminate the contract without reasonable cause, and if so, what are they?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-46",
-    "obligation.party_to_the_contract_must_not_terminate_contract_unilateral"
+    "obligation.party_to_the_contract_must_not_terminate_contract_unilateral",
+    "alias.party_to_the_contract_must_not_terminate_contract_unilaterally_without_reasonabl"
   ],
   "related_concepts": [
-    "obligation.party_to_the_contract_must_not_terminate_contract_unilateral"
+    "alias.party_to_the_contract_must_not_terminate_contract_unilaterally_without_reasonabl"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "party",
+      "contract",
+      "terminate",
+      "unilaterally",
+      "without",
+      "reasonable",
+      "cause",
+      "natural"
+    ],
+    "aliases": [
+      "contract termination"
+    ],
+    "user_queries": [
+      "Can a company terminate a contract without reasonable cause?",
+      "What is party to the contract must accept early repayment of debts?",
+      "How does party to the contract must accept early repayment of debts work?",
+      "Can you explain party to the contract must accept early repayment of debts?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

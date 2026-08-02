@@ -5,21 +5,45 @@
   "description": "Natural language queries a user may ask about: Complaint proceeding",
   "content": {
     "queries": [
-      "How do I file complaint proceeding?",
-      "What are the steps for complaint proceeding?"
+      "What are the steps involved in a complaint proceeding under the Consumer Protection Act?",
+      "How does a complaint proceeding start and what are the initial requirements?",
+      "Can a complaint proceeding be initiated online or does it require a physical presence?",
+      "What is the role of the complainant and the opposite party in a complaint proceeding?",
+      "How long does a typical complaint proceeding take to reach a final decision?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-1",
-    "procedure.complaint_proceeding"
+    "procedure.complaint_proceeding",
+    "alias.complaint_proceeding"
   ],
   "related_concepts": [
-    "procedure.complaint_proceeding"
+    "alias.complaint_proceeding"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "complaint",
+      "proceeding",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "complaint adjudication",
+      "complaint hearing",
+      "complaint proceedings",
+      "complaint trial"
+    ],
+    "user_queries": [
+      "What is complaint proceeding?",
+      "How does complaint proceeding work?",
+      "Can you explain complaint proceeding?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

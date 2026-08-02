@@ -1,24 +1,48 @@
 {
   "concept_id": "intent.central_authority_must_consider_prohibition",
   "concept_type": "intent",
-  "title": "Questions about Central Authority must consider prohibition",
-  "description": "Natural language queries a user may ask about: Central Authority must consider prohibition",
+  "title": "Questions about Central Authority Must Consider Prohibition",
+  "description": "Natural language queries a user may ask about: Central Authority Must Consider Prohibition",
   "content": {
     "queries": [
-      "can Central Authority ban endorsers"
+      "What factors does the central authority consider when deciding on a prohibition?",
+      "How does the central authority determine if a prohibition is necessary?",
+      "Can the central authority consider other factors beyond the specified criteria for prohibition?",
+      "What is the process for the central authority to consider a prohibition?",
+      "Are there any exceptions to the central authority's consideration of a prohibition?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S21-3",
-    "obligation.central_authority_may_prohibit_endorser_of_false_or_misleadi"
+    "obligation.central_authority_may_prohibit_endorser_of_false_or_misleadi",
+    "alias.central_authority_must_consider_prohibition"
   ],
   "related_concepts": [
-    "obligation.central_authority_may_prohibit_endorser_of_false_or_misleadi"
+    "alias.central_authority_must_consider_prohibition"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "authority",
+      "consider",
+      "prohibition",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "regulator",
+      "authority"
+    ],
+    "user_queries": [
+      "can Central Authority ban endorsers",
+      "What is central authority must consider prohibition?",
+      "How does central authority must consider prohibition work?",
+      "Can you explain central authority must consider prohibition?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

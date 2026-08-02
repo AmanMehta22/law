@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Central Government, Central Authority or State Government must allow filing of complaint",
   "content": {
     "queries": [
+      "What is the process for filing a complaint with the central government or state government?",
+      "Can I file a complaint directly with the central authority or state government?",
+      "What are the requirements for filing a complaint with the central government or state government?",
+      "How long does it take for the central government or state government to respond to a complaint?",
+      "What happens if the central government or state government rejects my complaint?"
+    ]
+  },
+  "derived_from": [
+    "alias.central_government_central_authority_or_state_government_must_allow_filing_of_co"
+  ],
+  "related_concepts": [
+    "alias.central_government_central_authority_or_state_government_must_allow_filing_of_co"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "government",
+      "authority",
+      "state",
+      "allow",
+      "filing",
+      "complaint",
+      "natural"
+    ],
+    "aliases": [
+      "allowing consumer complaints",
+      "complaint registration with government",
+      "government complaint filing permission"
+    ],
+    "user_queries": [
       "What is central government, central authority or state government must allow filing of complaint?",
       "How does central government, central authority or state government must allow filing of complaint work?",
       "Can you explain central government, central authority or state government must allow filing of complaint?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S35-1",
-    "obligation.central_government_central_authority_or_state_government_mus"
-  ],
-  "related_concepts": [
-    "obligation.central_government_central_authority_or_state_government_mus"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,26 +1,46 @@
 {
   "concept_id": "intent.central_government_must_consider_necessity",
   "concept_type": "intent",
-  "title": "Questions about Central Government must consider necessity",
-  "description": "Natural language queries a user may ask about: Central Government must consider necessity",
+  "title": "Questions about Central Government Must Consider Necessity",
+  "description": "Natural language queries a user may ask about: Central Government Must Consider Necessity",
   "content": {
     "queries": [
-      "What is central government must consider necessity?",
-      "How does central government must consider necessity work?",
-      "Can you explain central government must consider necessity?"
+      "What factors must the Central Government consider when evaluating necessity?",
+      "How does the Central Government determine if something is necessary?",
+      "Can the Central Government consider alternative options when evaluating necessity?",
+      "What is the standard for the Central Government to use when considering necessity?",
+      "How does the Central Government balance competing interests when considering necessity?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S23",
-    "obligation.central_government_must_consider_necessity"
+    "obligation.central_government_must_consider_necessity",
+    "alias.central_government_must_consider_necessity"
   ],
   "related_concepts": [
-    "obligation.central_government_must_consider_necessity"
+    "alias.central_government_must_consider_necessity"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "government",
+      "consider",
+      "necessity",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "notification"
+    ],
+    "user_queries": [
+      "What is central government must consider necessity?",
+      "How does central government must consider necessity work?",
+      "Can you explain central government must consider necessity?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

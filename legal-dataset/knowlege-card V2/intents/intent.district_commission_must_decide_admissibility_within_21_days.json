@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.district_commission_must_decide_admissibility_within_21_days",
   "concept_type": "intent",
-  "title": "Questions about District Commission must decide admissibility within 21 days",
-  "description": "Natural language queries a user may ask about: District Commission must decide admissibility within 21 days",
+  "title": "Questions about District Commission Must Decide Admissibility Within 21 Days",
+  "description": "Natural language queries a user may ask about: District Commission Must Decide Admissibility Within 21 Days",
   "content": {
     "queries": [
-      "District Commission timelines"
+      "What is the time frame for the District Commission to decide on admissibility?",
+      "How long does the District Commission have to decide if a complaint is admissible?",
+      "Can the District Commission take more than 21 days to decide on admissibility?",
+      "What happens if the District Commission doesn't decide on admissibility within 21 days?",
+      "Is there a penalty if the District Commission exceeds the 21-day limit for admissibility decisions?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S36-2",
-    "obligation.district_commission_must_decide_on_admissibility_of_complain"
+    "obligation.district_commission_must_decide_on_admissibility_of_complain",
+    "alias.district_commission_must_decide_admissibility_within_21_days"
   ],
   "related_concepts": [
-    "obligation.district_commission_must_decide_on_admissibility_of_complain"
+    "alias.district_commission_must_decide_admissibility_within_21_days"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commission",
+      "decide",
+      "admissibility",
+      "days",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "complaint procedure"
+    ],
+    "user_queries": [
+      "District Commission timelines",
+      "What is admissibility decision time limit?",
+      "How does admissibility decision time limit work?",
+      "Can you explain admissibility decision time limit?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

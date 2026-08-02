@@ -5,22 +5,44 @@
   "description": "Natural language queries a user may ask about: District Council must meet regularly",
   "content": {
     "queries": [
+      "What is the minimum frequency for District Council meetings?",
+      "How often must a District Council meet to discuss consumer protection issues?",
+      "Can a District Council meet irregularly and still be effective?",
+      "What happens if a District Council fails to meet regularly?",
+      "How do regular District Council meetings benefit consumers?"
+    ]
+  },
+  "derived_from": [
+    "alias.district_council_must_meet_regularly"
+  ],
+  "related_concepts": [
+    "alias.district_council_must_meet_regularly"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "council",
+      "meet",
+      "regularly",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "council",
+      "council meeting",
+      "council meeting schedule",
+      "council meetings",
+      "district council meetings"
+    ],
+    "user_queries": [
       "What is district council must meet regularly?",
       "How does district council must meet regularly work?",
       "Can you explain district council must meet regularly?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH2-S8-3",
-    "obligation.district_council_shall_meet_as_and_when_necessary_and_at_lea"
-  ],
-  "related_concepts": [
-    "obligation.district_council_shall_meet_as_and_when_necessary_and_at_lea"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

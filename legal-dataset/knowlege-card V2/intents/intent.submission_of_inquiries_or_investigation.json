@@ -5,21 +5,49 @@
   "description": "Natural language queries a user may ask about: Submission of inquiries or investigation",
   "content": {
     "queries": [
-      "How do I file submission of inquiries or investigation?",
-      "What are the steps for submission of inquiries or investigation?"
+      "How are inquiries or investigations submitted to the central authority?",
+      "What is the process for submitting a consumer complaint investigation?",
+      "Can individuals submit inquiries or investigations directly?",
+      "What information is required when submitting an inquiry or investigation?",
+      "How are submitted inquiries or investigations reviewed and processed?"
     ]
   },
   "derived_from": [
     "CPA2019-CH8-S104-2",
-    "procedure.submission_of_inquiries_or_investigation"
+    "procedure.submission_of_inquiries_or_investigation",
+    "alias.submission_of_inquiries_or_investigation"
   ],
   "related_concepts": [
-    "procedure.submission_of_inquiries_or_investigation"
+    "alias.submission_of_inquiries_or_investigation"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "submission",
+      "inquiries",
+      "investigation",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is central authority must receive inquiry or investigation report?",
+      "How does central authority must receive inquiry or investigation report work?",
+      "Can you explain central authority must receive inquiry or investigation report?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

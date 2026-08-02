@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.proof_of_alteration_or_modification_2",
+  "concept_type": "intent",
+  "title": "Questions about Proof of alteration or modification",
+  "description": "Natural language queries a user may ask about: Proof of alteration or modification",
+  "content": {
+    "queries": [
+      "How does proof of alteration or modification impact the return or exchange policy of a product?",
+      "Can a seller be held liable if they fail to provide proof of alteration or modification?",
+      "What are the consequences for a manufacturer if they alter or modify a product without proper documentation?",
+      "Is proof of alteration or modification required for products that are refurbished or repaired?",
+      "Can proof of alteration or modification be used to verify the authenticity of a product?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH6-S86",
+    "evidence.records_of_alteration_or_modification"
+  ],
+  "related_concepts": [
+    "evidence.records_of_alteration_or_modification"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "proof",
+      "alteration",
+      "modification",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "damages",
+      "reparation"
+    ],
+    "user_queries": [
+      "What is proof of alteration or modification?",
+      "How does proof of alteration or modification work?",
+      "Can you explain proof of alteration or modification?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

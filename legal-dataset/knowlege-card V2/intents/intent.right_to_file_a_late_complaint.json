@@ -5,20 +5,43 @@
   "description": "Natural language queries a user may ask about: Right to File a Late Complaint",
   "content": {
     "queries": [
-      "filing a complaint after the deadline"
+      "What rights do consumers have to file a complaint after the standard timeframe has expired?",
+      "Under what conditions can a consumer exercise their right to file a late complaint?",
+      "How does a consumer's right to file a late complaint balance against the seller's rights?",
+      "Can a consumer's right to file a late complaint be waived or forfeited?",
+      "Is the right to file a late complaint limited to specific types of consumer disputes?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S69-2",
-    "right.right_to_file_a_late_complaint"
+    "right.right_to_file_a_late_complaint",
+    "alias.right_to_file_a_late_complaint"
   ],
   "related_concepts": [
-    "right.right_to_file_a_late_complaint"
+    "alias.right_to_file_a_late_complaint"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "right",
+      "file",
+      "late",
+      "complaint",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "right to delayed complaint"
+    ],
+    "user_queries": [
+      "filing a complaint after the deadline",
+      "What is complainant must satisfy the commission?",
+      "How does complainant must satisfy the commission work?",
+      "Can you explain complainant must satisfy the commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

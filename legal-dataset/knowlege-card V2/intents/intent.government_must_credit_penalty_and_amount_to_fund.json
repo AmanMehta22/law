@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Government must credit penalty and amount to fund",
   "content": {
     "queries": [
+      "What happens when the government fails to credit a penalty to the fund?",
+      "How does the government determine the amount to be credited to the fund?",
+      "Can you explain the process of crediting penalties to the consumer protection fund?",
+      "What is the purpose of the government crediting penalties to the fund?",
+      "How does the fund utilize the credited penalties and amounts?"
+    ]
+  },
+  "derived_from": [
+    "alias.government_must_credit_penalty_and_amount_to_fund"
+  ],
+  "related_concepts": [
+    "alias.government_must_credit_penalty_and_amount_to_fund"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "government",
+      "credit",
+      "penalty",
+      "amount",
+      "fund",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "government fund",
+      "government penalty",
+      "government penalty and amount"
+    ],
+    "user_queries": [
       "What is government must credit penalty and amount to fund?",
       "How does government must credit penalty and amount to fund work?",
       "Can you explain government must credit penalty and amount to fund?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH8-S97",
-    "obligation.government_must_credit_penalty_and_amount_to_fund"
-  ],
-  "related_concepts": [
-    "obligation.government_must_credit_penalty_and_amount_to_fund"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

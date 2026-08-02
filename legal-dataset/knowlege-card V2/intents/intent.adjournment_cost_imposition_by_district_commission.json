@@ -5,21 +5,44 @@
   "description": "Natural language queries a user may ask about: Adjournment cost imposition by District Commission",
   "content": {
     "queries": [
-      "How do I file adjournment cost imposition by district commission?",
-      "What are the steps for adjournment cost imposition by district commission?"
+      "Under what circumstances can a District Commission impose adjournment costs?",
+      "How is the amount of adjournment cost determined by the District Commission?",
+      "Can a consumer appeal against an adjournment cost imposed by the District Commission?",
+      "What is the maximum amount of adjournment cost that can be imposed by a District Commission?",
+      "How does the District Commission's adjournment cost imposition impact the consumer's case?"
     ]
   },
   "derived_from": [
     "CPA2019-CH8-S103-2",
-    "procedure.adjournment_cost_imposition_by_district_commission"
+    "procedure.adjournment_cost_imposition_by_district_commission",
+    "alias.adjournment_cost_imposition_by_district_commission"
   ],
   "related_concepts": [
-    "procedure.adjournment_cost_imposition_by_district_commission"
+    "alias.adjournment_cost_imposition_by_district_commission"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "adjournment",
+      "cost",
+      "imposition",
+      "district",
+      "commission",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "adjournment cost",
+      "cost imposition by district commission",
+      "district commission cost"
+    ],
+    "user_queries": [
+      "What is adjournment cost imposition by district commission?",
+      "How does adjournment cost imposition by district commission work?",
+      "Can you explain adjournment cost imposition by district commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

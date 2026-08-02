@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.central_authority_must_receive_inquiry_or_investigation_report",
   "concept_type": "intent",
-  "title": "Questions about Central Authority must receive inquiry or investigation report",
-  "description": "Natural language queries a user may ask about: Central Authority must receive inquiry or investigation report",
+  "title": "Questions about Central Authority Must Receive Inquiry Or Investigation Report",
+  "description": "Natural language queries a user may ask about: Central Authority Must Receive Inquiry Or Investigation Report",
   "content": {
     "queries": [
-      "what are the obligations of Director-General"
+      "What kind of inquiry or investigation reports does the Central Authority receive?",
+      "How does the Central Authority process an inquiry or investigation report related to consumer rights?",
+      "Can individuals submit reports directly to the Central Authority about consumer rights violations?",
+      "What is the procedure for the Central Authority to act on an investigation report regarding false advertising?",
+      "How long does the Central Authority have to respond to an inquiry or investigation report?"
     ]
   },
   "derived_from": [
     "CPA2019-CH8-S104-2",
-    "obligation.director_general_shall_submit_inquiries_or_investigation_mad"
+    "obligation.director_general_shall_submit_inquiries_or_investigation_mad",
+    "alias.central_authority_must_receive_inquiry_or_investigation_report"
   ],
   "related_concepts": [
-    "obligation.director_general_shall_submit_inquiries_or_investigation_mad"
+    "alias.central_authority_must_receive_inquiry_or_investigation_report"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "authority",
+      "receive",
+      "inquiry",
+      "investigation",
+      "report",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "submission of report"
+    ],
+    "user_queries": [
+      "what are the obligations of Director-General",
+      "What is central authority must receive inquiry or investigation report?",
+      "How does central authority must receive inquiry or investigation report work?",
+      "Can you explain central authority must receive inquiry or investigation report?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

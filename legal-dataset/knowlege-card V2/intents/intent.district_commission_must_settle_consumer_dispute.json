@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.district_commission_must_settle_consumer_dispute",
   "concept_type": "intent",
-  "title": "Questions about District Commission must settle consumer dispute",
-  "description": "Natural language queries a user may ask about: District Commission must settle consumer dispute",
+  "title": "Questions about District Commission Must Settle Consumer Dispute",
+  "description": "Natural language queries a user may ask about: District Commission Must Settle Consumer Dispute",
   "content": {
     "queries": [
-      "how is a consumer dispute settled"
+      "What is the role of the district commission in settling a consumer dispute?",
+      "Can the district commission settle a consumer dispute through mediation or conciliation?",
+      "What are the powers of the district commission in settling a consumer dispute?",
+      "How does the district commission ensure a fair settlement of a consumer dispute?",
+      "What is the time limit for the district commission to settle a consumer dispute?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-3",
-    "obligation.district_commission_must_settle_the_consumer_dispute"
+    "obligation.district_commission_must_settle_the_consumer_dispute",
+    "alias.district_commission_must_settle_consumer_dispute"
   ],
   "related_concepts": [
-    "obligation.district_commission_must_settle_the_consumer_dispute"
+    "alias.district_commission_must_settle_consumer_dispute"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commission",
+      "settle",
+      "consumer",
+      "dispute",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "dispute resolution"
+    ],
+    "user_queries": [
+      "how is a consumer dispute settled",
+      "What is complaint handling by district commission?",
+      "How does complaint handling by district commission work?",
+      "Can you explain complaint handling by district commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

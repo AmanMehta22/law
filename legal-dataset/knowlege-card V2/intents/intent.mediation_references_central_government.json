@@ -1,0 +1,60 @@
+{
+  "concept_id": "intent.mediation_references_central_government",
+  "concept_type": "intent",
+  "title": "Questions about Mediation references Central Government",
+  "description": "Natural language queries a user may ask about: Mediation references Central Government",
+  "content": {
+    "queries": [
+      "How does mediation reference the Central Government in consumer disputes?",
+      "Can the Central Government intervene in mediation proceedings?",
+      "What is the Central Government's role in appointing mediators for consumer disputes?",
+      "How do mediation references to the Central Government affect consumer complaint resolution?",
+      "Are there any specific rules for mediation references to the Central Government?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S15-2",
+    "CPA2019-CH8-S101-2",
+    "CPA2019-CH8-S94",
+    "relationship.alias_mediation_references_alias_central_government"
+  ],
+  "related_concepts": [
+    "relationship.alias_mediation_references_alias_central_government"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "mediation",
+      "references",
+      "central",
+      "government",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "Alternate Director-General",
+      "Assistant Director-General",
+      "Deputy Director-General",
+      "Extra Director-General",
+      "Supplemental Director-General"
+    ],
+    "user_queries": [
+      "What is central government may take measures?",
+      "How does central government may take measures work?",
+      "Can you explain central government may take measures?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

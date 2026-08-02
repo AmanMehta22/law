@@ -1,0 +1,57 @@
+{
+  "concept_id": "intent.record_of_proceeding_2",
+  "concept_type": "intent",
+  "title": "Questions about Record of proceeding",
+  "description": "Natural language queries a user may ask about: Record of proceeding",
+  "content": {
+    "queries": [
+      "What is the purpose of maintaining a record of proceeding in a consumer dispute?",
+      "How detailed must the record of proceeding be in a consumer mediation cell?",
+      "Can the record of proceeding be used as evidence in a court of law?",
+      "Who is responsible for maintaining the record of proceeding in a consumer mediation cell?",
+      "How can a consumer obtain a copy of the record of proceeding?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S74-4",
+    "evidence.record_of_proceeding"
+  ],
+  "related_concepts": [
+    "evidence.record_of_proceeding"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "record",
+      "proceeding",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Consumer Arbitration",
+      "Consumer Mediator",
+      "Dispute Resolution Cell",
+      "Mediation Cell"
+    ],
+    "user_queries": [
+      "What is consumer mediation cell must maintain records?",
+      "How does consumer mediation cell must maintain records work?",
+      "Can you explain consumer mediation cell must maintain records?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

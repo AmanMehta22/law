@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.central_government_must_make_grants_2",
+  "concept_type": "intent",
+  "title": "Questions about Central Government must make grants",
+  "description": "Natural language queries a user may ask about: Central Government must make grants",
+  "content": {
+    "queries": [
+      "How is the Central Authority funded?",
+      "What is central government must make grants?",
+      "How does central government must make grants work?",
+      "Can you explain central government must make grants?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S25",
+    "obligation.central_government_make_grants_of_money_to_the_central_autho"
+  ],
+  "related_concepts": [
+    "obligation.central_government_make_grants_of_money_to_the_central_autho"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "government",
+      "make",
+      "grants",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "financial support",
+      "allocation of funds"
+    ],
+    "user_queries": [
+      "How is the Central Authority funded?",
+      "What is central government must make grants?",
+      "How does central government must make grants work?",
+      "Can you explain central government must make grants?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.transaction_of_state_council_business_handled_by_state_council",
+  "concept_type": "intent",
+  "title": "Questions about Transaction of State Council Business handled by State Council",
+  "description": "Natural language queries a user may ask about: Transaction of State Council Business handled by State Council",
+  "content": {
+    "queries": [
+      "What is transaction of state council business handled by state council?",
+      "How does transaction of state council business handled by state council work?",
+      "Can you explain transaction of state council business handled by state council?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH2-S6-4",
+    "relationship.procedure_transaction_of_state_council_business_handled_by_authority_s"
+  ],
+  "related_concepts": [
+    "relationship.procedure_transaction_of_state_council_business_handled_by_authority_s"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "transaction",
+      "state",
+      "council",
+      "business",
+      "handled",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "State Advisory Council",
+      "State Consumer Council",
+      "State Consumer Protection Council"
+    ],
+    "user_queries": [
+      "What is transaction of state council business handled by state council?",
+      "How does transaction of state council business handled by state council work?",
+      "Can you explain transaction of state council business handled by state council?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

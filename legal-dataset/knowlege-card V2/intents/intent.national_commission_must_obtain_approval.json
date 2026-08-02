@@ -5,22 +5,40 @@
   "description": "Natural language queries a user may ask about: National Commission must obtain approval",
   "content": {
     "queries": [
+      "What type of approval is required for the National Commission to take action?",
+      "From whom does the National Commission need to obtain approval?",
+      "What is the process for obtaining approval from the relevant authorities?",
+      "Can the National Commission take action without obtaining approval?",
+      "What are the consequences of the National Commission not obtaining approval before taking action?"
+    ]
+  },
+  "derived_from": [
+    "alias.national_commission_must_obtain_approval"
+  ],
+  "related_concepts": [
+    "alias.national_commission_must_obtain_approval"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "national",
+      "commission",
+      "obtain",
+      "approval",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "national commission"
+    ],
+    "user_queries": [
       "What is national commission must obtain approval?",
       "How does national commission must obtain approval work?",
       "Can you explain national commission must obtain approval?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH8-S103-1",
-    "obligation.national_commission_must_obtain_previous_approval_of_the_cen"
-  ],
-  "related_concepts": [
-    "obligation.national_commission_must_obtain_previous_approval_of_the_cen"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

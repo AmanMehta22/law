@@ -5,9 +5,11 @@
   "description": "Natural language queries a user may ask about: Director",
   "content": {
     "queries": [
-      "What is director?",
-      "How does director work?",
-      "Can you explain director?"
+      "What role does an additional director-general play in a company?",
+      "How is an additional director-general appointed?",
+      "Can an additional director-general be removed from their position?",
+      "What are the responsibilities of an additional director-general?",
+      "How does an additional director-general contribute to a company's decision-making process?"
     ]
   },
   "derived_from": [
@@ -15,15 +17,37 @@
     "CPA2019-CH3-S15-3",
     "CPA2019-CH3-S15-4",
     "CPA2019-CH8-S95",
-    "authority.director"
+    "authority.director",
+    "alias.director"
   ],
   "related_concepts": [
-    "authority.director"
+    "alias.director"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "director",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "additional"
+    ],
+    "aliases": [
+      "Alternate Director-General",
+      "Assistant Director-General",
+      "Deputy Director-General",
+      "Extra Director-General",
+      "Supplemental Director-General"
+    ],
+    "user_queries": [
+      "What is additional director-general?",
+      "How does additional director-general work?",
+      "Can you explain additional director-general?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -11,16 +11,37 @@
     ]
   },
   "derived_from": [
-    "CPA2019-CH6-S86",
-    "evidence.maintenance_records_inspection_records_assembly_records"
+    "alias.proof_of_reasonable_care"
   ],
   "related_concepts": [
-    "evidence.maintenance_records_inspection_records_assembly_records"
+    "alias.proof_of_reasonable_care"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "proof",
+      "reasonable",
+      "care",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "care and caution proof",
+      "due diligence proof",
+      "reasonable care evidence"
+    ],
+    "user_queries": [
+      "What is product seller must exercise reasonable care?",
+      "How does product seller must exercise reasonable care work?",
+      "Can you explain product seller must exercise reasonable care?",
+      "What is proof of reasonable care?",
+      "How does proof of reasonable care work?",
+      "Can you explain proof of reasonable care?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -5,21 +5,43 @@
   "description": "Natural language queries a user may ask about: Filing of complaint after specified period",
   "content": {
     "queries": [
-      "How do I file filing of complaint after specified period?",
-      "What are the steps for filing of complaint after specified period?"
+      "Under what circumstances can a complaint be filed after the specified period has lapsed?",
+      "What are the requirements for filing a complaint after the standard timeframe has passed?",
+      "Can a complaint be filed after the specified period if the complainant was unaware of their rights?",
+      "How does the commission handle complaints filed after the specified period has expired?",
+      "Is there a limit to how long after the specified period a complaint can still be filed?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S69-2",
-    "procedure.filing_of_complaint_after_specified_period"
+    "procedure.filing_of_complaint_after_specified_period",
+    "alias.filing_of_complaint_after_specified_period"
   ],
   "related_concepts": [
-    "procedure.filing_of_complaint_after_specified_period"
+    "alias.filing_of_complaint_after_specified_period"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "filing",
+      "complaint",
+      "after",
+      "specified",
+      "period",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "applicant",
+      "consumer"
+    ],
+    "user_queries": [
+      "What is complainant must satisfy the commission?",
+      "How does complainant must satisfy the commission work?",
+      "Can you explain complainant must satisfy the commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

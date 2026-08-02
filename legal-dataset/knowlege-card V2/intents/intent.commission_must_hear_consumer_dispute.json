@@ -1,24 +1,49 @@
 {
   "concept_id": "intent.commission_must_hear_consumer_dispute",
   "concept_type": "intent",
-  "title": "Questions about Commission must hear consumer dispute",
-  "description": "Natural language queries a user may ask about: Commission must hear consumer dispute",
+  "title": "Questions about Commission Must Hear Consumer Dispute",
+  "description": "Natural language queries a user may ask about: Commission Must Hear Consumer Dispute",
   "content": {
     "queries": [
-      "what happens if mediation fails"
+      "What types of consumer disputes must the commission hear?",
+      "How does a consumer initiate a dispute hearing with the commission?",
+      "Can the commission refuse to hear a consumer dispute?",
+      "What is the timeframe for the commission to hear and resolve a consumer dispute?",
+      "Are there any fees associated with filing a consumer dispute with the commission?"
     ]
   },
   "derived_from": [
     "CPA2019-CH5-S81-3",
-    "obligation.district_commission_or_the_state_commission_or_the_national_"
+    "obligation.district_commission_or_the_state_commission_or_the_national_",
+    "alias.commission_must_hear_consumer_dispute"
   ],
   "related_concepts": [
-    "obligation.district_commission_or_the_state_commission_or_the_national_"
+    "alias.commission_must_hear_consumer_dispute"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "commission",
+      "hear",
+      "consumer",
+      "dispute",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "District Commission",
+      "State Commission",
+      "National Commission"
+    ],
+    "user_queries": [
+      "what happens if mediation fails",
+      "What is commission must hear consumer dispute?",
+      "How does commission must hear consumer dispute work?",
+      "Can you explain commission must hear consumer dispute?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

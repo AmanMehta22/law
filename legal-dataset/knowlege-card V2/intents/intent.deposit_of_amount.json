@@ -5,21 +5,45 @@
   "description": "Natural language queries a user may ask about: Deposit of amount",
   "content": {
     "queries": [
-      "How do I file deposit of amount?",
-      "What are the steps for deposit of amount?"
+      "What is the process for depositing an amount for a national commission appeal?",
+      "How much amount do I need to deposit for filing an appeal to the national commission?",
+      "Can I file an appeal to the national commission without depositing the required amount?",
+      "What are the consequences of not depositing the amount for a national commission appeal?",
+      "Is the deposit of amount for a national commission appeal refundable if my appeal is rejected?"
     ]
   },
   "derived_from": [
     "CPA2019-CH8-S101-2",
-    "procedure.deposit_of_amount"
+    "procedure.deposit_of_amount",
+    "alias.deposit_of_amount"
   ],
   "related_concepts": [
-    "procedure.deposit_of_amount"
+    "alias.deposit_of_amount"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "deposit",
+      "amount",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "how"
+    ],
+    "aliases": [
+      "appeal to national commission",
+      "appeal to national consumer commission",
+      "national appeal",
+      "national commission",
+      "national commission appeal"
+    ],
+    "user_queries": [
+      "How do I file appeal to national commission?",
+      "What are the steps for appeal to national commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

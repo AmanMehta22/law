@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.commission_must_enforce_order_2",
+  "concept_type": "intent",
+  "title": "Questions about Commission must enforce order",
+  "description": "Natural language queries a user may ask about: Commission must enforce order",
+  "content": {
+    "queries": [
+      "How does the commission prioritize which orders to enforce, and why?",
+      "Can the commission enforce orders against individuals, or only against companies?",
+      "What role do consumers play in the commission's order enforcement process?",
+      "How does the commission measure the effectiveness of its order enforcement activities?",
+      "Are there any limitations on the commission's authority to enforce orders?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S71",
+    "obligation.district_commission_state_commission_or_the_national_commiss"
+  ],
+  "related_concepts": [
+    "obligation.district_commission_state_commission_or_the_national_commiss"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "commission",
+      "enforce",
+      "order",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "Bench",
+      "Judiciary",
+      "Law Court",
+      "Tribunal",
+      "judicial body",
+      "tribunal"
+    ],
+    "user_queries": [
+      "What is commission must enforce order?",
+      "How does commission must enforce order work?",
+      "Can you explain commission must enforce order?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

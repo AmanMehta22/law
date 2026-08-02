@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.central_council_must_render_advice",
   "concept_type": "intent",
-  "title": "Questions about Central Council must render advice",
-  "description": "Natural language queries a user may ask about: Central Council must render advice",
+  "title": "Questions about Central Council Must Render Advice",
+  "description": "Natural language queries a user may ask about: Central Council Must Render Advice",
   "content": {
     "queries": [
-      "What is the role of Central Council?"
+      "What type of advice must the Central Council render?",
+      "To whom must the Central Council render advice?",
+      "How does the Central Council ensure its advice is impartial and unbiased?",
+      "Can the Central Council refuse to render advice in certain circumstances?",
+      "What is the process for seeking review or revision of advice rendered by the Central Council?"
     ]
   },
   "derived_from": [
     "CPA2019-CH2-S5",
-    "obligation.central_council_must_render_advice_on_promotion_and_protecti"
+    "obligation.central_council_must_render_advice_on_promotion_and_protecti",
+    "alias.central_council_must_render_advice"
   ],
   "related_concepts": [
-    "obligation.central_council_must_render_advice_on_promotion_and_protecti"
+    "alias.central_council_must_render_advice"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "council",
+      "render",
+      "advice",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "Central Council advice"
+    ],
+    "user_queries": [
+      "What is the role of Central Council?",
+      "What is central council must render advice?",
+      "How does central council must render advice work?",
+      "Can you explain central council must render advice?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

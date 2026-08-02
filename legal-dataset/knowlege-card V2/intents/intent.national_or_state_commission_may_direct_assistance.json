@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.national_or_state_commission_may_direct_assistance",
   "concept_type": "intent",
-  "title": "Questions about National or State Commission may direct assistance",
-  "description": "Natural language queries a user may ask about: National or State Commission may direct assistance",
+  "title": "Questions about National Or State Commission May Direct Assistance",
+  "description": "Natural language queries a user may ask about: National Or State Commission May Direct Assistance",
   "content": {
     "queries": [
-      "consumer protection assistance"
+      "Can the National Commission direct assistance to a consumer?",
+      "Under what circumstances can a State Commission provide assistance direction?",
+      "How does the National or State Commission decide to direct assistance?",
+      "What is the role of the National or State Commission in providing assistance direction?",
+      "Can assistance direction be provided by both National and State Commissions simultaneously?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S66",
-    "obligation.national_commission_or_state_commission_may_direct_any_indiv"
+    "obligation.national_commission_or_state_commission_may_direct_any_indiv",
+    "alias.national_or_state_commission_may_direct_assistance"
   ],
   "related_concepts": [
-    "obligation.national_commission_or_state_commission_may_direct_any_indiv"
+    "alias.national_or_state_commission_may_direct_assistance"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "national",
+      "state",
+      "commission",
+      "direct",
+      "assistance",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "direction to assist"
+    ],
+    "user_queries": [
+      "consumer protection assistance",
+      "What is assistance direction?",
+      "How does assistance direction work?",
+      "Can you explain assistance direction?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

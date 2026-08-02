@@ -1,0 +1,61 @@
+{
+  "concept_id": "intent.accounts_and_records_2",
+  "concept_type": "intent",
+  "title": "Questions about Accounts and records",
+  "description": "Natural language queries a user may ask about: Accounts and records",
+  "content": {
+    "queries": [
+      "How are my accounts and records protected under the Consumer Protection Act?",
+      "What kind of records should I keep for my consumer transactions?",
+      "Can I access my accounts and records from the seller at any time?",
+      "How long should a seller maintain my accounts and records?",
+      "What information should be included in my accounts and records?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S26-1",
+    "evidence.accounts_records"
+  ],
+  "related_concepts": [
+    "evidence.accounts_records"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "accounts",
+      "records",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is accounts and records?",
+      "How does accounts and records work?",
+      "Can you explain accounts and records?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

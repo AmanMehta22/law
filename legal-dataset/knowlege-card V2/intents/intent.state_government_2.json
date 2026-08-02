@@ -1,0 +1,72 @@
+{
+  "concept_id": "intent.state_government_2",
+  "concept_type": "intent",
+  "title": "Questions about State Government",
+  "description": "Natural language queries a user may ask about: State Government",
+  "content": {
+    "queries": [
+      "What are the responsibilities of state government in enforcing consumer rights?",
+      "How can I contact the state government for consumer-related queries?",
+      "What is the process for filing a consumer complaint with the state government?",
+      "Can the state government impose penalties on companies for non-compliance?",
+      "How does the state government protect consumers from unfair trade practices?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-2",
+    "CPA2019-CH1-S2-32",
+    "CPA2019-CH1-S2-5",
+    "CPA2019-CH2-S6-1",
+    "CPA2019-CH2-S6-2",
+    "CPA2019-CH3-S18-2",
+    "CPA2019-CH4-S28-3",
+    "CPA2019-CH4-S30",
+    "CPA2019-CH4-S32",
+    "CPA2019-CH4-S33-1",
+    "CPA2019-CH4-S35-1",
+    "CPA2019-CH4-S44",
+    "CPA2019-CH4-S46-1",
+    "CPA2019-CH4-S70-1",
+    "CPA2019-CH4-S70-5",
+    "CPA2019-CH5-S74-1",
+    "CPA2019-CH8-S102-2",
+    "CPA2019-CH8-S105-2",
+    "authority.state_government"
+  ],
+  "related_concepts": [
+    "authority.state_government"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "state",
+      "government",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Government of the State",
+      "State Govt"
+    ],
+    "user_queries": [
+      "What is appropriate laboratory?",
+      "How does appropriate laboratory work?",
+      "Can you explain appropriate laboratory?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

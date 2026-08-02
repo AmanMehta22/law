@@ -5,20 +5,43 @@
   "description": "Natural language queries a user may ask about: Complaint Filing Time Limit Exception",
   "content": {
     "queries": [
-      "What are the conditions for filing a complaint after the time limit?"
+      "What conditions must a complainant satisfy to file a complaint beyond the time limit?",
+      "Can a complainant file a complaint after the specified time limit has expired?",
+      "How does the commission determine if a complainant has satisfied the conditions for filing a late complaint?",
+      "What are the consequences if a complainant fails to satisfy the commission's conditions for filing a late complaint?",
+      "Is there a specific timeframe within which a complainant must satisfy the commission's conditions for filing a late complaint?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S69-2",
-    "exception.a_complaint_may_be_entertained_after_the_period_specified_in"
+    "exception.a_complaint_may_be_entertained_after_the_period_specified_in",
+    "alias.complaint_filing_time_limit_exception"
   ],
   "related_concepts": [
-    "exception.a_complaint_may_be_entertained_after_the_period_specified_in"
+    "alias.complaint_filing_time_limit_exception"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "complaint",
+      "filing",
+      "time",
+      "limit",
+      "exception",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "late complaint filing"
+    ],
+    "user_queries": [
+      "What are the conditions for filing a complaint after the time limit?",
+      "What is complainant must satisfy the commission?",
+      "How does complainant must satisfy the commission work?",
+      "Can you explain complainant must satisfy the commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

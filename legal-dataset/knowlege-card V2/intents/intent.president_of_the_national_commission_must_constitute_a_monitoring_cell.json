@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: President of the National Commission must constitute a monitoring cell",
   "content": {
     "queries": [
+      "What is the role of the President of the National Commission in constituting a monitoring cell?",
+      "How does the monitoring cell constituted by the President of the National Commission function?",
+      "Can the President of the National Commission constitute a monitoring cell without other members' input?",
+      "What are the responsibilities of the monitoring cell constituted by the President of the National Commission?",
+      "Is the monitoring cell constituted by the President of the National Commission mandatory?"
+    ]
+  },
+  "derived_from": [
+    "alias.president_of_the_national_commission_must_constitute_a_monitoring_cell"
+  ],
+  "related_concepts": [
+    "alias.president_of_the_national_commission_must_constitute_a_monitoring_cell"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "president",
+      "national",
+      "commission",
+      "constitute",
+      "monitoring",
+      "cell",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "constituting a monitoring cell",
+      "monitoring cell formation",
+      "national commission monitoring cell"
+    ],
+    "user_queries": [
       "What is president of the national commission must constitute a monitoring cell?",
       "How does president of the national commission must constitute a monitoring cell work?",
       "Can you explain president of the national commission must constitute a monitoring cell?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S70-2",
-    "obligation.president_of_the_national_commission_must_constitute_a_monit"
-  ],
-  "related_concepts": [
-    "obligation.president_of_the_national_commission_must_constitute_a_monit"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

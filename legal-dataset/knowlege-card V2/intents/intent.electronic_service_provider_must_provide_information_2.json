@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.electronic_service_provider_must_provide_information_2",
+  "concept_type": "intent",
+  "title": "Questions about Electronic service provider must provide information",
+  "description": "Natural language queries a user may ask about: Electronic service provider must provide information",
+  "content": {
+    "queries": [
+      "What information must an electronic service provider give to consumers?",
+      "How can I get information from an electronic service provider about their services?",
+      "Is an electronic service provider required to provide information about their terms and conditions?",
+      "What kind of information should I expect from an electronic service provider when I sign up?",
+      "Can an electronic service provider refuse to provide information about their services to a consumer?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-4",
+    "obligation.electronic_service_provider_must_provide_information_documen"
+  ],
+  "related_concepts": [
+    "obligation.electronic_service_provider_must_provide_information_documen"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "electronic",
+      "service",
+      "provider",
+      "provide",
+      "information",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is electronic service provider must provide information?",
+      "How does electronic service provider must provide information work?",
+      "Can you explain electronic service provider must provide information?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "concept_id": "intent.control_and_supervision_exception_2",
+  "concept_type": "intent",
+  "title": "Questions about Control and supervision exception",
+  "description": "Natural language queries a user may ask about: Control and supervision exception",
+  "content": {
+    "queries": [
+      "What role does the State Commission play in determining the control and supervision exception in consumer cases?",
+      "How does the District Commission consider the control and supervision exception when adjudicating consumer complaints?",
+      "Can the Central Government issue guidelines on the control and supervision exception under the Indian Consumer Protection Act, 2019?",
+      "What are the consequences of the control and supervision exception on consumer rights in India?",
+      "How does the control and supervision exception impact the jurisdiction of the National Commission in consumer disputes?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S15-3",
+    "exception.subject_to_the_general_control_supervision_and_direction_of_"
+  ],
+  "related_concepts": [
+    "exception.subject_to_the_general_control_supervision_and_direction_of_"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "control",
+      "supervision",
+      "exception",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "Alternate Director-General",
+      "Assistant Director-General",
+      "Deputy Director-General",
+      "Extra Director-General",
+      "Supplemental Director-General"
+    ],
+    "user_queries": [
+      "What is control and supervision exception?",
+      "How does control and supervision exception work?",
+      "Can you explain control and supervision exception?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

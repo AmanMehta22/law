@@ -5,21 +5,44 @@
   "description": "Natural language queries a user may ask about: Hearing of consumer dispute",
   "content": {
     "queries": [
-      "How do I file hearing of consumer dispute?",
-      "What are the steps for hearing of consumer dispute?"
+      "What is the procedure for a hearing of a consumer dispute?",
+      "Can a consumer represent themselves at a dispute hearing?",
+      "How does the commission ensure a fair hearing for consumer disputes?",
+      "What evidence is required for a consumer to support their dispute claim?",
+      "Can the commission's hearing decision be appealed by the consumer or company?"
     ]
   },
   "derived_from": [
     "CPA2019-CH5-S81-3",
-    "procedure.hearing_of_consumer_dispute"
+    "procedure.hearing_of_consumer_dispute",
+    "alias.hearing_of_consumer_dispute"
   ],
   "related_concepts": [
-    "procedure.hearing_of_consumer_dispute"
+    "alias.hearing_of_consumer_dispute"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "hearing",
+      "consumer",
+      "dispute",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "District Commission",
+      "National Commission",
+      "State Commission"
+    ],
+    "user_queries": [
+      "What is commission must hear consumer dispute?",
+      "How does commission must hear consumer dispute work?",
+      "Can you explain commission must hear consumer dispute?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.president_must_constitute_bench_3",
+  "concept_type": "intent",
+  "title": "Questions about President must constitute Bench",
+  "description": "Natural language queries a user may ask about: President must constitute Bench",
+  "content": {
+    "queries": [
+      "What is the time frame within which the President must constitute a bench for consumer disputes?",
+      "Can the President constitute a bench for a specific type of consumer dispute, such as product liability cases?",
+      "How does the President ensure that the bench has the necessary expertise to handle complex consumer disputes?",
+      "What is the process for challenging the constitution of a bench by the President?",
+      "Are there any specific requirements or qualifications that the President must consider while constituting a bench for consumer disputes?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S58-2",
+    "obligation.president_of_the_national_commission_must_constitute_a_bench"
+  ],
+  "related_concepts": [
+    "obligation.president_of_the_national_commission_must_constitute_a_bench"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "president",
+      "constitute",
+      "bench",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "Central Commission",
+      "Central Consumer Protection Council",
+      "NCDRC",
+      "National Consumer Commission",
+      "National Consumer Disputes Redressal Commission",
+      "National Consumer Protection Agency"
+    ],
+    "user_queries": [
+      "What is president must constitute bench?",
+      "How does president must constitute bench work?",
+      "Can you explain president must constitute bench?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

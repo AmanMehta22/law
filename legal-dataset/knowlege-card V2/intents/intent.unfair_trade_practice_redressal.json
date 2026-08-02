@@ -1,0 +1,53 @@
+{
+  "concept_id": "intent.unfair_trade_practice_redressal",
+  "concept_type": "intent",
+  "title": "Questions about Unfair Trade Practice Redressal",
+  "description": "Natural language queries a user may ask about: Unfair Trade Practice Redressal",
+  "content": {
+    "queries": [
+      "What is unfair trade practice redressal?",
+      "How does unfair trade practice redressal work?",
+      "Can you explain unfair trade practice redressal?"
+    ]
+  },
+  "derived_from": [
+    "remedy.redressal",
+    "example.unfair_trade_practice_redressal"
+  ],
+  "related_concepts": [
+    "example.unfair_trade_practice_redressal"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "unfair",
+      "trade",
+      "practice",
+      "redressal",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "redressal",
+      "relief"
+    ],
+    "user_queries": [
+      "What is unfair trade practice redressal?",
+      "How does unfair trade practice redressal work?",
+      "Can you explain unfair trade practice redressal?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

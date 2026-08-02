@@ -1,0 +1,60 @@
+{
+  "concept_id": "intent.filing_an_appeal_handled_by_district_commission",
+  "concept_type": "intent",
+  "title": "Questions about Filing an appeal handled by District Commission",
+  "description": "Natural language queries a user may ask about: Filing an appeal handled by District Commission",
+  "content": {
+    "queries": [
+      "What is the role of the district commission in handling appeals?",
+      "How do I file an appeal with the district commission?",
+      "What are the requirements for filing an appeal with the district commission?",
+      "Can I appeal a decision made by the district commission to a higher authority?",
+      "How long does the district commission take to process an appeal?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S73-1",
+    "CPA2019-CH4-S73-3",
+    "relationship.procedure_filing_an_appeal_handled_by_authority_district_commission"
+  ],
+  "related_concepts": [
+    "relationship.procedure_filing_an_appeal_handled_by_authority_district_commission"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "filing",
+      "appeal",
+      "handled",
+      "district",
+      "commission",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is filing an appeal handled by district commission?",
+      "How does filing an appeal handled by district commission work?",
+      "Can you explain filing an appeal handled by district commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

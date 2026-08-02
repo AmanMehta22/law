@@ -5,21 +5,43 @@
   "description": "Natural language queries a user may ask about: Settlement Disposal",
   "content": {
     "queries": [
-      "How do I file settlement disposal?",
-      "What are the steps for settlement disposal?"
+      "What is the difference between settlement and disposal in a consumer dispute?",
+      "Can a commission dispose of a matter without a settlement being reached?",
+      "How does a commission facilitate settlement disposal in a consumer dispute?",
+      "What are the benefits of settlement disposal in a consumer dispute?",
+      "Can a consumer dispute be settled and disposed of without a commission's involvement?"
     ]
   },
   "derived_from": [
     "CPA2019-CH5-S81-1",
-    "procedure.settlement_disposal"
+    "procedure.settlement_disposal",
+    "alias.settlement_disposal"
   ],
   "related_concepts": [
-    "procedure.settlement_disposal"
+    "alias.settlement_disposal"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "settlement",
+      "disposal",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "consumer complaint",
+      "dispute resolution"
+    ],
+    "user_queries": [
+      "What is commission must pass order and dispose of matter?",
+      "How does commission must pass order and dispose of matter work?",
+      "Can you explain commission must pass order and dispose of matter?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

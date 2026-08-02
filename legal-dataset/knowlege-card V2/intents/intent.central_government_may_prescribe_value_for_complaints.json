@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Central Government may prescribe value for complaints",
   "content": {
     "queries": [
+      "What is the purpose of the central government prescribing a value for complaints?",
+      "How does the central government's prescription of a value for complaints affect the consumer's ability to file a complaint?",
+      "Can the central government prescribe different values for different types of complaints?",
+      "What is the effect of the central government's prescription of a value for complaints on the consumer court's procedure?",
+      "Are there any consequences for a consumer who files a complaint that exceeds the prescribed value?"
+    ]
+  },
+  "derived_from": [
+    "alias.central_government_may_prescribe_value_for_complaints"
+  ],
+  "related_concepts": [
+    "alias.central_government_may_prescribe_value_for_complaints"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "government",
+      "prescribe",
+      "value",
+      "complaints",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "central government complaint valuation",
+      "complaint value threshold",
+      "government prescribed complaint value"
+    ],
+    "user_queries": [
       "What is central government may prescribe value for complaints?",
       "How does central government may prescribe value for complaints work?",
       "Can you explain central government may prescribe value for complaints?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S58-1",
-    "obligation.central_government_may_prescribe_value_for_complaints"
-  ],
-  "related_concepts": [
-    "obligation.central_government_may_prescribe_value_for_complaints"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

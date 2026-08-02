@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.licence_cancellation_for_repeat_offences",
+  "concept_type": "intent",
+  "title": "Questions about Licence Cancellation for Repeat Offences",
+  "description": "Natural language queries a user may ask about: Licence Cancellation for Repeat Offences",
+  "content": {
+    "queries": [
+      "What happens to my licence if I commit repeat offences?",
+      "Can a business licence be cancelled for multiple violations?",
+      "How many offences can lead to licence cancellation?",
+      "What is the process for cancelling a licence due to repeat offences?",
+      "Are there any exceptions to licence cancellation for repeat offences?"
+    ]
+  },
+  "derived_from": [
+    "penalty.second_or_subsequent_conviction",
+    "example.licence_cancellation_for_repeat_offences"
+  ],
+  "related_concepts": [
+    "example.licence_cancellation_for_repeat_offences"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "licence",
+      "cancellation",
+      "repeat",
+      "offences",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "Bench",
+      "Judiciary",
+      "Law Court",
+      "Tribunal",
+      "judicial body",
+      "tribunal"
+    ],
+    "user_queries": [
+      "What is licence cancellation for repeat offences?",
+      "How does licence cancellation for repeat offences work?",
+      "Can you explain licence cancellation for repeat offences?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

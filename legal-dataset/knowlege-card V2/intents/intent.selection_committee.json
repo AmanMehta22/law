@@ -5,22 +5,45 @@
   "description": "Natural language queries a user may ask about: Selection Committee",
   "content": {
     "queries": [
-      "What is selection committee?",
-      "How does selection committee work?",
-      "Can you explain selection committee?"
+      "How does the commission prepare a panel of mediators for consumer disputes?",
+      "What is the role of the Selection Committee in mediator panel preparation?",
+      "Can the commission prepare a panel of mediators without the Selection Committee?",
+      "How does the Selection Committee ensure a fair panel of mediators is prepared?",
+      "What are the criteria for the commission to prepare a panel of mediators?"
     ]
   },
   "derived_from": [
     "CPA2019-CH5-S75-1",
-    "authority.selection_committee"
+    "authority.selection_committee",
+    "alias.selection_committee"
   ],
   "related_concepts": [
-    "authority.selection_committee"
+    "alias.selection_committee"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "selection",
+      "committee",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Consumer Arbitration",
+      "Consumer Mediator",
+      "Dispute Resolution Cell",
+      "Mediation Cell"
+    ],
+    "user_queries": [
+      "What is commission must prepare a panel of mediators?",
+      "How does commission must prepare a panel of mediators work?",
+      "Can you explain commission must prepare a panel of mediators?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -5,22 +5,40 @@
   "description": "Natural language queries a user may ask about: National Commission must call for records and pass orders",
   "content": {
     "queries": [
+      "Under what circumstances must the national commission call for records and pass orders?",
+      "What kind of records can the national commission request from businesses or individuals?",
+      "How does the national commission ensure that its orders are enforced and complied with?",
+      "Can the national commission pass orders against government agencies or public authorities?",
+      "What is the process for appealing an order passed by the national commission?"
+    ]
+  },
+  "derived_from": [
+    "alias.national_commission_must_call_for_records_and_pass_orders"
+  ],
+  "related_concepts": [
+    "alias.national_commission_must_call_for_records_and_pass_orders"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "national",
+      "commission",
+      "call",
+      "records",
+      "pass",
+      "orders",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "national commission"
+    ],
+    "user_queries": [
       "What is national commission must call for records and pass orders?",
       "How does national commission must call for records and pass orders work?",
       "Can you explain national commission must call for records and pass orders?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S58-1",
-    "obligation.national_commission_must_call_for_records_and_pass_appropria"
-  ],
-  "related_concepts": [
-    "obligation.national_commission_must_call_for_records_and_pass_appropria"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

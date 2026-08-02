@@ -5,22 +5,104 @@
   "description": "Natural language queries a user may ask about: State Commission",
   "content": {
     "queries": [
-      "What is the State Commission for consumer protection",
-      "How to file a complaint with the State Commission",
-      "What does the State Commission do"
+      "file complaint in state commission",
+      "What is adjournment exception?",
+      "How does adjournment exception work?",
+      "Can you explain adjournment exception?",
+      "What is acknowledgment?",
+      "How does acknowledgment work?",
+      "Can you explain acknowledgment?"
     ]
   },
   "derived_from": [
+    "CPA2019-CH1-S2-27",
+    "CPA2019-CH1-S2-35",
     "CPA2019-CH1-S2-44",
-    "definition.state_commission"
+    "CPA2019-CH3-S18-2",
+    "CPA2019-CH4-S28-3",
+    "CPA2019-CH4-S42-1",
+    "CPA2019-CH4-S42-3",
+    "CPA2019-CH4-S43",
+    "CPA2019-CH4-S44",
+    "CPA2019-CH4-S45",
+    "CPA2019-CH4-S46-1",
+    "CPA2019-CH4-S46-2",
+    "CPA2019-CH4-S46-3",
+    "CPA2019-CH4-S47-1",
+    "CPA2019-CH4-S47-2",
+    "CPA2019-CH4-S47-4",
+    "CPA2019-CH4-S48",
+    "CPA2019-CH4-S49-1",
+    "CPA2019-CH4-S49-2",
+    "CPA2019-CH4-S50",
+    "CPA2019-CH4-S51-1",
+    "CPA2019-CH4-S51-5",
+    "CPA2019-CH4-S52",
+    "CPA2019-CH4-S58-1",
+    "CPA2019-CH4-S62",
+    "CPA2019-CH4-S64",
+    "CPA2019-CH4-S65-1",
+    "CPA2019-CH4-S65-3",
+    "CPA2019-CH4-S66",
+    "CPA2019-CH4-S68",
+    "CPA2019-CH4-S69-1",
+    "CPA2019-CH4-S69-2",
+    "CPA2019-CH4-S70-1",
+    "CPA2019-CH4-S70-5",
+    "CPA2019-CH4-S71",
+    "CPA2019-CH4-S72-1",
+    "CPA2019-CH4-S72-2",
+    "CPA2019-CH4-S72-3",
+    "CPA2019-CH4-S73-1",
+    "CPA2019-CH4-S73-2",
+    "CPA2019-CH4-S73-3",
+    "CPA2019-CH5-S74-5",
+    "CPA2019-CH5-S75-1",
+    "CPA2019-CH5-S76",
+    "CPA2019-CH5-S79-1",
+    "CPA2019-CH5-S79-2",
+    "CPA2019-CH5-S81-1",
+    "CPA2019-CH5-S81-2",
+    "CPA2019-CH5-S81-3",
+    "CPA2019-CH8-S102-2",
+    "CPA2019-CH8-S103-2",
+    "CPA2019-CH8-S95",
+    "CPA2019-CH8-S98",
+    "authority.state_commission"
   ],
   "related_concepts": [
-    "definition.state_commission"
+    "authority.state_commission"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "state",
+      "commission",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "file"
+    ],
+    "aliases": [
+      "State Consumer Disputes Redressal Commission",
+      "Commission of the State",
+      "State Consumer Commission"
+    ],
+    "user_queries": [
+      "What is state commission?",
+      "How does state commission work?",
+      "Can you explain state commission?",
+      "file complaint in state commission",
+      "What is adjournment exception?",
+      "How does adjournment exception work?",
+      "Can you explain adjournment exception?",
+      "What is acknowledgment?",
+      "How does acknowledgment work?",
+      "Can you explain acknowledgment?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.national_commission_must_hear_appeal",
   "concept_type": "intent",
-  "title": "Questions about National Commission must hear appeal",
-  "description": "Natural language queries a user may ask about: National Commission must hear appeal",
+  "title": "Questions about National Commission Must Hear Appeal",
+  "description": "Natural language queries a user may ask about: National Commission Must Hear Appeal",
   "content": {
     "queries": [
-      "How to appeal to National Commission"
+      "Is it mandatory for the National Commission to hear an appeal?",
+      "On what grounds can the National Commission reject an appeal?",
+      "Can the National Commission hear an appeal if the state commission has not given a decision?",
+      "What is the procedure for the National Commission to hear an appeal?",
+      "Can the National Commission's decision on an appeal be challenged in a higher court?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S51-2",
-    "obligation.national_commission_must_hear_appeal"
+    "obligation.national_commission_must_hear_appeal",
+    "alias.national_commission_must_hear_appeal"
   ],
   "related_concepts": [
-    "obligation.national_commission_must_hear_appeal"
+    "alias.national_commission_must_hear_appeal"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "national",
+      "commission",
+      "hear",
+      "appeal",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "National Consumer Commission"
+    ],
+    "user_queries": [
+      "How to appeal to National Commission",
+      "What is appeal to national commission?",
+      "How does appeal to national commission work?",
+      "Can you explain appeal to national commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

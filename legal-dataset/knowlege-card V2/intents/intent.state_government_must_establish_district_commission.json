@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: State Government must establish District Commission",
   "content": {
     "queries": [
+      "What is the process for the State Government to establish a District Commission?",
+      "How many District Commissions can a State Government establish?",
+      "What are the powers and functions of a District Commission established by the State Government?",
+      "Can a State Government dissolve a District Commission it has established?",
+      "What is the relationship between the State Government and the District Commission it establishes?"
+    ]
+  },
+  "derived_from": [
+    "alias.state_government_must_establish_district_commission"
+  ],
+  "related_concepts": [
+    "alias.state_government_must_establish_district_commission"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "state",
+      "government",
+      "establish",
+      "district",
+      "commission",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "district commission setup",
+      "district level consumer protection",
+      "establish district consumer commission",
+      "state government district commission"
+    ],
+    "user_queries": [
       "What is state government must establish district commission?",
       "How does state government must establish district commission work?",
       "Can you explain state government must establish district commission?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S28-1",
-    "obligation.state_government_shall_establish_a_district_consumer_dispute"
-  ],
-  "related_concepts": [
-    "obligation.state_government_shall_establish_a_district_consumer_dispute"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

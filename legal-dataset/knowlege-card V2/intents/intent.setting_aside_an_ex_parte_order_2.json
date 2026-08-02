@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.setting_aside_an_ex_parte_order_2",
+  "concept_type": "intent",
+  "title": "Questions about Setting aside an ex parte order",
+  "description": "Natural language queries a user may ask about: Setting aside an ex parte order",
+  "content": {
+    "queries": [
+      "What are the consequences of not setting aside an ex parte order?",
+      "Can a party appeal a decision to set aside an ex parte order?",
+      "How does setting aside an ex parte order impact the underlying case?",
+      "What are the requirements for a successful application to set aside an ex parte order?",
+      "Can multiple ex parte orders be set aside in a single application?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S61",
+    "procedure.setting_aside_an_ex_parte_order"
+  ],
+  "related_concepts": [
+    "procedure.setting_aside_an_ex_parte_order"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "setting",
+      "aside",
+      "parte",
+      "order",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "Central Commission",
+      "Central Consumer Protection Council",
+      "NCDRC",
+      "National Consumer Commission",
+      "National Consumer Disputes Redressal Commission",
+      "National Consumer Protection Agency"
+    ],
+    "user_queries": [
+      "What is setting aside an ex parte order?",
+      "How does setting aside an ex parte order work?",
+      "Can you explain setting aside an ex parte order?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

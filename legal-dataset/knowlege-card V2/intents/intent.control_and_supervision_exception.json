@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Control and supervision exception",
   "content": {
     "queries": [
+      "What is the control and supervision exception under the Indian Consumer Protection Act, 2019?",
+      "How does the control and supervision exception apply to product liability cases in India?",
+      "Can the National Commission invoke the control and supervision exception in a consumer dispute?",
+      "What are the implications of the control and supervision exception on consumer protection in India?",
+      "How does the Central Consumer Protection Authority address the control and supervision exception in its regulations?"
+    ]
+  },
+  "derived_from": [
+    "alias.control_and_supervision_exception"
+  ],
+  "related_concepts": [
+    "alias.control_and_supervision_exception"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "control",
+      "supervision",
+      "exception",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "exclusion from control",
+      "oversight exclusion",
+      "regulatory exception",
+      "supervision exemption"
+    ],
+    "user_queries": [
       "What is control and supervision exception?",
       "How does control and supervision exception work?",
       "Can you explain control and supervision exception?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH3-S15-3",
-    "exception.subject_to_the_general_control_supervision_and_direction_of_"
-  ],
-  "related_concepts": [
-    "exception.subject_to_the_general_control_supervision_and_direction_of_"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

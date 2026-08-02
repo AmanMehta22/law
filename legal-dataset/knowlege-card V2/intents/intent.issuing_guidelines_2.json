@@ -1,0 +1,58 @@
+{
+  "concept_id": "intent.issuing_guidelines_2",
+  "concept_type": "intent",
+  "title": "Questions about Issuing Guidelines",
+  "description": "Natural language queries a user may ask about: Issuing Guidelines",
+  "content": {
+    "queries": [
+      "What is the relationship between guidelines issued under the Act and existing regulations or laws?",
+      "Can guidelines be used to clarify ambiguous provisions of the Consumer Protection Act?",
+      "How often are guidelines under the Act reviewed and updated, and what triggers a review?",
+      "What role do consumer associations play in the development of guidelines under the Consumer Protection Act?",
+      "Are guidelines issued under the Act available to the public, and if so, how can they be accessed?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S18-2",
+    "procedure.issuing_guidelines"
+  ],
+  "related_concepts": [
+    "procedure.issuing_guidelines"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "issuing",
+      "guidelines",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "advice on consumer welfare",
+      "advising on consumer welfare",
+      "consumer rights guidance",
+      "consumer welfare advice",
+      "consumer welfare measures"
+    ],
+    "user_queries": [
+      "What is issuing guidelines?",
+      "How does issuing guidelines work?",
+      "Can you explain issuing guidelines?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

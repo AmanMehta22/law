@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Sufficient cause",
   "content": {
     "queries": [
+      "What constitutes a sufficient cause for filing a complaint under the Consumer Protection Act?",
+      "How is sufficient cause determined in a consumer dispute?",
+      "Can a consumer forum reject a complaint if it lacks sufficient cause?",
+      "What are the factors considered when determining sufficient cause in a consumer case?",
+      "Is sufficient cause a mandatory requirement for filing a consumer complaint?"
+    ]
+  },
+  "derived_from": [
+    "alias.sufficient_cause"
+  ],
+  "related_concepts": [
+    "alias.sufficient_cause"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "sufficient",
+      "cause",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "justifiable grounds",
+      "reasonable explanation",
+      "valid reason"
+    ],
+    "user_queries": [
       "What is sufficient cause?",
       "How does sufficient cause work?",
       "Can you explain sufficient cause?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S69-2",
-    "evidence.sufficient_cause"
-  ],
-  "related_concepts": [
-    "evidence.sufficient_cause"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

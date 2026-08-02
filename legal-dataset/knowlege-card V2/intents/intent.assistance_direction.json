@@ -5,21 +5,45 @@
   "description": "Natural language queries a user may ask about: Assistance Direction",
   "content": {
     "queries": [
-      "How do I file assistance direction?",
-      "What are the steps for assistance direction?"
+      "What is the purpose of assistance direction in consumer protection?",
+      "How can I seek assistance direction for a consumer-related issue?",
+      "Can assistance direction be provided by the state government?",
+      "What kind of assistance can I expect from assistance direction?",
+      "How does assistance direction help in resolving consumer disputes?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S66",
-    "procedure.assistance_direction"
+    "procedure.assistance_direction",
+    "alias.assistance_direction"
   ],
   "related_concepts": [
-    "procedure.assistance_direction"
+    "alias.assistance_direction"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "assistance",
+      "direction",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "assistance direction",
+      "assistance guidance",
+      "assistance order",
+      "direction for assistance"
+    ],
+    "user_queries": [
+      "What is assistance direction?",
+      "How does assistance direction work?",
+      "Can you explain assistance direction?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

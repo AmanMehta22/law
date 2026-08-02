@@ -1,0 +1,56 @@
+{
+  "concept_id": "intent.recall_of_goods_or_withdrawal_of_services_2",
+  "concept_type": "intent",
+  "title": "Questions about Recall of goods or withdrawal of services",
+  "description": "Natural language queries a user may ask about: Recall of goods or withdrawal of services",
+  "content": {
+    "queries": [
+      "dangerous goods",
+      "unsafe services",
+      "What is central authority must give opportunity of being heard?",
+      "How does central authority must give opportunity of being heard work?",
+      "Can you explain central authority must give opportunity of being heard?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S20",
+    "remedy.recall_of_goods_or_withdrawal_of_services"
+  ],
+  "related_concepts": [
+    "remedy.recall_of_goods_or_withdrawal_of_services"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "recall",
+      "goods",
+      "withdrawal",
+      "services",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "product recall"
+    ],
+    "user_queries": [
+      "dangerous goods",
+      "unsafe services",
+      "What is central authority must give opportunity of being heard?",
+      "How does central authority must give opportunity of being heard work?",
+      "Can you explain central authority must give opportunity of being heard?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

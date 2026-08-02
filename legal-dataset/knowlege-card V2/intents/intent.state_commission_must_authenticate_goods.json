@@ -1,24 +1,48 @@
 {
   "concept_id": "intent.state_commission_must_authenticate_goods",
   "concept_type": "intent",
-  "title": "Questions about State Commission must authenticate goods",
-  "description": "Natural language queries a user may ask about: State Commission must authenticate goods",
+  "title": "Questions about State Commission Must Authenticate Goods",
+  "description": "Natural language queries a user may ask about: State Commission Must Authenticate Goods",
   "content": {
     "queries": [
-      "How are goods authenticated by the State Commission?"
+      "What is the role of the State Commission in authenticating goods?",
+      "How does the State Commission verify the authenticity of goods?",
+      "Can the State Commission impose penalties on sellers of spurious goods?",
+      "What is the process for a consumer to file a complaint with the State Commission about spurious goods?",
+      "How does the State Commission ensure that goods sold in the market are genuine?"
     ]
   },
   "derived_from": [
     "CPA2019-CH8-S102-2",
-    "obligation.state_commission_must_authenticate_goods_sampled"
+    "obligation.state_commission_must_authenticate_goods_sampled",
+    "alias.state_commission_must_authenticate_goods"
   ],
   "related_concepts": [
-    "obligation.state_commission_must_authenticate_goods_sampled"
+    "alias.state_commission_must_authenticate_goods"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "state",
+      "commission",
+      "authenticate",
+      "goods",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "verification",
+      "validation"
+    ],
+    "user_queries": [
+      "How are goods authenticated by the State Commission?",
+      "What is state commission must authenticate goods?",
+      "How does state commission must authenticate goods work?",
+      "Can you explain state commission must authenticate goods?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

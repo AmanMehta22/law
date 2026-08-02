@@ -5,22 +5,41 @@
   "description": "Natural language queries a user may ask about: Mediator must conduct mediation",
   "content": {
     "queries": [
+      "Under what circumstances must a mediator conduct mediation?",
+      "What is the process for a mediator to conduct mediation?",
+      "Can a mediator refuse to conduct mediation?",
+      "How long does a mediator have to conduct mediation?",
+      "What are the consequences if a mediator fails to conduct mediation?"
+    ]
+  },
+  "derived_from": [
+    "alias.mediator_must_conduct_mediation"
+  ],
+  "related_concepts": [
+    "alias.mediator_must_conduct_mediation"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "mediator",
+      "conduct",
+      "mediation",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "mediation",
+      "mediator"
+    ],
+    "user_queries": [
       "What is mediator must conduct mediation?",
       "How does mediator must conduct mediation work?",
       "Can you explain mediator must conduct mediation?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH5-S79-3",
-    "obligation.mediator_must_conduct_mediation"
-  ],
-  "related_concepts": [
-    "obligation.mediator_must_conduct_mediation"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

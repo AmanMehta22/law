@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.filing_of_complaints_and_appeals_with_the_national_commission_appeal_of_review_o",
+  "concept_type": "intent",
+  "title": "Questions about Filing of complaints and appeals with the National Commission appeal of Review of State Commission decisions",
+  "description": "Natural language queries a user may ask about: Filing of complaints and appeals with the National Commission appeal of Review of State Commission decisions",
+  "content": {
+    "queries": [
+      "What is filing of complaints and appeals with the national commission appeal of review of state commission decisions?",
+      "How does filing of complaints and appeals with the national commission appeal of review of state commission decisions work?",
+      "Can you explain filing of complaints and appeals with the national commission appeal of review of state commission decisions?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S58-1",
+    "relationship.procedure_filing_of_complaints_and_appeals_with_the_national_commissio"
+  ],
+  "related_concepts": [
+    "relationship.procedure_filing_of_complaints_and_appeals_with_the_national_commissio"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "filing",
+      "complaints",
+      "appeals",
+      "national",
+      "commission",
+      "appeal",
+      "review",
+      "state"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is filing of complaints and appeals with the national commission appeal of review of state commission decisions?",
+      "How does filing of complaints and appeals with the national commission appeal of review of state commission decisions work?",
+      "Can you explain filing of complaints and appeals with the national commission appeal of review of state commission decisions?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

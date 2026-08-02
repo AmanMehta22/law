@@ -5,21 +5,45 @@
   "description": "Natural language queries a user may ask about: Mediation Settlement Reporting",
   "content": {
     "queries": [
-      "How do I file mediation settlement reporting?",
-      "What are the steps for mediation settlement reporting?"
+      "What information should be included in a mediation settlement report?",
+      "How often are mediation settlement reports required to be filed?",
+      "Can a mediation settlement report be amended after it's been submitted?",
+      "What are the consequences of not filing a mediation settlement report on time?",
+      "Who is responsible for ensuring the accuracy of a mediation settlement report?"
     ]
   },
   "derived_from": [
     "CPA2019-CH5-S80-2",
-    "procedure.mediation_settlement_reporting"
+    "procedure.mediation_settlement_reporting",
+    "alias.mediation_settlement_reporting"
   ],
   "related_concepts": [
-    "procedure.mediation_settlement_reporting"
+    "alias.mediation_settlement_reporting"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "mediation",
+      "settlement",
+      "reporting",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "Consumer Commission",
+      "Consumer Court",
+      "Court",
+      "Tribunal"
+    ],
+    "user_queries": [
+      "What is commission?",
+      "How does commission work?",
+      "Can you explain commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

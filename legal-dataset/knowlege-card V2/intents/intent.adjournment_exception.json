@@ -5,20 +5,45 @@
   "description": "Natural language queries a user may ask about: Adjournment Exception",
   "content": {
     "queries": [
-      "when can adjournment be granted"
+      "What are the exceptions to the adjournment rule in the mediation process?",
+      "Can an adjournment be granted without imposing a cost on the consumer?",
+      "How does the mediator decide on an adjournment exception during the mediation process?",
+      "What are the grounds for granting an adjournment exception in the mediation process?",
+      "Is an adjournment exception automatically granted in certain circumstances during mediation?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-7",
-    "exception.adjournment_may_be_granted_if_sufficient_cause_is_shown"
+    "CPA2019-CH4-S52",
+    "exception.adjournment_may_be_granted_if_sufficient_cause_is_shown",
+    "exception.no_adjournment_shall_ordinarily_be_granted",
+    "alias.adjournment_exception"
   ],
   "related_concepts": [
-    "exception.adjournment_may_be_granted_if_sufficient_cause_is_shown"
+    "alias.adjournment_exception"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "adjournment",
+      "exception",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "delay",
+      "postponement"
+    ],
+    "user_queries": [
+      "What is adjournment exception?",
+      "How does adjournment exception work?",
+      "Can you explain adjournment exception?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

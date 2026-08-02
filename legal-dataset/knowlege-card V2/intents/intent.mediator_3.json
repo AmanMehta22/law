@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.mediator_3",
+  "concept_type": "intent",
+  "title": "Questions about Mediator",
+  "description": "Natural language queries a user may ask about: Mediator",
+  "content": {
+    "queries": [
+      "What role does a mediator play in consumer disputes?",
+      "How can a mediator help resolve my complaint?",
+      "Can a mediator provide legal advice?",
+      "What are the qualifications of a mediator under the Consumer Protection Act?",
+      "How does a mediator remain impartial in a dispute?"
+    ]
+  },
+  "derived_from": [
+    "definition.mediator",
+    "example.mediator"
+  ],
+  "related_concepts": [
+    "example.mediator"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "mediator",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "how"
+    ],
+    "aliases": [
+      "neutral third-party",
+      "facilitator"
+    ],
+    "user_queries": [
+      "What is mediator?",
+      "How does mediator work?",
+      "Can you explain mediator?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

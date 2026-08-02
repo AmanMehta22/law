@@ -1,0 +1,56 @@
+{
+  "concept_id": "intent.prescribed_3",
+  "concept_type": "intent",
+  "title": "Questions about Prescribed",
+  "description": "Natural language queries a user may ask about: Prescribed",
+  "content": {
+    "queries": [
+      "What does prescribed mean in the context of consumer protection?",
+      "How does the concept of prescribed affect my rights as a consumer?",
+      "Can you explain the process of prescribed in relation to the Consumer Protection Act?",
+      "What are the implications of prescribed on consumer complaints?",
+      "Is prescribed a mandatory requirement for consumer disputes?"
+    ]
+  },
+  "derived_from": [
+    "definition.prescribed",
+    "example.prescribed"
+  ],
+  "related_concepts": [
+    "example.prescribed"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "prescribed",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "how"
+    ],
+    "aliases": [
+      "officially stated",
+      "mandated",
+      "required by law"
+    ],
+    "user_queries": [
+      "What is prescribed?",
+      "How does prescribed work?",
+      "Can you explain prescribed?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -5,22 +5,47 @@
   "description": "Natural language queries a user may ask about: Regulations",
   "content": {
     "queries": [
-      "What are regulations under CPA?",
-      "What does regulations mean in consumer law?",
-      "What kind of rules are made by the National Commission?"
+      "What role does the central authority play in regulations?",
+      "How are regulations enforced by the central authority?",
+      "Can you explain the process of central authority in regulations?",
+      "What powers does the central authority have under regulations?",
+      "How does the central authority ensure compliance with regulations?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-39",
-    "definition.regulations"
+    "definition.regulations",
+    "alias.regulations"
   ],
   "related_concepts": [
-    "definition.regulations"
+    "alias.regulations"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "regulations",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "central"
+    ],
+    "aliases": [
+      "rules",
+      "guidelines",
+      "norms"
+    ],
+    "user_queries": [
+      "What is regulations?",
+      "How does regulations work?",
+      "Can you explain regulations?",
+      "What is central authority?",
+      "How does central authority work?",
+      "Can you explain central authority?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

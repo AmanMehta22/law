@@ -1,0 +1,57 @@
+{
+  "concept_id": "intent.district_commission_may_allow_hearing_or_examination_of_parties_in_person_o_2",
+  "concept_type": "intent",
+  "title": "Questions about District Commission may allow hearing or examination of parties in person or through video conferencing",
+  "description": "Natural language queries a user may ask about: District Commission may allow hearing or examination of parties in person or through video conferencing",
+  "content": {
+    "queries": [
+      "What is the process for requesting a hearing or examination in person or through video conferencing?",
+      "Can a district commission deny a request for a hearing or examination in person or through video conferencing?",
+      "How does a district commission accommodate parties who are unable to attend a hearing in person?",
+      "What technology is used by a district commission for video conferencing?",
+      "Are hearings or examinations through video conferencing recorded for future reference?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-6",
+    "obligation.district_commission_may_allow_hearing_or_examination_of_part"
+  ],
+  "related_concepts": [
+    "obligation.district_commission_may_allow_hearing_or_examination_of_part"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commission",
+      "allow",
+      "hearing",
+      "examination",
+      "parties",
+      "person",
+      "through"
+    ],
+    "aliases": [
+      "complaint lodging",
+      "complaint registration",
+      "filing a complaint",
+      "submitting a complaint"
+    ],
+    "user_queries": [
+      "What is district commission may allow hearing or examination of parties in person or through video conferencing?",
+      "How does district commission may allow hearing or examination of parties in person or through video conferencing work?",
+      "Can you explain district commission may allow hearing or examination of parties in person or through video conferencing?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

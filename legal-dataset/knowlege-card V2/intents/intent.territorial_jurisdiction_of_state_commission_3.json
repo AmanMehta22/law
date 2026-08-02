@@ -5,22 +5,47 @@
   "description": "Natural language queries a user may ask about: Territorial jurisdiction of State Commission",
   "content": {
     "queries": [
+      "Are there any exceptions to the territorial jurisdiction of a State Commission?",
+      "How does the territorial jurisdiction of a State Commission affect the filing of complaints?",
+      "Can a consumer file a complaint in a State Commission outside their residence?",
+      "What happens if a complaint falls outside the territorial jurisdiction of a State Commission?",
+      "How do State Commissions handle cases that involve multiple territories?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S47-4",
+    "jurisdiction.state_commission_where_the_opposite_party_resides_carries_on_business_has_a_bran"
+  ],
+  "related_concepts": [
+    "jurisdiction.state_commission_where_the_opposite_party_resides_carries_on_business_has_a_bran"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "territorial",
+      "jurisdiction",
+      "state",
+      "commission",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "complaint lodging",
+      "complaint registration",
+      "filing a complaint",
+      "submitting a complaint"
+    ],
+    "user_queries": [
+      "What is state commission's administrative control?",
+      "How does state commission's administrative control work?",
+      "Can you explain state commission's administrative control?",
       "What is territorial jurisdiction of state commission?",
       "How does territorial jurisdiction of state commission work?",
       "Can you explain territorial jurisdiction of state commission?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S70-3",
-    "jurisdiction.state_commission_within_its_jurisdiction"
-  ],
-  "related_concepts": [
-    "jurisdiction.state_commission_within_its_jurisdiction"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

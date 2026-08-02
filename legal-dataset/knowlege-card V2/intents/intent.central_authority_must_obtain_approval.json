@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Central Authority must obtain approval",
   "content": {
     "queries": [
+      "What is the approval process for the Central Authority to implement new regulations?",
+      "Who is responsible for granting approval to the Central Authority?",
+      "What are the consequences of the Central Authority not obtaining approval?",
+      "Can the Central Authority obtain approval for regulations that are not in the best interest of consumers?",
+      "How long does the approval process typically take for the Central Authority?"
+    ]
+  },
+  "derived_from": [
+    "alias.central_authority_must_obtain_approval"
+  ],
+  "related_concepts": [
+    "alias.central_authority_must_obtain_approval"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "authority",
+      "obtain",
+      "approval",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "approval for central authority actions",
+      "central authority approval requirement",
+      "prior approval for central authority"
+    ],
+    "user_queries": [
       "What is central authority must obtain approval?",
       "How does central authority must obtain approval work?",
       "Can you explain central authority must obtain approval?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH8-S104-1",
-    "obligation.central_authority_must_obtain_previous_approval_of_the_centr"
-  ],
-  "related_concepts": [
-    "obligation.central_authority_must_obtain_previous_approval_of_the_centr"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

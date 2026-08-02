@@ -1,26 +1,50 @@
 {
   "concept_id": "intent.mediation_time_limit",
   "concept_type": "intent",
-  "title": "Questions about Mediation time limit",
-  "description": "Natural language queries a user may ask about: Mediation time limit",
+  "title": "Questions about Mediation Time Limit",
+  "description": "Natural language queries a user may ask about: Mediation Time Limit",
   "content": {
     "queries": [
-      "how long does mediation take",
-      "time limit for submitting inquiries"
+      "What is the time limit for mediation in consumer disputes?",
+      "How long does a mediation process typically take?",
+      "Can the mediation time limit be extended in certain cases?",
+      "What happens if the mediation time limit is not met?",
+      "Is there a specific timeframe for completing mediation in consumer cases?"
     ]
   },
   "derived_from": [
     "CPA2019-CH8-S103-2",
     "CPA2019-CH8-S104-2",
-    "timeline.not_specified"
+    "timeline.not_specified",
+    "alias.mediation_time_limit"
   ],
   "related_concepts": [
-    "timeline.not_specified"
+    "alias.mediation_time_limit"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "mediation",
+      "time",
+      "limit",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "mediation period",
+      "time for submission"
+    ],
+    "user_queries": [
+      "how long does mediation take",
+      "time limit for submitting inquiries",
+      "What is central authority must receive inquiry or investigation report?",
+      "How does central authority must receive inquiry or investigation report work?",
+      "Can you explain central authority must receive inquiry or investigation report?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

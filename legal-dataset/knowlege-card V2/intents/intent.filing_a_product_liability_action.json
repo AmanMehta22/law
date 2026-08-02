@@ -5,21 +5,43 @@
   "description": "Natural language queries a user may ask about: Filing a product liability action",
   "content": {
     "queries": [
-      "How do I file filing a product liability action?",
-      "What are the steps for filing a product liability action?"
+      "What is the process for filing a product liability action against a manufacturer?",
+      "Can I file a product liability action for a defective product?",
+      "How do I prove liability in a product liability action?",
+      "What are the damages I can claim in a product liability action?",
+      "What is the time limit for filing a product liability action?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-35",
-    "procedure.filing_a_product_liability_action"
+    "procedure.filing_a_product_liability_action",
+    "alias.filing_a_product_liability_action"
   ],
   "related_concepts": [
-    "procedure.filing_a_product_liability_action"
+    "alias.filing_a_product_liability_action"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "filing",
+      "product",
+      "liability",
+      "action",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "damages",
+      "reparation"
+    ],
+    "user_queries": [
+      "What is filing a product liability action?",
+      "How does filing a product liability action work?",
+      "Can you explain filing a product liability action?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

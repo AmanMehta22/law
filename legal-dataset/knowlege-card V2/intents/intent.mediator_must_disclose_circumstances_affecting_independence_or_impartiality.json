@@ -1,24 +1,48 @@
 {
   "concept_id": "intent.mediator_must_disclose_circumstances_affecting_independence_or_impartiality",
   "concept_type": "intent",
-  "title": "Questions about Mediator must disclose circumstances affecting independence or impartiality",
-  "description": "Natural language queries a user may ask about: Mediator must disclose circumstances affecting independence or impartiality",
+  "title": "Questions about Mediator Must Disclose Circumstances Affecting Independence Or Impartiality",
+  "description": "Natural language queries a user may ask about: Mediator Must Disclose Circumstances Affecting Independence Or Impartiality",
   "content": {
     "queries": [
-      "What must a mediator disclose about his independence?"
+      "What information must a mediator disclose to maintain independence and impartiality?",
+      "How does a mediator's disclosure of circumstances affect the mediation outcome?",
+      "Can a consumer complaint be resolved through mediation if the mediator has a conflict of interest?",
+      "What is the procedure for a mediator to disclose circumstances affecting independence or impartiality?",
+      "How does the mediator's disclosure of circumstances ensure a fair mediation process?"
     ]
   },
   "derived_from": [
     "CPA2019-CH5-S77",
-    "obligation.mediator_must_disclose_circumstances_which_may_give_rise_to_"
+    "obligation.mediator_must_disclose_circumstances_which_may_give_rise_to_",
+    "alias.mediator_must_disclose_circumstances_affecting_independence_or_impartiality"
   ],
   "related_concepts": [
-    "obligation.mediator_must_disclose_circumstances_which_may_give_rise_to_"
+    "alias.mediator_must_disclose_circumstances_affecting_independence_or_impartiality"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "mediator",
+      "disclose",
+      "circumstances",
+      "affecting",
+      "independence",
+      "impartiality",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "reveal",
+      "declare"
+    ],
+    "user_queries": [
+      "What must a mediator disclose about his independence?",
+      "What is district commission references mediator must disclose circumstances affecting independence or impartiality?",
+      "How does district commission references mediator must disclose circumstances affecting independence or impartiality work?",
+      "Can you explain district commission references mediator must disclose circumstances affecting independence or impartiality?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

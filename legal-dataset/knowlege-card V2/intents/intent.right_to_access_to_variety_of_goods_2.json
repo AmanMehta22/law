@@ -1,0 +1,56 @@
+{
+  "concept_id": "intent.right_to_access_to_variety_of_goods_2",
+  "concept_type": "intent",
+  "title": "Questions about Right to Access to Variety of Goods",
+  "description": "Natural language queries a user may ask about: Right to Access to Variety of Goods",
+  "content": {
+    "queries": [
+      "What is right to access to variety of goods?",
+      "How does right to access to variety of goods work?",
+      "Can you explain right to access to variety of goods?"
+    ]
+  },
+  "derived_from": [
+    "right.right_to_access_to_variety_of_goods",
+    "example.right_to_access_to_variety_of_goods"
+  ],
+  "related_concepts": [
+    "example.right_to_access_to_variety_of_goods"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "right",
+      "access",
+      "variety",
+      "goods",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "right to choice"
+    ],
+    "user_queries": [
+      "can I get different options for a product",
+      "What is consumer rights?",
+      "How does consumer rights work?",
+      "Can you explain consumer rights?",
+      "What is right to access to variety of goods?",
+      "How does right to access to variety of goods work?",
+      "Can you explain right to access to variety of goods?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

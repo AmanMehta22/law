@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.time_limit_for_president_s_opinion",
   "concept_type": "intent",
-  "title": "Questions about Time limit for President's opinion",
-  "description": "Natural language queries a user may ask about: Time limit for President's opinion",
+  "title": "Questions about Time Limit For President'S Opinion",
+  "description": "Natural language queries a user may ask about: Time Limit For President'S Opinion",
   "content": {
     "queries": [
-      "What is the time limit for the President's opinion?"
+      "What is the time limit for the President's opinion in consumer protection cases?",
+      "How long does the President have to provide an opinion on a consumer protection matter?",
+      "Is there a specific deadline for the President's opinion in the Consumer Protection Act?",
+      "Can the President's opinion time limit be waived or extended?",
+      "How does the time limit for the President's opinion impact the overall consumer protection process?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S58-3",
-    "exception.provided_that_the_opinion_shall_be_given_within_a_period_of_"
+    "exception.provided_that_the_opinion_shall_be_given_within_a_period_of_",
+    "alias.time_limit_for_president_s_opinion"
   ],
   "related_concepts": [
-    "exception.provided_that_the_opinion_shall_be_given_within_a_period_of_"
+    "alias.time_limit_for_president_s_opinion"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "time",
+      "limit",
+      "president",
+      "opinion",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "opinion timeframe"
+    ],
+    "user_queries": [
+      "What is the time limit for the President's opinion?",
+      "What is reference opinion time limit?",
+      "How does reference opinion time limit work?",
+      "Can you explain reference opinion time limit?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

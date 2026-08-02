@@ -1,24 +1,48 @@
 {
   "concept_id": "intent.district_commission_must_not_grant_adjournment_without_sufficient_cause",
   "concept_type": "intent",
-  "title": "Questions about District Commission must not grant adjournment without sufficient cause",
-  "description": "Natural language queries a user may ask about: District Commission must not grant adjournment without sufficient cause",
+  "title": "Questions about District Commission Must Not Grant Adjournment Without Sufficient Cause",
+  "description": "Natural language queries a user may ask about: District Commission Must Not Grant Adjournment Without Sufficient Cause",
   "content": {
     "queries": [
-      "adjournment rules"
+      "What constitutes sufficient cause for the District Commission to grant an adjournment?",
+      "Can the District Commission grant an adjournment without a valid reason?",
+      "How does the District Commission determine whether there is sufficient cause for an adjournment?",
+      "What are the consequences of the District Commission granting an adjournment without sufficient cause?",
+      "Can a party appeal if the District Commission grants an adjournment without sufficient cause?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-7",
-    "obligation.district_commission_must_not_grant_adjournment_without_suffi"
+    "obligation.district_commission_must_not_grant_adjournment_without_suffi",
+    "alias.district_commission_must_not_grant_adjournment_without_sufficient_cause"
   ],
   "related_concepts": [
-    "obligation.district_commission_must_not_grant_adjournment_without_suffi"
+    "alias.district_commission_must_not_grant_adjournment_without_sufficient_cause"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commission",
+      "grant",
+      "adjournment",
+      "without",
+      "sufficient",
+      "cause",
+      "natural"
+    ],
+    "aliases": [
+      "District Commission",
+      "Consumer Forum"
+    ],
+    "user_queries": [
+      "adjournment rules",
+      "What is adjournment exception?",
+      "How does adjournment exception work?",
+      "Can you explain adjournment exception?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

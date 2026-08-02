@@ -1,0 +1,61 @@
+{
+  "concept_id": "intent.national_commission_must_entertain_complaints_and_appeals_2",
+  "concept_type": "intent",
+  "title": "Questions about National Commission must entertain complaints and appeals",
+  "description": "Natural language queries a user may ask about: National Commission must entertain complaints and appeals",
+  "content": {
+    "queries": [
+      "What is the difference between a complaint and an appeal in the context of the National Commission?",
+      "How does the National Commission prioritize complaints and appeals?",
+      "Can the National Commission entertain complaints and appeals from consumers who have not approached the state commission?",
+      "What is the role of the National Commission in resolving disputes between consumers and companies?",
+      "How does the National Commission ensure that complaints and appeals are handled fairly and efficiently?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S58-1",
+    "obligation.national_commission_must_entertain_complaints_and_appeals"
+  ],
+  "related_concepts": [
+    "obligation.national_commission_must_entertain_complaints_and_appeals"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "national",
+      "commission",
+      "entertain",
+      "complaints",
+      "appeals",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is national commission must entertain complaints and appeals?",
+      "How does national commission must entertain complaints and appeals work?",
+      "Can you explain national commission must entertain complaints and appeals?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

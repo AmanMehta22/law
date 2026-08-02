@@ -5,23 +5,43 @@
   "description": "Natural language queries a user may ask about: Mediation consent time limit",
   "content": {
     "queries": [
+      "What is the time limit for giving consent to mediation in a consumer dispute?",
+      "How long do I have to agree to mediation after a dispute arises?",
+      "Can I withdraw my consent to mediation after a certain time limit has passed?",
+      "What happens if I don't give my consent to mediation within the specified time limit?",
+      "Is there a specific deadline for responding to a mediation consent request?"
+    ]
+  },
+  "derived_from": [
+    "alias.mediation_consent_time_limit"
+  ],
+  "related_concepts": [
+    "alias.mediation_consent_time_limit"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "mediation",
+      "consent",
+      "time",
+      "limit",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "alternative dispute resolution timeframe",
+      "arbitration consent period",
+      "conciliation consent timeline",
+      "mediation agreement deadline"
+    ],
+    "user_queries": [
       "What is mediation consent time limit?",
       "How does mediation consent time limit work?",
       "Can you explain mediation consent time limit?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S37-1",
-    "CPA2019-CH4-S37-2",
-    "timeline.five_days"
-  ],
-  "related_concepts": [
-    "timeline.five_days"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

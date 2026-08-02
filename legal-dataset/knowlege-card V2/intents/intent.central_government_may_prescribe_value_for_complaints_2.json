@@ -1,0 +1,61 @@
+{
+  "concept_id": "intent.central_government_may_prescribe_value_for_complaints_2",
+  "concept_type": "intent",
+  "title": "Questions about Central Government may prescribe value for complaints",
+  "description": "Natural language queries a user may ask about: Central Government may prescribe value for complaints",
+  "content": {
+    "queries": [
+      "What value can the Central Government prescribe for complaints?",
+      "How does the Central Government determine the value for complaints?",
+      "Can the Central Government change the prescribed value for complaints?",
+      "What is the process for the Central Government to prescribe a value for complaints?",
+      "Is there a limit to the value that the Central Government can prescribe for complaints?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S58-1",
+    "obligation.central_government_may_prescribe_value_for_complaints"
+  ],
+  "related_concepts": [
+    "obligation.central_government_may_prescribe_value_for_complaints"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "government",
+      "prescribe",
+      "value",
+      "complaints",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is central government may prescribe value for complaints?",
+      "How does central government may prescribe value for complaints work?",
+      "Can you explain central government may prescribe value for complaints?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

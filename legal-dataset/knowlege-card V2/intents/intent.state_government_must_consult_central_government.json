@@ -1,24 +1,48 @@
 {
   "concept_id": "intent.state_government_must_consult_central_government",
   "concept_type": "intent",
-  "title": "Questions about State Government must consult Central Government",
-  "description": "Natural language queries a user may ask about: State Government must consult Central Government",
+  "title": "Questions about State Government Must Consult Central Government",
+  "description": "Natural language queries a user may ask about: State Government Must Consult Central Government",
   "content": {
     "queries": [
-      "What is the composition of State Commission?"
+      "Why is it necessary for the State Government to consult the Central Government in consumer protection matters?",
+      "What are the specific areas where the State Government must consult the Central Government?",
+      "How does the consultation process between the State Government and Central Government work?",
+      "Can the State Government make decisions without consulting the Central Government in consumer protection matters?",
+      "What are the consequences of the State Government not consulting the Central Government in consumer protection matters?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S42-3",
-    "obligation.state_government_must_consult_central_government"
+    "obligation.state_government_must_consult_central_government",
+    "alias.state_government_must_consult_central_government"
   ],
   "related_concepts": [
-    "obligation.state_government_must_consult_central_government"
+    "alias.state_government_must_consult_central_government"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "state",
+      "government",
+      "consult",
+      "central",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "State Government",
+      "Central Government"
+    ],
+    "user_queries": [
+      "What is the composition of State Commission?",
+      "What is district commission references state commission?",
+      "How does district commission references state commission work?",
+      "Can you explain district commission references state commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

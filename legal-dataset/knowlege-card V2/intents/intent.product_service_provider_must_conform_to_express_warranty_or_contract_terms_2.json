@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.product_service_provider_must_conform_to_express_warranty_or_contract_terms_2",
+  "concept_type": "intent",
+  "title": "Questions about Product service provider must conform to express warranty or contract terms",
+  "description": "Natural language queries a user may ask about: Product service provider must conform to express warranty or contract terms",
+  "content": {
+    "queries": [
+      "What happens if a product service provider does not conform to express warranty or contract terms?",
+      "Can a consumer claim compensation if a product service provider does not conform to express warranty or contract terms?",
+      "How does a product service provider ensure that they conform to express warranty or contract terms?",
+      "What are the key elements of express warranty or contract terms that a product service provider must conform to?",
+      "Is it mandatory for a product service provider to provide a written guarantee to conform to express warranty or contract terms?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH6-S85",
+    "obligation.product_service_provider_must_conform_to_express_warranty_or"
+  ],
+  "related_concepts": [
+    "obligation.product_service_provider_must_conform_to_express_warranty_or"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "product",
+      "service",
+      "provider",
+      "conform",
+      "express",
+      "warranty",
+      "contract",
+      "terms"
+    ],
+    "aliases": [
+      "product service provider contract obligations"
+    ],
+    "user_queries": [
+      "what is product liability",
+      "What is product service provider must conform to express warranty or contract terms?",
+      "How does product service provider must conform to express warranty or contract terms work?",
+      "Can you explain product service provider must conform to express warranty or contract terms?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

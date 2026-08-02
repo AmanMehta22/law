@@ -1,0 +1,58 @@
+{
+  "concept_id": "intent.president_2",
+  "concept_type": "intent",
+  "title": "Questions about President",
+  "description": "Natural language queries a user may ask about: President",
+  "content": {
+    "queries": [
+      "How does the President's role influence the functioning of the consumer bench?",
+      "Can I appeal to the President if my complaint is rejected by the consumer bench?",
+      "What is the significance of the President in the establishment of the consumer bench?",
+      "Does the President have the authority to amend the rules governing the consumer bench?",
+      "How does the President ensure the consumer bench is functioning in accordance with the Consumer Protection Act?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S47-2",
+    "CPA2019-CH4-S47-3",
+    "CPA2019-CH4-S58-3",
+    "authority.president"
+  ],
+  "related_concepts": [
+    "authority.president"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "president",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "bench"
+    ],
+    "aliases": [
+      "Court Bench",
+      "Judicial Bench",
+      "Tribunal"
+    ],
+    "user_queries": [
+      "What is bench?",
+      "How does bench work?",
+      "Can you explain bench?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

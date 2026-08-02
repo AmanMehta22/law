@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Central Authority must file a complaint",
   "content": {
     "queries": [
+      "What are the procedures for the Central Authority to file a complaint?",
+      "Can the Central Authority file a complaint on behalf of a consumer?",
+      "What are the grounds for the Central Authority to file a complaint?",
+      "How does the Central Authority determine whether to file a complaint?",
+      "What is the process for the Central Authority to investigate a complaint before filing?"
+    ]
+  },
+  "derived_from": [
+    "alias.central_authority_must_file_a_complaint"
+  ],
+  "related_concepts": [
+    "alias.central_authority_must_file_a_complaint"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "authority",
+      "file",
+      "complaint",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "central authority complaint filing",
+      "central authority grievance submission",
+      "filing complaint with central authority"
+    ],
+    "user_queries": [
       "What is central authority must file a complaint?",
       "How does central authority must file a complaint work?",
       "Can you explain central authority must file a complaint?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH7-S92",
-    "obligation.central_authority_or_any_officer_authorised_by_it_must_file_"
-  ],
-  "related_concepts": [
-    "obligation.central_authority_or_any_officer_authorised_by_it_must_file_"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

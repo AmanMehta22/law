@@ -5,22 +5,47 @@
   "description": "Natural language queries a user may ask about: Resolution of differing opinions",
   "content": {
     "queries": [
-      "How do I file resolution of differing opinions?",
-      "What are the steps for resolution of differing opinions?"
+      "How are differing opinions between the President and other members resolved?",
+      "What is the process for resolving differing opinions within the National Commission?",
+      "Can differing opinions between the President and other members be appealed?",
+      "How does the National Commission ensure that differing opinions are resolved in a timely manner?",
+      "What are the consequences of failing to resolve differing opinions within the National Commission?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S47-3",
     "CPA2019-CH4-S58-3",
-    "procedure.resolution_of_differing_opinions"
+    "procedure.resolution_of_differing_opinions",
+    "alias.resolution_of_differing_opinions"
   ],
   "related_concepts": [
-    "procedure.resolution_of_differing_opinions"
+    "alias.resolution_of_differing_opinions"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "resolution",
+      "differing",
+      "opinions",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "Chairperson",
+      "Chief of Commission",
+      "Commission President",
+      "Head of Commission",
+      "Leader of the Commission"
+    ],
+    "user_queries": [
+      "What is president or other members must give opinion within a month?",
+      "How does president or other members must give opinion within a month work?",
+      "Can you explain president or other members must give opinion within a month?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

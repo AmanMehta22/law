@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Copies of documents",
   "content": {
     "queries": [
+      "What kind of documents can I request copies of under the Consumer Protection Act?",
+      "How do I obtain copies of documents related to my consumer complaint?",
+      "Are there any fees associated with requesting copies of documents?",
+      "Can I get copies of documents in electronic format or only in physical format?",
+      "What is the typical turnaround time for receiving copies of documents?"
+    ]
+  },
+  "derived_from": [
+    "alias.copies_of_documents"
+  ],
+  "related_concepts": [
+    "alias.copies_of_documents"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "copies",
+      "documents",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "document duplicates",
+      "paper copies",
+      "replicas of papers"
+    ],
+    "user_queries": [
       "What is copies of documents?",
       "How does copies of documents work?",
       "Can you explain copies of documents?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S70-1",
-    "evidence.copies_of_documents"
-  ],
-  "related_concepts": [
-    "evidence.copies_of_documents"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

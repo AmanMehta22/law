@@ -5,24 +5,51 @@
   "description": "Natural language queries a user may ask about: Chief Commissioner",
   "content": {
     "queries": [
-      "What is chief commissioner?",
-      "How does chief commissioner work?",
-      "Can you explain chief commissioner?"
+      "What are the powers of the Chief Commissioner in consumer protection?",
+      "How is the Chief Commissioner appointed and for what term?",
+      "What is the role of the Chief Commissioner in regulating consumer rights?",
+      "Can the Chief Commissioner impose penalties on companies violating consumer rights?",
+      "How does the Chief Commissioner ensure consumer protection at the national level?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S10-2",
     "CPA2019-CH3-S14-2",
     "CPA2019-CH8-S98",
-    "authority.chief_commissioner"
+    "authority.chief_commissioner",
+    "alias.chief_commissioner"
   ],
   "related_concepts": [
-    "authority.chief_commissioner"
+    "alias.chief_commissioner"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "chief",
+      "commissioner",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is central government must appoint commissioners?",
+      "How does central government must appoint commissioners work?",
+      "Can you explain central government must appoint commissioners?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

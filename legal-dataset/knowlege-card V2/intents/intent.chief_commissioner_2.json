@@ -1,0 +1,63 @@
+{
+  "concept_id": "intent.chief_commissioner_2",
+  "concept_type": "intent",
+  "title": "Questions about Chief Commissioner",
+  "description": "Natural language queries a user may ask about: Chief Commissioner",
+  "content": {
+    "queries": [
+      "What is the difference between the Chief Commissioner and other commissioners?",
+      "How does the Chief Commissioner coordinate with state-level consumer protection bodies?",
+      "What are the specific duties of the Chief Commissioner under the Consumer Protection Act?",
+      "Can consumers directly approach the Chief Commissioner for grievances?",
+      "How does the Chief Commissioner handle conflicts of interest in consumer cases?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S10-2",
+    "CPA2019-CH3-S14-2",
+    "CPA2019-CH8-S98",
+    "authority.chief_commissioner"
+  ],
+  "related_concepts": [
+    "authority.chief_commissioner"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "chief",
+      "commissioner",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is central government must appoint commissioners?",
+      "How does central government must appoint commissioners work?",
+      "Can you explain central government must appoint commissioners?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

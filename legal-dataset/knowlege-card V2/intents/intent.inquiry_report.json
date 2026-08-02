@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Inquiry report",
   "content": {
     "queries": [
+      "What is the purpose of an inquiry report in a consumer dispute?",
+      "How is an inquiry report prepared and what does it contain?",
+      "Can I request an inquiry report if I am not satisfied with the initial response to my complaint?",
+      "What is the role of an inquiry report in determining liability in a consumer case?",
+      "How long does it typically take to receive an inquiry report after filing a complaint?"
+    ]
+  },
+  "derived_from": [
+    "alias.inquiry_report"
+  ],
+  "related_concepts": [
+    "alias.inquiry_report"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "inquiry",
+      "report",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "inquiry findings",
+      "investigation report",
+      "probe report"
+    ],
+    "user_queries": [
       "What is inquiry report?",
       "How does inquiry report work?",
       "Can you explain inquiry report?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S70-1",
-    "evidence.inquiry_report"
-  ],
-  "related_concepts": [
-    "evidence.inquiry_report"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

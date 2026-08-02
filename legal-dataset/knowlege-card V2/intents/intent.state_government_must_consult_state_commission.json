@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: State Government must consult State Commission",
   "content": {
     "queries": [
+      "What is the role of the State Commission in consumer protection?",
+      "When is the State Government required to consult the State Commission?",
+      "How does the consultation process between the State Government and State Commission work?",
+      "What are the consequences of the State Government not consulting the State Commission?",
+      "Can the State Commission provide guidance to the State Government on consumer protection matters?"
+    ]
+  },
+  "derived_from": [
+    "alias.state_government_must_consult_state_commission"
+  ],
+  "related_concepts": [
+    "alias.state_government_must_consult_state_commission"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "state",
+      "government",
+      "consult",
+      "commission",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "collaboration with state commission",
+      "consult with state commission",
+      "seek state commission advice",
+      "state government consultation"
+    ],
+    "user_queries": [
       "What is state government must consult state commission?",
       "How does state government must consult state commission work?",
       "Can you explain state government must consult state commission?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S42-2",
-    "obligation.state_government_must_consult_state_commission"
-  ],
-  "related_concepts": [
-    "obligation.state_government_must_consult_state_commission"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.declaration_of_unfair_contract_terms_as_null_and_void",
   "concept_type": "intent",
-  "title": "Questions about Declaration of unfair contract terms as null and void",
-  "description": "Natural language queries a user may ask about: Declaration of unfair contract terms as null and void",
+  "title": "Questions about Declaration Of Unfair Contract Terms As Null And Void",
+  "description": "Natural language queries a user may ask about: Declaration Of Unfair Contract Terms As Null And Void",
   "content": {
     "queries": [
-      "what happens to unfair contract terms"
+      "What is the difference between declaration of contract terms as null and void and declaration of unfair contract terms as null and void?",
+      "How does the declaration of unfair contract terms as null and void benefit the consumer?",
+      "Can a consumer initiate the process of declaring unfair contract terms as null and void?",
+      "What are the grounds for declaring unfair contract terms as null and void?",
+      "How does the declaration of unfair contract terms as null and void impact the contract as a whole?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S49-2",
-    "remedy.declaration_of_unfair_contract_terms_as_null_and_void"
+    "remedy.declaration_of_unfair_contract_terms_as_null_and_void",
+    "alias.declaration_of_unfair_contract_terms_as_null_and_void"
   ],
   "related_concepts": [
-    "remedy.declaration_of_unfair_contract_terms_as_null_and_void"
+    "alias.declaration_of_unfair_contract_terms_as_null_and_void"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "declaration",
+      "unfair",
+      "contract",
+      "terms",
+      "null",
+      "void",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "declaration of invalid contract terms"
+    ],
+    "user_queries": [
+      "what happens to unfair contract terms",
+      "What is declaration of unfair contract terms as null and void?",
+      "How does declaration of unfair contract terms as null and void work?",
+      "Can you explain declaration of unfair contract terms as null and void?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

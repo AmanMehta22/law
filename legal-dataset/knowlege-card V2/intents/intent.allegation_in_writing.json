@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.allegation_in_writing",
   "concept_type": "intent",
-  "title": "Questions about Allegation in writing",
-  "description": "Natural language queries a user may ask about: Allegation in writing",
+  "title": "Questions about Allegation In Writing",
+  "description": "Natural language queries a user may ask about: Allegation In Writing",
   "content": {
     "queries": [
-      "what documents are required to file a complaint"
+      "What constitutes a valid allegation in writing under the Consumer Protection Act?",
+      "How should an allegation in writing be formatted or structured?",
+      "Can an allegation in writing be submitted electronically?",
+      "What information must be included in an allegation in writing?",
+      "How does an allegation in writing differ from a verbal complaint?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-6",
-    "evidence.written_complaint"
+    "evidence.written_complaint",
+    "alias.allegation_in_writing"
   ],
   "related_concepts": [
-    "evidence.written_complaint"
+    "alias.allegation_in_writing"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "allegation",
+      "writing",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "written complaint"
+    ],
+    "user_queries": [
+      "what documents are required to file a complaint",
+      "What is allegation in writing?",
+      "How does allegation in writing work?",
+      "Can you explain allegation in writing?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,0 +1,53 @@
+{
+  "concept_id": "intent.filing_a_product_liability_action_handled_by_commission",
+  "concept_type": "intent",
+  "title": "Questions about Filing a product liability action handled by Commission",
+  "description": "Natural language queries a user may ask about: Filing a product liability action handled by Commission",
+  "content": {
+    "queries": [
+      "What is filing a product liability action handled by commission?",
+      "How does filing a product liability action handled by commission work?",
+      "Can you explain filing a product liability action handled by commission?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-35",
+    "relationship.procedure_filing_a_product_liability_action_handled_by_authority_commi"
+  ],
+  "related_concepts": [
+    "relationship.procedure_filing_a_product_liability_action_handled_by_authority_commi"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "filing",
+      "product",
+      "liability",
+      "action",
+      "handled",
+      "commission",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "damages",
+      "reparation"
+    ],
+    "user_queries": [
+      "What is filing a product liability action handled by commission?",
+      "How does filing a product liability action handled by commission work?",
+      "Can you explain filing a product liability action handled by commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

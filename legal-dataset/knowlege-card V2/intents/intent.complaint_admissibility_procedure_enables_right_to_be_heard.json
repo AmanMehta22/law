@@ -1,0 +1,52 @@
+{
+  "concept_id": "intent.complaint_admissibility_procedure_enables_right_to_be_heard",
+  "concept_type": "intent",
+  "title": "Questions about Complaint Admissibility Procedure enables Right to be Heard",
+  "description": "Natural language queries a user may ask about: Complaint Admissibility Procedure enables Right to be Heard",
+  "content": {
+    "queries": [
+      "What is complaint admissibility procedure enables right to be heard?",
+      "How does complaint admissibility procedure enables right to be heard work?",
+      "Can you explain complaint admissibility procedure enables right to be heard?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S36-2",
+    "relationship.procedure_complaint_admissibility_procedure_enables_right_right_to_be_"
+  ],
+  "related_concepts": [
+    "relationship.procedure_complaint_admissibility_procedure_enables_right_right_to_be_"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "complaint",
+      "admissibility",
+      "procedure",
+      "enables",
+      "right",
+      "heard",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "complaint admission"
+    ],
+    "user_queries": [
+      "What is complaint admissibility procedure enables right to be heard?",
+      "How does complaint admissibility procedure enables right to be heard work?",
+      "Can you explain complaint admissibility procedure enables right to be heard?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

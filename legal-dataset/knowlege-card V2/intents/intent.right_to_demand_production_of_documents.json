@@ -5,20 +5,43 @@
   "description": "Natural language queries a user may ask about: Right to Demand Production of Documents",
   "content": {
     "queries": [
-      "can auditor demand documents"
+      "Under what circumstances can I demand production of documents?",
+      "What documents can I demand production of under the Consumer Protection Act?",
+      "How do I exercise my right to demand production of documents?",
+      "What is the process for demanding production of documents?",
+      "Can I demand production of documents from a business or only from the Central Authority?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S26-3",
-    "right.right_to_demand_production_of_documents"
+    "right.right_to_demand_production_of_documents",
+    "alias.right_to_demand_production_of_documents"
   ],
   "related_concepts": [
-    "right.right_to_demand_production_of_documents"
+    "alias.right_to_demand_production_of_documents"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "right",
+      "demand",
+      "production",
+      "documents",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "right to access documents"
+    ],
+    "user_queries": [
+      "can auditor demand documents",
+      "What is audit documents?",
+      "How does audit documents work?",
+      "Can you explain audit documents?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

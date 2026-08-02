@@ -5,23 +5,49 @@
   "description": "Natural language queries a user may ask about: Filing an appeal",
   "content": {
     "queries": [
-      "How do I file filing an appeal?",
-      "What are the steps for filing an appeal?"
+      "What is the time frame to file an appeal?",
+      "How long do I have to appeal a decision?",
+      "Can I appeal after the time limit has expired?",
+      "What happens if I miss the appeal time limit?",
+      "Is there a fee to file an appeal within the time limit?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S24",
     "CPA2019-CH4-S73-1",
     "CPA2019-CH4-S73-3",
-    "procedure.filing_an_appeal"
+    "procedure.filing_an_appeal",
+    "alias.filing_an_appeal"
   ],
   "related_concepts": [
-    "procedure.filing_an_appeal"
+    "alias.filing_an_appeal"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "filing",
+      "appeal",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "appeal deadline",
+      "filing appeal",
+      "opposite party response",
+      "time limit for appeal",
+      "time limit for application",
+      "time to respond"
+    ],
+    "user_queries": [
+      "What is appeal time limit?",
+      "How does appeal time limit work?",
+      "Can you explain appeal time limit?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

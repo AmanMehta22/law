@@ -1,25 +1,47 @@
 {
   "concept_id": "intent.continuance_of_old_act_for_certain_members",
   "concept_type": "intent",
-  "title": "Questions about Continuance of old Act for certain members",
-  "description": "Natural language queries a user may ask about: Continuance of old Act for certain members",
+  "title": "Questions about Continuance Of Old Act For Certain Members",
+  "description": "Natural language queries a user may ask about: Continuance Of Old Act For Certain Members",
   "content": {
     "queries": [
-      "transition provisions",
-      "continuance of old Act"
+      "What is continuance of old act for certain members?",
+      "How does continuance of old act for certain members work?",
+      "Can you explain continuance of old act for certain members?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S56",
-    "exception.the_president_and_every_other_member_appointed_immediately_b"
+    "exception.the_president_and_every_other_member_appointed_immediately_b",
+    "alias.continuance_of_old_act_for_certain_members"
   ],
   "related_concepts": [
-    "exception.the_president_and_every_other_member_appointed_immediately_b"
+    "alias.continuance_of_old_act_for_certain_members"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "continuance",
+      "old",
+      "act",
+      "certain",
+      "members",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "old Act",
+      "new Act"
+    ],
+    "user_queries": [
+      "transition provisions",
+      "continuance of old Act",
+      "What is continuance of old act for certain members?",
+      "How does continuance of old act for certain members work?",
+      "Can you explain continuance of old act for certain members?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

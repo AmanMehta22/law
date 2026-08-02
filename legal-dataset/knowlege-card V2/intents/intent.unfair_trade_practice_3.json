@@ -1,0 +1,53 @@
+{
+  "concept_id": "intent.unfair_trade_practice_3",
+  "concept_type": "intent",
+  "title": "Questions about Unfair Trade Practice",
+  "description": "Natural language queries a user may ask about: Unfair Trade Practice",
+  "content": {
+    "queries": [
+      "What is unfair trade practice?",
+      "How does unfair trade practice work?",
+      "Can you explain unfair trade practice?"
+    ]
+  },
+  "derived_from": [
+    "definition.unfair_trade_practice",
+    "example.unfair_trade_practice"
+  ],
+  "related_concepts": [
+    "example.unfair_trade_practice"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "unfair",
+      "trade",
+      "practice",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "deceptive business practice",
+      "false advertising"
+    ],
+    "user_queries": [
+      "What is unfair trade practice?",
+      "How does unfair trade practice work?",
+      "Can you explain unfair trade practice?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

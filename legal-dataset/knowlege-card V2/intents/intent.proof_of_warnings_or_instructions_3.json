@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.proof_of_warnings_or_instructions_3",
+  "concept_type": "intent",
+  "title": "Questions about Proof of warnings or instructions",
+  "description": "Natural language queries a user may ask about: Proof of warnings or instructions",
+  "content": {
+    "queries": [
+      "What warnings or instructions must be provided with a product?",
+      "Can a manufacturer be held liable for inadequate warnings?",
+      "How do I prove that a product did not have adequate warnings?",
+      "What are the consequences of not providing warnings or instructions?",
+      "Are warnings or instructions required for all products?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH6-S87-2",
+    "evidence.warnings_or_instructions_provided_to_employer_warnings_or_in"
+  ],
+  "related_concepts": [
+    "evidence.warnings_or_instructions_provided_to_employer_warnings_or_in"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "proof",
+      "warnings",
+      "instructions",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "exception to product liability"
+    ],
+    "user_queries": [
+      "What is complainant under influence exception?",
+      "How does complainant under influence exception work?",
+      "Can you explain complainant under influence exception?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

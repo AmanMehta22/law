@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Otherwise Provided",
   "content": {
     "queries": [
+      "How does otherwise provided apply to consumer rights?",
+      "Can you explain the concept of otherwise provided in the Consumer Protection Act?",
+      "What are the implications of otherwise provided in a consumer dispute?",
+      "How does otherwise provided affect the liability of a manufacturer?",
+      "Is otherwise provided applicable to all types of consumer goods?"
+    ]
+  },
+  "derived_from": [
+    "alias.otherwise_provided"
+  ],
+  "related_concepts": [
+    "alias.otherwise_provided"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "otherwise",
+      "provided",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "alternative provision",
+      "except as provided",
+      "special exception",
+      "unless otherwise stated"
+    ],
+    "user_queries": [
       "What is otherwise provided?",
       "How does otherwise provided work?",
       "Can you explain otherwise provided?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S72-3",
-    "exception.save_as_otherwise_provided"
-  ],
-  "related_concepts": [
-    "exception.save_as_otherwise_provided"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

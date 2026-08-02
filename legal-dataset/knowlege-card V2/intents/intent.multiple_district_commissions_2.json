@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.multiple_district_commissions_2",
+  "concept_type": "intent",
+  "title": "Questions about Multiple District Commissions",
+  "description": "Natural language queries a user may ask about: Multiple District Commissions",
+  "content": {
+    "queries": [
+      "What are the benefits of having multiple district commissions for consumer protection?",
+      "How do multiple district commissions coordinate with each other to resolve consumer disputes?",
+      "Can multiple district commissions impose penalties on businesses that violate consumer rights?",
+      "How do multiple district commissions handle cases involving multiple plaintiffs or defendants?",
+      "What is the role of multiple district commissions in promoting consumer awareness and education?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S28-1",
+    "exception.the_state_government_may_establish_more_than_one_district_co"
+  ],
+  "related_concepts": [
+    "exception.the_state_government_may_establish_more_than_one_district_co"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "multiple",
+      "district",
+      "commissions",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is multiple district commissions?",
+      "How does multiple district commissions work?",
+      "Can you explain multiple district commissions?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

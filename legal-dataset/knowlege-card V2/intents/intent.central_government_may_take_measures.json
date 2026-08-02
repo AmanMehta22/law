@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Central Government may take measures",
   "content": {
     "queries": [
+      "What kind of measures can the Central Government take under the Consumer Protection Act?",
+      "How does the Central Government decide which measures to take?",
+      "Can the Central Government take measures against businesses that violate consumer rights?",
+      "What are the consequences for businesses that do not comply with Central Government measures?",
+      "How can consumers report issues to the Central Government for measure-taking?"
+    ]
+  },
+  "derived_from": [
+    "alias.central_government_may_take_measures"
+  ],
+  "related_concepts": [
+    "alias.central_government_may_take_measures"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "government",
+      "take",
+      "measures",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "central government action",
+      "government intervention",
+      "regulatory measures by central government"
+    ],
+    "user_queries": [
       "What is central government may take measures?",
       "How does central government may take measures work?",
       "Can you explain central government may take measures?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH8-S94",
-    "obligation.central_government_may_take_measures"
-  ],
-  "related_concepts": [
-    "obligation.central_government_may_take_measures"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

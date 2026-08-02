@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.product_service_provider_must_issue_adequate_instructions_or_warnings",
   "concept_type": "intent",
-  "title": "Questions about Product service provider must issue adequate instructions or warnings",
-  "description": "Natural language queries a user may ask about: Product service provider must issue adequate instructions or warnings",
+  "title": "Questions about Product Service Provider Must Issue Adequate Instructions Or Warnings",
+  "description": "Natural language queries a user may ask about: Product Service Provider Must Issue Adequate Instructions Or Warnings",
   "content": {
     "queries": [
-      "what are product service provider obligations"
+      "What instructions should a product service provider give to consumers?",
+      "How can I ensure I receive adequate warnings from a product service provider?",
+      "What are the consequences for a product service provider that fails to issue adequate instructions?",
+      "Can a product service provider be held liable for not providing clear warnings?",
+      "What constitutes adequate instructions or warnings from a product service provider?"
     ]
   },
   "derived_from": [
     "CPA2019-CH6-S85",
-    "obligation.product_service_provider_must_issue_adequate_instructions_or"
+    "obligation.product_service_provider_must_issue_adequate_instructions_or",
+    "alias.product_service_provider_must_issue_adequate_instructions_or_warnings"
   ],
   "related_concepts": [
-    "obligation.product_service_provider_must_issue_adequate_instructions_or"
+    "alias.product_service_provider_must_issue_adequate_instructions_or_warnings"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "product",
+      "service",
+      "provider",
+      "issue",
+      "adequate",
+      "instructions",
+      "warnings",
+      "natural"
+    ],
+    "aliases": [
+      "product service provider duty"
+    ],
+    "user_queries": [
+      "what are product service provider obligations",
+      "What is product service provider must conform to express warranty or contract terms?",
+      "How does product service provider must conform to express warranty or contract terms work?",
+      "Can you explain product service provider must conform to express warranty or contract terms?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

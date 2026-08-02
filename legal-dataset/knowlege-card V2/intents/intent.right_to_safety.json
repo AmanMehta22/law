@@ -5,20 +5,43 @@
   "description": "Natural language queries a user may ask about: Right to Safety",
   "content": {
     "queries": [
-      "are there any laws to protect me from hazardous products?"
+      "What measures should a seller take to ensure my safety under the Right to Safety?",
+      "How does the Right to Safety protect me from hazardous products?",
+      "Can I report a safety concern under the Right to Safety provision?",
+      "What are my rights if a product causes harm due to lack of safety measures?",
+      "Does the Right to Safety apply to services as well as products?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S39-1",
-    "right.right_to_safety"
+    "right.right_to_safety",
+    "alias.right_to_safety"
   ],
   "related_concepts": [
-    "right.right_to_safety"
+    "alias.right_to_safety"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "right",
+      "safety",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "right to protection",
+      "right to security"
+    ],
+    "user_queries": [
+      "are there any laws to protect me from hazardous products?",
+      "What is the punishment for cost of corrective advertisement?",
+      "What happens if I commit cost of corrective advertisement?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

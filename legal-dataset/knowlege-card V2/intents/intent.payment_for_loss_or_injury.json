@@ -5,21 +5,44 @@
   "description": "Natural language queries a user may ask about: Payment for loss or injury",
   "content": {
     "queries": [
-      "What is the punishment for payment for loss or injury?",
-      "What happens if I commit payment for loss or injury?"
+      "What is payment for loss or injury?",
+      "How does payment for loss or injury work?",
+      "Can you explain payment for loss or injury?"
     ]
   },
   "derived_from": [
-    "CPA2019-CH4-S39-1",
-    "penalty.negligence"
+    "alias.payment_for_loss_or_injury"
   ],
   "related_concepts": [
-    "penalty.negligence"
+    "alias.payment_for_loss_or_injury"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "payment",
+      "loss",
+      "injury",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "compensation for loss or injury",
+      "indemnity for loss or injury",
+      "payment for damages",
+      "reimbursement for harm"
+    ],
+    "user_queries": [
+      "What is negligent service?",
+      "How does negligent service work?",
+      "Can you explain negligent service?",
+      "What is payment for loss or injury?",
+      "How does payment for loss or injury work?",
+      "Can you explain payment for loss or injury?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

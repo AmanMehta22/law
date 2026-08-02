@@ -5,22 +5,86 @@
   "description": "Natural language queries a user may ask about: Central Authority",
   "content": {
     "queries": [
-      "What is the Central Authority under the Consumer Protection Act",
-      "Who is responsible for enforcing consumer protection laws in India",
-      "What is the role of the Central Consumer Protection Authority"
+      "How does the Central Authority ensure compliance with consumer laws?",
+      "What is the process for appealing a decision made by the Central Authority?",
+      "Can the Central Authority impose penalties on businesses?",
+      "How does the Central Authority collaborate with other consumer protection agencies?",
+      "What are the responsibilities of the Central Authority in regards to consumer education?"
     ]
   },
   "derived_from": [
-    "CPA2019-CH1-S2-4",
-    "definition.central_authority"
+    "CPA2019-CH1-S2-39",
+    "CPA2019-CH1-S2-5",
+    "CPA2019-CH3-S10-2",
+    "CPA2019-CH3-S10-3",
+    "CPA2019-CH3-S11",
+    "CPA2019-CH3-S12",
+    "CPA2019-CH3-S13-1",
+    "CPA2019-CH3-S13-2",
+    "CPA2019-CH3-S13-3",
+    "CPA2019-CH3-S14-1",
+    "CPA2019-CH3-S14-2",
+    "CPA2019-CH3-S15-1",
+    "CPA2019-CH3-S15-5",
+    "CPA2019-CH3-S16",
+    "CPA2019-CH3-S17",
+    "CPA2019-CH3-S18-1",
+    "CPA2019-CH3-S18-2",
+    "CPA2019-CH3-S19-1",
+    "CPA2019-CH3-S19-2",
+    "CPA2019-CH3-S19-3",
+    "CPA2019-CH3-S20",
+    "CPA2019-CH3-S21-2",
+    "CPA2019-CH3-S21-3",
+    "CPA2019-CH3-S21-4",
+    "CPA2019-CH3-S21-6",
+    "CPA2019-CH3-S21-8",
+    "CPA2019-CH3-S23",
+    "CPA2019-CH3-S24",
+    "CPA2019-CH3-S25",
+    "CPA2019-CH3-S26-1",
+    "CPA2019-CH3-S26-4",
+    "CPA2019-CH3-S27-1",
+    "CPA2019-CH4-S35-1",
+    "CPA2019-CH4-S58-1",
+    "CPA2019-CH7-S88",
+    "CPA2019-CH7-S92",
+    "CPA2019-CH8-S104-1",
+    "CPA2019-CH8-S104-2",
+    "CPA2019-CH8-S95",
+    "CPA2019-CH8-S96-2",
+    "CPA2019-CH8-S96-5",
+    "CPA2019-CH8-S99-1",
+    "authority.central_authority"
   ],
   "related_concepts": [
-    "definition.central_authority"
+    "authority.central_authority"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "authority",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Central Consumer Protection Authority",
+      "Central Authority"
+    ],
+    "user_queries": [
+      "What is central authority?",
+      "How does central authority work?",
+      "Can you explain central authority?",
+      "What is accounts and audit reports?",
+      "How does accounts and audit reports work?",
+      "Can you explain accounts and audit reports?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

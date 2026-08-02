@@ -1,26 +1,56 @@
 {
   "concept_id": "intent.misleading_advertisement_2",
   "concept_type": "intent",
-  "title": "Questions about Misleading advertisement",
-  "description": "Natural language queries a user may ask about: Misleading advertisement",
+  "title": "Questions about Misleading Advertisement",
+  "description": "Natural language queries a user may ask about: Misleading Advertisement",
   "content": {
     "queries": [
+      "What is a misleading ad?",
+      "How to identify false advertising?",
+      "What constitutes deceptive advertising?",
+      "What is misleading advertisement?",
+      "How does misleading advertisement work?",
+      "Can you explain misleading advertisement?",
+      "What is central authority references misleading advertisement?",
+      "How does central authority references misleading advertisement work?",
+      "Can you explain central authority references misleading advertisement?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-28",
+    "definition.misleading_advertisement"
+  ],
+  "related_concepts": [
+    "definition.misleading_advertisement"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "misleading",
+      "advertisement",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "deceptive advertising",
+      "false ad"
+    ],
+    "user_queries": [
+      "What is central authority references misleading advertisement?",
+      "How does central authority references misleading advertisement work?",
+      "Can you explain central authority references misleading advertisement?",
+      "What is a misleading ad?",
+      "How to identify false advertising?",
+      "What constitutes deceptive advertising?",
       "What is misleading advertisement?",
       "How does misleading advertisement work?",
       "Can you explain misleading advertisement?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH7-S89",
-    "offence.a_manufacturer_or_service_provider_who_causes_a_false_or_misleading_advertisemen"
-  ],
-  "related_concepts": [
-    "offence.a_manufacturer_or_service_provider_who_causes_a_false_or_misleading_advertisemen"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

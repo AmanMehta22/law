@@ -1,0 +1,58 @@
+{
+  "concept_id": "intent.compounding_of_offence_5",
+  "concept_type": "intent",
+  "title": "Questions about Compounding of offence",
+  "description": "Natural language queries a user may ask about: Compounding of offence",
+  "content": {
+    "queries": [
+      "What are the benefits of compounding an offence under the Consumer Protection Act?",
+      "Can a consumer complaint be settled through compounding of offence?",
+      "How does compounding of offence affect the consumer's right to seek compensation?",
+      "What is the process for compounding an offence in a consumer dispute?",
+      "Are there any specific offences that cannot be compounded under the Consumer Protection Act?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S96-1",
+    "CPA2019-CH8-S96-2",
+    "procedure.compounding_of_offence"
+  ],
+  "related_concepts": [
+    "procedure.compounding_of_offence"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "compounding",
+      "offence",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "compromise on penalty",
+      "offence compounding",
+      "penalty waiver",
+      "settlement of offence"
+    ],
+    "user_queries": [
+      "What is compounding of offence?",
+      "How does compounding of offence work?",
+      "Can you explain compounding of offence?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

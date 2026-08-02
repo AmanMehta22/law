@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.return_of_seized_documents_3",
+  "concept_type": "intent",
+  "title": "Questions about Return of seized documents",
+  "description": "Natural language queries a user may ask about: Return of seized documents",
+  "content": {
+    "queries": [
+      "What are the grounds for returning seized documents to a consumer?",
+      "How can I appeal if my seized documents are not returned?",
+      "Can I get compensation if my seized documents are not returned?",
+      "What is the role of the consumer court in returning seized documents?",
+      "How can I track the status of my seized documents return request?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S22-3",
+    "procedure.return_of_seized_documents"
+  ],
+  "related_concepts": [
+    "procedure.return_of_seized_documents"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "return",
+      "seized",
+      "documents",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "document return",
+      "giving back seized files",
+      "release of seized papers",
+      "restoration of documents",
+      "restoring seized documents",
+      "return of confiscated documents"
+    ],
+    "user_queries": [
+      "What is copies of documents, records or articles?",
+      "How does copies of documents, records or articles work?",
+      "Can you explain copies of documents, records or articles?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

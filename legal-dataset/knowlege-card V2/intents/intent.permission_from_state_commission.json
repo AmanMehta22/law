@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.permission_from_state_commission",
   "concept_type": "intent",
-  "title": "Questions about Permission from State Commission",
-  "description": "Natural language queries a user may ask about: Permission from State Commission",
+  "title": "Questions about Permission From State Commission",
+  "description": "Natural language queries a user may ask about: Permission From State Commission",
   "content": {
     "queries": [
-      "complaint filing exception"
+      "Do I need permission from the State Commission to file a complaint?",
+      "How do I obtain permission from the State Commission to proceed with a complaint?",
+      "What are the grounds for seeking permission from the State Commission?",
+      "Can I appeal a decision made by the State Commission regarding permission?",
+      "What is the timeline for obtaining permission from the State Commission?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S47-4",
-    "exception.does_not_apply_without_permission_of_the_state_commission_in"
+    "exception.does_not_apply_without_permission_of_the_state_commission_in",
+    "alias.permission_from_state_commission"
   ],
   "related_concepts": [
-    "exception.does_not_apply_without_permission_of_the_state_commission_in"
+    "alias.permission_from_state_commission"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "permission",
+      "state",
+      "commission",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "voluntary residence exception"
+    ],
+    "user_queries": [
+      "complaint filing exception",
+      "What is complaint filing handled by state commission?",
+      "How does complaint filing handled by state commission work?",
+      "Can you explain complaint filing handled by state commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,0 +1,53 @@
+{
+  "concept_id": "intent.protection_of_service_terms_for_a_commission_member",
+  "concept_type": "intent",
+  "title": "Questions about Protection of Service Terms for a Commission Member",
+  "description": "Natural language queries a user may ask about: Protection of Service Terms for a Commission Member",
+  "content": {
+    "queries": [
+      "What is protection of service terms for a commission member?",
+      "How does protection of service terms for a commission member work?",
+      "Can you explain protection of service terms for a commission member?"
+    ]
+  },
+  "derived_from": [
+    "right.right_to_non_variation_of_service_terms",
+    "example.protection_of_service_terms_for_a_commission_member"
+  ],
+  "related_concepts": [
+    "example.protection_of_service_terms_for_a_commission_member"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "protection",
+      "service",
+      "terms",
+      "commission",
+      "member",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "job security",
+      "terms of service"
+    ],
+    "user_queries": [
+      "What is protection of service terms for a commission member?",
+      "How does protection of service terms for a commission member work?",
+      "Can you explain protection of service terms for a commission member?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

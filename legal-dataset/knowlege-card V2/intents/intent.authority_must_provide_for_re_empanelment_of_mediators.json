@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.authority_must_provide_for_re_empanelment_of_mediators",
   "concept_type": "intent",
-  "title": "Questions about Authority must provide for re-empanelment of mediators",
-  "description": "Natural language queries a user may ask about: Authority must provide for re-empanelment of mediators",
+  "title": "Questions about Authority Must Provide For Re-Empanelment Of Mediators",
+  "description": "Natural language queries a user may ask about: Authority Must Provide For Re-Empanelment Of Mediators",
   "content": {
     "queries": [
-      "what are the conditions for re-empanelment"
+      "What is the process for re-empanelment of mediators by the Authority?",
+      "How often must the Authority provide for re-empanelment of mediators?",
+      "Can the Authority refuse to re-empanel a mediator?",
+      "What are the criteria for re-empanelment of mediators by the Authority?",
+      "Is re-empanelment of mediators by the Authority automatic?"
     ]
   },
   "derived_from": [
     "CPA2019-CH8-S103-2",
-    "obligation.authority_must_provide_for_re_empanelment_of_mediators"
+    "obligation.authority_must_provide_for_re_empanelment_of_mediators",
+    "alias.authority_must_provide_for_re_empanelment_of_mediators"
   ],
   "related_concepts": [
-    "obligation.authority_must_provide_for_re_empanelment_of_mediators"
+    "alias.authority_must_provide_for_re_empanelment_of_mediators"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "authority",
+      "provide",
+      "empanelment",
+      "mediators",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "re-eligibility criteria"
+    ],
+    "user_queries": [
+      "what are the conditions for re-empanelment",
+      "What is adjournment cost imposition by district commission?",
+      "How does adjournment cost imposition by district commission work?",
+      "Can you explain adjournment cost imposition by district commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,0 +1,61 @@
+{
+  "concept_id": "intent.investigation_wing_2",
+  "concept_type": "intent",
+  "title": "Questions about Investigation Wing",
+  "description": "Natural language queries a user may ask about: Investigation Wing",
+  "content": {
+    "queries": [
+      "What are the responsibilities of the investigation wing in relation to consumer complaints?",
+      "How does the investigation wing gather evidence during an investigation?",
+      "Can the investigation wing recommend action against a company or individual?",
+      "What is the timeline for the investigation wing to complete an investigation?",
+      "How does the investigation wing ensure fairness and transparency during an investigation?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S15-1",
+    "authority.investigation_wing"
+  ],
+  "related_concepts": [
+    "authority.investigation_wing"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "investigation",
+      "wing",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is central authority must conduct inquiry or investigation?",
+      "How does central authority must conduct inquiry or investigation work?",
+      "Can you explain central authority must conduct inquiry or investigation?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

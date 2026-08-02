@@ -1,0 +1,52 @@
+{
+  "concept_id": "intent.service_of_notice_depends_on_acknowledgment",
+  "concept_type": "intent",
+  "title": "Questions about Service of Notice depends on Acknowledgment",
+  "description": "Natural language queries a user may ask about: Service of Notice depends on Acknowledgment",
+  "content": {
+    "queries": [
+      "What is service of notice depends on acknowledgment?",
+      "How does service of notice depends on acknowledgment work?",
+      "Can you explain service of notice depends on acknowledgment?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S65-3",
+    "relationship.procedure_service_of_notice_depends_on_evidence_acknowledgment_receipt"
+  ],
+  "related_concepts": [
+    "relationship.procedure_service_of_notice_depends_on_evidence_acknowledgment_receipt"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "service",
+      "notice",
+      "depends",
+      "acknowledgment",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "proof of service"
+    ],
+    "user_queries": [
+      "What is service of notice depends on acknowledgment?",
+      "How does service of notice depends on acknowledgment work?",
+      "Can you explain service of notice depends on acknowledgment?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

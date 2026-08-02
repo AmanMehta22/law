@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Proof of product sale",
   "content": {
     "queries": [
+      "What documents are considered proof of product sale under the Consumer Protection Act?",
+      "How can I obtain proof of product sale for a purchase made online?",
+      "Is a receipt enough as proof of product sale for a consumer complaint?",
+      "Can a warranty card serve as proof of product sale?",
+      "What happens if I lost my proof of product sale, can I still file a complaint?"
+    ]
+  },
+  "derived_from": [
+    "alias.proof_of_product_sale"
+  ],
+  "related_concepts": [
+    "alias.proof_of_product_sale"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "proof",
+      "product",
+      "sale",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "invoice proof",
+      "product purchase proof",
+      "sales receipt"
+    ],
+    "user_queries": [
       "What is proof of product sale?",
       "How does proof of product sale work?",
       "Can you explain proof of product sale?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH6-S86",
-    "evidence.sales_records_invoice_receipt"
-  ],
-  "related_concepts": [
-    "evidence.sales_records_invoice_receipt"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

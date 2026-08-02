@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: District Commission may allow hearing or examination of parties in person or through video conferencing",
   "content": {
     "queries": [
+      "Under what circumstances can a district commission allow a hearing in person?",
+      "Can a district commission conduct a video conference for a hearing or examination of parties?",
+      "What are the benefits of allowing parties to be heard in person or through video conferencing?",
+      "How does a district commission ensure fairness in the hearing or examination process?",
+      "Are there any specific rules governing the conduct of hearings or examinations through video conferencing?"
+    ]
+  },
+  "derived_from": [
+    "alias.district_commission_may_allow_hearing_or_examination_of_parties_in_person_or_thr"
+  ],
+  "related_concepts": [
+    "alias.district_commission_may_allow_hearing_or_examination_of_parties_in_person_or_thr"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commission",
+      "allow",
+      "hearing",
+      "examination",
+      "parties",
+      "person",
+      "through"
+    ],
+    "aliases": [
+      "district commission remote hearing",
+      "in-person hearing",
+      "video conferencing for consumer complaints",
+      "virtual hearing"
+    ],
+    "user_queries": [
       "What is district commission may allow hearing or examination of parties in person or through video conferencing?",
       "How does district commission may allow hearing or examination of parties in person or through video conferencing work?",
       "Can you explain district commission may allow hearing or examination of parties in person or through video conferencing?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S38-6",
-    "obligation.district_commission_may_allow_hearing_or_examination_of_part"
-  ],
-  "related_concepts": [
-    "obligation.district_commission_may_allow_hearing_or_examination_of_part"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

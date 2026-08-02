@@ -1,0 +1,61 @@
+{
+  "concept_id": "intent.mediation_references_establishment",
+  "concept_type": "intent",
+  "title": "Questions about Mediation references Establishment",
+  "description": "Natural language queries a user may ask about: Mediation references Establishment",
+  "content": {
+    "queries": [
+      "What is the relationship between mediation references and establishment in consumer disputes?",
+      "How does the establishment of a mediation reference work in consumer protection?",
+      "Can you explain the role of mediation references establishment in resolving consumer complaints?",
+      "What are the benefits of establishing a mediation reference for consumers?",
+      "How does the mediation references establishment interact with the District Commission?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-19",
+    "CPA2019-CH8-S101-2",
+    "relationship.alias_mediation_references_alias_establishment"
+  ],
+  "related_concepts": [
+    "relationship.alias_mediation_references_alias_establishment"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "mediation",
+      "references",
+      "establishment",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "Business Establishment",
+      "Company",
+      "Institution",
+      "Organization",
+      "company",
+      "firm",
+      "organization"
+    ],
+    "user_queries": [
+      "What is district commission references establishment?",
+      "How does district commission references establishment work?",
+      "Can you explain district commission references establishment?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

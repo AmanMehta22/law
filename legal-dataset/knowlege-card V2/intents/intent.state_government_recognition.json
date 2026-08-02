@@ -11,16 +11,37 @@
     ]
   },
   "derived_from": [
-    "CPA2019-CH1-S2-2",
-    "exception.does_not_include_a_laboratory_or_an_organisation_that_is_not"
+    "alias.state_government_recognition"
   ],
   "related_concepts": [
-    "exception.does_not_include_a_laboratory_or_an_organisation_that_is_not"
+    "alias.state_government_recognition"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "state",
+      "government",
+      "recognition",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "local government acknowledgement",
+      "regional recognition",
+      "state approval"
+    ],
+    "user_queries": [
+      "What is state government recognition?",
+      "How does state government recognition work?",
+      "Can you explain state government recognition?",
+      "What is appropriate laboratory?",
+      "How does appropriate laboratory work?",
+      "Can you explain appropriate laboratory?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

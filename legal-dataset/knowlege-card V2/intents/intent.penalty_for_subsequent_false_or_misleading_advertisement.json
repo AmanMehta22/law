@@ -5,21 +5,42 @@
   "description": "Natural language queries a user may ask about: Penalty for subsequent false or misleading advertisement",
   "content": {
     "queries": [
-      "What is the punishment for penalty for subsequent false or misleading advertisement?",
-      "What happens if I commit penalty for subsequent false or misleading advertisement?"
+      "What is the penalty for subsequent false or misleading advertisement in case of e-commerce businesses?",
+      "How does the penalty for subsequent false or misleading advertisement affect the marketing strategies of a company?",
+      "Can a penalty for subsequent false or misleading advertisement be imposed on a company that has already paid a penalty for a similar offense?",
+      "What is the role of the regulatory authority in imposing penalty for subsequent false or misleading advertisement?",
+      "How does the penalty for subsequent false or misleading advertisement impact the consumer protection landscape in the country?"
     ]
   },
   "derived_from": [
-    "CPA2019-CH7-S89",
-    "penalty.subsequent_publishing_of_false_or_misleading_advertisement"
+    "alias.penalty_for_subsequent_false_or_misleading_advertisement"
   ],
   "related_concepts": [
-    "penalty.subsequent_publishing_of_false_or_misleading_advertisement"
+    "alias.penalty_for_subsequent_false_or_misleading_advertisement"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "penalty",
+      "subsequent",
+      "false",
+      "misleading",
+      "advertisement",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "repeat misleading ad fine",
+      "second false ad penalty",
+      "subsequent deceptive advertising penalty"
+    ],
+    "user_queries": [
+      "What is penalty for subsequent false or misleading advertisement?",
+      "How does penalty for subsequent false or misleading advertisement work?",
+      "Can you explain penalty for subsequent false or misleading advertisement?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

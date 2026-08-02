@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Central Consumer Protection Council",
   "content": {
     "queries": [
-      "What is central consumer protection council?",
-      "How does central consumer protection council work?",
-      "Can you explain central consumer protection council?"
+      "What is the purpose of the Central Consumer Protection Council in India?",
+      "How are members of the Central Consumer Protection Council selected?",
+      "Can you explain the difference between the Central Consumer Protection Council and the Central Consumer Protection Authority?",
+      "How does the Central Consumer Protection Council contribute to consumer protection in India?",
+      "What are the key functions of the Central Consumer Protection Council in promoting consumer welfare?"
     ]
   },
   "derived_from": [
     "CPA2019-CH2-S3-1",
-    "authority.central_consumer_protection_council"
+    "authority.central_consumer_protection_council",
+    "alias.central_consumer_protection_council"
   ],
   "related_concepts": [
-    "authority.central_consumer_protection_council"
+    "alias.central_consumer_protection_council"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "consumer",
+      "protection",
+      "council",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "Central Council"
+    ],
+    "user_queries": [
+      "What is central consumer protection council?",
+      "How does central consumer protection council work?",
+      "Can you explain central consumer protection council?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

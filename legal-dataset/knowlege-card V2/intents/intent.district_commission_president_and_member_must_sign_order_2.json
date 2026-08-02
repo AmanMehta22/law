@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.district_commission_president_and_member_must_sign_order_2",
+  "concept_type": "intent",
+  "title": "Questions about District Commission President and member must sign order",
+  "description": "Natural language queries a user may ask about: District Commission President and member must sign order",
+  "content": {
+    "queries": [
+      "Is the District Commission President's signature required on every order?",
+      "Can the District Commission member sign an order on behalf of the President?",
+      "What is the procedure for the District Commission President and member to sign an order?",
+      "How long does it take for the District Commission President and member to sign an order?",
+      "What are the consequences of not having the District Commission President and member sign an order?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S39-4",
+    "obligation.president_and_the_member_who_conducted_the_proceeding_shall_"
+  ],
+  "related_concepts": [
+    "obligation.president_and_the_member_who_conducted_the_proceeding_shall_"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commission",
+      "president",
+      "member",
+      "sign",
+      "order",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is district commission president and member must sign order?",
+      "How does district commission president and member must sign order work?",
+      "Can you explain district commission president and member must sign order?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

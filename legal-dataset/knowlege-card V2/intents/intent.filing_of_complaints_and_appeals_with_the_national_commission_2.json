@@ -1,0 +1,61 @@
+{
+  "concept_id": "intent.filing_of_complaints_and_appeals_with_the_national_commission_2",
+  "concept_type": "intent",
+  "title": "Questions about Filing of complaints and appeals with the National Commission",
+  "description": "Natural language queries a user may ask about: Filing of complaints and appeals with the National Commission",
+  "content": {
+    "queries": [
+      "What are the grounds for appealing a decision made by the National Commission?",
+      "How do I know if I should file a complaint with the National Commission or a lower court?",
+      "Can the National Commission review a decision made by a State Commission?",
+      "What is the fee for filing a complaint with the National Commission?",
+      "How can I track the status of my complaint with the National Commission?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S58-1",
+    "procedure.filing_of_complaints_and_appeals_with_the_national_commissio"
+  ],
+  "related_concepts": [
+    "procedure.filing_of_complaints_and_appeals_with_the_national_commissio"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "filing",
+      "complaints",
+      "appeals",
+      "national",
+      "commission",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is central government discretion on value?",
+      "How does central government discretion on value work?",
+      "Can you explain central government discretion on value?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

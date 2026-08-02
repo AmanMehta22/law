@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Parliament",
   "content": {
     "queries": [
-      "What is parliament?",
-      "How does parliament work?",
-      "Can you explain parliament?"
+      "What is the role of parliament in consumer protection?",
+      "How does parliament ensure consumer rights are protected?",
+      "Can parliament make laws to protect consumers from unfair trade practices?",
+      "What is the process for parliament to pass a consumer protection bill?",
+      "How can consumers contact parliament to report consumer protection issues?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S27-2",
-    "authority.parliament"
+    "authority.parliament",
+    "alias.parliament"
   ],
   "related_concepts": [
-    "authority.parliament"
+    "alias.parliament"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "parliament",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "government"
+    ],
+    "aliases": [
+      "laying of report"
+    ],
+    "user_queries": [
+      "What is government must lay annual report before parliament?",
+      "How does government must lay annual report before parliament work?",
+      "Can you explain government must lay annual report before parliament?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

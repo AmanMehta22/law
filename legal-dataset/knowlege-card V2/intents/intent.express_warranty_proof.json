@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.express_warranty_proof",
   "concept_type": "intent",
-  "title": "Questions about Express warranty proof",
-  "description": "Natural language queries a user may ask about: Express warranty proof",
+  "title": "Questions about Express Warranty Proof",
+  "description": "Natural language queries a user may ask about: Express Warranty Proof",
   "content": {
     "queries": [
-      "What documents are required to prove non-conformity to express warranty?"
+      "What is the difference between an express warranty and an implied warranty?",
+      "How can a consumer prove that an express warranty was made?",
+      "What kind of documentation is required to support an express warranty claim?",
+      "Can an express warranty be modified or changed after purchase?",
+      "How long does an express warranty typically last?"
     ]
   },
   "derived_from": [
     "CPA2019-CH6-S84-1",
-    "evidence.warranty_documents_sales_agreement"
+    "evidence.warranty_documents_sales_agreement",
+    "alias.express_warranty_proof"
   ],
   "related_concepts": [
-    "evidence.warranty_documents_sales_agreement"
+    "alias.express_warranty_proof"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "express",
+      "warranty",
+      "proof",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "product warranty"
+    ],
+    "user_queries": [
+      "What documents are required to prove non-conformity to express warranty?",
+      "What is design defect evidence?",
+      "How does design defect evidence work?",
+      "Can you explain design defect evidence?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

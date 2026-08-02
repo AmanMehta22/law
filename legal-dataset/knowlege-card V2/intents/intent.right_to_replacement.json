@@ -5,20 +5,43 @@
   "description": "Natural language queries a user may ask about: Right to Replacement",
   "content": {
     "queries": [
-      "can I replace defective product?"
+      "Under what circumstances can I ask for a replacement under the Right to Replacement?",
+      "How does the Right to Replacement ensure that I get a product of similar quality?",
+      "Can I choose between a refund and a replacement under the Right to Replacement?",
+      "What if the replacement product is also defective, what are my rights?",
+      "Does the Right to Replacement apply to all types of products?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S39-1",
-    "right.right_to_replacement"
+    "right.right_to_replacement",
+    "alias.right_to_replacement"
   ],
   "related_concepts": [
-    "right.right_to_replacement"
+    "alias.right_to_replacement"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "right",
+      "replacement",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "right to exchange",
+      "right to substitute"
+    ],
+    "user_queries": [
+      "can I replace defective product?",
+      "What is the punishment for cost of corrective advertisement?",
+      "What happens if I commit cost of corrective advertisement?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

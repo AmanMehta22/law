@@ -1,0 +1,57 @@
+{
+  "concept_id": "intent.trial_of_offences_handled_by_district_commission",
+  "concept_type": "intent",
+  "title": "Questions about Trial of offences handled by District Commission",
+  "description": "Natural language queries a user may ask about: Trial of offences handled by District Commission",
+  "content": {
+    "queries": [
+      "What is trial of offences handled by district commission?",
+      "How does trial of offences handled by district commission work?",
+      "Can you explain trial of offences handled by district commission?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S72-3",
+    "relationship.procedure_trial_of_offences_handled_by_authority_district_commission"
+  ],
+  "related_concepts": [
+    "relationship.procedure_trial_of_offences_handled_by_authority_district_commission"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "trial",
+      "offences",
+      "handled",
+      "district",
+      "commission",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is trial of offences handled by district commission?",
+      "How does trial of offences handled by district commission work?",
+      "Can you explain trial of offences handled by district commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

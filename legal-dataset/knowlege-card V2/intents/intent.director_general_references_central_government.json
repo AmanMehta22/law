@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.director_general_references_central_government",
+  "concept_type": "intent",
+  "title": "Questions about Director-General references Central Government",
+  "description": "Natural language queries a user may ask about: Director-General references Central Government",
+  "content": {
+    "queries": [
+      "How does the Director-General reference the Central Government in consumer protection cases?",
+      "What is the relationship between the Director-General and the Central Government in enforcing consumer laws?",
+      "Can the Central Government direct the Director-General to take action against a company?",
+      "How does the Director-General report to the Central Government on consumer protection issues?",
+      "Is the Director-General accountable to the Central Government for consumer protection enforcement?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-14",
+    "CPA2019-CH3-S15-2",
+    "relationship.alias_director_general_references_alias_central_government"
+  ],
+  "related_concepts": [
+    "relationship.alias_director_general_references_alias_central_government"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "director",
+      "general",
+      "references",
+      "central",
+      "government",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "Chief Director",
+      "DG",
+      "Director General of Consumer Affairs",
+      "Head of Consumer Protection",
+      "Main Official"
+    ],
+    "user_queries": [
+      "What is director-general?",
+      "How does director-general work?",
+      "Can you explain director-general?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

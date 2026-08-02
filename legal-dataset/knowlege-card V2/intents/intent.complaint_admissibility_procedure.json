@@ -5,21 +5,42 @@
   "description": "Natural language queries a user may ask about: Complaint Admissibility Procedure",
   "content": {
     "queries": [
-      "How do I file complaint admissibility procedure?",
-      "What are the steps for complaint admissibility procedure?"
+      "What are the steps involved in determining the admissibility of a complaint?",
+      "How do I know if my complaint is admissible?",
+      "What are the criteria for assessing the admissibility of a complaint?",
+      "Can I appeal a decision on the admissibility of my complaint?",
+      "What is the role of the commission in the complaint admissibility procedure?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S36-2",
-    "procedure.complaint_admissibility_procedure"
+    "procedure.complaint_admissibility_procedure",
+    "alias.complaint_admissibility_procedure"
   ],
   "related_concepts": [
-    "procedure.complaint_admissibility_procedure"
+    "alias.complaint_admissibility_procedure"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "complaint",
+      "admissibility",
+      "procedure",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "complaint admission"
+    ],
+    "user_queries": [
+      "What is admissibility decision time limit?",
+      "How does admissibility decision time limit work?",
+      "Can you explain admissibility decision time limit?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

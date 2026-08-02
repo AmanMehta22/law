@@ -5,22 +5,46 @@
   "description": "Natural language queries a user may ask about: Product Definition",
   "content": {
     "queries": [
-      "What is a product under the Consumer Protection Act?",
-      "What is considered a product in India?",
-      "What does product mean in consumer law?"
+      "What constitutes a product under the Consumer Protection Act?",
+      "Are services considered products under the Act?",
+      "How does the Act define a product in relation to consumer rights?",
+      "Can a product be something intangible, like a digital good?",
+      "Are there any specific product categories that are exempt from the Act?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-33",
-    "definition.product"
+    "definition.product",
+    "alias.product_definition"
   ],
   "related_concepts": [
-    "definition.product"
+    "alias.product_definition"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "product",
+      "definition",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "good",
+      "commodity"
+    ],
+    "user_queries": [
+      "What is product definition?",
+      "How does product definition work?",
+      "Can you explain product definition?",
+      "What is exclusion of human tissues, blood, blood products and organs?",
+      "How does exclusion of human tissues, blood, blood products and organs work?",
+      "Can you explain exclusion of human tissues, blood, blood products and organs?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

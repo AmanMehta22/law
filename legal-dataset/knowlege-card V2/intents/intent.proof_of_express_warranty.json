@@ -11,16 +11,37 @@
     ]
   },
   "derived_from": [
-    "CPA2019-CH6-S86",
-    "evidence.express_warranty_documents"
+    "alias.proof_of_express_warranty"
   ],
   "related_concepts": [
-    "evidence.express_warranty_documents"
+    "alias.proof_of_express_warranty"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "proof",
+      "express",
+      "warranty",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "express warranty documentation",
+      "guarantee evidence",
+      "warranty proof"
+    ],
+    "user_queries": [
+      "What is product service provider must conform to express warranty or contract terms?",
+      "How does product service provider must conform to express warranty or contract terms work?",
+      "Can you explain product service provider must conform to express warranty or contract terms?",
+      "What is proof of express warranty?",
+      "How does proof of express warranty work?",
+      "Can you explain proof of express warranty?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

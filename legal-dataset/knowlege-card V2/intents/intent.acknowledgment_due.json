@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Acknowledgment due",
   "content": {
     "queries": [
+      "What happens if acknowledgment is not received within the due date?",
+      "How long does it take to get acknowledgment after filing a complaint?",
+      "Can I track the status of my acknowledgment due for a consumer complaint?",
+      "What are the consequences of not receiving acknowledgment due for my complaint?",
+      "Is acknowledgment due a mandatory step in the consumer complaint process?"
+    ]
+  },
+  "derived_from": [
+    "alias.acknowledgment_due"
+  ],
+  "related_concepts": [
+    "alias.acknowledgment_due"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "acknowledgment",
+      "due",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "acknowledgement receipt",
+      "confirmation receipt",
+      "due acknowledgement"
+    ],
+    "user_queries": [
       "What is acknowledgment due?",
       "How does acknowledgment due work?",
       "Can you explain acknowledgment due?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S65-1",
-    "evidence.registered_post_acknowledgment_due"
-  ],
-  "related_concepts": [
-    "evidence.registered_post_acknowledgment_due"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

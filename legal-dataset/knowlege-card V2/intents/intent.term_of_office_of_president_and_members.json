@@ -1,26 +1,50 @@
 {
   "concept_id": "intent.term_of_office_of_president_and_members",
   "concept_type": "intent",
-  "title": "Questions about Term of office of President and members",
-  "description": "Natural language queries a user may ask about: Term of office of President and members",
+  "title": "Questions about Term Of Office Of President And Members",
+  "description": "Natural language queries a user may ask about: Term Of Office Of President And Members",
   "content": {
     "queries": [
-      "What is term of office of president and members?",
-      "How does term of office of president and members work?",
-      "Can you explain term of office of president and members?"
+      "What is the term of office for the president and members of the National Commission?",
+      "How is the term of office for the president and members of the National Commission determined?",
+      "Can the term of office for the president and members of the National Commission be extended?",
+      "What are the eligibility criteria for the president and members of the National Commission to hold office?",
+      "How does the term of office for the president and members of the National Commission impact the commission's decision-making process?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S55-1",
-    "exception.the_president_and_members_shall_hold_office_for_a_term_not_e"
+    "exception.the_president_and_members_shall_hold_office_for_a_term_not_e",
+    "alias.term_of_office_of_president_and_members"
   ],
   "related_concepts": [
-    "exception.the_president_and_members_shall_hold_office_for_a_term_not_e"
+    "alias.term_of_office_of_president_and_members"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "term",
+      "office",
+      "president",
+      "members",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "National Commission membership",
+      "President term"
+    ],
+    "user_queries": [
+      "What is term of office of president and members?",
+      "How does term of office of president and members work?",
+      "Can you explain term of office of president and members?",
+      "What is central government must make rules for national commission service terms?",
+      "How does central government must make rules for national commission service terms work?",
+      "Can you explain central government must make rules for national commission service terms?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

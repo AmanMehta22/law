@@ -1,24 +1,45 @@
 {
   "concept_id": "intent.state_government_must_establish_district_consumer_protection_council",
   "concept_type": "intent",
-  "title": "Questions about State Government must establish District Consumer Protection Council",
-  "description": "Natural language queries a user may ask about: State Government must establish District Consumer Protection Council",
+  "title": "Questions about State Government Must Establish District Consumer Protection Council",
+  "description": "Natural language queries a user may ask about: State Government Must Establish District Consumer Protection Council",
   "content": {
     "queries": [
-      "consumer protection council establishment"
+      "What is state government must establish district consumer protection council?",
+      "How does state government must establish district consumer protection council work?",
+      "Can you explain state government must establish district consumer protection council?"
     ]
   },
   "derived_from": [
     "CPA2019-CH2-S8-1",
-    "obligation.state_government_shall_establish_a_district_consumer_protect"
+    "obligation.state_government_shall_establish_a_district_consumer_protect",
+    "alias.state_government_must_establish_district_consumer_protection_council"
   ],
   "related_concepts": [
-    "obligation.state_government_shall_establish_a_district_consumer_protect"
+    "alias.state_government_must_establish_district_consumer_protection_council"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "state",
+      "government",
+      "establish",
+      "district",
+      "consumer",
+      "protection",
+      "council",
+      "natural"
+    ],
+    "aliases": [
+      "District Council"
+    ],
+    "user_queries": [
+      "consumer protection council establishment",
+      "What is state government must establish district consumer protection council?",
+      "How does state government must establish district consumer protection council work?",
+      "Can you explain state government must establish district consumer protection council?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

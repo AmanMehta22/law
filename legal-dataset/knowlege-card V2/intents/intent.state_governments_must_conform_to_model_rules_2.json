@@ -1,0 +1,57 @@
+{
+  "concept_id": "intent.state_governments_must_conform_to_model_rules_2",
+  "concept_type": "intent",
+  "title": "Questions about State Governments must conform to model rules",
+  "description": "Natural language queries a user may ask about: State Governments must conform to model rules",
+  "content": {
+    "queries": [
+      "What are the benefits of state governments conforming to model rules?",
+      "How do model rules help in uniform implementation of consumer protection laws across states?",
+      "Can state governments be held accountable for not following model rules?",
+      "What is the process for updating or amending model rules?",
+      "How do model rules affect the powers of state governments in consumer protection?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S102-1",
+    "obligation.state_governments_must_conform_to_model_rules"
+  ],
+  "related_concepts": [
+    "obligation.state_governments_must_conform_to_model_rules"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "state",
+      "governments",
+      "conform",
+      "model",
+      "rules",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government"
+    ],
+    "user_queries": [
+      "What is state governments must conform to model rules?",
+      "How does state governments must conform to model rules work?",
+      "Can you explain state governments must conform to model rules?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

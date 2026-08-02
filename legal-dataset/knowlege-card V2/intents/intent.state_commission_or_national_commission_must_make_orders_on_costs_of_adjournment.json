@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: State Commission or National Commission must make orders on costs of adjournment",
   "content": {
     "queries": [
+      "What are the rules for State Commission or National Commission making orders on costs of adjournment?",
+      "Can the State Commission or National Commission waive costs of adjournment?",
+      "How do I claim costs of adjournment from the State Commission or National Commission?",
+      "What is the process for the State Commission or National Commission to make orders on costs of adjournment?",
+      "Are there any exceptions to the State Commission or National Commission making orders on costs of adjournment?"
+    ]
+  },
+  "derived_from": [
+    "alias.state_commission_or_national_commission_must_make_orders_on_costs_of_adjournment"
+  ],
+  "related_concepts": [
+    "alias.state_commission_or_national_commission_must_make_orders_on_costs_of_adjournment"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "state",
+      "commission",
+      "national",
+      "make",
+      "orders",
+      "costs",
+      "adjournment",
+      "natural"
+    ],
+    "aliases": [
+      "adjournment cost orders",
+      "adjournment fees",
+      "costs of adjournment"
+    ],
+    "user_queries": [
       "What is state commission or national commission must make orders on costs of adjournment?",
       "How does state commission or national commission must make orders on costs of adjournment work?",
       "Can you explain state commission or national commission must make orders on costs of adjournment?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S52",
-    "obligation.state_commission_or_national_commission_must_make_orders_on_"
-  ],
-  "related_concepts": [
-    "obligation.state_commission_or_national_commission_must_make_orders_on_"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

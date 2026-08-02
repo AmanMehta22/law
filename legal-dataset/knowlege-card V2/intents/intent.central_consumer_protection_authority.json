@@ -5,23 +5,43 @@
   "description": "Natural language queries a user may ask about: Central Consumer Protection Authority",
   "content": {
     "queries": [
-      "What is central consumer protection authority?",
-      "How does central consumer protection authority work?",
-      "Can you explain central consumer protection authority?"
+      "What are the responsibilities of the Central Authority under the Consumer Protection Act?",
+      "Who enforces consumer protection laws in India at the central level?",
+      "Can you describe the role of the Central Consumer Protection Authority in protecting consumer rights?",
+      "How does the Central Consumer Protection Authority ensure consumer protection in India?",
+      "What is the primary function of the Central Authority in regulating consumer protection laws?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-4",
     "CPA2019-CH3-S10-1",
-    "authority.central_consumer_protection_authority"
+    "authority.central_consumer_protection_authority",
+    "alias.central_consumer_protection_authority"
   ],
   "related_concepts": [
-    "authority.central_consumer_protection_authority"
+    "alias.central_consumer_protection_authority"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "consumer",
+      "protection",
+      "authority",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "Central Authority"
+    ],
+    "user_queries": [
+      "What is the Central Authority under the Consumer Protection Act",
+      "Who is responsible for enforcing consumer protection laws in India",
+      "What is the role of the Central Consumer Protection Authority"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

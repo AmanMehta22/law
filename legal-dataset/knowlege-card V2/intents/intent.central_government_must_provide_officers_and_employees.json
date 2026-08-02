@@ -1,24 +1,46 @@
 {
   "concept_id": "intent.central_government_must_provide_officers_and_employees",
   "concept_type": "intent",
-  "title": "Questions about Central Government must provide officers and employees",
-  "description": "Natural language queries a user may ask about: Central Government must provide officers and employees",
+  "title": "Questions about Central Government Must Provide Officers And Employees",
+  "description": "Natural language queries a user may ask about: Central Government Must Provide Officers And Employees",
   "content": {
     "queries": [
-      "What is the role of Central Government in assisting National Commission"
+      "What is central government must provide officers and employees?",
+      "How does central government must provide officers and employees work?",
+      "Can you explain central government must provide officers and employees?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S57-1",
-    "obligation.central_government_shall_provide_officers_and_other_employee"
+    "obligation.central_government_shall_provide_officers_and_other_employee",
+    "alias.central_government_must_provide_officers_and_employees"
   ],
   "related_concepts": [
-    "obligation.central_government_shall_provide_officers_and_other_employee"
+    "alias.central_government_must_provide_officers_and_employees"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "government",
+      "provide",
+      "officers",
+      "employees",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "Central Government",
+      "National Commission"
+    ],
+    "user_queries": [
+      "What is the role of Central Government in assisting National Commission",
+      "What is central government must provide officers and employees?",
+      "How does central government must provide officers and employees work?",
+      "Can you explain central government must provide officers and employees?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

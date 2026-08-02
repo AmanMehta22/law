@@ -1,0 +1,56 @@
+{
+  "concept_id": "intent.penalty_for_unauthorized_search_or_seizure_applies_to_unlawful_search_or_seizure",
+  "concept_type": "intent",
+  "title": "Questions about Penalty for unauthorized search or seizure applies to Unlawful search or seizure",
+  "description": "Natural language queries a user may ask about: Penalty for unauthorized search or seizure applies to Unlawful search or seizure",
+  "content": {
+    "queries": [
+      "What is penalty for unauthorized search or seizure applies to unlawful search or seizure?",
+      "How does penalty for unauthorized search or seizure applies to unlawful search or seizure work?",
+      "Can you explain penalty for unauthorized search or seizure applies to unlawful search or seizure?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH7-S93",
+    "relationship.penalty_searching_or_seizing_without_reasonable_grounds_applies_to_off"
+  ],
+  "related_concepts": [
+    "relationship.penalty_searching_or_seizing_without_reasonable_grounds_applies_to_off"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "penalty",
+      "unauthorized",
+      "search",
+      "seizure",
+      "applies",
+      "unlawful",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "Chief Director",
+      "DG",
+      "Director General of Consumer Affairs",
+      "Head of Consumer Protection",
+      "Main Official"
+    ],
+    "user_queries": [
+      "What is penalty for unauthorized search or seizure applies to unlawful search or seizure?",
+      "How does penalty for unauthorized search or seizure applies to unlawful search or seizure work?",
+      "Can you explain penalty for unauthorized search or seizure applies to unlawful search or seizure?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

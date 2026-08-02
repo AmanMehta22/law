@@ -5,21 +5,43 @@
   "description": "Natural language queries a user may ask about: Payment for loss to multiple consumers",
   "content": {
     "queries": [
-      "What is the punishment for payment for loss to multiple consumers?",
-      "What happens if I commit payment for loss to multiple consumers?"
+      "How do I get compensated if multiple consumers have suffered a loss due to a party to the contract?",
+      "Can multiple consumers collectively sue a party to the contract for losses?",
+      "What is the process for seeking payment for losses from a party to the contract?",
+      "How is the amount of payment for losses to multiple consumers determined?",
+      "Can a party to the contract be held liable for losses to multiple consumers if they were not directly responsible?"
     ]
   },
   "derived_from": [
-    "CPA2019-CH4-S39-1",
-    "penalty.payment_for_loss_to_multiple_consumers"
+    "alias.payment_for_loss_to_multiple_consumers"
   ],
   "related_concepts": [
-    "penalty.payment_for_loss_to_multiple_consumers"
+    "alias.payment_for_loss_to_multiple_consumers"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "payment",
+      "loss",
+      "multiple",
+      "consumers",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "compensation for multiple consumers",
+      "consumer loss payment",
+      "group compensation",
+      "mass compensation"
+    ],
+    "user_queries": [
+      "What is payment for loss to multiple consumers?",
+      "How does payment for loss to multiple consumers work?",
+      "Can you explain payment for loss to multiple consumers?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

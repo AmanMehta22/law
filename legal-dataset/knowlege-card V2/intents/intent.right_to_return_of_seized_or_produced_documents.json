@@ -5,20 +5,43 @@
   "description": "Natural language queries a user may ask about: Right to Return of Seized or Produced Documents",
   "content": {
     "queries": [
-      "What happens to documents seized under the Consumer Protection Act?"
+      "What happens to the copies of documents, records or articles after they are seized or produced?",
+      "Can a consumer get back the original documents, records or articles that were seized or produced?",
+      "How long does it take to return the seized or produced documents, records or articles?",
+      "What is the process for returning copies of documents, records or articles?",
+      "Are there any conditions under which the seized or produced documents, records or articles will not be returned?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S22-3",
-    "right.right_to_return_of_seized_or_produced_documents"
+    "right.right_to_return_of_seized_or_produced_documents",
+    "alias.right_to_return_of_seized_or_produced_documents"
   ],
   "related_concepts": [
-    "right.right_to_return_of_seized_or_produced_documents"
+    "alias.right_to_return_of_seized_or_produced_documents"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "right",
+      "return",
+      "seized",
+      "produced",
+      "documents",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "right to retrieval of documents"
+    ],
+    "user_queries": [
+      "What happens to documents seized under the Consumer Protection Act?",
+      "What is copies of documents, records or articles?",
+      "How does copies of documents, records or articles work?",
+      "Can you explain copies of documents, records or articles?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -5,20 +5,44 @@
   "description": "Natural language queries a user may ask about: Audit of Central Authority accounts",
   "content": {
     "queries": [
-      "What is the audit process for the Central Authority?"
+      "What documents are required for the audit of Central Authority accounts?",
+      "How often is the audit of Central Authority accounts conducted?",
+      "Can I request an audit of Central Authority accounts?",
+      "What is the purpose of auditing Central Authority accounts?",
+      "Who is responsible for conducting the audit of Central Authority accounts?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S26-3",
-    "procedure.audit_of_central_authority_accounts"
+    "procedure.audit_of_central_authority_accounts",
+    "alias.audit_of_central_authority_accounts"
   ],
   "related_concepts": [
-    "procedure.audit_of_central_authority_accounts"
+    "alias.audit_of_central_authority_accounts"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "audit",
+      "central",
+      "authority",
+      "accounts",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "account examination",
+      "financial inspection"
+    ],
+    "user_queries": [
+      "What is the audit process for the Central Authority?",
+      "What is audit documents?",
+      "How does audit documents work?",
+      "Can you explain audit documents?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

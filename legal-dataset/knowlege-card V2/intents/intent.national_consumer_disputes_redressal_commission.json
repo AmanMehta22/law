@@ -5,23 +5,43 @@
   "description": "Natural language queries a user may ask about: National Consumer Disputes Redressal Commission",
   "content": {
     "queries": [
-      "What is national consumer disputes redressal commission?",
-      "How does national consumer disputes redressal commission work?",
-      "Can you explain national consumer disputes redressal commission?"
+      "What is the role of the National Consumer Disputes Redressal Commission in resolving consumer complaints?",
+      "How do I contact the National Consumer Disputes Redressal Commission to file a complaint?",
+      "What are the powers of the National Consumer Disputes Redressal Commission in consumer protection?",
+      "Can the National Consumer Disputes Redressal Commission hear appeals from state commissions?",
+      "What is the process for the National Consumer Disputes Redressal Commission to investigate consumer complaints?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-29",
     "CPA2019-CH4-S53-1",
-    "authority.national_consumer_disputes_redressal_commission"
+    "authority.national_consumer_disputes_redressal_commission",
+    "alias.national_consumer_disputes_redressal_commission"
   ],
   "related_concepts": [
-    "authority.national_consumer_disputes_redressal_commission"
+    "alias.national_consumer_disputes_redressal_commission"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "national",
+      "consumer",
+      "disputes",
+      "redressal",
+      "commission",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "National Commission"
+    ],
+    "user_queries": [
+      "What is the National Commission for consumers?",
+      "How do I file a complaint with the National Commission?",
+      "What is the role of the National Commission in consumer protection?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

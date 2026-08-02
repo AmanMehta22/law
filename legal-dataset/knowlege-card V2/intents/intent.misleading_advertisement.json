@@ -5,22 +5,45 @@
   "description": "Natural language queries a user may ask about: Misleading Advertisement",
   "content": {
     "queries": [
-      "What is a misleading ad?",
-      "How to identify false advertising?",
-      "What constitutes deceptive advertising?"
+      "What constitutes a misleading advertisement under the Consumer Protection Act?",
+      "How can a consumer identify a misleading advertisement?",
+      "What are the consequences for a business that publishes a misleading advertisement?",
+      "Can a misleading advertisement be considered a violation of consumer rights?",
+      "How can a consumer report a misleading advertisement to the authorities?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-28",
-    "definition.misleading_advertisement"
+    "CPA2019-CH7-S89",
+    "definition.misleading_advertisement",
+    "offence.a_manufacturer_or_service_provider_who_causes_a_false_or_misleading_advertisemen",
+    "alias.misleading_advertisement"
   ],
   "related_concepts": [
-    "definition.misleading_advertisement"
+    "alias.misleading_advertisement"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "misleading",
+      "advertisement",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "deceptive advertising",
+      "false ad"
+    ],
+    "user_queries": [
+      "What is central authority references misleading advertisement?",
+      "How does central authority references misleading advertisement work?",
+      "Can you explain central authority references misleading advertisement?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

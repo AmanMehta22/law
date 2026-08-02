@@ -11,16 +11,37 @@
     ]
   },
   "derived_from": [
-    "CPA2019-CH4-S38-6",
-    "evidence.documentary_evidence"
+    "alias.documentary_evidence"
   ],
   "related_concepts": [
-    "evidence.documentary_evidence"
+    "alias.documentary_evidence"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "documentary",
+      "evidence",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "paper trail",
+      "tangible evidence",
+      "written proof"
+    ],
+    "user_queries": [
+      "What is affidavit?",
+      "How does affidavit work?",
+      "Can you explain affidavit?",
+      "What is documentary evidence?",
+      "How does documentary evidence work?",
+      "Can you explain documentary evidence?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

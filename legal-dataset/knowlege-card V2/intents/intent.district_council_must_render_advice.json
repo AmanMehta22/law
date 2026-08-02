@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: District Council must render advice",
   "content": {
     "queries": [
+      "What kind of advice can consumers expect from a District Council?",
+      "How does a District Council render advice on consumer protection matters?",
+      "Can a District Council provide advice on individual consumer complaints?",
+      "What is the process for seeking advice from a District Council?",
+      "How does a District Council ensure its advice is impartial and unbiased?"
+    ]
+  },
+  "derived_from": [
+    "alias.district_council_must_render_advice"
+  ],
+  "related_concepts": [
+    "alias.district_council_must_render_advice"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "council",
+      "render",
+      "advice",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "advisory services from district council",
+      "consumer guidance",
+      "district council guidance",
+      "expert advice"
+    ],
+    "user_queries": [
       "What is district council must render advice?",
       "How does district council must render advice work?",
       "Can you explain district council must render advice?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH2-S9",
-    "obligation.district_council_must_render_advice_on_promotion_and_protect"
-  ],
-  "related_concepts": [
-    "obligation.district_council_must_render_advice_on_promotion_and_protect"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

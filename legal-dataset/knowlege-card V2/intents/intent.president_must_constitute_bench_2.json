@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: President must constitute Bench",
   "content": {
     "queries": [
+      "Under what circumstances can the President constitute a new bench for consumer disputes?",
+      "What is the procedure for the President to constitute a bench in case of a vacancy?",
+      "Can the President constitute a bench with a single member, or is a larger panel required?",
+      "How does the President's power to constitute a bench affect the autonomy of the consumer courts?",
+      "What are the guidelines that the President must follow while constituting a bench for consumer disputes?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S47-2",
+    "obligation.president_must_constitute_a_bench"
+  ],
+  "related_concepts": [
+    "obligation.president_must_constitute_a_bench"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "president",
+      "constitute",
+      "bench",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "Court Bench",
+      "Judicial Bench",
+      "Tribunal"
+    ],
+    "user_queries": [
       "What is president must constitute bench?",
       "How does president must constitute bench work?",
       "Can you explain president must constitute bench?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S58-2",
-    "obligation.president_of_the_national_commission_must_constitute_a_bench"
-  ],
-  "related_concepts": [
-    "obligation.president_of_the_national_commission_must_constitute_a_bench"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

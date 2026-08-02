@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.discontinuation_of_unfair_practices_2",
+  "concept_type": "intent",
+  "title": "Questions about Discontinuation of unfair practices",
+  "description": "Natural language queries a user may ask about: Discontinuation of unfair practices",
+  "content": {
+    "queries": [
+      "unfair business practices",
+      "What is central authority must give opportunity of being heard?",
+      "How does central authority must give opportunity of being heard work?",
+      "Can you explain central authority must give opportunity of being heard?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S20",
+    "remedy.discontinuation_of_unfair_practices"
+  ],
+  "related_concepts": [
+    "remedy.discontinuation_of_unfair_practices"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "discontinuation",
+      "unfair",
+      "practices",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "stop unfair practices"
+    ],
+    "user_queries": [
+      "unfair business practices",
+      "What is central authority must give opportunity of being heard?",
+      "How does central authority must give opportunity of being heard work?",
+      "Can you explain central authority must give opportunity of being heard?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

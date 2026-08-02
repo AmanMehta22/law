@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.electronic_service_provider_3",
+  "concept_type": "intent",
+  "title": "Questions about Electronic Service Provider",
+  "description": "Natural language queries a user may ask about: Electronic Service Provider",
+  "content": {
+    "queries": [
+      "What is the role of an electronic service provider in consumer protection?",
+      "How does an electronic service provider impact my online transactions?",
+      "Can an electronic service provider be held liable for product defects?",
+      "What kind of services are typically offered by an electronic service provider?",
+      "How does the Consumer Protection Act regulate electronic service providers?"
+    ]
+  },
+  "derived_from": [
+    "definition.electronic_service_provider",
+    "example.electronic_service_provider"
+  ],
+  "related_concepts": [
+    "example.electronic_service_provider"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "electronic",
+      "service",
+      "provider",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "online service provider",
+      "e-service provider"
+    ],
+    "user_queries": [
+      "What is electronic service provider?",
+      "How does electronic service provider work?",
+      "Can you explain electronic service provider?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

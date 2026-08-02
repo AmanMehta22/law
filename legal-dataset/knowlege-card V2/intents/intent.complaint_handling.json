@@ -5,21 +5,42 @@
   "description": "Natural language queries a user may ask about: Complaint handling",
   "content": {
     "queries": [
-      "How do I file complaint handling?",
-      "What are the steps for complaint handling?"
+      "What is the first step in handling a consumer complaint?",
+      "How are complaints handled by the consumer protection authorities?",
+      "Can a complaint be handled through mediation?",
+      "What is the role of the consumer protection council in complaint handling?",
+      "How long does it typically take to resolve a consumer complaint?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-2",
-    "procedure.complaint_handling"
+    "procedure.complaint_handling",
+    "alias.complaint_handling"
   ],
   "related_concepts": [
-    "procedure.complaint_handling"
+    "alias.complaint_handling"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "complaint",
+      "handling",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "complaint admission"
+    ],
+    "user_queries": [
+      "What is complaint handling?",
+      "How does complaint handling work?",
+      "Can you explain complaint handling?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

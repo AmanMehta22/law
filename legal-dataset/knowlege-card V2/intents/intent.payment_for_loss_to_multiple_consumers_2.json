@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.payment_for_loss_to_multiple_consumers_2",
+  "concept_type": "intent",
+  "title": "Questions about Payment for loss to multiple consumers",
+  "description": "Natural language queries a user may ask about: Payment for loss to multiple consumers",
+  "content": {
+    "queries": [
+      "How is payment for loss to multiple consumers calculated?",
+      "What are the conditions for payment for loss to multiple consumers?",
+      "Can I claim payment for loss to multiple consumers if I'm not the only one affected?",
+      "How long does it take to receive payment for loss to multiple consumers?",
+      "Is payment for loss to multiple consumers mandatory for businesses?"
+    ]
+  },
+  "derived_from": [
+    "penalty.payment_for_loss_to_multiple_consumers",
+    "example.payment_for_loss_to_multiple_consumers"
+  ],
+  "related_concepts": [
+    "example.payment_for_loss_to_multiple_consumers"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "payment",
+      "loss",
+      "multiple",
+      "consumers",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is payment for loss to multiple consumers?",
+      "How does payment for loss to multiple consumers work?",
+      "Can you explain payment for loss to multiple consumers?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

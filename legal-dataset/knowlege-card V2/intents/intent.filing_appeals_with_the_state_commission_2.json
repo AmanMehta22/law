@@ -1,0 +1,56 @@
+{
+  "concept_id": "intent.filing_appeals_with_the_state_commission_2",
+  "concept_type": "intent",
+  "title": "Questions about Filing appeals with the State Commission",
+  "description": "Natural language queries a user may ask about: Filing appeals with the State Commission",
+  "content": {
+    "queries": [
+      "What is the difference between filing an appeal and a revision petition with the State Commission?",
+      "Can I file an appeal with the State Commission against a decision of the District Forum?",
+      "How does the State Commission hear and decide appeals?",
+      "What is the role of the State Commission in appeals against consumer disputes?",
+      "Can the State Commission grant stay on the operation of the order of the District Forum?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S47-1",
+    "procedure.filing_appeals_with_the_state_commission"
+  ],
+  "related_concepts": [
+    "procedure.filing_appeals_with_the_state_commission"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "filing",
+      "appeals",
+      "state",
+      "commission",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "calling for records",
+      "calling for records and passing orders",
+      "records and orders"
+    ],
+    "user_queries": [
+      "What is calling for records and passing orders?",
+      "How does calling for records and passing orders work?",
+      "Can you explain calling for records and passing orders?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

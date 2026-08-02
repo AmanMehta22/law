@@ -5,21 +5,46 @@
   "description": "Natural language queries a user may ask about: Issuing Guidelines",
   "content": {
     "queries": [
-      "How do I file issuing guidelines?",
-      "What are the steps for issuing guidelines?"
+      "What is the purpose of issuing guidelines under the Consumer Protection Act?",
+      "Who is responsible for issuing guidelines under the Act, and what is the process?",
+      "Can guidelines be issued on specific product safety standards under the Consumer Protection Act?",
+      "How do guidelines issued under the Act impact consumer rights and responsibilities?",
+      "Are guidelines issued under the Consumer Protection Act binding on all parties, including businesses and consumers?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S18-2",
-    "procedure.issuing_guidelines"
+    "procedure.issuing_guidelines",
+    "alias.issuing_guidelines"
   ],
   "related_concepts": [
-    "procedure.issuing_guidelines"
+    "alias.issuing_guidelines"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "issuing",
+      "guidelines",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "advice on consumer welfare",
+      "advising on consumer welfare",
+      "consumer rights guidance",
+      "consumer welfare advice",
+      "consumer welfare measures"
+    ],
+    "user_queries": [
+      "What is issuing guidelines?",
+      "How does issuing guidelines work?",
+      "Can you explain issuing guidelines?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.national_commission_must_consider_transfer_of_complaint",
   "concept_type": "intent",
-  "title": "Questions about National Commission must consider transfer of complaint",
-  "description": "Natural language queries a user may ask about: National Commission must consider transfer of complaint",
+  "title": "Questions about National Commission Must Consider Transfer Of Complaint",
+  "description": "Natural language queries a user may ask about: National Commission Must Consider Transfer Of Complaint",
   "content": {
     "queries": [
-      "can the National Commission transfer a complaint"
+      "Under what circumstances must the National Commission consider transferring a complaint?",
+      "What factors does the National Commission take into account when deciding whether to transfer a complaint?",
+      "Can the National Commission transfer a complaint on its own initiative or only at the request of a party?",
+      "How does the National Commission ensure that a complaint transfer is in the best interests of justice?",
+      "What are the implications of the National Commission's decision to transfer a complaint on the parties involved?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S62",
-    "obligation.national_commission_may_transfer_any_complaint"
+    "obligation.national_commission_may_transfer_any_complaint",
+    "alias.national_commission_must_consider_transfer_of_complaint"
   ],
   "related_concepts": [
-    "obligation.national_commission_may_transfer_any_complaint"
+    "alias.national_commission_must_consider_transfer_of_complaint"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "national",
+      "commission",
+      "consider",
+      "transfer",
+      "complaint",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "complaint relocation"
+    ],
+    "user_queries": [
+      "can the National Commission transfer a complaint",
+      "What is complaint transfer?",
+      "How does complaint transfer work?",
+      "Can you explain complaint transfer?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

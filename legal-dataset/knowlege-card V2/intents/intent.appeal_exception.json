@@ -5,20 +5,43 @@
   "description": "Natural language queries a user may ask about: Appeal Exception",
   "content": {
     "queries": [
-      "what are the exceptions to the appeal rule"
+      "What are the exceptions to filing an appeal under the Consumer Protection Act?",
+      "Can an appeal be filed without following the exception rules?",
+      "How does the appeal exception process work in consumer courts?",
+      "What are the grounds for an appeal exception in consumer cases?",
+      "Is there a time limit to file an appeal under the exception clause?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S73-2",
-    "exception.an_appeal_may_lie_before_a_court_as_provided_in_sub_section_"
+    "exception.an_appeal_may_lie_before_a_court_as_provided_in_sub_section_",
+    "alias.appeal_exception"
   ],
   "related_concepts": [
-    "exception.an_appeal_may_lie_before_a_court_as_provided_in_sub_section_"
+    "alias.appeal_exception"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "appeal",
+      "exception",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "exception to appeal rule"
+    ],
+    "user_queries": [
+      "what are the exceptions to the appeal rule",
+      "What is appeal exception?",
+      "How does appeal exception work?",
+      "Can you explain appeal exception?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

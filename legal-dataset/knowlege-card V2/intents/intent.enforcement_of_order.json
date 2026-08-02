@@ -5,21 +5,47 @@
   "description": "Natural language queries a user may ask about: Enforcement of Order",
   "content": {
     "queries": [
-      "How do I file enforcement of order?",
-      "What are the steps for enforcement of order?"
+      "How does the commission ensure enforcement of an order?",
+      "What are the consequences if the commission fails to enforce an order?",
+      "Can a consumer appeal if the commission's order is not enforced?",
+      "How long does it take for the commission to enforce an order?",
+      "What is the process for the commission to enforce an order against a company?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S71",
-    "procedure.enforcement_of_order"
+    "procedure.enforcement_of_order",
+    "alias.enforcement_of_order"
   ],
   "related_concepts": [
-    "procedure.enforcement_of_order"
+    "alias.enforcement_of_order"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "enforcement",
+      "order",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Bench",
+      "Judiciary",
+      "Law Court",
+      "Tribunal",
+      "judicial body",
+      "tribunal"
+    ],
+    "user_queries": [
+      "What is commission must enforce order?",
+      "How does commission must enforce order work?",
+      "Can you explain commission must enforce order?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

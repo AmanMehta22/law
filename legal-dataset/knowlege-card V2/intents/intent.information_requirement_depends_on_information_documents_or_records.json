@@ -1,0 +1,57 @@
+{
+  "concept_id": "intent.information_requirement_depends_on_information_documents_or_records",
+  "concept_type": "intent",
+  "title": "Questions about Information Requirement depends on Information, documents or records",
+  "description": "Natural language queries a user may ask about: Information Requirement depends on Information, documents or records",
+  "content": {
+    "queries": [
+      "What is information requirement depends on information, documents or records?",
+      "How does information requirement depends on information, documents or records work?",
+      "Can you explain information requirement depends on information, documents or records?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-4",
+    "relationship.procedure_information_requirement_depends_on_evidence_information_docu"
+  ],
+  "related_concepts": [
+    "relationship.procedure_information_requirement_depends_on_evidence_information_docu"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "information",
+      "requirement",
+      "depends",
+      "documents",
+      "records",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is information requirement depends on information, documents or records?",
+      "How does information requirement depends on information, documents or records work?",
+      "Can you explain information requirement depends on information, documents or records?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

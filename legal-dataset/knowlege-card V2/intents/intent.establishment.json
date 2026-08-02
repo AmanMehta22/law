@@ -5,22 +5,47 @@
   "description": "Natural language queries a user may ask about: Establishment",
   "content": {
     "queries": [
-      "What is an establishment under the Consumer Protection Act?",
-      "What types of businesses are considered establishments?",
-      "Is a public utility an establishment?"
+      "What is the definition of establishment under the Consumer Protection Act?",
+      "How does the establishment of a consumer complaint process work?",
+      "Can you explain the importance of establishment in consumer protection laws?",
+      "What are the key factors in determining the establishment of a consumer dispute?",
+      "How does the establishment of a consumer complaint affect the mediation process?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-19",
-    "definition.establishment"
+    "definition.establishment",
+    "alias.establishment"
   ],
   "related_concepts": [
-    "definition.establishment"
+    "alias.establishment"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "establishment",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "district"
+    ],
+    "aliases": [
+      "organization",
+      "company",
+      "firm"
+    ],
+    "user_queries": [
+      "What is establishment?",
+      "How does establishment work?",
+      "Can you explain establishment?",
+      "What is district commission references establishment?",
+      "How does district commission references establishment work?",
+      "Can you explain district commission references establishment?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

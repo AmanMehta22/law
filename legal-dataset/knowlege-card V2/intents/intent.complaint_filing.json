@@ -5,8 +5,11 @@
   "description": "Natural language queries a user may ask about: Complaint filing",
   "content": {
     "queries": [
-      "How do I file complaint filing?",
-      "What are the steps for complaint filing?"
+      "What are the steps to file a complaint under the Consumer Protection Act?",
+      "How long does it take to process a complaint after filing?",
+      "Can I file a complaint against a company that is not registered in my state?",
+      "What are the required documents for filing a consumer complaint?",
+      "Can I file a complaint online or do I need to visit a physical office?"
     ]
   },
   "derived_from": [
@@ -15,15 +18,36 @@
     "CPA2019-CH4-S38-6",
     "CPA2019-CH4-S47-4",
     "CPA2019-CH4-S69-1",
-    "procedure.complaint_filing"
+    "procedure.complaint_filing",
+    "alias.complaint_filing"
   ],
   "related_concepts": [
-    "procedure.complaint_filing"
+    "alias.complaint_filing"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "complaint",
+      "filing",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "complaint lodging",
+      "complaint registration",
+      "filing a complaint",
+      "submitting a complaint"
+    ],
+    "user_queries": [
+      "What is affidavit?",
+      "How does affidavit work?",
+      "Can you explain affidavit?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

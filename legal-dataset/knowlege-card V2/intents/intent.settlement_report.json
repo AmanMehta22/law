@@ -11,16 +11,37 @@
     ]
   },
   "derived_from": [
-    "CPA2019-CH5-S80-2",
-    "evidence.settlement_agreement_settlement_report"
+    "alias.settlement_report"
   ],
   "related_concepts": [
-    "evidence.settlement_agreement_settlement_report"
+    "alias.settlement_report"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "settlement",
+      "report",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "agreement settlement",
+      "case settlement",
+      "dispute resolution report"
+    ],
+    "user_queries": [
+      "What is commission?",
+      "How does commission work?",
+      "Can you explain commission?",
+      "What is settlement report?",
+      "How does settlement report work?",
+      "Can you explain settlement report?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

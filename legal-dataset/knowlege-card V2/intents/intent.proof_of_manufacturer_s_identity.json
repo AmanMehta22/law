@@ -11,16 +11,37 @@
     ]
   },
   "derived_from": [
-    "CPA2019-CH6-S86",
-    "evidence.manufacturer_s_records_identification_documents"
+    "alias.proof_of_manufacturer_s_identity"
   ],
   "related_concepts": [
-    "evidence.manufacturer_s_records_identification_documents"
+    "alias.proof_of_manufacturer_s_identity"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "proof",
+      "manufacturer",
+      "identity",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "maker's proof",
+      "manufacturer identification",
+      "producer's identity"
+    ],
+    "user_queries": [
+      "What is product seller must exercise reasonable care?",
+      "How does product seller must exercise reasonable care work?",
+      "Can you explain product seller must exercise reasonable care?",
+      "What is proof of manufacturer's identity?",
+      "How does proof of manufacturer's identity work?",
+      "Can you explain proof of manufacturer's identity?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

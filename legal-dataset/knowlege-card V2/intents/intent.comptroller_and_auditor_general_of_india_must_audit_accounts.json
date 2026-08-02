@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Comptroller and Auditor-General of India must audit accounts",
   "content": {
     "queries": [
+      "What is the role of the Comptroller and Auditor-General of India in auditing consumer protection accounts?",
+      "How often must the Comptroller and Auditor-General of India audit the accounts of consumer protection authorities?",
+      "What are the consequences of not auditing the accounts of consumer protection authorities by the Comptroller and Auditor-General of India?",
+      "Can the Comptroller and Auditor-General of India audit the accounts of private companies that provide consumer services?",
+      "What is the procedure for the Comptroller and Auditor-General of India to audit the accounts of consumer protection authorities?"
+    ]
+  },
+  "derived_from": [
+    "alias.comptroller_and_auditor_general_of_india_must_audit_accounts"
+  ],
+  "related_concepts": [
+    "alias.comptroller_and_auditor_general_of_india_must_audit_accounts"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "comptroller",
+      "auditor",
+      "general",
+      "india",
+      "audit",
+      "accounts",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "CAG audit",
+      "accounts audit by CAG",
+      "audit of accounts by comptroller and auditor general",
+      "financial audit by CAG"
+    ],
+    "user_queries": [
       "What is comptroller and auditor-general of india must audit accounts?",
       "How does comptroller and auditor-general of india must audit accounts work?",
       "Can you explain comptroller and auditor-general of india must audit accounts?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH3-S26-2",
-    "obligation.comptroller_and_auditor_general_of_india_must_audit_accounts"
-  ],
-  "related_concepts": [
-    "obligation.comptroller_and_auditor_general_of_india_must_audit_accounts"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

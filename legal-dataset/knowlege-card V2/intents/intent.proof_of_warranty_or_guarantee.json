@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.proof_of_warranty_or_guarantee",
   "concept_type": "intent",
-  "title": "Questions about Proof of warranty or guarantee",
-  "description": "Natural language queries a user may ask about: Proof of warranty or guarantee",
+  "title": "Questions about Proof Of Warranty Or Guarantee",
+  "description": "Natural language queries a user may ask about: Proof Of Warranty Or Guarantee",
   "content": {
     "queries": [
-      "What documents are required to prove warranty or guarantee?"
+      "What kind of proof do I need to show to claim a warranty?",
+      "How can I get a guarantee for a product I purchased?",
+      "What information should a warranty or guarantee document contain?",
+      "Can I ask for a refund if a product does not match the warranty or guarantee?",
+      "How long is a typical warranty or guarantee period for a product?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-47",
-    "evidence.test_results_records_of_testing"
+    "evidence.test_results_records_of_testing",
+    "alias.proof_of_warranty_or_guarantee"
   ],
   "related_concepts": [
-    "evidence.test_results_records_of_testing"
+    "alias.proof_of_warranty_or_guarantee"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "proof",
+      "warranty",
+      "guarantee",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "proof of testing"
+    ],
+    "user_queries": [
+      "What documents are required to prove warranty or guarantee?",
+      "What is contest, lottery, game of chance or skill exception?",
+      "How does contest, lottery, game of chance or skill exception work?",
+      "Can you explain contest, lottery, game of chance or skill exception?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

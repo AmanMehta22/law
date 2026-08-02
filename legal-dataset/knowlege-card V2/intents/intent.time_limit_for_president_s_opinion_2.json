@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.time_limit_for_president_s_opinion_2",
+  "concept_type": "intent",
+  "title": "Questions about Time limit for President's opinion",
+  "description": "Natural language queries a user may ask about: Time limit for President's opinion",
+  "content": {
+    "queries": [
+      "What is the time limit for the President's opinion?",
+      "What is reference opinion time limit?",
+      "How does reference opinion time limit work?",
+      "Can you explain reference opinion time limit?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S58-3",
+    "exception.provided_that_the_opinion_shall_be_given_within_a_period_of_"
+  ],
+  "related_concepts": [
+    "exception.provided_that_the_opinion_shall_be_given_within_a_period_of_"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "time",
+      "limit",
+      "president",
+      "opinion",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "opinion timeframe"
+    ],
+    "user_queries": [
+      "What is the time limit for the President's opinion?",
+      "What is reference opinion time limit?",
+      "How does reference opinion time limit work?",
+      "Can you explain reference opinion time limit?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

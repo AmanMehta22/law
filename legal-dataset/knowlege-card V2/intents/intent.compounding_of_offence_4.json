@@ -1,0 +1,61 @@
+{
+  "concept_id": "intent.compounding_of_offence_4",
+  "concept_type": "intent",
+  "title": "Questions about Compounding of offence",
+  "description": "Natural language queries a user may ask about: Compounding of offence",
+  "content": {
+    "queries": [
+      "What is the concept of compounding of offence?",
+      "How does compounding of offence work in the RAG system?",
+      "Can you explain the benefits of compounding of offence?",
+      "What are the implications of compounding of offence?",
+      "How does compounding of offence impact the outcome?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S96-2",
+    "penalty.offence_under_sub_section_1"
+  ],
+  "related_concepts": [
+    "penalty.offence_under_sub_section_1"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "compounding",
+      "offence",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is compounding of offence?",
+      "How does compounding of offence work?",
+      "Can you explain compounding of offence?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

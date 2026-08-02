@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.issuance_of_instructions_for_uniform_procedure_depends_on_inquiry_report",
+  "concept_type": "intent",
+  "title": "Questions about Issuance of instructions for uniform procedure depends on Inquiry report",
+  "description": "Natural language queries a user may ask about: Issuance of instructions for uniform procedure depends on Inquiry report",
+  "content": {
+    "queries": [
+      "What is issuance of instructions for uniform procedure depends on inquiry report?",
+      "How does issuance of instructions for uniform procedure depends on inquiry report work?",
+      "Can you explain issuance of instructions for uniform procedure depends on inquiry report?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S70-1",
+    "relationship.procedure_issuance_of_instructions_for_uniform_procedure_depends_on_ev_3"
+  ],
+  "related_concepts": [
+    "relationship.procedure_issuance_of_instructions_for_uniform_procedure_depends_on_ev_3"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "issuance",
+      "instructions",
+      "uniform",
+      "procedure",
+      "depends",
+      "inquiry",
+      "report",
+      "natural"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government"
+    ],
+    "user_queries": [
+      "What is issuance of instructions for uniform procedure depends on inquiry report?",
+      "How does issuance of instructions for uniform procedure depends on inquiry report work?",
+      "Can you explain issuance of instructions for uniform procedure depends on inquiry report?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

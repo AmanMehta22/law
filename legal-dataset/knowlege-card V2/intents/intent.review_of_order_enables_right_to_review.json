@@ -1,0 +1,58 @@
+{
+  "concept_id": "intent.review_of_order_enables_right_to_review",
+  "concept_type": "intent",
+  "title": "Questions about Review of order enables Right to Review",
+  "description": "Natural language queries a user may ask about: Review of order enables Right to Review",
+  "content": {
+    "queries": [
+      "What is review of order enables right to review?",
+      "How does review of order enables right to review work?",
+      "Can you explain review of order enables right to review?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S50",
+    "CPA2019-CH4-S60",
+    "relationship.procedure_review_of_order_enables_right_right_to_review"
+  ],
+  "related_concepts": [
+    "relationship.procedure_review_of_order_enables_right_right_to_review"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "review",
+      "order",
+      "enables",
+      "right",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "appeal deadline",
+      "filing appeal",
+      "opposite party response",
+      "time limit for appeal",
+      "time limit for application",
+      "time to respond"
+    ],
+    "user_queries": [
+      "What is review of order enables right to review?",
+      "How does review of order enables right to review work?",
+      "Can you explain review of order enables right to review?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

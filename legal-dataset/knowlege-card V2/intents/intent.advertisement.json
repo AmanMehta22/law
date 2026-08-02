@@ -5,22 +5,44 @@
   "description": "Natural language queries a user may ask about: Advertisement",
   "content": {
     "queries": [
-      "What is an advertisement under the Consumer Protection Act",
-      "What constitutes an advertisement",
-      "How is advertisement defined in the CPA 2019"
+      "What constitutes a misleading advertisement under the Consumer Protection Act?",
+      "How can I identify a false or deceptive advertisement?",
+      "What are the responsibilities of an advertiser in ensuring truthful advertising?",
+      "Can a consumer file a complaint against a misleading advertisement?",
+      "What are the penalties for publishing a false advertisement?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-1",
-    "definition.advertisement"
+    "definition.advertisement",
+    "alias.advertisement"
   ],
   "related_concepts": [
-    "definition.advertisement"
+    "alias.advertisement"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "advertisement",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "how"
+    ],
+    "aliases": [
+      "ad",
+      "promo",
+      "publicity material"
+    ],
+    "user_queries": [
+      "What is advertisement?",
+      "How does advertisement work?",
+      "Can you explain advertisement?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

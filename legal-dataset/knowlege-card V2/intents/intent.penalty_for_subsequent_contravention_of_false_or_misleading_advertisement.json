@@ -5,21 +5,42 @@
   "description": "Natural language queries a user may ask about: Penalty for subsequent contravention of false or misleading advertisement",
   "content": {
     "queries": [
-      "What is the punishment for penalty for subsequent contravention of false or misleading advertisement?",
-      "What happens if I commit penalty for subsequent contravention of false or misleading advertisement?"
+      "What is the penalty for subsequent contravention of a false or misleading advertisement?",
+      "How does the penalty for subsequent contravention affect the business's reputation?",
+      "Can a penalty for subsequent contravention be imposed on a company that has already paid a penalty?",
+      "What are the consequences of repeated contraventions of false or misleading advertisements?",
+      "Is the penalty for subsequent contravention applicable to advertisements on social media?"
     ]
   },
   "derived_from": [
-    "CPA2019-CH3-S21-2",
-    "penalty.subsequent_contravention_of_publishing_false_or_misleading_a"
+    "alias.penalty_for_subsequent_contravention_of_false_or_misleading_advertisement"
   ],
   "related_concepts": [
-    "penalty.subsequent_contravention_of_publishing_false_or_misleading_a"
+    "alias.penalty_for_subsequent_contravention_of_false_or_misleading_advertisement"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "penalty",
+      "subsequent",
+      "contravention",
+      "false",
+      "misleading",
+      "advertisement",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "multiple false advertisement penalty",
+      "repeat false ad penalty",
+      "subsequent misleading ad fine"
+    ],
+    "user_queries": [
+      "What is penalty for subsequent contravention of false or misleading advertisement?",
+      "How does penalty for subsequent contravention of false or misleading advertisement work?",
+      "Can you explain penalty for subsequent contravention of false or misleading advertisement?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

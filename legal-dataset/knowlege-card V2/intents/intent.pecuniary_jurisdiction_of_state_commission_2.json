@@ -5,22 +5,41 @@
   "description": "Natural language queries a user may ask about: Pecuniary jurisdiction of State Commission",
   "content": {
     "queries": [
-      "What is pecuniary jurisdiction of state commission?",
-      "How does pecuniary jurisdiction of state commission work?",
-      "Can you explain pecuniary jurisdiction of state commission?"
+      "State Commission jurisdiction",
+      "What is calling for records and passing orders?",
+      "How does calling for records and passing orders work?",
+      "Can you explain calling for records and passing orders?"
     ]
   },
   "derived_from": [
-    "CPA2019-CH8-S101-2",
-    "jurisdiction.state_commission_other_value_of_goods_and_services"
+    "CPA2019-CH4-S47-1",
+    "jurisdiction.state_commission_exceeds_rupees_one_crore_but_does_not_exceed_rupees_ten_crore_w"
   ],
   "related_concepts": [
-    "jurisdiction.state_commission_other_value_of_goods_and_services"
+    "jurisdiction.state_commission_exceeds_rupees_one_crore_but_does_not_exceed_rupees_ten_crore_w"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "pecuniary",
+      "jurisdiction",
+      "state",
+      "commission",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "State Consumer Commission"
+    ],
+    "user_queries": [
+      "What is calling for records and passing orders?",
+      "How does calling for records and passing orders work?",
+      "Can you explain calling for records and passing orders?",
+      "State Commission jurisdiction"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

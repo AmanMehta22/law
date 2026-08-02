@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.exception_to_performance_of_duties_by_senior_most_member_2",
+  "concept_type": "intent",
+  "title": "Questions about Exception to performance of duties by senior-most member",
+  "description": "Natural language queries a user may ask about: Exception to performance of duties by senior-most member",
+  "content": {
+    "queries": [
+      "Who presides over the National Commission in the absence of the President?",
+      "What is exception to performance of duties by senior-most member?",
+      "How does exception to performance of duties by senior-most member work?",
+      "Can you explain exception to performance of duties by senior-most member?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S63",
+    "exception.unless_a_retired_judge_of_a_high_court_or_a_person_who_has_b"
+  ],
+  "related_concepts": [
+    "exception.unless_a_retired_judge_of_a_high_court_or_a_person_who_has_b"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "exception",
+      "performance",
+      "duties",
+      "senior",
+      "most",
+      "member",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "senior-most member",
+      "Judicial Member"
+    ],
+    "user_queries": [
+      "Who presides over the National Commission in the absence of the President?",
+      "What is exception to performance of duties by senior-most member?",
+      "How does exception to performance of duties by senior-most member work?",
+      "Can you explain exception to performance of duties by senior-most member?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

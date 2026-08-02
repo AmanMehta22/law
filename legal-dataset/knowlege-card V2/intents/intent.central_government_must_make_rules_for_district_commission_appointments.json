@@ -1,24 +1,46 @@
 {
   "concept_id": "intent.central_government_must_make_rules_for_district_commission_appointments",
   "concept_type": "intent",
-  "title": "Questions about Central Government must make rules for District Commission appointments",
-  "description": "Natural language queries a user may ask about: Central Government must make rules for District Commission appointments",
+  "title": "Questions about Central Government Must Make Rules For District Commission Appointments",
+  "description": "Natural language queries a user may ask about: Central Government Must Make Rules For District Commission Appointments",
   "content": {
     "queries": [
-      "What are the rules for District Commission appointments?"
+      "What is central government must make rules for district commission appointments?",
+      "How does central government must make rules for district commission appointments work?",
+      "Can you explain central government must make rules for district commission appointments?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S29",
-    "obligation.central_government_make_rules_for_district_commission_appoin"
+    "obligation.central_government_make_rules_for_district_commission_appoin",
+    "alias.central_government_must_make_rules_for_district_commission_appointments"
   ],
   "related_concepts": [
-    "obligation.central_government_make_rules_for_district_commission_appoin"
+    "alias.central_government_must_make_rules_for_district_commission_appointments"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "government",
+      "make",
+      "rules",
+      "district",
+      "commission",
+      "appointments",
+      "natural"
+    ],
+    "aliases": [
+      "regulations",
+      "notifications"
+    ],
+    "user_queries": [
+      "What are the rules for District Commission appointments?",
+      "What is central government must make rules for district commission appointments?",
+      "How does central government must make rules for district commission appointments work?",
+      "Can you explain central government must make rules for district commission appointments?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

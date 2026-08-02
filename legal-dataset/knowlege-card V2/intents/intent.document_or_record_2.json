@@ -1,0 +1,61 @@
+{
+  "concept_id": "intent.document_or_record_2",
+  "concept_type": "intent",
+  "title": "Questions about Document or record",
+  "description": "Natural language queries a user may ask about: Document or record",
+  "content": {
+    "queries": [
+      "What constitutes a document or record under the Consumer Protection Act?",
+      "How do I obtain a document or record related to my consumer complaint?",
+      "Can a document or record be used as evidence in a consumer dispute?",
+      "What is the difference between a document and a record in the context of consumer protection?",
+      "How long should companies retain documents or records related to consumer transactions?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S19-3",
+    "evidence.document_record"
+  ],
+  "related_concepts": [
+    "evidence.document_record"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "document",
+      "record",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is document or record?",
+      "How does document or record work?",
+      "Can you explain document or record?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

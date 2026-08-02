@@ -1,26 +1,51 @@
 {
   "concept_id": "intent.district_collector_must_inquire_and_report",
   "concept_type": "intent",
-  "title": "Questions about District Collector must inquire and report",
-  "description": "Natural language queries a user may ask about: District Collector must inquire and report",
+  "title": "Questions about District Collector Must Inquire And Report",
+  "description": "Natural language queries a user may ask about: District Collector Must Inquire And Report",
   "content": {
     "queries": [
-      "consumer rights violation",
-      "unfair trade practices",
-      "false advertisements"
+      "What is the role of the District Collector in consumer protection?",
+      "How does the District Collector investigate consumer complaints?",
+      "What is the process for reporting consumer complaints to the District Collector?",
+      "Can the District Collector impose fines on businesses for non-compliance?",
+      "How does the District Collector ensure consumer complaints are resolved?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S16",
-    "obligation.district_collector_inquire_into_or_investigate_complaints_an"
+    "obligation.district_collector_inquire_into_or_investigate_complaints_an",
+    "alias.district_collector_must_inquire_and_report"
   ],
   "related_concepts": [
-    "obligation.district_collector_inquire_into_or_investigate_complaints_an"
+    "alias.district_collector_must_inquire_and_report"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "collector",
+      "inquire",
+      "report",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "District Collector",
+      "Central Authority",
+      "Commissioner of a regional office"
+    ],
+    "user_queries": [
+      "consumer rights violation",
+      "unfair trade practices",
+      "false advertisements",
+      "What is commissioner of a regional office?",
+      "How does commissioner of a regional office work?",
+      "Can you explain commissioner of a regional office?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.party_to_the_contract_must_not_require_excessive_security_deposits",
   "concept_type": "intent",
-  "title": "Questions about Party to the contract must not require excessive security deposits",
-  "description": "Natural language queries a user may ask about: Party to the contract must not require excessive security deposits",
+  "title": "Questions about Party To The Contract Must Not Require Excessive Security Deposits",
+  "description": "Natural language queries a user may ask about: Party To The Contract Must Not Require Excessive Security Deposits",
   "content": {
     "queries": [
-      "What constitutes an excessive security deposit?"
+      "Can a party to the contract demand a large security deposit from me?",
+      "What happens if a party to the contract requires an excessive security deposit?",
+      "How do I know if a security deposit is excessive?",
+      "Can I negotiate the amount of a security deposit with a party to the contract?",
+      "What are my rights if a party to the contract is asking for an unreasonable security deposit?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-46",
-    "obligation.party_to_the_contract_must_not_require_excessive_security_de"
+    "obligation.party_to_the_contract_must_not_require_excessive_security_de",
+    "alias.party_to_the_contract_must_not_require_excessive_security_deposits"
   ],
   "related_concepts": [
-    "obligation.party_to_the_contract_must_not_require_excessive_security_de"
+    "alias.party_to_the_contract_must_not_require_excessive_security_deposits"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "party",
+      "contract",
+      "require",
+      "excessive",
+      "security",
+      "deposits",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "security deposit requirements"
+    ],
+    "user_queries": [
+      "What constitutes an excessive security deposit?",
+      "What is party to the contract must accept early repayment of debts?",
+      "How does party to the contract must accept early repayment of debts work?",
+      "Can you explain party to the contract must accept early repayment of debts?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

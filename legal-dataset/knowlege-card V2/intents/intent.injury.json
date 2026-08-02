@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Injury",
   "content": {
     "queries": [
-      "what is injury under consumer protection act",
-      "what constitutes injury in consumer law",
-      "what is meant by injury in legal terms"
+      "What constitutes an injury under the Consumer Protection Act?",
+      "How do I prove injury in a consumer complaint?",
+      "Can emotional distress be considered an injury?",
+      "What are the different types of injuries covered by the Act?",
+      "How does the concept of injury apply to product liability cases?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-23",
-    "definition.injury"
+    "definition.injury",
+    "alias.injury"
   ],
   "related_concepts": [
-    "definition.injury"
+    "alias.injury"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "injury",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "how"
+    ],
+    "aliases": [
+      "harm",
+      "damage"
+    ],
+    "user_queries": [
+      "What is injury?",
+      "How does injury work?",
+      "Can you explain injury?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

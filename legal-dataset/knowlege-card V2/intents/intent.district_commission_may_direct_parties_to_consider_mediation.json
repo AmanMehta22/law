@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.district_commission_may_direct_parties_to_consider_mediation",
   "concept_type": "intent",
-  "title": "Questions about District Commission may direct parties to consider mediation",
-  "description": "Natural language queries a user may ask about: District Commission may direct parties to consider mediation",
+  "title": "Questions about District Commission May Direct Parties To Consider Mediation",
+  "description": "Natural language queries a user may ask about: District Commission May Direct Parties To Consider Mediation",
   "content": {
     "queries": [
-      "what happens at the first hearing of a complaint"
+      "Under what circumstances can the District Commission direct parties to consider mediation?",
+      "How does the District Commission decide whether to direct parties to mediation?",
+      "What is the role of mediation in resolving consumer disputes at the District Commission level?",
+      "Can parties refuse to participate in mediation directed by the District Commission?",
+      "What are the benefits of mediation in consumer disputes as directed by the District Commission?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S37-1",
-    "obligation.district_commission_may_direct_parties_to_give_in_writing_co"
+    "obligation.district_commission_may_direct_parties_to_give_in_writing_co",
+    "alias.district_commission_may_direct_parties_to_consider_mediation"
   ],
   "related_concepts": [
-    "obligation.district_commission_may_direct_parties_to_give_in_writing_co"
+    "alias.district_commission_may_direct_parties_to_consider_mediation"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commission",
+      "direct",
+      "parties",
+      "consider",
+      "mediation",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "alternative dispute resolution"
+    ],
+    "user_queries": [
+      "what happens at the first hearing of a complaint",
+      "What is consent in writing?",
+      "How does consent in writing work?",
+      "Can you explain consent in writing?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

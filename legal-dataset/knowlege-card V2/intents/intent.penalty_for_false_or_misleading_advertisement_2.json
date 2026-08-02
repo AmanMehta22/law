@@ -1,0 +1,61 @@
+{
+  "concept_id": "intent.penalty_for_false_or_misleading_advertisement_2",
+  "concept_type": "intent",
+  "title": "Questions about Penalty for False or Misleading Advertisement",
+  "description": "Natural language queries a user may ask about: Penalty for False or Misleading Advertisement",
+  "content": {
+    "queries": [
+      "Is there a specific penalty for false or misleading advertisements under the Consumer Protection Act?",
+      "How does the penalty for false or misleading advertisements affect the company's reputation?",
+      "Can the penalty for false or misleading advertisements be waived in certain circumstances?",
+      "What is the process for determining the penalty for false or misleading advertisements?",
+      "Are there any exceptions to the penalty for false or misleading advertisements?"
+    ]
+  },
+  "derived_from": [
+    "penalty.publishing_false_or_misleading_advertisement",
+    "example.penalty_for_false_or_misleading_advertisement"
+  ],
+  "related_concepts": [
+    "example.penalty_for_false_or_misleading_advertisement"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "penalty",
+      "false",
+      "misleading",
+      "advertisement",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is penalty for false or misleading advertisement?",
+      "How does penalty for false or misleading advertisement work?",
+      "Can you explain penalty for false or misleading advertisement?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

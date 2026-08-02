@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.retired_judge_or_judicial_member_must_preside",
   "concept_type": "intent",
-  "title": "Questions about Retired Judge or Judicial Member must preside",
-  "description": "Natural language queries a user may ask about: Retired Judge or Judicial Member must preside",
+  "title": "Questions about Retired Judge Or Judicial Member Must Preside",
+  "description": "Natural language queries a user may ask about: Retired Judge Or Judicial Member Must Preside",
   "content": {
     "queries": [
-      "who presides over National Commission in absence of President"
+      "What is the role of a retired judge or judicial member in a trial?",
+      "How does a retired judge or judicial member work in a trial?",
+      "Can you explain the significance of a retired judge or judicial member in a trial?",
+      "What is the purpose of a retired judge or judicial member in a trial?",
+      "How does a retired judge or judicial member affect the decision-making process in a trial?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S63",
-    "obligation.retired_judge_of_a_high_court_or_a_person_who_has_been_a_jud"
+    "obligation.retired_judge_of_a_high_court_or_a_person_who_has_been_a_jud",
+    "alias.retired_judge_or_judicial_member_must_preside"
   ],
   "related_concepts": [
-    "obligation.retired_judge_of_a_high_court_or_a_person_who_has_been_a_jud"
+    "alias.retired_judge_or_judicial_member_must_preside"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "retired",
+      "judge",
+      "judicial",
+      "member",
+      "preside",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "acting Chairperson"
+    ],
+    "user_queries": [
+      "who presides over National Commission in absence of President",
+      "What is exception to performance of duties by senior-most member?",
+      "How does exception to performance of duties by senior-most member work?",
+      "Can you explain exception to performance of duties by senior-most member?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

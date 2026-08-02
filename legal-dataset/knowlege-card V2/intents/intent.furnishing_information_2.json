@@ -1,0 +1,57 @@
+{
+  "concept_id": "intent.furnishing_information_2",
+  "concept_type": "intent",
+  "title": "Questions about Furnishing information",
+  "description": "Natural language queries a user may ask about: Furnishing information",
+  "content": {
+    "queries": [
+      "Are there any specific documents I need to furnish when filing an appeal to the national commission?",
+      "How do I know what information to furnish for a specific type of appeal to the national commission?",
+      "Can someone else furnish information on my behalf for an appeal to the national commission?",
+      "What is the process for furnishing additional information if requested by the national commission?",
+      "How long do I have to furnish information after filing an appeal to the national commission?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S101-2",
+    "procedure.furnishing_information"
+  ],
+  "related_concepts": [
+    "procedure.furnishing_information"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "furnishing",
+      "information",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "how"
+    ],
+    "aliases": [
+      "appeal to national commission",
+      "appeal to national consumer commission",
+      "national appeal",
+      "national commission",
+      "national commission appeal"
+    ],
+    "user_queries": [
+      "How do I file appeal to national commission?",
+      "What are the steps for appeal to national commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

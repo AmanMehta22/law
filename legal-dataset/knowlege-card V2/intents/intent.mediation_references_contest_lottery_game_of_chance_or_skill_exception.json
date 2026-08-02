@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.mediation_references_contest_lottery_game_of_chance_or_skill_exception",
+  "concept_type": "intent",
+  "title": "Questions about Mediation references Contest, Lottery, Game Of Chance Or Skill Exception",
+  "description": "Natural language queries a user may ask about: Mediation references Contest, Lottery, Game Of Chance Or Skill Exception",
+  "content": {
+    "queries": [
+      "What is mediation references contest, lottery, game of chance or skill exception?",
+      "How does mediation references contest, lottery, game of chance or skill exception work?",
+      "Can you explain mediation references contest, lottery, game of chance or skill exception?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-47",
+    "CPA2019-CH8-S101-2",
+    "relationship.alias_mediation_references_alias_contest_lottery_game_of_chance_or_ski"
+  ],
+  "related_concepts": [
+    "relationship.alias_mediation_references_alias_contest_lottery_game_of_chance_or_ski"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "mediation",
+      "references",
+      "contest",
+      "lottery",
+      "game",
+      "chance",
+      "skill",
+      "exception"
+    ],
+    "aliases": [
+      "promotion",
+      "sale"
+    ],
+    "user_queries": [
+      "What is mediation references contest, lottery, game of chance or skill exception?",
+      "How does mediation references contest, lottery, game of chance or skill exception work?",
+      "Can you explain mediation references contest, lottery, game of chance or skill exception?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

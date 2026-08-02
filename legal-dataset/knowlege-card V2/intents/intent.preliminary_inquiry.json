@@ -5,21 +5,49 @@
   "description": "Natural language queries a user may ask about: Preliminary Inquiry",
   "content": {
     "queries": [
-      "How do I file preliminary inquiry?",
-      "What are the steps for preliminary inquiry?"
+      "What is the purpose of a preliminary inquiry in consumer protection cases?",
+      "How does a preliminary inquiry differ from a full investigation?",
+      "Can a preliminary inquiry lead to a full investigation?",
+      "What are the key factors considered during a preliminary inquiry?",
+      "How long does a preliminary inquiry typically take to complete?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S19-1",
-    "procedure.preliminary_inquiry"
+    "procedure.preliminary_inquiry",
+    "alias.preliminary_inquiry"
   ],
   "related_concepts": [
-    "procedure.preliminary_inquiry"
+    "alias.preliminary_inquiry"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "preliminary",
+      "inquiry",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is central authority must cause investigation?",
+      "How does central authority must cause investigation work?",
+      "Can you explain central authority must cause investigation?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

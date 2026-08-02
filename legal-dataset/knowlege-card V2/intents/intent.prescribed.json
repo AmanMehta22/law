@@ -5,22 +5,44 @@
   "description": "Natural language queries a user may ask about: Prescribed",
   "content": {
     "queries": [
-      "What does prescribed mean in consumer law?",
-      "What is the meaning of prescribed in the Consumer Protection Act?",
-      "How is prescribed defined under Indian law?"
+      "What is the prescribed process for filing a consumer complaint?",
+      "How are prescribed standards used to evaluate product safety?",
+      "Can a prescribed law be overridden by a court decision?",
+      "What are the prescribed requirements for a product to be considered safe for consumption?",
+      "How are prescribed regulations enforced in the consumer protection sector?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-32",
-    "definition.prescribed"
+    "definition.prescribed",
+    "alias.prescribed"
   ],
   "related_concepts": [
-    "definition.prescribed"
+    "alias.prescribed"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "prescribed",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "how"
+    ],
+    "aliases": [
+      "officially stated",
+      "mandated",
+      "required by law"
+    ],
+    "user_queries": [
+      "What is prescribed?",
+      "How does prescribed work?",
+      "Can you explain prescribed?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

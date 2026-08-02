@@ -1,0 +1,57 @@
+{
+  "concept_id": "intent.product_manufacturer_or_seller_must_compensate_for_harm_2",
+  "concept_type": "intent",
+  "title": "Questions about Product manufacturer or seller must compensate for harm",
+  "description": "Natural language queries a user may ask about: Product manufacturer or seller must compensate for harm",
+  "content": {
+    "queries": [
+      "what is product liability",
+      "who is responsible for defective products",
+      "What is compensation for harm caused?",
+      "How does compensation for harm caused work?",
+      "Can you explain compensation for harm caused?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-34",
+    "obligation.product_manufacturer_or_product_seller_must_compensate_for_h"
+  ],
+  "related_concepts": [
+    "obligation.product_manufacturer_or_product_seller_must_compensate_for_h"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "product",
+      "manufacturer",
+      "seller",
+      "compensate",
+      "harm",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "product manufacturer responsibility",
+      "product seller responsibility"
+    ],
+    "user_queries": [
+      "what is product liability",
+      "who is responsible for defective products",
+      "What is compensation for harm caused?",
+      "How does compensation for harm caused work?",
+      "Can you explain compensation for harm caused?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,24 +1,48 @@
 {
   "concept_id": "intent.time_limit_for_removing_difficulty",
   "concept_type": "intent",
-  "title": "Questions about Time Limit for Removing Difficulty",
-  "description": "Natural language queries a user may ask about: Time Limit for Removing Difficulty",
+  "title": "Questions about Time Limit For Removing Difficulty",
+  "description": "Natural language queries a user may ask about: Time Limit For Removing Difficulty",
   "content": {
     "queries": [
-      "What is the time limit for removing difficulties under the Consumer Protection Act?"
+      "What is the time frame for the central government to remove difficulties?",
+      "How long does the central government have to make provisions to remove difficulties?",
+      "Can you explain the process of removing difficulties within a specific time limit?",
+      "What happens if the central government fails to remove difficulties within the given time frame?",
+      "Is there a specific time limit for the central government to address difficulties?"
     ]
   },
   "derived_from": [
     "CPA2019-CH8-S106",
-    "exception.no_such_order_shall_be_made_after_the_expiry_of_a_period_of_"
+    "exception.no_such_order_shall_be_made_after_the_expiry_of_a_period_of_",
+    "alias.time_limit_for_removing_difficulty"
   ],
   "related_concepts": [
-    "exception.no_such_order_shall_be_made_after_the_expiry_of_a_period_of_"
+    "alias.time_limit_for_removing_difficulty"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "time",
+      "limit",
+      "removing",
+      "difficulty",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "time limit",
+      "removing difficulty"
+    ],
+    "user_queries": [
+      "What is the time limit for removing difficulties under the Consumer Protection Act?",
+      "What is central government must make provisions to remove difficulties?",
+      "How does central government must make provisions to remove difficulties work?",
+      "Can you explain central government must make provisions to remove difficulties?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

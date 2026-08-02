@@ -5,20 +5,43 @@
   "description": "Natural language queries a user may ask about: Right to Fair Contract Terms",
   "content": {
     "queries": [
-      "what are my rights as a consumer in a contract"
+      "What are my rights if I think a contract term is unfair?",
+      "How can I ensure that a contract I'm signing has fair terms?",
+      "Can a contract be voided if it has unfair terms?",
+      "What constitutes an unfair contract term?",
+      "How do I negotiate for fair contract terms with a party to the contract?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-46",
-    "right.right_to_fair_contract_terms"
+    "right.right_to_fair_contract_terms",
+    "alias.right_to_fair_contract_terms"
   ],
   "related_concepts": [
-    "right.right_to_fair_contract_terms"
+    "alias.right_to_fair_contract_terms"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "right",
+      "fair",
+      "contract",
+      "terms",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "right to fair terms"
+    ],
+    "user_queries": [
+      "what are my rights as a consumer in a contract",
+      "What is party to the contract must accept early repayment of debts?",
+      "How does party to the contract must accept early repayment of debts work?",
+      "Can you explain party to the contract must accept early repayment of debts?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

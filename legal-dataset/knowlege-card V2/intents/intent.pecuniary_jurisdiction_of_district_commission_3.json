@@ -1,0 +1,57 @@
+{
+  "concept_id": "intent.pecuniary_jurisdiction_of_district_commission_3",
+  "concept_type": "intent",
+  "title": "Questions about Pecuniary jurisdiction of District Commission",
+  "description": "Natural language queries a user may ask about: Pecuniary jurisdiction of District Commission",
+  "content": {
+    "queries": [
+      "What is the pecuniary limit for filing a complaint with the District Commission?",
+      "How does the District Commission determine its pecuniary jurisdiction?",
+      "Can a consumer file a complaint with the District Commission for any amount?",
+      "What happens if the claim amount exceeds the pecuniary jurisdiction of the District Commission?",
+      "Is the pecuniary jurisdiction of the District Commission the same across all states?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S34-1",
+    "jurisdiction.district_commission_up_to_one_crore_rupees_where_the_opposite_party_resides_or_c"
+  ],
+  "related_concepts": [
+    "jurisdiction.district_commission_up_to_one_crore_rupees_where_the_opposite_party_resides_or_c"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "pecuniary",
+      "jurisdiction",
+      "district",
+      "commission",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government"
+    ],
+    "user_queries": [
+      "What is pecuniary jurisdiction of district commission?",
+      "How does pecuniary jurisdiction of district commission work?",
+      "Can you explain pecuniary jurisdiction of district commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

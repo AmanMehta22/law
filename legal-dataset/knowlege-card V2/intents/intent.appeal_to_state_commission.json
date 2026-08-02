@@ -5,21 +5,45 @@
   "description": "Natural language queries a user may ask about: Appeal to State Commission",
   "content": {
     "queries": [
-      "How do I file appeal to state commission?",
-      "What are the steps for appeal to state commission?"
+      "What is the process to appeal to the State Commission under the Consumer Protection Act?",
+      "Can I file an appeal to the State Commission online?",
+      "What are the grounds for appealing to the State Commission?",
+      "How long does it take to resolve an appeal to the State Commission?",
+      "Do I need a lawyer to appeal to the State Commission?"
     ]
   },
   "derived_from": [
     "CPA2019-CH8-S101-2",
-    "procedure.appeal_to_state_commission"
+    "procedure.appeal_to_state_commission",
+    "alias.appeal_to_state_commission"
   ],
   "related_concepts": [
-    "procedure.appeal_to_state_commission"
+    "alias.appeal_to_state_commission"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "appeal",
+      "state",
+      "commission",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "appeal to national commission",
+      "appeal to national consumer commission",
+      "national appeal",
+      "national commission",
+      "national commission appeal"
+    ],
+    "user_queries": [
+      "How do I file appeal to national commission?",
+      "What are the steps for appeal to national commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

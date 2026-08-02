@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.national_commission_may_declare_unfair_contract_terms_null_and_void",
   "concept_type": "intent",
-  "title": "Questions about National Commission may declare unfair contract terms null and void",
-  "description": "Natural language queries a user may ask about: National Commission may declare unfair contract terms null and void",
+  "title": "Questions about National Commission May Declare Unfair Contract Terms Null And Void",
+  "description": "Natural language queries a user may ask about: National Commission May Declare Unfair Contract Terms Null And Void",
   "content": {
     "queries": [
-      "What can the National Commission do with unfair contract terms?"
+      "Under what circumstances can the National Commission declare unfair contract terms null and void?",
+      "What is the process for the National Commission to declare unfair contract terms null and void?",
+      "Can the National Commission declare all unfair contract terms null and void?",
+      "How does the National Commission determine if a contract term is unfair and should be declared null and void?",
+      "What are the powers of the National Commission in declaring unfair contract terms null and void?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S59-2",
-    "obligation.national_commission_may_declare_terms_of_contract_null_and_v"
+    "obligation.national_commission_may_declare_terms_of_contract_null_and_v",
+    "alias.national_commission_may_declare_unfair_contract_terms_null_and_void"
   ],
   "related_concepts": [
-    "obligation.national_commission_may_declare_terms_of_contract_null_and_v"
+    "alias.national_commission_may_declare_unfair_contract_terms_null_and_void"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "national",
+      "commission",
+      "declare",
+      "unfair",
+      "contract",
+      "terms",
+      "null",
+      "void"
+    ],
+    "aliases": [
+      "declare invalid"
+    ],
+    "user_queries": [
+      "What can the National Commission do with unfair contract terms?",
+      "What is declaration of contract terms as null and void?",
+      "How does declaration of contract terms as null and void work?",
+      "Can you explain declaration of contract terms as null and void?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

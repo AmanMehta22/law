@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.discovery_and_production_of_evidence_handled_by_district_commission",
+  "concept_type": "intent",
+  "title": "Questions about Discovery and production of evidence handled by District Commission",
+  "description": "Natural language queries a user may ask about: Discovery and production of evidence handled by District Commission",
+  "content": {
+    "queries": [
+      "What is discovery and production of evidence handled by district commission?",
+      "How does discovery and production of evidence handled by district commission work?",
+      "Can you explain discovery and production of evidence handled by district commission?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-9",
+    "relationship.procedure_discovery_and_production_of_evidence_handled_by_authority_di"
+  ],
+  "related_concepts": [
+    "relationship.procedure_discovery_and_production_of_evidence_handled_by_authority_di"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "discovery",
+      "production",
+      "evidence",
+      "handled",
+      "district",
+      "commission",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government"
+    ],
+    "user_queries": [
+      "What is discovery and production of evidence handled by district commission?",
+      "How does discovery and production of evidence handled by district commission work?",
+      "Can you explain discovery and production of evidence handled by district commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

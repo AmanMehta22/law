@@ -1,24 +1,48 @@
 {
   "concept_id": "intent.central_government_must_prescribe_interests",
   "concept_type": "intent",
-  "title": "Questions about Central Government must prescribe interests",
-  "description": "Natural language queries a user may ask about: Central Government must prescribe interests",
+  "title": "Questions about Central Government Must Prescribe Interests",
+  "description": "Natural language queries a user may ask about: Central Government Must Prescribe Interests",
   "content": {
     "queries": [
-      "What are the responsibilities of the Central Government regarding the Central Council?"
+      "What are the interests that the Central Government must prescribe?",
+      "How does the Central Government determine the rate of interest for consumer transactions?",
+      "Can the Central Government change the prescribed interest rates?",
+      "What is the purpose of prescribing interests by the Central Government?",
+      "How do the prescribed interests affect consumer loans and credit?"
     ]
   },
   "derived_from": [
     "CPA2019-CH2-S3-2",
-    "obligation.central_government_must_prescribe_interests"
+    "obligation.central_government_must_prescribe_interests",
+    "alias.central_government_must_prescribe_interests"
   ],
   "related_concepts": [
-    "obligation.central_government_must_prescribe_interests"
+    "alias.central_government_must_prescribe_interests"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "government",
+      "prescribe",
+      "interests",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "specify",
+      "define"
+    ],
+    "user_queries": [
+      "What are the responsibilities of the Central Government regarding the Central Council?",
+      "What is central council?",
+      "How does central council work?",
+      "Can you explain central council?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -11,16 +11,37 @@
     ]
   },
   "derived_from": [
-    "CPA2019-CH6-S85",
-    "evidence.contract"
+    "alias.proof_of_contract"
   ],
   "related_concepts": [
-    "evidence.contract"
+    "alias.proof_of_contract"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "proof",
+      "contract",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "binding agreement",
+      "contract agreement",
+      "signed contract"
+    ],
+    "user_queries": [
+      "What is product service provider must conform to express warranty or contract terms?",
+      "How does product service provider must conform to express warranty or contract terms work?",
+      "Can you explain product service provider must conform to express warranty or contract terms?",
+      "What is proof of contract?",
+      "How does proof of contract work?",
+      "Can you explain proof of contract?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

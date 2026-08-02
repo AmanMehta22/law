@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Central Authority must make consistent regulations",
   "content": {
     "queries": [
+      "What are the benefits of the Central Authority making consistent regulations?",
+      "How do consistent regulations impact consumer protection?",
+      "Can the Central Authority make changes to existing regulations?",
+      "What is the process for the Central Authority to create consistent regulations?",
+      "Are consistent regulations mandatory for the Central Authority?"
+    ]
+  },
+  "derived_from": [
+    "alias.central_authority_must_make_consistent_regulations"
+  ],
+  "related_concepts": [
+    "alias.central_authority_must_make_consistent_regulations"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "authority",
+      "make",
+      "consistent",
+      "regulations",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "central authority regulation consistency",
+      "consistent rulemaking by central authority",
+      "uniform regulations by central authority"
+    ],
+    "user_queries": [
       "What is central authority must make consistent regulations?",
       "How does central authority must make consistent regulations work?",
       "Can you explain central authority must make consistent regulations?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH8-S104-1",
-    "obligation.central_authority_must_make_regulations_not_inconsistent_wit"
-  ],
-  "related_concepts": [
-    "obligation.central_authority_must_make_regulations_not_inconsistent_wit"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

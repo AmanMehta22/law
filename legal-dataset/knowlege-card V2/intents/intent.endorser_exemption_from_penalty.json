@@ -1,24 +1,45 @@
 {
   "concept_id": "intent.endorser_exemption_from_penalty",
   "concept_type": "intent",
-  "title": "Questions about Endorser exemption from penalty",
-  "description": "Natural language queries a user may ask about: Endorser exemption from penalty",
+  "title": "Questions about Endorser Exemption From Penalty",
+  "description": "Natural language queries a user may ask about: Endorser Exemption From Penalty",
   "content": {
     "queries": [
-      "endorser liability"
+      "What is endorser exemption from penalty?",
+      "How does endorser exemption from penalty work?",
+      "Can you explain endorser exemption from penalty?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S21-5",
-    "exception.endorser_is_not_liable_to_a_penalty_if_he_has_exercised_due_"
+    "exception.endorser_is_not_liable_to_a_penalty_if_he_has_exercised_due_",
+    "alias.endorser_exemption_from_penalty"
   ],
   "related_concepts": [
-    "exception.endorser_is_not_liable_to_a_penalty_if_he_has_exercised_due_"
+    "alias.endorser_exemption_from_penalty"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "endorser",
+      "exemption",
+      "penalty",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "exemption from penalty"
+    ],
+    "user_queries": [
+      "endorser liability",
+      "What is endorser exemption from penalty?",
+      "How does endorser exemption from penalty work?",
+      "Can you explain endorser exemption from penalty?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

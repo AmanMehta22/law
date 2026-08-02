@@ -1,0 +1,63 @@
+{
+  "concept_id": "intent.penalty_for_first_conviction_3",
+  "concept_type": "intent",
+  "title": "Questions about Penalty for first conviction",
+  "description": "Natural language queries a user may ask about: Penalty for first conviction",
+  "content": {
+    "queries": [
+      "What is licence suspension period?",
+      "How does licence suspension period work?",
+      "Can you explain licence suspension period?",
+      "What is penalty for first conviction?",
+      "How does penalty for first conviction work?",
+      "Can you explain penalty for first conviction?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH7-S90-3",
+    "penalty.first_conviction"
+  ],
+  "related_concepts": [
+    "penalty.first_conviction"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "penalty",
+      "first",
+      "conviction",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "Bench",
+      "Judiciary",
+      "Law Court",
+      "Tribunal",
+      "judicial body",
+      "tribunal"
+    ],
+    "user_queries": [
+      "What is licence suspension period?",
+      "How does licence suspension period work?",
+      "Can you explain licence suspension period?",
+      "What is penalty for first conviction?",
+      "How does penalty for first conviction work?",
+      "Can you explain penalty for first conviction?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

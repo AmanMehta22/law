@@ -1,0 +1,56 @@
+{
+  "concept_id": "intent.filing_complaint_handled_by_commission",
+  "concept_type": "intent",
+  "title": "Questions about Filing complaint handled by Commission",
+  "description": "Natural language queries a user may ask about: Filing complaint handled by Commission",
+  "content": {
+    "queries": [
+      "What is filing complaint handled by commission?",
+      "How does filing complaint handled by commission work?",
+      "Can you explain filing complaint handled by commission?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S101-2",
+    "relationship.procedure_filing_complaint_handled_by_authority_commission"
+  ],
+  "related_concepts": [
+    "relationship.procedure_filing_complaint_handled_by_authority_commission"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "filing",
+      "complaint",
+      "handled",
+      "commission",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "appeal to national commission",
+      "appeal to national consumer commission",
+      "national appeal",
+      "national commission",
+      "national commission appeal"
+    ],
+    "user_queries": [
+      "What is filing complaint handled by commission?",
+      "How does filing complaint handled by commission work?",
+      "Can you explain filing complaint handled by commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

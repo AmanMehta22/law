@@ -1,0 +1,56 @@
+{
+  "concept_id": "intent.district_commission_references_mediator_must_disclose_circumstances_affecting_in",
+  "concept_type": "intent",
+  "title": "Questions about District Commission references Mediator Must Disclose Circumstances Affecting Independence Or Impartiality",
+  "description": "Natural language queries a user may ask about: District Commission references Mediator Must Disclose Circumstances Affecting Independence Or Impartiality",
+  "content": {
+    "queries": [
+      "What circumstances must a mediator disclose to ensure independence in the district commission?",
+      "How does a mediator's impartiality affect the mediation process in consumer cases?",
+      "Can a mediator be removed for failing to disclose circumstances affecting independence?",
+      "What are the consequences of a mediator not disclosing circumstances affecting impartiality?",
+      "How does the district commission ensure mediator independence and impartiality?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S77",
+    "CPA2019-CH8-S103-2",
+    "relationship.alias_district_commission_references_alias_mediator_must_disclose_circ"
+  ],
+  "related_concepts": [
+    "relationship.alias_district_commission_references_alias_mediator_must_disclose_circ"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commission",
+      "references",
+      "mediator",
+      "disclose",
+      "circumstances",
+      "affecting",
+      "independence"
+    ],
+    "aliases": [
+      "declare",
+      "reveal"
+    ],
+    "user_queries": [
+      "What is district commission references mediator must disclose circumstances affecting independence or impartiality?",
+      "How does district commission references mediator must disclose circumstances affecting independence or impartiality work?",
+      "Can you explain district commission references mediator must disclose circumstances affecting independence or impartiality?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

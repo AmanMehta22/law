@@ -1,24 +1,48 @@
 {
   "concept_id": "intent.national_commission_must_review_order",
   "concept_type": "intent",
-  "title": "Questions about National Commission must review order",
-  "description": "Natural language queries a user may ask about: National Commission must review order",
+  "title": "Questions about National Commission Must Review Order",
+  "description": "Natural language queries a user may ask about: National Commission Must Review Order",
   "content": {
     "queries": [
-      "Can the National Commission review its own order?"
+      "Under what circumstances must the National Commission review an order?",
+      "How long does the National Commission have to review an order?",
+      "What is the process for the National Commission to review an order?",
+      "Can the National Commission review an order on its own initiative?",
+      "What are the consequences of the National Commission not reviewing an order?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S60",
-    "obligation.national_commission_shall_review_any_of_the_order_passed_by_"
+    "obligation.national_commission_shall_review_any_of_the_order_passed_by_",
+    "alias.national_commission_must_review_order"
   ],
   "related_concepts": [
-    "obligation.national_commission_shall_review_any_of_the_order_passed_by_"
+    "alias.national_commission_must_review_order"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "national",
+      "commission",
+      "review",
+      "order",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "re-examine",
+      "reconsider"
+    ],
+    "user_queries": [
+      "Can the National Commission review its own order?",
+      "What is national commission must review order?",
+      "How does national commission must review order work?",
+      "Can you explain national commission must review order?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

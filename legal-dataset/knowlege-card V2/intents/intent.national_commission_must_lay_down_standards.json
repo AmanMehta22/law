@@ -1,24 +1,46 @@
 {
   "concept_id": "intent.national_commission_must_lay_down_standards",
   "concept_type": "intent",
-  "title": "Questions about National Commission must lay down standards",
-  "description": "Natural language queries a user may ask about: National Commission must lay down standards",
+  "title": "Questions about National Commission Must Lay Down Standards",
+  "description": "Natural language queries a user may ask about: National Commission Must Lay Down Standards",
   "content": {
     "queries": [
-      "What are the National Commission's responsibilities?"
+      "What is national commission must lay down standards?",
+      "How does national commission must lay down standards work?",
+      "Can you explain national commission must lay down standards?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S70-1",
-    "obligation.national_commission_shall_lay_down_adequate_standards"
+    "obligation.national_commission_shall_lay_down_adequate_standards",
+    "alias.national_commission_must_lay_down_standards"
   ],
   "related_concepts": [
-    "obligation.national_commission_shall_lay_down_adequate_standards"
+    "alias.national_commission_must_lay_down_standards"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "national",
+      "commission",
+      "lay",
+      "down",
+      "standards",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "consumer interests",
+      "regulatory authority"
+    ],
+    "user_queries": [
+      "What are the National Commission's responsibilities?",
+      "What is national commission must lay down standards?",
+      "How does national commission must lay down standards work?",
+      "Can you explain national commission must lay down standards?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

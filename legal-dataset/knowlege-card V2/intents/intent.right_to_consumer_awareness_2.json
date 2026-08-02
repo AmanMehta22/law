@@ -1,0 +1,56 @@
+{
+  "concept_id": "intent.right_to_consumer_awareness_2",
+  "concept_type": "intent",
+  "title": "Questions about Right to Consumer Awareness",
+  "description": "Natural language queries a user may ask about: Right to Consumer Awareness",
+  "content": {
+    "queries": [
+      "What is right to consumer awareness?",
+      "How does right to consumer awareness work?",
+      "Can you explain right to consumer awareness?"
+    ]
+  },
+  "derived_from": [
+    "right.right_to_consumer_awareness",
+    "example.right_to_consumer_awareness"
+  ],
+  "related_concepts": [
+    "example.right_to_consumer_awareness"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "right",
+      "consumer",
+      "awareness",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "right to education"
+    ],
+    "user_queries": [
+      "how can I learn about consumer rights",
+      "What is consumer rights?",
+      "How does consumer rights work?",
+      "Can you explain consumer rights?",
+      "What is right to consumer awareness?",
+      "How does right to consumer awareness work?",
+      "Can you explain right to consumer awareness?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

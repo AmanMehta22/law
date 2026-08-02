@@ -5,21 +5,49 @@
   "description": "Natural language queries a user may ask about: Filing of complaints and appeals with the National Commission",
   "content": {
     "queries": [
-      "How do I file filing of complaints and appeals with the national commission?",
-      "What are the steps for filing of complaints and appeals with the national commission?"
+      "What is the process for filing a complaint with the National Commission?",
+      "How do I appeal a decision made by the National Commission?",
+      "What are the requirements for filing a complaint with the National Commission?",
+      "Can I file a complaint with the National Commission online?",
+      "How long does it take for the National Commission to review a complaint?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S58-1",
-    "procedure.filing_of_complaints_and_appeals_with_the_national_commissio"
+    "procedure.filing_of_complaints_and_appeals_with_the_national_commissio",
+    "alias.filing_of_complaints_and_appeals_with_the_national_commission"
   ],
   "related_concepts": [
-    "procedure.filing_of_complaints_and_appeals_with_the_national_commissio"
+    "alias.filing_of_complaints_and_appeals_with_the_national_commission"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "filing",
+      "complaints",
+      "appeals",
+      "national",
+      "commission",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is central government discretion on value?",
+      "How does central government discretion on value work?",
+      "Can you explain central government discretion on value?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

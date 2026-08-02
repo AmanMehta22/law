@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.opportunity_of_being_heard_limits_recall_of_goods_or_withdrawal_of_services",
+  "concept_type": "intent",
+  "title": "Questions about Opportunity of being heard limits Recall of goods or withdrawal of services",
+  "description": "Natural language queries a user may ask about: Opportunity of being heard limits Recall of goods or withdrawal of services",
+  "content": {
+    "queries": [
+      "What is opportunity of being heard limits recall of goods or withdrawal of services?",
+      "How does opportunity of being heard limits recall of goods or withdrawal of services work?",
+      "Can you explain opportunity of being heard limits recall of goods or withdrawal of services?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S20",
+    "relationship.exception_the_central_authority_shall_give_the_person_an_opportunity_o_2"
+  ],
+  "related_concepts": [
+    "relationship.exception_the_central_authority_shall_give_the_person_an_opportunity_o_2"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "opportunity",
+      "being",
+      "heard",
+      "limits",
+      "recall",
+      "goods",
+      "withdrawal",
+      "services"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is opportunity of being heard limits recall of goods or withdrawal of services?",
+      "How does opportunity of being heard limits recall of goods or withdrawal of services work?",
+      "Can you explain opportunity of being heard limits recall of goods or withdrawal of services?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

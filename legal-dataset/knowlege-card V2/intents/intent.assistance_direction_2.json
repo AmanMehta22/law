@@ -1,0 +1,57 @@
+{
+  "concept_id": "intent.assistance_direction_2",
+  "concept_type": "intent",
+  "title": "Questions about Assistance Direction",
+  "description": "Natural language queries a user may ask about: Assistance Direction",
+  "content": {
+    "queries": [
+      "What is the purpose of assistance direction under the Consumer Protection Act?",
+      "How does assistance direction help consumers in filing complaints?",
+      "Can assistance direction be provided by the Central Consumer Protection Authority?",
+      "What kind of assistance can be expected from assistance direction?",
+      "Is assistance direction mandatory for all consumer complaints?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S66",
+    "procedure.assistance_direction"
+  ],
+  "related_concepts": [
+    "procedure.assistance_direction"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "assistance",
+      "direction",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "assistance direction",
+      "assistance guidance",
+      "assistance order",
+      "direction for assistance"
+    ],
+    "user_queries": [
+      "What is assistance direction?",
+      "How does assistance direction work?",
+      "Can you explain assistance direction?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

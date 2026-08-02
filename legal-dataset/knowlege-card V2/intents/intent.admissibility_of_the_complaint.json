@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Admissibility of the complaint",
   "content": {
     "queries": [
+      "What makes a complaint admissible under the Consumer Protection Act?",
+      "How does the District Commission determine if a complaint is admissible?",
+      "What are the criteria for a complaint to be considered admissible?",
+      "Can a complaint be rejected if it is not admissible?",
+      "What is the process for determining the admissibility of a complaint?"
+    ]
+  },
+  "derived_from": [
+    "alias.admissibility_of_the_complaint"
+  ],
+  "related_concepts": [
+    "alias.admissibility_of_the_complaint"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "admissibility",
+      "complaint",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "admissibility criteria",
+      "complaint acceptability",
+      "complaint eligibility",
+      "complaint validity"
+    ],
+    "user_queries": [
       "What is admissibility of the complaint?",
       "How does admissibility of the complaint work?",
       "Can you explain admissibility of the complaint?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S36-3",
-    "timeline.the_period_so_specified"
-  ],
-  "related_concepts": [
-    "timeline.the_period_so_specified"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

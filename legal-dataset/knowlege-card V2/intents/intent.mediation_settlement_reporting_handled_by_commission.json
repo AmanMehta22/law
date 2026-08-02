@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.mediation_settlement_reporting_handled_by_commission",
+  "concept_type": "intent",
+  "title": "Questions about Mediation Settlement Reporting handled by Commission",
+  "description": "Natural language queries a user may ask about: Mediation Settlement Reporting handled by Commission",
+  "content": {
+    "queries": [
+      "What is mediation settlement reporting handled by commission?",
+      "How does mediation settlement reporting handled by commission work?",
+      "Can you explain mediation settlement reporting handled by commission?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S80-2",
+    "relationship.procedure_mediation_settlement_reporting_handled_by_authority_commissi"
+  ],
+  "related_concepts": [
+    "relationship.procedure_mediation_settlement_reporting_handled_by_authority_commissi"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "mediation",
+      "settlement",
+      "reporting",
+      "handled",
+      "commission",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "Consumer Commission",
+      "Consumer Court",
+      "Court",
+      "Tribunal"
+    ],
+    "user_queries": [
+      "What is mediation settlement reporting handled by commission?",
+      "How does mediation settlement reporting handled by commission work?",
+      "Can you explain mediation settlement reporting handled by commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

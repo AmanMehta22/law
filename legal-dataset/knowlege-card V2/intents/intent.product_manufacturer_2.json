@@ -1,0 +1,60 @@
+{
+  "concept_id": "intent.product_manufacturer_2",
+  "concept_type": "intent",
+  "title": "Questions about Product Manufacturer",
+  "description": "Natural language queries a user may ask about: Product Manufacturer",
+  "content": {
+    "queries": [
+      "What is a product manufacturer?",
+      "What does a product manufacturer do?",
+      "What is the role of a product manufacturer?",
+      "What is product manufacturer?",
+      "How does product manufacturer work?",
+      "Can you explain product manufacturer?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-36",
+    "definition.product_manufacturer"
+  ],
+  "related_concepts": [
+    "definition.product_manufacturer"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "product",
+      "manufacturer",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "product maker",
+      "product seller",
+      "manufacturer"
+    ],
+    "user_queries": [
+      "What is product manufacturer?",
+      "How does product manufacturer work?",
+      "Can you explain product manufacturer?",
+      "What is a product manufacturer?",
+      "What does a product manufacturer do?",
+      "What is the role of a product manufacturer?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

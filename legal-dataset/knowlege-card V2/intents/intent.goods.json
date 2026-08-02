@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Goods",
   "content": {
     "queries": [
-      "what are goods under consumer protection act",
-      "definition of goods in CPA 2019",
-      "meaning of goods in law"
+      "What types of products are considered goods under the Consumer Protection Act?",
+      "How does the Act define goods in the context of consumer transactions?",
+      "Can a consumer claim compensation for defective goods under the Act?",
+      "Are services also considered goods under the Consumer Protection Act?",
+      "How does the Act distinguish between goods and other types of products or services?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-21",
-    "definition.goods"
+    "definition.goods",
+    "alias.goods"
   ],
   "related_concepts": [
-    "definition.goods"
+    "alias.goods"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "goods",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "how"
+    ],
+    "aliases": [
+      "products",
+      "commodities"
+    ],
+    "user_queries": [
+      "What is goods?",
+      "How does goods work?",
+      "Can you explain goods?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

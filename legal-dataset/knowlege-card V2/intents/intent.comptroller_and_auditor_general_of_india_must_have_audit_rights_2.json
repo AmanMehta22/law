@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.comptroller_and_auditor_general_of_india_must_have_audit_rights_2",
+  "concept_type": "intent",
+  "title": "Questions about Comptroller and Auditor-General of India must have audit rights",
+  "description": "Natural language queries a user may ask about: Comptroller and Auditor-General of India must have audit rights",
+  "content": {
+    "queries": [
+      "What are the audit rights of the Comptroller and Auditor-General of India?",
+      "How does the Comptroller and Auditor-General of India exercise audit rights?",
+      "Can the Comptroller and Auditor-General of India audit any organization?",
+      "What is the purpose of the Comptroller and Auditor-General of India having audit rights?",
+      "Are the audit rights of the Comptroller and Auditor-General of India limited to government entities?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S26-3",
+    "obligation.comptroller_and_auditor_general_of_india_or_any_other_person"
+  ],
+  "related_concepts": [
+    "obligation.comptroller_and_auditor_general_of_india_or_any_other_person"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "comptroller",
+      "auditor",
+      "general",
+      "india",
+      "have",
+      "audit",
+      "rights",
+      "natural"
+    ],
+    "aliases": [
+      "account examination",
+      "audit of central authority",
+      "central authority",
+      "central authority accounts",
+      "central authority audit",
+      "financial inspection"
+    ],
+    "user_queries": [
+      "What is comptroller and auditor-general of india must have audit rights?",
+      "How does comptroller and auditor-general of india must have audit rights work?",
+      "Can you explain comptroller and auditor-general of india must have audit rights?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

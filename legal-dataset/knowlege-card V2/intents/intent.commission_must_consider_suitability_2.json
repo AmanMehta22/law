@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.commission_must_consider_suitability_2",
+  "concept_type": "intent",
+  "title": "Questions about Commission must consider suitability",
+  "description": "Natural language queries a user may ask about: Commission must consider suitability",
+  "content": {
+    "queries": [
+      "Does the commission's consideration of suitability vary depending on the type of product or service?",
+      "How does the commission balance the need for suitability with other regulatory considerations?",
+      "Can consumers provide input on the commission's suitability assessment process?",
+      "What are the consequences if the commission fails to properly consider suitability?",
+      "Are there any exceptions to the commission's requirement to consider suitability?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S76",
+    "obligation.district_commission_state_commission_or_national_commission_"
+  ],
+  "related_concepts": [
+    "obligation.district_commission_state_commission_or_national_commission_"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "commission",
+      "consider",
+      "suitability",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is commission must consider suitability?",
+      "How does commission must consider suitability work?",
+      "Can you explain commission must consider suitability?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

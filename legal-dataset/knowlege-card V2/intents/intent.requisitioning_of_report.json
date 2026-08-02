@@ -5,21 +5,45 @@
   "description": "Natural language queries a user may ask about: Requisitioning of report",
   "content": {
     "queries": [
-      "How do I file requisitioning of report?",
-      "What are the steps for requisitioning of report?"
+      "What is the process for requisitioning a report in a consumer case?",
+      "How do I request a report from a relevant authority in a consumer dispute?",
+      "Can I requisition a report from a private laboratory for a consumer complaint?",
+      "What is the timeline for submitting a requisitioned report in a consumer case?",
+      "How does the court use a requisitioned report to make a decision in a consumer dispute?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-9",
-    "procedure.requisitioning_of_report"
+    "procedure.requisitioning_of_report",
+    "alias.requisitioning_of_report"
   ],
   "related_concepts": [
-    "procedure.requisitioning_of_report"
+    "alias.requisitioning_of_report"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "requisitioning",
+      "report",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government"
+    ],
+    "user_queries": [
+      "What is discovery and production of evidence?",
+      "How does discovery and production of evidence work?",
+      "Can you explain discovery and production of evidence?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

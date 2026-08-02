@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.compensation_for_harm_caused_2",
+  "concept_type": "intent",
+  "title": "Questions about Compensation for harm caused",
+  "description": "Natural language queries a user may ask about: Compensation for harm caused",
+  "content": {
+    "queries": [
+      "How does the compensation for harm caused process differ from other consumer dispute resolution methods?",
+      "Can a consumer receive compensation for harm caused if they have already received a refund?",
+      "What types of evidence are required to support a claim for compensation for harm caused?",
+      "Is compensation for harm caused only available for physical harm or also for emotional distress?",
+      "Can a business be held liable for compensation for harm caused by a product or service?"
+    ]
+  },
+  "derived_from": [
+    "remedy.compensation",
+    "example.compensation_for_harm_caused"
+  ],
+  "related_concepts": [
+    "example.compensation_for_harm_caused"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "compensation",
+      "harm",
+      "caused",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "damages",
+      "reparation"
+    ],
+    "user_queries": [
+      "what if a product hurts me",
+      "what if the service provider is negligent",
+      "can I get compensation for harm caused by a product",
+      "what if product seller is not manufacturer",
+      "What is compensation for harm caused?",
+      "How does compensation for harm caused work?",
+      "Can you explain compensation for harm caused?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

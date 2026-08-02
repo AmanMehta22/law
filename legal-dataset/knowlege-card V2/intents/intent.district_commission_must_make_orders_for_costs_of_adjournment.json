@@ -1,24 +1,48 @@
 {
   "concept_id": "intent.district_commission_must_make_orders_for_costs_of_adjournment",
   "concept_type": "intent",
-  "title": "Questions about District Commission must make orders for costs of adjournment",
-  "description": "Natural language queries a user may ask about: District Commission must make orders for costs of adjournment",
+  "title": "Questions about District Commission Must Make Orders For Costs Of Adjournment",
+  "description": "Natural language queries a user may ask about: District Commission Must Make Orders For Costs Of Adjournment",
   "content": {
     "queries": [
-      "adjournment costs"
+      "Who bears the costs of adjournment in a consumer complaint?",
+      "Can the District Commission order the respondent to pay the costs of adjournment?",
+      "How are the costs of adjournment determined by the District Commission?",
+      "What are the implications of the District Commission's order for costs of adjournment?",
+      "Can the District Commission waive the costs of adjournment in certain cases?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-7",
-    "obligation.district_commission_must_make_orders_as_to_the_costs_occasio"
+    "obligation.district_commission_must_make_orders_as_to_the_costs_occasio",
+    "alias.district_commission_must_make_orders_for_costs_of_adjournment"
   ],
   "related_concepts": [
-    "obligation.district_commission_must_make_orders_as_to_the_costs_occasio"
+    "alias.district_commission_must_make_orders_for_costs_of_adjournment"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commission",
+      "make",
+      "orders",
+      "costs",
+      "adjournment",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "District Commission",
+      "Consumer Forum"
+    ],
+    "user_queries": [
+      "adjournment costs",
+      "What is adjournment exception?",
+      "How does adjournment exception work?",
+      "Can you explain adjournment exception?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,0 +1,58 @@
+{
+  "concept_id": "intent.search_and_seizure_2",
+  "concept_type": "intent",
+  "title": "Questions about Search and Seizure",
+  "description": "Natural language queries a user may ask about: Search and Seizure",
+  "content": {
+    "queries": [
+      "What are the consequences of resisting a search and seizure operation in a consumer protection case?",
+      "How can a consumer protect themselves during a search and seizure operation?",
+      "What is the procedure for conducting a search and seizure in a consumer's home or business?",
+      "Can a search and seizure be conducted based on an anonymous complaint?",
+      "How long can a search and seizure operation take in a consumer protection case?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S22-2",
+    "procedure.search_and_seizure"
+  ],
+  "related_concepts": [
+    "procedure.search_and_seizure"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "search",
+      "seizure",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Forced entry and search",
+      "Inspection and seizure",
+      "Raid and seizure",
+      "Search warrant",
+      "Seizure of goods"
+    ],
+    "user_queries": [
+      "What is search and seizure?",
+      "How does search and seizure work?",
+      "Can you explain search and seizure?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -5,23 +5,46 @@
   "description": "Natural language queries a user may ask about: Commission",
   "content": {
     "queries": [
-      "What is commission?",
-      "How does commission work?",
-      "Can you explain commission?"
+      "What is the purpose of establishing a commission under the Consumer Protection Act?",
+      "How does the commission protect consumer rights and interests?",
+      "What are the powers and functions of the commission in resolving consumer disputes?",
+      "Can the commission impose penalties on companies that violate consumer protection laws?",
+      "How does the commission ensure transparency and accountability in its decision-making process?"
     ]
   },
   "derived_from": [
     "CPA2019-CH5-S80-2",
     "CPA2019-CH5-S80-3",
-    "authority.commission"
+    "authority.commission",
+    "alias.commission"
   ],
   "related_concepts": [
-    "authority.commission"
+    "alias.commission"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "commission",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "how"
+    ],
+    "aliases": [
+      "Consumer Commission",
+      "Consumer Court",
+      "Court",
+      "Tribunal"
+    ],
+    "user_queries": [
+      "What is commission?",
+      "How does commission work?",
+      "Can you explain commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

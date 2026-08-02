@@ -1,24 +1,48 @@
 {
   "concept_id": "intent.member_must_give_opinion_within_a_month",
   "concept_type": "intent",
-  "title": "Questions about Member must give opinion within a month",
-  "description": "Natural language queries a user may ask about: Member must give opinion within a month",
+  "title": "Questions about Member Must Give Opinion Within A Month",
+  "description": "Natural language queries a user may ask about: Member Must Give Opinion Within A Month",
   "content": {
     "queries": [
-      "What are the obligations of a District Commission member in case of a disagreement?"
+      "What is the timeframe within which a member must provide their opinion?",
+      "Can a member's opinion be considered if given after a month?",
+      "How does the requirement for a member to give an opinion within a month ensure fairness?",
+      "What are the consequences for a member who fails to give their opinion within the specified timeframe?",
+      "Is the one-month deadline for giving an opinion applicable to all types of opinions or just specific ones?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S39-3",
-    "obligation.the_other_member_must_give_his_opinion_on_such_point_or_poin"
+    "obligation.the_other_member_must_give_his_opinion_on_such_point_or_poin",
+    "alias.member_must_give_opinion_within_a_month"
   ],
   "related_concepts": [
-    "obligation.the_other_member_must_give_his_opinion_on_such_point_or_poin"
+    "alias.member_must_give_opinion_within_a_month"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "member",
+      "give",
+      "opinion",
+      "month",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "District Commission member",
+      "referral opinion"
+    ],
+    "user_queries": [
+      "What are the obligations of a District Commission member in case of a disagreement?",
+      "What is member must give opinion within a month?",
+      "How does member must give opinion within a month work?",
+      "Can you explain member must give opinion within a month?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

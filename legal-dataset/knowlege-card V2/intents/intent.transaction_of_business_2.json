@@ -1,0 +1,61 @@
+{
+  "concept_id": "intent.transaction_of_business_2",
+  "concept_type": "intent",
+  "title": "Questions about Transaction of business",
+  "description": "Natural language queries a user may ask about: Transaction of business",
+  "content": {
+    "queries": [
+      "What are the implications of a central authority receiving an inquiry or investigation report for a business transaction?",
+      "How does the central authority's receipt of an inquiry or investigation report impact a business transaction?",
+      "Can you describe the central authority's responsibilities when receiving an inquiry or investigation report for a transaction of business?",
+      "What are the consequences of a central authority not receiving an inquiry or investigation report for a business transaction?",
+      "How does the central authority's receipt of an inquiry or investigation report affect the outcome of a business transaction?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S104-2",
+    "procedure.transaction_of_business"
+  ],
+  "related_concepts": [
+    "procedure.transaction_of_business"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "transaction",
+      "business",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is central authority must receive inquiry or investigation report?",
+      "How does central authority must receive inquiry or investigation report work?",
+      "Can you explain central authority must receive inquiry or investigation report?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,24 +1,46 @@
 {
   "concept_id": "intent.delayed_appeal_2",
   "concept_type": "intent",
-  "title": "Questions about Delayed appeal",
-  "description": "Natural language queries a user may ask about: Delayed appeal",
+  "title": "Questions about Delayed Appeal",
+  "description": "Natural language queries a user may ask about: Delayed Appeal",
   "content": {
     "queries": [
-      "Can I appeal after 45 days?"
+      "What if I miss the 30-day appeal deadline?",
+      "What is delayed appeal?",
+      "How does delayed appeal work?",
+      "Can you explain delayed appeal?"
     ]
   },
   "derived_from": [
-    "CPA2019-CH4-S41",
-    "exception.state_commission_may_entertain_appeal_after_45_days"
+    "CPA2019-CH4-S73-3",
+    "exception.may_entertain_an_appeal_after_the_expiry_of_the_said_period_"
   ],
   "related_concepts": [
-    "exception.state_commission_may_entertain_appeal_after_45_days"
+    "exception.may_entertain_an_appeal_after_the_expiry_of_the_said_period_"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "delayed",
+      "appeal",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "late appeal"
+    ],
+    "user_queries": [
+      "Can I appeal after 45 days?",
+      "What is delayed appeal?",
+      "How does delayed appeal work?",
+      "Can you explain delayed appeal?",
+      "What if I miss the 30-day appeal deadline?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: State Commission must furnish information",
   "content": {
     "queries": [
-      "What is state commission must furnish information?",
-      "How does state commission must furnish information work?",
-      "Can you explain state commission must furnish information?"
+      "What information must the State Commission provide to the State Government?",
+      "What is state commission must authenticate goods?",
+      "How does state commission must authenticate goods work?",
+      "Can you explain state commission must authenticate goods?"
     ]
   },
   "derived_from": [
-    "CPA2019-CH4-S70-5",
-    "obligation.state_commission_shall_furnish_any_information_including_pen"
+    "CPA2019-CH8-S102-2",
+    "obligation.state_commission_must_furnish_information_to_the_state_gover"
   ],
   "related_concepts": [
-    "obligation.state_commission_shall_furnish_any_information_including_pen"
+    "obligation.state_commission_must_furnish_information_to_the_state_gover"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "state",
+      "commission",
+      "furnish",
+      "information",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "report",
+      "notification"
+    ],
+    "user_queries": [
+      "What is state commission must authenticate goods?",
+      "How does state commission must authenticate goods work?",
+      "Can you explain state commission must authenticate goods?",
+      "What information must the State Commission provide to the State Government?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

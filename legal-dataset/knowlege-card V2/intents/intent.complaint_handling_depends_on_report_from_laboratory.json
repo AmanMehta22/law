@@ -1,0 +1,52 @@
+{
+  "concept_id": "intent.complaint_handling_depends_on_report_from_laboratory",
+  "concept_type": "intent",
+  "title": "Questions about Complaint handling depends on Report from laboratory",
+  "description": "Natural language queries a user may ask about: Complaint handling depends on Report from laboratory",
+  "content": {
+    "queries": [
+      "What is complaint handling depends on report from laboratory?",
+      "How does complaint handling depends on report from laboratory work?",
+      "Can you explain complaint handling depends on report from laboratory?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-2",
+    "relationship.procedure_complaint_handling_depends_on_evidence_report_from_laborator"
+  ],
+  "related_concepts": [
+    "relationship.procedure_complaint_handling_depends_on_evidence_report_from_laborator"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "complaint",
+      "handling",
+      "depends",
+      "report",
+      "laboratory",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "complaint admission"
+    ],
+    "user_queries": [
+      "What is complaint handling depends on report from laboratory?",
+      "How does complaint handling depends on report from laboratory work?",
+      "Can you explain complaint handling depends on report from laboratory?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

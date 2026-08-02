@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.design_of_a_product_3",
+  "concept_type": "intent",
+  "title": "Questions about Design of a Product",
+  "description": "Natural language queries a user may ask about: Design of a Product",
+  "content": {
+    "queries": [
+      "What are the key elements of a product design that can lead to liability?",
+      "How do regulatory standards influence the design of a product?",
+      "Can a product's design be modified to reduce the risk of injury or harm?",
+      "What is the relationship between product design and consumer expectations?",
+      "How can a manufacturer balance design innovation with safety considerations?"
+    ]
+  },
+  "derived_from": [
+    "definition.design",
+    "example.design_of_a_product"
+  ],
+  "related_concepts": [
+    "example.design_of_a_product"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "design",
+      "product",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "product specification",
+      "product features"
+    ],
+    "user_queries": [
+      "What is design of a product?",
+      "How does design of a product work?",
+      "Can you explain design of a product?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

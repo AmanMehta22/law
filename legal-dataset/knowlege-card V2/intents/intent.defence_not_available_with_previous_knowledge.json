@@ -1,25 +1,49 @@
 {
   "concept_id": "intent.defence_not_available_with_previous_knowledge",
   "concept_type": "intent",
-  "title": "Questions about Defence not available with previous knowledge",
-  "description": "Natural language queries a user may ask about: Defence not available with previous knowledge",
+  "title": "Questions about Defence Not Available With Previous Knowledge",
+  "description": "Natural language queries a user may ask about: Defence Not Available With Previous Knowledge",
   "content": {
     "queries": [
-      "When is defence not available",
-      "What is the exception to the defence"
+      "What is defence not available with previous knowledge?",
+      "How does defence not available with previous knowledge work?",
+      "Can you explain defence not available with previous knowledge?",
+      "What are the limitations of a defence not available with previous knowledge?",
+      "How does a defence not available with previous knowledge impact a contract's enforceability?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S21-6",
-    "exception.such_defence_is_not_available_if_the_person_had_previous_kno"
+    "exception.such_defence_is_not_available_if_the_person_had_previous_kno",
+    "alias.defence_not_available_with_previous_knowledge"
   ],
   "related_concepts": [
-    "exception.such_defence_is_not_available_if_the_person_had_previous_kno"
+    "alias.defence_not_available_with_previous_knowledge"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "defence",
+      "available",
+      "previous",
+      "knowledge",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "exemption",
+      "exception"
+    ],
+    "user_queries": [
+      "When is defence not available",
+      "What is the exception to the defence",
+      "What is defence not available with previous knowledge?",
+      "How does defence not available with previous knowledge work?",
+      "Can you explain defence not available with previous knowledge?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

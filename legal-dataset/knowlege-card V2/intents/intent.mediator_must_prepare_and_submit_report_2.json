@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.mediator_must_prepare_and_submit_report_2",
+  "concept_type": "intent",
+  "title": "Questions about Mediator must prepare and submit report",
+  "description": "Natural language queries a user may ask about: Mediator must prepare and submit report",
+  "content": {
+    "queries": [
+      "what happens if no agreement is reached in mediation",
+      "What is mediation procedure?",
+      "How does mediation procedure work?",
+      "Can you explain mediation procedure?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S80-3",
+    "obligation.mediator_shall_prepare_his_report_and_submit_the_same_to_the"
+  ],
+  "related_concepts": [
+    "obligation.mediator_shall_prepare_his_report_and_submit_the_same_to_the"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "mediator",
+      "prepare",
+      "submit",
+      "report",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "mediation report"
+    ],
+    "user_queries": [
+      "what happens if no agreement is reached in mediation",
+      "What is mediation procedure?",
+      "How does mediation procedure work?",
+      "Can you explain mediation procedure?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

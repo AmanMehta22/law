@@ -5,20 +5,43 @@
   "description": "Natural language queries a user may ask about: Expert Supervision Exception",
   "content": {
     "queries": [
-      "product manufacturer not liable"
+      "What is the expert supervision exception?",
+      "How does the expert supervision exception work?",
+      "Can you explain the expert supervision exception?",
+      "What are the implications of the expert supervision exception?",
+      "How does the expert supervision exception apply to RAG system?"
     ]
   },
   "derived_from": [
     "CPA2019-CH6-S87-2",
-    "exception.product_manufacturer_not_liable_if_product_meant_for_use_und"
+    "exception.product_manufacturer_not_liable_if_product_meant_for_use_und",
+    "alias.expert_supervision_exception"
   ],
   "related_concepts": [
-    "exception.product_manufacturer_not_liable_if_product_meant_for_use_und"
+    "alias.expert_supervision_exception"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "expert",
+      "supervision",
+      "exception",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "exception to product liability"
+    ],
+    "user_queries": [
+      "product manufacturer not liable",
+      "What is complainant under influence exception?",
+      "How does complainant under influence exception work?",
+      "Can you explain complainant under influence exception?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

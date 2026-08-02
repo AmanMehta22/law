@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.laying_of_rules_and_regulations_before_parliament_2",
+  "concept_type": "intent",
+  "title": "Questions about Laying of rules and regulations before Parliament",
+  "description": "Natural language queries a user may ask about: Laying of rules and regulations before Parliament",
+  "content": {
+    "queries": [
+      "Who is responsible for laying rules and regulations before Parliament?",
+      "What are the key factors considered when laying rules and regulations before Parliament?",
+      "Can rules and regulations laid before Parliament be amended or changed?",
+      "How do rules and regulations laid before Parliament impact businesses and consumers?",
+      "Is there a time frame for laying rules and regulations before Parliament?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S105-1",
+    "obligation.authority_making_rules_and_regulations_must_lay_rules_and_re"
+  ],
+  "related_concepts": [
+    "obligation.authority_making_rules_and_regulations_must_lay_rules_and_re"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "laying",
+      "rules",
+      "regulations",
+      "before",
+      "parliament",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "appeal deadline",
+      "filing appeal",
+      "opposite party response",
+      "time limit for appeal",
+      "time limit for application",
+      "time to respond"
+    ],
+    "user_queries": [
+      "What is laying of rules and regulations before parliament?",
+      "How does laying of rules and regulations before parliament work?",
+      "Can you explain laying of rules and regulations before parliament?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

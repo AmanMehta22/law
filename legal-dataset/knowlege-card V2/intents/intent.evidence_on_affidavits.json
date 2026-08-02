@@ -7,20 +7,40 @@
     "queries": [
       "What is evidence on affidavits?",
       "How does evidence on affidavits work?",
-      "Can you explain evidence on affidavits?"
+      "Can you explain evidence on affidavits?",
+      "What is the purpose of evidence on affidavits?",
+      "How is evidence on affidavits used in court?"
     ]
   },
   "derived_from": [
-    "CPA2019-CH4-S38-9",
-    "evidence.affidavits"
+    "alias.evidence_on_affidavits"
   ],
   "related_concepts": [
-    "evidence.affidavits"
+    "alias.evidence_on_affidavits"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "evidence",
+      "affidavits",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "affidavit testimony",
+      "sworn evidence",
+      "written proof"
+    ],
+    "user_queries": [
+      "What is evidence on affidavits?",
+      "How does evidence on affidavits work?",
+      "Can you explain evidence on affidavits?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

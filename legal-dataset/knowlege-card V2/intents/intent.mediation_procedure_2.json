@@ -1,0 +1,57 @@
+{
+  "concept_id": "intent.mediation_procedure_2",
+  "concept_type": "intent",
+  "title": "Questions about Mediation Procedure",
+  "description": "Natural language queries a user may ask about: Mediation Procedure",
+  "content": {
+    "queries": [
+      "What are the benefits of using a mediation procedure to resolve disputes?",
+      "How long does a typical mediation procedure take to complete?",
+      "Can a mediation procedure be used to resolve disputes related to product liability?",
+      "What are the costs associated with a mediation procedure?",
+      "How can a consumer prepare for a mediation procedure?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S80-3",
+    "procedure.mediation_procedure"
+  ],
+  "related_concepts": [
+    "procedure.mediation_procedure"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "mediation",
+      "procedure",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Consumer Commission",
+      "Consumer Court",
+      "Court",
+      "Tribunal"
+    ],
+    "user_queries": [
+      "What is mediation procedure?",
+      "How does mediation procedure work?",
+      "Can you explain mediation procedure?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Consumer Rights",
   "content": {
     "queries": [
-      "What are my rights as a consumer?",
-      "How do I protect myself from unfair trade practices?",
-      "What can I do if I'm sold a defective product?"
+      "What are the basic rights of a consumer under the Consumer Protection Act?",
+      "How can a consumer protect their rights in a market transaction?",
+      "What remedies are available to a consumer if their rights are violated?",
+      "Can a consumer waive their rights in a contract or agreement?",
+      "How can a consumer awareness program help in promoting consumer rights?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-9",
-    "definition.consumer_rights"
+    "definition.consumer_rights",
+    "alias.consumer_rights"
   ],
   "related_concepts": [
-    "definition.consumer_rights"
+    "alias.consumer_rights"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "consumer",
+      "rights",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "customer rights",
+      "consumer interests"
+    ],
+    "user_queries": [
+      "What is consumer rights?",
+      "How does consumer rights work?",
+      "Can you explain consumer rights?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

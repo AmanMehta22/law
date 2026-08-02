@@ -1,24 +1,51 @@
 {
   "concept_id": "intent.central_government_override",
   "concept_type": "intent",
-  "title": "Questions about Central Government override",
-  "description": "Natural language queries a user may ask about: Central Government override",
+  "title": "Questions about Central Government Override",
+  "description": "Natural language queries a user may ask about: Central Government Override",
   "content": {
     "queries": [
-      "Central Government override"
+      "What are the powers of the Central Government in overriding state decisions?",
+      "Can the Central Government call for records from state commissions?",
+      "How does the Central Government pass orders in consumer protection cases?",
+      "What is the process for the Central Government to override state commission decisions?",
+      "Under what circumstances can the Central Government intervene in state commission matters?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S34-1",
-    "exception.central_government_may_prescribe_a_different_value"
+    "CPA2019-CH4-S47-1",
+    "exception.central_government_may_prescribe_a_different_value",
+    "exception.the_central_government_can_prescribe_a_different_value",
+    "alias.central_government_override"
   ],
   "related_concepts": [
-    "exception.central_government_may_prescribe_a_different_value"
+    "alias.central_government_override"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "government",
+      "override",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "District Commission powers"
+    ],
+    "user_queries": [
+      "What is central government override?",
+      "How does central government override work?",
+      "Can you explain central government override?",
+      "What is calling for records and passing orders?",
+      "How does calling for records and passing orders work?",
+      "Can you explain calling for records and passing orders?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

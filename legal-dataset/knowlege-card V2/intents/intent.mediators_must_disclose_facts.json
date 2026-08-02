@@ -1,24 +1,45 @@
 {
   "concept_id": "intent.mediators_must_disclose_facts",
   "concept_type": "intent",
-  "title": "Questions about Mediators must disclose facts",
-  "description": "Natural language queries a user may ask about: Mediators must disclose facts",
+  "title": "Questions about Mediators Must Disclose Facts",
+  "description": "Natural language queries a user may ask about: Mediators Must Disclose Facts",
   "content": {
     "queries": [
-      "what facts must be disclosed"
+      "What is mediators must disclose facts?",
+      "How does mediators must disclose facts work?",
+      "Can you explain mediators must disclose facts?"
     ]
   },
   "derived_from": [
     "CPA2019-CH8-S103-2",
-    "obligation.mediators_must_disclose_facts"
+    "obligation.mediators_must_disclose_facts",
+    "alias.mediators_must_disclose_facts"
   ],
   "related_concepts": [
-    "obligation.mediators_must_disclose_facts"
+    "alias.mediators_must_disclose_facts"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "mediators",
+      "disclose",
+      "facts",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "transparency requirements"
+    ],
+    "user_queries": [
+      "what facts must be disclosed",
+      "What is mediators must disclose facts?",
+      "How does mediators must disclose facts work?",
+      "Can you explain mediators must disclose facts?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

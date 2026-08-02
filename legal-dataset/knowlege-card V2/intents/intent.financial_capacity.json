@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Financial capacity",
   "content": {
     "queries": [
+      "How is financial capacity determined in a consumer protection case?",
+      "What factors are considered when assessing financial capacity?",
+      "Can financial capacity be used as a defense in a consumer protection lawsuit?",
+      "How does financial capacity affect the outcome of a consumer complaint?",
+      "Are there any specific financial capacity requirements for filing a consumer protection claim?"
+    ]
+  },
+  "derived_from": [
+    "alias.financial_capacity"
+  ],
+  "related_concepts": [
+    "alias.financial_capacity"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "financial",
+      "capacity",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "budgetary capacity",
+      "economic capability",
+      "fiscal ability",
+      "monetary resources"
+    ],
+    "user_queries": [
       "What is financial capacity?",
       "How does financial capacity work?",
       "Can you explain financial capacity?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH1-S2-37",
-    "exception.does_not_include_a_person_who_acts_only_in_a_financial_capac"
-  ],
-  "related_concepts": [
-    "exception.does_not_include_a_person_who_acts_only_in_a_financial_capac"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

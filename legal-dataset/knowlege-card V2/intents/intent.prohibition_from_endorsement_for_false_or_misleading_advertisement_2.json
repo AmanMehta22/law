@@ -1,0 +1,61 @@
+{
+  "concept_id": "intent.prohibition_from_endorsement_for_false_or_misleading_advertisement_2",
+  "concept_type": "intent",
+  "title": "Questions about Prohibition from endorsement for false or misleading advertisement",
+  "description": "Natural language queries a user may ask about: Prohibition from endorsement for false or misleading advertisement",
+  "content": {
+    "queries": [
+      "Can a celebrity be prohibited from endorsing a product if they make false claims about it?",
+      "How does the law handle false or misleading advertisements endorsed by influencers?",
+      "What are the consequences for a brand if they continue to endorse a product with false or misleading claims?",
+      "Is there a specific authority that regulates prohibition from endorsement for false or misleading advertisements?",
+      "Can a consumer file a complaint against a company for false or misleading endorsement?"
+    ]
+  },
+  "derived_from": [
+    "penalty.making_false_or_misleading_advertisement",
+    "example.prohibition_from_endorsement_for_false_or_misleading_advertisement"
+  ],
+  "related_concepts": [
+    "example.prohibition_from_endorsement_for_false_or_misleading_advertisement"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "prohibition",
+      "endorsement",
+      "false",
+      "misleading",
+      "advertisement",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is prohibition from endorsement for false or misleading advertisement?",
+      "How does prohibition from endorsement for false or misleading advertisement work?",
+      "Can you explain prohibition from endorsement for false or misleading advertisement?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

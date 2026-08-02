@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Express Warranty",
   "content": {
     "queries": [
-      "What is an express warranty?",
-      "What does express warranty mean?",
-      "Is a sample a warranty?"
+      "What does express warranty mean in consumer law?",
+      "How is express warranty different from other warranties?",
+      "Can a seller deny a claim under express warranty?",
+      "What are the benefits of having an express warranty for consumers?",
+      "How long does an express warranty typically last?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-20",
-    "definition.express_warranty"
+    "definition.express_warranty",
+    "alias.express_warranty"
   ],
   "related_concepts": [
-    "definition.express_warranty"
+    "alias.express_warranty"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "express",
+      "warranty",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "warranty",
+      "product guarantee"
+    ],
+    "user_queries": [
+      "What is express warranty?",
+      "How does express warranty work?",
+      "Can you explain express warranty?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

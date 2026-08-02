@@ -5,20 +5,43 @@
   "description": "Natural language queries a user may ask about: Relief",
   "content": {
     "queries": [
-      "what relief is available under the Consumer Protection Act"
+      "What does allegation in writing mean for my case?",
+      "How do I file an allegation in writing for relief?",
+      "Can I get relief without an allegation in writing?",
+      "What are the requirements for an allegation in writing to be valid?",
+      "How long does it take to process an allegation in writing for relief?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-6",
-    "remedy.relief"
+    "remedy.relief",
+    "alias.relief"
   ],
   "related_concepts": [
-    "remedy.relief"
+    "alias.relief"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "relief",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "allegation"
+    ],
+    "aliases": [
+      "redress"
+    ],
+    "user_queries": [
+      "what relief is available under the Consumer Protection Act",
+      "What is allegation in writing?",
+      "How does allegation in writing work?",
+      "Can you explain allegation in writing?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

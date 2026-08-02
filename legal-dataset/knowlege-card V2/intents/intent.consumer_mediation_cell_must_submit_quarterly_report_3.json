@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.consumer_mediation_cell_must_submit_quarterly_report_3",
+  "concept_type": "intent",
+  "title": "Questions about Consumer Mediation Cell must submit quarterly report",
+  "description": "Natural language queries a user may ask about: Consumer Mediation Cell must submit quarterly report",
+  "content": {
+    "queries": [
+      "What are the reporting requirements for consumer mediation cells?",
+      "What is consumer mediation cell must submit quarterly report?",
+      "How does consumer mediation cell must submit quarterly report work?",
+      "Can you explain consumer mediation cell must submit quarterly report?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S74-5",
+    "obligation.consumer_mediation_cell_shall_submit_a_quarterly_report"
+  ],
+  "related_concepts": [
+    "obligation.consumer_mediation_cell_shall_submit_a_quarterly_report"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "consumer",
+      "mediation",
+      "cell",
+      "submit",
+      "quarterly",
+      "report",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "consumer dispute resolution",
+      "mediation cell report"
+    ],
+    "user_queries": [
+      "What are the reporting requirements for consumer mediation cells?",
+      "What is consumer mediation cell must submit quarterly report?",
+      "How does consumer mediation cell must submit quarterly report work?",
+      "Can you explain consumer mediation cell must submit quarterly report?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

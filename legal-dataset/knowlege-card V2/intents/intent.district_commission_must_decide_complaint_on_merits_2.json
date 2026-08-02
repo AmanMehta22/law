@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.district_commission_must_decide_complaint_on_merits_2",
+  "concept_type": "intent",
+  "title": "Questions about District Commission must decide complaint on merits",
+  "description": "Natural language queries a user may ask about: District Commission must decide complaint on merits",
+  "content": {
+    "queries": [
+      "what happens if the complainant does not appear",
+      "What is complaint handling by district commission?",
+      "How does complaint handling by district commission work?",
+      "Can you explain complaint handling by district commission?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-3",
+    "obligation.district_commission_must_decide_the_complaint_on_merits"
+  ],
+  "related_concepts": [
+    "obligation.district_commission_must_decide_the_complaint_on_merits"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commission",
+      "decide",
+      "complaint",
+      "merits",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "ex parte decision"
+    ],
+    "user_queries": [
+      "what happens if the complainant does not appear",
+      "What is complaint handling by district commission?",
+      "How does complaint handling by district commission work?",
+      "Can you explain complaint handling by district commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

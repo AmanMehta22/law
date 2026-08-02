@@ -1,0 +1,56 @@
+{
+  "concept_id": "intent.defect_3",
+  "concept_type": "intent",
+  "title": "Questions about Defect",
+  "description": "Natural language queries a user may ask about: Defect",
+  "content": {
+    "queries": [
+      "What are the responsibilities of a manufacturer in regards to defects in consumer products as per the Central Consumer Protection Authority?",
+      "How does the Central Government define a defect in the context of the Consumer Protection Act 2019?",
+      "What are the procedures for reporting a defect to the National Commission?",
+      "Can you describe how the concept of defect is handled in the context of the State Commission?",
+      "What are the differences between a defect and a breach of contract, as outlined by the District Commission?"
+    ]
+  },
+  "derived_from": [
+    "definition.defect",
+    "example.defect"
+  ],
+  "related_concepts": [
+    "example.defect"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "defect",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "how"
+    ],
+    "aliases": [
+      "flaw",
+      "fault",
+      "imperfection"
+    ],
+    "user_queries": [
+      "What is defect?",
+      "How does defect work?",
+      "Can you explain defect?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

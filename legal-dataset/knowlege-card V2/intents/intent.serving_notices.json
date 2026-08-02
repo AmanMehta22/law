@@ -1,24 +1,48 @@
 {
   "concept_id": "intent.serving_notices",
   "concept_type": "intent",
-  "title": "Questions about Serving notices",
-  "description": "Natural language queries a user may ask about: Serving notices",
+  "title": "Questions about Serving Notices",
+  "description": "Natural language queries a user may ask about: Serving Notices",
   "content": {
     "queries": [
-      "how to serve a notice under the Consumer Protection Act"
+      "What is the procedure for serving notices to the opposite party in a consumer dispute?",
+      "How do I ensure that notices are served correctly to the respondent?",
+      "Can notices be served electronically in consumer complaints?",
+      "What are the consequences of not serving notices properly in a consumer case?",
+      "How does the court verify that notices have been served to the parties involved?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S65-1",
-    "obligation.party_serving_the_notice_must_serve_notices_by_registered_po"
+    "obligation.party_serving_the_notice_must_serve_notices_by_registered_po",
+    "alias.serving_notices"
   ],
   "related_concepts": [
-    "obligation.party_serving_the_notice_must_serve_notices_by_registered_po"
+    "alias.serving_notices"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "serving",
+      "notices",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "serving a complaint",
+      "giving notice"
+    ],
+    "user_queries": [
+      "how to serve a notice under the Consumer Protection Act",
+      "What is acknowledgment due?",
+      "How does acknowledgment due work?",
+      "Can you explain acknowledgment due?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

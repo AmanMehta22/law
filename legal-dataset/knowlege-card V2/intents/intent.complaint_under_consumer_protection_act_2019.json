@@ -5,22 +5,46 @@
   "description": "Natural language queries a user may ask about: Complaint under Consumer Protection Act, 2019",
   "content": {
     "queries": [
-      "How do I file a complaint under the Consumer Protection Act?",
-      "What is considered a complaint under the CPA?",
-      "Can I file a complaint for a defective product?"
+      "What are the requirements for filing a complaint under the Consumer Protection Act, 2019?",
+      "How does the Consumer Protection Act, 2019 define a valid complaint?",
+      "Can a complaint under the Consumer Protection Act, 2019 be filed online?",
+      "What is the process for resolving a complaint under the Consumer Protection Act, 2019?",
+      "What are the potential outcomes of a complaint filed under the Consumer Protection Act, 2019?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-6",
-    "definition.complaint"
+    "definition.complaint",
+    "alias.complaint_under_consumer_protection_act_2019"
   ],
   "related_concepts": [
-    "definition.complaint"
+    "alias.complaint_under_consumer_protection_act_2019"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "complaint",
+      "consumer",
+      "protection",
+      "act",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "grievance",
+      "allegation"
+    ],
+    "user_queries": [
+      "What is complaint under consumer protection act, 2019?",
+      "How does complaint under consumer protection act, 2019 work?",
+      "Can you explain complaint under consumer protection act, 2019?",
+      "What is allegation in writing?",
+      "How does allegation in writing work?",
+      "Can you explain allegation in writing?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

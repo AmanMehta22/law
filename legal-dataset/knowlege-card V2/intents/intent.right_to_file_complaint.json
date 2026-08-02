@@ -5,21 +5,48 @@
   "description": "Natural language queries a user may ask about: Right to File Complaint",
   "content": {
     "queries": [
-      "how to file a complaint against unfair trade practices",
-      "how to report false advertisements"
+      "What are the grounds for filing a complaint with the commissioner of a regional office?",
+      "How do I file a complaint with the commissioner of a regional office?",
+      "What documents are required to file a complaint with the commissioner of a regional office?",
+      "Can I file a complaint with the commissioner of a regional office online?",
+      "What is the time limit for filing a complaint with the commissioner of a regional office?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S17",
-    "right.right_to_file_complaint"
+    "right.right_to_file_complaint",
+    "alias.right_to_file_complaint"
   ],
   "related_concepts": [
-    "right.right_to_file_complaint"
+    "alias.right_to_file_complaint"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "right",
+      "file",
+      "complaint",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "right to complaint",
+      "right to report"
+    ],
+    "user_queries": [
+      "how to file a complaint against unfair trade practices",
+      "how to report false advertisements",
+      "What is filing complaint against misleading advertisements?",
+      "How does filing complaint against misleading advertisements work?",
+      "Can you explain filing complaint against misleading advertisements?",
+      "What is commissioner of regional office?",
+      "How does commissioner of regional office work?",
+      "Can you explain commissioner of regional office?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.state_commission_must_transfer_complaint_2",
+  "concept_type": "intent",
+  "title": "Questions about State Commission must transfer complaint",
+  "description": "Natural language queries a user may ask about: State Commission must transfer complaint",
+  "content": {
+    "queries": [
+      "Can a complaint be transferred to another District Commission?",
+      "What is state commission must transfer complaint?",
+      "How does state commission must transfer complaint work?",
+      "Can you explain state commission must transfer complaint?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S48",
+    "obligation.state_commission_may_transfer_any_complaint_pending_before_a"
+  ],
+  "related_concepts": [
+    "obligation.state_commission_may_transfer_any_complaint_pending_before_a"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "state",
+      "commission",
+      "transfer",
+      "complaint",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "reassign complaint",
+      "redistribute case"
+    ],
+    "user_queries": [
+      "Can a complaint be transferred to another District Commission?",
+      "What is state commission must transfer complaint?",
+      "How does state commission must transfer complaint work?",
+      "Can you explain state commission must transfer complaint?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

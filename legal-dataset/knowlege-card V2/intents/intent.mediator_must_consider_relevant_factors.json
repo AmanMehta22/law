@@ -1,24 +1,45 @@
 {
   "concept_id": "intent.mediator_must_consider_relevant_factors",
   "concept_type": "intent",
-  "title": "Questions about Mediator must consider relevant factors",
-  "description": "Natural language queries a user may ask about: Mediator must consider relevant factors",
+  "title": "Questions about Mediator Must Consider Relevant Factors",
+  "description": "Natural language queries a user may ask about: Mediator Must Consider Relevant Factors",
   "content": {
     "queries": [
-      "what are the mediator's obligations in consumer dispute mediation"
+      "What is mediator must consider relevant factors?",
+      "How does mediator must consider relevant factors work?",
+      "Can you explain mediator must consider relevant factors?"
     ]
   },
   "derived_from": [
     "CPA2019-CH5-S79-2",
-    "obligation.mediator_nominated_by_the_commission_shall_have_regard_to_th"
+    "obligation.mediator_nominated_by_the_commission_shall_have_regard_to_th",
+    "alias.mediator_must_consider_relevant_factors"
   ],
   "related_concepts": [
-    "obligation.mediator_nominated_by_the_commission_shall_have_regard_to_th"
+    "alias.mediator_must_consider_relevant_factors"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "mediator",
+      "consider",
+      "relevant",
+      "factors",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "arbitrator"
+    ],
+    "user_queries": [
+      "what are the mediator's obligations in consumer dispute mediation",
+      "What is mediator must consider relevant factors?",
+      "How does mediator must consider relevant factors work?",
+      "Can you explain mediator must consider relevant factors?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

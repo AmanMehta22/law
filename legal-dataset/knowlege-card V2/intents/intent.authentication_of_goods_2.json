@@ -1,0 +1,57 @@
+{
+  "concept_id": "intent.authentication_of_goods_2",
+  "concept_type": "intent",
+  "title": "Questions about Authentication of goods",
+  "description": "Natural language queries a user may ask about: Authentication of goods",
+  "content": {
+    "queries": [
+      "What are the standards for authenticating goods in India?",
+      "Can I authenticate goods online?",
+      "What is the role of the manufacturer in authenticating goods?",
+      "How can I identify fake or counterfeit products?",
+      "What are the penalties for manufacturing or selling counterfeit goods?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S101-2",
+    "procedure.authentication_of_goods"
+  ],
+  "related_concepts": [
+    "procedure.authentication_of_goods"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "authentication",
+      "goods",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "how"
+    ],
+    "aliases": [
+      "appeal to national commission",
+      "appeal to national consumer commission",
+      "national appeal",
+      "national commission",
+      "national commission appeal"
+    ],
+    "user_queries": [
+      "How do I file appeal to national commission?",
+      "What are the steps for appeal to national commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

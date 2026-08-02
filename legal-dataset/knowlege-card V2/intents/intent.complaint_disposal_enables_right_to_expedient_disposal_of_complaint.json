@@ -1,0 +1,53 @@
+{
+  "concept_id": "intent.complaint_disposal_enables_right_to_expedient_disposal_of_complaint",
+  "concept_type": "intent",
+  "title": "Questions about Complaint disposal enables Right to Expedient Disposal of Complaint",
+  "description": "Natural language queries a user may ask about: Complaint disposal enables Right to Expedient Disposal of Complaint",
+  "content": {
+    "queries": [
+      "What is complaint disposal enables right to expedient disposal of complaint?",
+      "How does complaint disposal enables right to expedient disposal of complaint work?",
+      "Can you explain complaint disposal enables right to expedient disposal of complaint?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-7",
+    "relationship.procedure_complaint_disposal_enables_right_right_to_expedient_disposal"
+  ],
+  "related_concepts": [
+    "relationship.procedure_complaint_disposal_enables_right_right_to_expedient_disposal"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "complaint",
+      "disposal",
+      "enables",
+      "right",
+      "expedient",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "delay",
+      "postponement"
+    ],
+    "user_queries": [
+      "What is complaint disposal enables right to expedient disposal of complaint?",
+      "How does complaint disposal enables right to expedient disposal of complaint work?",
+      "Can you explain complaint disposal enables right to expedient disposal of complaint?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.central_government_must_appoint_commissioners",
   "concept_type": "intent",
-  "title": "Questions about Central Government must appoint Commissioners",
-  "description": "Natural language queries a user may ask about: Central Government must appoint Commissioners",
+  "title": "Questions about Central Government Must Appoint Commissioners",
+  "description": "Natural language queries a user may ask about: Central Government Must Appoint Commissioners",
   "content": {
     "queries": [
-      "Who appoints the Central Authority members?"
+      "What are the responsibilities of commissioners appointed by the central government?",
+      "How many commissioners can the central government appoint at a time?",
+      "What is the process for the central government to appoint new commissioners?",
+      "Can the central government remove appointed commissioners and why?",
+      "What are the qualifications required for someone to be appointed as a commissioner by the central government?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S10-2",
-    "obligation.central_government_must_appoint_commissioners"
+    "obligation.central_government_must_appoint_commissioners",
+    "alias.central_government_must_appoint_commissioners"
   ],
   "related_concepts": [
-    "obligation.central_government_must_appoint_commissioners"
+    "alias.central_government_must_appoint_commissioners"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "government",
+      "appoint",
+      "commissioners",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "Central Authority members"
+    ],
+    "user_queries": [
+      "Who appoints the Central Authority members?",
+      "What is central government must appoint commissioners?",
+      "How does central government must appoint commissioners work?",
+      "Can you explain central government must appoint commissioners?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

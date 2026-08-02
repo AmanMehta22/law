@@ -1,0 +1,61 @@
+{
+  "concept_id": "intent.director_2",
+  "concept_type": "intent",
+  "title": "Questions about Director",
+  "description": "Natural language queries a user may ask about: Director",
+  "content": {
+    "queries": [
+      "What are the differences between a director and an additional director-general?",
+      "How does the role of an additional director-general impact the overall management of a company?",
+      "Can an additional director-general also serve as a regular director?",
+      "What are the benefits of having an additional director-general in a company?",
+      "How does an additional director-general interact with other directors in a company?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S15-2",
+    "CPA2019-CH3-S15-3",
+    "CPA2019-CH3-S15-4",
+    "CPA2019-CH8-S95",
+    "authority.director"
+  ],
+  "related_concepts": [
+    "authority.director"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "director",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "additional"
+    ],
+    "aliases": [
+      "Alternate Director-General",
+      "Assistant Director-General",
+      "Deputy Director-General",
+      "Extra Director-General",
+      "Supplemental Director-General"
+    ],
+    "user_queries": [
+      "What is additional director-general?",
+      "How does additional director-general work?",
+      "Can you explain additional director-general?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

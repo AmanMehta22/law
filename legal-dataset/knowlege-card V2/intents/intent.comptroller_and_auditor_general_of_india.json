@@ -5,24 +5,51 @@
   "description": "Natural language queries a user may ask about: Comptroller and Auditor-General of India",
   "content": {
     "queries": [
-      "What is comptroller and auditor-general of india?",
-      "How does comptroller and auditor-general of india work?",
-      "Can you explain comptroller and auditor-general of india?"
+      "What is the role of the Comptroller and Auditor-General of India in auditing government accounts?",
+      "How does the Comptroller and Auditor-General of India ensure accountability in government spending?",
+      "Can the Comptroller and Auditor-General of India provide information on the audit process?",
+      "What are the powers of the Comptroller and Auditor-General of India in relation to government accounts?",
+      "How does the Comptroller and Auditor-General of India contribute to transparency in government financial reporting?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S26-1",
     "CPA2019-CH3-S26-3",
     "CPA2019-CH3-S26-4",
-    "authority.comptroller_and_auditor_general_of_india"
+    "authority.comptroller_and_auditor_general_of_india",
+    "alias.comptroller_and_auditor_general_of_india"
   ],
   "related_concepts": [
-    "authority.comptroller_and_auditor_general_of_india"
+    "alias.comptroller_and_auditor_general_of_india"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "comptroller",
+      "auditor",
+      "general",
+      "india",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is accounts and audit reports?",
+      "How does accounts and audit reports work?",
+      "Can you explain accounts and audit reports?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

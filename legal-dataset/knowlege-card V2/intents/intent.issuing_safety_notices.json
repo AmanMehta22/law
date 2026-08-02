@@ -5,21 +5,46 @@
   "description": "Natural language queries a user may ask about: Issuing Safety Notices",
   "content": {
     "queries": [
-      "How do I file issuing safety notices?",
-      "What are the steps for issuing safety notices?"
+      "What are the procedures for issuing safety notices under the Consumer Protection Act?",
+      "How do manufacturers respond to issuing safety notices for defective products?",
+      "Can a consumer request a safety notice to be issued for a hazardous product?",
+      "What information must be included in an issuing safety notice?",
+      "Are there any penalties for failing to comply with issuing safety notices?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S18-2",
-    "procedure.issuing_safety_notices"
+    "procedure.issuing_safety_notices",
+    "alias.issuing_safety_notices"
   ],
   "related_concepts": [
-    "procedure.issuing_safety_notices"
+    "alias.issuing_safety_notices"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "issuing",
+      "safety",
+      "notices",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "advice on consumer welfare",
+      "advising on consumer welfare",
+      "consumer rights guidance",
+      "consumer welfare advice",
+      "consumer welfare measures"
+    ],
+    "user_queries": [
+      "What is issuing safety notices?",
+      "How does issuing safety notices work?",
+      "Can you explain issuing safety notices?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

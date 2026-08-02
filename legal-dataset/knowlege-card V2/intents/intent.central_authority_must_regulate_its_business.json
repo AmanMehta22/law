@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Central Authority must regulate its business",
   "content": {
     "queries": [
+      "What are the responsibilities of the central authority in regulating its business practices?",
+      "How does the central authority ensure that its business practices are fair and transparent?",
+      "Can the central authority impose penalties on itself for non-compliance with regulations?",
+      "What is the process for the central authority to review and update its business regulations?",
+      "How does the central authority handle conflicts of interest in its business practices?"
+    ]
+  },
+  "derived_from": [
+    "alias.central_authority_must_regulate_its_business"
+  ],
+  "related_concepts": [
+    "alias.central_authority_must_regulate_its_business"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "authority",
+      "regulate",
+      "its",
+      "business",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "business oversight by central authority",
+      "central authority business regulation",
+      "regulation of central authority business"
+    ],
+    "user_queries": [
       "What is central authority must regulate its business?",
       "How does central authority must regulate its business work?",
       "Can you explain central authority must regulate its business?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH3-S14-1",
-    "obligation.central_authority_must_regulate_the_procedure_for_transactio"
-  ],
-  "related_concepts": [
-    "obligation.central_authority_must_regulate_the_procedure_for_transactio"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

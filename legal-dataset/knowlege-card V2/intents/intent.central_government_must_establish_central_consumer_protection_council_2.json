@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.central_government_must_establish_central_consumer_protection_council_2",
+  "concept_type": "intent",
+  "title": "Questions about Central Government must establish Central Consumer Protection Council",
+  "description": "Natural language queries a user may ask about: Central Government must establish Central Consumer Protection Council",
+  "content": {
+    "queries": [
+      "establishment of Central Council",
+      "What is central consumer protection council?",
+      "How does central consumer protection council work?",
+      "Can you explain central consumer protection council?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH2-S3-1",
+    "obligation.central_government_shall_establish_the_central_consumer_prot"
+  ],
+  "related_concepts": [
+    "obligation.central_government_shall_establish_the_central_consumer_prot"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "government",
+      "establish",
+      "consumer",
+      "protection",
+      "council",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "Central Government"
+    ],
+    "user_queries": [
+      "establishment of Central Council",
+      "What is central consumer protection council?",
+      "How does central consumer protection council work?",
+      "Can you explain central consumer protection council?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

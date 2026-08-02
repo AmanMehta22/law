@@ -5,22 +5,46 @@
   "description": "Natural language queries a user may ask about: Territorial jurisdiction of District Commission",
   "content": {
     "queries": [
+      "Is the territorial jurisdiction of a District Commission limited to a specific geographic area?",
+      "How does the territorial jurisdiction of a District Commission relate to consumer protection laws?",
+      "Can a consumer file a complaint with a District Commission outside their territorial jurisdiction?",
+      "What happens if a consumer's case falls outside the territorial jurisdiction of a District Commission?",
+      "How do District Commissions coordinate with each other on cases involving multiple territorial jurisdictions?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S32",
+    "jurisdiction.district_commission_that_district"
+  ],
+  "related_concepts": [
+    "jurisdiction.district_commission_that_district"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "territorial",
+      "jurisdiction",
+      "district",
+      "commission",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
       "What is territorial jurisdiction of district commission?",
       "How does territorial jurisdiction of district commission work?",
       "Can you explain territorial jurisdiction of district commission?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S34-2",
-    "jurisdiction.district_commission_within_the_local_limits_of_the_jurisdiction_where_the_opposi"
-  ],
-  "related_concepts": [
-    "jurisdiction.district_commission_within_the_local_limits_of_the_jurisdiction_where_the_opposi"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

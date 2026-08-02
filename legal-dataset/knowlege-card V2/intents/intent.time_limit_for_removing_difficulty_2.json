@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.time_limit_for_removing_difficulty_2",
+  "concept_type": "intent",
+  "title": "Questions about Time Limit for Removing Difficulty",
+  "description": "Natural language queries a user may ask about: Time Limit for Removing Difficulty",
+  "content": {
+    "queries": [
+      "What is the time limit for removing difficulties under the Consumer Protection Act?",
+      "What is central government must make provisions to remove difficulties?",
+      "How does central government must make provisions to remove difficulties work?",
+      "Can you explain central government must make provisions to remove difficulties?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S106",
+    "exception.no_such_order_shall_be_made_after_the_expiry_of_a_period_of_"
+  ],
+  "related_concepts": [
+    "exception.no_such_order_shall_be_made_after_the_expiry_of_a_period_of_"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "time",
+      "limit",
+      "removing",
+      "difficulty",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "time limit",
+      "removing difficulty"
+    ],
+    "user_queries": [
+      "What is the time limit for removing difficulties under the Consumer Protection Act?",
+      "What is central government must make provisions to remove difficulties?",
+      "How does central government must make provisions to remove difficulties work?",
+      "Can you explain central government must make provisions to remove difficulties?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

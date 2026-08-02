@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Territorial jurisdiction of National Commission",
   "content": {
     "queries": [
+      "What is the territorial scope of the National Commission's jurisdiction?",
+      "Can the National Commission handle cases that involve consumers from multiple countries?",
+      "Does the National Commission have jurisdiction over cases that involve international transactions?",
+      "How does the National Commission determine its territorial jurisdiction in complex cases?",
+      "Are there any exceptions to the National Commission's territorial jurisdiction?"
+    ]
+  },
+  "derived_from": [
+    "alias.territorial_jurisdiction_of_national_commission"
+  ],
+  "related_concepts": [
+    "alias.territorial_jurisdiction_of_national_commission"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "territorial",
+      "jurisdiction",
+      "national",
+      "commission",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "geographical area of national commission",
+      "national commission area of authority",
+      "national commission jurisdiction"
+    ],
+    "user_queries": [
       "What is territorial jurisdiction of national commission?",
       "How does territorial jurisdiction of national commission work?",
       "Can you explain territorial jurisdiction of national commission?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S53-2",
-    "jurisdiction.national_commission_national_capital_region_and_other_notified_places"
-  ],
-  "related_concepts": [
-    "jurisdiction.national_commission_national_capital_region_and_other_notified_places"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

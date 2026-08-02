@@ -5,21 +5,45 @@
   "description": "Natural language queries a user may ask about: Summoning and enforcing attendance",
   "content": {
     "queries": [
-      "How do I file summoning and enforcing attendance?",
-      "What are the steps for summoning and enforcing attendance?"
+      "What is the process for summoning a witness in a consumer dispute?",
+      "Can a consumer forum enforce attendance of a party in a dispute?",
+      "How does the Consumer Protection Act ensure attendance of parties in a dispute?",
+      "What are the consequences of non-attendance in a consumer dispute?",
+      "Can a consumer forum issue a warrant for the attendance of a party?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-9",
-    "procedure.summoning_and_enforcing_attendance"
+    "procedure.summoning_and_enforcing_attendance",
+    "alias.summoning_and_enforcing_attendance"
   ],
   "related_concepts": [
-    "procedure.summoning_and_enforcing_attendance"
+    "alias.summoning_and_enforcing_attendance"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "summoning",
+      "enforcing",
+      "attendance",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government"
+    ],
+    "user_queries": [
+      "What is summoning and enforcing attendance?",
+      "How does summoning and enforcing attendance work?",
+      "Can you explain summoning and enforcing attendance?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

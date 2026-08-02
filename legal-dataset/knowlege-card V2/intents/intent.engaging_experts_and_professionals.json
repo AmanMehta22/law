@@ -5,21 +5,49 @@
   "description": "Natural language queries a user may ask about: Engaging experts and professionals",
   "content": {
     "queries": [
-      "How do I file engaging experts and professionals?",
-      "What are the steps for engaging experts and professionals?"
+      "Why does the Central Authority engage experts and professionals in consumer protection cases?",
+      "How do experts and professionals assist the Central Authority in investigating consumer complaints?",
+      "What qualifications are required for experts and professionals to work with the Central Authority on consumer protection matters?",
+      "Can experts and professionals provide testimony in court on behalf of the Central Authority in consumer protection cases?",
+      "How does the engagement of experts and professionals by the Central Authority impact the outcome of consumer protection investigations?"
     ]
   },
   "derived_from": [
     "CPA2019-CH8-S104-2",
-    "procedure.engaging_experts_and_professionals"
+    "procedure.engaging_experts_and_professionals",
+    "alias.engaging_experts_and_professionals"
   ],
   "related_concepts": [
-    "procedure.engaging_experts_and_professionals"
+    "alias.engaging_experts_and_professionals"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "engaging",
+      "experts",
+      "professionals",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is central authority must receive inquiry or investigation report?",
+      "How does central authority must receive inquiry or investigation report work?",
+      "Can you explain central authority must receive inquiry or investigation report?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

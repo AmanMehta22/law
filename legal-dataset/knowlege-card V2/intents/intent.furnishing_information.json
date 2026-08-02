@@ -5,21 +5,45 @@
   "description": "Natural language queries a user may ask about: Furnishing information",
   "content": {
     "queries": [
-      "How do I file furnishing information?",
-      "What are the steps for furnishing information?"
+      "What information do I need to furnish for an appeal to the national commission?",
+      "How can I ensure I am furnishing the correct information for my appeal?",
+      "What are the consequences of not furnishing the required information for an appeal?",
+      "Can I appeal to the national commission without furnishing all the required information?",
+      "What kind of information do I need to furnish to support my appeal to the national commission?"
     ]
   },
   "derived_from": [
     "CPA2019-CH8-S101-2",
-    "procedure.furnishing_information"
+    "procedure.furnishing_information",
+    "alias.furnishing_information"
   ],
   "related_concepts": [
-    "procedure.furnishing_information"
+    "alias.furnishing_information"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "furnishing",
+      "information",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "how"
+    ],
+    "aliases": [
+      "appeal to national commission",
+      "appeal to national consumer commission",
+      "national appeal",
+      "national commission",
+      "national commission appeal"
+    ],
+    "user_queries": [
+      "How do I file appeal to national commission?",
+      "What are the steps for appeal to national commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

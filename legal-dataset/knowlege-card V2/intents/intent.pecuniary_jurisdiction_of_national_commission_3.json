@@ -1,0 +1,58 @@
+{
+  "concept_id": "intent.pecuniary_jurisdiction_of_national_commission_3",
+  "concept_type": "intent",
+  "title": "Questions about Pecuniary jurisdiction of National Commission",
+  "description": "Natural language queries a user may ask about: Pecuniary jurisdiction of National Commission",
+  "content": {
+    "queries": [
+      "What is the relationship between the pecuniary jurisdiction of the National Commission and the claim amount?",
+      "How does the National Commission's pecuniary jurisdiction affect the consumer's right to appeal?",
+      "Can the National Commission review a complaint that is outside its pecuniary jurisdiction?",
+      "What are the implications of the National Commission's pecuniary jurisdiction on consumer protection?",
+      "Are there any proposed changes to the pecuniary jurisdiction of the National Commission?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S101-2",
+    "jurisdiction.national_commission_other_value_of_goods_and_services"
+  ],
+  "related_concepts": [
+    "jurisdiction.national_commission_other_value_of_goods_and_services"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "pecuniary",
+      "jurisdiction",
+      "national",
+      "commission",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "appeal to national commission",
+      "appeal to national consumer commission",
+      "national appeal",
+      "national commission",
+      "national commission appeal"
+    ],
+    "user_queries": [
+      "What is pecuniary jurisdiction of national commission?",
+      "How does pecuniary jurisdiction of national commission work?",
+      "Can you explain pecuniary jurisdiction of national commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Document or record",
   "content": {
     "queries": [
+      "What is the difference between a document and a record under the Consumer Protection Act?",
+      "How must a consumer keep records of a transaction or complaint?",
+      "Can a consumer request a copy of a document or record from a business?",
+      "What are the requirements for a business to maintain documents or records under the Consumer Protection Act?",
+      "How long must a business keep documents or records related to a consumer transaction?"
+    ]
+  },
+  "derived_from": [
+    "alias.document_or_record"
+  ],
+  "related_concepts": [
+    "alias.document_or_record"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "document",
+      "record",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "documentation",
+      "files",
+      "papers",
+      "paperwork"
+    ],
+    "user_queries": [
       "What is document or record?",
       "How does document or record work?",
       "Can you explain document or record?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH3-S19-3",
-    "evidence.document_record"
-  ],
-  "related_concepts": [
-    "evidence.document_record"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

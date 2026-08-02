@@ -1,15 +1,15 @@
 {
   "concept_id": "intent.appeal_time_limit",
   "concept_type": "intent",
-  "title": "Questions about Appeal time limit",
-  "description": "Natural language queries a user may ask about: Appeal time limit",
+  "title": "Questions about Appeal Time Limit",
+  "description": "Natural language queries a user may ask about: Appeal Time Limit",
   "content": {
     "queries": [
-      "How long do I have to file an appeal?",
-      "How long does the opposite party have to respond?",
-      "What is the time limit for the opposite party to reply?",
-      "time limit to apply for review",
-      "What is the time limit for filing an appeal under this section?"
+      "How long do I have to file an appeal against a decision made by the consumer forum?",
+      "What is the time limit for filing an appeal against a consumer court judgment?",
+      "Can the appeal time limit be extended in special circumstances?",
+      "What are the consequences of missing the appeal time limit?",
+      "How does the appeal time limit affect my right to seek further redress?"
     ]
   },
   "derived_from": [
@@ -24,15 +24,45 @@
     "CPA2019-CH4-S67",
     "CPA2019-CH4-S73-3",
     "CPA2019-CH8-S105-1",
-    "timeline.thirty_days"
+    "timeline.thirty_days",
+    "alias.appeal_time_limit"
   ],
   "related_concepts": [
-    "timeline.thirty_days"
+    "alias.appeal_time_limit"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "appeal",
+      "time",
+      "limit",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "time limit for appeal",
+      "time to respond",
+      "opposite party response",
+      "time limit for application",
+      "filing appeal",
+      "appeal deadline"
+    ],
+    "user_queries": [
+      "How long do I have to file an appeal?",
+      "How long does the opposite party have to respond?",
+      "What is the time limit for the opposite party to reply?",
+      "time limit to apply for review",
+      "What is the time limit for filing an appeal under this section?",
+      "What is laying of rules and regulations before parliament?",
+      "How does laying of rules and regulations before parliament work?",
+      "Can you explain laying of rules and regulations before parliament?",
+      "What is acknowledgment?",
+      "How does acknowledgment work?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

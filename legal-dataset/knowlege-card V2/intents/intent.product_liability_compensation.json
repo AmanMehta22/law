@@ -5,21 +5,43 @@
   "description": "Natural language queries a user may ask about: Product liability compensation",
   "content": {
     "queries": [
-      "What is the punishment for product liability compensation?",
-      "What happens if I commit product liability compensation?"
+      "What kind of compensation can I expect for a defective product?",
+      "How does the product liability compensation process work in case of a faulty product?",
+      "Can I claim product liability compensation for a product that caused harm to me?",
+      "What are the eligibility criteria for product liability compensation?",
+      "How long do I have to file a claim for product liability compensation?"
     ]
   },
   "derived_from": [
-    "CPA2019-CH4-S39-1",
-    "penalty.product_liability_compensation"
+    "alias.product_liability_compensation"
   ],
   "related_concepts": [
-    "penalty.product_liability_compensation"
+    "alias.product_liability_compensation"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "product",
+      "liability",
+      "compensation",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "defective product compensation",
+      "manufacturer liability",
+      "producer compensation",
+      "product liability damages"
+    ],
+    "user_queries": [
+      "What is product liability compensation?",
+      "How does product liability compensation work?",
+      "Can you explain product liability compensation?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

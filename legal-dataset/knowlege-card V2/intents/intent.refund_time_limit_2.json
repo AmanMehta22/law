@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.refund_time_limit_2",
+  "concept_type": "intent",
+  "title": "Questions about Refund time limit",
+  "description": "Natural language queries a user may ask about: Refund time limit",
+  "content": {
+    "queries": [
+      "What happens if the seller does not provide a refund within the specified time limit?",
+      "Can I claim compensation if the refund is delayed beyond the time limit?",
+      "How does the refund time limit apply in cases where the product is under warranty?",
+      "Is the refund time limit the same for online and offline purchases?",
+      "Can the refund time limit be extended in exceptional circumstances?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-47",
+    "timeline.a_period"
+  ],
+  "related_concepts": [
+    "timeline.a_period"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "refund",
+      "time",
+      "limit",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "promotion",
+      "sale"
+    ],
+    "user_queries": [
+      "What is refund time limit?",
+      "How does refund time limit work?",
+      "Can you explain refund time limit?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "concept_id": "intent.opportunity_to_express_views_2",
+  "concept_type": "intent",
+  "title": "Questions about Opportunity to express views",
+  "description": "Natural language queries a user may ask about: Opportunity to express views",
+  "content": {
+    "queries": [
+      "What is opportunity to express views?",
+      "How does opportunity to express views work?",
+      "Can you explain opportunity to express views?",
+      "What is central authority must follow directions?",
+      "How does central authority must follow directions work?",
+      "Can you explain central authority must follow directions?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S99-1",
+    "exception.the_central_authority_shall_be_given_an_opportunity_to_expre"
+  ],
+  "related_concepts": [
+    "exception.the_central_authority_shall_be_given_an_opportunity_to_expre"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "opportunity",
+      "express",
+      "views",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "Central Government's power"
+    ],
+    "user_queries": [
+      "What is opportunity to express views?",
+      "How does opportunity to express views work?",
+      "Can you explain opportunity to express views?",
+      "What is central authority must follow directions?",
+      "How does central authority must follow directions work?",
+      "Can you explain central authority must follow directions?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

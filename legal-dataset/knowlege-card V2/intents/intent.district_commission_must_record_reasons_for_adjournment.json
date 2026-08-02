@@ -1,24 +1,48 @@
 {
   "concept_id": "intent.district_commission_must_record_reasons_for_adjournment",
   "concept_type": "intent",
-  "title": "Questions about District Commission must record reasons for adjournment",
-  "description": "Natural language queries a user may ask about: District Commission must record reasons for adjournment",
+  "title": "Questions about District Commission Must Record Reasons For Adjournment",
+  "description": "Natural language queries a user may ask about: District Commission Must Record Reasons For Adjournment",
   "content": {
     "queries": [
-      "adjournment reasons"
+      "Why is it necessary for the District Commission to record reasons for adjournment?",
+      "How does the District Commission document the reasons for granting an adjournment?",
+      "Can the District Commission grant an adjournment without recording the reasons?",
+      "What are the implications of the District Commission's failure to record reasons for adjournment?",
+      "Are the recorded reasons for adjournment made available to the parties involved?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-7",
-    "obligation.district_commission_must_record_reasons_for_adjournment_in_w"
+    "obligation.district_commission_must_record_reasons_for_adjournment_in_w",
+    "alias.district_commission_must_record_reasons_for_adjournment"
   ],
   "related_concepts": [
-    "obligation.district_commission_must_record_reasons_for_adjournment_in_w"
+    "alias.district_commission_must_record_reasons_for_adjournment"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commission",
+      "record",
+      "reasons",
+      "adjournment",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "District Commission",
+      "Consumer Forum"
+    ],
+    "user_queries": [
+      "adjournment reasons",
+      "What is adjournment exception?",
+      "How does adjournment exception work?",
+      "Can you explain adjournment exception?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

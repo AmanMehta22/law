@@ -1,0 +1,56 @@
+{
+  "concept_id": "intent.right_to_reimbursement_2",
+  "concept_type": "intent",
+  "title": "Questions about Right to Reimbursement",
+  "description": "Natural language queries a user may ask about: Right to Reimbursement",
+  "content": {
+    "queries": [
+      "What is right to reimbursement?",
+      "How does right to reimbursement work?",
+      "Can you explain right to reimbursement?"
+    ]
+  },
+  "derived_from": [
+    "right.right_to_reimbursement",
+    "example.right_to_reimbursement"
+  ],
+  "related_concepts": [
+    "example.right_to_reimbursement"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "right",
+      "reimbursement",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "right to refund"
+    ],
+    "user_queries": [
+      "can I get my money back",
+      "What is central authority must give opportunity of being heard?",
+      "How does central authority must give opportunity of being heard work?",
+      "Can you explain central authority must give opportunity of being heard?",
+      "What is right to reimbursement?",
+      "How does right to reimbursement work?",
+      "Can you explain right to reimbursement?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

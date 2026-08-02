@@ -11,18 +11,38 @@
     ]
   },
   "derived_from": [
-    "CPA2019-CH4-S37-1",
-    "CPA2019-CH4-S38-12",
-    "CPA2019-CH4-S47-2",
-    "exception.does_not_include_a_person_who_obtains_goods_for_resale_or_co"
+    "alias.consumer_excludes_commercial_purpose"
   ],
   "related_concepts": [
-    "exception.does_not_include_a_person_who_obtains_goods_for_resale_or_co"
+    "alias.consumer_excludes_commercial_purpose"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "consumer",
+      "excludes",
+      "commercial",
+      "purpose",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "excluding business use",
+      "individual consumer",
+      "non-business purpose",
+      "personal use"
+    ],
+    "user_queries": [
+      "What is consumer excludes commercial purpose?",
+      "How does consumer excludes commercial purpose work?",
+      "Can you explain consumer excludes commercial purpose?",
+      "What is consumer?",
+      "How does consumer work?",
+      "Can you explain consumer?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

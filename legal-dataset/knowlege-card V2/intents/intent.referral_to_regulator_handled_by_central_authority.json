@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.referral_to_regulator_handled_by_central_authority",
+  "concept_type": "intent",
+  "title": "Questions about Referral to Regulator handled by Central Authority",
+  "description": "Natural language queries a user may ask about: Referral to Regulator handled by Central Authority",
+  "content": {
+    "queries": [
+      "What is referral to regulator handled by central authority?",
+      "How does referral to regulator handled by central authority work?",
+      "Can you explain referral to regulator handled by central authority?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S19-2",
+    "relationship.procedure_referral_to_regulator_handled_by_authority_central_authority"
+  ],
+  "related_concepts": [
+    "relationship.procedure_referral_to_regulator_handled_by_authority_central_authority"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "referral",
+      "regulator",
+      "handled",
+      "central",
+      "authority",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is referral to regulator handled by central authority?",
+      "How does referral to regulator handled by central authority work?",
+      "Can you explain referral to regulator handled by central authority?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

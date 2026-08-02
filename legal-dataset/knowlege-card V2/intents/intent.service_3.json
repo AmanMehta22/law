@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.service_3",
+  "concept_type": "intent",
+  "title": "Questions about Service",
+  "description": "Natural language queries a user may ask about: Service",
+  "content": {
+    "queries": [
+      "Are all services covered under the Consumer Protection Act?",
+      "How does the Act differentiate between various types of services?",
+      "Can a consumer complain about a service that is not up to standards?",
+      "What are the consequences for a service provider who fails to deliver adequate service?",
+      "Does the Act provide any remedies for consumers who have been affected by poor service?"
+    ]
+  },
+  "derived_from": [
+    "definition.service",
+    "example.service"
+  ],
+  "related_concepts": [
+    "example.service"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "service",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "how"
+    ],
+    "aliases": [
+      "facility",
+      "provision"
+    ],
+    "user_queries": [
+      "What is service?",
+      "How does service work?",
+      "Can you explain service?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

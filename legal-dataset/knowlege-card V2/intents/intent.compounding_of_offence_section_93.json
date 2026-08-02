@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.compounding_of_offence_section_93",
+  "concept_type": "intent",
+  "title": "Questions about Compounding of offence (Section 93)",
+  "description": "Natural language queries a user may ask about: Compounding of offence (Section 93)",
+  "content": {
+    "queries": [
+      "What is compounding of offence (section 93)?",
+      "How does compounding of offence (section 93) work?",
+      "Can you explain compounding of offence (section 93)?"
+    ]
+  },
+  "derived_from": [
+    "penalty.offence_under_sub_section_1",
+    "example.compounding_of_offence_2"
+  ],
+  "related_concepts": [
+    "example.compounding_of_offence_2"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "compounding",
+      "offence",
+      "section",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is compounding of offence (section 93)?",
+      "How does compounding of offence (section 93) work?",
+      "Can you explain compounding of offence (section 93)?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

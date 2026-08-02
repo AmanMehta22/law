@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.negligent_service",
+  "concept_type": "intent",
+  "title": "Questions about Negligent Service",
+  "description": "Natural language queries a user may ask about: Negligent Service",
+  "content": {
+    "queries": [
+      "What is negligent service?",
+      "How does negligent service work?",
+      "Can you explain negligent service?",
+      "What are the consequences of negligent service?",
+      "How does negligent service affect consumer rights?"
+    ]
+  },
+  "derived_from": [
+    "penalty.negligence",
+    "example.negligent_service"
+  ],
+  "related_concepts": [
+    "example.negligent_service"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "negligent",
+      "service",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is negligent service?",
+      "How does negligent service work?",
+      "Can you explain negligent service?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

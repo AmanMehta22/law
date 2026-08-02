@@ -5,22 +5,41 @@
   "description": "Natural language queries a user may ask about: Government must utilise funds",
   "content": {
     "queries": [
+      "What funds must the government utilise for consumer protection?",
+      "How must the government use funds allocated for consumer protection?",
+      "What are the consequences if the government fails to utilise funds for consumer protection?",
+      "Can the government utilise funds for consumer protection in any way they choose?",
+      "How are the government's funds for consumer protection allocated and managed?"
+    ]
+  },
+  "derived_from": [
+    "alias.government_must_utilise_funds"
+  ],
+  "related_concepts": [
+    "alias.government_must_utilise_funds"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "government",
+      "utilise",
+      "funds",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "government fund",
+      "government use of funds"
+    ],
+    "user_queries": [
       "What is government must utilise funds?",
       "How does government must utilise funds work?",
       "Can you explain government must utilise funds?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S39-2",
-    "obligation.government_must_utilise_funds_in_a_prescribed_manner"
-  ],
-  "related_concepts": [
-    "obligation.government_must_utilise_funds_in_a_prescribed_manner"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

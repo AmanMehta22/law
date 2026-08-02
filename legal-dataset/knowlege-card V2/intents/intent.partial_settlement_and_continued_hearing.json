@@ -5,21 +5,47 @@
   "description": "Natural language queries a user may ask about: Partial Settlement and Continued Hearing",
   "content": {
     "queries": [
-      "How do I file partial settlement and continued hearing?",
-      "What are the steps for partial settlement and continued hearing?"
+      "What happens when a partial settlement is reached during a hearing?",
+      "Can a hearing continue even after a partial settlement has been agreed upon?",
+      "How does a partial settlement affect the overall outcome of a case?",
+      "What are the benefits of continuing a hearing after a partial settlement has been reached?",
+      "Can a partial settlement be renegotiated or modified during the continued hearing?"
     ]
   },
   "derived_from": [
     "CPA2019-CH5-S81-2",
-    "procedure.partial_settlement_and_continued_hearing"
+    "procedure.partial_settlement_and_continued_hearing",
+    "alias.partial_settlement_and_continued_hearing"
   ],
   "related_concepts": [
-    "procedure.partial_settlement_and_continued_hearing"
+    "alias.partial_settlement_and_continued_hearing"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "partial",
+      "settlement",
+      "continued",
+      "hearing",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is partial settlement and continued hearing?",
+      "How does partial settlement and continued hearing work?",
+      "Can you explain partial settlement and continued hearing?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,0 +1,61 @@
+{
+  "concept_id": "intent.central_government_central_authority_or_state_government_must_allow_filing__2",
+  "concept_type": "intent",
+  "title": "Questions about Central Government, Central Authority or State Government must allow filing of complaint",
+  "description": "Natural language queries a user may ask about: Central Government, Central Authority or State Government must allow filing of complaint",
+  "content": {
+    "queries": [
+      "Are there any fees associated with filing a complaint with the central government or state government?",
+      "Can I file a complaint with the central government or state government online?",
+      "What documentation is required to file a complaint with the central government or state government?",
+      "How do I know if my complaint is eligible for filing with the central government or state government?",
+      "Can I appeal a decision made by the central government or state government on my complaint?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S35-1",
+    "obligation.central_government_central_authority_or_state_government_mus"
+  ],
+  "related_concepts": [
+    "obligation.central_government_central_authority_or_state_government_mus"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "government",
+      "authority",
+      "state",
+      "allow",
+      "filing",
+      "complaint",
+      "natural"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is central government, central authority or state government must allow filing of complaint?",
+      "How does central government, central authority or state government must allow filing of complaint work?",
+      "Can you explain central government, central authority or state government must allow filing of complaint?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

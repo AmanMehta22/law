@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Return of seized documents time limit",
   "content": {
     "queries": [
+      "How long does it take to return seized documents under the Consumer Protection Act?",
+      "What is the time limit for returning documents seized during a consumer investigation?",
+      "Can a consumer appeal if their seized documents are not returned within the time limit?",
+      "What are the consequences for not returning seized documents within the specified time limit?",
+      "Does the time limit for returning seized documents apply to all types of consumer investigations?"
+    ]
+  },
+  "derived_from": [
+    "alias.return_of_seized_documents_time_limit"
+  ],
+  "related_concepts": [
+    "alias.return_of_seized_documents_time_limit"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "return",
+      "seized",
+      "documents",
+      "time",
+      "limit",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "document return deadline",
+      "return of confiscated documents timeline",
+      "seized document return period",
+      "timeframe for document return"
+    ],
+    "user_queries": [
       "What is return of seized documents time limit?",
       "How does return of seized documents time limit work?",
       "Can you explain return of seized documents time limit?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH3-S22-3",
-    "timeline.twenty_days"
-  ],
-  "related_concepts": [
-    "timeline.twenty_days"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

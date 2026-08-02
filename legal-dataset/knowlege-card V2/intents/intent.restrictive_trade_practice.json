@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Restrictive Trade Practice",
   "content": {
     "queries": [
-      "What is a restrictive trade practice?",
-      "What are examples of unfair business practices?",
-      "How does the Consumer Protection Act regulate trade practices?"
+      "What constitutes a restrictive trade practice under the Consumer Protection Act?",
+      "How can a consumer identify a restrictive trade practice?",
+      "What are the consequences of engaging in restrictive trade practices?",
+      "Can a consumer report a restrictive trade practice to the authorities?",
+      "How does the Consumer Protection Act regulate restrictive trade practices?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-41",
-    "definition.restrictive_trade_practice"
+    "definition.restrictive_trade_practice",
+    "alias.restrictive_trade_practice"
   ],
   "related_concepts": [
-    "definition.restrictive_trade_practice"
+    "alias.restrictive_trade_practice"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "restrictive",
+      "trade",
+      "practice",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "anti-competitive practice",
+      "unfair trade practice"
+    ],
+    "user_queries": [
+      "What is restrictive trade practice?",
+      "How does restrictive trade practice work?",
+      "Can you explain restrictive trade practice?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

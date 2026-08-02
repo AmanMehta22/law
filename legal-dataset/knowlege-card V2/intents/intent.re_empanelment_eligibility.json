@@ -11,16 +11,38 @@
     ]
   },
   "derived_from": [
-    "CPA2019-CH5-S75-3",
-    "exception.shall_be_eligible_subject_to_such_conditions_as_may_be_speci"
+    "alias.re_empanelment_eligibility"
   ],
   "related_concepts": [
-    "exception.shall_be_eligible_subject_to_such_conditions_as_may_be_speci"
+    "alias.re_empanelment_eligibility"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "empanelment",
+      "eligibility",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "panel re-appointment",
+      "re-eligibility",
+      "re-qualification",
+      "re-selection criteria"
+    ],
+    "user_queries": [
+      "What is re-empanelment eligibility?",
+      "How does re-empanelment eligibility work?",
+      "Can you explain re-empanelment eligibility?",
+      "What is district commission references questions about term of office?",
+      "How does district commission references questions about term of office work?",
+      "Can you explain district commission references questions about term of office?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

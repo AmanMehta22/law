@@ -5,9 +5,11 @@
   "description": "Natural language queries a user may ask about: Director-General",
   "content": {
     "queries": [
-      "What is director-general?",
-      "How does director-general work?",
-      "Can you explain director-general?"
+      "What is the primary function of a director-general in a company?",
+      "How does a director-general oversee the implementation of company policies?",
+      "Can a director-general make decisions without consulting other directors?",
+      "What is the relationship between a director-general and other senior executives in a company?",
+      "How does a director-general ensure compliance with regulatory requirements?"
     ]
   },
   "derived_from": [
@@ -24,15 +26,37 @@
     "CPA2019-CH7-S93",
     "CPA2019-CH8-S104-2",
     "CPA2019-CH8-S95",
-    "authority.director_general"
+    "authority.director_general",
+    "definition.director_general",
+    "alias.director_general"
   ],
   "related_concepts": [
-    "authority.director_general"
+    "alias.director_general"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "director",
+      "general",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "DG"
+    ],
+    "user_queries": [
+      "What is director-general?",
+      "How does director-general work?",
+      "Can you explain director-general?",
+      "What is additional director-general?",
+      "How does additional director-general work?",
+      "Can you explain additional director-general?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

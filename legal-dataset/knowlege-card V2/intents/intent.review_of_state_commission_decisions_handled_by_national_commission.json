@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.review_of_state_commission_decisions_handled_by_national_commission",
+  "concept_type": "intent",
+  "title": "Questions about Review of State Commission decisions handled by National Commission",
+  "description": "Natural language queries a user may ask about: Review of State Commission decisions handled by National Commission",
+  "content": {
+    "queries": [
+      "What is review of state commission decisions handled by national commission?",
+      "How does review of state commission decisions handled by national commission work?",
+      "Can you explain review of state commission decisions handled by national commission?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S58-1",
+    "relationship.procedure_review_of_state_commission_decisions_handled_by_authority_na"
+  ],
+  "related_concepts": [
+    "relationship.procedure_review_of_state_commission_decisions_handled_by_authority_na"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "review",
+      "state",
+      "commission",
+      "decisions",
+      "handled",
+      "national",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is review of state commission decisions handled by national commission?",
+      "How does review of state commission decisions handled by national commission work?",
+      "Can you explain review of state commission decisions handled by national commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

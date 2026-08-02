@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.acknowledgment_due_2",
+  "concept_type": "intent",
+  "title": "Questions about Acknowledgment due",
+  "description": "Natural language queries a user may ask about: Acknowledgment due",
+  "content": {
+    "queries": [
+      "What is the process for obtaining acknowledgment due for a complaint filed online?",
+      "How do I know if my complaint is eligible for acknowledgment due?",
+      "Can I appeal if my request for acknowledgment due is rejected?",
+      "What documents are required to receive acknowledgment due for a consumer complaint?",
+      "Is there a fee for obtaining acknowledgment due for a consumer complaint?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S65-1",
+    "evidence.registered_post_acknowledgment_due"
+  ],
+  "related_concepts": [
+    "evidence.registered_post_acknowledgment_due"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "acknowledgment",
+      "due",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is acknowledgment due?",
+      "How does acknowledgment due work?",
+      "Can you explain acknowledgment due?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

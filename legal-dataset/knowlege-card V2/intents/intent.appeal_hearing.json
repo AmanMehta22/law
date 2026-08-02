@@ -5,21 +5,45 @@
   "description": "Natural language queries a user may ask about: Appeal Hearing",
   "content": {
     "queries": [
-      "How to appeal to State Commission",
-      "What is the procedure for appeal to National Commission"
+      "What is the process for filing an appeal against a decision of the consumer forum?",
+      "How long does a consumer have to file an appeal after the initial decision?",
+      "Can a consumer appeal a decision if they were not present at the initial hearing?",
+      "What are the grounds for appealing a decision made by the consumer forum?",
+      "Is there a fee for filing an appeal against a consumer forum decision?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S52",
-    "procedure.appeal_hearing"
+    "procedure.appeal_hearing",
+    "alias.appeal_hearing"
   ],
   "related_concepts": [
-    "procedure.appeal_hearing"
+    "alias.appeal_hearing"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "appeal",
+      "hearing",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "appeal procedure",
+      "hearing of appeal"
+    ],
+    "user_queries": [
+      "How to appeal to State Commission",
+      "What is the procedure for appeal to National Commission",
+      "What is adjournment exception?",
+      "How does adjournment exception work?",
+      "Can you explain adjournment exception?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -5,22 +5,48 @@
   "description": "Natural language queries a user may ask about: Mediation",
   "content": {
     "queries": [
-      "what is mediation in consumer law",
-      "how does mediation work in consumer disputes",
-      "what is the purpose of mediation in consumer protection"
+      "What is the process of mediation in the district commission?",
+      "How does mediation work in consumer disputes?",
+      "Can I request mediation for my consumer complaint?",
+      "What are the benefits of mediation in consumer cases?",
+      "Is mediation mandatory for consumer disputes in the district commission?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-25",
-    "definition.mediation"
+    "CPA2019-CH5-S79-1",
+    "CPA2019-CH5-S79-2",
+    "CPA2019-CH5-S79-3",
+    "CPA2019-CH8-S101-2",
+    "definition.mediation",
+    "procedure.mediation",
+    "alias.mediation"
   ],
   "related_concepts": [
-    "definition.mediation"
+    "alias.mediation"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "mediation",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "district"
+    ],
+    "aliases": [
+      "alternative dispute resolution",
+      "ADR"
+    ],
+    "user_queries": [
+      "What is district commission references mediation?",
+      "How does district commission references mediation work?",
+      "Can you explain district commission references mediation?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

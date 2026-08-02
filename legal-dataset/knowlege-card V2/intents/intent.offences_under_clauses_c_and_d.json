@@ -5,21 +5,45 @@
   "description": "Natural language queries a user may ask about: Offences under clauses (c) and (d)",
   "content": {
     "queries": [
-      "What is the punishment for offences under clauses (c) and (d)?",
-      "What happens if I commit offences under clauses (c) and (d)?"
+      "What are the penalties for offences under clauses c and d of the Consumer Protection Act?",
+      "Can a company be held liable for offences under clauses c and d?",
+      "How do clauses c and d of the Act protect consumer rights?",
+      "What are the specific offences covered under clauses c and d of the Act?",
+      "Are there any exceptions to the offences listed under clauses c and d?"
     ]
   },
   "derived_from": [
-    "CPA2019-CH7-S90-2",
-    "penalty.offences_under_clauses_c_and_d"
+    "alias.offences_under_clauses_c_and_d"
   ],
   "related_concepts": [
-    "penalty.offences_under_clauses_c_and_d"
+    "alias.offences_under_clauses_c_and_d"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "offences",
+      "clauses",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "breaches under clauses c and d",
+      "crimes under clauses c and d",
+      "offenses under section c and d",
+      "violations of clauses c and d"
+    ],
+    "user_queries": [
+      "What is the punishment for offences under clauses (c) and (d)?",
+      "What happens if I commit offences under clauses (c) and (d)?",
+      "What is offences under clauses (c) and (d)?",
+      "How does offences under clauses (c) and (d) work?",
+      "Can you explain offences under clauses (c) and (d)?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.sufficient_cause_2",
+  "concept_type": "intent",
+  "title": "Questions about Sufficient cause",
+  "description": "Natural language queries a user may ask about: Sufficient cause",
+  "content": {
+    "queries": [
+      "How does the concept of sufficient cause impact the outcome of a consumer dispute?",
+      "Can a consumer appeal a decision if the court finds no sufficient cause?",
+      "What is the difference between sufficient cause and a frivolous complaint?",
+      "How does the Consumer Protection Act define sufficient cause?",
+      "Is sufficient cause a subjective or objective determination in consumer cases?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S69-2",
+    "evidence.sufficient_cause"
+  ],
+  "related_concepts": [
+    "evidence.sufficient_cause"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "sufficient",
+      "cause",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "applicant",
+      "consumer"
+    ],
+    "user_queries": [
+      "What is sufficient cause?",
+      "How does sufficient cause work?",
+      "Can you explain sufficient cause?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

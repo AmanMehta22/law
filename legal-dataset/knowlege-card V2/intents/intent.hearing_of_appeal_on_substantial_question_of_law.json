@@ -5,21 +5,45 @@
   "description": "Natural language queries a user may ask about: Hearing of Appeal on Substantial Question of Law",
   "content": {
     "queries": [
-      "How do I file hearing of appeal on substantial question of law?",
-      "What are the steps for hearing of appeal on substantial question of law?"
+      "What is the process for a hearing of appeal on a substantial question of law under the Consumer Protection Act?",
+      "How do I file an appeal on a substantial question of law related to consumer protection?",
+      "What are the grounds for a hearing of appeal on a substantial question of law in consumer protection cases?",
+      "Can a hearing of appeal on a substantial question of law be appealed further?",
+      "How long does a hearing of appeal on a substantial question of law typically take?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S51-4",
-    "procedure.hearing_of_appeal_on_substantial_question_of_law"
+    "procedure.hearing_of_appeal_on_substantial_question_of_law",
+    "alias.hearing_of_appeal_on_substantial_question_of_law"
   ],
   "related_concepts": [
-    "procedure.hearing_of_appeal_on_substantial_question_of_law"
+    "alias.hearing_of_appeal_on_substantial_question_of_law"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "hearing",
+      "appeal",
+      "substantial",
+      "question",
+      "law",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "appeal hearing on substantial law question",
+      "appeal on point of law",
+      "hearing of legal appeal",
+      "substantial question of law appeal"
+    ],
+    "user_queries": [
+      "What is hearing of appeal on substantial question of law?",
+      "How does hearing of appeal on substantial question of law work?",
+      "Can you explain hearing of appeal on substantial question of law?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.officers_and_employees_must_discharge_functions_under_superintendence_4",
+  "concept_type": "intent",
+  "title": "Questions about Officers and employees must discharge functions under superintendence",
+  "description": "Natural language queries a user may ask about: Officers and employees must discharge functions under superintendence",
+  "content": {
+    "queries": [
+      "Are officers and employees required to follow specific guidelines under superintendence?",
+      "How do officers and employees benefit from discharging functions under superintendence?",
+      "Can superintendence be waived for certain officers and employees?",
+      "What happens if an officer or employee fails to comply with superintendence requirements?",
+      "Do officers and employees have any recourse if they disagree with superintendence decisions?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S46-2",
+    "obligation.officers_and_other_employees_of_the_state_commission_dischar"
+  ],
+  "related_concepts": [
+    "obligation.officers_and_other_employees_of_the_state_commission_dischar"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "officers",
+      "employees",
+      "discharge",
+      "functions",
+      "superintendence",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "employees",
+      "officers"
+    ],
+    "user_queries": [
+      "What is officers and employees must discharge functions under superintendence?",
+      "How does officers and employees must discharge functions under superintendence work?",
+      "Can you explain officers and employees must discharge functions under superintendence?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

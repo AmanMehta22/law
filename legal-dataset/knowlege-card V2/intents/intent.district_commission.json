@@ -5,9 +5,11 @@
   "description": "Natural language queries a user may ask about: District Commission",
   "content": {
     "queries": [
-      "consumer dispute resolution",
-      "What are the powers of District Commission?",
-      "file complaint in district commission"
+      "What is the role of a District Commission in consumer disputes?",
+      "How do I contact the District Commission for a consumer complaint?",
+      "Can the District Commission provide an acknowledgment for my complaint?",
+      "What is the process for filing a complaint with the District Commission?",
+      "Is the District Commission responsible for resolving consumer disputes at the district level?"
     ]
   },
   "derived_from": [
@@ -76,15 +78,38 @@
     "CPA2019-CH8-S103-2",
     "CPA2019-CH8-S95",
     "CPA2019-CH8-S98",
-    "authority.district_commission"
+    "authority.district_commission",
+    "definition.district_commission",
+    "alias.district_commission"
   ],
   "related_concepts": [
-    "authority.district_commission"
+    "alias.district_commission"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commission",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "DC",
+      "District Consumer Commission"
+    ],
+    "user_queries": [
+      "What is district commission?",
+      "How does district commission work?",
+      "Can you explain district commission?",
+      "What is acknowledgment?",
+      "How does acknowledgment work?",
+      "Can you explain acknowledgment?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

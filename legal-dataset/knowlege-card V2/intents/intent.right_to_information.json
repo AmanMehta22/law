@@ -5,21 +5,47 @@
   "description": "Natural language queries a user may ask about: Right to Information",
   "content": {
     "queries": [
-      "what information should I get about a product"
+      "What are my rights as a consumer to get information about a product?",
+      "How can I get accurate information about a product before buying it?",
+      "Can I ask the seller for more information about a product's features?",
+      "What kind of information should a seller provide to me about a product?",
+      "How does the Right to Information protect me as a consumer?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-11",
     "CPA2019-CH1-S2-9",
-    "right.right_to_information"
+    "right.right_to_information",
+    "alias.right_to_information"
   ],
   "related_concepts": [
-    "right.right_to_information"
+    "alias.right_to_information"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "right",
+      "information",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "right to know"
+    ],
+    "user_queries": [
+      "what information should I get about a product",
+      "What is requesting information about a mobile plan?",
+      "How does requesting information about a mobile plan work?",
+      "Can you explain requesting information about a mobile plan?",
+      "What is consumer rights?",
+      "How does consumer rights work?",
+      "Can you explain consumer rights?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

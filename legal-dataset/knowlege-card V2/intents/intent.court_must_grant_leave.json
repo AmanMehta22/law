@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Court must grant leave",
   "content": {
     "queries": [
+      "Under what circumstances will the court grant leave to a consumer?",
+      "Can a consumer appeal if the court refuses to grant leave?",
+      "What is the process for a court to grant leave in a consumer dispute?",
+      "How long does it take for a court to decide whether to grant leave?",
+      "What are the implications of a court granting leave in a consumer case?"
+    ]
+  },
+  "derived_from": [
+    "alias.court_must_grant_leave"
+  ],
+  "related_concepts": [
+    "alias.court_must_grant_leave"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "court",
+      "grant",
+      "leave",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "court permission to proceed",
+      "judicial leave",
+      "leave to appeal",
+      "permission to proceed from court"
+    ],
+    "user_queries": [
       "What is court must grant leave?",
       "How does court must grant leave work?",
       "Can you explain court must grant leave?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH8-S96-1",
-    "obligation.court_must_grant_leave_for_compounding_of_offence"
-  ],
-  "related_concepts": [
-    "obligation.court_must_grant_leave_for_compounding_of_offence"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

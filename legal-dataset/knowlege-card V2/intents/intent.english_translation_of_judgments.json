@@ -7,20 +7,40 @@
     "queries": [
       "What is english translation of judgments?",
       "How does english translation of judgments work?",
-      "Can you explain english translation of judgments?"
+      "Can you explain english translation of judgments?",
+      "What is the purpose of english translation of judgments?",
+      "How does english translation of judgments help in understanding judgments?"
     ]
   },
   "derived_from": [
-    "CPA2019-CH4-S70-1",
-    "evidence.english_translation_of_judgments"
+    "alias.english_translation_of_judgments"
   ],
   "related_concepts": [
-    "evidence.english_translation_of_judgments"
+    "alias.english_translation_of_judgments"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "english",
+      "translation",
+      "judgments",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "english version of verdicts",
+      "judgment translation",
+      "translated court decisions"
+    ],
+    "user_queries": [
+      "What is english translation of judgments?",
+      "How does english translation of judgments work?",
+      "Can you explain english translation of judgments?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

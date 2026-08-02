@@ -5,21 +5,44 @@
   "description": "Natural language queries a user may ask about: Disclosure of facts by mediators",
   "content": {
     "queries": [
-      "How do I file disclosure of facts by mediators?",
-      "What are the steps for disclosure of facts by mediators?"
+      "What are the key facts that mediators must disclose during a consumer dispute?",
+      "How do mediators ensure fair disclosure of facts in a consumer complaint?",
+      "Can a mediator refuse to disclose certain facts during the mediation process?",
+      "What happens if a mediator fails to disclose important facts in a consumer case?",
+      "Are there any specific rules governing the disclosure of facts by mediators in consumer disputes?"
     ]
   },
   "derived_from": [
     "CPA2019-CH8-S103-2",
-    "procedure.disclosure_of_facts_by_mediators"
+    "procedure.disclosure_of_facts_by_mediators",
+    "alias.disclosure_of_facts_by_mediators"
   ],
   "related_concepts": [
-    "procedure.disclosure_of_facts_by_mediators"
+    "alias.disclosure_of_facts_by_mediators"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "disclosure",
+      "facts",
+      "mediators",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "adjournment cost",
+      "cost imposition by district commission",
+      "district commission cost"
+    ],
+    "user_queries": [
+      "What is disclosure of facts by mediators?",
+      "How does disclosure of facts by mediators work?",
+      "Can you explain disclosure of facts by mediators?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

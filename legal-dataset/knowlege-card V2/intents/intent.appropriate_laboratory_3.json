@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.appropriate_laboratory_3",
+  "concept_type": "intent",
+  "title": "Questions about Appropriate Laboratory",
+  "description": "Natural language queries a user may ask about: Appropriate Laboratory",
+  "content": {
+    "queries": [
+      "What does an appropriate laboratory do?",
+      "How can I find an appropriate laboratory for testing?",
+      "What are the characteristics of an appropriate laboratory?",
+      "Can you explain the role of an appropriate laboratory in consumer protection?",
+      "How does an appropriate laboratory ensure accurate test results?"
+    ]
+  },
+  "derived_from": [
+    "definition.appropriate_laboratory",
+    "example.appropriate_laboratory"
+  ],
+  "related_concepts": [
+    "example.appropriate_laboratory"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "appropriate",
+      "laboratory",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "approved lab",
+      "recognised lab"
+    ],
+    "user_queries": [
+      "What is appropriate laboratory?",
+      "How does appropriate laboratory work?",
+      "Can you explain appropriate laboratory?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

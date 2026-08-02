@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.district_commission_must_decide_complaint_on_merits",
   "concept_type": "intent",
-  "title": "Questions about District Commission must decide complaint on merits",
-  "description": "Natural language queries a user may ask about: District Commission must decide complaint on merits",
+  "title": "Questions about District Commission Must Decide Complaint On Merits",
+  "description": "Natural language queries a user may ask about: District Commission Must Decide Complaint On Merits",
   "content": {
     "queries": [
-      "what happens if the complainant does not appear"
+      "What are the key factors that a District Commission considers when deciding a complaint on its merits?",
+      "Can a District Commission dismiss a complaint without considering its merits?",
+      "How does a District Commission weigh the evidence when deciding a complaint on its merits?",
+      "What is the standard of proof required for a District Commission to decide a complaint on its merits?",
+      "Can a consumer appeal a District Commission's decision to dismiss a complaint on its merits?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-3",
-    "obligation.district_commission_must_decide_the_complaint_on_merits"
+    "obligation.district_commission_must_decide_the_complaint_on_merits",
+    "alias.district_commission_must_decide_complaint_on_merits"
   ],
   "related_concepts": [
-    "obligation.district_commission_must_decide_the_complaint_on_merits"
+    "alias.district_commission_must_decide_complaint_on_merits"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commission",
+      "decide",
+      "complaint",
+      "merits",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "ex parte decision"
+    ],
+    "user_queries": [
+      "what happens if the complainant does not appear",
+      "What is complaint handling by district commission?",
+      "How does complaint handling by district commission work?",
+      "Can you explain complaint handling by district commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -5,21 +5,44 @@
   "description": "Natural language queries a user may ask about: Meeting of Central Council",
   "content": {
     "queries": [
-      "How do I file meeting of central council?",
-      "What are the steps for meeting of central council?"
+      "How often must the Central Council meet to observe the prescribed procedure?",
+      "What is the quorum required for a meeting of the Central Council to observe the prescribed procedure?",
+      "Can a meeting of the Central Council be conducted virtually to observe the prescribed procedure?",
+      "What matters must be discussed during a meeting of the Central Council to observe the prescribed procedure?",
+      "How are decisions made during a meeting of the Central Council to observe the prescribed procedure?"
     ]
   },
   "derived_from": [
     "CPA2019-CH2-S4-2",
-    "procedure.meeting_of_central_council"
+    "procedure.meeting_of_central_council",
+    "alias.meeting_of_central_council"
   ],
   "related_concepts": [
-    "procedure.meeting_of_central_council"
+    "alias.meeting_of_central_council"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "meeting",
+      "central",
+      "council",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "Central Consumer Council",
+      "Consumer Council",
+      "National Council"
+    ],
+    "user_queries": [
+      "What is central council must observe prescribed procedure?",
+      "How does central council must observe prescribed procedure work?",
+      "Can you explain central council must observe prescribed procedure?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

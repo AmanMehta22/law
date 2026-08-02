@@ -1,0 +1,57 @@
+{
+  "concept_id": "intent.action_taken_under_repealed_act_2",
+  "concept_type": "intent",
+  "title": "Questions about Action taken under repealed Act",
+  "description": "Natural language queries a user may ask about: Action taken under repealed Act",
+  "content": {
+    "queries": [
+      "How do I know if an action taken under the repealed Act is still applicable?",
+      "Can I still file a complaint under the repealed Act?",
+      "What are the consequences of actions taken under the repealed Act?",
+      "Are there any exceptions to the repeal of actions taken under the Act?",
+      "How does the repeal of the Act impact actions taken by consumers?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S107-2",
+    "exception.shall_be_deemed_to_have_been_done_or_taken_under_the_corresp"
+  ],
+  "related_concepts": [
+    "exception.shall_be_deemed_to_have_been_done_or_taken_under_the_corresp"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "action",
+      "taken",
+      "repealed",
+      "act",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "obsolete law application",
+      "prior law action",
+      "repealed law action",
+      "superseded law effect"
+    ],
+    "user_queries": [
+      "What is action taken under repealed act?",
+      "How does action taken under repealed act work?",
+      "Can you explain action taken under repealed act?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

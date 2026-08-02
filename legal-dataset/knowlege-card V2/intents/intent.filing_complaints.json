@@ -5,21 +5,46 @@
   "description": "Natural language queries a user may ask about: Filing Complaints",
   "content": {
     "queries": [
-      "How do I file filing complaints?",
-      "What are the steps for filing complaints?"
+      "What are the steps to file a complaint under the Consumer Protection Act?",
+      "How do I know if I have a valid complaint to file?",
+      "What information do I need to provide when filing a complaint?",
+      "Can I file a complaint online or do I need to visit a physical office?",
+      "How long does it typically take to resolve a complaint after filing?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S18-2",
-    "procedure.filing_complaints"
+    "procedure.filing_complaints",
+    "alias.filing_complaints"
   ],
   "related_concepts": [
-    "procedure.filing_complaints"
+    "alias.filing_complaints"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "filing",
+      "complaints",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "advice on consumer welfare",
+      "advising on consumer welfare",
+      "consumer rights guidance",
+      "consumer welfare advice",
+      "consumer welfare measures"
+    ],
+    "user_queries": [
+      "What is advising on consumer welfare measures?",
+      "How does advising on consumer welfare measures work?",
+      "Can you explain advising on consumer welfare measures?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

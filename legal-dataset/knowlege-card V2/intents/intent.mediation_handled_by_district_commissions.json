@@ -1,0 +1,58 @@
+{
+  "concept_id": "intent.mediation_handled_by_district_commissions",
+  "concept_type": "intent",
+  "title": "Questions about Mediation handled by District Commissions",
+  "description": "Natural language queries a user may ask about: Mediation handled by District Commissions",
+  "content": {
+    "queries": [
+      "What is mediation handled by district commissions?",
+      "How does mediation handled by district commissions work?",
+      "Can you explain mediation handled by district commissions?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S79-1",
+    "CPA2019-CH5-S79-2",
+    "CPA2019-CH5-S79-3",
+    "CPA2019-CH8-S101-2",
+    "relationship.procedure_mediation_handled_by_authority_district_commissions"
+  ],
+  "related_concepts": [
+    "relationship.procedure_mediation_handled_by_authority_district_commissions"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "mediation",
+      "handled",
+      "district",
+      "commissions",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "Consumer Arbitration",
+      "Consumer Mediator",
+      "Dispute Resolution Cell",
+      "Mediation Cell"
+    ],
+    "user_queries": [
+      "What is mediation handled by district commissions?",
+      "How does mediation handled by district commissions work?",
+      "Can you explain mediation handled by district commissions?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

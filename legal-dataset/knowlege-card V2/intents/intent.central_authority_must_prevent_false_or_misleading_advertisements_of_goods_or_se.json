@@ -1,26 +1,46 @@
 {
   "concept_id": "intent.central_authority_must_prevent_false_or_misleading_advertisements_of_goods_or_se",
   "concept_type": "intent",
-  "title": "Questions about Central Authority must prevent false or misleading advertisements of goods or services",
-  "description": "Natural language queries a user may ask about: Central Authority must prevent false or misleading advertisements of goods or services",
+  "title": "Questions about Central Authority Must Prevent False Or Misleading Advertisements Of Goods Or Services",
+  "description": "Natural language queries a user may ask about: Central Authority Must Prevent False Or Misleading Advertisements Of Goods Or Services",
   "content": {
     "queries": [
-      "What is central authority must prevent false or misleading advertisements of goods or services?",
-      "How does central authority must prevent false or misleading advertisements of goods or services work?",
-      "Can you explain central authority must prevent false or misleading advertisements of goods or services?"
+      "What measures can the Central Authority take to prevent false or misleading advertisements of goods or services?",
+      "How does the Central Authority monitor and regulate advertisements to prevent false or misleading claims?",
+      "Can the Central Authority impose penalties on companies that engage in false or misleading advertising?",
+      "What is the process for consumers to report false or misleading advertisements to the Central Authority?",
+      "How does the Central Authority ensure that companies comply with regulations regarding advertisements?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S18-1",
-    "obligation.central_authority_ensure_that_no_false_or_misleading_adverti"
+    "obligation.central_authority_ensure_that_no_false_or_misleading_adverti",
+    "alias.central_authority_must_prevent_false_or_misleading_advertisements_of_goods_or_se"
   ],
   "related_concepts": [
-    "obligation.central_authority_ensure_that_no_false_or_misleading_adverti"
+    "alias.central_authority_must_prevent_false_or_misleading_advertisements_of_goods_or_se"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "authority",
+      "prevent",
+      "false",
+      "misleading",
+      "advertisements",
+      "goods",
+      "services"
+    ],
+    "aliases": [
+      "advertisements"
+    ],
+    "user_queries": [
+      "What is central authority must prevent false or misleading advertisements of goods or services?",
+      "How does central authority must prevent false or misleading advertisements of goods or services work?",
+      "Can you explain central authority must prevent false or misleading advertisements of goods or services?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

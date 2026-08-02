@@ -1,24 +1,48 @@
 {
   "concept_id": "intent.government_must_prescribe_persons_for_consumer_mediation_cell",
   "concept_type": "intent",
-  "title": "Questions about Government must prescribe persons for consumer mediation cell",
-  "description": "Natural language queries a user may ask about: Government must prescribe persons for consumer mediation cell",
+  "title": "Questions about Government Must Prescribe Persons For Consumer Mediation Cell",
+  "description": "Natural language queries a user may ask about: Government Must Prescribe Persons For Consumer Mediation Cell",
   "content": {
     "queries": [
-      "Who decides the members of a consumer mediation cell?"
+      "Who prescribes the persons for the Consumer Mediation Cell?",
+      "What are the qualifications required for persons to be prescribed for the Consumer Mediation Cell?",
+      "How does the government ensure that the prescribed persons are impartial and fair?",
+      "What is the role of the prescribed persons in the Consumer Mediation Cell?",
+      "Can the government change the persons prescribed for the Consumer Mediation Cell at any time?"
     ]
   },
   "derived_from": [
     "CPA2019-CH5-S74-3",
-    "obligation.government_must_prescribe_persons_for_consumer_mediation_cel"
+    "obligation.government_must_prescribe_persons_for_consumer_mediation_cel",
+    "alias.government_must_prescribe_persons_for_consumer_mediation_cell"
   ],
   "related_concepts": [
-    "obligation.government_must_prescribe_persons_for_consumer_mediation_cel"
+    "alias.government_must_prescribe_persons_for_consumer_mediation_cell"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "government",
+      "prescribe",
+      "persons",
+      "consumer",
+      "mediation",
+      "cell",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "specify members",
+      "define composition"
+    ],
+    "user_queries": [
+      "Who decides the members of a consumer mediation cell?",
+      "What is district commission references consumer mediation cell?",
+      "How does district commission references consumer mediation cell work?",
+      "Can you explain district commission references consumer mediation cell?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

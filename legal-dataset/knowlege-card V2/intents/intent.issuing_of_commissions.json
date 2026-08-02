@@ -5,21 +5,45 @@
   "description": "Natural language queries a user may ask about: Issuing of commissions",
   "content": {
     "queries": [
-      "How do I file issuing of commissions?",
-      "What are the steps for issuing of commissions?"
+      "What is the process for issuing commissions in a consumer case?",
+      "How do commissions facilitate the discovery and production of evidence?",
+      "Can a commission be issued to examine a witness in a consumer dispute?",
+      "What are the requirements for issuing a commission in a consumer case?",
+      "How does the issuing of commissions impact the outcome of a consumer dispute?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-9",
-    "procedure.issuing_of_commissions"
+    "procedure.issuing_of_commissions",
+    "alias.issuing_of_commissions"
   ],
   "related_concepts": [
-    "procedure.issuing_of_commissions"
+    "alias.issuing_of_commissions"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "issuing",
+      "commissions",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government"
+    ],
+    "user_queries": [
+      "What is discovery and production of evidence?",
+      "How does discovery and production of evidence work?",
+      "Can you explain discovery and production of evidence?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

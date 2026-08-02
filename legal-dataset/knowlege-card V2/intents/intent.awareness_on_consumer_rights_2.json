@@ -1,0 +1,58 @@
+{
+  "concept_id": "intent.awareness_on_consumer_rights_2",
+  "concept_type": "intent",
+  "title": "Questions about Awareness on Consumer Rights",
+  "description": "Natural language queries a user may ask about: Awareness on Consumer Rights",
+  "content": {
+    "queries": [
+      "What are some common consumer rights that I should be aware of?",
+      "How can awareness on consumer rights impact my daily life?",
+      "What role do consumer rights play in the marketplace?",
+      "Can I file a complaint if my consumer rights are violated?",
+      "Are there any organizations that provide information on consumer rights?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S18-2",
+    "procedure.awareness_on_consumer_rights"
+  ],
+  "related_concepts": [
+    "procedure.awareness_on_consumer_rights"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "awareness",
+      "consumer",
+      "rights",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "advice on consumer welfare",
+      "advising on consumer welfare",
+      "consumer rights guidance",
+      "consumer welfare advice",
+      "consumer welfare measures"
+    ],
+    "user_queries": [
+      "What is advising on consumer welfare measures?",
+      "How does advising on consumer welfare measures work?",
+      "Can you explain advising on consumer welfare measures?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

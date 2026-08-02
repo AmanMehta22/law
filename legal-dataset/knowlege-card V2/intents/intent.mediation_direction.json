@@ -5,21 +5,47 @@
   "description": "Natural language queries a user may ask about: Mediation Direction",
   "content": {
     "queries": [
-      "How do I file mediation direction?",
-      "What are the steps for mediation direction?"
+      "What is the process of mediation direction in consumer dispute resolution?",
+      "How does mediation direction help in resolving consumer complaints?",
+      "Can mediation direction be initiated by the consumer or only by the Commission?",
+      "What are the key principles of mediation direction in consumer disputes?",
+      "How does mediation direction contribute to faster resolution of consumer cases?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S37-1",
-    "procedure.mediation_direction"
+    "procedure.mediation_direction",
+    "alias.mediation_direction"
   ],
   "related_concepts": [
-    "procedure.mediation_direction"
+    "alias.mediation_direction"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "mediation",
+      "direction",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is consent in writing?",
+      "How does consent in writing work?",
+      "Can you explain consent in writing?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

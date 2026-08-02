@@ -1,0 +1,56 @@
+{
+  "concept_id": "intent.intervention_in_proceedings_handled_by_district_commission",
+  "concept_type": "intent",
+  "title": "Questions about Intervention in Proceedings handled by District Commission",
+  "description": "Natural language queries a user may ask about: Intervention in Proceedings handled by District Commission",
+  "content": {
+    "queries": [
+      "What is intervention in proceedings handled by district commission?",
+      "How does intervention in proceedings handled by district commission work?",
+      "Can you explain intervention in proceedings handled by district commission?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S18-2",
+    "relationship.procedure_intervention_in_proceedings_handled_by_authority_district_co"
+  ],
+  "related_concepts": [
+    "relationship.procedure_intervention_in_proceedings_handled_by_authority_district_co"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "intervention",
+      "proceedings",
+      "handled",
+      "district",
+      "commission",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "advice on consumer welfare",
+      "advising on consumer welfare",
+      "consumer rights guidance",
+      "consumer welfare advice",
+      "consumer welfare measures"
+    ],
+    "user_queries": [
+      "What is intervention in proceedings handled by district commission?",
+      "How does intervention in proceedings handled by district commission work?",
+      "Can you explain intervention in proceedings handled by district commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

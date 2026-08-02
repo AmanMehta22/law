@@ -11,17 +11,37 @@
     ]
   },
   "derived_from": [
-    "CPA2019-CH4-S41",
-    "CPA2019-CH4-S67",
-    "evidence.deposit_receipt"
+    "alias.proof_of_deposit"
   ],
   "related_concepts": [
-    "evidence.deposit_receipt"
+    "alias.proof_of_deposit"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "proof",
+      "deposit",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "deposit receipt",
+      "funds confirmation",
+      "payment proof"
+    ],
+    "user_queries": [
+      "What is delayed appeal?",
+      "How does delayed appeal work?",
+      "Can you explain delayed appeal?",
+      "What is proof of deposit?",
+      "How does proof of deposit work?",
+      "Can you explain proof of deposit?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.state_commission_or_national_commission_must_not_grant_adjournment_without__2",
+  "concept_type": "intent",
+  "title": "Questions about State Commission or National Commission must not grant adjournment without sufficient cause",
+  "description": "Natural language queries a user may ask about: State Commission or National Commission must not grant adjournment without sufficient cause",
+  "content": {
+    "queries": [
+      "What are the grounds for the State Commission or National Commission to reject adjournment without sufficient cause?",
+      "Can I appeal against the State Commission or National Commission's decision to reject adjournment without sufficient cause?",
+      "How do I provide sufficient cause for the State Commission or National Commission to grant adjournment?",
+      "What is the timeline for the State Commission or National Commission to decide on adjournment requests?",
+      "Are there any specific rules for the State Commission or National Commission to follow when considering adjournment requests?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S52",
+    "obligation.state_commission_or_national_commission_must_not_grant_adjou"
+  ],
+  "related_concepts": [
+    "obligation.state_commission_or_national_commission_must_not_grant_adjou"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "state",
+      "commission",
+      "national",
+      "grant",
+      "adjournment",
+      "without",
+      "sufficient",
+      "cause"
+    ],
+    "aliases": [
+      "delay",
+      "postponement"
+    ],
+    "user_queries": [
+      "What is state commission or national commission must not grant adjournment without sufficient cause?",
+      "How does state commission or national commission must not grant adjournment without sufficient cause work?",
+      "Can you explain state commission or national commission must not grant adjournment without sufficient cause?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

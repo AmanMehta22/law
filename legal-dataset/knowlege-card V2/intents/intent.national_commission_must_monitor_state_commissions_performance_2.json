@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.national_commission_must_monitor_state_commissions_performance_2",
+  "concept_type": "intent",
+  "title": "Questions about National Commission must monitor State Commissions' performance",
+  "description": "Natural language queries a user may ask about: National Commission must monitor State Commissions' performance",
+  "content": {
+    "queries": [
+      "How does the National Commission oversee State Commissions?",
+      "What is national commission must monitor state commissions' performance?",
+      "How does national commission must monitor state commissions' performance work?",
+      "Can you explain national commission must monitor state commissions' performance?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S70-1",
+    "obligation.national_commission_shall_monitor_performance_of_the_state_c"
+  ],
+  "related_concepts": [
+    "obligation.national_commission_shall_monitor_performance_of_the_state_c"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "national",
+      "commission",
+      "monitor",
+      "state",
+      "commissions",
+      "performance",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "administrative control",
+      "regulatory oversight"
+    ],
+    "user_queries": [
+      "How does the National Commission oversee State Commissions?",
+      "What is national commission must monitor state commissions' performance?",
+      "How does national commission must monitor state commissions' performance work?",
+      "Can you explain national commission must monitor state commissions' performance?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

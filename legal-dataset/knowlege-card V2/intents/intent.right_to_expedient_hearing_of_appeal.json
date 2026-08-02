@@ -5,20 +5,43 @@
   "description": "Natural language queries a user may ask about: Right to Expedient Hearing of Appeal",
   "content": {
     "queries": [
-      "how long will my appeal take"
+      "What are the exceptions to adjournment in the Right to Expedient Hearing of Appeal?",
+      "How does the adjournment exception impact the hearing of my appeal?",
+      "Can I request an expedient hearing of my appeal due to an adjournment exception?",
+      "What are the grounds for an adjournment exception in the Right to Expedient Hearing of Appeal?",
+      "How does the Right to Expedient Hearing of Appeal ensure timely hearings despite adjournment exceptions?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S52",
-    "right.right_to_expedient_hearing_of_appeal"
+    "right.right_to_expedient_hearing_of_appeal",
+    "alias.right_to_expedient_hearing_of_appeal"
   ],
   "related_concepts": [
-    "right.right_to_expedient_hearing_of_appeal"
+    "alias.right_to_expedient_hearing_of_appeal"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "right",
+      "expedient",
+      "hearing",
+      "appeal",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "right to speedy appeal"
+    ],
+    "user_queries": [
+      "how long will my appeal take",
+      "What is adjournment exception?",
+      "How does adjournment exception work?",
+      "Can you explain adjournment exception?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

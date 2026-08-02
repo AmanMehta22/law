@@ -5,9 +5,11 @@
   "description": "Natural language queries a user may ask about: District Council",
   "content": {
     "queries": [
-      "What is district council?",
-      "How does district council work?",
-      "Can you explain district council?"
+      "What are the powers and functions of a District Council under the Consumer Protection Act?",
+      "How do I contact my local District Council to file a complaint?",
+      "What types of consumer disputes can be resolved by a District Council?",
+      "Can a District Council impose penalties on a business for violating consumer protection laws?",
+      "How long does it take for a District Council to resolve a consumer complaint?"
     ]
   },
   "derived_from": [
@@ -16,15 +18,35 @@
     "CPA2019-CH2-S8-4",
     "CPA2019-CH2-S9",
     "CPA2019-CH8-S102-2",
-    "authority.district_council"
+    "authority.district_council",
+    "alias.district_council"
   ],
   "related_concepts": [
-    "authority.district_council"
+    "alias.district_council"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "council",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "District Board",
+      "Local Council",
+      "Municipal Council"
+    ],
+    "user_queries": [
+      "What is district commission references district council?",
+      "How does district commission references district council work?",
+      "Can you explain district commission references district council?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

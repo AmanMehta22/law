@@ -1,0 +1,53 @@
+{
+  "concept_id": "intent.complaint_disposal_depends_on_reasons_for_adjournment",
+  "concept_type": "intent",
+  "title": "Questions about Complaint disposal depends on Reasons for adjournment",
+  "description": "Natural language queries a user may ask about: Complaint disposal depends on Reasons for adjournment",
+  "content": {
+    "queries": [
+      "What is complaint disposal depends on reasons for adjournment?",
+      "How does complaint disposal depends on reasons for adjournment work?",
+      "Can you explain complaint disposal depends on reasons for adjournment?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-7",
+    "relationship.procedure_complaint_disposal_depends_on_evidence_written_record"
+  ],
+  "related_concepts": [
+    "relationship.procedure_complaint_disposal_depends_on_evidence_written_record"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "complaint",
+      "disposal",
+      "depends",
+      "reasons",
+      "adjournment",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "delay",
+      "postponement"
+    ],
+    "user_queries": [
+      "What is complaint disposal depends on reasons for adjournment?",
+      "How does complaint disposal depends on reasons for adjournment work?",
+      "Can you explain complaint disposal depends on reasons for adjournment?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

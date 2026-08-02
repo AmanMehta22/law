@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: State Commission must entertain complaints",
   "content": {
     "queries": [
+      "What types of complaints must the State Commission entertain?",
+      "How do I file a complaint with the State Commission?",
+      "Can the State Commission help resolve a dispute with a seller?",
+      "What is the process for the State Commission to address consumer complaints?",
+      "Is the State Commission responsible for handling complaints about defective products?"
+    ]
+  },
+  "derived_from": [
+    "alias.state_commission_must_entertain_complaints"
+  ],
+  "related_concepts": [
+    "alias.state_commission_must_entertain_complaints"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "state",
+      "commission",
+      "entertain",
+      "complaints",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "complaint filing",
+      "state commission complaint handling",
+      "state commission complaint procedure"
+    ],
+    "user_queries": [
       "What is state commission must entertain complaints?",
       "How does state commission must entertain complaints work?",
       "Can you explain state commission must entertain complaints?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S47-1",
-    "obligation.state_commission_must_entertain_complaints_where_the_value_o"
-  ],
-  "related_concepts": [
-    "obligation.state_commission_must_entertain_complaints_where_the_value_o"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

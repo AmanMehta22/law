@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.punitive_damages_2",
+  "concept_type": "intent",
+  "title": "Questions about Punitive damages",
+  "description": "Natural language queries a user may ask about: Punitive damages",
+  "content": {
+    "queries": [
+      "Are punitive damages only awarded in cases of intentional harm?",
+      "Can punitive damages be awarded against a company for the actions of its employees?",
+      "How do punitive damages serve as a deterrent to companies?",
+      "What is the relationship between punitive damages and the severity of the harm caused?",
+      "Can punitive damages be reduced or overturned on appeal?"
+    ]
+  },
+  "derived_from": [
+    "penalty.punitive_damages",
+    "example.punitive_damages"
+  ],
+  "related_concepts": [
+    "example.punitive_damages"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "punitive",
+      "damages",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is punitive damages?",
+      "How does punitive damages work?",
+      "Can you explain punitive damages?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

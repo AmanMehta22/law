@@ -5,22 +5,50 @@
   "description": "Natural language queries a user may ask about: Inquiry or Investigation",
   "content": {
     "queries": [
-      "How do I file inquiry or investigation?",
-      "What are the steps for inquiry or investigation?"
+      "What is the difference between an inquiry and an investigation in consumer protection?",
+      "How is an inquiry or investigation initiated in consumer protection cases?",
+      "What are the powers of the authority conducting an inquiry or investigation?",
+      "Can a consumer request an inquiry or investigation into a business practice?",
+      "What is the outcome of an inquiry or investigation in consumer protection cases?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S16",
     "CPA2019-CH3-S18-2",
-    "procedure.inquiry_or_investigation"
+    "procedure.inquiry_or_investigation",
+    "alias.inquiry_or_investigation"
   ],
   "related_concepts": [
-    "procedure.inquiry_or_investigation"
+    "alias.inquiry_or_investigation"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "inquiry",
+      "investigation",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is commissioner of a regional office?",
+      "How does commissioner of a regional office work?",
+      "Can you explain commissioner of a regional office?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

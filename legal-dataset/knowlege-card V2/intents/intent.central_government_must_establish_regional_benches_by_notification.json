@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Central Government must establish regional Benches by notification",
   "content": {
     "queries": [
+      "What is the purpose of the Central Government establishing regional Benches by notification?",
+      "How does the notification process work for establishing regional Benches?",
+      "Can the Central Government establish regional Benches without notification?",
+      "What are the benefits of the Central Government establishing regional Benches by notification?",
+      "How do regional Benches impact consumer protection cases?"
+    ]
+  },
+  "derived_from": [
+    "alias.central_government_must_establish_regional_benches_by_notification"
+  ],
+  "related_concepts": [
+    "alias.central_government_must_establish_regional_benches_by_notification"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "government",
+      "establish",
+      "regional",
+      "benches",
+      "notification",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "central government regional tribunal establishment",
+      "notification of regional benches",
+      "regional bench setup"
+    ],
+    "user_queries": [
       "What is central government must establish regional benches by notification?",
       "How does central government must establish regional benches by notification work?",
       "Can you explain central government must establish regional benches by notification?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S53-2",
-    "obligation.central_government_must_establish_regional_benches_by_notifi"
-  ],
-  "related_concepts": [
-    "obligation.central_government_must_establish_regional_benches_by_notifi"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

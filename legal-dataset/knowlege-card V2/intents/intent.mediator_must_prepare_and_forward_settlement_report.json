@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.mediator_must_prepare_and_forward_settlement_report",
   "concept_type": "intent",
-  "title": "Questions about Mediator must prepare and forward settlement report",
-  "description": "Natural language queries a user may ask about: Mediator must prepare and forward settlement report",
+  "title": "Questions about Mediator Must Prepare And Forward Settlement Report",
+  "description": "Natural language queries a user may ask about: Mediator Must Prepare And Forward Settlement Report",
   "content": {
     "queries": [
-      "What are the mediator's duties?"
+      "What is the mediator's responsibility in preparing and forwarding a settlement report?",
+      "How soon after a mediation session must the mediator prepare and forward the settlement report?",
+      "What happens if a mediator fails to prepare and forward a settlement report as required?",
+      "Can a mediator delegate the task of preparing and forwarding a settlement report to someone else?",
+      "What information must the mediator include in the settlement report before forwarding it?"
     ]
   },
   "derived_from": [
     "CPA2019-CH5-S80-2",
-    "obligation.mediator_must_prepare_a_settlement_report_and_forward_the_si"
+    "obligation.mediator_must_prepare_a_settlement_report_and_forward_the_si",
+    "alias.mediator_must_prepare_and_forward_settlement_report"
   ],
   "related_concepts": [
-    "obligation.mediator_must_prepare_a_settlement_report_and_forward_the_si"
+    "alias.mediator_must_prepare_and_forward_settlement_report"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "mediator",
+      "prepare",
+      "forward",
+      "settlement",
+      "report",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "mediation officer"
+    ],
+    "user_queries": [
+      "What are the mediator's duties?",
+      "What is commission?",
+      "How does commission work?",
+      "Can you explain commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

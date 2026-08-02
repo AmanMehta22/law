@@ -11,16 +11,38 @@
     ]
   },
   "derived_from": [
-    "CPA2019-CH1-S2-37",
-    "exception.does_not_include_a_provider_of_professional_services_in_any_"
+    "alias.professional_services"
   ],
   "related_concepts": [
-    "exception.does_not_include_a_provider_of_professional_services_in_any_"
+    "alias.professional_services"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "professional",
+      "services",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "expert services",
+      "skilled services",
+      "specialized services",
+      "technical services"
+    ],
+    "user_queries": [
+      "What is professional services?",
+      "How does professional services work?",
+      "Can you explain professional services?",
+      "What is financial capacity?",
+      "How does financial capacity work?",
+      "Can you explain financial capacity?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

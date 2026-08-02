@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: State Governments must conform to model rules",
   "content": {
     "queries": [
+      "What are the model rules that state governments must follow in consumer protection?",
+      "How do state governments ensure compliance with model rules?",
+      "What happens if a state government does not conform to model rules?",
+      "Can state governments modify the model rules to suit their needs?",
+      "How do model rules impact the functioning of state governments in consumer protection?"
+    ]
+  },
+  "derived_from": [
+    "alias.state_governments_must_conform_to_model_rules"
+  ],
+  "related_concepts": [
+    "alias.state_governments_must_conform_to_model_rules"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "state",
+      "governments",
+      "conform",
+      "model",
+      "rules",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "adherence to model code",
+      "follow model rules",
+      "model rule conformity",
+      "state government compliance"
+    ],
+    "user_queries": [
       "What is state governments must conform to model rules?",
       "How does state governments must conform to model rules work?",
       "Can you explain state governments must conform to model rules?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH8-S102-1",
-    "obligation.state_governments_must_conform_to_model_rules"
-  ],
-  "related_concepts": [
-    "obligation.state_governments_must_conform_to_model_rules"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

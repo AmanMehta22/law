@@ -1,0 +1,58 @@
+{
+  "concept_id": "intent.pecuniary_jurisdiction_of_state_commission_3",
+  "concept_type": "intent",
+  "title": "Questions about Pecuniary jurisdiction of State Commission",
+  "description": "Natural language queries a user may ask about: Pecuniary jurisdiction of State Commission",
+  "content": {
+    "queries": [
+      "What are the factors that determine the pecuniary jurisdiction of the State Commission?",
+      "How does the State Commission's pecuniary jurisdiction impact consumer cases?",
+      "Can the State Commission's pecuniary jurisdiction be challenged in court?",
+      "What is the relationship between the pecuniary jurisdiction of the State Commission and the District Commission?",
+      "How does the pecuniary jurisdiction of the State Commission affect the appeals process?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S101-2",
+    "jurisdiction.state_commission_other_value_of_goods_and_services"
+  ],
+  "related_concepts": [
+    "jurisdiction.state_commission_other_value_of_goods_and_services"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "pecuniary",
+      "jurisdiction",
+      "state",
+      "commission",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "appeal to national commission",
+      "appeal to national consumer commission",
+      "national appeal",
+      "national commission",
+      "national commission appeal"
+    ],
+    "user_queries": [
+      "What is calling for records and passing orders?",
+      "How does calling for records and passing orders work?",
+      "Can you explain calling for records and passing orders?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -5,21 +5,47 @@
   "description": "Natural language queries a user may ask about: Mediation Referral",
   "content": {
     "queries": [
-      "How do I file mediation referral?",
-      "What are the steps for mediation referral?"
+      "What are the grounds for a district commission to refer a matter for mediation?",
+      "How does a mediation referral work in practice?",
+      "Can a party object to a mediation referral?",
+      "What is the role of the mediator in a consumer dispute?",
+      "Is mediation referral mandatory in all consumer disputes?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S37-2",
-    "procedure.mediation_referral"
+    "procedure.mediation_referral",
+    "alias.mediation_referral"
   ],
   "related_concepts": [
-    "procedure.mediation_referral"
+    "alias.mediation_referral"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "mediation",
+      "referral",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is district commission must refer matter for mediation?",
+      "How does district commission must refer matter for mediation work?",
+      "Can you explain district commission must refer matter for mediation?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

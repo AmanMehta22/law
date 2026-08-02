@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Reasons for grant of adjournment",
   "content": {
     "queries": [
+      "What are the grounds for granting a reason for adjournment?",
+      "How does the court weigh the reasons for grant of adjournment?",
+      "Can a reason for grant of adjournment be challenged in a higher court?",
+      "What is the role of the judge in deciding reasons for grant of adjournment?",
+      "How does the court ensure that reasons for grant of adjournment are not misused?"
+    ]
+  },
+  "derived_from": [
+    "alias.reasons_for_grant_of_adjournment"
+  ],
+  "related_concepts": [
+    "alias.reasons_for_grant_of_adjournment"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "reasons",
+      "grant",
+      "adjournment",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "adjournment justification",
+      "delay acceptance grounds",
+      "postponement approval reasons"
+    ],
+    "user_queries": [
       "What is reasons for grant of adjournment?",
       "How does reasons for grant of adjournment work?",
       "Can you explain reasons for grant of adjournment?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S52",
-    "evidence.written_record_of_reasons"
-  ],
-  "related_concepts": [
-    "evidence.written_record_of_reasons"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

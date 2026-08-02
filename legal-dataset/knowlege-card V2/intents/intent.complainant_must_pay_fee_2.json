@@ -1,0 +1,58 @@
+{
+  "concept_id": "intent.complainant_must_pay_fee_2",
+  "concept_type": "intent",
+  "title": "Questions about Complainant must pay fee",
+  "description": "Natural language queries a user may ask about: Complainant must pay fee",
+  "content": {
+    "queries": [
+      "Under what circumstances does a complainant need to pay a fee?",
+      "How does the complainant fee affect my case?",
+      "Can the complainant fee be waived in certain situations?",
+      "What is the process for paying the complainant fee?",
+      "Is there a deadline for paying the complainant fee?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S35-2",
+    "obligation.complainant_must_pay_fee"
+  ],
+  "related_concepts": [
+    "obligation.complainant_must_pay_fee"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "complainant",
+      "pay",
+      "fee",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "appeal to national commission",
+      "appeal to national consumer commission",
+      "national appeal",
+      "national commission",
+      "national commission appeal"
+    ],
+    "user_queries": [
+      "What is complainant must pay fee?",
+      "How does complainant must pay fee work?",
+      "Can you explain complainant must pay fee?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

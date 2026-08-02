@@ -1,0 +1,61 @@
+{
+  "concept_id": "intent.non_compliance_with_central_authority_direction_2",
+  "concept_type": "intent",
+  "title": "Questions about Non-compliance with Central Authority direction",
+  "description": "Natural language queries a user may ask about: Non-compliance with Central Authority direction",
+  "content": {
+    "queries": [
+      "What happens when a company doesn't follow Central Authority directions?",
+      "Can I file a complaint for non-compliance with Central Authority direction?",
+      "How does the Central Authority handle non-compliance with its directions?",
+      "What are the consequences of non-compliance with Central Authority direction?",
+      "Is non-compliance with Central Authority direction a serious offense under the Consumer Protection Act?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH7-S88",
+    "offence.whoever_fails_to_comply_with_any_direction_of_the_central_authority_under_sectio"
+  ],
+  "related_concepts": [
+    "offence.whoever_fails_to_comply_with_any_direction_of_the_central_authority_under_sectio"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "non",
+      "compliance",
+      "central",
+      "authority",
+      "direction",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is non-compliance with central authority direction?",
+      "How does non-compliance with central authority direction work?",
+      "Can you explain non-compliance with central authority direction?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

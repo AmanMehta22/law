@@ -5,20 +5,43 @@
   "description": "Natural language queries a user may ask about: Right to Relief",
   "content": {
     "queries": [
-      "how to file a complaint"
+      "Do I have the right to relief if I don't file an allegation in writing?",
+      "How does the right to relief protect me as a consumer?",
+      "Can I claim relief if the other party doesn't respond to my allegation in writing?",
+      "What are my options if my right to relief is denied?",
+      "Is the right to relief automatic or do I need to apply for it?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-6",
-    "right.right_to_relief"
+    "right.right_to_relief",
+    "alias.right_to_relief"
   ],
   "related_concepts": [
-    "right.right_to_relief"
+    "alias.right_to_relief"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "right",
+      "relief",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "right to redress"
+    ],
+    "user_queries": [
+      "how to file a complaint",
+      "What is allegation in writing?",
+      "How does allegation in writing work?",
+      "Can you explain allegation in writing?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.goods_3",
+  "concept_type": "intent",
+  "title": "Questions about Goods",
+  "description": "Natural language queries a user may ask about: Goods",
+  "content": {
+    "queries": [
+      "What are goods under the Consumer Protection Act?",
+      "How are goods defined in the context of consumer rights?",
+      "Can you explain the concept of goods in relation to consumer protection?",
+      "What types of products are considered goods under the law?",
+      "How does the law distinguish between goods and services?"
+    ]
+  },
+  "derived_from": [
+    "definition.goods",
+    "example.goods"
+  ],
+  "related_concepts": [
+    "example.goods"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "goods",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "how"
+    ],
+    "aliases": [
+      "products",
+      "commodities"
+    ],
+    "user_queries": [
+      "What is goods?",
+      "How does goods work?",
+      "Can you explain goods?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

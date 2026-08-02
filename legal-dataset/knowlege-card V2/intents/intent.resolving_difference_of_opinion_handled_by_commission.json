@@ -1,0 +1,57 @@
+{
+  "concept_id": "intent.resolving_difference_of_opinion_handled_by_commission",
+  "concept_type": "intent",
+  "title": "Questions about Resolving Difference of Opinion handled by Commission",
+  "description": "Natural language queries a user may ask about: Resolving Difference of Opinion handled by Commission",
+  "content": {
+    "queries": [
+      "What is resolving difference of opinion handled by commission?",
+      "How does resolving difference of opinion handled by commission work?",
+      "Can you explain resolving difference of opinion handled by commission?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S39-3",
+    "relationship.procedure_resolving_difference_of_opinion_handled_by_authority_commiss"
+  ],
+  "related_concepts": [
+    "relationship.procedure_resolving_difference_of_opinion_handled_by_authority_commiss"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "resolving",
+      "difference",
+      "opinion",
+      "handled",
+      "commission",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is resolving difference of opinion handled by commission?",
+      "How does resolving difference of opinion handled by commission work?",
+      "Can you explain resolving difference of opinion handled by commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

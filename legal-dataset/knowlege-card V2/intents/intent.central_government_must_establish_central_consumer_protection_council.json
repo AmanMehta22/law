@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.central_government_must_establish_central_consumer_protection_council",
   "concept_type": "intent",
-  "title": "Questions about Central Government must establish Central Consumer Protection Council",
-  "description": "Natural language queries a user may ask about: Central Government must establish Central Consumer Protection Council",
+  "title": "Questions about Central Government Must Establish Central Consumer Protection Council",
+  "description": "Natural language queries a user may ask about: Central Government Must Establish Central Consumer Protection Council",
   "content": {
     "queries": [
-      "establishment of Central Council"
+      "What is the role of the Central Government in establishing the Central Consumer Protection Council?",
+      "How does the Central Consumer Protection Council protect consumer rights?",
+      "Can the Central Government establish multiple Central Consumer Protection Councils?",
+      "What are the responsibilities of the Central Consumer Protection Council?",
+      "How does the Central Consumer Protection Council differ from other consumer protection bodies?"
     ]
   },
   "derived_from": [
     "CPA2019-CH2-S3-1",
-    "obligation.central_government_shall_establish_the_central_consumer_prot"
+    "obligation.central_government_shall_establish_the_central_consumer_prot",
+    "alias.central_government_must_establish_central_consumer_protection_council"
   ],
   "related_concepts": [
-    "obligation.central_government_shall_establish_the_central_consumer_prot"
+    "alias.central_government_must_establish_central_consumer_protection_council"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "government",
+      "establish",
+      "consumer",
+      "protection",
+      "council",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "Central Government"
+    ],
+    "user_queries": [
+      "establishment of Central Council",
+      "What is central consumer protection council?",
+      "How does central consumer protection council work?",
+      "Can you explain central consumer protection council?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

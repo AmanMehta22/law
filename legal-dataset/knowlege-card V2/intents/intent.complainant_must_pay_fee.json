@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Complainant must pay fee",
   "content": {
     "queries": [
+      "Do I need to pay a fee as a complainant?",
+      "How much fee do I need to pay as a complainant?",
+      "What happens if I don't pay the complainant fee?",
+      "Can I get a refund of the complainant fee?",
+      "Is the complainant fee applicable in all cases?"
+    ]
+  },
+  "derived_from": [
+    "alias.complainant_must_pay_fee"
+  ],
+  "related_concepts": [
+    "alias.complainant_must_pay_fee"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "complainant",
+      "pay",
+      "fee",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "complaint filing fee",
+      "consumer complaint charge",
+      "fee for grievance submission"
+    ],
+    "user_queries": [
       "What is complainant must pay fee?",
       "How does complainant must pay fee work?",
       "Can you explain complainant must pay fee?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S35-2",
-    "obligation.complainant_must_pay_fee"
-  ],
-  "related_concepts": [
-    "obligation.complainant_must_pay_fee"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

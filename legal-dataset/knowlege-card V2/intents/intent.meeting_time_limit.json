@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Meeting time limit",
   "content": {
     "queries": [
+      "What is the maximum duration allowed for a meeting under the Consumer Protection Act?",
+      "Can a meeting exceed its time limit if all members agree?",
+      "How is the meeting time limit determined for a district council meeting?",
+      "What happens if a meeting time limit is exceeded without a valid reason?",
+      "Are there any exceptions to the meeting time limit rule?"
+    ]
+  },
+  "derived_from": [
+    "alias.meeting_time_limit"
+  ],
+  "related_concepts": [
+    "alias.meeting_time_limit"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "meeting",
+      "time",
+      "limit",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "conference time frame",
+      "gathering timeline",
+      "hearing schedule",
+      "meeting deadline"
+    ],
+    "user_queries": [
       "What is meeting time limit?",
       "How does meeting time limit work?",
       "Can you explain meeting time limit?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH2-S4-1",
-    "timeline.every_year"
-  ],
-  "related_concepts": [
-    "timeline.every_year"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

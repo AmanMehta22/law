@@ -1,26 +1,47 @@
 {
   "concept_id": "intent.government_must_prescribe_salaries_and_allowances",
   "concept_type": "intent",
-  "title": "Questions about Government must prescribe salaries and allowances",
-  "description": "Natural language queries a user may ask about: Government must prescribe salaries and allowances",
+  "title": "Questions about Government Must Prescribe Salaries And Allowances",
+  "description": "Natural language queries a user may ask about: Government Must Prescribe Salaries And Allowances",
   "content": {
     "queries": [
-      "What are the salary rules for National Commission employees?"
+      "What is government must prescribe salaries and allowances?",
+      "How does government must prescribe salaries and allowances work?",
+      "Can you explain government must prescribe salaries and allowances?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S13-2",
     "CPA2019-CH4-S33-3",
     "CPA2019-CH4-S57-3",
-    "obligation.government_must_prescribe_salaries_and_allowances"
+    "obligation.government_must_prescribe_salaries_and_allowances",
+    "alias.government_must_prescribe_salaries_and_allowances"
   ],
   "related_concepts": [
-    "obligation.government_must_prescribe_salaries_and_allowances"
+    "alias.government_must_prescribe_salaries_and_allowances"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "government",
+      "prescribe",
+      "salaries",
+      "allowances",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "remuneration"
+    ],
+    "user_queries": [
+      "What are the salary rules for National Commission employees?",
+      "What is government must prescribe salaries and allowances?",
+      "How does government must prescribe salaries and allowances work?",
+      "Can you explain government must prescribe salaries and allowances?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

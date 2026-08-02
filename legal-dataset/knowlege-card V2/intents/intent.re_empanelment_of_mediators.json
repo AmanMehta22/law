@@ -5,21 +5,44 @@
   "description": "Natural language queries a user may ask about: Re-empanelment of mediators",
   "content": {
     "queries": [
-      "How do I file re-empanelment of mediators?",
-      "What are the steps for re-empanelment of mediators?"
+      "What is the criteria for re-empanelment of mediators in consumer disputes?",
+      "How often can mediators be re-empaneled under the Consumer Protection Act?",
+      "Can a mediator be re-empaneled if they have previously been removed?",
+      "What is the process for re-empaneling mediators in consumer cases?",
+      "Do re-empaneled mediators undergo additional training or evaluation?"
     ]
   },
   "derived_from": [
     "CPA2019-CH8-S103-2",
-    "procedure.re_empanelment_of_mediators"
+    "procedure.re_empanelment_of_mediators",
+    "alias.re_empanelment_of_mediators"
   ],
   "related_concepts": [
-    "procedure.re_empanelment_of_mediators"
+    "alias.re_empanelment_of_mediators"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "empanelment",
+      "mediators",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "adjournment cost",
+      "cost imposition by district commission",
+      "district commission cost"
+    ],
+    "user_queries": [
+      "What is re-empanelment of mediators?",
+      "How does re-empanelment of mediators work?",
+      "Can you explain re-empanelment of mediators?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

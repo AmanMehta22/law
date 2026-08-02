@@ -1,0 +1,57 @@
+{
+  "concept_id": "intent.copies_of_documents_2",
+  "concept_type": "intent",
+  "title": "Questions about Copies of documents",
+  "description": "Natural language queries a user may ask about: Copies of documents",
+  "content": {
+    "queries": [
+      "In what situations can I request copies of documents from the consumer forum?",
+      "How do I ensure that the copies of documents I receive are authentic and accurate?",
+      "Can I request copies of documents on behalf of someone else, like a family member?",
+      "What if I need copies of documents in a language other than the original language?",
+      "Are copies of documents provided by the consumer forum stamped or certified in any way?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S70-1",
+    "evidence.copies_of_documents"
+  ],
+  "related_concepts": [
+    "evidence.copies_of_documents"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "copies",
+      "documents",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government"
+    ],
+    "user_queries": [
+      "What is copies of documents?",
+      "How does copies of documents work?",
+      "Can you explain copies of documents?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

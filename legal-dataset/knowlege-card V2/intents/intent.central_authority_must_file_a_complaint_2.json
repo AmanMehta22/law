@@ -1,0 +1,61 @@
+{
+  "concept_id": "intent.central_authority_must_file_a_complaint_2",
+  "concept_type": "intent",
+  "title": "Questions about Central Authority must file a complaint",
+  "description": "Natural language queries a user may ask about: Central Authority must file a complaint",
+  "content": {
+    "queries": [
+      "Under what circumstances is the Central Authority required to file a complaint?",
+      "What is the role of the Central Authority in filing a complaint under the Consumer Protection Act?",
+      "Can a consumer request the Central Authority to file a complaint on their behalf?",
+      "How long does the Central Authority have to file a complaint after receiving a report?",
+      "What are the consequences if the Central Authority fails to file a complaint?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH7-S92",
+    "obligation.central_authority_or_any_officer_authorised_by_it_must_file_"
+  ],
+  "related_concepts": [
+    "obligation.central_authority_or_any_officer_authorised_by_it_must_file_"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "authority",
+      "file",
+      "complaint",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is central authority must file a complaint?",
+      "How does central authority must file a complaint work?",
+      "Can you explain central authority must file a complaint?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -5,22 +5,46 @@
   "description": "Natural language queries a user may ask about: Member",
   "content": {
     "queries": [
-      "What is a member of the National Commission?",
-      "Who is considered a member under the Consumer Protection Act?",
-      "What does member mean in the context of consumer protection?"
+      "What is the role of a member in a district commission?",
+      "How are members of a district commission selected?",
+      "Can a member of a district commission also be a part of a state commission?",
+      "What are the responsibilities of a member in a consumer dispute?",
+      "How does a member contribute to the decision-making process in a district commission?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-27",
-    "definition.member"
+    "definition.member",
+    "alias.member"
   ],
   "related_concepts": [
-    "definition.member"
+    "alias.member"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "member",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "district"
+    ],
+    "aliases": [
+      "commission member",
+      "president"
+    ],
+    "user_queries": [
+      "What is member?",
+      "How does member work?",
+      "Can you explain member?",
+      "What is district commission?",
+      "How does district commission work?",
+      "Can you explain district commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

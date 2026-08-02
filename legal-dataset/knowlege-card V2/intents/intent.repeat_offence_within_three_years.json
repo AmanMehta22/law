@@ -1,24 +1,45 @@
 {
   "concept_id": "intent.repeat_offence_within_three_years",
   "concept_type": "intent",
-  "title": "Questions about Repeat offence within three years",
-  "description": "Natural language queries a user may ask about: Repeat offence within three years",
+  "title": "Questions about Repeat Offence Within Three Years",
+  "description": "Natural language queries a user may ask about: Repeat Offence Within Three Years",
   "content": {
     "queries": [
-      "What are the exceptions to sub-section (1)?"
+      "What is repeat offence within three years?",
+      "How does repeat offence within three years work?",
+      "Can you explain repeat offence within three years?"
     ]
   },
   "derived_from": [
     "CPA2019-CH8-S96-3",
-    "exception.does_not_apply_to_persons_who_commit_the_same_or_similar_off"
+    "exception.does_not_apply_to_persons_who_commit_the_same_or_similar_off",
+    "alias.repeat_offence_within_three_years"
   ],
   "related_concepts": [
-    "exception.does_not_apply_to_persons_who_commit_the_same_or_similar_off"
+    "alias.repeat_offence_within_three_years"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "repeat",
+      "offence",
+      "three",
+      "years",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "exception to sub-section (1)"
+    ],
+    "user_queries": [
+      "What are the exceptions to sub-section (1)?",
+      "What is repeat offence within three years?",
+      "How does repeat offence within three years work?",
+      "Can you explain repeat offence within three years?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

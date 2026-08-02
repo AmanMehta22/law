@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Periodical returns",
   "content": {
     "queries": [
+      "What is the purpose of periodical returns in consumer protection laws?",
+      "How often must businesses file periodical returns under the Consumer Protection Act?",
+      "What information must be included in periodical returns filed by businesses?",
+      "Can consumers access periodical returns filed by companies to check their compliance?",
+      "How do periodical returns help in monitoring and enforcing consumer protection regulations?"
+    ]
+  },
+  "derived_from": [
+    "alias.periodical_returns"
+  ],
+  "related_concepts": [
+    "alias.periodical_returns"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "periodical",
+      "returns",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "periodic filings",
+      "recurring returns",
+      "regular returns"
+    ],
+    "user_queries": [
       "What is periodical returns?",
       "How does periodical returns work?",
       "Can you explain periodical returns?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S70-1",
-    "evidence.periodical_returns"
-  ],
-  "related_concepts": [
-    "evidence.periodical_returns"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

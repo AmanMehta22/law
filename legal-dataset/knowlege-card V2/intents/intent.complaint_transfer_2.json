@@ -1,0 +1,57 @@
+{
+  "concept_id": "intent.complaint_transfer_2",
+  "concept_type": "intent",
+  "title": "Questions about Complaint transfer",
+  "description": "Natural language queries a user may ask about: Complaint transfer",
+  "content": {
+    "queries": [
+      "What are the benefits of transferring a complaint to a specialized tribunal?",
+      "How does a complaint transfer affect the statute of limitations?",
+      "Can a complaint transfer be appealed if one of the parties disagrees with the decision?",
+      "What role does the National Commission play in the complaint transfer process?",
+      "Are there any specific forms or documents required for a complaint transfer?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S62",
+    "procedure.complaint_transfer"
+  ],
+  "related_concepts": [
+    "procedure.complaint_transfer"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "complaint",
+      "transfer",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "complaint redirection",
+      "complaint relocation",
+      "transfer of case",
+      "transfer of complaint"
+    ],
+    "user_queries": [
+      "What is complaint transfer?",
+      "How does complaint transfer work?",
+      "Can you explain complaint transfer?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

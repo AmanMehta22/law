@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.setting_aside_of_ex_parte_order",
   "concept_type": "intent",
-  "title": "Questions about Setting aside of ex parte order",
-  "description": "Natural language queries a user may ask about: Setting aside of ex parte order",
+  "title": "Questions about Setting Aside Of Ex Parte Order",
+  "description": "Natural language queries a user may ask about: Setting Aside Of Ex Parte Order",
   "content": {
     "queries": [
-      "How to challenge an ex parte order"
+      "What is the difference between setting aside and varying an ex parte order?",
+      "Can an ex parte order be set aside due to a change in circumstances?",
+      "How does the court determine whether to set aside an ex parte order?",
+      "What are the implications of setting aside an ex parte order on the parties' rights and obligations?",
+      "Can a party apply to set aside an ex parte order if they were not present at the original hearing?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S61",
-    "remedy.setting_aside_of_order"
+    "remedy.setting_aside_of_order",
+    "alias.setting_aside_of_ex_parte_order"
   ],
   "related_concepts": [
-    "remedy.setting_aside_of_order"
+    "alias.setting_aside_of_ex_parte_order"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "setting",
+      "aside",
+      "parte",
+      "order",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "vacating an order"
+    ],
+    "user_queries": [
+      "How to challenge an ex parte order",
+      "What is setting aside an ex parte order?",
+      "How does setting aside an ex parte order work?",
+      "Can you explain setting aside an ex parte order?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

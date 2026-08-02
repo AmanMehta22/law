@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Geographical Exception",
   "content": {
     "queries": [
-      "What is geographical exception?",
-      "How does geographical exception work?",
-      "Can you explain geographical exception?"
+      "What does geographical exception mean in consumer protection?",
+      "How is geographical exception applied in consumer cases?",
+      "Can a business claim geographical exception to avoid liability?",
+      "Is geographical exception a valid defense for companies operating in multiple regions?",
+      "How does geographical exception impact consumer rights in different territories?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S1-2",
-    "exception.except_the_state_of_jammu_and_kashmir"
+    "exception.except_the_state_of_jammu_and_kashmir",
+    "alias.geographical_exception"
   ],
   "related_concepts": [
-    "exception.except_the_state_of_jammu_and_kashmir"
+    "alias.geographical_exception"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "geographical",
+      "exception",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "India except Jammu and Kashmir"
+    ],
+    "user_queries": [
+      "What is geographical exception?",
+      "How does geographical exception work?",
+      "Can you explain geographical exception?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

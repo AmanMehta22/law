@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Central Authority must follow directions",
   "content": {
     "queries": [
+      "What directions must the Central Authority follow under the Consumer Protection Act?",
+      "How does the Central Authority ensure compliance with directions?",
+      "Can the Central Authority deviate from the given directions?",
+      "What are the consequences if the Central Authority fails to follow directions?",
+      "Are there any specific guidelines for the Central Authority to follow directions?"
+    ]
+  },
+  "derived_from": [
+    "alias.central_authority_must_follow_directions"
+  ],
+  "related_concepts": [
+    "alias.central_authority_must_follow_directions"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "authority",
+      "follow",
+      "directions",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "central authority adherence to guidelines",
+      "central authority compliance with directions",
+      "directions to central authority"
+    ],
+    "user_queries": [
       "What is central authority must follow directions?",
       "How does central authority must follow directions work?",
       "Can you explain central authority must follow directions?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH8-S99-1",
-    "obligation.central_authority_be_bound_by_directions_on_questions_of_pol"
-  ],
-  "related_concepts": [
-    "obligation.central_authority_be_bound_by_directions_on_questions_of_pol"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

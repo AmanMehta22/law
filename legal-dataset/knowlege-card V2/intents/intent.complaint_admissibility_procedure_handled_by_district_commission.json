@@ -1,0 +1,52 @@
+{
+  "concept_id": "intent.complaint_admissibility_procedure_handled_by_district_commission",
+  "concept_type": "intent",
+  "title": "Questions about Complaint Admissibility Procedure handled by District Commission",
+  "description": "Natural language queries a user may ask about: Complaint Admissibility Procedure handled by District Commission",
+  "content": {
+    "queries": [
+      "What is complaint admissibility procedure handled by district commission?",
+      "How does complaint admissibility procedure handled by district commission work?",
+      "Can you explain complaint admissibility procedure handled by district commission?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S36-2",
+    "relationship.procedure_complaint_admissibility_procedure_handled_by_authority_distr"
+  ],
+  "related_concepts": [
+    "relationship.procedure_complaint_admissibility_procedure_handled_by_authority_distr"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "complaint",
+      "admissibility",
+      "procedure",
+      "handled",
+      "district",
+      "commission",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "complaint admission"
+    ],
+    "user_queries": [
+      "What is complaint admissibility procedure handled by district commission?",
+      "How does complaint admissibility procedure handled by district commission work?",
+      "Can you explain complaint admissibility procedure handled by district commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

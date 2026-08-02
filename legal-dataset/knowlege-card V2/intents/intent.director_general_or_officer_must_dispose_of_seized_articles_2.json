@@ -1,0 +1,58 @@
+{
+  "concept_id": "intent.director_general_or_officer_must_dispose_of_seized_articles_2",
+  "concept_type": "intent",
+  "title": "Questions about Director-General or officer must dispose of seized articles",
+  "description": "Natural language queries a user may ask about: Director-General or officer must dispose of seized articles",
+  "content": {
+    "queries": [
+      "Under what circumstances can the Director-General or officer dispose of seized articles without a court order?",
+      "How long can the Director-General or officer hold onto seized articles before they must be disposed of?",
+      "What are the guidelines for the Director-General or officer to follow when disposing of seized articles in a consumer protection case?",
+      "Can the Director-General or officer sell seized articles and use the proceeds for consumer protection initiatives?",
+      "Is the Director-General or officer required to notify the company or individual from whom articles were seized before disposing of them?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S22-4",
+    "obligation.director_general_or_such_other_officer_must_dispose_of_the_a"
+  ],
+  "related_concepts": [
+    "obligation.director_general_or_such_other_officer_must_dispose_of_the_a"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "director",
+      "general",
+      "officer",
+      "dispose",
+      "seized",
+      "articles",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "Chief Director",
+      "DG",
+      "Director General of Consumer Affairs",
+      "Head of Consumer Protection",
+      "Main Official"
+    ],
+    "user_queries": [
+      "What is director-general or officer must dispose of seized articles?",
+      "How does director-general or officer must dispose of seized articles work?",
+      "Can you explain director-general or officer must dispose of seized articles?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

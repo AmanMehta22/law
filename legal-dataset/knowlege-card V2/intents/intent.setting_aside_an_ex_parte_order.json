@@ -5,21 +5,47 @@
   "description": "Natural language queries a user may ask about: Setting aside an ex parte order",
   "content": {
     "queries": [
-      "How do I file setting aside an ex parte order?",
-      "What are the steps for setting aside an ex parte order?"
+      "What are the grounds for setting aside an ex parte order?",
+      "Can a court set aside an ex parte order on its own motion?",
+      "How long does it take to set aside an ex parte order?",
+      "What is the effect of setting aside an ex parte order on the parties involved?",
+      "Can setting aside an ex parte order be done without a formal application?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S61",
-    "procedure.setting_aside_an_ex_parte_order"
+    "procedure.setting_aside_an_ex_parte_order",
+    "alias.setting_aside_an_ex_parte_order"
   ],
   "related_concepts": [
-    "procedure.setting_aside_an_ex_parte_order"
+    "alias.setting_aside_an_ex_parte_order"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "setting",
+      "aside",
+      "parte",
+      "order",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "Central Commission",
+      "Central Consumer Protection Council",
+      "NCDRC",
+      "National Consumer Commission",
+      "National Consumer Disputes Redressal Commission",
+      "National Consumer Protection Agency"
+    ],
+    "user_queries": [
+      "What is setting aside an ex parte order?",
+      "How does setting aside an ex parte order work?",
+      "Can you explain setting aside an ex parte order?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

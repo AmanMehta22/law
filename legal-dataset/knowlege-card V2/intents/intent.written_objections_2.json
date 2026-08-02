@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.written_objections_2",
+  "concept_type": "intent",
+  "title": "Questions about Written objections",
+  "description": "Natural language queries a user may ask about: Written objections",
+  "content": {
+    "queries": [
+      "What is the deadline for filing written objections in a consumer case?",
+      "How can a consumer ensure that their written objections are considered by the authorities?",
+      "Can written objections be amended or modified after they are filed?",
+      "What are the consequences of not filing written objections in a consumer complaint?",
+      "How do written objections affect the outcome of a consumer dispute resolution process?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-2",
+    "evidence.written_objections"
+  ],
+  "related_concepts": [
+    "evidence.written_objections"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "written",
+      "objections",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "complaint admission"
+    ],
+    "user_queries": [
+      "What is written objections?",
+      "How does written objections work?",
+      "Can you explain written objections?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

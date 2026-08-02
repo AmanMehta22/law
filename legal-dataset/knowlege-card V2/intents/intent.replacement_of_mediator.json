@@ -5,21 +5,46 @@
   "description": "Natural language queries a user may ask about: Replacement of Mediator",
   "content": {
     "queries": [
-      "How do I file replacement of mediator?",
-      "What are the steps for replacement of mediator?"
+      "What are the conditions for replacement of mediator in consumer disputes?",
+      "Can a mediator be replaced during an ongoing consumer mediation process?",
+      "How does the replacement of mediator affect the consumer complaint process?",
+      "What is the role of the replacement mediator in consumer dispute resolution?",
+      "Is the replacement of mediator mandatory in certain consumer cases?"
     ]
   },
   "derived_from": [
     "CPA2019-CH5-S78",
-    "procedure.replacement_of_mediator"
+    "procedure.replacement_of_mediator",
+    "alias.replacement_of_mediator"
   ],
   "related_concepts": [
-    "procedure.replacement_of_mediator"
+    "alias.replacement_of_mediator"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "replacement",
+      "mediator",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "appointing a new mediator",
+      "change of mediator",
+      "mediator replacement process",
+      "mediator substitution",
+      "new mediator appointment"
+    ],
+    "user_queries": [
+      "What is replacement of mediator?",
+      "How does replacement of mediator work?",
+      "Can you explain replacement of mediator?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

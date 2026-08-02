@@ -1,24 +1,45 @@
 {
   "concept_id": "intent.national_commission_must_dispose_of_complaints",
   "concept_type": "intent",
-  "title": "Questions about National Commission must dispose of complaints",
-  "description": "Natural language queries a user may ask about: National Commission must dispose of complaints",
+  "title": "Questions about National Commission Must Dispose Of Complaints",
+  "description": "Natural language queries a user may ask about: National Commission Must Dispose Of Complaints",
   "content": {
     "queries": [
-      "How does the National Commission handle complaints?"
+      "What is national commission must dispose of complaints?",
+      "How does national commission must dispose of complaints work?",
+      "Can you explain national commission must dispose of complaints?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S59-1",
-    "obligation.national_commission_must_dispose_of_complaints"
+    "obligation.national_commission_must_dispose_of_complaints",
+    "alias.national_commission_must_dispose_of_complaints"
   ],
   "related_concepts": [
-    "obligation.national_commission_must_dispose_of_complaints"
+    "alias.national_commission_must_dispose_of_complaints"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "national",
+      "commission",
+      "dispose",
+      "complaints",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "National Commission complaints disposal"
+    ],
+    "user_queries": [
+      "How does the National Commission handle complaints?",
+      "What is national commission must dispose of complaints?",
+      "How does national commission must dispose of complaints work?",
+      "Can you explain national commission must dispose of complaints?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

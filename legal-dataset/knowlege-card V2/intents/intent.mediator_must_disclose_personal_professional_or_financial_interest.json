@@ -1,24 +1,48 @@
 {
   "concept_id": "intent.mediator_must_disclose_personal_professional_or_financial_interest",
   "concept_type": "intent",
-  "title": "Questions about Mediator must disclose personal, professional or financial interest",
-  "description": "Natural language queries a user may ask about: Mediator must disclose personal, professional or financial interest",
+  "title": "Questions about Mediator Must Disclose Personal, Professional Or Financial Interest",
+  "description": "Natural language queries a user may ask about: Mediator Must Disclose Personal, Professional Or Financial Interest",
   "content": {
     "queries": [
-      "What must a mediator disclose?"
+      "What personal interests must a mediator disclose to maintain impartiality?",
+      "How does a mediator's professional interest affect their disclosure requirements?",
+      "Can a mediator's financial interest in a case be a reason for disqualification?",
+      "What are the guidelines for a mediator to disclose their personal, professional, or financial interests?",
+      "Do mediators have to disclose any potential conflicts of interest before proceeding with mediation?"
     ]
   },
   "derived_from": [
     "CPA2019-CH5-S77",
-    "obligation.mediator_must_disclose_personal_professional_or_financial_in"
+    "obligation.mediator_must_disclose_personal_professional_or_financial_in",
+    "alias.mediator_must_disclose_personal_professional_or_financial_interest"
   ],
   "related_concepts": [
-    "obligation.mediator_must_disclose_personal_professional_or_financial_in"
+    "alias.mediator_must_disclose_personal_professional_or_financial_interest"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "mediator",
+      "disclose",
+      "personal",
+      "professional",
+      "financial",
+      "interest",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "reveal",
+      "declare"
+    ],
+    "user_queries": [
+      "What must a mediator disclose?",
+      "What is district commission references mediator must disclose circumstances affecting independence or impartiality?",
+      "How does district commission references mediator must disclose circumstances affecting independence or impartiality work?",
+      "Can you explain district commission references mediator must disclose circumstances affecting independence or impartiality?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

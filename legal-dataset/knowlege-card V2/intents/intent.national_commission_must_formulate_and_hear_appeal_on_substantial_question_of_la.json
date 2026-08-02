@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.national_commission_must_formulate_and_hear_appeal_on_substantial_question_of_la",
   "concept_type": "intent",
-  "title": "Questions about National Commission must formulate and hear appeal on substantial question of law",
-  "description": "Natural language queries a user may ask about: National Commission must formulate and hear appeal on substantial question of law",
+  "title": "Questions about National Commission Must Formulate And Hear Appeal On Substantial Question Of Law",
+  "description": "Natural language queries a user may ask about: National Commission Must Formulate And Hear Appeal On Substantial Question Of Law",
   "content": {
     "queries": [
-      "What are the obligations of the National Commission in case of substantial question of law?"
+      "What is the process for the National Commission to hear an appeal on a substantial question of law?",
+      "How does the National Commission formulate an appeal on a substantial question of law?",
+      "Can the National Commission refuse to hear an appeal on a substantial question of law?",
+      "What are the grounds for the National Commission to formulate and hear an appeal on a substantial question of law?",
+      "How long does the National Commission have to hear an appeal on a substantial question of law?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S51-4",
-    "obligation.national_commission_must_formulate_and_hear_appeal_on_substa"
+    "obligation.national_commission_must_formulate_and_hear_appeal_on_substa",
+    "alias.national_commission_must_formulate_and_hear_appeal_on_substantial_question_of_la"
   ],
   "related_concepts": [
-    "obligation.national_commission_must_formulate_and_hear_appeal_on_substa"
+    "alias.national_commission_must_formulate_and_hear_appeal_on_substantial_question_of_la"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "national",
+      "commission",
+      "formulate",
+      "hear",
+      "appeal",
+      "substantial",
+      "question",
+      "law"
+    ],
+    "aliases": [
+      "formulate and hear appeal"
+    ],
+    "user_queries": [
+      "What are the obligations of the National Commission in case of substantial question of law?",
+      "What is hearing of appeal on substantial question of law?",
+      "How does hearing of appeal on substantial question of law work?",
+      "Can you explain hearing of appeal on substantial question of law?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

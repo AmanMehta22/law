@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.memorandum_of_appeal_2",
+  "concept_type": "intent",
+  "title": "Questions about Memorandum of appeal",
+  "description": "Natural language queries a user may ask about: Memorandum of appeal",
+  "content": {
+    "queries": [
+      "What must be included in a memorandum of appeal?",
+      "How is a memorandum of appeal different from other legal documents?",
+      "Can a memorandum of appeal be amended after it's filed?",
+      "What is the purpose of filing a memorandum of appeal?",
+      "Is a memorandum of appeal required for all types of appeals?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S51-3",
+    "evidence.memorandum_of_appeal"
+  ],
+  "related_concepts": [
+    "evidence.memorandum_of_appeal"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "memorandum",
+      "appeal",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "appeal petition",
+      "statement of appeal"
+    ],
+    "user_queries": [
+      "What is appellant must state substantial question of law?",
+      "How does appellant must state substantial question of law work?",
+      "Can you explain appellant must state substantial question of law?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

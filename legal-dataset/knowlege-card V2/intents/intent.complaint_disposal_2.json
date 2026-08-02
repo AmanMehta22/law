@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.complaint_disposal_2",
+  "concept_type": "intent",
+  "title": "Questions about Complaint disposal",
+  "description": "Natural language queries a user may ask about: Complaint disposal",
+  "content": {
+    "queries": [
+      "What are the different modes of disposing of a consumer complaint?",
+      "Can a consumer complaint be disposed of through a settlement between parties?",
+      "How does the consumer forum ensure that a complaint is disposed of fairly and efficiently?",
+      "What is the role of the consumer forum in disposing of a complaint?",
+      "Can a consumer appeal a decision if they are not satisfied with the disposal of their complaint?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-7",
+    "procedure.complaint_disposal"
+  ],
+  "related_concepts": [
+    "procedure.complaint_disposal"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "complaint",
+      "disposal",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "delay",
+      "postponement"
+    ],
+    "user_queries": [
+      "What is adjournment exception?",
+      "How does adjournment exception work?",
+      "Can you explain adjournment exception?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

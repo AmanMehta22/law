@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.filing_of_complaints_and_appeals_with_the_national_commission_handled_by_nationa",
+  "concept_type": "intent",
+  "title": "Questions about Filing of complaints and appeals with the National Commission handled by National Commission",
+  "description": "Natural language queries a user may ask about: Filing of complaints and appeals with the National Commission handled by National Commission",
+  "content": {
+    "queries": [
+      "What is filing of complaints and appeals with the national commission handled by national commission?",
+      "How does filing of complaints and appeals with the national commission handled by national commission work?",
+      "Can you explain filing of complaints and appeals with the national commission handled by national commission?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S58-1",
+    "relationship.procedure_filing_of_complaints_and_appeals_with_the_national_commissio_6"
+  ],
+  "related_concepts": [
+    "relationship.procedure_filing_of_complaints_and_appeals_with_the_national_commissio_6"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "filing",
+      "complaints",
+      "appeals",
+      "national",
+      "commission",
+      "handled",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is filing of complaints and appeals with the national commission handled by national commission?",
+      "How does filing of complaints and appeals with the national commission handled by national commission work?",
+      "Can you explain filing of complaints and appeals with the national commission handled by national commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

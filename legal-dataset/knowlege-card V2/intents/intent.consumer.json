@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Consumer",
   "content": {
     "queries": [
-      "What is a consumer?",
-      "What is the definition of a consumer?",
-      "What is the meaning of a consumer in the Consumer Protection Act, 2019?"
+      "Who is considered a consumer under the Consumer Protection Act?",
+      "What rights do consumers have under the Act?",
+      "How does the law define a consumer?",
+      "Can businesses be considered consumers in certain situations?",
+      "What protections are in place for consumers who purchase goods or services online?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-7",
-    "definition.consumer"
+    "definition.consumer",
+    "alias.consumer"
   ],
   "related_concepts": [
-    "definition.consumer"
+    "alias.consumer"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "consumer",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "how"
+    ],
+    "aliases": [
+      "customer",
+      "buyer"
+    ],
+    "user_queries": [
+      "What is consumer?",
+      "How does consumer work?",
+      "Can you explain consumer?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

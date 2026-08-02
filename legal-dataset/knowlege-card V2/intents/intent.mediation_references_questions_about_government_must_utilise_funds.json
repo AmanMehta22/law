@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.mediation_references_questions_about_government_must_utilise_funds",
+  "concept_type": "intent",
+  "title": "Questions about Mediation references Questions about Government must utilise funds",
+  "description": "Natural language queries a user may ask about: Mediation references Questions about Government must utilise funds",
+  "content": {
+    "queries": [
+      "How do mediation references relate to government utilisation of funds for consumer protection?",
+      "Can mediation references help resolve issues with government utilisation of funds?",
+      "What is the process for mediation references in cases of government utilisation of funds?",
+      "How do I file a mediation reference regarding government utilisation of funds?",
+      "What are the benefits of using mediation references for government utilisation of funds disputes?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S39-2",
+    "CPA2019-CH8-S101-2",
+    "relationship.alias_mediation_references_intent_government_must_utilise_funds"
+  ],
+  "related_concepts": [
+    "relationship.alias_mediation_references_intent_government_must_utilise_funds"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "mediation",
+      "references",
+      "government",
+      "utilise",
+      "funds",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "appeal to national commission",
+      "appeal to national consumer commission",
+      "national appeal",
+      "national commission",
+      "national commission appeal"
+    ],
+    "user_queries": [
+      "What is government must utilise funds?",
+      "How does government must utilise funds work?",
+      "Can you explain government must utilise funds?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

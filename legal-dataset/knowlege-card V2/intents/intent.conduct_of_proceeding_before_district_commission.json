@@ -5,21 +5,44 @@
   "description": "Natural language queries a user may ask about: Conduct of Proceeding before District Commission",
   "content": {
     "queries": [
-      "How do I file conduct of proceeding before district commission?",
-      "What are the steps for conduct of proceeding before district commission?"
+      "What is the procedure for conducting proceedings before a District Commission?",
+      "Can a District Commission review its own proceedings?",
+      "How are proceedings conducted before a District Commission in case of a dispute?",
+      "What are the powers of a District Commission during a proceeding?",
+      "Can a consumer appeal a decision made by a District Commission?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S36-1",
-    "procedure.conduct_of_proceeding_before_district_commission"
+    "procedure.conduct_of_proceeding_before_district_commission",
+    "alias.conduct_of_proceeding_before_district_commission"
   ],
   "related_concepts": [
-    "procedure.conduct_of_proceeding_before_district_commission"
+    "alias.conduct_of_proceeding_before_district_commission"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "conduct",
+      "proceeding",
+      "before",
+      "district",
+      "commission",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "district commission proceedings",
+      "district consumer forum hearing",
+      "proceedings before district commission"
+    ],
+    "user_queries": [
+      "What is conduct of proceeding before district commission?",
+      "How does conduct of proceeding before district commission work?",
+      "Can you explain conduct of proceeding before district commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

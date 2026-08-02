@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: District Commission must consider complaint filed on behalf of multiple consumers",
   "content": {
     "queries": [
+      "What is the process for filing a complaint on behalf of multiple consumers?",
+      "How does a district commission handle complaints filed by a group of consumers?",
+      "Can a single consumer be part of multiple complaints filed with a district commission?",
+      "What are the requirements for a complaint to be considered as filed on behalf of multiple consumers?",
+      "How does a district commission ensure that the rights of all consumers are protected in a group complaint?"
+    ]
+  },
+  "derived_from": [
+    "alias.district_commission_must_consider_complaint_filed_on_behalf_of_multiple_consumer"
+  ],
+  "related_concepts": [
+    "alias.district_commission_must_consider_complaint_filed_on_behalf_of_multiple_consumer"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commission",
+      "consider",
+      "complaint",
+      "filed",
+      "behalf",
+      "multiple",
+      "consumers"
+    ],
+    "aliases": [
+      "class action complaint",
+      "consumer collective complaint",
+      "group complaint",
+      "multiple consumer complaint consideration"
+    ],
+    "user_queries": [
       "What is district commission must consider complaint filed on behalf of multiple consumers?",
       "How does district commission must consider complaint filed on behalf of multiple consumers work?",
       "Can you explain district commission must consider complaint filed on behalf of multiple consumers?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S35-1",
-    "obligation.district_commission_must_consider_complaint_filed_on_behalf_"
-  ],
-  "related_concepts": [
-    "obligation.district_commission_must_consider_complaint_filed_on_behalf_"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

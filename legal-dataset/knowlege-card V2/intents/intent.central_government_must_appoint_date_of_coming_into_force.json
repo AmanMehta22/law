@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Central Government must appoint date of coming into force",
   "content": {
     "queries": [
+      "When does the central government typically appoint the date of coming into force for new regulations?",
+      "How does the central government decide on the date of coming into force for consumer protection laws?",
+      "What factors influence the central government's decision on appointing the date of coming into force?",
+      "Can the date of coming into force be changed once it is appointed by the central government?",
+      "What happens to existing laws when the central government appoints a new date of coming into force for amended laws?"
+    ]
+  },
+  "derived_from": [
+    "alias.central_government_must_appoint_date_of_coming_into_force"
+  ],
+  "related_concepts": [
+    "alias.central_government_must_appoint_date_of_coming_into_force"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "government",
+      "appoint",
+      "date",
+      "coming",
+      "into",
+      "force",
+      "natural"
+    ],
+    "aliases": [
+      "central government enforcement schedule",
+      "effective date announcement",
+      "enforcement date notification"
+    ],
+    "user_queries": [
       "What is central government must appoint date of coming into force?",
       "How does central government must appoint date of coming into force work?",
       "Can you explain central government must appoint date of coming into force?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH1-S1-3",
-    "obligation.central_government_must_appoint_date_of_coming_into_force"
-  ],
-  "related_concepts": [
-    "obligation.central_government_must_appoint_date_of_coming_into_force"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

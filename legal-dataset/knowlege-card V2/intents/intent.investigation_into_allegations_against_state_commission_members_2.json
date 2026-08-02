@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.investigation_into_allegations_against_state_commission_members_2",
+  "concept_type": "intent",
+  "title": "Questions about Investigation into allegations against State Commission members",
+  "description": "Natural language queries a user may ask about: Investigation into allegations against State Commission members",
+  "content": {
+    "queries": [
+      "How does National Commission handle allegations against State Commission members",
+      "What is copies of documents?",
+      "How does copies of documents work?",
+      "Can you explain copies of documents?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S70-1",
+    "procedure.investigation_into_allegations_against_state_commission_memb"
+  ],
+  "related_concepts": [
+    "procedure.investigation_into_allegations_against_state_commission_memb"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "investigation",
+      "into",
+      "allegations",
+      "against",
+      "state",
+      "commission",
+      "members",
+      "natural"
+    ],
+    "aliases": [
+      "inquiry"
+    ],
+    "user_queries": [
+      "How does National Commission handle allegations against State Commission members",
+      "What is copies of documents?",
+      "How does copies of documents work?",
+      "Can you explain copies of documents?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

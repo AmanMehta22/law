@@ -5,23 +5,48 @@
   "description": "Natural language queries a user may ask about: Right to Review",
   "content": {
     "queries": [
-      "can I appeal this order",
-      "how to review a decision",
-      "can I review an order passed by the National Commission"
+      "Who has the right to review an order made by the National Commission?",
+      "What is the timeframe for exercising the right to review an order?",
+      "On what grounds can an order be reviewed by the National Commission?",
+      "How does one apply for a review of an order made by the National Commission?",
+      "Is the right to review an order limited to certain types of cases?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S50",
     "CPA2019-CH4-S60",
-    "right.right_to_review"
+    "right.right_to_review",
+    "alias.right_to_review"
   ],
   "related_concepts": [
-    "right.right_to_review"
+    "alias.right_to_review"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "right",
+      "review",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "right to appeal",
+      "right to re-examine",
+      "right to reconsideration"
+    ],
+    "user_queries": [
+      "can I appeal this order",
+      "how to review a decision",
+      "can I review an order passed by the National Commission",
+      "What is national commission must review order?",
+      "How does national commission must review order work?",
+      "Can you explain national commission must review order?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

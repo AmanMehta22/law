@@ -1,24 +1,46 @@
 {
   "concept_id": "intent.director_general_must_submit_inquiries_or_investigations",
   "concept_type": "intent",
-  "title": "Questions about Director-General must submit inquiries or investigations",
-  "description": "Natural language queries a user may ask about: Director-General must submit inquiries or investigations",
+  "title": "Questions about Director-General Must Submit Inquiries Or Investigations",
+  "description": "Natural language queries a user may ask about: Director-General Must Submit Inquiries Or Investigations",
   "content": {
     "queries": [
-      "What are the duties of the Director-General?"
+      "What is director-general must submit inquiries or investigations?",
+      "How does director-general must submit inquiries or investigations work?",
+      "Can you explain director-general must submit inquiries or investigations?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S15-5",
-    "obligation.director_general_must_submit_inquiries_or_investigations"
+    "obligation.director_general_must_submit_inquiries_or_investigations",
+    "alias.director_general_must_submit_inquiries_or_investigations"
   ],
   "related_concepts": [
-    "obligation.director_general_must_submit_inquiries_or_investigations"
+    "alias.director_general_must_submit_inquiries_or_investigations"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "director",
+      "general",
+      "submit",
+      "inquiries",
+      "investigations",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "report",
+      "submission"
+    ],
+    "user_queries": [
+      "What are the duties of the Director-General?",
+      "What is director-general must submit inquiries or investigations?",
+      "How does director-general must submit inquiries or investigations work?",
+      "Can you explain director-general must submit inquiries or investigations?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

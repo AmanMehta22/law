@@ -5,20 +5,43 @@
   "description": "Natural language queries a user may ask about: Right to Reimbursement",
   "content": {
     "queries": [
-      "can I get my money back"
+      "What are the rights of consumers regarding reimbursement of prices?",
+      "How does the right to reimbursement of prices work in case of defective goods or services?",
+      "Can a consumer waive their right to reimbursement of prices?",
+      "What are the conditions for exercising the right to reimbursement of prices?",
+      "Is the right to reimbursement of prices absolute or subject to certain conditions?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S20",
-    "right.right_to_reimbursement"
+    "right.right_to_reimbursement",
+    "alias.right_to_reimbursement"
   ],
   "related_concepts": [
-    "right.right_to_reimbursement"
+    "alias.right_to_reimbursement"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "right",
+      "reimbursement",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "right to refund"
+    ],
+    "user_queries": [
+      "can I get my money back",
+      "What is central authority must give opportunity of being heard?",
+      "How does central authority must give opportunity of being heard work?",
+      "Can you explain central authority must give opportunity of being heard?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,24 +1,48 @@
 {
   "concept_id": "intent.contest_lottery_game_of_chance_or_skill_exception",
   "concept_type": "intent",
-  "title": "Questions about Contest, lottery, game of chance or skill exception",
-  "description": "Natural language queries a user may ask about: Contest, lottery, game of chance or skill exception",
+  "title": "Questions about Contest, Lottery, Game Of Chance Or Skill Exception",
+  "description": "Natural language queries a user may ask about: Contest, Lottery, Game Of Chance Or Skill Exception",
   "content": {
     "queries": [
-      "What are the exceptions to unfair trade practices in contests and lotteries?"
+      "What is the difference between a game of chance and a game of skill?",
+      "Can I participate in a contest that involves a game of chance without violating any laws?",
+      "How do I know if a lottery is legitimate or not?",
+      "What are the rules for conducting a contest that involves a game of skill?",
+      "Are there any exceptions to the rules for games of chance or skill?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-47",
-    "exception.except_such_contest_lottery_game_of_chance_or_skill_as_may_b"
+    "exception.except_such_contest_lottery_game_of_chance_or_skill_as_may_b",
+    "alias.contest_lottery_game_of_chance_or_skill_exception"
   ],
   "related_concepts": [
-    "exception.except_such_contest_lottery_game_of_chance_or_skill_as_may_b"
+    "alias.contest_lottery_game_of_chance_or_skill_exception"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "contest",
+      "lottery",
+      "game",
+      "chance",
+      "skill",
+      "exception",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "promotion",
+      "sale"
+    ],
+    "user_queries": [
+      "What are the exceptions to unfair trade practices in contests and lotteries?",
+      "What is contest, lottery, game of chance or skill exception?",
+      "How does contest, lottery, game of chance or skill exception work?",
+      "Can you explain contest, lottery, game of chance or skill exception?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

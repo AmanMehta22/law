@@ -1,0 +1,56 @@
+{
+  "concept_id": "intent.right_to_demand_production_of_documents_2",
+  "concept_type": "intent",
+  "title": "Questions about Right to Demand Production of Documents",
+  "description": "Natural language queries a user may ask about: Right to Demand Production of Documents",
+  "content": {
+    "queries": [
+      "What is right to demand production of documents?",
+      "How does right to demand production of documents work?",
+      "Can you explain right to demand production of documents?"
+    ]
+  },
+  "derived_from": [
+    "right.right_to_demand_production_of_documents",
+    "example.right_to_demand_production_of_documents"
+  ],
+  "related_concepts": [
+    "example.right_to_demand_production_of_documents"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "right",
+      "demand",
+      "production",
+      "documents",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "right to access documents"
+    ],
+    "user_queries": [
+      "can auditor demand documents",
+      "What is audit documents?",
+      "How does audit documents work?",
+      "Can you explain audit documents?",
+      "What is right to demand production of documents?",
+      "How does right to demand production of documents work?",
+      "Can you explain right to demand production of documents?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "concept_id": "intent.district_commission_references_delayed_appeal",
+  "concept_type": "intent",
+  "title": "Questions about District Commission references Delayed Appeal",
+  "description": "Natural language queries a user may ask about: District Commission references Delayed Appeal",
+  "content": {
+    "queries": [
+      "What is district commission references delayed appeal?",
+      "How does district commission references delayed appeal work?",
+      "Can you explain district commission references delayed appeal?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S41",
+    "CPA2019-CH8-S102-2",
+    "relationship.alias_district_commission_references_alias_delayed_appeal"
+  ],
+  "related_concepts": [
+    "relationship.alias_district_commission_references_alias_delayed_appeal"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commission",
+      "references",
+      "delayed",
+      "appeal",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "late appeal"
+    ],
+    "user_queries": [
+      "What is district commission references delayed appeal?",
+      "How does district commission references delayed appeal work?",
+      "Can you explain district commission references delayed appeal?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

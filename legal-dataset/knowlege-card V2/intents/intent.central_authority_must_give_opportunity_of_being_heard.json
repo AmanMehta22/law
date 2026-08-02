@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Central Authority must give opportunity of being heard",
   "content": {
     "queries": [
+      "What opportunities must the Central Authority provide for being heard by consumers?",
+      "How does the Central Authority ensure that all stakeholders have an opportunity to be heard?",
+      "Can the Central Authority refuse to hear certain individuals or groups?",
+      "What is the process for requesting an opportunity to be heard by the Central Authority?",
+      "Are there any time limits for providing an opportunity to be heard by the Central Authority?"
+    ]
+  },
+  "derived_from": [
+    "alias.central_authority_must_give_opportunity_of_being_heard"
+  ],
+  "related_concepts": [
+    "alias.central_authority_must_give_opportunity_of_being_heard"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "authority",
+      "give",
+      "opportunity",
+      "being",
+      "heard",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "central authority right to hearing",
+      "fair hearing by central authority",
+      "opportunity to be heard by central authority"
+    ],
+    "user_queries": [
       "What is central authority must give opportunity of being heard?",
       "How does central authority must give opportunity of being heard work?",
       "Can you explain central authority must give opportunity of being heard?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH3-S20",
-    "obligation.central_authority_must_give_opportunity_of_being_heard"
-  ],
-  "related_concepts": [
-    "obligation.central_authority_must_give_opportunity_of_being_heard"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

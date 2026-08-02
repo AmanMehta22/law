@@ -1,24 +1,48 @@
 {
   "concept_id": "intent.president_and_members_must_conduct_proceedings",
   "concept_type": "intent",
-  "title": "Questions about President and members must conduct proceedings",
-  "description": "Natural language queries a user may ask about: President and members must conduct proceedings",
+  "title": "Questions about President And Members Must Conduct Proceedings",
+  "description": "Natural language queries a user may ask about: President And Members Must Conduct Proceedings",
   "content": {
     "queries": [
-      "How are proceedings conducted in District Commission?"
+      "Who conducts proceedings before a consumer commission?",
+      "What is the role of the President in conducting proceedings?",
+      "Can members of a consumer commission conduct proceedings independently?",
+      "How do the President and members ensure fairness in conducting proceedings?",
+      "Are the President and members required to follow specific procedures when conducting proceedings?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S36-1",
-    "obligation.president_and_members_of_the_district_commission_must_conduc"
+    "obligation.president_and_members_of_the_district_commission_must_conduc",
+    "alias.president_and_members_must_conduct_proceedings"
   ],
   "related_concepts": [
-    "obligation.president_and_members_of_the_district_commission_must_conduc"
+    "alias.president_and_members_must_conduct_proceedings"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "president",
+      "members",
+      "conduct",
+      "proceedings",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "hearing",
+      "trial"
+    ],
+    "user_queries": [
+      "How are proceedings conducted in District Commission?",
+      "What is conduct of proceeding before district commission?",
+      "How does conduct of proceeding before district commission work?",
+      "Can you explain conduct of proceeding before district commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

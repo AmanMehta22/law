@@ -1,25 +1,49 @@
 {
   "concept_id": "intent.complainant_must_satisfy_the_commission",
   "concept_type": "intent",
-  "title": "Questions about Complainant must satisfy the Commission",
-  "description": "Natural language queries a user may ask about: Complainant must satisfy the Commission",
+  "title": "Questions about Complainant Must Satisfy The Commission",
+  "description": "Natural language queries a user may ask about: Complainant Must Satisfy The Commission",
   "content": {
     "queries": [
-      "late complaint",
-      "delayed filing"
+      "What are the requirements for a complainant to satisfy the commission?",
+      "How can a complainant ensure they satisfy the commission's requirements?",
+      "What happens if a complainant fails to satisfy the commission?",
+      "Can a complainant appeal if they are not satisfied with the commission's decision?",
+      "What are the consequences of not satisfying the commission as a complainant?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S69-2",
-    "obligation.complainant_must_satisfy_the_commission_that_he_had_sufficie"
+    "obligation.complainant_must_satisfy_the_commission_that_he_had_sufficie",
+    "alias.complainant_must_satisfy_the_commission"
   ],
   "related_concepts": [
-    "obligation.complainant_must_satisfy_the_commission_that_he_had_sufficie"
+    "alias.complainant_must_satisfy_the_commission"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "complainant",
+      "satisfy",
+      "commission",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "consumer",
+      "applicant"
+    ],
+    "user_queries": [
+      "late complaint",
+      "delayed filing",
+      "What is complainant must satisfy the commission?",
+      "How does complainant must satisfy the commission work?",
+      "Can you explain complainant must satisfy the commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.product_liability_compensation_2",
+  "concept_type": "intent",
+  "title": "Questions about Product Liability Compensation",
+  "description": "Natural language queries a user may ask about: Product Liability Compensation",
+  "content": {
+    "queries": [
+      "What are the key factors that determine product liability compensation?",
+      "How is product liability compensation calculated in case of a product defect?",
+      "Can I claim product liability compensation for a product that was used incorrectly?",
+      "What is the role of the manufacturer in product liability compensation?",
+      "Are there any limitations to product liability compensation claims?"
+    ]
+  },
+  "derived_from": [
+    "penalty.product_liability_compensation",
+    "example.product_liability_compensation"
+  ],
+  "related_concepts": [
+    "example.product_liability_compensation"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "product",
+      "liability",
+      "compensation",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is product liability compensation?",
+      "How does product liability compensation work?",
+      "Can you explain product liability compensation?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

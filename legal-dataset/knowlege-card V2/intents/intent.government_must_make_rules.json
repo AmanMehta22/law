@@ -1,25 +1,48 @@
 {
   "concept_id": "intent.government_must_make_rules",
   "concept_type": "intent",
-  "title": "Questions about Government must make rules",
-  "description": "Natural language queries a user may ask about: Government must make rules",
+  "title": "Questions about Government Must Make Rules",
+  "description": "Natural language queries a user may ask about: Government Must Make Rules",
   "content": {
     "queries": [
-      "What are the rules under the Consumer Protection Act?"
+      "What rules must the government make regarding consumer protection?",
+      "How does the government ensure that rules are made to protect consumers?",
+      "Can the government change the rules regarding consumer protection without notice?",
+      "What is the process for the government to make new rules under the Consumer Protection Act?",
+      "Are the rules made by the government regarding consumer protection binding on all states?"
     ]
   },
   "derived_from": [
     "CPA2019-CH8-S101-2",
     "CPA2019-CH8-S102-2",
-    "obligation.government_must_make_rules"
+    "obligation.government_must_make_rules",
+    "alias.government_must_make_rules"
   ],
   "related_concepts": [
-    "obligation.government_must_make_rules"
+    "alias.government_must_make_rules"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "government",
+      "make",
+      "rules",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "regulations",
+      "guidelines"
+    ],
+    "user_queries": [
+      "What are the rules under the Consumer Protection Act?",
+      "How do I file appeal to national commission?",
+      "What are the steps for appeal to national commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

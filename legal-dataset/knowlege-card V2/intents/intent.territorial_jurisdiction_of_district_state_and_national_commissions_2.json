@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.territorial_jurisdiction_of_district_state_and_national_commissions_2",
+  "concept_type": "intent",
+  "title": "Questions about Territorial jurisdiction of District, State and National Commissions",
+  "description": "Natural language queries a user may ask about: Territorial jurisdiction of District, State and National Commissions",
+  "content": {
+    "queries": [
+      "Are there any specific territorial limits for District, State, and National Commissions?",
+      "Can a consumer file a complaint in a different state if the product was purchased online?",
+      "Do District Commissions have the power to handle cases that involve interstate transactions?",
+      "How do State Commissions coordinate with National Commissions on territorial jurisdiction issues?",
+      "What happens if a complaint falls under the jurisdiction of multiple commissions?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S72-3",
+    "jurisdiction.district_commission_state_commission_national_commission_not_specified_not_speci"
+  ],
+  "related_concepts": [
+    "jurisdiction.district_commission_state_commission_national_commission_not_specified_not_speci"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "territorial",
+      "jurisdiction",
+      "district",
+      "state",
+      "national",
+      "commissions",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is territorial jurisdiction of district, state and national commissions?",
+      "How does territorial jurisdiction of district, state and national commissions work?",
+      "Can you explain territorial jurisdiction of district, state and national commissions?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

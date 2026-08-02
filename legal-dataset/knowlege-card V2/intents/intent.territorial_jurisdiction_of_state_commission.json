@@ -5,22 +5,45 @@
   "description": "Natural language queries a user may ask about: Territorial jurisdiction of State Commission",
   "content": {
     "queries": [
+      "What areas do State Commissions have jurisdiction over?",
+      "How is the territorial jurisdiction of a State Commission determined?",
+      "Can a State Commission hear cases from other states?",
+      "What is the scope of territorial jurisdiction for State Commissions in India?",
+      "Do State Commissions have jurisdiction over all consumer disputes within their territory?"
+    ]
+  },
+  "derived_from": [
+    "alias.territorial_jurisdiction_of_state_commission"
+  ],
+  "related_concepts": [
+    "alias.territorial_jurisdiction_of_state_commission"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "territorial",
+      "jurisdiction",
+      "state",
+      "commission",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "state commission area of authority",
+      "state commission geographical area",
+      "state commission jurisdiction"
+    ],
+    "user_queries": [
+      "What is state commission's administrative control?",
+      "How does state commission's administrative control work?",
+      "Can you explain state commission's administrative control?",
       "What is territorial jurisdiction of state commission?",
       "How does territorial jurisdiction of state commission work?",
       "Can you explain territorial jurisdiction of state commission?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S42-2",
-    "jurisdiction.state_commission_state_capital_and_other_notified_places"
-  ],
-  "related_concepts": [
-    "jurisdiction.state_commission_state_capital_and_other_notified_places"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

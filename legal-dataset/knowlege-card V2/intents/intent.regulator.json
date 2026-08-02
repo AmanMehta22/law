@@ -5,23 +5,52 @@
   "description": "Natural language queries a user may ask about: Regulator",
   "content": {
     "queries": [
-      "What is regulator?",
-      "How does regulator work?",
-      "Can you explain regulator?"
+      "What are the powers and functions of the regulator under the Consumer Protection Act?",
+      "How does the regulator handle complaints referred by the central authority?",
+      "Can the regulator investigate a matter on its own or must it be referred by the central authority?",
+      "What is the role of the regulator in protecting consumer rights?",
+      "How does the regulator ensure compliance with the Consumer Protection Act?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-40",
     "CPA2019-CH3-S19-2",
-    "authority.regulator"
+    "authority.regulator",
+    "definition.regulator",
+    "alias.regulator"
   ],
   "related_concepts": [
-    "authority.regulator"
+    "alias.regulator"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "regulator",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "central"
+    ],
+    "aliases": [
+      "Authority",
+      "Enforcement Agency",
+      "Oversight Body",
+      "Watchdog",
+      "authority",
+      "regulatory body"
+    ],
+    "user_queries": [
+      "What is regulator?",
+      "How does regulator work?",
+      "Can you explain regulator?",
+      "What is central authority must refer matter to regulator?",
+      "How does central authority must refer matter to regulator work?",
+      "Can you explain central authority must refer matter to regulator?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

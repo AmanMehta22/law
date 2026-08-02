@@ -1,24 +1,45 @@
 {
   "concept_id": "intent.state_government_must_direct_in_case_of_vacancy",
   "concept_type": "intent",
-  "title": "Questions about State Government must direct in case of vacancy",
-  "description": "Natural language queries a user may ask about: State Government must direct in case of vacancy",
+  "title": "Questions about State Government Must Direct In Case Of Vacancy",
+  "description": "Natural language queries a user may ask about: State Government Must Direct In Case Of Vacancy",
   "content": {
     "queries": [
-      "what to do in case of vacancy in District Commission"
+      "What is state government must direct in case of vacancy?",
+      "How does state government must direct in case of vacancy work?",
+      "Can you explain state government must direct in case of vacancy?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S32",
-    "obligation.state_government_may_direct_any_other_district_commission_or"
+    "obligation.state_government_may_direct_any_other_district_commission_or",
+    "alias.state_government_must_direct_in_case_of_vacancy"
   ],
   "related_concepts": [
-    "obligation.state_government_may_direct_any_other_district_commission_or"
+    "alias.state_government_must_direct_in_case_of_vacancy"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "state",
+      "government",
+      "direct",
+      "case",
+      "vacancy",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "direction in case of vacancy"
+    ],
+    "user_queries": [
+      "what to do in case of vacancy in District Commission",
+      "What is state government must direct in case of vacancy?",
+      "How does state government must direct in case of vacancy work?",
+      "Can you explain state government must direct in case of vacancy?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

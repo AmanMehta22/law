@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Commission must enforce order",
   "content": {
     "queries": [
+      "What happens if a company fails to comply with an order enforced by the commission?",
+      "How does the commission ensure that its orders are enforced effectively?",
+      "Can the commission modify or revoke an order if circumstances change?",
+      "What is the process for appealing a commission-enforced order?",
+      "Are there any penalties for non-compliance with a commission-enforced order?"
+    ]
+  },
+  "derived_from": [
+    "alias.commission_must_enforce_order"
+  ],
+  "related_concepts": [
+    "alias.commission_must_enforce_order"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "commission",
+      "enforce",
+      "order",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "commission enforcement powers",
+      "enforcing consumer protection orders",
+      "execution of orders",
+      "order enforcement"
+    ],
+    "user_queries": [
       "What is commission must enforce order?",
       "How does commission must enforce order work?",
       "Can you explain commission must enforce order?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S71",
-    "obligation.district_commission_state_commission_or_the_national_commiss"
-  ],
-  "related_concepts": [
-    "obligation.district_commission_state_commission_or_the_national_commiss"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

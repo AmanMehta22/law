@@ -1,24 +1,45 @@
 {
   "concept_id": "intent.central_council_must_meet_annually",
   "concept_type": "intent",
-  "title": "Questions about Central Council must meet annually",
-  "description": "Natural language queries a user may ask about: Central Council must meet annually",
+  "title": "Questions about Central Council Must Meet Annually",
+  "description": "Natural language queries a user may ask about: Central Council Must Meet Annually",
   "content": {
     "queries": [
-      "How often must the Central Council meet?"
+      "What is central council must meet annually?",
+      "How does central council must meet annually work?",
+      "Can you explain central council must meet annually?"
     ]
   },
   "derived_from": [
     "CPA2019-CH2-S4-1",
-    "obligation.central_council_must_meet_at_least_once_a_year"
+    "obligation.central_council_must_meet_at_least_once_a_year",
+    "alias.central_council_must_meet_annually"
   ],
   "related_concepts": [
-    "obligation.central_council_must_meet_at_least_once_a_year"
+    "alias.central_council_must_meet_annually"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "council",
+      "meet",
+      "annually",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "annual meeting"
+    ],
+    "user_queries": [
+      "How often must the Central Council meet?",
+      "What is central council must meet annually?",
+      "How does central council must meet annually work?",
+      "Can you explain central council must meet annually?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

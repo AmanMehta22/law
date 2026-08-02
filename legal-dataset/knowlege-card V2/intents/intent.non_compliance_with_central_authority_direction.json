@@ -7,20 +7,41 @@
     "queries": [
       "What is non-compliance with central authority direction?",
       "How does non-compliance with central authority direction work?",
-      "Can you explain non-compliance with central authority direction?"
+      "Can you explain non-compliance with central authority direction?",
+      "What are the consequences of non-compliance with central authority direction?",
+      "How does non-compliance with central authority direction affect consumer rights?"
     ]
   },
   "derived_from": [
-    "CPA2019-CH7-S88",
-    "offence.whoever_fails_to_comply_with_any_direction_of_the_central_authority_under_sectio"
+    "alias.non_compliance_with_central_authority_direction"
   ],
   "related_concepts": [
-    "offence.whoever_fails_to_comply_with_any_direction_of_the_central_authority_under_sectio"
+    "alias.non_compliance_with_central_authority_direction"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "non",
+      "compliance",
+      "central",
+      "authority",
+      "direction",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "disobeying central authority",
+      "failing to comply with central authority",
+      "ignoring central authority orders",
+      "non-compliance with central government direction"
+    ],
+    "user_queries": [
+      "What is non-compliance with central authority direction?",
+      "How does non-compliance with central authority direction work?",
+      "Can you explain non-compliance with central authority direction?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

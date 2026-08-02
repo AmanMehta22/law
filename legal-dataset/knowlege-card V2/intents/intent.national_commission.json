@@ -5,11 +5,16 @@
   "description": "Natural language queries a user may ask about: National Commission",
   "content": {
     "queries": [
-      "complaint transfer between states"
+      "What are the powers of the National Commission in consumer protection cases?",
+      "How does the National Commission handle appeals from the State Commission?",
+      "Can I file a complaint directly with the National Commission?",
+      "What is the procedure for seeking an acknowledgment from the National Commission?",
+      "Is the National Commission the final authority for consumer dispute resolution?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-27",
+    "CPA2019-CH1-S2-29",
     "CPA2019-CH1-S2-35",
     "CPA2019-CH1-S2-39",
     "CPA2019-CH3-S18-2",
@@ -64,15 +69,37 @@
     "CPA2019-CH8-S103-2",
     "CPA2019-CH8-S95",
     "CPA2019-CH8-S98",
-    "authority.national_commission"
+    "authority.national_commission",
+    "definition.national_commission",
+    "alias.national_commission"
   ],
   "related_concepts": [
-    "authority.national_commission"
+    "alias.national_commission"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "national",
+      "commission",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "National Consumer Commission"
+    ],
+    "user_queries": [
+      "What is national commission?",
+      "How does national commission work?",
+      "Can you explain national commission?",
+      "What is acknowledgment?",
+      "How does acknowledgment work?",
+      "Can you explain acknowledgment?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

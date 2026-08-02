@@ -5,23 +5,43 @@
   "description": "Natural language queries a user may ask about: Licence suspension period",
   "content": {
     "queries": [
+      "How long can a licence be suspended for a first-time offence?",
+      "What factors determine the length of a licence suspension period?",
+      "Can a licence suspension period be extended or shortened?",
+      "What happens to my business during a licence suspension period?",
+      "Are there any conditions for reinstating a licence after suspension?"
+    ]
+  },
+  "derived_from": [
+    "alias.licence_suspension_period"
+  ],
+  "related_concepts": [
+    "alias.licence_suspension_period"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "licence",
+      "suspension",
+      "period",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "licence suspension deadline",
+      "licence suspension timeframe",
+      "period of licence suspension",
+      "suspension duration"
+    ],
+    "user_queries": [
       "What is licence suspension period?",
       "How does licence suspension period work?",
       "Can you explain licence suspension period?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH7-S90-3",
-    "CPA2019-CH7-S91-3",
-    "timeline.up_to_two_years"
-  ],
-  "related_concepts": [
-    "timeline.up_to_two_years"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

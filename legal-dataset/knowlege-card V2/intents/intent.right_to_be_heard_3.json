@@ -1,0 +1,70 @@
+{
+  "concept_id": "intent.right_to_be_heard_3",
+  "concept_type": "intent",
+  "title": "Questions about Right to be Heard",
+  "description": "Natural language queries a user may ask about: Right to be Heard",
+  "content": {
+    "queries": [
+      "how can I make my complaint heard",
+      "right to speak before order is passed",
+      "right to present case",
+      "can I dispute the lab report",
+      "can I present my case to the District Commission",
+      "What is admissibility decision time limit?",
+      "How does admissibility decision time limit work?",
+      "Can you explain admissibility decision time limit?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-9",
+    "CPA2019-CH3-S21-8",
+    "CPA2019-CH4-S36-2",
+    "CPA2019-CH4-S38-2",
+    "CPA2019-CH4-S38-3",
+    "right.right_to_be_heard"
+  ],
+  "related_concepts": [
+    "right.right_to_be_heard"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "right",
+      "heard",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "how"
+    ],
+    "aliases": [
+      "right to voice",
+      "right to a hearing",
+      "right to a fair hearing",
+      "right to present case",
+      "right to representation"
+    ],
+    "user_queries": [
+      "how can I make my complaint heard",
+      "right to speak before order is passed",
+      "right to present case",
+      "can I dispute the lab report",
+      "can I present my case to the District Commission",
+      "What is admissibility decision time limit?",
+      "How does admissibility decision time limit work?",
+      "Can you explain admissibility decision time limit?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

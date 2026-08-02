@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.consumer_mediation_cell_must_submit_quarterly_report",
   "concept_type": "intent",
-  "title": "Questions about Consumer mediation cell must submit quarterly report",
-  "description": "Natural language queries a user may ask about: Consumer mediation cell must submit quarterly report",
+  "title": "Questions about Consumer Mediation Cell Must Submit Quarterly Report",
+  "description": "Natural language queries a user may ask about: Consumer Mediation Cell Must Submit Quarterly Report",
   "content": {
     "queries": [
-      "what is the reporting requirement"
+      "What is consumer mediation cell must submit quarterly report?",
+      "How does consumer mediation cell must submit quarterly report work?",
+      "Can you explain consumer mediation cell must submit quarterly report?"
     ]
   },
   "derived_from": [
+    "CPA2019-CH5-S74-5",
     "CPA2019-CH8-S103-2",
-    "obligation.consumer_mediation_cell_must_submit_quarterly_report"
+    "obligation.consumer_mediation_cell_must_submit_quarterly_report",
+    "obligation.consumer_mediation_cell_shall_submit_a_quarterly_report",
+    "alias.consumer_mediation_cell_must_submit_quarterly_report"
   ],
   "related_concepts": [
-    "obligation.consumer_mediation_cell_must_submit_quarterly_report"
+    "alias.consumer_mediation_cell_must_submit_quarterly_report"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "consumer",
+      "mediation",
+      "cell",
+      "submit",
+      "quarterly",
+      "report",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "periodic reporting"
+    ],
+    "user_queries": [
+      "What are the reporting requirements for consumer mediation cells?",
+      "What is consumer mediation cell must submit quarterly report?",
+      "How does consumer mediation cell must submit quarterly report work?",
+      "Can you explain consumer mediation cell must submit quarterly report?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

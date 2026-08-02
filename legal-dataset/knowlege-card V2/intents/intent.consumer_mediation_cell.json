@@ -5,9 +5,11 @@
   "description": "Natural language queries a user may ask about: Consumer Mediation Cell",
   "content": {
     "queries": [
-      "What is consumer mediation cell?",
-      "How does consumer mediation cell work?",
-      "Can you explain consumer mediation cell?"
+      "What is the role of the Consumer Mediation Cell in handling consumer complaints?",
+      "How does the Consumer Mediation Cell assist in resolving consumer disputes?",
+      "Can the Consumer Mediation Cell impose an adjournment cost on a consumer?",
+      "What are the responsibilities of the Consumer Mediation Cell in the mediation process?",
+      "How can a consumer approach the Consumer Mediation Cell for assistance?"
     ]
   },
   "derived_from": [
@@ -20,15 +22,36 @@
     "CPA2019-CH5-S79-1",
     "CPA2019-CH8-S102-2",
     "CPA2019-CH8-S103-2",
-    "authority.consumer_mediation_cell"
+    "authority.consumer_mediation_cell",
+    "alias.consumer_mediation_cell"
   ],
   "related_concepts": [
-    "authority.consumer_mediation_cell"
+    "alias.consumer_mediation_cell"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "consumer",
+      "mediation",
+      "cell",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "Mediation Cell"
+    ],
+    "user_queries": [
+      "What is central government must establish consumer mediation cell?",
+      "How does central government must establish consumer mediation cell work?",
+      "Can you explain central government must establish consumer mediation cell?",
+      "What is adjournment cost imposition by district commission?",
+      "How does adjournment cost imposition by district commission work?",
+      "Can you explain adjournment cost imposition by district commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

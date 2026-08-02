@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: State Council meeting procedure",
   "content": {
     "queries": [
+      "What is the procedure for conducting a State Council meeting?",
+      "How often are State Council meetings held?",
+      "What are the rules for attending a State Council meeting?",
+      "Can the public attend State Council meetings?",
+      "How are decisions made during a State Council meeting?"
+    ]
+  },
+  "derived_from": [
+    "alias.state_council_meeting_procedure"
+  ],
+  "related_concepts": [
+    "alias.state_council_meeting_procedure"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "state",
+      "council",
+      "meeting",
+      "procedure",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "meeting rules and regulations",
+      "procedure for state council meetings",
+      "state council governance",
+      "state council protocols"
+    ],
+    "user_queries": [
       "What is state council meeting procedure?",
       "How does state council meeting procedure work?",
       "Can you explain state council meeting procedure?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH2-S6-4",
-    "obligation.state_council_shall_observe_prescribed_procedure_in_regard_t"
-  ],
-  "related_concepts": [
-    "obligation.state_council_shall_observe_prescribed_procedure_in_regard_t"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

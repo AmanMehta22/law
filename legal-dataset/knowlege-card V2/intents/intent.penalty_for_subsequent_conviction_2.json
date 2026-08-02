@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.penalty_for_subsequent_conviction_2",
+  "concept_type": "intent",
+  "title": "Questions about Penalty for subsequent conviction",
+  "description": "Natural language queries a user may ask about: Penalty for subsequent conviction",
+  "content": {
+    "queries": [
+      "What penalty can I expect for a second conviction under the Consumer Protection Act?",
+      "How does a subsequent conviction affect my business licence?",
+      "Can a penalty for subsequent conviction be appealed?",
+      "What are the consequences of multiple convictions under the Act?",
+      "How does the penalty for subsequent conviction impact my consumer rights?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH7-S90-3",
+    "penalty.second_or_subsequent_conviction"
+  ],
+  "related_concepts": [
+    "penalty.second_or_subsequent_conviction"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "penalty",
+      "subsequent",
+      "conviction",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "Bench",
+      "Judiciary",
+      "Law Court",
+      "Tribunal",
+      "judicial body",
+      "tribunal"
+    ],
+    "user_queries": [
+      "What is licence cancellation for repeat offences?",
+      "How does licence cancellation for repeat offences work?",
+      "Can you explain licence cancellation for repeat offences?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

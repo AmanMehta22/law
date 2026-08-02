@@ -5,21 +5,45 @@
   "description": "Natural language queries a user may ask about: Service of Notice",
   "content": {
     "queries": [
-      "how to serve a notice under the Consumer Protection Act"
+      "What are the modes of service of notice under the Consumer Protection Act?",
+      "How does the service of notice impact the timeline for responding to a consumer complaint?",
+      "Can the service of notice be done electronically, or must it be by registered post?",
+      "What is the effect of improper service of notice on a consumer complaint?",
+      "Is an acknowledgment required for the service of notice in consumer cases?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S65-1",
     "CPA2019-CH4-S65-3",
-    "procedure.service_of_notice"
+    "procedure.service_of_notice",
+    "alias.service_of_notice"
   ],
   "related_concepts": [
-    "procedure.service_of_notice"
+    "alias.service_of_notice"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "service",
+      "notice",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "serving a notice",
+      "giving notice"
+    ],
+    "user_queries": [
+      "how to serve a notice under the Consumer Protection Act",
+      "What is acknowledgment?",
+      "How does acknowledgment work?",
+      "Can you explain acknowledgment?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

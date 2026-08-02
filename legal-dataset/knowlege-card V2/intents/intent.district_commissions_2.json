@@ -1,0 +1,57 @@
+{
+  "concept_id": "intent.district_commissions_2",
+  "concept_type": "intent",
+  "title": "Questions about District Commissions",
+  "description": "Natural language queries a user may ask about: District Commissions",
+  "content": {
+    "queries": [
+      "What is the role of a consumer mediation cell in District Commissions?",
+      "How does the consumer mediation cell in District Commissions handle complaints?",
+      "Can you explain the process of consumer mediation cell in District Commissions?",
+      "What are the benefits of consumer mediation cell in District Commissions?",
+      "How can I access the consumer mediation cell in District Commissions?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S74-1",
+    "authority.district_commissions"
+  ],
+  "related_concepts": [
+    "authority.district_commissions"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commissions",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Consumer Arbitration",
+      "Consumer Mediator",
+      "Dispute Resolution Cell",
+      "Mediation Cell"
+    ],
+    "user_queries": [
+      "What is consumer mediation cell?",
+      "How does consumer mediation cell work?",
+      "Can you explain consumer mediation cell?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.submission_of_inquiries_or_investigation_handled_by_director",
+  "concept_type": "intent",
+  "title": "Questions about Submission of inquiries or investigation handled by Director",
+  "description": "Natural language queries a user may ask about: Submission of inquiries or investigation handled by Director",
+  "content": {
+    "queries": [
+      "What is submission of inquiries or investigation handled by director?",
+      "How does submission of inquiries or investigation handled by director work?",
+      "Can you explain submission of inquiries or investigation handled by director?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S104-2",
+    "relationship.procedure_submission_of_inquiries_or_investigation_handled_by_authorit_2"
+  ],
+  "related_concepts": [
+    "relationship.procedure_submission_of_inquiries_or_investigation_handled_by_authorit_2"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "submission",
+      "inquiries",
+      "investigation",
+      "handled",
+      "director",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is submission of inquiries or investigation handled by director?",
+      "How does submission of inquiries or investigation handled by director work?",
+      "Can you explain submission of inquiries or investigation handled by director?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

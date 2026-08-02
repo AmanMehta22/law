@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.proof_of_service_of_notice_or_process_2",
+  "concept_type": "intent",
+  "title": "Questions about Proof of service of notice or process",
+  "description": "Natural language queries a user may ask about: Proof of service of notice or process",
+  "content": {
+    "queries": [
+      "What is the process for serving notice to a product seller?",
+      "How can I prove that a notice or process was served to a product seller?",
+      "What are the requirements for serving notice or process to a product seller?",
+      "Can a product seller dispute the service of notice or process?",
+      "What are the consequences for a product seller who fails to respond to a notice or process?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH6-S86",
+    "evidence.notice_or_process_records_service_records"
+  ],
+  "related_concepts": [
+    "evidence.notice_or_process_records_service_records"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "proof",
+      "service",
+      "notice",
+      "process",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "damages",
+      "reparation"
+    ],
+    "user_queries": [
+      "What is product seller must exercise reasonable care?",
+      "How does product seller must exercise reasonable care work?",
+      "Can you explain product seller must exercise reasonable care?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

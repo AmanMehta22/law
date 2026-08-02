@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.discontinuation_of_unfair_practices",
   "concept_type": "intent",
-  "title": "Questions about Discontinuation of unfair practices",
-  "description": "Natural language queries a user may ask about: Discontinuation of unfair practices",
+  "title": "Questions about Discontinuation Of Unfair Practices",
+  "description": "Natural language queries a user may ask about: Discontinuation Of Unfair Practices",
   "content": {
     "queries": [
-      "unfair business practices"
+      "How can I report unfair practices to the Central Authority?",
+      "What actions can the Central Authority take to stop unfair practices?",
+      "Can individuals be held liable for engaging in unfair practices?",
+      "What are the consequences for businesses that continue unfair practices?",
+      "How long does it take for the Central Authority to investigate and stop unfair practices?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S20",
-    "remedy.discontinuation_of_unfair_practices"
+    "remedy.discontinuation_of_unfair_practices",
+    "alias.discontinuation_of_unfair_practices"
   ],
   "related_concepts": [
-    "remedy.discontinuation_of_unfair_practices"
+    "alias.discontinuation_of_unfair_practices"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "discontinuation",
+      "unfair",
+      "practices",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "stop unfair practices"
+    ],
+    "user_queries": [
+      "unfair business practices",
+      "What is central authority must give opportunity of being heard?",
+      "How does central authority must give opportunity of being heard work?",
+      "Can you explain central authority must give opportunity of being heard?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

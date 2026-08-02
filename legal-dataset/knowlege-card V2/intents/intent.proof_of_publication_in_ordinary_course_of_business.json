@@ -1,25 +1,49 @@
 {
   "concept_id": "intent.proof_of_publication_in_ordinary_course_of_business",
   "concept_type": "intent",
-  "title": "Questions about Proof of publication in ordinary course of business",
-  "description": "Natural language queries a user may ask about: Proof of publication in ordinary course of business",
+  "title": "Questions about Proof Of Publication In Ordinary Course Of Business",
+  "description": "Natural language queries a user may ask about: Proof Of Publication In Ordinary Course Of Business",
   "content": {
     "queries": [
-      "How to prove ordinary course of business",
-      "What documents are required to prove publication in ordinary course of business"
+      "What evidence is needed to prove publication in the ordinary course of business?",
+      "How does one establish that a publication was made in the ordinary course of business?",
+      "What are the consequences of failing to provide proof of publication in the ordinary course of business?",
+      "Can a publication be considered as not in the ordinary course of business if it was made with prior knowledge?",
+      "What documentation is required to support a claim of publication in the ordinary course of business?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S21-6",
-    "evidence.records_of_business_transactions_publication_records"
+    "evidence.records_of_business_transactions_publication_records",
+    "alias.proof_of_publication_in_ordinary_course_of_business"
   ],
   "related_concepts": [
-    "evidence.records_of_business_transactions_publication_records"
+    "alias.proof_of_publication_in_ordinary_course_of_business"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "proof",
+      "publication",
+      "ordinary",
+      "course",
+      "business",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "business records",
+      "advertisement publication proof"
+    ],
+    "user_queries": [
+      "How to prove ordinary course of business",
+      "What documents are required to prove publication in ordinary course of business",
+      "What is defence not available with previous knowledge?",
+      "How does defence not available with previous knowledge work?",
+      "Can you explain defence not available with previous knowledge?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

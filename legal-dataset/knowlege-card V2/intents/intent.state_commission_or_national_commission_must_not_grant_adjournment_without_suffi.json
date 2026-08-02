@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: State Commission or National Commission must not grant adjournment without sufficient cause",
   "content": {
     "queries": [
+      "What constitutes sufficient cause for the State Commission or National Commission to grant adjournment?",
+      "Can the State Commission or National Commission grant adjournment without sufficient cause in exceptional cases?",
+      "What are the consequences of the State Commission or National Commission granting adjournment without sufficient cause?",
+      "How do I request adjournment from the State Commission or National Commission with sufficient cause?",
+      "What is the process for the State Commission or National Commission to determine sufficient cause for adjournment?"
+    ]
+  },
+  "derived_from": [
+    "alias.state_commission_or_national_commission_must_not_grant_adjournment_without_suffi"
+  ],
+  "related_concepts": [
+    "alias.state_commission_or_national_commission_must_not_grant_adjournment_without_suffi"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "state",
+      "commission",
+      "national",
+      "grant",
+      "adjournment",
+      "without",
+      "sufficient",
+      "cause"
+    ],
+    "aliases": [
+      "adjournment only with reason",
+      "no unnecessary delays",
+      "sufficient cause for delay",
+      "valid reason for adjournment"
+    ],
+    "user_queries": [
       "What is state commission or national commission must not grant adjournment without sufficient cause?",
       "How does state commission or national commission must not grant adjournment without sufficient cause work?",
       "Can you explain state commission or national commission must not grant adjournment without sufficient cause?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S52",
-    "obligation.state_commission_or_national_commission_must_not_grant_adjou"
-  ],
-  "related_concepts": [
-    "obligation.state_commission_or_national_commission_must_not_grant_adjou"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

@@ -5,20 +5,43 @@
   "description": "Natural language queries a user may ask about: Acknowledgment",
   "content": {
     "queries": [
-      "What proof is required to show that the notice has been served"
+      "What is the purpose of an acknowledgment in a consumer complaint?",
+      "How do I receive an acknowledgment for my consumer complaint?",
+      "Can I appeal if my complaint is not acknowledged?",
+      "What information should be included in an acknowledgment of a consumer complaint?",
+      "Is an acknowledgment the same as a resolution of my consumer complaint?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S65-3",
-    "evidence.acknowledgment_receipt"
+    "evidence.acknowledgment_receipt",
+    "alias.acknowledgment"
   ],
   "related_concepts": [
-    "evidence.acknowledgment_receipt"
+    "alias.acknowledgment"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "acknowledgment",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "how"
+    ],
+    "aliases": [
+      "proof of service"
+    ],
+    "user_queries": [
+      "What proof is required to show that the notice has been served",
+      "What is acknowledgment?",
+      "How does acknowledgment work?",
+      "Can you explain acknowledgment?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

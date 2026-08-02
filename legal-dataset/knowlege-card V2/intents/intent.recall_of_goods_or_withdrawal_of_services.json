@@ -1,25 +1,48 @@
 {
   "concept_id": "intent.recall_of_goods_or_withdrawal_of_services",
   "concept_type": "intent",
-  "title": "Questions about Recall of goods or withdrawal of services",
-  "description": "Natural language queries a user may ask about: Recall of goods or withdrawal of services",
+  "title": "Questions about Recall Of Goods Or Withdrawal Of Services",
+  "description": "Natural language queries a user may ask about: Recall Of Goods Or Withdrawal Of Services",
   "content": {
     "queries": [
-      "dangerous goods",
-      "unsafe services"
+      "Under what circumstances can the central authority order recall of goods or withdrawal of services?",
+      "How does the recall of goods or withdrawal of services process work?",
+      "What are the responsibilities of the manufacturer or service provider during recall of goods or withdrawal of services?",
+      "Can a consumer initiate recall of goods or withdrawal of services directly?",
+      "What are the penalties for non-compliance with recall of goods or withdrawal of services orders?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S20",
-    "remedy.recall_of_goods_or_withdrawal_of_services"
+    "remedy.recall_of_goods_or_withdrawal_of_services",
+    "alias.recall_of_goods_or_withdrawal_of_services"
   ],
   "related_concepts": [
-    "remedy.recall_of_goods_or_withdrawal_of_services"
+    "alias.recall_of_goods_or_withdrawal_of_services"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "recall",
+      "goods",
+      "withdrawal",
+      "services",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "product recall"
+    ],
+    "user_queries": [
+      "dangerous goods",
+      "unsafe services",
+      "What is central authority must give opportunity of being heard?",
+      "How does central authority must give opportunity of being heard work?",
+      "Can you explain central authority must give opportunity of being heard?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

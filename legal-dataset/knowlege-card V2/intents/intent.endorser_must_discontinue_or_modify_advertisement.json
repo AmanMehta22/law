@@ -1,24 +1,48 @@
 {
   "concept_id": "intent.endorser_must_discontinue_or_modify_advertisement",
   "concept_type": "intent",
-  "title": "Questions about Endorser must discontinue or modify advertisement",
-  "description": "Natural language queries a user may ask about: Endorser must discontinue or modify advertisement",
+  "title": "Questions about Endorser Must Discontinue Or Modify Advertisement",
+  "description": "Natural language queries a user may ask about: Endorser Must Discontinue Or Modify Advertisement",
   "content": {
     "queries": [
-      "What must an endorser do if their advertisement is found to be misleading?"
+      "What is the responsibility of an endorser if the advertisement they endorsed is found to be false or misleading?",
+      "Can an endorser be held liable for a false or misleading advertisement?",
+      "How does an endorser discontinue or modify their endorsement of an advertisement?",
+      "What are the consequences for an endorser that fails to discontinue or modify their endorsement of a false or misleading advertisement?",
+      "Is an endorser required to verify the truthfulness of an advertisement before endorsing it?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S21-1",
-    "obligation.endorser_must_discontinue_or_modify_advertisement_as_directe"
+    "obligation.endorser_must_discontinue_or_modify_advertisement_as_directe",
+    "alias.endorser_must_discontinue_or_modify_advertisement"
   ],
   "related_concepts": [
-    "obligation.endorser_must_discontinue_or_modify_advertisement_as_directe"
+    "alias.endorser_must_discontinue_or_modify_advertisement"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "endorser",
+      "discontinue",
+      "modify",
+      "advertisement",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "advertiser duties",
+      "publisher responsibilities"
+    ],
+    "user_queries": [
+      "What must an endorser do if their advertisement is found to be misleading?",
+      "What is advertiser must discontinue or modify advertisement?",
+      "How does advertiser must discontinue or modify advertisement work?",
+      "Can you explain advertiser must discontinue or modify advertisement?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

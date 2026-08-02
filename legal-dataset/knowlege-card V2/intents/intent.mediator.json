@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Mediator",
   "content": {
     "queries": [
-      "What is a mediator in consumer protection?",
-      "How does a mediator help resolve disputes?",
-      "What is the role of a mediator in the Consumer Protection Act?"
+      "What are the qualifications and training required to become a mediator?",
+      "How can a consumer find a qualified mediator to resolve a dispute?",
+      "What is the role of a mediator in facilitating a negotiation between parties?",
+      "Can a mediator provide legal advice to a consumer during a mediation procedure?",
+      "How does a mediator remain impartial during a mediation procedure?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-26",
-    "definition.mediator"
+    "definition.mediator",
+    "alias.mediator"
   ],
   "related_concepts": [
-    "definition.mediator"
+    "alias.mediator"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "mediator",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "how"
+    ],
+    "aliases": [
+      "neutral third-party",
+      "facilitator"
+    ],
+    "user_queries": [
+      "What is mediator?",
+      "How does mediator work?",
+      "Can you explain mediator?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

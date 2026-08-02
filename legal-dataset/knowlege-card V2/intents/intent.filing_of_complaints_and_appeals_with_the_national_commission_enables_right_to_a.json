@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.filing_of_complaints_and_appeals_with_the_national_commission_enables_right_to_a",
+  "concept_type": "intent",
+  "title": "Questions about Filing of complaints and appeals with the National Commission enables Right to Appeal",
+  "description": "Natural language queries a user may ask about: Filing of complaints and appeals with the National Commission enables Right to Appeal",
+  "content": {
+    "queries": [
+      "What is filing of complaints and appeals with the national commission enables right to appeal?",
+      "How does filing of complaints and appeals with the national commission enables right to appeal work?",
+      "Can you explain filing of complaints and appeals with the national commission enables right to appeal?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S58-1",
+    "relationship.procedure_filing_of_complaints_and_appeals_with_the_national_commissio_2"
+  ],
+  "related_concepts": [
+    "relationship.procedure_filing_of_complaints_and_appeals_with_the_national_commissio_2"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "filing",
+      "complaints",
+      "appeals",
+      "national",
+      "commission",
+      "enables",
+      "right",
+      "appeal"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is filing of complaints and appeals with the national commission enables right to appeal?",
+      "How does filing of complaints and appeals with the national commission enables right to appeal work?",
+      "Can you explain filing of complaints and appeals with the national commission enables right to appeal?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

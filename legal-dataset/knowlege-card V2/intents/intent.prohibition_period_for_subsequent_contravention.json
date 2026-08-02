@@ -1,25 +1,52 @@
 {
   "concept_id": "intent.prohibition_period_for_subsequent_contravention",
   "concept_type": "intent",
-  "title": "Questions about Prohibition period for subsequent contravention",
-  "description": "Natural language queries a user may ask about: Prohibition period for subsequent contravention",
+  "title": "Questions about Prohibition Period For Subsequent Contravention",
+  "description": "Natural language queries a user may ask about: Prohibition Period For Subsequent Contravention",
   "content": {
     "queries": [
-      "time limit for repeat offence"
+      "How long does a prohibition period last for a subsequent contravention?",
+      "What factors determine the length of a prohibition period for subsequent contraventions?",
+      "Can the prohibition period for subsequent contraventions be extended or shortened?",
+      "How does the central authority decide on the length of a prohibition period for subsequent contraventions?",
+      "Are there any exceptions to the prohibition period for subsequent contraventions?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S21-3",
     "CPA2019-CH8-S96-3",
-    "timeline.three_years"
+    "timeline.three_years",
+    "alias.prohibition_period_for_subsequent_contravention"
   ],
   "related_concepts": [
-    "timeline.three_years"
+    "alias.prohibition_period_for_subsequent_contravention"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "prohibition",
+      "period",
+      "subsequent",
+      "contravention",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "subsequent offence",
+      "similar offence"
+    ],
+    "user_queries": [
+      "time limit for repeat offence",
+      "What is repeat offence within three years?",
+      "How does repeat offence within three years work?",
+      "Can you explain repeat offence within three years?",
+      "What is central authority must consider prohibition?",
+      "How does central authority must consider prohibition work?",
+      "Can you explain central authority must consider prohibition?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

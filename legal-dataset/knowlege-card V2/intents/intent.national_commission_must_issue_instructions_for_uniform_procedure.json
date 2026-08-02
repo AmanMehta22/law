@@ -1,24 +1,46 @@
 {
   "concept_id": "intent.national_commission_must_issue_instructions_for_uniform_procedure",
   "concept_type": "intent",
-  "title": "Questions about National Commission must issue instructions for uniform procedure",
-  "description": "Natural language queries a user may ask about: National Commission must issue instructions for uniform procedure",
+  "title": "Questions about National Commission Must Issue Instructions For Uniform Procedure",
+  "description": "Natural language queries a user may ask about: National Commission Must Issue Instructions For Uniform Procedure",
   "content": {
     "queries": [
-      "What procedures must be followed in consumer cases?"
+      "What is national commission must issue instructions for uniform procedure?",
+      "How does national commission must issue instructions for uniform procedure work?",
+      "Can you explain national commission must issue instructions for uniform procedure?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S70-1",
-    "obligation.national_commission_shall_issue_instructions_regarding_adopt"
+    "obligation.national_commission_shall_issue_instructions_regarding_adopt",
+    "alias.national_commission_must_issue_instructions_for_uniform_procedure"
   ],
   "related_concepts": [
-    "obligation.national_commission_shall_issue_instructions_regarding_adopt"
+    "alias.national_commission_must_issue_instructions_for_uniform_procedure"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "national",
+      "commission",
+      "issue",
+      "instructions",
+      "uniform",
+      "procedure",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "hearing of matters",
+      "regulatory guidance"
+    ],
+    "user_queries": [
+      "What procedures must be followed in consumer cases?",
+      "What is national commission must issue instructions for uniform procedure?",
+      "How does national commission must issue instructions for uniform procedure work?",
+      "Can you explain national commission must issue instructions for uniform procedure?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

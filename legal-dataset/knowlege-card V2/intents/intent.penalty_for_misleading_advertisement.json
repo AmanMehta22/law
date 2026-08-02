@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.penalty_for_misleading_advertisement",
   "concept_type": "intent",
-  "title": "Questions about Penalty for misleading advertisement",
-  "description": "Natural language queries a user may ask about: Penalty for misleading advertisement",
+  "title": "Questions about Penalty For Misleading Advertisement",
+  "description": "Natural language queries a user may ask about: Penalty For Misleading Advertisement",
   "content": {
     "queries": [
-      "penalty for false ad"
+      "What is the maximum penalty for a misleading advertisement under the Act?",
+      "How does the penalty for misleading advertisement impact small businesses?",
+      "Can a penalty for misleading advertisement be imposed on a company's director?",
+      "What are the factors that determine the penalty for a misleading advertisement?",
+      "Is the penalty for misleading advertisement applicable to online advertisements?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S21-4",
-    "penalty.publishing_misleading_advertisement"
+    "penalty.publishing_misleading_advertisement",
+    "alias.penalty_for_misleading_advertisement"
   ],
   "related_concepts": [
-    "penalty.publishing_misleading_advertisement"
+    "alias.penalty_for_misleading_advertisement"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "penalty",
+      "misleading",
+      "advertisement",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "fine for misleading ad"
+    ],
+    "user_queries": [
+      "penalty for false ad",
+      "What is penalty for misleading advertisement?",
+      "How does penalty for misleading advertisement work?",
+      "Can you explain penalty for misleading advertisement?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

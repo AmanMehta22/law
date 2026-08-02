@@ -5,20 +5,43 @@
   "description": "Natural language queries a user may ask about: Employer Purchase Exception",
   "content": {
     "queries": [
-      "product manufacturer not liable"
+      "What is the employer purchase exception?",
+      "How does the employer purchase exception work?",
+      "Can you explain the employer purchase exception?",
+      "What are the implications of the employer purchase exception?",
+      "How does the employer purchase exception apply to RAG system?"
     ]
   },
   "derived_from": [
     "CPA2019-CH6-S87-2",
-    "exception.product_manufacturer_not_liable_if_product_purchased_by_empl"
+    "exception.product_manufacturer_not_liable_if_product_purchased_by_empl",
+    "alias.employer_purchase_exception"
   ],
   "related_concepts": [
-    "exception.product_manufacturer_not_liable_if_product_purchased_by_empl"
+    "alias.employer_purchase_exception"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "employer",
+      "purchase",
+      "exception",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "exception to product liability"
+    ],
+    "user_queries": [
+      "product manufacturer not liable",
+      "What is complainant under influence exception?",
+      "How does complainant under influence exception work?",
+      "Can you explain complainant under influence exception?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

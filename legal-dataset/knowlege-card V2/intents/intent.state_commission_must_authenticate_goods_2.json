@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.state_commission_must_authenticate_goods_2",
+  "concept_type": "intent",
+  "title": "Questions about State Commission must authenticate goods",
+  "description": "Natural language queries a user may ask about: State Commission must authenticate goods",
+  "content": {
+    "queries": [
+      "How are goods authenticated by the State Commission?",
+      "What is state commission must authenticate goods?",
+      "How does state commission must authenticate goods work?",
+      "Can you explain state commission must authenticate goods?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S102-2",
+    "obligation.state_commission_must_authenticate_goods_sampled"
+  ],
+  "related_concepts": [
+    "obligation.state_commission_must_authenticate_goods_sampled"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "state",
+      "commission",
+      "authenticate",
+      "goods",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "verification",
+      "validation"
+    ],
+    "user_queries": [
+      "How are goods authenticated by the State Commission?",
+      "What is state commission must authenticate goods?",
+      "How does state commission must authenticate goods work?",
+      "Can you explain state commission must authenticate goods?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Complainant",
   "content": {
     "queries": [
-      "Who can file a complaint under the Consumer Protection Act",
-      "What is a complainant in consumer law",
-      "How to file a complaint as a consumer"
+      "Who can be considered a complainant under the Consumer Protection Act?",
+      "What are the rights of a complainant in a consumer dispute?",
+      "How do I file a complaint as a complainant?",
+      "What kind of evidence do I need to provide as a complainant?",
+      "Can a complainant appeal a decision if they are not satisfied with the outcome?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-5",
-    "definition.complainant"
+    "definition.complainant",
+    "alias.complainant"
   ],
   "related_concepts": [
-    "definition.complainant"
+    "alias.complainant"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "complainant",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "how"
+    ],
+    "aliases": [
+      "plaintiff",
+      "claimant"
+    ],
+    "user_queries": [
+      "What is complainant?",
+      "How does complainant work?",
+      "Can you explain complainant?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

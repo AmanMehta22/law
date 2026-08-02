@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.chief_commissioner_must_exercise_general_superintendence",
   "concept_type": "intent",
-  "title": "Questions about Chief Commissioner must exercise general superintendence",
-  "description": "Natural language queries a user may ask about: Chief Commissioner must exercise general superintendence",
+  "title": "Questions about Chief Commissioner Must Exercise General Superintendence",
+  "description": "Natural language queries a user may ask about: Chief Commissioner Must Exercise General Superintendence",
   "content": {
     "queries": [
-      "Chief Commissioner powers"
+      "What is the role of the Chief Commissioner in exercising general superintendence?",
+      "How does the Chief Commissioner ensure that general superintendence is effective?",
+      "Can the Chief Commissioner delegate general superintendence to another authority?",
+      "What are the powers of the Chief Commissioner in exercising general superintendence?",
+      "How can I contact the Chief Commissioner to report a concern related to general superintendence?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S14-2",
-    "obligation.chief_commissioner_shall_have_powers_of_general_superintende"
+    "obligation.chief_commissioner_shall_have_powers_of_general_superintende",
+    "alias.chief_commissioner_must_exercise_general_superintendence"
   ],
   "related_concepts": [
-    "obligation.chief_commissioner_shall_have_powers_of_general_superintende"
+    "alias.chief_commissioner_must_exercise_general_superintendence"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "chief",
+      "commissioner",
+      "exercise",
+      "general",
+      "superintendence",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "administrative matters"
+    ],
+    "user_queries": [
+      "Chief Commissioner powers",
+      "What is chief commissioner must exercise general superintendence?",
+      "How does chief commissioner must exercise general superintendence work?",
+      "Can you explain chief commissioner must exercise general superintendence?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

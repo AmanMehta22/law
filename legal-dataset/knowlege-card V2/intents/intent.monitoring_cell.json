@@ -5,22 +5,44 @@
   "description": "Natural language queries a user may ask about: Monitoring Cell",
   "content": {
     "queries": [
-      "What is monitoring cell?",
-      "How does monitoring cell work?",
-      "Can you explain monitoring cell?"
+      "What is the role of a Monitoring Cell in consumer protection?",
+      "How does a Monitoring Cell help in addressing consumer complaints?",
+      "Is the Monitoring Cell responsible for enforcing consumer rights?",
+      "Can I directly report my complaints to the Monitoring Cell?",
+      "How does the Monitoring Cell ensure that consumer rights are protected?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S70-2",
-    "authority.monitoring_cell"
+    "authority.monitoring_cell",
+    "alias.monitoring_cell"
   ],
   "related_concepts": [
-    "authority.monitoring_cell"
+    "alias.monitoring_cell"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "monitoring",
+      "cell",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Regulatory Cell",
+      "Surveillance Cell",
+      "Watchdog"
+    ],
+    "user_queries": [
+      "What is monitoring cell?",
+      "How does monitoring cell work?",
+      "Can you explain monitoring cell?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

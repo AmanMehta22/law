@@ -1,0 +1,58 @@
+{
+  "concept_id": "intent.penalty_for_subsequent_false_or_misleading_advertisement_applies_to_misleading_a",
+  "concept_type": "intent",
+  "title": "Questions about Penalty for subsequent false or misleading advertisement applies to Misleading advertisement",
+  "description": "Natural language queries a user may ask about: Penalty for subsequent false or misleading advertisement applies to Misleading advertisement",
+  "content": {
+    "queries": [
+      "What is penalty for subsequent false or misleading advertisement applies to misleading advertisement?",
+      "How does penalty for subsequent false or misleading advertisement applies to misleading advertisement work?",
+      "Can you explain penalty for subsequent false or misleading advertisement applies to misleading advertisement?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH7-S89",
+    "relationship.penalty_subsequent_publishing_of_false_or_misleading_advertisement_app"
+  ],
+  "related_concepts": [
+    "relationship.penalty_subsequent_publishing_of_false_or_misleading_advertisement_app"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "penalty",
+      "subsequent",
+      "false",
+      "misleading",
+      "advertisement",
+      "applies",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "Deceptive Advertising",
+      "False Ad",
+      "Fraudulent Claim",
+      "Misleading Promo",
+      "Untrue Advertisement",
+      "deceptive advertising",
+      "false ad"
+    ],
+    "user_queries": [
+      "What is penalty for subsequent false or misleading advertisement applies to misleading advertisement?",
+      "How does penalty for subsequent false or misleading advertisement applies to misleading advertisement work?",
+      "Can you explain penalty for subsequent false or misleading advertisement applies to misleading advertisement?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

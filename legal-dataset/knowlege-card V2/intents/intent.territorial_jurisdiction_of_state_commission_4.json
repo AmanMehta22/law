@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.territorial_jurisdiction_of_state_commission_4",
+  "concept_type": "intent",
+  "title": "Questions about Territorial jurisdiction of State Commission",
+  "description": "Natural language queries a user may ask about: Territorial jurisdiction of State Commission",
+  "content": {
+    "queries": [
+      "What areas do State Commissions have administrative control over?",
+      "How do State Commissions exercise their territorial jurisdiction?",
+      "Can a State Commission handle cases from other states?",
+      "What is the scope of a State Commission's territorial jurisdiction?",
+      "Do State Commissions have jurisdiction over all consumer disputes within their state?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S70-3",
+    "jurisdiction.state_commission_within_its_jurisdiction"
+  ],
+  "related_concepts": [
+    "jurisdiction.state_commission_within_its_jurisdiction"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "territorial",
+      "jurisdiction",
+      "state",
+      "commission",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is state commission's administrative control?",
+      "How does state commission's administrative control work?",
+      "Can you explain state commission's administrative control?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

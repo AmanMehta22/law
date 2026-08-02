@@ -1,0 +1,58 @@
+{
+  "concept_id": "intent.mandating_unique_goods_identifiers_2",
+  "concept_type": "intent",
+  "title": "Questions about Mandating Unique Goods Identifiers",
+  "description": "Natural language queries a user may ask about: Mandating Unique Goods Identifiers",
+  "content": {
+    "queries": [
+      "What is the process for a consumer to file a complaint with the State Commission regarding a product without a unique goods identifier?",
+      "How does the Central Government ensure that e-commerce platforms comply with unique goods identifier mandates under the Consumer Protection Act 2019?",
+      "Can the Central Consumer Protection Authority issue guidelines for the use of unique goods identifiers in India?",
+      "What are the benefits of unique goods identifiers for consumers as per the Indian Consumer Protection Act 2019?",
+      "How do unique goods identifiers help the National Commission in tracking and recalling defective products in India?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S18-2",
+    "procedure.mandating_unique_goods_identifiers"
+  ],
+  "related_concepts": [
+    "procedure.mandating_unique_goods_identifiers"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "mandating",
+      "unique",
+      "goods",
+      "identifiers",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "advice on consumer welfare",
+      "advising on consumer welfare",
+      "consumer rights guidance",
+      "consumer welfare advice",
+      "consumer welfare measures"
+    ],
+    "user_queries": [
+      "What is mandating unique goods identifiers?",
+      "How does mandating unique goods identifiers work?",
+      "Can you explain mandating unique goods identifiers?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

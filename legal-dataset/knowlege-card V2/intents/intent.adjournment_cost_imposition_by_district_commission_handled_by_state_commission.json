@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.adjournment_cost_imposition_by_district_commission_handled_by_state_commission",
+  "concept_type": "intent",
+  "title": "Questions about Adjournment cost imposition by District Commission handled by State Commission",
+  "description": "Natural language queries a user may ask about: Adjournment cost imposition by District Commission handled by State Commission",
+  "content": {
+    "queries": [
+      "What is adjournment cost imposition by district commission handled by state commission?",
+      "How does adjournment cost imposition by district commission handled by state commission work?",
+      "Can you explain adjournment cost imposition by district commission handled by state commission?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S103-2",
+    "relationship.procedure_adjournment_cost_imposition_by_district_commission_handled_b_5"
+  ],
+  "related_concepts": [
+    "relationship.procedure_adjournment_cost_imposition_by_district_commission_handled_b_5"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "adjournment",
+      "cost",
+      "imposition",
+      "district",
+      "commission",
+      "handled",
+      "state",
+      "natural"
+    ],
+    "aliases": [
+      "adjournment cost",
+      "cost imposition by district commission",
+      "district commission cost"
+    ],
+    "user_queries": [
+      "What is adjournment cost imposition by district commission handled by state commission?",
+      "How does adjournment cost imposition by district commission handled by state commission work?",
+      "Can you explain adjournment cost imposition by district commission handled by state commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

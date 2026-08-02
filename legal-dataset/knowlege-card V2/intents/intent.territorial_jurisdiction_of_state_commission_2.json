@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Territorial jurisdiction of State Commission",
   "content": {
     "queries": [
-      "What is territorial jurisdiction of state commission?",
-      "How does territorial jurisdiction of state commission work?",
-      "Can you explain territorial jurisdiction of state commission?"
+      "What is regional benches establishment?",
+      "How does regional benches establishment work?",
+      "Can you explain regional benches establishment?"
     ]
   },
   "derived_from": [
-    "CPA2019-CH4-S47-4",
-    "jurisdiction.state_commission_where_the_opposite_party_resides_carries_on_business_has_a_bran"
+    "CPA2019-CH4-S42-2",
+    "jurisdiction.state_commission_state_capital_and_other_notified_places"
   ],
   "related_concepts": [
-    "jurisdiction.state_commission_where_the_opposite_party_resides_carries_on_business_has_a_bran"
+    "jurisdiction.state_commission_state_capital_and_other_notified_places"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "territorial",
+      "jurisdiction",
+      "state",
+      "commission",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "State Consumer Commission"
+    ],
+    "user_queries": [
+      "What is state commission's administrative control?",
+      "How does state commission's administrative control work?",
+      "Can you explain state commission's administrative control?",
+      "What is regional benches establishment?",
+      "How does regional benches establishment work?",
+      "Can you explain regional benches establishment?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

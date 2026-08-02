@@ -5,22 +5,50 @@
   "description": "Natural language queries a user may ask about: Investigation",
   "content": {
     "queries": [
-      "How do I file investigation?",
-      "What are the steps for investigation?"
+      "What triggers an investigation under the Consumer Protection Act?",
+      "How does the investigation process work for consumer complaints?",
+      "Can an investigation be conducted without a formal complaint?",
+      "What is the purpose of an investigation in consumer protection cases?",
+      "How long does a typical investigation take to complete?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S19-1",
     "CPA2019-CH3-S19-3",
-    "procedure.investigation"
+    "procedure.investigation",
+    "alias.investigation"
   ],
   "related_concepts": [
-    "procedure.investigation"
+    "alias.investigation"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "investigation",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "central"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is central authority must cause investigation?",
+      "How does central authority must cause investigation work?",
+      "Can you explain central authority must cause investigation?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

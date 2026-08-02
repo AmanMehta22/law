@@ -5,22 +5,44 @@
   "description": "Natural language queries a user may ask about: Manufacturer",
   "content": {
     "queries": [
-      "What is a manufacturer?",
-      "Who is considered a manufacturer under the law?",
-      "What does it mean to be a manufacturer?"
+      "What role does a manufacturer play in the Consumer Protection Act?",
+      "Can a manufacturer be held liable for product defects?",
+      "How does the Consumer Protection Act define a manufacturer?",
+      "What are the responsibilities of a manufacturer under the Act?",
+      "Can a consumer directly approach a manufacturer for a product complaint?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-24",
-    "definition.manufacturer"
+    "definition.manufacturer",
+    "alias.manufacturer"
   ],
   "related_concepts": [
-    "definition.manufacturer"
+    "alias.manufacturer"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "manufacturer",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "how"
+    ],
+    "aliases": [
+      "maker",
+      "producer",
+      "assembler"
+    ],
+    "user_queries": [
+      "What is manufacturer?",
+      "How does manufacturer work?",
+      "Can you explain manufacturer?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

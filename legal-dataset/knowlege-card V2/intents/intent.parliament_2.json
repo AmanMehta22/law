@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.parliament_2",
+  "concept_type": "intent",
+  "title": "Questions about Parliament",
+  "description": "Natural language queries a user may ask about: Parliament",
+  "content": {
+    "queries": [
+      "What are the powers of parliament in regulating consumer markets?",
+      "How does parliament oversee the enforcement of consumer protection laws?",
+      "Can parliament investigate consumer complaints against businesses?",
+      "What is the relationship between parliament and consumer protection agencies?",
+      "How can parliament help consumers resolve disputes with businesses?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S27-2",
+    "authority.parliament"
+  ],
+  "related_concepts": [
+    "authority.parliament"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "parliament",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "government"
+    ],
+    "aliases": [
+      "laying of report"
+    ],
+    "user_queries": [
+      "What is government must lay annual report before parliament?",
+      "How does government must lay annual report before parliament work?",
+      "Can you explain government must lay annual report before parliament?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

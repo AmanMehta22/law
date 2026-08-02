@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Product Liability Exception",
   "content": {
     "queries": [
-      "What is product liability exception?",
-      "How does product liability exception work?",
-      "Can you explain product liability exception?"
+      "What are the exceptions to product liability under the Consumer Protection Act?",
+      "How does a product manufacturer claim exception to product liability?",
+      "Can a consumer file a complaint if a product manufacturer claims an exception to liability?",
+      "What are the conditions for a product liability exception to be valid?",
+      "Does the product liability exception apply to all types of products?"
     ]
   },
   "derived_from": [
     "CPA2019-CH6-S87-1",
-    "exception.if_the_product_was_misused_altered_or_modified_at_the_time_o"
+    "exception.if_the_product_was_misused_altered_or_modified_at_the_time_o",
+    "alias.product_liability_exception"
   ],
   "related_concepts": [
-    "exception.if_the_product_was_misused_altered_or_modified_at_the_time_o"
+    "alias.product_liability_exception"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "product",
+      "liability",
+      "exception",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "product seller exception"
+    ],
+    "user_queries": [
+      "What is product liability exception?",
+      "How does product liability exception work?",
+      "Can you explain product liability exception?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

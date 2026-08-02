@@ -5,21 +5,43 @@
   "description": "Natural language queries a user may ask about: Prohibition from endorsement for false or misleading advertisement",
   "content": {
     "queries": [
-      "What is the punishment for prohibition from endorsement for false or misleading advertisement?",
-      "What happens if I commit prohibition from endorsement for false or misleading advertisement?"
+      "What are the penalties for endorsing a false or misleading advertisement?",
+      "Can a celebrity or influencer be held liable for endorsing a false or misleading advertisement?",
+      "How does the prohibition from endorsement for false or misleading advertisement protect consumers?",
+      "What are the guidelines for determining whether an advertisement is false or misleading?",
+      "Is it mandatory for advertisers to verify the truthfulness of their claims before making an advertisement?"
     ]
   },
   "derived_from": [
-    "CPA2019-CH3-S21-3",
-    "penalty.making_false_or_misleading_advertisement"
+    "alias.prohibition_from_endorsement_for_false_or_misleading_advertisement"
   ],
   "related_concepts": [
-    "penalty.making_false_or_misleading_advertisement"
+    "alias.prohibition_from_endorsement_for_false_or_misleading_advertisement"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "prohibition",
+      "endorsement",
+      "false",
+      "misleading",
+      "advertisement",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "ban on endorsement for false ads",
+      "bar on false advertisement endorsement",
+      "prohibition on promoting misleading ads",
+      "restriction on endorsing fake advertisements"
+    ],
+    "user_queries": [
+      "What is prohibition from endorsement for false or misleading advertisement?",
+      "How does prohibition from endorsement for false or misleading advertisement work?",
+      "Can you explain prohibition from endorsement for false or misleading advertisement?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

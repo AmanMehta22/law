@@ -1,0 +1,58 @@
+{
+  "concept_id": "intent.reference_opinion_time_limit_2",
+  "concept_type": "intent",
+  "title": "Questions about Reference opinion time limit",
+  "description": "Natural language queries a user may ask about: Reference opinion time limit",
+  "content": {
+    "queries": [
+      "Is there a specific time limit for reference opinions in the Consumer Protection Act?",
+      "How does the time limit for reference opinions vary in different situations?",
+      "What happens if the reference opinion time limit is exceeded?",
+      "Can the time limit for a reference opinion be extended?",
+      "How is the time limit for reference opinions enforced in consumer protection cases?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S58-3",
+    "timeline.two_months"
+  ],
+  "related_concepts": [
+    "timeline.two_months"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "reference",
+      "opinion",
+      "time",
+      "limit",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "Chairperson",
+      "Chief of Commission",
+      "Commission President",
+      "Head of Commission",
+      "Leader of the Commission"
+    ],
+    "user_queries": [
+      "What is reference opinion time limit?",
+      "How does reference opinion time limit work?",
+      "Can you explain reference opinion time limit?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.government_must_lay_annual_report_before_parliament",
   "concept_type": "intent",
-  "title": "Questions about Government must lay annual report before Parliament",
-  "description": "Natural language queries a user may ask about: Government must lay annual report before Parliament",
+  "title": "Questions about Government Must Lay Annual Report Before Parliament",
+  "description": "Natural language queries a user may ask about: Government Must Lay Annual Report Before Parliament",
   "content": {
     "queries": [
-      "government obligations"
+      "What is the purpose of the government laying an annual report before parliament?",
+      "How often must the government lay a report before parliament?",
+      "What happens if the government fails to lay an annual report before parliament?",
+      "Can the government lay an annual report before parliament at any time?",
+      "What information must be included in the government's annual report to parliament?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S27-2",
-    "obligation.government_must_lay_a_copy_of_the_annual_report_before_each_"
+    "obligation.government_must_lay_a_copy_of_the_annual_report_before_each_",
+    "alias.government_must_lay_annual_report_before_parliament"
   ],
   "related_concepts": [
-    "obligation.government_must_lay_a_copy_of_the_annual_report_before_each_"
+    "alias.government_must_lay_annual_report_before_parliament"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "government",
+      "lay",
+      "annual",
+      "report",
+      "before",
+      "parliament",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "laying of report"
+    ],
+    "user_queries": [
+      "government obligations",
+      "What is government must lay annual report before parliament?",
+      "How does government must lay annual report before parliament work?",
+      "Can you explain government must lay annual report before parliament?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

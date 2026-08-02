@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.complainant_3",
+  "concept_type": "intent",
+  "title": "Questions about Complainant",
+  "description": "Natural language queries a user may ask about: Complainant",
+  "content": {
+    "queries": [
+      "What is the role of a complainant in a consumer court?",
+      "Can a complainant represent themselves in a consumer court?",
+      "How long does it take for a complainant to get a decision in a consumer dispute?",
+      "What are the fees associated with filing a complaint as a complainant?",
+      "Can a complainant seek legal advice before filing a complaint?"
+    ]
+  },
+  "derived_from": [
+    "definition.complainant",
+    "example.complainant"
+  ],
+  "related_concepts": [
+    "example.complainant"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "complainant",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "how"
+    ],
+    "aliases": [
+      "plaintiff",
+      "claimant"
+    ],
+    "user_queries": [
+      "What is complainant?",
+      "How does complainant work?",
+      "Can you explain complainant?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

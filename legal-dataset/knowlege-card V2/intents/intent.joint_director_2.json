@@ -1,0 +1,61 @@
+{
+  "concept_id": "intent.joint_director_2",
+  "concept_type": "intent",
+  "title": "Questions about Joint Director",
+  "description": "Natural language queries a user may ask about: Joint Director",
+  "content": {
+    "queries": [
+      "What does control and supervision exception mean in the context of a Joint Director?",
+      "How is control and supervision exception applied by a Joint Director?",
+      "Can a Joint Director explain the control and supervision exception to me?",
+      "What are the implications of control and supervision exception on a Joint Director's role?",
+      "Is control and supervision exception a critical aspect of a Joint Director's responsibilities?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S15-2",
+    "CPA2019-CH3-S15-3",
+    "CPA2019-CH3-S15-4",
+    "CPA2019-CH8-S95",
+    "authority.joint_director"
+  ],
+  "related_concepts": [
+    "authority.joint_director"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "joint",
+      "director",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Alternate Director-General",
+      "Assistant Director-General",
+      "Deputy Director-General",
+      "Extra Director-General",
+      "Supplemental Director-General"
+    ],
+    "user_queries": [
+      "What is control and supervision exception?",
+      "How does control and supervision exception work?",
+      "Can you explain control and supervision exception?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

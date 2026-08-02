@@ -5,22 +5,44 @@
   "description": "Natural language queries a user may ask about: Deficiency",
   "content": {
     "queries": [
-      "What is a deficiency in consumer protection?",
-      "What constitutes a deficiency in service quality?",
-      "How is deficiency defined under the Consumer Protection Act?"
+      "What constitutes a deficiency in a product or service?",
+      "How is a deficiency determined under the Consumer Protection Act?",
+      "What are the rights of a consumer if a deficiency is found in a product or service?",
+      "Can a seller be held liable for a deficiency in a product or service?",
+      "What is the process for reporting a deficiency in a product or service?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-11",
-    "definition.deficiency"
+    "definition.deficiency",
+    "alias.deficiency"
   ],
   "related_concepts": [
-    "definition.deficiency"
+    "alias.deficiency"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "deficiency",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "how"
+    ],
+    "aliases": [
+      "shortcoming",
+      "fault",
+      "inadequacy"
+    ],
+    "user_queries": [
+      "What is deficiency?",
+      "How does deficiency work?",
+      "Can you explain deficiency?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

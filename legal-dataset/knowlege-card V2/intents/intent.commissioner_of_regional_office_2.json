@@ -1,0 +1,61 @@
+{
+  "concept_id": "intent.commissioner_of_regional_office_2",
+  "concept_type": "intent",
+  "title": "Questions about Commissioner of regional office",
+  "description": "Natural language queries a user may ask about: Commissioner of regional office",
+  "content": {
+    "queries": [
+      "How does the commissioner of a regional office handle complaints from consumers?",
+      "What is the process for appealing a decision made by the commissioner of a regional office?",
+      "Can the commissioner of a regional office impose penalties on businesses?",
+      "How does the commissioner of a regional office ensure consumer protection in the region?",
+      "What are the working hours of the commissioner of a regional office?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S17",
+    "authority.commissioner_of_regional_office"
+  ],
+  "related_concepts": [
+    "authority.commissioner_of_regional_office"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "commissioner",
+      "regional",
+      "office",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is commissioner of regional office?",
+      "How does commissioner of regional office work?",
+      "Can you explain commissioner of regional office?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

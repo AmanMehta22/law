@@ -5,20 +5,43 @@
   "description": "Natural language queries a user may ask about: Subsequent Contravention Penalty",
   "content": {
     "queries": [
-      "what is the penalty for repeated false advertising"
+      "What happens if there is a subsequent contravention of the regulations?",
+      "How does the central authority handle repeated offenses under subsequent contravention penalty?",
+      "Can you explain the penalties for subsequent contraventions?",
+      "How does the subsequent contravention penalty differ from the initial penalty?",
+      "What are the consequences of multiple subsequent contraventions?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S21-2",
-    "exception.the_central_authority_may_impose_a_higher_penalty_for_subseq"
+    "exception.the_central_authority_may_impose_a_higher_penalty_for_subseq",
+    "alias.subsequent_contravention_penalty"
   ],
   "related_concepts": [
-    "exception.the_central_authority_may_impose_a_higher_penalty_for_subseq"
+    "alias.subsequent_contravention_penalty"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "subsequent",
+      "contravention",
+      "penalty",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "increased penalty"
+    ],
+    "user_queries": [
+      "what is the penalty for repeated false advertising",
+      "What is central authority may impose penalty?",
+      "How does central authority may impose penalty work?",
+      "Can you explain central authority may impose penalty?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

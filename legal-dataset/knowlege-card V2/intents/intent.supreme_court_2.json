@@ -1,0 +1,61 @@
+{
+  "concept_id": "intent.supreme_court_2",
+  "concept_type": "intent",
+  "title": "Questions about Supreme Court",
+  "description": "Natural language queries a user may ask about: Supreme Court",
+  "content": {
+    "queries": [
+      "What role does the Supreme Court play in consumer protection appeals?",
+      "How do I know if my appeal should go to the Supreme Court or a lower court?",
+      "What is the timeline for filing an appeal with the Supreme Court?",
+      "Can the Supreme Court overturn a decision made by a district commission?",
+      "Are there any specific forms or documents required for a Supreme Court appeal?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S67",
+    "CPA2019-CH4-S73-1",
+    "CPA2019-CH4-S73-3",
+    "authority.supreme_court"
+  ],
+  "related_concepts": [
+    "authority.supreme_court"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "supreme",
+      "court",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "appeal deadline",
+      "filing appeal",
+      "opposite party response",
+      "time limit for appeal",
+      "time limit for application",
+      "time to respond"
+    ],
+    "user_queries": [
+      "What is filing an appeal handled by district commission?",
+      "How does filing an appeal handled by district commission work?",
+      "Can you explain filing an appeal handled by district commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

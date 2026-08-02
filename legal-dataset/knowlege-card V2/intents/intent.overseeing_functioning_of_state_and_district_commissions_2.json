@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.overseeing_functioning_of_state_and_district_commissions_2",
+  "concept_type": "intent",
+  "title": "Questions about Overseeing functioning of State and District Commissions",
+  "description": "Natural language queries a user may ask about: Overseeing functioning of State and District Commissions",
+  "content": {
+    "queries": [
+      "How does National Commission oversee State and District Commissions",
+      "What is overseeing functioning of state and district commissions?",
+      "How does overseeing functioning of state and district commissions work?",
+      "Can you explain overseeing functioning of state and district commissions?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S70-1",
+    "procedure.overseeing_functioning_of_state_and_district_commissions"
+  ],
+  "related_concepts": [
+    "procedure.overseeing_functioning_of_state_and_district_commissions"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "overseeing",
+      "functioning",
+      "state",
+      "district",
+      "commissions",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "supervision"
+    ],
+    "user_queries": [
+      "How does National Commission oversee State and District Commissions",
+      "What is overseeing functioning of state and district commissions?",
+      "How does overseeing functioning of state and district commissions work?",
+      "Can you explain overseeing functioning of state and district commissions?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

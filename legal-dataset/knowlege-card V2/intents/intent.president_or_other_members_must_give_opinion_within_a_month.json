@@ -1,24 +1,48 @@
 {
   "concept_id": "intent.president_or_other_members_must_give_opinion_within_a_month",
   "concept_type": "intent",
-  "title": "Questions about President or other members must give opinion within a month",
-  "description": "Natural language queries a user may ask about: President or other members must give opinion within a month",
+  "title": "Questions about President Or Other Members Must Give Opinion Within A Month",
+  "description": "Natural language queries a user may ask about: President Or Other Members Must Give Opinion Within A Month",
   "content": {
     "queries": [
-      "What is the timeframe for the President to give an opinion?"
+      "What is the time frame for the President or other members to give their opinion?",
+      "Can the President or other members extend the time frame for giving their opinion?",
+      "What happens if the President or other members fail to give their opinion within a month?",
+      "How does the President or other members' opinion affect the decision-making process?",
+      "Is the opinion of the President or other members binding on the National Commission?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S47-3",
-    "obligation.president_or_other_members_must_give_opinion_on_the_referred"
+    "obligation.president_or_other_members_must_give_opinion_on_the_referred",
+    "alias.president_or_other_members_must_give_opinion_within_a_month"
   ],
   "related_concepts": [
-    "obligation.president_or_other_members_must_give_opinion_on_the_referred"
+    "alias.president_or_other_members_must_give_opinion_within_a_month"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "president",
+      "other",
+      "members",
+      "give",
+      "opinion",
+      "month",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "timeframe",
+      "deadline"
+    ],
+    "user_queries": [
+      "What is the timeframe for the President to give an opinion?",
+      "What is president or other members must give opinion within a month?",
+      "How does president or other members must give opinion within a month work?",
+      "Can you explain president or other members must give opinion within a month?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -5,22 +5,50 @@
   "description": "Natural language queries a user may ask about: Central Government override",
   "content": {
     "queries": [
-      "What is central government override?",
-      "How does central government override work?",
-      "Can you explain central government override?"
+      "Central Government override",
+      "What is central government may prescribe value?",
+      "How does central government may prescribe value work?",
+      "Can you explain central government may prescribe value?",
+      "What is calling for records and passing orders?",
+      "How does calling for records and passing orders work?",
+      "Can you explain calling for records and passing orders?"
     ]
   },
   "derived_from": [
-    "CPA2019-CH4-S47-1",
-    "exception.the_central_government_can_prescribe_a_different_value"
+    "CPA2019-CH4-S34-1",
+    "exception.central_government_may_prescribe_a_different_value"
   ],
   "related_concepts": [
-    "exception.the_central_government_can_prescribe_a_different_value"
+    "exception.central_government_may_prescribe_a_different_value"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "government",
+      "override",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "District Commission powers"
+    ],
+    "user_queries": [
+      "What is central government override?",
+      "How does central government override work?",
+      "Can you explain central government override?",
+      "What is calling for records and passing orders?",
+      "How does calling for records and passing orders work?",
+      "Can you explain calling for records and passing orders?",
+      "Central Government override",
+      "What is central government may prescribe value?",
+      "How does central government may prescribe value work?",
+      "Can you explain central government may prescribe value?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

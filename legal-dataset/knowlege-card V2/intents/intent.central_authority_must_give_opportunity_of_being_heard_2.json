@@ -1,0 +1,61 @@
+{
+  "concept_id": "intent.central_authority_must_give_opportunity_of_being_heard_2",
+  "concept_type": "intent",
+  "title": "Questions about Central Authority must give opportunity of being heard",
+  "description": "Natural language queries a user may ask about: Central Authority must give opportunity of being heard",
+  "content": {
+    "queries": [
+      "What rights do I have to be heard by the Central Authority?",
+      "How does the Central Authority ensure a fair hearing?",
+      "Can the Central Authority make a decision without giving me a chance to be heard?",
+      "What is the process for being heard by the Central Authority?",
+      "Do I have the right to appeal if the Central Authority doesn't give me a chance to be heard?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S20",
+    "obligation.central_authority_must_give_opportunity_of_being_heard"
+  ],
+  "related_concepts": [
+    "obligation.central_authority_must_give_opportunity_of_being_heard"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "authority",
+      "give",
+      "opportunity",
+      "being",
+      "heard",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is central authority must give opportunity of being heard?",
+      "How does central authority must give opportunity of being heard work?",
+      "Can you explain central authority must give opportunity of being heard?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

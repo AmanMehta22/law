@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Penalty for false or misleading advertisement",
   "content": {
     "queries": [
-      "What is the punishment for penalty for false or misleading advertisement?",
-      "What happens if I commit penalty for false or misleading advertisement?"
+      "What are the consequences of making false or misleading advertisements?",
+      "Can a company be fined for misleading consumers through advertisements?",
+      "How does the law punish false or misleading advertisements?",
+      "What is the penalty for repeatedly making false or misleading advertisements?",
+      "Can a consumer file a complaint against a company for false or misleading advertisements?"
     ]
   },
   "derived_from": [
-    "CPA2019-CH3-S21-2",
-    "CPA2019-CH7-S89",
-    "penalty.publishing_false_or_misleading_advertisement"
+    "alias.penalty_for_false_or_misleading_advertisement"
   ],
   "related_concepts": [
-    "penalty.publishing_false_or_misleading_advertisement"
+    "alias.penalty_for_false_or_misleading_advertisement"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "penalty",
+      "false",
+      "misleading",
+      "advertisement",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "advertisement misconduct penalty",
+      "deceptive advertising penalty",
+      "false ad penalty",
+      "misleading ad fine"
+    ],
+    "user_queries": [
+      "What is penalty for false or misleading advertisement?",
+      "How does penalty for false or misleading advertisement work?",
+      "Can you explain penalty for false or misleading advertisement?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

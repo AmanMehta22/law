@@ -5,21 +5,49 @@
   "description": "Natural language queries a user may ask about: Referral to Regulator",
   "content": {
     "queries": [
-      "How do I file referral to regulator?",
-      "What are the steps for referral to regulator?"
+      "What happens when the central authority refers a matter to the regulator?",
+      "How does the referral to the regulator impact the consumer's complaint?",
+      "Can you describe the regulator's role after receiving a referral from the central authority?",
+      "What are the next steps after the central authority refers a matter to the regulator?",
+      "How does the referral to the regulator affect the resolution of a consumer's complaint?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S19-2",
-    "procedure.referral_to_regulator"
+    "procedure.referral_to_regulator",
+    "alias.referral_to_regulator"
   ],
   "related_concepts": [
-    "procedure.referral_to_regulator"
+    "alias.referral_to_regulator"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "referral",
+      "regulator",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is central authority must refer matter to regulator?",
+      "How does central authority must refer matter to regulator work?",
+      "Can you explain central authority must refer matter to regulator?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

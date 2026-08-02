@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: State Government must notify in Official Gazette",
   "content": {
     "queries": [
+      "What types of notifications must the State Government publish in the Official Gazette?",
+      "How often does the State Government need to update notifications in the Official Gazette?",
+      "Can the State Government make changes to notifications without publishing them in the Official Gazette?",
+      "What is the purpose of the State Government notifying in the Official Gazette?",
+      "Are notifications published in the Official Gazette available to the public for review?"
+    ]
+  },
+  "derived_from": [
+    "alias.state_government_must_notify_in_official_gazette"
+  ],
+  "related_concepts": [
+    "alias.state_government_must_notify_in_official_gazette"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "state",
+      "government",
+      "notify",
+      "official",
+      "gazette",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "gazette publication requirement",
+      "government notification",
+      "official gazette notification",
+      "public notice in gazette"
+    ],
+    "user_queries": [
       "What is state government must notify in official gazette?",
       "How does state government must notify in official gazette work?",
       "Can you explain state government must notify in official gazette?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S42-2",
-    "obligation.state_government_must_notify_in_official_gazette"
-  ],
-  "related_concepts": [
-    "obligation.state_government_must_notify_in_official_gazette"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

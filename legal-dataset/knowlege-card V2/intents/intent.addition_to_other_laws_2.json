@@ -1,0 +1,57 @@
+{
+  "concept_id": "intent.addition_to_other_laws_2",
+  "concept_type": "intent",
+  "title": "Questions about Addition to other laws",
+  "description": "Natural language queries a user may ask about: Addition to other laws",
+  "content": {
+    "queries": [
+      "How does the Consumer Protection Act add to other existing laws?",
+      "What are the implications of addition to other laws on consumer rights?",
+      "Can you provide examples of how addition to other laws benefits consumers?",
+      "How does the addition to other laws affect the overall consumer protection framework?",
+      "What are the key aspects of addition to other laws that consumers should be aware of?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S100",
+    "exception.shall_not_derogate_from_the_provisions_of_any_other_law_for_"
+  ],
+  "related_concepts": [
+    "exception.shall_not_derogate_from_the_provisions_of_any_other_law_for_"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "addition",
+      "other",
+      "laws",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "additional legislation",
+      "concurrent laws",
+      "cumulative effect",
+      "supplemental law"
+    ],
+    "user_queries": [
+      "What is addition to other laws?",
+      "How does addition to other laws work?",
+      "Can you explain addition to other laws?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

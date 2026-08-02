@@ -1,0 +1,57 @@
+{
+  "concept_id": "intent.resolution_of_differing_opinions_handled_by_president",
+  "concept_type": "intent",
+  "title": "Questions about Resolution of differing opinions handled by President",
+  "description": "Natural language queries a user may ask about: Resolution of differing opinions handled by President",
+  "content": {
+    "queries": [
+      "What is resolution of differing opinions handled by president?",
+      "How does resolution of differing opinions handled by president work?",
+      "Can you explain resolution of differing opinions handled by president?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S47-3",
+    "CPA2019-CH4-S58-3",
+    "relationship.procedure_resolution_of_differing_opinions_handled_by_authority_presid"
+  ],
+  "related_concepts": [
+    "relationship.procedure_resolution_of_differing_opinions_handled_by_authority_presid"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "resolution",
+      "differing",
+      "opinions",
+      "handled",
+      "president",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "Chairperson",
+      "Chief of Commission",
+      "Commission President",
+      "Head of Commission",
+      "Leader of the Commission"
+    ],
+    "user_queries": [
+      "What is resolution of differing opinions handled by president?",
+      "How does resolution of differing opinions handled by president work?",
+      "Can you explain resolution of differing opinions handled by president?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

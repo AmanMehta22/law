@@ -1,0 +1,58 @@
+{
+  "concept_id": "intent.manufacturing_storing_selling_distributing_or_importing_spurious_goods_caus_2",
+  "concept_type": "intent",
+  "title": "Questions about Manufacturing, storing, selling, distributing or importing spurious goods causing grievous hurt",
+  "description": "Natural language queries a user may ask about: Manufacturing, storing, selling, distributing or importing spurious goods causing grievous hurt",
+  "content": {
+    "queries": [
+      "What are the penalties for manufacturing spurious goods that cause grievous hurt to consumers?",
+      "Can a seller be fined for distributing spurious goods that lead to grievous hurt?",
+      "How does the law handle the importation of spurious goods that cause harm to consumers?",
+      "What are the consequences of storing spurious goods that cause grievous hurt to multiple people?",
+      "Is manufacturing spurious goods that cause grievous hurt a serious offense under the Consumer Protection Act?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH7-S91-1",
+    "offence.manufactures_for_sale_or_stores_or_sells_or_distributes_or_imports_any_spur_2"
+  ],
+  "related_concepts": [
+    "offence.manufactures_for_sale_or_stores_or_sells_or_distributes_or_imports_any_spur_2"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "manufacturing",
+      "storing",
+      "selling",
+      "distributing",
+      "importing",
+      "spurious",
+      "goods",
+      "causing"
+    ],
+    "aliases": [
+      "counterfeit goods resulting in severe harm",
+      "fake products leading to grievous harm",
+      "harmful fake products",
+      "spurious goods causing serious harm",
+      "spurious goods causing serious injury"
+    ],
+    "user_queries": [
+      "What is manufacturing, storing, selling, distributing or importing spurious goods causing grievous hurt?",
+      "How does manufacturing, storing, selling, distributing or importing spurious goods causing grievous hurt work?",
+      "Can you explain manufacturing, storing, selling, distributing or importing spurious goods causing grievous hurt?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

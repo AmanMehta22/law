@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.filing_of_complaint_after_specified_period_2",
+  "concept_type": "intent",
+  "title": "Questions about Filing of complaint after specified period",
+  "description": "Natural language queries a user may ask about: Filing of complaint after specified period",
+  "content": {
+    "queries": [
+      "What is the process for filing a complaint after the initial specified period has ended?",
+      "Can a complainant file a complaint after the specified period if they have new evidence?",
+      "How does the commission evaluate complaints filed after the specified period has passed?",
+      "Are there any specific forms or documentation required for filing a complaint after the specified period?",
+      "Does the commission consider the reason for the delay when evaluating a complaint filed after the specified period?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S69-2",
+    "procedure.filing_of_complaint_after_specified_period"
+  ],
+  "related_concepts": [
+    "procedure.filing_of_complaint_after_specified_period"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "filing",
+      "complaint",
+      "after",
+      "specified",
+      "period",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "applicant",
+      "consumer"
+    ],
+    "user_queries": [
+      "What is complainant must satisfy the commission?",
+      "How does complainant must satisfy the commission work?",
+      "Can you explain complainant must satisfy the commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

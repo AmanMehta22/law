@@ -5,22 +5,48 @@
   "description": "Natural language queries a user may ask about: Appeal to National Commission",
   "content": {
     "queries": [
-      "What is appeal to national commission?",
-      "How does appeal to national commission work?",
-      "Can you explain appeal to national commission?"
+      "Under what circumstances can an appeal be made to the National Commission?",
+      "What is the process for filing an appeal to the National Commission?",
+      "Can an appeal to the National Commission be filed against a state commission's order?",
+      "How long does it take for the National Commission to hear an appeal?",
+      "What are the grounds for appealing to the National Commission in a consumer case?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S51-2",
-    "exception.save_as_otherwise_expressly_provided_under_this_act_or_by_an"
+    "CPA2019-CH8-S101-2",
+    "exception.save_as_otherwise_expressly_provided_under_this_act_or_by_an",
+    "procedure.appeal_to_national_commission",
+    "alias.appeal_to_national_commission"
   ],
   "related_concepts": [
-    "exception.save_as_otherwise_expressly_provided_under_this_act_or_by_an"
+    "alias.appeal_to_national_commission"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "appeal",
+      "national",
+      "commission",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "appeal to national commission",
+      "appeal to national consumer commission",
+      "national appeal",
+      "national commission",
+      "national commission appeal"
+    ],
+    "user_queries": [
+      "What is appeal to national commission?",
+      "How does appeal to national commission work?",
+      "Can you explain appeal to national commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

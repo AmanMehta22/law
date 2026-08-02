@@ -7,20 +7,53 @@
     "queries": [
       "What is consumer excludes commercial purpose?",
       "How does consumer excludes commercial purpose work?",
-      "Can you explain consumer excludes commercial purpose?"
+      "Can you explain consumer excludes commercial purpose?",
+      "What is bench?",
+      "How does bench work?",
+      "Can you explain bench?"
     ]
   },
   "derived_from": [
-    "CPA2019-CH1-S2-7",
-    "exception.does_not_include_a_person_who_obtains_goods_for_resale_or_fo"
+    "CPA2019-CH4-S37-1",
+    "CPA2019-CH4-S38-12",
+    "CPA2019-CH4-S47-2",
+    "exception.does_not_include_a_person_who_obtains_goods_for_resale_or_co"
   ],
   "related_concepts": [
-    "exception.does_not_include_a_person_who_obtains_goods_for_resale_or_fo"
+    "exception.does_not_include_a_person_who_obtains_goods_for_resale_or_co"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "consumer",
+      "excludes",
+      "commercial",
+      "purpose",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is consumer excludes commercial purpose?",
+      "How does consumer excludes commercial purpose work?",
+      "Can you explain consumer excludes commercial purpose?",
+      "What is consumer?",
+      "How does consumer work?",
+      "Can you explain consumer?",
+      "What is bench?",
+      "How does bench work?",
+      "Can you explain bench?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,0 +1,57 @@
+{
+  "concept_id": "intent.mediation_references_court",
+  "concept_type": "intent",
+  "title": "Questions about Mediation references Court",
+  "description": "Natural language queries a user may ask about: Mediation references Court",
+  "content": {
+    "queries": [
+      "What is mediation references court?",
+      "How does mediation references court work?",
+      "Can you explain mediation references court?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S101-2",
+    "CPA2019-CH8-S96-1",
+    "relationship.alias_mediation_references_alias_court"
+  ],
+  "related_concepts": [
+    "relationship.alias_mediation_references_alias_court"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "mediation",
+      "references",
+      "court",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "appeal to national commission",
+      "appeal to national consumer commission",
+      "national appeal",
+      "national commission",
+      "national commission appeal"
+    ],
+    "user_queries": [
+      "What is mediation references court?",
+      "How does mediation references court work?",
+      "Can you explain mediation references court?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

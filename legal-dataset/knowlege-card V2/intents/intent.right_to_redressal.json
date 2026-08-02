@@ -5,20 +5,43 @@
   "description": "Natural language queries a user may ask about: Right to Redressal",
   "content": {
     "queries": [
-      "what can I do against unfair trade practices"
+      "What are the different types of redressal available to consumers under the Right to Redressal?",
+      "How can a consumer seek redressal for a defective product or service?",
+      "What is the time limit for seeking redressal under the Consumer Protection Act?",
+      "Can a consumer claim compensation for mental agony under the Right to Redressal?",
+      "How does the Right to Redressal protect consumers from unfair trade practices?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-9",
-    "right.right_to_redressal"
+    "right.right_to_redressal",
+    "alias.right_to_redressal"
   ],
   "related_concepts": [
-    "right.right_to_redressal"
+    "alias.right_to_redressal"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "right",
+      "redressal",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "right to compensation"
+    ],
+    "user_queries": [
+      "what can I do against unfair trade practices",
+      "What is right to redressal?",
+      "How does right to redressal work?",
+      "Can you explain right to redressal?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

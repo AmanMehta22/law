@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.employer_purchase_exception_2",
+  "concept_type": "intent",
+  "title": "Questions about Employer Purchase Exception",
+  "description": "Natural language queries a user may ask about: Employer Purchase Exception",
+  "content": {
+    "queries": [
+      "Is the product manufacturer liable if the employer purchased the product?",
+      "What exceptions apply when an employer buys a product for an employee?",
+      "Can an employer be held responsible for a product defect under the Employer Purchase Exception?",
+      "How does the complainant under influence exception relate to employer purchases?",
+      "Are there any specific rules for employer purchases that affect product liability?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH6-S87-2",
+    "exception.product_manufacturer_not_liable_if_product_purchased_by_empl"
+  ],
+  "related_concepts": [
+    "exception.product_manufacturer_not_liable_if_product_purchased_by_empl"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "employer",
+      "purchase",
+      "exception",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "exception to product liability"
+    ],
+    "user_queries": [
+      "product manufacturer not liable",
+      "What is complainant under influence exception?",
+      "How does complainant under influence exception work?",
+      "Can you explain complainant under influence exception?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.district_commission_must_pass_interim_order_2",
+  "concept_type": "intent",
+  "title": "Questions about District Commission must pass interim order",
+  "description": "Natural language queries a user may ask about: District Commission must pass interim order",
+  "content": {
+    "queries": [
+      "What are the powers of District Commission during a proceeding?",
+      "What is district commission must pass interim order?",
+      "How does district commission must pass interim order work?",
+      "Can you explain district commission must pass interim order?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-8",
+    "obligation.district_commission_may_pass_interim_order"
+  ],
+  "related_concepts": [
+    "obligation.district_commission_may_pass_interim_order"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commission",
+      "pass",
+      "interim",
+      "order",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "temporary order",
+      "proceeding before District Commission"
+    ],
+    "user_queries": [
+      "What are the powers of District Commission during a proceeding?",
+      "What is district commission must pass interim order?",
+      "How does district commission must pass interim order work?",
+      "Can you explain district commission must pass interim order?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,24 +1,45 @@
 {
   "concept_id": "intent.state_government_must_lay_rules_before_legislature",
   "concept_type": "intent",
-  "title": "Questions about State Government must lay rules before Legislature",
-  "description": "Natural language queries a user may ask about: State Government must lay rules before Legislature",
+  "title": "Questions about State Government Must Lay Rules Before Legislature",
+  "description": "Natural language queries a user may ask about: State Government Must Lay Rules Before Legislature",
   "content": {
     "queries": [
-      "What are the obligations of State Government under the Act?"
+      "What is state government must lay rules before legislature?",
+      "How does state government must lay rules before legislature work?",
+      "Can you explain state government must lay rules before legislature?"
     ]
   },
   "derived_from": [
     "CPA2019-CH8-S105-2",
-    "obligation.state_government_shall_lay_rules_before_the_state_legislatur"
+    "obligation.state_government_shall_lay_rules_before_the_state_legislatur",
+    "alias.state_government_must_lay_rules_before_legislature"
   ],
   "related_concepts": [
-    "obligation.state_government_shall_lay_rules_before_the_state_legislatur"
+    "alias.state_government_must_lay_rules_before_legislature"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "state",
+      "government",
+      "lay",
+      "rules",
+      "before",
+      "legislature",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "laying of rules"
+    ],
+    "user_queries": [
+      "What are the obligations of State Government under the Act?",
+      "What is state government must lay rules before legislature?",
+      "How does state government must lay rules before legislature work?",
+      "Can you explain state government must lay rules before legislature?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

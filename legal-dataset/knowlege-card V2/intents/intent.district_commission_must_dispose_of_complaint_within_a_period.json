@@ -1,24 +1,48 @@
 {
   "concept_id": "intent.district_commission_must_dispose_of_complaint_within_a_period",
   "concept_type": "intent",
-  "title": "Questions about District Commission must dispose of complaint within a period",
-  "description": "Natural language queries a user may ask about: District Commission must dispose of complaint within a period",
+  "title": "Questions about District Commission Must Dispose Of Complaint Within A Period",
+  "description": "Natural language queries a user may ask about: District Commission Must Dispose Of Complaint Within A Period",
   "content": {
     "queries": [
-      "time limit for complaint disposal"
+      "What is the time limit for the District Commission to dispose of a complaint?",
+      "Can the District Commission extend the period for disposing of a complaint?",
+      "How long does the District Commission have to resolve a consumer complaint?",
+      "What happens if the District Commission fails to dispose of a complaint within the specified period?",
+      "Is there a penalty for the District Commission if it doesn't dispose of a complaint on time?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-7",
-    "obligation.district_commission_must_dispose_of_complaint_within_a_perio"
+    "obligation.district_commission_must_dispose_of_complaint_within_a_perio",
+    "alias.district_commission_must_dispose_of_complaint_within_a_period"
   ],
   "related_concepts": [
-    "obligation.district_commission_must_dispose_of_complaint_within_a_perio"
+    "alias.district_commission_must_dispose_of_complaint_within_a_period"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commission",
+      "dispose",
+      "complaint",
+      "period",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "District Commission",
+      "Consumer Forum"
+    ],
+    "user_queries": [
+      "time limit for complaint disposal",
+      "What is adjournment exception?",
+      "How does adjournment exception work?",
+      "Can you explain adjournment exception?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

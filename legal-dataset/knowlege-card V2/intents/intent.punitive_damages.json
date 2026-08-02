@@ -5,21 +5,43 @@
   "description": "Natural language queries a user may ask about: Punitive damages",
   "content": {
     "queries": [
-      "What is the punishment for punitive damages?",
-      "What happens if I commit punitive damages?"
+      "What is the purpose of punitive damages in consumer protection cases?",
+      "How are punitive damages different from regular damages?",
+      "Can punitive damages be awarded in addition to regular damages?",
+      "What is the criteria for awarding punitive damages in a consumer protection case?",
+      "How do courts determine the amount of punitive damages to award?"
     ]
   },
   "derived_from": [
-    "CPA2019-CH4-S39-1",
-    "penalty.punitive_damages"
+    "alias.punitive_damages"
   ],
   "related_concepts": [
-    "penalty.punitive_damages"
+    "alias.punitive_damages"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "punitive",
+      "damages",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "exemplary damages",
+      "punishment damages",
+      "retributory damages",
+      "vindictive damages"
+    ],
+    "user_queries": [
+      "What is punitive damages?",
+      "How does punitive damages work?",
+      "Can you explain punitive damages?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

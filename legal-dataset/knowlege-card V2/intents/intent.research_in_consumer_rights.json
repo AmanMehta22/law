@@ -5,21 +5,46 @@
   "description": "Natural language queries a user may ask about: Research in Consumer Rights",
   "content": {
     "queries": [
-      "How do I file research in consumer rights?",
-      "What are the steps for research in consumer rights?"
+      "What does research in consumer rights entail?",
+      "How can I conduct research in consumer rights?",
+      "What are the benefits of research in consumer rights?",
+      "Can you provide examples of research in consumer rights?",
+      "Why is research in consumer rights important for consumers?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S18-2",
-    "procedure.research_in_consumer_rights"
+    "procedure.research_in_consumer_rights",
+    "alias.research_in_consumer_rights"
   ],
   "related_concepts": [
-    "procedure.research_in_consumer_rights"
+    "alias.research_in_consumer_rights"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "research",
+      "consumer",
+      "rights",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "advice on consumer welfare",
+      "advising on consumer welfare",
+      "consumer rights guidance",
+      "consumer welfare advice",
+      "consumer welfare measures"
+    ],
+    "user_queries": [
+      "What is research in consumer rights?",
+      "How does research in consumer rights work?",
+      "Can you explain research in consumer rights?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

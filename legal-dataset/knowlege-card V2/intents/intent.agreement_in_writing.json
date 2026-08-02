@@ -5,22 +5,44 @@
   "description": "Natural language queries a user may ask about: Agreement in writing",
   "content": {
     "queries": [
+      "What are the essential elements of a valid agreement in writing?",
+      "Can an oral agreement be considered valid in a consumer dispute?",
+      "How does an agreement in writing protect the rights of consumers?",
+      "What is the significance of having a written agreement in a business transaction?",
+      "Can a written agreement be amended or modified after it is signed?"
+    ]
+  },
+  "derived_from": [
+    "alias.agreement_in_writing"
+  ],
+  "related_concepts": [
+    "alias.agreement_in_writing"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "agreement",
+      "writing",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "documented deal",
+      "formal agreement",
+      "paperwork",
+      "signed agreement",
+      "written contract"
+    ],
+    "user_queries": [
       "What is agreement in writing?",
       "How does agreement in writing work?",
       "Can you explain agreement in writing?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH5-S80-1",
-    "evidence.written_agreement"
-  ],
-  "related_concepts": [
-    "evidence.written_agreement"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

@@ -5,24 +5,46 @@
   "description": "Natural language queries a user may ask about: President",
   "content": {
     "queries": [
-      "What is president?",
-      "How does president work?",
-      "Can you explain president?"
+      "What does the President's bench mean in the context of the Consumer Protection Act?",
+      "Can the President's bench handle consumer complaints directly?",
+      "How does the bench under the President's jurisdiction affect consumer rights?",
+      "Is the President's bench responsible for appointing members to the consumer commission?",
+      "What role does the President's bench play in ensuring consumer protection in India?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S47-2",
     "CPA2019-CH4-S47-3",
     "CPA2019-CH4-S58-3",
-    "authority.president"
+    "authority.president",
+    "alias.president"
   ],
   "related_concepts": [
-    "authority.president"
+    "alias.president"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "president",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "bench"
+    ],
+    "aliases": [
+      "Court Bench",
+      "Judicial Bench",
+      "Tribunal"
+    ],
+    "user_queries": [
+      "What is bench?",
+      "How does bench work?",
+      "Can you explain bench?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

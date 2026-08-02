@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Complaint disposal time limit without analysis or testing",
   "content": {
     "queries": [
+      "What is the time limit for disposing of a complaint without analysis or testing?",
+      "How long does a consumer have to wait for a complaint to be resolved without testing?",
+      "Can a complaint be resolved without analysis or testing, and if so, how quickly?",
+      "What are the rules for complaint disposal time limits when no analysis or testing is required?",
+      "Is there a specific timeframe for resolving complaints that do not require analysis or testing?"
+    ]
+  },
+  "derived_from": [
+    "alias.complaint_disposal_time_limit_without_analysis_or_testing"
+  ],
+  "related_concepts": [
+    "alias.complaint_disposal_time_limit_without_analysis_or_testing"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "complaint",
+      "disposal",
+      "time",
+      "limit",
+      "without",
+      "analysis",
+      "testing",
+      "natural"
+    ],
+    "aliases": [
+      "complaint disposal period without lab testing",
+      "complaint resolution time without analysis",
+      "complaint resolution timeframe without investigation",
+      "straightforward complaint disposal timeline"
+    ],
+    "user_queries": [
       "What is complaint disposal time limit without analysis or testing?",
       "How does complaint disposal time limit without analysis or testing work?",
       "Can you explain complaint disposal time limit without analysis or testing?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S38-7",
-    "timeline.three_months"
-  ],
-  "related_concepts": [
-    "timeline.three_months"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

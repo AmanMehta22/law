@@ -1,24 +1,48 @@
 {
   "concept_id": "intent.district_commission_must_review_order",
   "concept_type": "intent",
-  "title": "Questions about District Commission must review order",
-  "description": "Natural language queries a user may ask about: District Commission must review order",
+  "title": "Questions about District Commission Must Review Order",
+  "description": "Natural language queries a user may ask about: District Commission Must Review Order",
   "content": {
     "queries": [
-      "Can the District Commission review its own order?"
+      "What is the purpose of a district commission reviewing an order under the Consumer Protection Act?",
+      "How does a district commission review an order and what are the grounds for review?",
+      "Can a district commission review an order passed by a lower authority?",
+      "What is the time limit for a district commission to review an order?",
+      "What are the consequences of a district commission reviewing an order?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S40",
-    "obligation.district_commission_shall_review_any_of_the_order_passed_by_"
+    "obligation.district_commission_shall_review_any_of_the_order_passed_by_",
+    "alias.district_commission_must_review_order"
   ],
   "related_concepts": [
-    "obligation.district_commission_shall_review_any_of_the_order_passed_by_"
+    "alias.district_commission_must_review_order"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commission",
+      "review",
+      "order",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "re-examine",
+      "reconsider"
+    ],
+    "user_queries": [
+      "Can the District Commission review its own order?",
+      "What is district commission must review order?",
+      "How does district commission must review order work?",
+      "Can you explain district commission must review order?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -5,21 +5,42 @@
   "description": "Natural language queries a user may ask about: Filing an appeal to the State Commission",
   "content": {
     "queries": [
-      "How do I file filing an appeal to the state commission?",
-      "What are the steps for filing an appeal to the state commission?"
+      "What are the grounds for filing an appeal to the State Commission?",
+      "How long does it take to file an appeal to the State Commission?",
+      "Can I file an appeal to the State Commission online?",
+      "What documents are required to file an appeal to the State Commission?",
+      "Is there a fee for filing an appeal to the State Commission?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S41",
-    "procedure.filing_an_appeal_to_the_state_commission"
+    "procedure.filing_an_appeal_to_the_state_commission",
+    "alias.filing_an_appeal_to_the_state_commission"
   ],
   "related_concepts": [
-    "procedure.filing_an_appeal_to_the_state_commission"
+    "alias.filing_an_appeal_to_the_state_commission"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "filing",
+      "appeal",
+      "state",
+      "commission",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "late appeal"
+    ],
+    "user_queries": [
+      "What is delayed appeal?",
+      "How does delayed appeal work?",
+      "Can you explain delayed appeal?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

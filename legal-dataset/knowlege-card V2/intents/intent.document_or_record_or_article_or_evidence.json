@@ -5,22 +5,44 @@
   "description": "Natural language queries a user may ask about: Document or record or article or evidence",
   "content": {
     "queries": [
+      "What is the significance of an article as evidence in a consumer case?",
+      "How does a document or record differ from an article or evidence in consumer protection?",
+      "Can an article be considered a document or record under the Consumer Protection Act?",
+      "What types of evidence are admissible in consumer courts, including documents, records, and articles?",
+      "How do I present an article as evidence in support of my consumer complaint?"
+    ]
+  },
+  "derived_from": [
+    "alias.document_or_record_or_article_or_evidence"
+  ],
+  "related_concepts": [
+    "alias.document_or_record_or_article_or_evidence"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "document",
+      "record",
+      "article",
+      "evidence",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "documents",
+      "exhibits",
+      "papers",
+      "proof",
+      "records"
+    ],
+    "user_queries": [
       "What is document or record or article or evidence?",
       "How does document or record or article or evidence work?",
       "Can you explain document or record or article or evidence?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH3-S22-1",
-    "evidence.document_record_article_evidence"
-  ],
-  "related_concepts": [
-    "evidence.document_record_article_evidence"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

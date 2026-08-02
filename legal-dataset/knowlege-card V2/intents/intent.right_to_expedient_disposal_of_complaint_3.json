@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.right_to_expedient_disposal_of_complaint_3",
+  "concept_type": "intent",
+  "title": "Questions about Right to Expedient Disposal of Complaint",
+  "description": "Natural language queries a user may ask about: Right to Expedient Disposal of Complaint",
+  "content": {
+    "queries": [
+      "how long will my complaint take to resolve",
+      "What is right to expedient disposal of complaint?",
+      "How does right to expedient disposal of complaint work?",
+      "Can you explain right to expedient disposal of complaint?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-7",
+    "right.right_to_expedient_disposal_of_complaint"
+  ],
+  "related_concepts": [
+    "right.right_to_expedient_disposal_of_complaint"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "right",
+      "expedient",
+      "disposal",
+      "complaint",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "right to speedy disposal"
+    ],
+    "user_queries": [
+      "how long will my complaint take to resolve",
+      "What is right to expedient disposal of complaint?",
+      "How does right to expedient disposal of complaint work?",
+      "Can you explain right to expedient disposal of complaint?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

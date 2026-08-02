@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.resolving_difference_of_opinion_2",
+  "concept_type": "intent",
+  "title": "Questions about Resolving Difference of Opinion",
+  "description": "Natural language queries a user may ask about: Resolving Difference of Opinion",
+  "content": {
+    "queries": [
+      "Under what circumstances can a member's opinion be considered invalid?",
+      "How does the opinion of a member affect the resolution of a dispute?",
+      "Can a member change their opinion after it has been given?",
+      "What is the process for a member to provide their opinion in writing?",
+      "How is the opinion of a member used to resolve a difference of opinion?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S39-3",
+    "procedure.resolving_difference_of_opinion"
+  ],
+  "related_concepts": [
+    "procedure.resolving_difference_of_opinion"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "resolving",
+      "difference",
+      "opinion",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is member must give opinion within a month?",
+      "How does member must give opinion within a month work?",
+      "Can you explain member must give opinion within a month?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

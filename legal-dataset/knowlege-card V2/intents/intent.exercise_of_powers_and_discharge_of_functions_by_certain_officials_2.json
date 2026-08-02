@@ -1,0 +1,58 @@
+{
+  "concept_id": "intent.exercise_of_powers_and_discharge_of_functions_by_certain_officials_2",
+  "concept_type": "intent",
+  "title": "Questions about Exercise of powers and discharge of functions by certain officials",
+  "description": "Natural language queries a user may ask about: Exercise of powers and discharge of functions by certain officials",
+  "content": {
+    "queries": [
+      "What is the process for certain officials to exercise their powers under the Act?",
+      "How do officials discharge their functions in relation to consumer complaints?",
+      "Are there any checks and balances on the powers of certain officials?",
+      "Can certain officials' decisions be appealed or reviewed?",
+      "What training or guidance is available for officials to ensure they are exercising their powers correctly?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S15-3",
+    "obligation.additional_director_general_director_joint_director_deputy_d"
+  ],
+  "related_concepts": [
+    "obligation.additional_director_general_director_joint_director_deputy_d"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "exercise",
+      "powers",
+      "discharge",
+      "functions",
+      "certain",
+      "officials",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "Alternate Director-General",
+      "Assistant Director-General",
+      "Deputy Director-General",
+      "Extra Director-General",
+      "Supplemental Director-General"
+    ],
+    "user_queries": [
+      "What is exercise of powers and discharge of functions by certain officials?",
+      "How does exercise of powers and discharge of functions by certain officials work?",
+      "Can you explain exercise of powers and discharge of functions by certain officials?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

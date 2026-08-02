@@ -7,20 +7,41 @@
     "queries": [
       "What is evidence?",
       "How does evidence work?",
-      "Can you explain evidence?"
+      "Can you explain evidence?",
+      "What is the role of evidence in a trial?",
+      "How does evidence help in making a decision in a case?"
     ]
   },
   "derived_from": [
-    "CPA2019-CH4-S38-3",
-    "evidence.evidence"
+    "alias.evidence"
   ],
   "related_concepts": [
-    "evidence.evidence"
+    "alias.evidence"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "evidence",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "how"
+    ],
+    "aliases": [
+      "documents",
+      "exhibits",
+      "proof",
+      "testimony"
+    ],
+    "user_queries": [
+      "What is evidence?",
+      "How does evidence work?",
+      "Can you explain evidence?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

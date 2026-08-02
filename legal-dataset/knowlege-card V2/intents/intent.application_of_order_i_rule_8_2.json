@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.application_of_order_i_rule_8_2",
+  "concept_type": "intent",
+  "title": "Questions about Application of Order I Rule 8",
+  "description": "Natural language queries a user may ask about: Application of Order I Rule 8",
+  "content": {
+    "queries": [
+      "What is the difference between Order I Rule 8 and other rules?",
+      "How does Order I Rule 8 interact with other consumer protection laws?",
+      "Can I appeal a decision made under Order I Rule 8?",
+      "What are the consequences of not following Order I Rule 8?",
+      "How does Order I Rule 8 impact the rights of consumers?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-11",
+    "exception.subject_to_the_modification_that_every_reference_therein_to_"
+  ],
+  "related_concepts": [
+    "exception.subject_to_the_modification_that_every_reference_therein_to_"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "application",
+      "order",
+      "rule",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is application of order i rule 8?",
+      "How does application of order i rule 8 work?",
+      "Can you explain application of order i rule 8?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

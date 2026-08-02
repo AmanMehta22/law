@@ -1,26 +1,48 @@
 {
   "concept_id": "intent.state_government_must_make_rules_for_salaries_and_allowances",
   "concept_type": "intent",
-  "title": "Questions about State Government must make rules for salaries and allowances",
-  "description": "Natural language queries a user may ask about: State Government must make rules for salaries and allowances",
+  "title": "Questions about State Government Must Make Rules For Salaries And Allowances",
+  "description": "Natural language queries a user may ask about: State Government Must Make Rules For Salaries And Allowances",
   "content": {
     "queries": [
-      "What are the rules for salaries of District Commission members",
-      "What are the obligations of State Government regarding State Commission"
+      "What is state government must make rules for salaries and allowances?",
+      "How does state government must make rules for salaries and allowances work?",
+      "Can you explain state government must make rules for salaries and allowances?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S30",
     "CPA2019-CH4-S44",
-    "obligation.state_government_make_rules_to_provide_for_salaries_and_allo"
+    "obligation.state_government_make_rules_to_provide_for_salaries_and_allo",
+    "alias.state_government_must_make_rules_for_salaries_and_allowances"
   ],
   "related_concepts": [
-    "obligation.state_government_make_rules_to_provide_for_salaries_and_allo"
+    "alias.state_government_must_make_rules_for_salaries_and_allowances"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "state",
+      "government",
+      "make",
+      "rules",
+      "salaries",
+      "allowances",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "State Govt",
+      "rules making"
+    ],
+    "user_queries": [
+      "What are the rules for salaries of District Commission members",
+      "What are the obligations of State Government regarding State Commission",
+      "What is state government must make rules for salaries and allowances?",
+      "How does state government must make rules for salaries and allowances work?",
+      "Can you explain state government must make rules for salaries and allowances?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

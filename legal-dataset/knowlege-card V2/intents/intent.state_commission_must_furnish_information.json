@@ -1,24 +1,49 @@
 {
   "concept_id": "intent.state_commission_must_furnish_information",
   "concept_type": "intent",
-  "title": "Questions about State Commission must furnish information",
-  "description": "Natural language queries a user may ask about: State Commission must furnish information",
+  "title": "Questions about State Commission Must Furnish Information",
+  "description": "Natural language queries a user may ask about: State Commission Must Furnish Information",
   "content": {
     "queries": [
-      "What information must the State Commission provide to the State Government?"
+      "What information must the State Commission authenticate about goods?",
+      "How does the State Commission verify goods for consumer protection?",
+      "Can the State Commission provide details about authenticating goods?",
+      "What is the process for the State Commission to furnish information about goods?",
+      "How does the State Commission ensure goods are genuine?"
     ]
   },
   "derived_from": [
+    "CPA2019-CH4-S70-5",
     "CPA2019-CH8-S102-2",
-    "obligation.state_commission_must_furnish_information_to_the_state_gover"
+    "obligation.state_commission_must_furnish_information_to_the_state_gover",
+    "obligation.state_commission_shall_furnish_any_information_including_pen",
+    "alias.state_commission_must_furnish_information"
   ],
   "related_concepts": [
-    "obligation.state_commission_must_furnish_information_to_the_state_gover"
+    "alias.state_commission_must_furnish_information"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "state",
+      "commission",
+      "furnish",
+      "information",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "report",
+      "notification"
+    ],
+    "user_queries": [
+      "What is state commission must authenticate goods?",
+      "How does state commission must authenticate goods work?",
+      "Can you explain state commission must authenticate goods?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

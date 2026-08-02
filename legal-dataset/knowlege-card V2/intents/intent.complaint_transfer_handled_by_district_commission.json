@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.complaint_transfer_handled_by_district_commission",
+  "concept_type": "intent",
+  "title": "Questions about Complaint transfer handled by District Commission",
+  "description": "Natural language queries a user may ask about: Complaint transfer handled by District Commission",
+  "content": {
+    "queries": [
+      "What is complaint transfer handled by district commission?",
+      "How does complaint transfer handled by district commission work?",
+      "Can you explain complaint transfer handled by district commission?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S62",
+    "relationship.procedure_complaint_transfer_handled_by_authority_district_commission"
+  ],
+  "related_concepts": [
+    "relationship.procedure_complaint_transfer_handled_by_authority_district_commission"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "complaint",
+      "transfer",
+      "handled",
+      "district",
+      "commission",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "complaint redirection",
+      "complaint relocation",
+      "transfer of case",
+      "transfer of complaint"
+    ],
+    "user_queries": [
+      "What is complaint transfer handled by district commission?",
+      "How does complaint transfer handled by district commission work?",
+      "Can you explain complaint transfer handled by district commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

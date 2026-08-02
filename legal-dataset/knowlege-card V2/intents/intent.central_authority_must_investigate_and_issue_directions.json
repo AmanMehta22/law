@@ -1,24 +1,48 @@
 {
   "concept_id": "intent.central_authority_must_investigate_and_issue_directions",
   "concept_type": "intent",
-  "title": "Questions about Central Authority must investigate and issue directions",
-  "description": "Natural language queries a user may ask about: Central Authority must investigate and issue directions",
+  "title": "Questions about Central Authority Must Investigate And Issue Directions",
+  "description": "Natural language queries a user may ask about: Central Authority Must Investigate And Issue Directions",
   "content": {
     "queries": [
-      "What are the powers of Central Authority regarding advertisements?"
+      "What happens if the Central Authority finds an advertisement to be false or misleading?",
+      "Can the Central Authority order an advertiser to modify their advertisement?",
+      "How does the Central Authority investigate complaints about advertisements?",
+      "What directions can the Central Authority issue to an advertiser?",
+      "Is the Central Authority responsible for ensuring advertisers comply with its directions?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S21-1",
-    "obligation.central_authority_may_issue_directions_to_discontinue_or_mod"
+    "obligation.central_authority_may_issue_directions_to_discontinue_or_mod",
+    "alias.central_authority_must_investigate_and_issue_directions"
   ],
   "related_concepts": [
-    "obligation.central_authority_may_issue_directions_to_discontinue_or_mod"
+    "alias.central_authority_must_investigate_and_issue_directions"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "authority",
+      "investigate",
+      "issue",
+      "directions",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "consumer protection",
+      "misleading ads"
+    ],
+    "user_queries": [
+      "What are the powers of Central Authority regarding advertisements?",
+      "What is advertiser must discontinue or modify advertisement?",
+      "How does advertiser must discontinue or modify advertisement work?",
+      "Can you explain advertiser must discontinue or modify advertisement?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

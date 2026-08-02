@@ -1,0 +1,61 @@
+{
+  "concept_id": "intent.damages_2",
+  "concept_type": "intent",
+  "title": "Questions about Damages",
+  "description": "Natural language queries a user may ask about: Damages",
+  "content": {
+    "queries": [
+      "Are damages awarded to consumers taxable?",
+      "Can a consumer claim damages for a product that is no longer available?",
+      "How does the court differentiate between compensatory and punitive damages?",
+      "What is the process for a consumer to claim damages for a defective product?",
+      "Can a consumer claim damages if they have already received a refund?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH6-S83",
+    "remedy.damages"
+  ],
+  "related_concepts": [
+    "remedy.damages"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "damages",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "how"
+    ],
+    "aliases": [
+      "compensation rights",
+      "refund rights",
+      "reimbursement rights",
+      "right to claim damages",
+      "right to damages",
+      "right to redress",
+      "right to remedy",
+      "right to reparation"
+    ],
+    "user_queries": [
+      "What is damages?",
+      "How does damages work?",
+      "Can you explain damages?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.empanelment_of_mediators_handled_by_consumer_mediation_cell",
+  "concept_type": "intent",
+  "title": "Questions about Empanelment of mediators handled by Consumer Mediation Cell",
+  "description": "Natural language queries a user may ask about: Empanelment of mediators handled by Consumer Mediation Cell",
+  "content": {
+    "queries": [
+      "What is empanelment of mediators handled by consumer mediation cell?",
+      "How does empanelment of mediators handled by consumer mediation cell work?",
+      "Can you explain empanelment of mediators handled by consumer mediation cell?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S103-2",
+    "relationship.procedure_empanelment_of_mediators_handled_by_authority_consumer_media"
+  ],
+  "related_concepts": [
+    "relationship.procedure_empanelment_of_mediators_handled_by_authority_consumer_media"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "empanelment",
+      "mediators",
+      "handled",
+      "consumer",
+      "mediation",
+      "cell",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "adjournment cost",
+      "cost imposition by district commission",
+      "district commission cost"
+    ],
+    "user_queries": [
+      "What is empanelment of mediators handled by consumer mediation cell?",
+      "How does empanelment of mediators handled by consumer mediation cell work?",
+      "Can you explain empanelment of mediators handled by consumer mediation cell?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

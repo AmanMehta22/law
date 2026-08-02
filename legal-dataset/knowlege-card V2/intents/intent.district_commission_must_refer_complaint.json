@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.district_commission_must_refer_complaint",
   "concept_type": "intent",
-  "title": "Questions about District Commission must refer complaint",
-  "description": "Natural language queries a user may ask about: District Commission must refer complaint",
+  "title": "Questions about District Commission Must Refer Complaint",
+  "description": "Natural language queries a user may ask about: District Commission Must Refer Complaint",
   "content": {
     "queries": [
-      "what are the duties of the District Commission"
+      "Under what circumstances will the district commission refer a complaint to another authority?",
+      "Can the district commission refer a complaint to a state commission or national commission?",
+      "What is the process for referring a complaint to another authority by the district commission?",
+      "How long does it take for the district commission to refer a complaint to another authority?",
+      "What are the grounds for the district commission to refer a complaint to another authority?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-3",
-    "obligation.district_commission_must_refer_a_copy_of_the_complaint_to_th"
+    "obligation.district_commission_must_refer_a_copy_of_the_complaint_to_th",
+    "alias.district_commission_must_refer_complaint"
   ],
   "related_concepts": [
-    "obligation.district_commission_must_refer_a_copy_of_the_complaint_to_th"
+    "alias.district_commission_must_refer_complaint"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commission",
+      "refer",
+      "complaint",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "consumer dispute forum"
+    ],
+    "user_queries": [
+      "what are the duties of the District Commission",
+      "What is complaint handling by district commission?",
+      "How does complaint handling by district commission work?",
+      "Can you explain complaint handling by district commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

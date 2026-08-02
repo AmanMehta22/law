@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.endorsement_3",
+  "concept_type": "intent",
+  "title": "Questions about Endorsement",
+  "description": "Natural language queries a user may ask about: Endorsement",
+  "content": {
+    "queries": [
+      "What are the penalties for false or misleading endorsements under the Consumer Protection Act?",
+      "Can a consumer claim compensation for damages caused by a false endorsement?",
+      "How does the Consumer Protection Act distinguish between genuine and fake endorsements?",
+      "What is the role of the Central Consumer Protection Authority in regulating endorsements?",
+      "Are online influencers considered endorsers under the Consumer Protection Act?"
+    ]
+  },
+  "derived_from": [
+    "definition.endorsement",
+    "example.endorsement"
+  ],
+  "related_concepts": [
+    "example.endorsement"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "endorsement",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "how"
+    ],
+    "aliases": [
+      "testimonial",
+      "recommendation"
+    ],
+    "user_queries": [
+      "What is endorsement?",
+      "How does endorsement work?",
+      "Can you explain endorsement?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -5,21 +5,46 @@
   "description": "Natural language queries a user may ask about: Investigation and Search",
   "content": {
     "queries": [
-      "How do I file investigation and search?",
-      "What are the steps for investigation and search?"
+      "What are the procedures for conducting an investigation into consumer complaints?",
+      "Under what conditions can a search be conducted in relation to a consumer protection investigation?",
+      "How do investigators obtain documents, records, or articles during an investigation into consumer disputes?",
+      "What are the rights of consumers during an investigation or search related to their complaint?",
+      "Can a consumer request that an investigation be launched into a suspected violation of consumer protection laws?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S22-1",
-    "procedure.investigation_and_search"
+    "procedure.investigation_and_search",
+    "alias.investigation_and_search"
   ],
   "related_concepts": [
-    "procedure.investigation_and_search"
+    "alias.investigation_and_search"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "investigation",
+      "search",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Chief Director",
+      "DG",
+      "Director General of Consumer Affairs",
+      "Head of Consumer Protection",
+      "Main Official"
+    ],
+    "user_queries": [
+      "What is document or record or article or evidence?",
+      "How does document or record or article or evidence work?",
+      "Can you explain document or record or article or evidence?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

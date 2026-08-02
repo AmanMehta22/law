@@ -5,21 +5,46 @@
   "description": "Natural language queries a user may ask about: Appointment of President and members of the State Commission",
   "content": {
     "queries": [
-      "How do I file appointment of president and members of the state commission?",
-      "What are the steps for appointment of president and members of the state commission?"
+      "Who appoints the President and members of the State Commission?",
+      "What is the process for appointing the President and members of the State Commission?",
+      "What are the qualifications for being appointed as a member of the State Commission?",
+      "How long does the appointment of the President and members of the State Commission last?",
+      "Can the President and members of the State Commission be removed from their positions?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S43",
-    "procedure.appointment_of_president_and_members_of_the_state_commission"
+    "procedure.appointment_of_president_and_members_of_the_state_commission",
+    "alias.appointment_of_president_and_members_of_the_state_commission"
   ],
   "related_concepts": [
-    "procedure.appointment_of_president_and_members_of_the_state_commission"
+    "alias.appointment_of_president_and_members_of_the_state_commission"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "appointment",
+      "president",
+      "members",
+      "state",
+      "commission",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "president and members of the state commission",
+      "state commission",
+      "state commission appointment",
+      "state commission members",
+      "state commission president"
+    ],
+    "user_queries": [
+      "What is appointment of president and members of the state commission?",
+      "How does appointment of president and members of the state commission work?",
+      "Can you explain appointment of president and members of the state commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Affidavit",
   "content": {
     "queries": [
+      "What is the purpose of an affidavit in consumer protection cases?",
+      "How do I get an affidavit for my consumer complaint?",
+      "What information needs to be included in an affidavit for a consumer case?",
+      "Can an affidavit be used as evidence in a consumer court?",
+      "Do I need to notarize my affidavit before submitting it with my complaint?"
+    ]
+  },
+  "derived_from": [
+    "alias.affidavit"
+  ],
+  "related_concepts": [
+    "alias.affidavit"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "affidavit",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "how"
+    ],
+    "aliases": [
+      "notarized declaration",
+      "sworn statement",
+      "written oath"
+    ],
+    "user_queries": [
       "What is affidavit?",
       "How does affidavit work?",
       "Can you explain affidavit?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S38-6",
-    "evidence.affidavit"
-  ],
-  "related_concepts": [
-    "evidence.affidavit"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

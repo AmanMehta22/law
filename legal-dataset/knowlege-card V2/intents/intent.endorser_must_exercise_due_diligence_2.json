@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.endorser_must_exercise_due_diligence_2",
+  "concept_type": "intent",
+  "title": "Questions about Endorser must exercise due diligence",
+  "description": "Natural language queries a user may ask about: Endorser must exercise due diligence",
+  "content": {
+    "queries": [
+      "How does the concept of due diligence apply to celebrity endorsements?",
+      "What steps can an endorser take to verify the accuracy of a product claim?",
+      "Can an endorser rely on the manufacturer's claims when exercising due diligence?",
+      "How can an endorser balance the need for due diligence with the need for timely endorsements?",
+      "What are some best practices for endorsers to follow when exercising due diligence?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S21-5",
+    "obligation.endorser_must_exercise_due_diligence_to_verify_the_veracity_"
+  ],
+  "related_concepts": [
+    "obligation.endorser_must_exercise_due_diligence_to_verify_the_veracity_"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "endorser",
+      "exercise",
+      "due",
+      "diligence",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "exemption from penalty"
+    ],
+    "user_queries": [
+      "What is endorser must exercise due diligence?",
+      "How does endorser must exercise due diligence work?",
+      "Can you explain endorser must exercise due diligence?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

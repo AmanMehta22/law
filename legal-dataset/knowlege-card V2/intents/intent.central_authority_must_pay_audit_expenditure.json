@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Central Authority must pay audit expenditure",
   "content": {
     "queries": [
+      "What are the responsibilities of the Central Authority in paying audit expenditure?",
+      "How does the Central Authority ensure payment of audit expenditure?",
+      "Can the Central Authority refuse to pay audit expenditure under certain circumstances?",
+      "What is the process for the Central Authority to pay audit expenditure?",
+      "Are there any specific guidelines for the Central Authority to follow when paying audit expenditure?"
+    ]
+  },
+  "derived_from": [
+    "alias.central_authority_must_pay_audit_expenditure"
+  ],
+  "related_concepts": [
+    "alias.central_authority_must_pay_audit_expenditure"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "authority",
+      "pay",
+      "audit",
+      "expenditure",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "audit expenditure reimbursement by central authority",
+      "central authority audit costs",
+      "central authority payment for audit fees"
+    ],
+    "user_queries": [
       "What is central authority must pay audit expenditure?",
       "How does central authority must pay audit expenditure work?",
       "Can you explain central authority must pay audit expenditure?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH3-S26-2",
-    "obligation.central_authority_must_pay_expenditure_incurred_in_connectio"
-  ],
-  "related_concepts": [
-    "obligation.central_authority_must_pay_expenditure_incurred_in_connectio"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.central_authority_must_prevent_unfair_trade_practices_2",
+  "concept_type": "intent",
+  "title": "Questions about Central Authority must prevent unfair trade practices",
+  "description": "Natural language queries a user may ask about: Central Authority must prevent unfair trade practices",
+  "content": {
+    "queries": [
+      "What is the role of the Central Authority in promoting fair trade practices among businesses?",
+      "How does the Central Authority educate consumers about their rights and how to identify unfair trade practices?",
+      "What are the key factors that the Central Authority considers when determining whether a trade practice is unfair?",
+      "Can the Central Authority take action against a business for engaging in unfair trade practices, even if no consumer has filed a complaint?",
+      "How does the Central Authority balance the need to prevent unfair trade practices with the need to promote competition and innovation in the marketplace?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S18-1",
+    "obligation.central_authority_prevent_unfair_trade_practices"
+  ],
+  "related_concepts": [
+    "obligation.central_authority_prevent_unfair_trade_practices"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "authority",
+      "prevent",
+      "unfair",
+      "trade",
+      "practices",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "trade practices"
+    ],
+    "user_queries": [
+      "What is central authority must prevent false or misleading advertisements of goods or services?",
+      "How does central authority must prevent false or misleading advertisements of goods or services work?",
+      "Can you explain central authority must prevent false or misleading advertisements of goods or services?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

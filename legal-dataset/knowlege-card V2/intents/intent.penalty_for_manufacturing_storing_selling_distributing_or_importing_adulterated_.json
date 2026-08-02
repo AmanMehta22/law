@@ -1,24 +1,50 @@
 {
   "concept_id": "intent.penalty_for_manufacturing_storing_selling_distributing_or_importing_adulterated_",
   "concept_type": "intent",
-  "title": "Questions about Penalty for manufacturing, storing, selling, distributing or importing adulterated products",
-  "description": "Natural language queries a user may ask about: Penalty for manufacturing, storing, selling, distributing or importing adulterated products",
+  "title": "Questions about Penalty For Manufacturing, Storing, Selling, Distributing Or Importing Adulterated Products",
+  "description": "Natural language queries a user may ask about: Penalty For Manufacturing, Storing, Selling, Distributing Or Importing Adulterated Products",
   "content": {
     "queries": [
-      "what is the penalty for selling adulterated products"
+      "What is the penalty for manufacturing adulterated products?",
+      "Can a company be fined for selling adulterated goods?",
+      "How does the law handle the distribution of adulterated products?",
+      "What are the consequences of importing adulterated products?",
+      "Is storing adulterated products a punishable offense under the Consumer Protection Act?"
     ]
   },
   "derived_from": [
     "CPA2019-CH7-S90-1",
-    "penalty.manufacturing_storing_selling_distributing_or_importing_prod"
+    "penalty.manufacturing_storing_selling_distributing_or_importing_prod",
+    "alias.penalty_for_manufacturing_storing_selling_distributing_or_importing_adulterated_"
   ],
   "related_concepts": [
-    "penalty.manufacturing_storing_selling_distributing_or_importing_prod"
+    "alias.penalty_for_manufacturing_storing_selling_distributing_or_importing_adulterated_"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "penalty",
+      "manufacturing",
+      "storing",
+      "selling",
+      "distributing",
+      "importing",
+      "adulterated",
+      "products"
+    ],
+    "aliases": [
+      "penalty for adulterated products"
+    ],
+    "user_queries": [
+      "what is the penalty for selling adulterated products",
+      "What is adulterated food product?",
+      "How does adulterated food product work?",
+      "Can you explain adulterated food product?",
+      "What is manufacturing, storing, selling, distributing or importing adulterated products?",
+      "How does manufacturing, storing, selling, distributing or importing adulterated products work?",
+      "Can you explain manufacturing, storing, selling, distributing or importing adulterated products?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

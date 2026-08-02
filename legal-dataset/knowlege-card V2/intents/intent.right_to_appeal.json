@@ -5,16 +5,11 @@
   "description": "Natural language queries a user may ask about: Right to Appeal",
   "content": {
     "queries": [
-      "how to appeal against Central Authority order",
-      "how to appeal against District Commission order",
-      "how to appeal against a State Commission order",
-      "how to appeal to National Commission",
-      "can I appeal to the National Commission",
-      "how to appeal against state commission order",
-      "how to appeal against State Commission order",
-      "can I appeal against Central Authority decision",
-      "how to appeal against National Commission order",
-      "how to appeal a consumer court order"
+      "Who has the right to appeal a decision?",
+      "What are the grounds for appealing a decision?",
+      "Can I appeal a decision made by a district commission?",
+      "How do I know if I have the right to appeal?",
+      "What is the process for exercising my right to appeal?"
     ]
   },
   "derived_from": [
@@ -28,15 +23,44 @@
     "CPA2019-CH4-S67",
     "CPA2019-CH4-S73-1",
     "CPA2019-CH4-S73-3",
-    "right.right_to_appeal"
+    "right.right_to_appeal",
+    "alias.right_to_appeal"
   ],
   "related_concepts": [
-    "right.right_to_appeal"
+    "alias.right_to_appeal"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "right",
+      "appeal",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "right to challenge",
+      "right to contest",
+      "right to challenge an order",
+      "right to review",
+      "right to be heard"
+    ],
+    "user_queries": [
+      "how to appeal against Central Authority order",
+      "how to appeal against District Commission order",
+      "how to appeal against a State Commission order",
+      "how to appeal to National Commission",
+      "can I appeal to the National Commission",
+      "how to appeal against state commission order",
+      "how to appeal against State Commission order",
+      "can I appeal against Central Authority decision",
+      "how to appeal against National Commission order",
+      "how to appeal a consumer court order"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

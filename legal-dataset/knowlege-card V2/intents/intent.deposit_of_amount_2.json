@@ -1,0 +1,57 @@
+{
+  "concept_id": "intent.deposit_of_amount_2",
+  "concept_type": "intent",
+  "title": "Questions about Deposit of amount",
+  "description": "Natural language queries a user may ask about: Deposit of amount",
+  "content": {
+    "queries": [
+      "What are the accepted modes of depositing the amount for a national commission appeal?",
+      "How do I ensure that my deposit of amount for a national commission appeal is processed correctly?",
+      "Can I deposit the amount for a national commission appeal online or do I need to visit a physical office?",
+      "What is the deadline for depositing the amount for a national commission appeal after filing my complaint?",
+      "Do I need to submit any proof of depositing the amount for a national commission appeal along with my appeal application?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S101-2",
+    "procedure.deposit_of_amount"
+  ],
+  "related_concepts": [
+    "procedure.deposit_of_amount"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "deposit",
+      "amount",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "how"
+    ],
+    "aliases": [
+      "appeal to national commission",
+      "appeal to national consumer commission",
+      "national appeal",
+      "national commission",
+      "national commission appeal"
+    ],
+    "user_queries": [
+      "How do I file appeal to national commission?",
+      "What are the steps for appeal to national commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

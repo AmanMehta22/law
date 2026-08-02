@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.consumer_dispute_3",
+  "concept_type": "intent",
+  "title": "Questions about Consumer Dispute",
+  "description": "Natural language queries a user may ask about: Consumer Dispute",
+  "content": {
+    "queries": [
+      "What are the steps involved in a consumer dispute?",
+      "How do I file a consumer dispute complaint?",
+      "Can a consumer dispute be resolved through negotiation?",
+      "What are the common causes of consumer disputes?",
+      "How long does it take to resolve a consumer dispute?"
+    ]
+  },
+  "derived_from": [
+    "definition.consumer_dispute",
+    "example.consumer_dispute"
+  ],
+  "related_concepts": [
+    "example.consumer_dispute"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "consumer",
+      "dispute",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "consumer complaint dispute",
+      "disputed consumer claim"
+    ],
+    "user_queries": [
+      "What is consumer dispute?",
+      "How does consumer dispute work?",
+      "Can you explain consumer dispute?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

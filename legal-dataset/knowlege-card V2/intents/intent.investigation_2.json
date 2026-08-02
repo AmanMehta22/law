@@ -1,0 +1,62 @@
+{
+  "concept_id": "intent.investigation_2",
+  "concept_type": "intent",
+  "title": "Questions about Investigation",
+  "description": "Natural language queries a user may ask about: Investigation",
+  "content": {
+    "queries": [
+      "What are the steps involved in a consumer protection investigation?",
+      "Can an investigation be reopened if new evidence is found?",
+      "How does the central authority ensure a fair investigation?",
+      "What happens if an investigation finds evidence of wrongdoing?",
+      "Can a consumer appeal the findings of an investigation?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S19-1",
+    "CPA2019-CH3-S19-3",
+    "procedure.investigation"
+  ],
+  "related_concepts": [
+    "procedure.investigation"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "investigation",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "central"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is central authority must cause investigation?",
+      "How does central authority must cause investigation work?",
+      "Can you explain central authority must cause investigation?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

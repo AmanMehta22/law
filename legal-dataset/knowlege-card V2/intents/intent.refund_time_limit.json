@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Refund time limit",
   "content": {
     "queries": [
+      "What is the time limit for a seller to provide a refund for a defective product?",
+      "How long do I have to wait for a refund after returning a defective good?",
+      "Is there a specific time frame within which I must request a refund for a defective product?",
+      "Can I still get a refund if I return a defective product after the time limit has expired?",
+      "Does the refund time limit vary depending on the type of product or service?"
+    ]
+  },
+  "derived_from": [
+    "alias.refund_time_limit"
+  ],
+  "related_concepts": [
+    "alias.refund_time_limit"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "refund",
+      "time",
+      "limit",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "money back timeline",
+      "refund deadline",
+      "reimbursement period",
+      "return time frame"
+    ],
+    "user_queries": [
       "What is refund time limit?",
       "How does refund time limit work?",
       "Can you explain refund time limit?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH1-S2-47",
-    "timeline.a_period"
-  ],
-  "related_concepts": [
-    "timeline.a_period"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

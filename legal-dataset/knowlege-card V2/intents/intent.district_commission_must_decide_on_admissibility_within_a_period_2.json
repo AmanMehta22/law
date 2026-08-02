@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.district_commission_must_decide_on_admissibility_within_a_period_2",
+  "concept_type": "intent",
+  "title": "Questions about District Commission must decide on admissibility within a period",
+  "description": "Natural language queries a user may ask about: District Commission must decide on admissibility within a period",
+  "content": {
+    "queries": [
+      "What are the consequences if a District Commission fails to decide on admissibility within the specified period?",
+      "Can a complaint be automatically admitted if the District Commission does not decide on admissibility within the given timeframe?",
+      "How does the District Commission's decision on admissibility within a period affect the complaint process?",
+      "Is the period for deciding on admissibility the same for all types of complaints?",
+      "Can the period for deciding on admissibility be extended by the District Commission?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S36-3",
+    "obligation.district_commission_must_decide_the_issue_of_admissibility_o"
+  ],
+  "related_concepts": [
+    "obligation.district_commission_must_decide_the_issue_of_admissibility_o"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commission",
+      "decide",
+      "admissibility",
+      "period",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is district commission must decide on admissibility within a period?",
+      "How does district commission must decide on admissibility within a period work?",
+      "Can you explain district commission must decide on admissibility within a period?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

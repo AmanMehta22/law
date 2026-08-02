@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Prejudice or affect the general application",
   "content": {
     "queries": [
+      "Can a court decision prejudice the general application of a law?",
+      "How does prejudice or affect the general application impact consumer rights?",
+      "What are the consequences of prejudice or affect the general application in a legal case?",
+      "Can prejudice or affect the general application be used as a defense in court?",
+      "How can prejudice or affect the general application be avoided in legal proceedings?"
+    ]
+  },
+  "derived_from": [
+    "alias.prejudice_or_affect_the_general_application"
+  ],
+  "related_concepts": [
+    "alias.prejudice_or_affect_the_general_application"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "prejudice",
+      "affect",
+      "general",
+      "application",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "affecting overall implementation",
+      "general application impact",
+      "influencing general applicability",
+      "prejudicing general rules"
+    ],
+    "user_queries": [
       "What is prejudice or affect the general application?",
       "How does prejudice or affect the general application work?",
       "Can you explain prejudice or affect the general application?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH8-S107-3",
-    "exception.the_mention_of_particular_matters_in_sub_section_2_shall_not"
-  ],
-  "related_concepts": [
-    "exception.the_mention_of_particular_matters_in_sub_section_2_shall_not"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

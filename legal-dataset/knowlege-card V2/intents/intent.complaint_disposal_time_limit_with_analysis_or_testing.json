@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Complaint disposal time limit with analysis or testing",
   "content": {
     "queries": [
+      "How long does it take to dispose of a complaint that requires analysis or testing?",
+      "What is the time frame for resolving complaints that need analysis or testing?",
+      "Can you explain the process of complaint disposal with analysis or testing?",
+      "How does the complaint disposal time limit apply to cases that require testing?",
+      "What are the rules for complaint disposal time limits when analysis is required?"
+    ]
+  },
+  "derived_from": [
+    "alias.complaint_disposal_time_limit_with_analysis_or_testing"
+  ],
+  "related_concepts": [
+    "alias.complaint_disposal_time_limit_with_analysis_or_testing"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "complaint",
+      "disposal",
+      "time",
+      "limit",
+      "analysis",
+      "testing",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "analysis based complaint resolution time",
+      "complaint disposal period with lab testing",
+      "complaint resolution timeline with investigation",
+      "testing based complaint disposal timeframe"
+    ],
+    "user_queries": [
       "What is complaint disposal time limit with analysis or testing?",
       "How does complaint disposal time limit with analysis or testing work?",
       "Can you explain complaint disposal time limit with analysis or testing?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S38-7",
-    "timeline.five_months"
-  ],
-  "related_concepts": [
-    "timeline.five_months"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

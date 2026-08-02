@@ -11,16 +11,38 @@
     ]
   },
   "derived_from": [
-    "CPA2019-CH4-S39-3",
-    "exception.the_other_member_shall_give_his_opinion_on_such_point_or_poi"
+    "alias.time_limit_for_opinion"
   ],
   "related_concepts": [
-    "exception.the_other_member_shall_give_his_opinion_on_such_point_or_poi"
+    "alias.time_limit_for_opinion"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "time",
+      "limit",
+      "opinion",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "opinion deadline",
+      "opinion timeframe",
+      "response time limit",
+      "timeframe for opinion"
+    ],
+    "user_queries": [
+      "What is time limit for opinion?",
+      "How does time limit for opinion work?",
+      "Can you explain time limit for opinion?",
+      "What is member must give opinion within a month?",
+      "How does member must give opinion within a month work?",
+      "Can you explain member must give opinion within a month?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

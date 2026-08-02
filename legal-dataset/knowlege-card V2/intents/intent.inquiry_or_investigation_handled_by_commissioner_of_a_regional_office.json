@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.inquiry_or_investigation_handled_by_commissioner_of_a_regional_office",
+  "concept_type": "intent",
+  "title": "Questions about Inquiry or Investigation handled by Commissioner of a regional office",
+  "description": "Natural language queries a user may ask about: Inquiry or Investigation handled by Commissioner of a regional office",
+  "content": {
+    "queries": [
+      "What is inquiry or investigation handled by commissioner of a regional office?",
+      "How does inquiry or investigation handled by commissioner of a regional office work?",
+      "Can you explain inquiry or investigation handled by commissioner of a regional office?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S16",
+    "relationship.procedure_inquiry_or_investigation_handled_by_authority_commissioner_o"
+  ],
+  "related_concepts": [
+    "relationship.procedure_inquiry_or_investigation_handled_by_authority_commissioner_o"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "inquiry",
+      "investigation",
+      "handled",
+      "commissioner",
+      "regional",
+      "office",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is inquiry or investigation handled by commissioner of a regional office?",
+      "How does inquiry or investigation handled by commissioner of a regional office work?",
+      "Can you explain inquiry or investigation handled by commissioner of a regional office?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

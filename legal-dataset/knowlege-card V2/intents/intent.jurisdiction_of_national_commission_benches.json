@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Jurisdiction of National Commission Benches",
   "content": {
     "queries": [
+      "What is the territorial jurisdiction of National Commission benches in consumer disputes?",
+      "How do National Commission benches determine their jurisdiction in consumer cases?",
+      "Can a consumer file a complaint with a National Commission bench outside their local jurisdiction?",
+      "What are the powers of National Commission benches in exercising their jurisdiction?",
+      "Are there any limitations on the jurisdiction of National Commission benches in consumer protection cases?"
+    ]
+  },
+  "derived_from": [
+    "alias.jurisdiction_of_national_commission_benches"
+  ],
+  "related_concepts": [
+    "alias.jurisdiction_of_national_commission_benches"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "jurisdiction",
+      "national",
+      "commission",
+      "benches",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "national commission bench authority",
+      "national commission court jurisdiction",
+      "national commission tribunal scope",
+      "national consumer commission benches jurisdiction"
+    ],
+    "user_queries": [
       "What is jurisdiction of national commission benches?",
       "How does jurisdiction of national commission benches work?",
       "Can you explain jurisdiction of national commission benches?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S58-2",
-    "jurisdiction.national_commission_benches"
-  ],
-  "related_concepts": [
-    "jurisdiction.national_commission_benches"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Reference opinion time limit",
   "content": {
     "queries": [
+      "What is the time frame for obtaining a reference opinion?",
+      "How long does it take to get a reference opinion?",
+      "Can you tell me the deadline for a reference opinion?",
+      "What is the maximum time allowed for a reference opinion?",
+      "How does the time limit for a reference opinion affect the consumer protection process?"
+    ]
+  },
+  "derived_from": [
+    "alias.reference_opinion_time_limit"
+  ],
+  "related_concepts": [
+    "alias.reference_opinion_time_limit"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "reference",
+      "opinion",
+      "time",
+      "limit",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "expert reference timeframe",
+      "reference opinion deadline",
+      "reference opinion submission period",
+      "timeframe for reference opinion"
+    ],
+    "user_queries": [
       "What is reference opinion time limit?",
       "How does reference opinion time limit work?",
       "Can you explain reference opinion time limit?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S58-3",
-    "timeline.two_months"
-  ],
-  "related_concepts": [
-    "timeline.two_months"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

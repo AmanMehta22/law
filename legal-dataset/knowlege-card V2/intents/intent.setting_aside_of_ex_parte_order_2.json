@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.setting_aside_of_ex_parte_order_2",
+  "concept_type": "intent",
+  "title": "Questions about Setting aside of ex parte order",
+  "description": "Natural language queries a user may ask about: Setting aside of ex parte order",
+  "content": {
+    "queries": [
+      "How to challenge an ex parte order",
+      "What is setting aside an ex parte order?",
+      "How does setting aside an ex parte order work?",
+      "Can you explain setting aside an ex parte order?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S61",
+    "remedy.setting_aside_of_order"
+  ],
+  "related_concepts": [
+    "remedy.setting_aside_of_order"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "setting",
+      "aside",
+      "parte",
+      "order",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "vacating an order"
+    ],
+    "user_queries": [
+      "How to challenge an ex parte order",
+      "What is setting aside an ex parte order?",
+      "How does setting aside an ex parte order work?",
+      "Can you explain setting aside an ex parte order?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

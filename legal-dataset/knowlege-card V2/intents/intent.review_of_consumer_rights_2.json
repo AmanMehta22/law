@@ -1,0 +1,58 @@
+{
+  "concept_id": "intent.review_of_consumer_rights_2",
+  "concept_type": "intent",
+  "title": "Questions about Review of Consumer Rights",
+  "description": "Natural language queries a user may ask about: Review of Consumer Rights",
+  "content": {
+    "queries": [
+      "What are my rights as a consumer under review?",
+      "How do I know if my consumer rights are being reviewed?",
+      "Can a consumer rights review be done without my knowledge?",
+      "What is the process for reviewing consumer rights in the Consumer Protection Act?",
+      "How long does a review of consumer rights typically take?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S18-2",
+    "procedure.review_of_consumer_rights"
+  ],
+  "related_concepts": [
+    "procedure.review_of_consumer_rights"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "review",
+      "consumer",
+      "rights",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "advice on consumer welfare",
+      "advising on consumer welfare",
+      "consumer rights guidance",
+      "consumer welfare advice",
+      "consumer welfare measures"
+    ],
+    "user_queries": [
+      "What is review of consumer rights?",
+      "How does review of consumer rights work?",
+      "Can you explain review of consumer rights?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

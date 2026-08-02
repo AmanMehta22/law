@@ -5,23 +5,49 @@
   "description": "Natural language queries a user may ask about: Review of order",
   "content": {
     "queries": [
-      "How do I file review of order?",
-      "What are the steps for review of order?"
+      "What are the grounds for reviewing an order under the Consumer Protection Act?",
+      "How can a consumer apply for a review of an order passed by a district commission?",
+      "Can a review of an order be done by a higher authority than a district commission?",
+      "What is the procedure for reviewing an order and what are the required documents?",
+      "Is there a fee for applying for a review of an order?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S40",
     "CPA2019-CH4-S50",
     "CPA2019-CH4-S60",
-    "procedure.review_of_order"
+    "procedure.review_of_order",
+    "alias.review_of_order"
   ],
   "related_concepts": [
-    "procedure.review_of_order"
+    "alias.review_of_order"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "review",
+      "order",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "appeal deadline",
+      "filing appeal",
+      "opposite party response",
+      "time limit for appeal",
+      "time limit for application",
+      "time to respond"
+    ],
+    "user_queries": [
+      "What is district commission must review order?",
+      "How does district commission must review order work?",
+      "Can you explain district commission must review order?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,0 +1,56 @@
+{
+  "concept_id": "intent.conduct_of_mediation_2",
+  "concept_type": "intent",
+  "title": "Questions about Conduct of mediation",
+  "description": "Natural language queries a user may ask about: Conduct of mediation",
+  "content": {
+    "queries": [
+      "What are the costs associated with adjournment imposed by the district commission during mediation?",
+      "Can the district commission impose an adjournment cost on a consumer during mediation?",
+      "How does the district commission decide on the adjournment cost during mediation?",
+      "What is the process for imposing an adjournment cost by the district commission in mediation?",
+      "Are there any exceptions to the adjournment cost imposition by the district commission during mediation?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S103-2",
+    "procedure.conduct_of_mediation"
+  ],
+  "related_concepts": [
+    "procedure.conduct_of_mediation"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "conduct",
+      "mediation",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "adjournment cost",
+      "cost imposition by district commission",
+      "district commission cost"
+    ],
+    "user_queries": [
+      "What is adjournment cost imposition by district commission?",
+      "How does adjournment cost imposition by district commission work?",
+      "Can you explain adjournment cost imposition by district commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

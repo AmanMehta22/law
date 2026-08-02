@@ -1,0 +1,57 @@
+{
+  "concept_id": "intent.service_of_notice_depends_on_acknowledgment_due",
+  "concept_type": "intent",
+  "title": "Questions about Service of Notice depends on Acknowledgment due",
+  "description": "Natural language queries a user may ask about: Service of Notice depends on Acknowledgment due",
+  "content": {
+    "queries": [
+      "What is service of notice depends on acknowledgment due?",
+      "How does service of notice depends on acknowledgment due work?",
+      "Can you explain service of notice depends on acknowledgment due?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S65-1",
+    "relationship.procedure_service_of_notice_depends_on_evidence_registered_post_acknow"
+  ],
+  "related_concepts": [
+    "relationship.procedure_service_of_notice_depends_on_evidence_registered_post_acknow"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "service",
+      "notice",
+      "depends",
+      "acknowledgment",
+      "due",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is service of notice depends on acknowledgment due?",
+      "How does service of notice depends on acknowledgment due work?",
+      "Can you explain service of notice depends on acknowledgment due?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

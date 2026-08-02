@@ -1,0 +1,57 @@
+{
+  "concept_id": "intent.mediation_direction_handled_by_commission",
+  "concept_type": "intent",
+  "title": "Questions about Mediation Direction handled by Commission",
+  "description": "Natural language queries a user may ask about: Mediation Direction handled by Commission",
+  "content": {
+    "queries": [
+      "What is mediation direction handled by commission?",
+      "How does mediation direction handled by commission work?",
+      "Can you explain mediation direction handled by commission?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S37-1",
+    "relationship.procedure_mediation_direction_handled_by_authority_commission"
+  ],
+  "related_concepts": [
+    "relationship.procedure_mediation_direction_handled_by_authority_commission"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "mediation",
+      "direction",
+      "handled",
+      "commission",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is mediation direction handled by commission?",
+      "How does mediation direction handled by commission work?",
+      "Can you explain mediation direction handled by commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "concept_id": "intent.president_of_the_national_commission_must_constitute_a_monitoring_cell_2",
+  "concept_type": "intent",
+  "title": "Questions about President of the National Commission must constitute a monitoring cell",
+  "description": "Natural language queries a user may ask about: President of the National Commission must constitute a monitoring cell",
+  "content": {
+    "queries": [
+      "What are the benefits of the President of the National Commission constituting a monitoring cell?",
+      "How often should the monitoring cell constituted by the President of the National Commission meet?",
+      "Can the monitoring cell constituted by the President of the National Commission make decisions without the President's approval?",
+      "What is the composition of the monitoring cell constituted by the President of the National Commission?",
+      "How does the monitoring cell constituted by the President of the National Commission ensure consumer protection?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S70-2",
+    "obligation.president_of_the_national_commission_must_constitute_a_monit"
+  ],
+  "related_concepts": [
+    "obligation.president_of_the_national_commission_must_constitute_a_monit"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "president",
+      "national",
+      "commission",
+      "constitute",
+      "monitoring",
+      "cell",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "Regulatory Cell",
+      "Surveillance Cell",
+      "Watchdog"
+    ],
+    "user_queries": [
+      "What is president of the national commission must constitute a monitoring cell?",
+      "How does president of the national commission must constitute a monitoring cell work?",
+      "Can you explain president of the national commission must constitute a monitoring cell?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

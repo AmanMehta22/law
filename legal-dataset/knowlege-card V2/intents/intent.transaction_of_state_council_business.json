@@ -5,21 +5,44 @@
   "description": "Natural language queries a user may ask about: Transaction of State Council Business",
   "content": {
     "queries": [
-      "How do I file transaction of state council business?",
-      "What are the steps for transaction of state council business?"
+      "What are the procedures for conducting business in the State Council?",
+      "How are decisions made during the transaction of State Council business?",
+      "Can the public attend the transaction of State Council business?",
+      "What are the rules for debating and voting during the transaction of State Council business?",
+      "How are minutes and records kept during the transaction of State Council business?"
     ]
   },
   "derived_from": [
     "CPA2019-CH2-S6-4",
-    "procedure.transaction_of_state_council_business"
+    "procedure.transaction_of_state_council_business",
+    "alias.transaction_of_state_council_business"
   ],
   "related_concepts": [
-    "procedure.transaction_of_state_council_business"
+    "alias.transaction_of_state_council_business"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "transaction",
+      "state",
+      "council",
+      "business",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "State Advisory Council",
+      "State Consumer Council",
+      "State Consumer Protection Council"
+    ],
+    "user_queries": [
+      "What is district commission references state council?",
+      "How does district commission references state council work?",
+      "Can you explain district commission references state council?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

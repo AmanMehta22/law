@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Damages",
   "content": {
     "queries": [
+      "What types of damages can a consumer claim under the Consumer Protection Act?",
+      "How are damages calculated in a consumer dispute?",
+      "Can a consumer claim damages for emotional distress?",
+      "What is the time limit for a consumer to claim damages?",
+      "How does the court determine the amount of damages to be awarded to a consumer?"
+    ]
+  },
+  "derived_from": [
+    "alias.damages"
+  ],
+  "related_concepts": [
+    "alias.damages"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "damages",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "how"
+    ],
+    "aliases": [
+      "compensation",
+      "indemnity",
+      "reparation",
+      "restitution"
+    ],
+    "user_queries": [
       "What is damages?",
       "How does damages work?",
       "Can you explain damages?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH6-S83",
-    "remedy.damages"
-  ],
-  "related_concepts": [
-    "remedy.damages"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

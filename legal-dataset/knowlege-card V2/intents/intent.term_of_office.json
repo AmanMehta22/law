@@ -5,23 +5,43 @@
   "description": "Natural language queries a user may ask about: Term of office",
   "content": {
     "queries": [
+      "What is the typical term of office for a member of a consumer commission?",
+      "How is the term of office determined for a consumer forum president?",
+      "Can the term of office be extended for a member of a district consumer dispute redressal commission?",
+      "What happens when a member's term of office ends in a state consumer dispute redressal commission?",
+      "Is the term of office the same for all members of a national consumer dispute redressal commission?"
+    ]
+  },
+  "derived_from": [
+    "alias.term_of_office"
+  ],
+  "related_concepts": [
+    "alias.term_of_office"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "term",
+      "office",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "office duration",
+      "period of service",
+      "tenure",
+      "term length"
+    ],
+    "user_queries": [
       "What is term of office?",
       "How does term of office work?",
       "Can you explain term of office?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S55-1",
-    "CPA2019-CH5-S75-3",
-    "timeline.five_years"
-  ],
-  "related_concepts": [
-    "timeline.five_years"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

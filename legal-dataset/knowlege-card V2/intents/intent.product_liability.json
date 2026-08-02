@@ -5,22 +5,46 @@
   "description": "Natural language queries a user may ask about: Product Liability",
   "content": {
     "queries": [
-      "What is product liability?",
-      "Can I sue a company for a defective product?",
-      "What happens if a product causes harm to a consumer?"
+      "What kind of compensation can I get if a product harms me?",
+      "How do I claim for harm caused by a defective product?",
+      "What is the process for seeking compensation for product-related harm?",
+      "Can I get compensation for emotional distress caused by a product?",
+      "What are my rights if a product causes me physical harm?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-34",
-    "definition.product_liability"
+    "definition.product_liability",
+    "alias.product_liability"
   ],
   "related_concepts": [
-    "definition.product_liability"
+    "alias.product_liability"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "product",
+      "liability",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "product responsibility",
+      "manufacturer liability"
+    ],
+    "user_queries": [
+      "What is product liability?",
+      "How does product liability work?",
+      "Can you explain product liability?",
+      "What is compensation for harm caused?",
+      "How does compensation for harm caused work?",
+      "Can you explain compensation for harm caused?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

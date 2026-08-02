@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.central_authority_must_protect_consumer_rights_2",
+  "concept_type": "intent",
+  "title": "Questions about Central Authority must protect consumer rights",
+  "description": "Natural language queries a user may ask about: Central Authority must protect consumer rights",
+  "content": {
+    "queries": [
+      "Are there specific laws that the Central Authority enforces to protect consumers from false ads?",
+      "How can a consumer report a misleading advertisement to the Central Authority?",
+      "What are the consequences for businesses that violate consumer protection laws as enforced by the Central Authority?",
+      "Does the Central Authority have the power to impose penalties on companies for false advertising?",
+      "How does the Central Authority determine what constitutes a false or misleading advertisement?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S18-1",
+    "obligation.central_authority_protect_promote_and_enforce_the_rights_of_"
+  ],
+  "related_concepts": [
+    "obligation.central_authority_protect_promote_and_enforce_the_rights_of_"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "authority",
+      "protect",
+      "consumer",
+      "rights",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "consumer protection"
+    ],
+    "user_queries": [
+      "What is central authority must prevent false or misleading advertisements of goods or services?",
+      "How does central authority must prevent false or misleading advertisements of goods or services work?",
+      "Can you explain central authority must prevent false or misleading advertisements of goods or services?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

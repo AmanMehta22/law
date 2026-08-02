@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.refund_of_consideration_2",
+  "concept_type": "intent",
+  "title": "Questions about Refund of consideration",
+  "description": "Natural language queries a user may ask about: Refund of consideration",
+  "content": {
+    "queries": [
+      "What is the process for refund of consideration in a consumer dispute?",
+      "How does the refund of consideration work when a product is not delivered?",
+      "Can I get a refund of consideration if the product does not match the description?",
+      "Is the refund of consideration applicable for services as well as goods?",
+      "How do I claim a refund of consideration under the Consumer Protection Act?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-47",
+    "remedy.refund"
+  ],
+  "related_concepts": [
+    "remedy.refund"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "refund",
+      "consideration",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "promotion",
+      "sale"
+    ],
+    "user_queries": [
+      "What is refund for defective goods?",
+      "How does refund for defective goods work?",
+      "Can you explain refund for defective goods?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

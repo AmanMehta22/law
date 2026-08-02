@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Document or other material object",
   "content": {
     "queries": [
+      "What constitutes a document or other material object in a consumer complaint?",
+      "Can a consumer submit a document or other material object as evidence?",
+      "How does the Consumer Protection Act define a document or other material object?",
+      "What is the significance of a document or other material object in a consumer dispute?",
+      "Can a document or other material object be used to support a claim under the Consumer Protection Act?"
+    ]
+  },
+  "derived_from": [
+    "alias.document_or_other_material_object"
+  ],
+  "related_concepts": [
+    "alias.document_or_other_material_object"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "document",
+      "other",
+      "material",
+      "object",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "paper or physical item",
+      "physical document",
+      "tangible evidence"
+    ],
+    "user_queries": [
       "What is document or other material object?",
       "How does document or other material object work?",
       "Can you explain document or other material object?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S38-9",
-    "evidence.document_material_object"
-  ],
-  "related_concepts": [
-    "evidence.document_material_object"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

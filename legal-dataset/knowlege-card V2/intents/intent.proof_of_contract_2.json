@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.proof_of_contract_2",
+  "concept_type": "intent",
+  "title": "Questions about Proof of contract",
+  "description": "Natural language queries a user may ask about: Proof of contract",
+  "content": {
+    "queries": [
+      "What constitutes proof of a contract between a consumer and a product service provider?",
+      "How can I obtain proof of a contract if a product service provider refuses to provide it?",
+      "What documents can serve as proof of a contract with a product service provider?",
+      "Can a product service provider deny the existence of a contract without proof?",
+      "How long should a product service provider retain records of contracts with consumers?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH6-S85",
+    "evidence.contract"
+  ],
+  "related_concepts": [
+    "evidence.contract"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "proof",
+      "contract",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "damages",
+      "reparation"
+    ],
+    "user_queries": [
+      "What is product service provider must conform to express warranty or contract terms?",
+      "How does product service provider must conform to express warranty or contract terms work?",
+      "Can you explain product service provider must conform to express warranty or contract terms?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

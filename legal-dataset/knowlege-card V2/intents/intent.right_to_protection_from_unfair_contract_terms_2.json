@@ -1,0 +1,57 @@
+{
+  "concept_id": "intent.right_to_protection_from_unfair_contract_terms_2",
+  "concept_type": "intent",
+  "title": "Questions about Right to Protection from Unfair Contract Terms",
+  "description": "Natural language queries a user may ask about: Right to Protection from Unfair Contract Terms",
+  "content": {
+    "queries": [
+      "What is right to protection from unfair contract terms?",
+      "How does right to protection from unfair contract terms work?",
+      "Can you explain right to protection from unfair contract terms?"
+    ]
+  },
+  "derived_from": [
+    "right.right_to_protection_from_unfair_contract_terms",
+    "example.right_to_protection_from_unfair_contract_terms"
+  ],
+  "related_concepts": [
+    "example.right_to_protection_from_unfair_contract_terms"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "right",
+      "protection",
+      "unfair",
+      "contract",
+      "terms",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "right to fair contract terms"
+    ],
+    "user_queries": [
+      "can a consumer challenge unfair contract terms",
+      "can a contract be declared null and void if it is unfair",
+      "What is declaration of contract terms as null and void?",
+      "How does declaration of contract terms as null and void work?",
+      "Can you explain declaration of contract terms as null and void?",
+      "What is right to protection from unfair contract terms?",
+      "How does right to protection from unfair contract terms work?",
+      "Can you explain right to protection from unfair contract terms?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

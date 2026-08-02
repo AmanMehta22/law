@@ -5,22 +5,44 @@
   "description": "Natural language queries a user may ask about: Trader",
   "content": {
     "queries": [
-      "What is a trader under the Consumer Protection Act?",
-      "Who is considered a trader in India?",
-      "What does trader mean in consumer law?"
+      "What role does a trader play in a transaction?",
+      "How can I identify a trader in a business transaction?",
+      "What are the responsibilities of a trader under the Consumer Protection Act?",
+      "Can a trader be held liable for unfair trade practices?",
+      "What are the rights of a consumer when dealing with a trader?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-45",
-    "definition.trader"
+    "definition.trader",
+    "alias.trader"
   ],
   "related_concepts": [
-    "definition.trader"
+    "alias.trader"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "trader",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "how"
+    ],
+    "aliases": [
+      "seller",
+      "vendor",
+      "supplier"
+    ],
+    "user_queries": [
+      "What is trader?",
+      "How does trader work?",
+      "Can you explain trader?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

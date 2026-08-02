@@ -1,26 +1,46 @@
 {
   "concept_id": "intent.central_authority_must_protect_consumer_rights",
   "concept_type": "intent",
-  "title": "Questions about Central Authority must protect consumer rights",
-  "description": "Natural language queries a user may ask about: Central Authority must protect consumer rights",
+  "title": "Questions about Central Authority Must Protect Consumer Rights",
+  "description": "Natural language queries a user may ask about: Central Authority Must Protect Consumer Rights",
   "content": {
     "queries": [
-      "What is central authority must protect consumer rights?",
-      "How does central authority must protect consumer rights work?",
-      "Can you explain central authority must protect consumer rights?"
+      "How does the Central Authority prevent false advertising of goods?",
+      "What are the responsibilities of the Central Authority in protecting consumer rights?",
+      "Can the Central Authority take action against misleading service advertisements?",
+      "How does the Central Authority ensure consumer rights are protected from false claims?",
+      "What role does the Central Authority play in regulating advertisements to prevent consumer deception?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S18-1",
-    "obligation.central_authority_protect_promote_and_enforce_the_rights_of_"
+    "obligation.central_authority_protect_promote_and_enforce_the_rights_of_",
+    "alias.central_authority_must_protect_consumer_rights"
   ],
   "related_concepts": [
-    "obligation.central_authority_protect_promote_and_enforce_the_rights_of_"
+    "alias.central_authority_must_protect_consumer_rights"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "authority",
+      "protect",
+      "consumer",
+      "rights",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "consumer protection"
+    ],
+    "user_queries": [
+      "What is central authority must prevent false or misleading advertisements of goods or services?",
+      "How does central authority must prevent false or misleading advertisements of goods or services work?",
+      "Can you explain central authority must prevent false or misleading advertisements of goods or services?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.central_government_must_appoint_officers_in_a_prescribed_manner_2",
+  "concept_type": "intent",
+  "title": "Questions about Central Government must appoint officers in a prescribed manner",
+  "description": "Natural language queries a user may ask about: Central Government must appoint officers in a prescribed manner",
+  "content": {
+    "queries": [
+      "What are the rules for appointing a Director-General?",
+      "What is additional director-general?",
+      "How does additional director-general work?",
+      "Can you explain additional director-general?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S15-2",
+    "obligation.central_government_must_appoint_director_general_and_other_o"
+  ],
+  "related_concepts": [
+    "obligation.central_government_must_appoint_director_general_and_other_o"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "government",
+      "appoint",
+      "officers",
+      "prescribed",
+      "manner",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "Central Government",
+      "Government"
+    ],
+    "user_queries": [
+      "What are the rules for appointing a Director-General?",
+      "What is additional director-general?",
+      "How does additional director-general work?",
+      "Can you explain additional director-general?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

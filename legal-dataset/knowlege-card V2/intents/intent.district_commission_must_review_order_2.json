@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.district_commission_must_review_order_2",
+  "concept_type": "intent",
+  "title": "Questions about District Commission must review order",
+  "description": "Natural language queries a user may ask about: District Commission must review order",
+  "content": {
+    "queries": [
+      "Can the District Commission review its own order?",
+      "What is district commission must review order?",
+      "How does district commission must review order work?",
+      "Can you explain district commission must review order?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S40",
+    "obligation.district_commission_shall_review_any_of_the_order_passed_by_"
+  ],
+  "related_concepts": [
+    "obligation.district_commission_shall_review_any_of_the_order_passed_by_"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commission",
+      "review",
+      "order",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "re-examine",
+      "reconsider"
+    ],
+    "user_queries": [
+      "Can the District Commission review its own order?",
+      "What is district commission must review order?",
+      "How does district commission must review order work?",
+      "Can you explain district commission must review order?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

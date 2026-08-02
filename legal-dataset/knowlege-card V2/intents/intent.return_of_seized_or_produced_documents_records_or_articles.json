@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.return_of_seized_or_produced_documents_records_or_articles",
   "concept_type": "intent",
-  "title": "Questions about Return of seized or produced documents, records or articles",
-  "description": "Natural language queries a user may ask about: Return of seized or produced documents, records or articles",
+  "title": "Questions about Return Of Seized Or Produced Documents, Records Or Articles",
+  "description": "Natural language queries a user may ask about: Return Of Seized Or Produced Documents, Records Or Articles",
   "content": {
     "queries": [
-      "what happens to seized documents"
+      "What is the difference between seized and produced documents in a consumer complaint?",
+      "How can I get back documents that I produced during a consumer dispute?",
+      "Can I request the return of both seized and produced documents related to my complaint?",
+      "What are the rules for returning seized or produced documents, records or articles under the Consumer Protection Act?",
+      "How can I ensure that my seized or produced documents are handled properly during a consumer dispute?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S22-3",
-    "remedy.return_of_seized_or_produced_documents_records_or_articles"
+    "remedy.return_of_seized_or_produced_documents_records_or_articles",
+    "alias.return_of_seized_or_produced_documents_records_or_articles"
   ],
   "related_concepts": [
-    "remedy.return_of_seized_or_produced_documents_records_or_articles"
+    "alias.return_of_seized_or_produced_documents_records_or_articles"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "return",
+      "seized",
+      "produced",
+      "documents",
+      "records",
+      "articles",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "restoration of seized documents"
+    ],
+    "user_queries": [
+      "what happens to seized documents",
+      "What is copies of documents, records or articles?",
+      "How does copies of documents, records or articles work?",
+      "Can you explain copies of documents, records or articles?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

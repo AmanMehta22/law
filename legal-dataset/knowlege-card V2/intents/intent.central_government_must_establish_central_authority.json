@@ -1,25 +1,46 @@
 {
   "concept_id": "intent.central_government_must_establish_central_authority",
   "concept_type": "intent",
-  "title": "Questions about Central Government must establish Central Authority",
-  "description": "Natural language queries a user may ask about: Central Government must establish Central Authority",
+  "title": "Questions about Central Government Must Establish Central Authority",
+  "description": "Natural language queries a user may ask about: Central Government Must Establish Central Authority",
   "content": {
     "queries": [
-      "consumer protection",
-      "regulation of unfair trade practices"
+      "What is central government must establish central authority?",
+      "How does central government must establish central authority work?",
+      "Can you explain central government must establish central authority?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S10-1",
-    "obligation.central_government_shall_establish_a_central_consumer_protec"
+    "obligation.central_government_shall_establish_a_central_consumer_protec",
+    "alias.central_government_must_establish_central_authority"
   ],
   "related_concepts": [
-    "obligation.central_government_shall_establish_a_central_consumer_protec"
+    "alias.central_government_must_establish_central_authority"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "government",
+      "establish",
+      "authority",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "Central Authority"
+    ],
+    "user_queries": [
+      "consumer protection",
+      "regulation of unfair trade practices",
+      "What is central government must establish central authority?",
+      "How does central government must establish central authority work?",
+      "Can you explain central government must establish central authority?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Endorser must exercise due diligence",
   "content": {
     "queries": [
+      "What are the responsibilities of an endorser in exercising due diligence?",
+      "How can an endorser ensure they are exercising due diligence?",
+      "What are the consequences of an endorser not exercising due diligence?",
+      "Can an endorser be held liable for not exercising due diligence?",
+      "What role does due diligence play in the endorsement process?"
+    ]
+  },
+  "derived_from": [
+    "alias.endorser_must_exercise_due_diligence"
+  ],
+  "related_concepts": [
+    "alias.endorser_must_exercise_due_diligence"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "endorser",
+      "exercise",
+      "due",
+      "diligence",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "csp",
+      "csp due diligence",
+      "endorser",
+      "endorser due diligence"
+    ],
+    "user_queries": [
       "What is endorser must exercise due diligence?",
       "How does endorser must exercise due diligence work?",
       "Can you explain endorser must exercise due diligence?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH3-S21-5",
-    "obligation.endorser_must_exercise_due_diligence_to_verify_the_veracity_"
-  ],
-  "related_concepts": [
-    "obligation.endorser_must_exercise_due_diligence_to_verify_the_veracity_"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

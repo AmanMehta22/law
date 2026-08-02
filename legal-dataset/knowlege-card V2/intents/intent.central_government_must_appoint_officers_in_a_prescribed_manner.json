@@ -1,24 +1,48 @@
 {
   "concept_id": "intent.central_government_must_appoint_officers_in_a_prescribed_manner",
   "concept_type": "intent",
-  "title": "Questions about Central Government must appoint officers in a prescribed manner",
-  "description": "Natural language queries a user may ask about: Central Government must appoint officers in a prescribed manner",
+  "title": "Questions about Central Government Must Appoint Officers In A Prescribed Manner",
+  "description": "Natural language queries a user may ask about: Central Government Must Appoint Officers In A Prescribed Manner",
   "content": {
     "queries": [
-      "What are the rules for appointing a Director-General?"
+      "What is the prescribed manner for the Central Government to appoint officers?",
+      "How does the Central Government ensure transparency in officer appointments?",
+      "Can the Central Government appoint officers without following a prescribed manner?",
+      "What are the consequences of not appointing officers in a prescribed manner?",
+      "How does the Central Government's appointment process impact consumer protection?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S15-2",
-    "obligation.central_government_must_appoint_director_general_and_other_o"
+    "obligation.central_government_must_appoint_director_general_and_other_o",
+    "alias.central_government_must_appoint_officers_in_a_prescribed_manner"
   ],
   "related_concepts": [
-    "obligation.central_government_must_appoint_director_general_and_other_o"
+    "alias.central_government_must_appoint_officers_in_a_prescribed_manner"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "government",
+      "appoint",
+      "officers",
+      "prescribed",
+      "manner",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "Central Government",
+      "Government"
+    ],
+    "user_queries": [
+      "What are the rules for appointing a Director-General?",
+      "What is additional director-general?",
+      "How does additional director-general work?",
+      "Can you explain additional director-general?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -11,16 +11,37 @@
     ]
   },
   "derived_from": [
-    "CPA2019-CH1-S1-4",
-    "exception.does_not_apply_if_the_central_government_otherwise_expressly"
+    "alias.central_government_notification_exception"
   ],
   "related_concepts": [
-    "exception.does_not_apply_if_the_central_government_otherwise_expressly"
+    "alias.central_government_notification_exception"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "government",
+      "notification",
+      "exception",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "central exemption",
+      "federal exception",
+      "government notification exclusion"
+    ],
+    "user_queries": [
+      "What is central government notification exception?",
+      "How does central government notification exception work?",
+      "Can you explain central government notification exception?",
+      "What is central government must consider exceptions?",
+      "How does central government must consider exceptions work?",
+      "Can you explain central government must consider exceptions?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

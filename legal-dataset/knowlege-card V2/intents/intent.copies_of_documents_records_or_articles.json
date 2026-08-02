@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Copies of documents, records or articles",
   "content": {
     "queries": [
+      "How do I obtain copies of documents, records, or articles?",
+      "What are the requirements for requesting copies of documents, records, or articles?",
+      "Can you explain the process of obtaining copies of documents, records, or articles?",
+      "What are the fees associated with obtaining copies of documents, records, or articles?",
+      "How long does it take to receive copies of documents, records, or articles?"
+    ]
+  },
+  "derived_from": [
+    "alias.copies_of_documents_records_or_articles"
+  ],
+  "related_concepts": [
+    "alias.copies_of_documents_records_or_articles"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "copies",
+      "documents",
+      "records",
+      "articles",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "documentary copies",
+      "record duplicates",
+      "reproductions of papers"
+    ],
+    "user_queries": [
       "What is copies of documents, records or articles?",
       "How does copies of documents, records or articles work?",
       "Can you explain copies of documents, records or articles?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH3-S22-3",
-    "evidence.copies_of_documents_records_or_articles_extracts_therefrom"
-  ],
-  "related_concepts": [
-    "evidence.copies_of_documents_records_or_articles_extracts_therefrom"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

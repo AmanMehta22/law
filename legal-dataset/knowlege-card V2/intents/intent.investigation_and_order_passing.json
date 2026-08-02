@@ -5,21 +5,49 @@
   "description": "Natural language queries a user may ask about: Investigation and Order Passing",
   "content": {
     "queries": [
-      "How do I file investigation and order passing?",
-      "What are the steps for investigation and order passing?"
+      "What triggers an investigation by the Central Authority?",
+      "How does the Central Authority conduct an investigation into unfair practices?",
+      "Can the Central Authority pass an order without conducting a full investigation?",
+      "What are the possible outcomes of an investigation by the Central Authority?",
+      "How can I find out the status of an investigation by the Central Authority?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S20",
-    "procedure.investigation_and_order_passing"
+    "procedure.investigation_and_order_passing",
+    "alias.investigation_and_order_passing"
   ],
   "related_concepts": [
-    "procedure.investigation_and_order_passing"
+    "alias.investigation_and_order_passing"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "investigation",
+      "order",
+      "passing",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is central authority must give opportunity of being heard?",
+      "How does central authority must give opportunity of being heard work?",
+      "Can you explain central authority must give opportunity of being heard?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

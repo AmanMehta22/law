@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.branch_office_2",
+  "concept_type": "intent",
+  "title": "Questions about Branch Office",
+  "description": "Natural language queries a user may ask about: Branch Office",
+  "content": {
+    "queries": [
+      "What is a branch office?",
+      "What constitutes a branch office under CPA?",
+      "How is a branch office defined?",
+      "What is branch office?",
+      "How does branch office work?",
+      "Can you explain branch office?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-3",
+    "definition.branch_office"
+  ],
+  "related_concepts": [
+    "definition.branch_office"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "branch",
+      "office",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "satellite office",
+      "regional office"
+    ],
+    "user_queries": [
+      "What is branch office?",
+      "How does branch office work?",
+      "Can you explain branch office?",
+      "What is a branch office?",
+      "What constitutes a branch office under CPA?",
+      "How is a branch office defined?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

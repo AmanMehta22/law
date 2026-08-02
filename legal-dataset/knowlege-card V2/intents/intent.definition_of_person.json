@@ -5,22 +5,44 @@
   "description": "Natural language queries a user may ask about: Definition of Person",
   "content": {
     "queries": [
-      "What is a person under the Consumer Protection Act?",
-      "Who is considered a person in law?",
-      "What kinds of entities are considered persons?"
+      "What constitutes a person under the Consumer Protection Act?",
+      "How does the definition of person impact consumer rights?",
+      "Can a company be considered a person under the Act?",
+      "What is the significance of defining a person in consumer law?",
+      "Does the definition of person include foreign nationals?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-31",
-    "definition.person"
+    "definition.person",
+    "alias.definition_of_person"
   ],
   "related_concepts": [
-    "definition.person"
+    "alias.definition_of_person"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "definition",
+      "person",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "individual",
+      "entity",
+      "party"
+    ],
+    "user_queries": [
+      "What is definition of person?",
+      "How does definition of person work?",
+      "Can you explain definition of person?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

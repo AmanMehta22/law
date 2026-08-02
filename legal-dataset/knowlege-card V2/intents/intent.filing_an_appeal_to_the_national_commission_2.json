@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.filing_an_appeal_to_the_national_commission_2",
+  "concept_type": "intent",
+  "title": "Questions about Filing an appeal to the National Commission",
+  "description": "Natural language queries a user may ask about: Filing an appeal to the National Commission",
+  "content": {
+    "queries": [
+      "What is the time limit for filing an appeal to the National Commission?",
+      "Can I file an appeal to the National Commission if the state commission has not given a decision?",
+      "Do I need to provide a copy of the state commission's decision when filing an appeal to the National Commission?",
+      "How do I serve a notice of appeal to the National Commission on the opposite party?",
+      "Can I withdraw my appeal to the National Commission after it has been filed?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S51-2",
+    "CPA2019-CH4-S51-5",
+    "procedure.filing_an_appeal_to_the_national_commission"
+  ],
+  "related_concepts": [
+    "procedure.filing_an_appeal_to_the_national_commission"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "filing",
+      "appeal",
+      "national",
+      "commission",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "appeal to national commission",
+      "appeal to national consumer commission",
+      "national appeal",
+      "national commission",
+      "national commission appeal"
+    ],
+    "user_queries": [
+      "What is appeal to national commission?",
+      "How does appeal to national commission work?",
+      "Can you explain appeal to national commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

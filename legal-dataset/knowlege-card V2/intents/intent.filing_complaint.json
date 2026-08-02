@@ -5,21 +5,45 @@
   "description": "Natural language queries a user may ask about: Filing complaint",
   "content": {
     "queries": [
-      "How do I file filing complaint?",
-      "What are the steps for filing complaint?"
+      "What are the essential documents required for filing a complaint to the national commission?",
+      "Can I file a complaint to the national commission online or do I need to visit a physical office?",
+      "What is the timeframe for filing a complaint to the national commission after the incident occurred?",
+      "How do I know which consumer forum to approach for filing a complaint, the national commission or a lower court?",
+      "Is there a fee for filing a complaint to the national commission and if so, how much do I need to pay?"
     ]
   },
   "derived_from": [
     "CPA2019-CH8-S101-2",
-    "procedure.filing_complaint"
+    "procedure.filing_complaint",
+    "alias.filing_complaint"
   ],
   "related_concepts": [
-    "procedure.filing_complaint"
+    "alias.filing_complaint"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "filing",
+      "complaint",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "how"
+    ],
+    "aliases": [
+      "appeal to national commission",
+      "appeal to national consumer commission",
+      "national appeal",
+      "national commission",
+      "national commission appeal"
+    ],
+    "user_queries": [
+      "How do I file appeal to national commission?",
+      "What are the steps for appeal to national commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

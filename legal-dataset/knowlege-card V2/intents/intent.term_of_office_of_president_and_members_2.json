@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.term_of_office_of_president_and_members_2",
+  "concept_type": "intent",
+  "title": "Questions about Term of office of President and members",
+  "description": "Natural language queries a user may ask about: Term of office of President and members",
+  "content": {
+    "queries": [
+      "What is term of office of president and members?",
+      "How does term of office of president and members work?",
+      "Can you explain term of office of president and members?",
+      "What is central government must make rules for national commission service terms?",
+      "How does central government must make rules for national commission service terms work?",
+      "Can you explain central government must make rules for national commission service terms?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S55-1",
+    "exception.the_president_and_members_shall_hold_office_for_a_term_not_e"
+  ],
+  "related_concepts": [
+    "exception.the_president_and_members_shall_hold_office_for_a_term_not_e"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "term",
+      "office",
+      "president",
+      "members",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "National Commission membership",
+      "President term"
+    ],
+    "user_queries": [
+      "What is term of office of president and members?",
+      "How does term of office of president and members work?",
+      "Can you explain term of office of president and members?",
+      "What is central government must make rules for national commission service terms?",
+      "How does central government must make rules for national commission service terms work?",
+      "Can you explain central government must make rules for national commission service terms?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

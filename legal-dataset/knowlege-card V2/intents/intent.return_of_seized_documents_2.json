@@ -5,21 +5,41 @@
   "description": "Natural language queries a user may ask about: Return of seized documents",
   "content": {
     "queries": [
-      "How do I file return of seized documents?",
-      "What are the steps for return of seized documents?"
+      "What happens to seized documents?",
+      "What is copies of documents, records or articles?",
+      "How does copies of documents, records or articles work?",
+      "Can you explain copies of documents, records or articles?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S22-3",
-    "procedure.return_of_seized_documents"
+    "obligation.person_seizing_the_documents_must_return_seized_documents"
   ],
   "related_concepts": [
-    "procedure.return_of_seized_documents"
+    "obligation.person_seizing_the_documents_must_return_seized_documents"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "return",
+      "seized",
+      "documents",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "restoration of documents"
+    ],
+    "user_queries": [
+      "What is copies of documents, records or articles?",
+      "How does copies of documents, records or articles work?",
+      "Can you explain copies of documents, records or articles?",
+      "What happens to seized documents?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

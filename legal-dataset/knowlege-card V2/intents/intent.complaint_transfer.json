@@ -5,21 +5,45 @@
   "description": "Natural language queries a user may ask about: Complaint transfer",
   "content": {
     "queries": [
-      "How do I file complaint transfer?",
-      "What are the steps for complaint transfer?"
+      "On what grounds can a complaint be transferred to another authority?",
+      "How do I request a complaint transfer to a different jurisdiction?",
+      "What is the process for transferring a complaint from one court to another?",
+      "Can a complaint transfer be done without the consent of the parties involved?",
+      "What are the consequences of a complaint transfer on the overall proceedings?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S62",
-    "procedure.complaint_transfer"
+    "procedure.complaint_transfer",
+    "alias.complaint_transfer"
   ],
   "related_concepts": [
-    "procedure.complaint_transfer"
+    "alias.complaint_transfer"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "complaint",
+      "transfer",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "complaint redirection",
+      "complaint relocation",
+      "transfer of case",
+      "transfer of complaint"
+    ],
+    "user_queries": [
+      "What is complaint transfer?",
+      "How does complaint transfer work?",
+      "Can you explain complaint transfer?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

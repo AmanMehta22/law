@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: District Commission must entertain complaints",
   "content": {
     "queries": [
+      "What types of complaints must a District Commission entertain?",
+      "Can a District Commission refuse to entertain a complaint?",
+      "How does a District Commission decide which complaints to entertain?",
+      "What is the process for a District Commission to entertain a complaint?",
+      "Are there any specific requirements for a complaint to be entertained by a District Commission?"
+    ]
+  },
+  "derived_from": [
+    "alias.district_commission_must_entertain_complaints"
+  ],
+  "related_concepts": [
+    "alias.district_commission_must_entertain_complaints"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commission",
+      "entertain",
+      "complaints",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "complaint acceptance",
+      "complaint registration",
+      "consumer complaint filing",
+      "district commission complaint reception"
+    ],
+    "user_queries": [
       "What is district commission must entertain complaints?",
       "How does district commission must entertain complaints work?",
       "Can you explain district commission must entertain complaints?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S34-1",
-    "obligation.district_commission_shall_have_jurisdiction_to_entertain_com"
-  ],
-  "related_concepts": [
-    "obligation.district_commission_shall_have_jurisdiction_to_entertain_com"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

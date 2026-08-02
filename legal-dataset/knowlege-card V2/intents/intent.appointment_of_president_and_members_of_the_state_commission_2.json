@@ -1,0 +1,58 @@
+{
+  "concept_id": "intent.appointment_of_president_and_members_of_the_state_commission_2",
+  "concept_type": "intent",
+  "title": "Questions about Appointment of President and members of the State Commission",
+  "description": "Natural language queries a user may ask about: Appointment of President and members of the State Commission",
+  "content": {
+    "queries": [
+      "What are the responsibilities of the President and members of the State Commission?",
+      "How does the appointment of the President and members of the State Commission affect consumer protection?",
+      "What is the role of the State Commission in protecting consumer rights?",
+      "Can consumers appeal to the State Commission for redressal of grievances?",
+      "How does the State Commission ensure fairness and transparency in its appointments?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S43",
+    "procedure.appointment_of_president_and_members_of_the_state_commission"
+  ],
+  "related_concepts": [
+    "procedure.appointment_of_president_and_members_of_the_state_commission"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "appointment",
+      "president",
+      "members",
+      "state",
+      "commission",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "president and members of the state commission",
+      "state commission",
+      "state commission appointment",
+      "state commission members",
+      "state commission president"
+    ],
+    "user_queries": [
+      "What is appointment of president and members of the state commission?",
+      "How does appointment of president and members of the state commission work?",
+      "Can you explain appointment of president and members of the state commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

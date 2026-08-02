@@ -1,0 +1,57 @@
+{
+  "concept_id": "intent.district_commission_references_state_council",
+  "concept_type": "intent",
+  "title": "Questions about District Commission references State Council",
+  "description": "Natural language queries a user may ask about: District Commission references State Council",
+  "content": {
+    "queries": [
+      "What happens when a District Commission references the State Council?",
+      "Can a District Commission directly approach the State Council for a reference?",
+      "How long does it take for the State Council to respond to a reference from a District Commission?",
+      "What kind of cases are typically referred by the District Commission to the State Council?",
+      "Is it mandatory for the District Commission to reference the State Council in certain cases?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH2-S6-4",
+    "CPA2019-CH8-S102-2",
+    "relationship.alias_district_commission_references_alias_state_council"
+  ],
+  "related_concepts": [
+    "relationship.alias_district_commission_references_alias_state_council"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commission",
+      "references",
+      "state",
+      "council",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "State Advisory Council",
+      "State Consumer Council",
+      "State Consumer Protection Council"
+    ],
+    "user_queries": [
+      "What is district commission references state council?",
+      "How does district commission references state council work?",
+      "Can you explain district commission references state council?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

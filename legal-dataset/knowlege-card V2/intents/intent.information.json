@@ -5,23 +5,46 @@
   "description": "Natural language queries a user may ask about: Information",
   "content": {
     "queries": [
+      "What kind of information is available to consumers under the Consumer Protection Act?",
+      "How can I access information about my consumer rights?",
+      "What is the purpose of providing information to consumers?",
+      "Can I request information from a business or service provider?",
+      "How is information about consumer products and services regulated?"
+    ]
+  },
+  "derived_from": [
+    "alias.information"
+  ],
+  "related_concepts": [
+    "alias.information"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "information",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "how"
+    ],
+    "aliases": [
+      "data",
+      "details",
+      "facts",
+      "knowledge"
+    ],
+    "user_queries": [
+      "What is state commission must furnish information?",
+      "How does state commission must furnish information work?",
+      "Can you explain state commission must furnish information?",
       "What is information?",
       "How does information work?",
       "Can you explain information?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S70-4",
-    "CPA2019-CH4-S70-5",
-    "evidence.information"
-  ],
-  "related_concepts": [
-    "evidence.information"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

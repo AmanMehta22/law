@@ -5,22 +5,49 @@
   "description": "Natural language queries a user may ask about: Commissioner of a regional office",
   "content": {
     "queries": [
-      "What is commissioner of a regional office?",
-      "How does commissioner of a regional office work?",
-      "Can you explain commissioner of a regional office?"
+      "What are the responsibilities of a Commissioner of a regional office?",
+      "How is a Commissioner of a regional office appointed?",
+      "Can a consumer file a complaint directly to the Commissioner of a regional office?",
+      "What is the role of the Commissioner of a regional office in consumer protection?",
+      "How does the Commissioner of a regional office handle consumer complaints?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S16",
-    "authority.commissioner_of_a_regional_office"
+    "authority.commissioner_of_a_regional_office",
+    "alias.commissioner_of_a_regional_office"
   ],
   "related_concepts": [
-    "authority.commissioner_of_a_regional_office"
+    "alias.commissioner_of_a_regional_office"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "commissioner",
+      "regional",
+      "office",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is commissioner of a regional office?",
+      "How does commissioner of a regional office work?",
+      "Can you explain commissioner of a regional office?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

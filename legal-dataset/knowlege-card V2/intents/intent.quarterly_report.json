@@ -5,23 +5,42 @@
   "description": "Natural language queries a user may ask about: Quarterly report",
   "content": {
     "queries": [
+      "What information should be included in a quarterly report under the Consumer Protection Act?",
+      "How often are quarterly reports required to be submitted by consumer protection authorities?",
+      "Can a consumer access quarterly reports filed by companies?",
+      "What are the consequences of not filing a quarterly report as required by law?",
+      "Who is responsible for reviewing and approving quarterly reports?"
+    ]
+  },
+  "derived_from": [
+    "alias.quarterly_report"
+  ],
+  "related_concepts": [
+    "alias.quarterly_report"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "quarterly",
+      "report",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "financial quarterly",
+      "qtrly report",
+      "three-monthly report"
+    ],
+    "user_queries": [
       "What is quarterly report?",
       "How does quarterly report work?",
       "Can you explain quarterly report?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH5-S74-5",
-    "CPA2019-CH8-S103-2",
-    "evidence.quarterly_report"
-  ],
-  "related_concepts": [
-    "evidence.quarterly_report"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

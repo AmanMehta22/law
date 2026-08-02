@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.submission_of_quarterly_report_by_consumer_mediation_cell_handled_by_consumer_me",
+  "concept_type": "intent",
+  "title": "Questions about Submission of quarterly report by consumer mediation cell handled by Consumer Mediation Cell",
+  "description": "Natural language queries a user may ask about: Submission of quarterly report by consumer mediation cell handled by Consumer Mediation Cell",
+  "content": {
+    "queries": [
+      "What is submission of quarterly report by consumer mediation cell handled by consumer mediation cell?",
+      "How does submission of quarterly report by consumer mediation cell handled by consumer mediation cell work?",
+      "Can you explain submission of quarterly report by consumer mediation cell handled by consumer mediation cell?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S103-2",
+    "relationship.procedure_submission_of_quarterly_report_by_consumer_mediation_cell_ha"
+  ],
+  "related_concepts": [
+    "relationship.procedure_submission_of_quarterly_report_by_consumer_mediation_cell_ha"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "submission",
+      "quarterly",
+      "report",
+      "consumer",
+      "mediation",
+      "cell",
+      "handled",
+      "natural"
+    ],
+    "aliases": [
+      "adjournment cost",
+      "cost imposition by district commission",
+      "district commission cost"
+    ],
+    "user_queries": [
+      "What is submission of quarterly report by consumer mediation cell handled by consumer mediation cell?",
+      "How does submission of quarterly report by consumer mediation cell handled by consumer mediation cell work?",
+      "Can you explain submission of quarterly report by consumer mediation cell handled by consumer mediation cell?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

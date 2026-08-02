@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Consumer Dispute",
   "content": {
     "queries": [
-      "what is a consumer dispute",
-      "how is a consumer dispute defined",
-      "what happens when a consumer disputes a complaint"
+      "What is the process for resolving a consumer dispute?",
+      "How does the Consumer Protection Act address consumer disputes?",
+      "Can consumer disputes be resolved through mediation?",
+      "What are the common causes of consumer disputes?",
+      "How long does it typically take to resolve a consumer dispute?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-8",
-    "definition.consumer_dispute"
+    "definition.consumer_dispute",
+    "alias.consumer_dispute"
   ],
   "related_concepts": [
-    "definition.consumer_dispute"
+    "alias.consumer_dispute"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "consumer",
+      "dispute",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "consumer complaint dispute",
+      "disputed consumer claim"
+    ],
+    "user_queries": [
+      "What is consumer dispute?",
+      "How does consumer dispute work?",
+      "Can you explain consumer dispute?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

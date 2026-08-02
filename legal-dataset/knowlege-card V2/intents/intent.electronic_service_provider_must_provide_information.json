@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Electronic service provider must provide information",
   "content": {
     "queries": [
+      "What kind of information must an electronic service provider provide to consumers?",
+      "How can I access the information provided by an electronic service provider?",
+      "What are the consequences for an electronic service provider that fails to provide required information?",
+      "Can an electronic service provider charge a fee for providing information to consumers?",
+      "How does the Consumer Protection Act regulate the provision of information by electronic service providers?"
+    ]
+  },
+  "derived_from": [
+    "alias.electronic_service_provider_must_provide_information"
+  ],
+  "related_concepts": [
+    "alias.electronic_service_provider_must_provide_information"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "electronic",
+      "service",
+      "provider",
+      "provide",
+      "information",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "csp",
+      "csp details",
+      "csp information",
+      "electronic service provider"
+    ],
+    "user_queries": [
       "What is electronic service provider must provide information?",
       "How does electronic service provider must provide information work?",
       "Can you explain electronic service provider must provide information?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S38-4",
-    "obligation.electronic_service_provider_must_provide_information_documen"
-  ],
-  "related_concepts": [
-    "obligation.electronic_service_provider_must_provide_information_documen"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

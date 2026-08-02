@@ -5,21 +5,45 @@
   "description": "Natural language queries a user may ask about: Mediation Agreement",
   "content": {
     "queries": [
-      "How do I file mediation agreement?",
-      "What are the steps for mediation agreement?"
+      "What is the role of mediation in resolving consumer disputes?",
+      "Can a mediation agreement be used to settle a dispute without going to court?",
+      "How does a mediation agreement differ from a regular agreement in writing?",
+      "What are the benefits of using mediation to resolve a consumer dispute?",
+      "Is a mediation agreement binding on all parties involved in the dispute?"
     ]
   },
   "derived_from": [
     "CPA2019-CH5-S80-1",
-    "procedure.mediation_agreement"
+    "procedure.mediation_agreement",
+    "alias.mediation_agreement"
   ],
   "related_concepts": [
-    "procedure.mediation_agreement"
+    "alias.mediation_agreement"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "mediation",
+      "agreement",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Alternative Dispute Resolution",
+      "Dispute Resolution Agreement",
+      "Mediation Contract",
+      "Settlement Agreement"
+    ],
+    "user_queries": [
+      "What is agreement in writing?",
+      "How does agreement in writing work?",
+      "Can you explain agreement in writing?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

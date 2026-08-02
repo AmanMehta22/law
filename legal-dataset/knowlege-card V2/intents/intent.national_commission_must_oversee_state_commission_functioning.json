@@ -1,24 +1,46 @@
 {
   "concept_id": "intent.national_commission_must_oversee_state_commission_functioning",
   "concept_type": "intent",
-  "title": "Questions about National Commission must oversee State Commission functioning",
-  "description": "Natural language queries a user may ask about: National Commission must oversee State Commission functioning",
+  "title": "Questions about National Commission Must Oversee State Commission Functioning",
+  "description": "Natural language queries a user may ask about: National Commission Must Oversee State Commission Functioning",
   "content": {
     "queries": [
-      "How does the National Commission ensure effective consumer protection?"
+      "What is national commission must oversee state commission functioning?",
+      "How does national commission must oversee state commission functioning work?",
+      "Can you explain national commission must oversee state commission functioning?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S70-1",
-    "obligation.national_commission_shall_oversee_the_functioning_of_the_sta"
+    "obligation.national_commission_shall_oversee_the_functioning_of_the_sta",
+    "alias.national_commission_must_oversee_state_commission_functioning"
   ],
   "related_concepts": [
-    "obligation.national_commission_shall_oversee_the_functioning_of_the_sta"
+    "alias.national_commission_must_oversee_state_commission_functioning"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "national",
+      "commission",
+      "oversee",
+      "state",
+      "functioning",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "regulatory supervision",
+      "consumer protection"
+    ],
+    "user_queries": [
+      "How does the National Commission ensure effective consumer protection?",
+      "What is national commission must oversee state commission functioning?",
+      "How does national commission must oversee state commission functioning work?",
+      "Can you explain national commission must oversee state commission functioning?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

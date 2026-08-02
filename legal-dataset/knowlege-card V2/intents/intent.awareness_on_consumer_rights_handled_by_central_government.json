@@ -1,0 +1,56 @@
+{
+  "concept_id": "intent.awareness_on_consumer_rights_handled_by_central_government",
+  "concept_type": "intent",
+  "title": "Questions about Awareness on Consumer Rights handled by Central Government",
+  "description": "Natural language queries a user may ask about: Awareness on Consumer Rights handled by Central Government",
+  "content": {
+    "queries": [
+      "What is awareness on consumer rights handled by central government?",
+      "How does awareness on consumer rights handled by central government work?",
+      "Can you explain awareness on consumer rights handled by central government?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S18-2",
+    "relationship.procedure_awareness_on_consumer_rights_handled_by_authority_central_go"
+  ],
+  "related_concepts": [
+    "relationship.procedure_awareness_on_consumer_rights_handled_by_authority_central_go"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "awareness",
+      "consumer",
+      "rights",
+      "handled",
+      "central",
+      "government",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "advice on consumer welfare",
+      "advising on consumer welfare",
+      "consumer rights guidance",
+      "consumer welfare advice",
+      "consumer welfare measures"
+    ],
+    "user_queries": [
+      "What is awareness on consumer rights handled by central government?",
+      "How does awareness on consumer rights handled by central government work?",
+      "Can you explain awareness on consumer rights handled by central government?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

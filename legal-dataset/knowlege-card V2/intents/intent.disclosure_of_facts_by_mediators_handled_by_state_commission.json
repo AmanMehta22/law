@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.disclosure_of_facts_by_mediators_handled_by_state_commission",
+  "concept_type": "intent",
+  "title": "Questions about Disclosure of facts by mediators handled by State Commission",
+  "description": "Natural language queries a user may ask about: Disclosure of facts by mediators handled by State Commission",
+  "content": {
+    "queries": [
+      "What is disclosure of facts by mediators handled by state commission?",
+      "How does disclosure of facts by mediators handled by state commission work?",
+      "Can you explain disclosure of facts by mediators handled by state commission?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S103-2",
+    "relationship.procedure_disclosure_of_facts_by_mediators_handled_by_authority_state_"
+  ],
+  "related_concepts": [
+    "relationship.procedure_disclosure_of_facts_by_mediators_handled_by_authority_state_"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "disclosure",
+      "facts",
+      "mediators",
+      "handled",
+      "state",
+      "commission",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "adjournment cost",
+      "cost imposition by district commission",
+      "district commission cost"
+    ],
+    "user_queries": [
+      "What is disclosure of facts by mediators handled by state commission?",
+      "How does disclosure of facts by mediators handled by state commission work?",
+      "Can you explain disclosure of facts by mediators handled by state commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

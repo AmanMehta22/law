@@ -5,21 +5,49 @@
   "description": "Natural language queries a user may ask about: Transaction of business",
   "content": {
     "queries": [
-      "How do I file transaction of business?",
-      "What are the steps for transaction of business?"
+      "What is the process for a central authority to receive an inquiry or investigation report in a transaction of business?",
+      "How does the central authority handle an inquiry or investigation report related to a business transaction?",
+      "Can you explain the role of the central authority in receiving inquiry or investigation reports for transactions of business?",
+      "What are the requirements for a central authority to receive an inquiry or investigation report in a business transaction?",
+      "How does the central authority ensure that inquiry or investigation reports are properly received and processed for transactions of business?"
     ]
   },
   "derived_from": [
     "CPA2019-CH8-S104-2",
-    "procedure.transaction_of_business"
+    "procedure.transaction_of_business",
+    "alias.transaction_of_business"
   ],
   "related_concepts": [
-    "procedure.transaction_of_business"
+    "alias.transaction_of_business"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "transaction",
+      "business",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is central authority must receive inquiry or investigation report?",
+      "How does central authority must receive inquiry or investigation report work?",
+      "Can you explain central authority must receive inquiry or investigation report?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

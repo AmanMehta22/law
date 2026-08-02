@@ -1,26 +1,52 @@
 {
   "concept_id": "intent.proof_of_sufficient_cause",
   "concept_type": "intent",
-  "title": "Questions about Proof of sufficient cause",
-  "description": "Natural language queries a user may ask about: Proof of sufficient cause",
+  "title": "Questions about Proof Of Sufficient Cause",
+  "description": "Natural language queries a user may ask about: Proof Of Sufficient Cause",
   "content": {
     "queries": [
-      "Why was the appeal filed late?"
+      "What constitutes sufficient cause for an appeal to be heard?",
+      "How can an appellant prove sufficient cause for a delay in filing an appeal?",
+      "What are the consequences of not providing proof of sufficient cause?",
+      "Can an appeal be dismissed due to lack of sufficient cause?",
+      "How does the court determine if an appellant has shown sufficient cause?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S41",
     "CPA2019-CH4-S51-1",
     "CPA2019-CH4-S67",
-    "evidence.written_explanation"
+    "evidence.written_explanation",
+    "alias.proof_of_sufficient_cause"
   ],
   "related_concepts": [
-    "evidence.written_explanation"
+    "alias.proof_of_sufficient_cause"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "proof",
+      "sufficient",
+      "cause",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "reasonable grounds"
+    ],
+    "user_queries": [
+      "Why was the appeal filed late?",
+      "What is delayed appeal?",
+      "How does delayed appeal work?",
+      "Can you explain delayed appeal?",
+      "What is appellant must deposit amount?",
+      "How does appellant must deposit amount work?",
+      "Can you explain appellant must deposit amount?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

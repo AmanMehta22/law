@@ -1,0 +1,57 @@
+{
+  "concept_id": "intent.territorial_jurisdiction_of_national_commission_2",
+  "concept_type": "intent",
+  "title": "Questions about Territorial jurisdiction of National Commission",
+  "description": "Natural language queries a user may ask about: Territorial jurisdiction of National Commission",
+  "content": {
+    "queries": [
+      "Is the National Commission's territorial jurisdiction limited to India?",
+      "Can the National Commission handle cases that involve Indian consumers who purchased products abroad?",
+      "How does the National Commission coordinate with international consumer protection agencies on territorial jurisdiction issues?",
+      "Are there any specific laws that govern the National Commission's territorial jurisdiction?",
+      "Can the National Commission's territorial jurisdiction be challenged in court?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S53-2",
+    "jurisdiction.national_commission_national_capital_region_and_other_notified_places"
+  ],
+  "related_concepts": [
+    "jurisdiction.national_commission_national_capital_region_and_other_notified_places"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "territorial",
+      "jurisdiction",
+      "national",
+      "commission",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government"
+    ],
+    "user_queries": [
+      "What is territorial jurisdiction of national commission?",
+      "How does territorial jurisdiction of national commission work?",
+      "Can you explain territorial jurisdiction of national commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

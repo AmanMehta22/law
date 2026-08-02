@@ -1,24 +1,48 @@
 {
   "concept_id": "intent.manufacturer_must_provide_adequate_instructions_and_warnings",
   "concept_type": "intent",
-  "title": "Questions about Manufacturer must provide adequate instructions and warnings",
-  "description": "Natural language queries a user may ask about: Manufacturer must provide adequate instructions and warnings",
+  "title": "Questions about Manufacturer Must Provide Adequate Instructions And Warnings",
+  "description": "Natural language queries a user may ask about: Manufacturer Must Provide Adequate Instructions And Warnings",
   "content": {
     "queries": [
-      "What are the duties of a product manufacturer under the Consumer Protection Act?"
+      "What instructions should a manufacturer provide with a product?",
+      "How can a manufacturer ensure their product warnings are adequate?",
+      "What are the consequences for a manufacturer that fails to provide adequate instructions?",
+      "Can a consumer claim compensation if a manufacturer's instructions are unclear?",
+      "What constitutes adequate warnings for a product with potential hazards?"
     ]
   },
   "derived_from": [
     "CPA2019-CH6-S84-1",
-    "obligation.product_manufacturer_must_provide_adequate_instructions_and_"
+    "obligation.product_manufacturer_must_provide_adequate_instructions_and_",
+    "alias.manufacturer_must_provide_adequate_instructions_and_warnings"
   ],
   "related_concepts": [
-    "obligation.product_manufacturer_must_provide_adequate_instructions_and_"
+    "alias.manufacturer_must_provide_adequate_instructions_and_warnings"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "manufacturer",
+      "provide",
+      "adequate",
+      "instructions",
+      "warnings",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "product manufacturer duties",
+      "liability for defective products"
+    ],
+    "user_queries": [
+      "What are the duties of a product manufacturer under the Consumer Protection Act?",
+      "What is design defect evidence?",
+      "How does design defect evidence work?",
+      "Can you explain design defect evidence?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

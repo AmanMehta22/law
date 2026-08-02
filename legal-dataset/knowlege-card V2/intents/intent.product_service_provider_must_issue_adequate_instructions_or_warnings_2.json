@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.product_service_provider_must_issue_adequate_instructions_or_warnings_2",
+  "concept_type": "intent",
+  "title": "Questions about Product service provider must issue adequate instructions or warnings",
+  "description": "Natural language queries a user may ask about: Product service provider must issue adequate instructions or warnings",
+  "content": {
+    "queries": [
+      "what are product service provider obligations",
+      "What is product service provider must conform to express warranty or contract terms?",
+      "How does product service provider must conform to express warranty or contract terms work?",
+      "Can you explain product service provider must conform to express warranty or contract terms?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH6-S85",
+    "obligation.product_service_provider_must_issue_adequate_instructions_or"
+  ],
+  "related_concepts": [
+    "obligation.product_service_provider_must_issue_adequate_instructions_or"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "product",
+      "service",
+      "provider",
+      "issue",
+      "adequate",
+      "instructions",
+      "warnings",
+      "natural"
+    ],
+    "aliases": [
+      "product service provider duty"
+    ],
+    "user_queries": [
+      "what are product service provider obligations",
+      "What is product service provider must conform to express warranty or contract terms?",
+      "How does product service provider must conform to express warranty or contract terms work?",
+      "Can you explain product service provider must conform to express warranty or contract terms?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

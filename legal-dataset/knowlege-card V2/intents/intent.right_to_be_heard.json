@@ -5,11 +5,11 @@
   "description": "Natural language queries a user may ask about: Right to be Heard",
   "content": {
     "queries": [
-      "how can I make my complaint heard",
-      "right to speak before order is passed",
-      "right to present case",
-      "can I dispute the lab report",
-      "can I present my case to the District Commission"
+      "Do consumers have the right to be heard in a complaint against a seller?",
+      "What does the right to be heard mean in the context of consumer complaints?",
+      "Can a consumer's complaint be dismissed without giving them a chance to be heard?",
+      "How does the right to be heard protect consumers in the complaint process?",
+      "Is the right to be heard a fundamental principle of consumer protection law?"
     ]
   },
   "derived_from": [
@@ -18,15 +18,42 @@
     "CPA2019-CH4-S36-2",
     "CPA2019-CH4-S38-2",
     "CPA2019-CH4-S38-3",
-    "right.right_to_be_heard"
+    "right.right_to_be_heard",
+    "alias.right_to_be_heard"
   ],
   "related_concepts": [
-    "right.right_to_be_heard"
+    "alias.right_to_be_heard"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "right",
+      "heard",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "right to voice",
+      "right to a hearing",
+      "right to a fair hearing",
+      "right to present case",
+      "right to representation"
+    ],
+    "user_queries": [
+      "how can I make my complaint heard",
+      "right to speak before order is passed",
+      "right to present case",
+      "can I dispute the lab report",
+      "can I present my case to the District Commission",
+      "What is admissibility decision time limit?",
+      "How does admissibility decision time limit work?",
+      "Can you explain admissibility decision time limit?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

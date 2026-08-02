@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.deposit_for_appeal",
   "concept_type": "intent",
-  "title": "Questions about Deposit for appeal",
-  "description": "Natural language queries a user may ask about: Deposit for appeal",
+  "title": "Questions about Deposit For Appeal",
+  "description": "Natural language queries a user may ask about: Deposit For Appeal",
   "content": {
     "queries": [
-      "Do I need to pay to appeal?"
+      "What is the purpose of requiring a deposit for appeal in consumer cases?",
+      "How is the amount of the deposit for appeal determined?",
+      "Can the deposit for appeal be waived in certain circumstances?",
+      "What happens to the deposit for appeal if the appeal is successful?",
+      "Is the deposit for appeal refundable if the appeal is dismissed?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S41",
-    "exception.no_appeal_unless_50_of_amount_deposited"
+    "exception.no_appeal_unless_50_of_amount_deposited",
+    "alias.deposit_for_appeal"
   ],
   "related_concepts": [
-    "exception.no_appeal_unless_50_of_amount_deposited"
+    "alias.deposit_for_appeal"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "deposit",
+      "appeal",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "payment condition"
+    ],
+    "user_queries": [
+      "Do I need to pay to appeal?",
+      "What is delayed appeal?",
+      "How does delayed appeal work?",
+      "Can you explain delayed appeal?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Product Service Provider",
   "content": {
     "queries": [
-      "What is a product service provider?",
-      "Who is considered a product service provider?",
-      "What services are included in product service provider?"
+      "Who is considered a product service provider under the Consumer Protection Act?",
+      "What services do product service providers typically offer to consumers?",
+      "Can a product service provider also be a product seller?",
+      "How do product service providers ensure they are meeting consumer needs?",
+      "What rights do consumers have when dealing with a product service provider?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-38",
-    "definition.product_service_provider"
+    "definition.product_service_provider",
+    "alias.product_service_provider"
   ],
   "related_concepts": [
-    "definition.product_service_provider"
+    "alias.product_service_provider"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "product",
+      "service",
+      "provider",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "service provider",
+      "product maintainer"
+    ],
+    "user_queries": [
+      "What is product service provider?",
+      "How does product service provider work?",
+      "Can you explain product service provider?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

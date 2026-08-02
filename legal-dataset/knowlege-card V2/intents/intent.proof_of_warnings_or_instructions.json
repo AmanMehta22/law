@@ -5,22 +5,47 @@
   "description": "Natural language queries a user may ask about: Proof of warnings or instructions",
   "content": {
     "queries": [
+      "What kind of warnings or instructions must be provided by sellers to consumers?",
+      "How can consumers prove that they were not provided adequate warnings or instructions?",
+      "Are there any specific laws that require proof of warnings or instructions?",
+      "Can a lack of proof of warnings or instructions affect the outcome of a consumer complaint?",
+      "How can consumers ensure they receive proper warnings or instructions when purchasing a product?"
+    ]
+  },
+  "derived_from": [
+    "alias.proof_of_warnings_or_instructions"
+  ],
+  "related_concepts": [
+    "alias.proof_of_warnings_or_instructions"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "proof",
+      "warnings",
+      "instructions",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "instruction manual",
+      "product warnings",
+      "safety guidelines",
+      "user instructions",
+      "warning labels"
+    ],
+    "user_queries": [
+      "What is complainant under influence exception?",
+      "How does complainant under influence exception work?",
+      "Can you explain complainant under influence exception?",
       "What is proof of warnings or instructions?",
       "How does proof of warnings or instructions work?",
       "Can you explain proof of warnings or instructions?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH6-S86",
-    "evidence.warning_or_instruction_records_documentation_of_warnings_or_"
-  ],
-  "related_concepts": [
-    "evidence.warning_or_instruction_records_documentation_of_warnings_or_"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

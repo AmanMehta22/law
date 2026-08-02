@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.district_commission_must_exercise_powers",
   "concept_type": "intent",
-  "title": "Questions about District Commission must exercise powers",
-  "description": "Natural language queries a user may ask about: District Commission must exercise powers",
+  "title": "Questions about District Commission Must Exercise Powers",
+  "description": "Natural language queries a user may ask about: District Commission Must Exercise Powers",
   "content": {
     "queries": [
-      "what powers does the District Commission have"
+      "How does a District Commission handle discovery and production of evidence?",
+      "Can a District Commission refuse to exercise its powers in a consumer dispute?",
+      "What are the implications of a District Commission not exercising its powers?",
+      "How does the District Commission ensure fairness in discovery and production of evidence?",
+      "Are there any specific rules governing the exercise of powers by a District Commission?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-9",
-    "obligation.district_commission_shall_have_the_same_powers_as_are_vested"
+    "obligation.district_commission_shall_have_the_same_powers_as_are_vested",
+    "alias.district_commission_must_exercise_powers"
   ],
   "related_concepts": [
-    "obligation.district_commission_shall_have_the_same_powers_as_are_vested"
+    "alias.district_commission_must_exercise_powers"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commission",
+      "exercise",
+      "powers",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "consumer court"
+    ],
+    "user_queries": [
+      "what powers does the District Commission have",
+      "What is discovery and production of evidence?",
+      "How does discovery and production of evidence work?",
+      "Can you explain discovery and production of evidence?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

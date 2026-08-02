@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Written objections",
   "content": {
     "queries": [
+      "What is the purpose of filing written objections in a consumer complaint?",
+      "How do written objections help in resolving a consumer dispute?",
+      "Can written objections be filed against a business for unfair trade practices?",
+      "What information should be included in written objections to a consumer complaint?",
+      "Are written objections a mandatory step in the consumer complaint process?"
+    ]
+  },
+  "derived_from": [
+    "alias.written_objections"
+  ],
+  "related_concepts": [
+    "alias.written_objections"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "written",
+      "objections",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "documented opposition",
+      "formal complaint",
+      "objection in writing",
+      "written protest"
+    ],
+    "user_queries": [
       "What is written objections?",
       "How does written objections work?",
       "Can you explain written objections?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S38-2",
-    "evidence.written_objections"
-  ],
-  "related_concepts": [
-    "evidence.written_objections"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

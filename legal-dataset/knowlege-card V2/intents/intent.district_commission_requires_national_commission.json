@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.district_commission_requires_national_commission",
+  "concept_type": "intent",
+  "title": "Questions about District Commission requires National Commission",
+  "description": "Natural language queries a user may ask about: District Commission requires National Commission",
+  "content": {
+    "queries": [
+      "What is district commission requires national commission?",
+      "How does district commission requires national commission work?",
+      "Can you explain district commission requires national commission?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S52",
+    "CPA2019-CH8-S103-2",
+    "relationship.alias_district_commission_requires_alias_national_commission"
+  ],
+  "related_concepts": [
+    "relationship.alias_district_commission_requires_alias_national_commission"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commission",
+      "requires",
+      "national",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "delay",
+      "postponement"
+    ],
+    "user_queries": [
+      "What is district commission requires national commission?",
+      "How does district commission requires national commission work?",
+      "Can you explain district commission requires national commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

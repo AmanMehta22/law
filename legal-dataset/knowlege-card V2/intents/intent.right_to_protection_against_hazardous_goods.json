@@ -5,20 +5,43 @@
   "description": "Natural language queries a user may ask about: Right to Protection against Hazardous Goods",
   "content": {
     "queries": [
-      "what are my rights against hazardous products"
+      "What protection do I have as a consumer against hazardous goods?",
+      "How can I identify if a product is hazardous to my health?",
+      "What are my rights if I purchase a product that is later found to be hazardous?",
+      "Can I sue a manufacturer for selling hazardous goods?",
+      "How does the law protect me from buying products that can harm me?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-9",
-    "right.right_to_protection_against_hazardous_goods"
+    "right.right_to_protection_against_hazardous_goods",
+    "alias.right_to_protection_against_hazardous_goods"
   ],
   "related_concepts": [
-    "right.right_to_protection_against_hazardous_goods"
+    "alias.right_to_protection_against_hazardous_goods"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "right",
+      "protection",
+      "against",
+      "hazardous",
+      "goods",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "right to safety"
+    ],
+    "user_queries": [
+      "what are my rights against hazardous products",
+      "What is consumer rights?",
+      "How does consumer rights work?",
+      "Can you explain consumer rights?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

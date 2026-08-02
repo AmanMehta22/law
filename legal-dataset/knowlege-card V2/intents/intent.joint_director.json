@@ -5,9 +5,11 @@
   "description": "Natural language queries a user may ask about: Joint Director",
   "content": {
     "queries": [
-      "What is joint director?",
-      "How does joint director work?",
-      "Can you explain joint director?"
+      "What is the role of a Joint Director in Unfair Trade Practice?",
+      "How does a Joint Director work?",
+      "Can you explain the role of a Joint Director?",
+      "What is the purpose of a Joint Director?",
+      "How does a Joint Director apply to Unfair Trade Practice?"
     ]
   },
   "derived_from": [
@@ -15,15 +17,37 @@
     "CPA2019-CH3-S15-3",
     "CPA2019-CH3-S15-4",
     "CPA2019-CH8-S95",
-    "authority.joint_director"
+    "authority.joint_director",
+    "alias.joint_director"
   ],
   "related_concepts": [
-    "authority.joint_director"
+    "alias.joint_director"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "joint",
+      "director",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Alternate Director-General",
+      "Assistant Director-General",
+      "Deputy Director-General",
+      "Extra Director-General",
+      "Supplemental Director-General"
+    ],
+    "user_queries": [
+      "What is control and supervision exception?",
+      "How does control and supervision exception work?",
+      "Can you explain control and supervision exception?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

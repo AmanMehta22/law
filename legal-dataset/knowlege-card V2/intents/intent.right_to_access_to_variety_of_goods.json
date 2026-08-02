@@ -5,20 +5,43 @@
   "description": "Natural language queries a user may ask about: Right to Access to Variety of Goods",
   "content": {
     "queries": [
-      "can I get different options for a product"
+      "What is the right to access to variety of goods?",
+      "How does the right to access to variety of goods work?",
+      "Can you explain the concept of the right to access to variety of goods?",
+      "What are the benefits of the right to access to variety of goods?",
+      "How does the right to access to variety of goods help consumers?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-9",
-    "right.right_to_access_to_variety_of_goods"
+    "right.right_to_access_to_variety_of_goods",
+    "alias.right_to_access_to_variety_of_goods"
   ],
   "related_concepts": [
-    "right.right_to_access_to_variety_of_goods"
+    "alias.right_to_access_to_variety_of_goods"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "right",
+      "access",
+      "variety",
+      "goods",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "right to choice"
+    ],
+    "user_queries": [
+      "can I get different options for a product",
+      "What is consumer rights?",
+      "How does consumer rights work?",
+      "Can you explain consumer rights?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

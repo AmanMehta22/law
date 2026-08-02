@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.declaration_of_contract_terms_as_null_and_void",
   "concept_type": "intent",
-  "title": "Questions about Declaration of contract terms as null and void",
-  "description": "Natural language queries a user may ask about: Declaration of contract terms as null and void",
+  "title": "Questions about Declaration Of Contract Terms As Null And Void",
+  "description": "Natural language queries a user may ask about: Declaration Of Contract Terms As Null And Void",
   "content": {
     "queries": [
-      "What happens to unfair contract terms?"
+      "What happens when a contract term is declared null and void?",
+      "Can a consumer claim refund if a contract term is declared null and void?",
+      "How does the declaration of contract terms as null and void affect the consumer?",
+      "What are the consequences of a contract term being declared null and void?",
+      "Can a consumer appeal against a declaration of contract terms as null and void?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S59-2",
-    "remedy.declaration_of_contract_terms_as_null_and_void"
+    "remedy.declaration_of_contract_terms_as_null_and_void",
+    "alias.declaration_of_contract_terms_as_null_and_void"
   ],
   "related_concepts": [
-    "remedy.declaration_of_contract_terms_as_null_and_void"
+    "alias.declaration_of_contract_terms_as_null_and_void"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "declaration",
+      "contract",
+      "terms",
+      "null",
+      "void",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "cancellation of unfair terms"
+    ],
+    "user_queries": [
+      "What happens to unfair contract terms?",
+      "What is declaration of contract terms as null and void?",
+      "How does declaration of contract terms as null and void work?",
+      "Can you explain declaration of contract terms as null and void?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

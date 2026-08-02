@@ -5,7 +5,11 @@
   "description": "Natural language queries a user may ask about: Central Government",
   "content": {
     "queries": [
-      "consumer rights"
+      "What are the roles of the Central Government in accounts and audit reports?",
+      "How does the Central Government handle audit reports?",
+      "Can the Central Government explain the process of accounts and audit?",
+      "What are the responsibilities of the Central Government regarding financial accounts?",
+      "How does the Central Government ensure transparency in accounts and audit reports?"
     ]
   },
   "derived_from": [
@@ -50,15 +54,34 @@
     "CPA2019-CH8-S94",
     "CPA2019-CH8-S99-1",
     "CPA2019-CH8-S99-2",
-    "authority.central_government"
+    "authority.central_government",
+    "alias.central_government"
   ],
   "related_concepts": [
-    "authority.central_government"
+    "alias.central_government"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "government",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Central Govt"
+    ],
+    "user_queries": [
+      "consumer rights",
+      "What is accounts and audit reports?",
+      "How does accounts and audit reports work?",
+      "Can you explain accounts and audit reports?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

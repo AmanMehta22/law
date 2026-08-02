@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.director_general_4",
+  "concept_type": "intent",
+  "title": "Questions about Director-General",
+  "description": "Natural language queries a user may ask about: Director-General",
+  "content": {
+    "queries": [
+      "What are the roles of a Director-General in the Consumer Protection Act?",
+      "How is a Director-General appointed under the Consumer Protection Act?",
+      "Can a Director-General take action against a company for consumer protection violations?",
+      "What powers does a Director-General have in enforcing consumer protection laws?",
+      "Is the Director-General responsible for investigating consumer complaints?"
+    ]
+  },
+  "derived_from": [
+    "definition.director_general",
+    "example.director_general"
+  ],
+  "related_concepts": [
+    "example.director_general"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "director",
+      "general",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Main Official",
+      "Chief Director"
+    ],
+    "user_queries": [
+      "What is director-general?",
+      "How does director-general work?",
+      "Can you explain director-general?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

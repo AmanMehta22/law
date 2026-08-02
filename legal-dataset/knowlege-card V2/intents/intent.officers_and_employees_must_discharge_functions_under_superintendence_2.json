@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Officers and employees must discharge functions under superintendence",
   "content": {
     "queries": [
+      "District Commission duties",
       "What is officers and employees must discharge functions under superintendence?",
       "How does officers and employees must discharge functions under superintendence work?",
       "Can you explain officers and employees must discharge functions under superintendence?"
     ]
   },
   "derived_from": [
-    "CPA2019-CH4-S57-2",
-    "obligation.officers_and_other_employees_of_the_national_commission_disc"
+    "CPA2019-CH4-S33-2",
+    "obligation.officers_and_other_employees_of_the_district_commission_disc"
   ],
   "related_concepts": [
-    "obligation.officers_and_other_employees_of_the_national_commission_disc"
+    "obligation.officers_and_other_employees_of_the_district_commission_disc"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "officers",
+      "employees",
+      "discharge",
+      "functions",
+      "superintendence",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "officers",
+      "employees"
+    ],
+    "user_queries": [
+      "What is officers and employees must discharge functions under superintendence?",
+      "How does officers and employees must discharge functions under superintendence work?",
+      "Can you explain officers and employees must discharge functions under superintendence?",
+      "District Commission duties"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

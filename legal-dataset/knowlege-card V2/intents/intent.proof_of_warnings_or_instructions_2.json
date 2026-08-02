@@ -5,22 +5,45 @@
   "description": "Natural language queries a user may ask about: Proof of warnings or instructions",
   "content": {
     "queries": [
+      "What are the consequences for sellers who fail to provide proof of warnings or instructions?",
+      "Can consumers request proof of warnings or instructions after purchasing a product?",
+      "Is proof of warnings or instructions necessary for products that are considered safe?",
+      "How does proof of warnings or instructions impact product liability cases?",
+      "Are there any industry standards for proof of warnings or instructions that sellers must follow?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH6-S86",
+    "evidence.warning_or_instruction_records_documentation_of_warnings_or_"
+  ],
+  "related_concepts": [
+    "evidence.warning_or_instruction_records_documentation_of_warnings_or_"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "proof",
+      "warnings",
+      "instructions",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "damages",
+      "reparation"
+    ],
+    "user_queries": [
+      "What is complainant under influence exception?",
+      "How does complainant under influence exception work?",
+      "Can you explain complainant under influence exception?",
       "What is proof of warnings or instructions?",
       "How does proof of warnings or instructions work?",
       "Can you explain proof of warnings or instructions?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH6-S87-2",
-    "evidence.warnings_or_instructions_provided_to_employer_warnings_or_in"
-  ],
-  "related_concepts": [
-    "evidence.warnings_or_instructions_provided_to_employer_warnings_or_in"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

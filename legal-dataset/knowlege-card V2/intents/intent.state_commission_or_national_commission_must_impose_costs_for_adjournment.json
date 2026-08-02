@@ -1,24 +1,45 @@
 {
   "concept_id": "intent.state_commission_or_national_commission_must_impose_costs_for_adjournment",
   "concept_type": "intent",
-  "title": "Questions about State Commission or National Commission must impose costs for adjournment",
-  "description": "Natural language queries a user may ask about: State Commission or National Commission must impose costs for adjournment",
+  "title": "Questions about State Commission Or National Commission Must Impose Costs For Adjournment",
+  "description": "Natural language queries a user may ask about: State Commission Or National Commission Must Impose Costs For Adjournment",
   "content": {
     "queries": [
-      "what are the costs for adjournment"
+      "What is state commission or national commission must impose costs for adjournment?",
+      "How does state commission or national commission must impose costs for adjournment work?",
+      "Can you explain state commission or national commission must impose costs for adjournment?"
     ]
   },
   "derived_from": [
     "CPA2019-CH8-S103-2",
-    "obligation.state_commission_or_national_commission_must_impose_costs_fo"
+    "obligation.state_commission_or_national_commission_must_impose_costs_fo",
+    "alias.state_commission_or_national_commission_must_impose_costs_for_adjournment"
   ],
   "related_concepts": [
-    "obligation.state_commission_or_national_commission_must_impose_costs_fo"
+    "alias.state_commission_or_national_commission_must_impose_costs_for_adjournment"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "state",
+      "commission",
+      "national",
+      "impose",
+      "costs",
+      "adjournment",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "costs for delay"
+    ],
+    "user_queries": [
+      "what are the costs for adjournment",
+      "What is state commission or national commission must impose costs for adjournment?",
+      "How does state commission or national commission must impose costs for adjournment work?",
+      "Can you explain state commission or national commission must impose costs for adjournment?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

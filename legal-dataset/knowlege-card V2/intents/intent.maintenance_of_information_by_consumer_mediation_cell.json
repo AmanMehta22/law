@@ -5,21 +5,44 @@
   "description": "Natural language queries a user may ask about: Maintenance of information by consumer mediation cell",
   "content": {
     "queries": [
-      "How do I file maintenance of information by consumer mediation cell?",
-      "What are the steps for maintenance of information by consumer mediation cell?"
+      "What is the purpose of the consumer mediation cell?",
+      "How does the consumer mediation cell maintain information?",
+      "Can you explain the process of maintaining information by the consumer mediation cell?",
+      "What is the role of the consumer mediation cell in maintaining information?",
+      "How does the maintenance of information by the consumer mediation cell work?"
     ]
   },
   "derived_from": [
     "CPA2019-CH8-S103-2",
-    "procedure.maintenance_of_information_by_consumer_mediation_cell"
+    "procedure.maintenance_of_information_by_consumer_mediation_cell",
+    "alias.maintenance_of_information_by_consumer_mediation_cell"
   ],
   "related_concepts": [
-    "procedure.maintenance_of_information_by_consumer_mediation_cell"
+    "alias.maintenance_of_information_by_consumer_mediation_cell"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "maintenance",
+      "information",
+      "consumer",
+      "mediation",
+      "cell",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "adjournment cost",
+      "cost imposition by district commission",
+      "district commission cost"
+    ],
+    "user_queries": [
+      "What is maintenance of information by consumer mediation cell?",
+      "How does maintenance of information by consumer mediation cell work?",
+      "Can you explain maintenance of information by consumer mediation cell?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

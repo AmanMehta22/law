@@ -1,0 +1,61 @@
+{
+  "concept_id": "intent.financial_capacity_2",
+  "concept_type": "intent",
+  "title": "Questions about Financial capacity",
+  "description": "Natural language queries a user may ask about: Financial capacity",
+  "content": {
+    "queries": [
+      "How does financial capacity impact the liability of a product seller?",
+      "Can a consumer's financial capacity influence the amount of compensation they receive?",
+      "Are there any financial capacity thresholds that must be met to pursue a consumer protection claim?",
+      "How is financial capacity verified in a consumer protection dispute?",
+      "Do financial capacity assessments vary depending on the type of consumer product involved?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-37",
+    "exception.does_not_include_a_person_who_acts_only_in_a_financial_capac"
+  ],
+  "related_concepts": [
+    "exception.does_not_include_a_person_who_acts_only_in_a_financial_capac"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "financial",
+      "capacity",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Merchant",
+      "Retailer",
+      "Supplier",
+      "Vendor",
+      "Wholesaler",
+      "seller",
+      "supplier",
+      "vendor"
+    ],
+    "user_queries": [
+      "What is financial capacity?",
+      "How does financial capacity work?",
+      "Can you explain financial capacity?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

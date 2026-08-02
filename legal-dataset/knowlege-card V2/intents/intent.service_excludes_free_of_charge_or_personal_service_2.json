@@ -1,0 +1,58 @@
+{
+  "concept_id": "intent.service_excludes_free_of_charge_or_personal_service_2",
+  "concept_type": "intent",
+  "title": "Questions about Service excludes free of charge or personal service",
+  "description": "Natural language queries a user may ask about: Service excludes free of charge or personal service",
+  "content": {
+    "queries": [
+      "What is service excludes free of charge or personal service?",
+      "How does service excludes free of charge or personal service work?",
+      "Can you explain service excludes free of charge or personal service?",
+      "What is service?",
+      "How does service work?",
+      "Can you explain service?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-42",
+    "exception.does_not_include_the_rendering_of_any_service_free_of_charge"
+  ],
+  "related_concepts": [
+    "exception.does_not_include_the_rendering_of_any_service_free_of_charge"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "service",
+      "excludes",
+      "free",
+      "charge",
+      "personal",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "excluded services"
+    ],
+    "user_queries": [
+      "What is service excludes free of charge or personal service?",
+      "How does service excludes free of charge or personal service work?",
+      "Can you explain service excludes free of charge or personal service?",
+      "What is service?",
+      "How does service work?",
+      "Can you explain service?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

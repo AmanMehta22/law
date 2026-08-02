@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Service",
   "content": {
     "queries": [
-      "What is considered a service under the law?",
-      "What are examples of services?",
-      "Is a free service still considered a service?"
+      "What constitutes a service under the Consumer Protection Act?",
+      "How does the Act define service in relation to consumer rights?",
+      "Can a service provider be held liable for deficiency in service?",
+      "What are the responsibilities of a service provider towards consumers?",
+      "Does the Act cover all types of services, including online services?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-42",
-    "definition.service"
+    "definition.service",
+    "alias.service"
   ],
   "related_concepts": [
-    "definition.service"
+    "alias.service"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "service",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "how"
+    ],
+    "aliases": [
+      "facility",
+      "provision"
+    ],
+    "user_queries": [
+      "What is service?",
+      "How does service work?",
+      "Can you explain service?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

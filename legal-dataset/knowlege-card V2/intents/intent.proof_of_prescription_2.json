@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.proof_of_prescription_2",
+  "concept_type": "intent",
+  "title": "Questions about Proof of prescription",
+  "description": "Natural language queries a user may ask about: Proof of prescription",
+  "content": {
+    "queries": [
+      "What are the requirements for a valid prescription proof?",
+      "Can a prescription be used as proof of purchase?",
+      "How long is a prescription valid for?",
+      "What happens if I lose my prescription proof?",
+      "Is a digital prescription valid as proof?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH6-S87-2",
+    "evidence.prescription_from_a_medical_practitioner"
+  ],
+  "related_concepts": [
+    "evidence.prescription_from_a_medical_practitioner"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "proof",
+      "prescription",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "exception to product liability"
+    ],
+    "user_queries": [
+      "What is complainant under influence exception?",
+      "How does complainant under influence exception work?",
+      "Can you explain complainant under influence exception?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

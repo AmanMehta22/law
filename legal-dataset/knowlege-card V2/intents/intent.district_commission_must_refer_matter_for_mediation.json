@@ -1,24 +1,48 @@
 {
   "concept_id": "intent.district_commission_must_refer_matter_for_mediation",
   "concept_type": "intent",
-  "title": "Questions about District Commission must refer matter for mediation",
-  "description": "Natural language queries a user may ask about: District Commission must refer matter for mediation",
+  "title": "Questions about District Commission Must Refer Matter For Mediation",
+  "description": "Natural language queries a user may ask about: District Commission Must Refer Matter For Mediation",
   "content": {
     "queries": [
-      "What happens after parties agree to mediation?"
+      "When is a district commission required to refer a matter for mediation?",
+      "What are the benefits of referring a matter for mediation?",
+      "Can a district commission refuse to refer a matter for mediation?",
+      "What is the process for referring a matter for mediation?",
+      "How does mediation help in resolving consumer disputes?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S37-2",
-    "obligation.district_commission_must_refer_matter_for_mediation"
+    "obligation.district_commission_must_refer_matter_for_mediation",
+    "alias.district_commission_must_refer_matter_for_mediation"
   ],
   "related_concepts": [
-    "obligation.district_commission_must_refer_matter_for_mediation"
+    "alias.district_commission_must_refer_matter_for_mediation"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commission",
+      "refer",
+      "matter",
+      "mediation",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "alternative dispute resolution",
+      "consumer mediation"
+    ],
+    "user_queries": [
+      "What happens after parties agree to mediation?",
+      "What is district commission must refer matter for mediation?",
+      "How does district commission must refer matter for mediation work?",
+      "Can you explain district commission must refer matter for mediation?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

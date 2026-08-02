@@ -1,24 +1,45 @@
 {
   "concept_id": "intent.central_government_must_make_rules_for_chief_commissioner_and_commissioners",
   "concept_type": "intent",
-  "title": "Questions about Central Government must make rules for Chief Commissioner and Commissioners",
-  "description": "Natural language queries a user may ask about: Central Government must make rules for Chief Commissioner and Commissioners",
+  "title": "Questions about Central Government Must Make Rules For Chief Commissioner And Commissioners",
+  "description": "Natural language queries a user may ask about: Central Government Must Make Rules For Chief Commissioner And Commissioners",
   "content": {
     "queries": [
-      "What are the rules for Chief Commissioner and Commissioners?"
+      "What is central government must make rules for chief commissioner and commissioners?",
+      "How does central government must make rules for chief commissioner and commissioners work?",
+      "Can you explain central government must make rules for chief commissioner and commissioners?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S11",
-    "obligation.central_government_make_rules_for_the_qualifications_appoint"
+    "obligation.central_government_make_rules_for_the_qualifications_appoint",
+    "alias.central_government_must_make_rules_for_chief_commissioner_and_commissioners"
   ],
   "related_concepts": [
-    "obligation.central_government_make_rules_for_the_qualifications_appoint"
+    "alias.central_government_must_make_rules_for_chief_commissioner_and_commissioners"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "government",
+      "make",
+      "rules",
+      "chief",
+      "commissioner",
+      "commissioners",
+      "natural"
+    ],
+    "aliases": [
+      "Central Authority"
+    ],
+    "user_queries": [
+      "What are the rules for Chief Commissioner and Commissioners?",
+      "What is central government must make rules for chief commissioner and commissioners?",
+      "How does central government must make rules for chief commissioner and commissioners work?",
+      "Can you explain central government must make rules for chief commissioner and commissioners?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -11,16 +11,38 @@
     ]
   },
   "derived_from": [
-    "CPA2019-CH4-S39-4",
-    "exception.shall_also_be_signed_by_the_other_member"
+    "alias.signature_of_order_by_members"
   ],
   "related_concepts": [
-    "exception.shall_also_be_signed_by_the_other_member"
+    "alias.signature_of_order_by_members"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "signature",
+      "order",
+      "members",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "authenticated order",
+      "member signature",
+      "order approval",
+      "signed order"
+    ],
+    "user_queries": [
+      "What is signature of order by members?",
+      "How does signature of order by members work?",
+      "Can you explain signature of order by members?",
+      "What is district commission president and member must sign order?",
+      "How does district commission president and member must sign order work?",
+      "Can you explain district commission president and member must sign order?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

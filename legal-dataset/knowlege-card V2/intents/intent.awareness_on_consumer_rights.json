@@ -5,21 +5,46 @@
   "description": "Natural language queries a user may ask about: Awareness on Consumer Rights",
   "content": {
     "queries": [
-      "How do I file awareness on consumer rights?",
-      "What are the steps for awareness on consumer rights?"
+      "What are my rights as a consumer under the Consumer Protection Act?",
+      "How can I stay informed about my consumer rights?",
+      "What is the importance of awareness on consumer rights?",
+      "Can awareness on consumer rights help prevent fraud?",
+      "Are there any specific laws that protect consumer rights?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S18-2",
-    "procedure.awareness_on_consumer_rights"
+    "procedure.awareness_on_consumer_rights",
+    "alias.awareness_on_consumer_rights"
   ],
   "related_concepts": [
-    "procedure.awareness_on_consumer_rights"
+    "alias.awareness_on_consumer_rights"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "awareness",
+      "consumer",
+      "rights",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "advice on consumer welfare",
+      "advising on consumer welfare",
+      "consumer rights guidance",
+      "consumer welfare advice",
+      "consumer welfare measures"
+    ],
+    "user_queries": [
+      "What is advising on consumer welfare measures?",
+      "How does advising on consumer welfare measures work?",
+      "Can you explain advising on consumer welfare measures?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

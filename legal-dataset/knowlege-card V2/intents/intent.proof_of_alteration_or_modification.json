@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Proof of alteration or modification",
   "content": {
     "queries": [
+      "What kind of documentation is required as proof of alteration or modification of a product?",
+      "Can a consumer request proof of alteration or modification from a manufacturer?",
+      "How does proof of alteration or modification affect the warranty of a product?",
+      "Is proof of alteration or modification necessary for a product recall?",
+      "Can proof of alteration or modification be used as evidence in a product liability lawsuit?"
+    ]
+  },
+  "derived_from": [
+    "alias.proof_of_alteration_or_modification"
+  ],
+  "related_concepts": [
+    "alias.proof_of_alteration_or_modification"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "proof",
+      "alteration",
+      "modification",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "alteration record",
+      "evidence of change",
+      "modification proof"
+    ],
+    "user_queries": [
       "What is proof of alteration or modification?",
       "How does proof of alteration or modification work?",
       "Can you explain proof of alteration or modification?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH6-S86",
-    "evidence.records_of_alteration_or_modification"
-  ],
-  "related_concepts": [
-    "evidence.records_of_alteration_or_modification"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

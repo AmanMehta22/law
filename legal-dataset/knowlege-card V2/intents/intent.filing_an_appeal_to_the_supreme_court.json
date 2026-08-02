@@ -5,21 +5,47 @@
   "description": "Natural language queries a user may ask about: Filing an appeal to the Supreme Court",
   "content": {
     "queries": [
-      "How do I file filing an appeal to the supreme court?",
-      "What are the steps for filing an appeal to the supreme court?"
+      "What are the steps to file an appeal to the Supreme Court?",
+      "Can I file an appeal to the Supreme Court on my own?",
+      "What is the process of filing an appeal to the Supreme Court after a lower court decision?",
+      "How long does it take to file an appeal to the Supreme Court?",
+      "What are the requirements for filing an appeal to the Supreme Court?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S67",
-    "procedure.filing_an_appeal_to_the_supreme_court"
+    "procedure.filing_an_appeal_to_the_supreme_court",
+    "alias.filing_an_appeal_to_the_supreme_court"
   ],
   "related_concepts": [
-    "procedure.filing_an_appeal_to_the_supreme_court"
+    "alias.filing_an_appeal_to_the_supreme_court"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "filing",
+      "appeal",
+      "supreme",
+      "court",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "appeal deadline",
+      "filing appeal",
+      "opposite party response",
+      "time limit for appeal",
+      "time limit for application",
+      "time to respond"
+    ],
+    "user_queries": [
+      "What is filing an appeal to the supreme court?",
+      "How does filing an appeal to the supreme court work?",
+      "Can you explain filing an appeal to the supreme court?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

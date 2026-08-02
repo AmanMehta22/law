@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.bench_constitution_2",
+  "concept_type": "intent",
+  "title": "Questions about Bench Constitution",
+  "description": "Natural language queries a user may ask about: Bench Constitution",
+  "content": {
+    "queries": [
+      "What are the implications of the bench constitution on the jurisdiction of the consumer commission?",
+      "How does the bench constitution affect the appointment of members to the consumer bench?",
+      "Can the bench constitution be used to challenge the decisions of the consumer commission?",
+      "What is the relationship between the bench constitution and the rules governing consumer protection in India?",
+      "How does the bench constitution contribute to the overall framework of consumer dispute resolution in India?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S58-2",
+    "exception.a_bench_may_be_constituted_by_the_president_with_one_or_more"
+  ],
+  "related_concepts": [
+    "exception.a_bench_may_be_constituted_by_the_president_with_one_or_more"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "bench",
+      "constitution",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Central Commission",
+      "Central Consumer Protection Council",
+      "NCDRC",
+      "National Consumer Commission",
+      "National Consumer Disputes Redressal Commission",
+      "National Consumer Protection Agency"
+    ],
+    "user_queries": [
+      "What is bench constitution?",
+      "How does bench constitution work?",
+      "Can you explain bench constitution?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

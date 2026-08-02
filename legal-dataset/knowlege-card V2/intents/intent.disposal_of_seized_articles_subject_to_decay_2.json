@@ -1,0 +1,58 @@
+{
+  "concept_id": "intent.disposal_of_seized_articles_subject_to_decay_2",
+  "concept_type": "intent",
+  "title": "Questions about Disposal of seized articles subject to decay",
+  "description": "Natural language queries a user may ask about: Disposal of seized articles subject to decay",
+  "content": {
+    "queries": [
+      "Under what circumstances can a director-general or officer dispose of seized articles subject to decay?",
+      "What is the procedure for disposing of seized articles that are at risk of decay?",
+      "Can seized articles subject to decay be disposed of by anyone other than a director-general or officer?",
+      "How does the disposal of seized articles subject to decay protect consumers?",
+      "What happens to seized articles that are subject to decay if they are not disposed of promptly?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S22-4",
+    "procedure.disposal_of_seized_articles_subject_to_decay"
+  ],
+  "related_concepts": [
+    "procedure.disposal_of_seized_articles_subject_to_decay"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "disposal",
+      "seized",
+      "articles",
+      "subject",
+      "decay",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "Chief Director",
+      "DG",
+      "Director General of Consumer Affairs",
+      "Head of Consumer Protection",
+      "Main Official"
+    ],
+    "user_queries": [
+      "What is director-general or officer must dispose of seized articles?",
+      "How does director-general or officer must dispose of seized articles work?",
+      "Can you explain director-general or officer must dispose of seized articles?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

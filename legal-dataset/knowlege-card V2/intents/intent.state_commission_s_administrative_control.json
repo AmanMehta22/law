@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: State Commission's administrative control",
   "content": {
     "queries": [
+      "What are the limits of the State Commission's administrative control over consumer disputes?",
+      "How does the State Commission's administrative control impact the handling of consumer complaints?",
+      "Can the State Commission's administrative control be challenged in a court of law?",
+      "What role does the State Commission's administrative control play in ensuring consumer protection?",
+      "Are there any checks and balances on the State Commission's administrative control to prevent abuse of power?"
+    ]
+  },
+  "derived_from": [
+    "alias.state_commission_s_administrative_control"
+  ],
+  "related_concepts": [
+    "alias.state_commission_s_administrative_control"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "state",
+      "commission",
+      "administrative",
+      "control",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "administrative authority",
+      "control and regulation",
+      "state commission governance",
+      "state commission management"
+    ],
+    "user_queries": [
       "What is state commission's administrative control?",
       "How does state commission's administrative control work?",
       "Can you explain state commission's administrative control?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S70-3",
-    "obligation.state_commission_shall_have_administrative_control"
-  ],
-  "related_concepts": [
-    "obligation.state_commission_shall_have_administrative_control"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

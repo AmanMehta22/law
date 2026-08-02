@@ -11,16 +11,37 @@
     ]
   },
   "derived_from": [
-    "CPA2019-CH4-S36-2",
-    "exception.a_complaint_shall_not_be_rejected_unless_an_opportunity_of_b"
+    "alias.complaint_rejection_exception"
   ],
   "related_concepts": [
-    "exception.a_complaint_shall_not_be_rejected_unless_an_opportunity_of_b"
+    "alias.complaint_rejection_exception"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "complaint",
+      "rejection",
+      "exception",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "complaint exclusion",
+      "dismissal exception",
+      "rejection exemption"
+    ],
+    "user_queries": [
+      "What is complaint rejection exception?",
+      "How does complaint rejection exception work?",
+      "Can you explain complaint rejection exception?",
+      "What is admissibility decision time limit?",
+      "How does admissibility decision time limit work?",
+      "Can you explain admissibility decision time limit?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

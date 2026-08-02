@@ -1,0 +1,58 @@
+{
+  "concept_id": "intent.government_must_credit_penalty_and_amount_to_fund_2",
+  "concept_type": "intent",
+  "title": "Questions about Government must credit penalty and amount to fund",
+  "description": "Natural language queries a user may ask about: Government must credit penalty and amount to fund",
+  "content": {
+    "queries": [
+      "What are the consequences for the government if it fails to credit the penalty and amount to the fund?",
+      "How does the government ensure transparency in crediting penalties and amounts to the fund?",
+      "Can you provide examples of situations where the government must credit a penalty and amount to the fund?",
+      "What is the role of the consumer protection authority in overseeing the crediting of penalties and amounts to the fund?",
+      "How does the government notify the public about the crediting of penalties and amounts to the fund?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S97",
+    "obligation.government_must_credit_penalty_and_amount_to_fund"
+  ],
+  "related_concepts": [
+    "obligation.government_must_credit_penalty_and_amount_to_fund"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "government",
+      "credit",
+      "penalty",
+      "amount",
+      "fund",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "appeal to national commission",
+      "appeal to national consumer commission",
+      "national appeal",
+      "national commission",
+      "national commission appeal"
+    ],
+    "user_queries": [
+      "What is government must credit penalty and amount to fund?",
+      "How does government must credit penalty and amount to fund work?",
+      "Can you explain government must credit penalty and amount to fund?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

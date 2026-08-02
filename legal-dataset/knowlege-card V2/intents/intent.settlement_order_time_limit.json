@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Settlement order time limit",
   "content": {
     "queries": [
+      "What is the time limit for applying for a settlement order?",
+      "Can the time limit for a settlement order be extended or shortened?",
+      "How does the settlement order time limit affect the parties' ability to negotiate a settlement?",
+      "What happens if a settlement order is not complied with within the time limit?",
+      "Can a court impose a settlement order with a time limit that is shorter than the standard time limit?"
+    ]
+  },
+  "derived_from": [
+    "alias.settlement_order_time_limit"
+  ],
+  "related_concepts": [
+    "alias.settlement_order_time_limit"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "settlement",
+      "order",
+      "time",
+      "limit",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "order implementation timeline",
+      "settlement deadline",
+      "settlement order timeframe",
+      "settlement period"
+    ],
+    "user_queries": [
       "What is settlement order time limit?",
       "How does settlement order time limit work?",
       "Can you explain settlement order time limit?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH5-S81-1",
-    "timeline.seven_days"
-  ],
-  "related_concepts": [
-    "timeline.seven_days"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

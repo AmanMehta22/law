@@ -5,21 +5,43 @@
   "description": "Natural language queries a user may ask about: Issuance of directions to discontinue or modify advertisement",
   "content": {
     "queries": [
-      "How do I file issuance of directions to discontinue or modify advertisement?",
-      "What are the steps for issuance of directions to discontinue or modify advertisement?"
+      "What is the process for issuing directions to discontinue or modify an advertisement?",
+      "Can the authorities issue directions to an advertiser to modify their advertisement?",
+      "How does an advertiser receive directions to discontinue or modify an advertisement?",
+      "What are the consequences for an advertiser that fails to comply with directions to discontinue or modify an advertisement?",
+      "Is the issuance of directions to discontinue or modify an advertisement a formal or informal process?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S21-1",
-    "procedure.issuance_of_directions_to_discontinue_or_modify_advertisemen"
+    "procedure.issuance_of_directions_to_discontinue_or_modify_advertisemen",
+    "alias.issuance_of_directions_to_discontinue_or_modify_advertisement"
   ],
   "related_concepts": [
-    "procedure.issuance_of_directions_to_discontinue_or_modify_advertisemen"
+    "alias.issuance_of_directions_to_discontinue_or_modify_advertisement"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "issuance",
+      "directions",
+      "discontinue",
+      "modify",
+      "advertisement",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "endorser responsibilities",
+      "manufacturer duties"
+    ],
+    "user_queries": [
+      "What is advertiser must discontinue or modify advertisement?",
+      "How does advertiser must discontinue or modify advertisement work?",
+      "Can you explain advertiser must discontinue or modify advertisement?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

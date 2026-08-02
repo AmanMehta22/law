@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Report of analysis or test",
   "content": {
     "queries": [
+      "What is the purpose of a report of analysis or test in consumer complaints?",
+      "How is a report of analysis or test used in consumer dispute resolution?",
+      "Can a consumer request a report of analysis or test for a defective product?",
+      "What information should be included in a report of analysis or test?",
+      "Is a report of analysis or test mandatory for certain types of consumer complaints?"
+    ]
+  },
+  "derived_from": [
+    "alias.report_of_analysis_or_test"
+  ],
+  "related_concepts": [
+    "alias.report_of_analysis_or_test"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "report",
+      "analysis",
+      "test",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "analysis report",
+      "examination findings",
+      "test results"
+    ],
+    "user_queries": [
       "What is report of analysis or test?",
       "How does report of analysis or test work?",
       "Can you explain report of analysis or test?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S38-9",
-    "evidence.report_of_analysis_or_test"
-  ],
-  "related_concepts": [
-    "evidence.report_of_analysis_or_test"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

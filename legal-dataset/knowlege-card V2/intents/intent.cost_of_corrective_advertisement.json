@@ -5,21 +5,43 @@
   "description": "Natural language queries a user may ask about: Cost of corrective advertisement",
   "content": {
     "queries": [
-      "What is the punishment for cost of corrective advertisement?",
-      "What happens if I commit cost of corrective advertisement?"
+      "Who bears the cost of corrective advertisement?",
+      "How is the cost of corrective advertisement determined?",
+      "What is the purpose of a corrective advertisement?",
+      "Can a company be forced to pay for a corrective advertisement?",
+      "How does the cost of corrective advertisement relate to consumer protection?"
     ]
   },
   "derived_from": [
-    "CPA2019-CH4-S39-1",
-    "penalty.issuing_misleading_advertisement"
+    "alias.cost_of_corrective_advertisement"
   ],
   "related_concepts": [
-    "penalty.issuing_misleading_advertisement"
+    "alias.cost_of_corrective_advertisement"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "cost",
+      "corrective",
+      "advertisement",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "corrective advertising cost",
+      "cost of rectification advertisement",
+      "expense of corrective notice",
+      "price of corrective publicity"
+    ],
+    "user_queries": [
+      "What is cost of corrective advertisement?",
+      "How does cost of corrective advertisement work?",
+      "Can you explain cost of corrective advertisement?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

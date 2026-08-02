@@ -5,20 +5,43 @@
   "description": "Natural language queries a user may ask about: Subsequent Contravention",
   "content": {
     "queries": [
-      "what happens if an endorser violates the rule again"
+      "What constitutes a subsequent contravention under the Consumer Protection Act?",
+      "How does the central authority determine if a contravention is subsequent?",
+      "What are the consequences of a subsequent contravention?",
+      "Can a subsequent contravention be considered for a prohibition?",
+      "How does the central authority handle multiple subsequent contraventions?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S21-3",
-    "exception.the_central_authority_may_prohibit_such_endorser_from_making"
+    "exception.the_central_authority_may_prohibit_such_endorser_from_making",
+    "alias.subsequent_contravention"
   ],
   "related_concepts": [
-    "exception.the_central_authority_may_prohibit_such_endorser_from_making"
+    "alias.subsequent_contravention"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "subsequent",
+      "contravention",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "repeat offense"
+    ],
+    "user_queries": [
+      "what happens if an endorser violates the rule again",
+      "What is central authority must consider prohibition?",
+      "How does central authority must consider prohibition work?",
+      "Can you explain central authority must consider prohibition?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

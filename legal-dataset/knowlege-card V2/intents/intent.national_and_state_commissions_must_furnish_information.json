@@ -1,26 +1,46 @@
 {
   "concept_id": "intent.national_and_state_commissions_must_furnish_information",
   "concept_type": "intent",
-  "title": "Questions about National and State Commissions must furnish information",
-  "description": "Natural language queries a user may ask about: National and State Commissions must furnish information",
+  "title": "Questions about National And State Commissions Must Furnish Information",
+  "description": "Natural language queries a user may ask about: National And State Commissions Must Furnish Information",
   "content": {
     "queries": [
-      "What is national and state commissions must furnish information?",
-      "How does national and state commissions must furnish information work?",
-      "Can you explain national and state commissions must furnish information?"
+      "What information must the National and State Commissions provide to consumers?",
+      "How do the National and State Commissions ensure that information is accurate and up-to-date?",
+      "Can I request specific information from the National or State Commissions?",
+      "What is the process for the National and State Commissions to furnish information to consumers?",
+      "Are there any limitations on the type of information that the National and State Commissions must provide?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S70-4",
-    "obligation.national_commission_and_the_state_commissions_shall_furnish_"
+    "obligation.national_commission_and_the_state_commissions_shall_furnish_",
+    "alias.national_and_state_commissions_must_furnish_information"
   ],
   "related_concepts": [
-    "obligation.national_commission_and_the_state_commissions_shall_furnish_"
+    "alias.national_and_state_commissions_must_furnish_information"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "national",
+      "state",
+      "commissions",
+      "furnish",
+      "information",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "reporting requirement"
+    ],
+    "user_queries": [
+      "What is information?",
+      "How does information work?",
+      "Can you explain information?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

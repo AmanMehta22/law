@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Design of a Product",
   "content": {
     "queries": [
-      "What is meant by design of a product?",
-      "What are the characteristics of a product design?",
-      "How is design defined in consumer protection law?"
+      "What factors are considered when evaluating the design of a product?",
+      "How does the design of a product impact its safety and functionality?",
+      "Can a product's design be considered defective if it causes harm to a consumer?",
+      "What role does design play in determining product liability?",
+      "How can a consumer determine if a product's design is flawed or inadequate?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-12",
-    "definition.design"
+    "definition.design",
+    "alias.design_of_a_product"
   ],
   "related_concepts": [
-    "definition.design"
+    "alias.design_of_a_product"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "design",
+      "product",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "product specification",
+      "product features"
+    ],
+    "user_queries": [
+      "What is design of a product?",
+      "How does design of a product work?",
+      "Can you explain design of a product?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

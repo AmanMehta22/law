@@ -5,22 +5,46 @@
   "description": "Natural language queries a user may ask about: Harm in Product Liability",
   "content": {
     "queries": [
-      "What is harm in product liability?",
-      "What kind of damage is considered harm?",
-      "Can harm include financial losses?"
+      "What constitutes harm in the context of product liability under the Consumer Protection Act?",
+      "How is harm to the product itself distinguished from harm to the consumer or others?",
+      "Can a consumer claim damages for harm caused by a product that is not defective, but has caused injury or loss due to its inherent nature?",
+      "What is the relationship between harm in product liability and the exclusion of certain losses, such as those related to the product itself?",
+      "How does the concept of harm in product liability impact the burden of proof in consumer protection cases?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-22",
-    "definition.harm"
+    "definition.harm",
+    "alias.harm_in_product_liability"
   ],
   "related_concepts": [
-    "definition.harm"
+    "alias.harm_in_product_liability"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "harm",
+      "product",
+      "liability",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "injury",
+      "damage"
+    ],
+    "user_queries": [
+      "What is harm in product liability?",
+      "How does harm in product liability work?",
+      "Can you explain harm in product liability?",
+      "What is exclusion of harm to product itself and certain losses?",
+      "How does exclusion of harm to product itself and certain losses work?",
+      "Can you explain exclusion of harm to product itself and certain losses?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

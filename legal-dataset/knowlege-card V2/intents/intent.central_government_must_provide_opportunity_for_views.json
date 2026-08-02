@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Central Government must provide opportunity for views",
   "content": {
     "queries": [
+      "What is the process for the Central Government to provide an opportunity for views?",
+      "How does the Central Government ensure that views are considered?",
+      "Can the Central Government deny an opportunity for views?",
+      "What are the consequences if the Central Government fails to provide an opportunity for views?",
+      "How can I submit my views to the Central Government?"
+    ]
+  },
+  "derived_from": [
+    "alias.central_government_must_provide_opportunity_for_views"
+  ],
+  "related_concepts": [
+    "alias.central_government_must_provide_opportunity_for_views"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "government",
+      "provide",
+      "opportunity",
+      "views",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "central government public hearing",
+      "public consultation",
+      "stakeholder feedback opportunity"
+    ],
+    "user_queries": [
       "What is central government must provide opportunity for views?",
       "How does central government must provide opportunity for views work?",
       "Can you explain central government must provide opportunity for views?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH8-S99-1",
-    "obligation.central_government_give_an_opportunity_to_express_views"
-  ],
-  "related_concepts": [
-    "obligation.central_government_give_an_opportunity_to_express_views"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

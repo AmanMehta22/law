@@ -5,21 +5,46 @@
   "description": "Natural language queries a user may ask about: Review of Consumer Rights",
   "content": {
     "queries": [
-      "How do I file review of consumer rights?",
-      "What are the steps for review of consumer rights?"
+      "How often are consumer rights reviewed under the Consumer Protection Act?",
+      "What is the process for reviewing consumer rights and ensuring they are up-to-date?",
+      "Can a consumer request a review of their rights if they feel they have been violated?",
+      "How does the review of consumer rights impact the development of new consumer protection policies?",
+      "Are there any specific criteria used to determine when a review of consumer rights is necessary?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S18-2",
-    "procedure.review_of_consumer_rights"
+    "procedure.review_of_consumer_rights",
+    "alias.review_of_consumer_rights"
   ],
   "related_concepts": [
-    "procedure.review_of_consumer_rights"
+    "alias.review_of_consumer_rights"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "review",
+      "consumer",
+      "rights",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "advice on consumer welfare",
+      "advising on consumer welfare",
+      "consumer rights guidance",
+      "consumer welfare advice",
+      "consumer welfare measures"
+    ],
+    "user_queries": [
+      "What is review of consumer rights?",
+      "How does review of consumer rights work?",
+      "Can you explain review of consumer rights?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

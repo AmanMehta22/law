@@ -1,0 +1,60 @@
+{
+  "concept_id": "intent.deficiency_2",
+  "concept_type": "intent",
+  "title": "Questions about Deficiency",
+  "description": "Natural language queries a user may ask about: Deficiency",
+  "content": {
+    "queries": [
+      "What is a deficiency in consumer protection?",
+      "What constitutes a deficiency in service quality?",
+      "How is deficiency defined under the Consumer Protection Act?",
+      "What is deficiency?",
+      "How does deficiency work?",
+      "Can you explain deficiency?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-11",
+    "definition.deficiency"
+  ],
+  "related_concepts": [
+    "definition.deficiency"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "deficiency",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "consumer"
+    ],
+    "aliases": [
+      "shortcoming",
+      "fault",
+      "inadequacy"
+    ],
+    "user_queries": [
+      "What is deficiency?",
+      "How does deficiency work?",
+      "Can you explain deficiency?",
+      "What is a deficiency in consumer protection?",
+      "What constitutes a deficiency in service quality?",
+      "How is deficiency defined under the Consumer Protection Act?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

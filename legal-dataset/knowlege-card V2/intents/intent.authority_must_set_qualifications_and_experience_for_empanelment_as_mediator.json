@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.authority_must_set_qualifications_and_experience_for_empanelment_as_mediator",
   "concept_type": "intent",
-  "title": "Questions about Authority must set qualifications and experience for empanelment as mediator",
-  "description": "Natural language queries a user may ask about: Authority must set qualifications and experience for empanelment as mediator",
+  "title": "Questions about Authority Must Set Qualifications And Experience For Empanelment As Mediator",
+  "description": "Natural language queries a user may ask about: Authority Must Set Qualifications And Experience For Empanelment As Mediator",
   "content": {
     "queries": [
-      "what are the requirements for empanelment"
+      "What qualifications must a mediator have to be empaneled by the Authority?",
+      "How much experience is required for empanelment as a mediator by the Authority?",
+      "Can the Authority set different qualifications for different types of mediators?",
+      "What is the process for setting qualifications and experience for empanelment as a mediator?",
+      "Are the qualifications and experience for empanelment as a mediator set by the Authority mandatory?"
     ]
   },
   "derived_from": [
     "CPA2019-CH8-S103-2",
-    "obligation.authority_must_set_qualifications_and_experience_for_empanel"
+    "obligation.authority_must_set_qualifications_and_experience_for_empanel",
+    "alias.authority_must_set_qualifications_and_experience_for_empanelment_as_mediator"
   ],
   "related_concepts": [
-    "obligation.authority_must_set_qualifications_and_experience_for_empanel"
+    "alias.authority_must_set_qualifications_and_experience_for_empanelment_as_mediator"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "authority",
+      "set",
+      "qualifications",
+      "experience",
+      "empanelment",
+      "mediator",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "eligibility criteria"
+    ],
+    "user_queries": [
+      "what are the requirements for empanelment",
+      "What is adjournment cost imposition by district commission?",
+      "How does adjournment cost imposition by district commission work?",
+      "Can you explain adjournment cost imposition by district commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

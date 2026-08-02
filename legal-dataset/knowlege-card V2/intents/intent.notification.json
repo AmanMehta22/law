@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Notification",
   "content": {
     "queries": [
-      "What is a notification in the Consumer Protection Act",
-      "How is a notification published",
-      "What is meant by notification in law"
+      "What is the purpose of notification under the Consumer Protection Act?",
+      "How does notification work in cases of product recalls?",
+      "Can a consumer receive notification for non-compliance with Central Authority direction?",
+      "What is the process for sending notifications to consumers?",
+      "Is notification mandatory for all consumer-related issues?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-30",
-    "definition.notification"
+    "definition.notification",
+    "alias.notification"
   ],
   "related_concepts": [
-    "definition.notification"
+    "alias.notification"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "notification",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "how"
+    ],
+    "aliases": [
+      "official announcement",
+      "public notification"
+    ],
+    "user_queries": [
+      "What is notification?",
+      "How does notification work?",
+      "Can you explain notification?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

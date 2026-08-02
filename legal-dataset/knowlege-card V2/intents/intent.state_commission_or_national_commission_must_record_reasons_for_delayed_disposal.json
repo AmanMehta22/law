@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: State Commission or National Commission must record reasons for delayed disposal",
   "content": {
     "queries": [
+      "What are the consequences if the State Commission or National Commission fails to record reasons for delayed disposal?",
+      "How long can the State Commission or National Commission delay disposal before recording reasons?",
+      "Can the State Commission or National Commission change the recorded reasons for delayed disposal later?",
+      "What kind of reasons are considered valid for delayed disposal by the State Commission or National Commission?",
+      "Are the recorded reasons for delayed disposal by the State Commission or National Commission made public?"
+    ]
+  },
+  "derived_from": [
+    "alias.state_commission_or_national_commission_must_record_reasons_for_delayed_disposal"
+  ],
+  "related_concepts": [
+    "alias.state_commission_or_national_commission_must_record_reasons_for_delayed_disposal"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "state",
+      "commission",
+      "national",
+      "record",
+      "reasons",
+      "delayed",
+      "disposal",
+      "natural"
+    ],
+    "aliases": [
+      "delay explanation required",
+      "documentation of delay",
+      "reasons for slow disposal",
+      "record delay reasons"
+    ],
+    "user_queries": [
       "What is state commission or national commission must record reasons for delayed disposal?",
       "How does state commission or national commission must record reasons for delayed disposal work?",
       "Can you explain state commission or national commission must record reasons for delayed disposal?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S52",
-    "obligation.state_commission_or_national_commission_must_record_reasons_"
-  ],
-  "related_concepts": [
-    "obligation.state_commission_or_national_commission_must_record_reasons_"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.district_commission_must_function_in_district_headquarters_2",
+  "concept_type": "intent",
+  "title": "Questions about District Commission must function in district headquarters",
+  "description": "Natural language queries a user may ask about: District Commission must function in district headquarters",
+  "content": {
+    "queries": [
+      "where does District Commission function",
+      "What is district commission must function in district headquarters?",
+      "How does district commission must function in district headquarters work?",
+      "Can you explain district commission must function in district headquarters?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S28-3",
+    "obligation.district_commission_shall_function_in_district_headquarters"
+  ],
+  "related_concepts": [
+    "obligation.district_commission_shall_function_in_district_headquarters"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commission",
+      "function",
+      "headquarters",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "operate",
+      "perform functions"
+    ],
+    "user_queries": [
+      "where does District Commission function",
+      "What is district commission must function in district headquarters?",
+      "How does district commission must function in district headquarters work?",
+      "Can you explain district commission must function in district headquarters?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

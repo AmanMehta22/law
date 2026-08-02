@@ -1,24 +1,46 @@
 {
   "concept_id": "intent.state_council_must_render_advice",
   "concept_type": "intent",
-  "title": "Questions about State Council must render advice",
-  "description": "Natural language queries a user may ask about: State Council must render advice",
+  "title": "Questions about State Council Must Render Advice",
+  "description": "Natural language queries a user may ask about: State Council Must Render Advice",
   "content": {
     "queries": [
-      "What is the role of State Council?"
+      "What is state council must render advice?",
+      "How does state council must render advice work?",
+      "Can you explain state council must render advice?"
     ]
   },
   "derived_from": [
     "CPA2019-CH2-S7",
-    "obligation.state_council_render_advice_on_promotion_and_protection_of_c"
+    "obligation.state_council_render_advice_on_promotion_and_protection_of_c",
+    "alias.state_council_must_render_advice"
   ],
   "related_concepts": [
-    "obligation.state_council_render_advice_on_promotion_and_protection_of_c"
+    "alias.state_council_must_render_advice"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "state",
+      "council",
+      "render",
+      "advice",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "advice",
+      "counsel"
+    ],
+    "user_queries": [
+      "What is the role of State Council?",
+      "What is state council must render advice?",
+      "How does state council must render advice work?",
+      "Can you explain state council must render advice?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

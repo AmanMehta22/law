@@ -1,24 +1,48 @@
 {
   "concept_id": "intent.consumer_mediation_cell_must_maintain_records",
   "concept_type": "intent",
-  "title": "Questions about Consumer Mediation Cell must maintain records",
-  "description": "Natural language queries a user may ask about: Consumer Mediation Cell must maintain records",
+  "title": "Questions about Consumer Mediation Cell Must Maintain Records",
+  "description": "Natural language queries a user may ask about: Consumer Mediation Cell Must Maintain Records",
   "content": {
     "queries": [
-      "what records must consumer mediation cell maintain"
+      "What kind of records must a consumer mediation cell maintain?",
+      "How long must a consumer mediation cell keep records of proceedings?",
+      "Can a consumer access the records maintained by a consumer mediation cell?",
+      "What information must be included in the records maintained by a consumer mediation cell?",
+      "Are the records maintained by a consumer mediation cell confidential?"
     ]
   },
   "derived_from": [
     "CPA2019-CH5-S74-4",
-    "obligation.consumer_mediation_cell_must_maintain_a_list_of_empanelled_m"
+    "obligation.consumer_mediation_cell_must_maintain_a_list_of_empanelled_m",
+    "alias.consumer_mediation_cell_must_maintain_records"
   ],
   "related_concepts": [
-    "obligation.consumer_mediation_cell_must_maintain_a_list_of_empanelled_m"
+    "alias.consumer_mediation_cell_must_maintain_records"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "consumer",
+      "mediation",
+      "cell",
+      "maintain",
+      "records",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "consumer mediation cell",
+      "cmc"
+    ],
+    "user_queries": [
+      "what records must consumer mediation cell maintain",
+      "What is consumer mediation cell must maintain records?",
+      "How does consumer mediation cell must maintain records work?",
+      "Can you explain consumer mediation cell must maintain records?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

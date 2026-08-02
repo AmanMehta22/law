@@ -1,0 +1,57 @@
+{
+  "concept_id": "intent.minimum_amount_of_sum_payable_limits_right_to_safety",
+  "concept_type": "intent",
+  "title": "Questions about Minimum amount of sum payable limits Right to Safety",
+  "description": "Natural language queries a user may ask about: Minimum amount of sum payable limits Right to Safety",
+  "content": {
+    "queries": [
+      "What is minimum amount of sum payable limits right to safety?",
+      "How does minimum amount of sum payable limits right to safety work?",
+      "Can you explain minimum amount of sum payable limits right to safety?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S39-1",
+    "relationship.exception_the_minimum_amount_of_sum_so_payable_shall_not_be_less_than__4"
+  ],
+  "related_concepts": [
+    "relationship.exception_the_minimum_amount_of_sum_so_payable_shall_not_be_less_than__4"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "minimum",
+      "amount",
+      "sum",
+      "payable",
+      "limits",
+      "right",
+      "safety",
+      "natural"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is minimum amount of sum payable limits right to safety?",
+      "How does minimum amount of sum payable limits right to safety work?",
+      "Can you explain minimum amount of sum payable limits right to safety?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

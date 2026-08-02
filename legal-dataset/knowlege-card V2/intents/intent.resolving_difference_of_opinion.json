@@ -5,21 +5,47 @@
   "description": "Natural language queries a user may ask about: Resolving Difference of Opinion",
   "content": {
     "queries": [
-      "How do I file resolving difference of opinion?",
-      "What are the steps for resolving difference of opinion?"
+      "What is the time frame for a member to give their opinion?",
+      "How long does a member have to provide an opinion in a dispute?",
+      "Can a member take more than a month to give their opinion?",
+      "What happens if a member doesn't give their opinion within a month?",
+      "Is there a penalty for not providing an opinion within the given time frame?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S39-3",
-    "procedure.resolving_difference_of_opinion"
+    "procedure.resolving_difference_of_opinion",
+    "alias.resolving_difference_of_opinion"
   ],
   "related_concepts": [
-    "procedure.resolving_difference_of_opinion"
+    "alias.resolving_difference_of_opinion"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "resolving",
+      "difference",
+      "opinion",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is member must give opinion within a month?",
+      "How does member must give opinion within a month work?",
+      "Can you explain member must give opinion within a month?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,0 +1,56 @@
+{
+  "concept_id": "intent.right_to_return_of_seized_or_produced_documents_2",
+  "concept_type": "intent",
+  "title": "Questions about Right to Return of Seized or Produced Documents",
+  "description": "Natural language queries a user may ask about: Right to Return of Seized or Produced Documents",
+  "content": {
+    "queries": [
+      "What is right to return of seized or produced documents?",
+      "How does right to return of seized or produced documents work?",
+      "Can you explain right to return of seized or produced documents?"
+    ]
+  },
+  "derived_from": [
+    "right.right_to_return_of_seized_or_produced_documents",
+    "example.right_to_return_of_seized_or_produced_documents"
+  ],
+  "related_concepts": [
+    "example.right_to_return_of_seized_or_produced_documents"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "right",
+      "return",
+      "seized",
+      "produced",
+      "documents",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "right to retrieval of documents"
+    ],
+    "user_queries": [
+      "What happens to documents seized under the Consumer Protection Act?",
+      "What is copies of documents, records or articles?",
+      "How does copies of documents, records or articles work?",
+      "Can you explain copies of documents, records or articles?",
+      "What is right to return of seized or produced documents?",
+      "How does right to return of seized or produced documents work?",
+      "Can you explain right to return of seized or produced documents?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Exercise of powers and discharge of functions by certain officials",
   "content": {
     "queries": [
+      "Who has the power to exercise functions under the Consumer Protection Act?",
+      "What are the limitations on the discharge of functions by certain officials?",
+      "Can certain officials delegate their powers to others?",
+      "How do certain officials ensure they are acting within their powers?",
+      "What are the consequences for officials who exceed their powers?"
+    ]
+  },
+  "derived_from": [
+    "alias.exercise_of_powers_and_discharge_of_functions_by_certain_officials"
+  ],
+  "related_concepts": [
+    "alias.exercise_of_powers_and_discharge_of_functions_by_certain_officials"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "exercise",
+      "powers",
+      "discharge",
+      "functions",
+      "certain",
+      "officials",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "exercise of authority by officials",
+      "official duties and responsibilities",
+      "official powers and functions"
+    ],
+    "user_queries": [
       "What is exercise of powers and discharge of functions by certain officials?",
       "How does exercise of powers and discharge of functions by certain officials work?",
       "Can you explain exercise of powers and discharge of functions by certain officials?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH3-S15-3",
-    "obligation.additional_director_general_director_joint_director_deputy_d"
-  ],
-  "related_concepts": [
-    "obligation.additional_director_general_director_joint_director_deputy_d"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

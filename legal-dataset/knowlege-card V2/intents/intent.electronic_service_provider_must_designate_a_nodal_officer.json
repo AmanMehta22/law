@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Electronic Service Provider must designate a nodal officer",
   "content": {
     "queries": [
+      "Why is it necessary for an electronic service provider to designate a nodal officer?",
+      "What are the responsibilities of a nodal officer in an electronic service provider company?",
+      "How can I contact the nodal officer of an electronic service provider?",
+      "What happens if an electronic service provider fails to designate a nodal officer?",
+      "Can the nodal officer of an electronic service provider help me with my complaint?"
+    ]
+  },
+  "derived_from": [
+    "alias.electronic_service_provider_must_designate_a_nodal_officer"
+  ],
+  "related_concepts": [
+    "alias.electronic_service_provider_must_designate_a_nodal_officer"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "electronic",
+      "service",
+      "provider",
+      "designate",
+      "nodal",
+      "officer",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "csp",
+      "csp nodal officer",
+      "electronic service provider nodal officer"
+    ],
+    "user_queries": [
       "What is electronic service provider must designate a nodal officer?",
       "How does electronic service provider must designate a nodal officer work?",
       "Can you explain electronic service provider must designate a nodal officer?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S65-2",
-    "obligation.electronic_service_provider_shall_designate_a_nodal_officer_"
-  ],
-  "related_concepts": [
-    "obligation.electronic_service_provider_shall_designate_a_nodal_officer_"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

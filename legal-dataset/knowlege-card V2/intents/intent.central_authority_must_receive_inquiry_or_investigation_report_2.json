@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.central_authority_must_receive_inquiry_or_investigation_report_2",
+  "concept_type": "intent",
+  "title": "Questions about Central Authority must receive inquiry or investigation report",
+  "description": "Natural language queries a user may ask about: Central Authority must receive inquiry or investigation report",
+  "content": {
+    "queries": [
+      "what are the obligations of Director-General",
+      "What is central authority must receive inquiry or investigation report?",
+      "How does central authority must receive inquiry or investigation report work?",
+      "Can you explain central authority must receive inquiry or investigation report?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S104-2",
+    "obligation.director_general_shall_submit_inquiries_or_investigation_mad"
+  ],
+  "related_concepts": [
+    "obligation.director_general_shall_submit_inquiries_or_investigation_mad"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "authority",
+      "receive",
+      "inquiry",
+      "investigation",
+      "report",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "submission of report"
+    ],
+    "user_queries": [
+      "what are the obligations of Director-General",
+      "What is central authority must receive inquiry or investigation report?",
+      "How does central authority must receive inquiry or investigation report work?",
+      "Can you explain central authority must receive inquiry or investigation report?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

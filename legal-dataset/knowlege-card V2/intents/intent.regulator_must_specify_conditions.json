@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Regulator must specify conditions",
   "content": {
     "queries": [
+      "What conditions must the regulator specify for consumer protection?",
+      "How does the regulator ensure that specified conditions are enforced?",
+      "Can the regulator change the conditions over time, and if so, how?",
+      "What happens if the regulator fails to specify conditions as required?",
+      "Are the conditions specified by the regulator available for public review?"
+    ]
+  },
+  "derived_from": [
+    "alias.regulator_must_specify_conditions"
+  ],
+  "related_concepts": [
+    "alias.regulator_must_specify_conditions"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "regulator",
+      "specify",
+      "conditions",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "regulator's conditions",
+      "regulatory conditions",
+      "specifying regulations"
+    ],
+    "user_queries": [
       "What is regulator must specify conditions?",
       "How does regulator must specify conditions work?",
       "Can you explain regulator must specify conditions?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH5-S75-3",
-    "obligation.regulator_must_specify_conditions_for_re_empanelment_of_medi"
-  ],
-  "related_concepts": [
-    "obligation.regulator_must_specify_conditions_for_re_empanelment_of_medi"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

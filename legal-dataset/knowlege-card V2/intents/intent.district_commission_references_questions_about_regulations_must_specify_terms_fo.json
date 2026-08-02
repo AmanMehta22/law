@@ -1,0 +1,57 @@
+{
+  "concept_id": "intent.district_commission_references_questions_about_regulations_must_specify_terms_fo",
+  "concept_type": "intent",
+  "title": "Questions about District Commission references Questions about Regulations must specify terms for mediator empanelment",
+  "description": "Natural language queries a user may ask about: District Commission references Questions about Regulations must specify terms for mediator empanelment",
+  "content": {
+    "queries": [
+      "What terms must be specified by regulations for mediator empanelment in a district commission?",
+      "How do district commission references to regulations ensure transparency in mediator selection?",
+      "Can district commissions modify the terms specified by regulations for mediator empanelment?",
+      "What role do regulations play in ensuring that district commissions select qualified mediators?",
+      "Are there specific regulations that district commissions must follow when empaneling mediators?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S75-2",
+    "CPA2019-CH8-S103-2",
+    "relationship.alias_district_commission_references_intent_regulations_must_specify_t"
+  ],
+  "related_concepts": [
+    "relationship.alias_district_commission_references_intent_regulations_must_specify_t"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commission",
+      "references",
+      "regulations",
+      "specify",
+      "terms",
+      "mediator",
+      "empanelment"
+    ],
+    "aliases": [
+      "adjournment cost",
+      "cost imposition by district commission",
+      "district commission cost"
+    ],
+    "user_queries": [
+      "What is district commission references questions about regulations must specify terms for mediator empanelment?",
+      "How does district commission references questions about regulations must specify terms for mediator empanelment work?",
+      "Can you explain district commission references questions about regulations must specify terms for mediator empanelment?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

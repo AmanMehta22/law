@@ -11,16 +11,38 @@
     ]
   },
   "derived_from": [
-    "CPA2019-CH6-S86",
-    "evidence.notice_or_process_records_service_records"
+    "alias.proof_of_service_of_notice_or_process"
   ],
   "related_concepts": [
-    "evidence.notice_or_process_records_service_records"
+    "alias.proof_of_service_of_notice_or_process"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "proof",
+      "service",
+      "notice",
+      "process",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "delivery confirmation",
+      "notice proof",
+      "process serving evidence",
+      "service proof"
+    ],
+    "user_queries": [
+      "What is product seller must exercise reasonable care?",
+      "How does product seller must exercise reasonable care work?",
+      "Can you explain product seller must exercise reasonable care?",
+      "What is proof of service of notice or process?",
+      "How does proof of service of notice or process work?",
+      "Can you explain proof of service of notice or process?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

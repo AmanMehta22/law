@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.monitoring_performance_of_state_commissions_2",
+  "concept_type": "intent",
+  "title": "Questions about Monitoring performance of State Commissions",
+  "description": "Natural language queries a user may ask about: Monitoring performance of State Commissions",
+  "content": {
+    "queries": [
+      "How does National Commission monitor State Commissions",
+      "What is copies of documents?",
+      "How does copies of documents work?",
+      "Can you explain copies of documents?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S70-1",
+    "procedure.monitoring_performance_of_state_commissions"
+  ],
+  "related_concepts": [
+    "procedure.monitoring_performance_of_state_commissions"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "monitoring",
+      "performance",
+      "state",
+      "commissions",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "oversight"
+    ],
+    "user_queries": [
+      "How does National Commission monitor State Commissions",
+      "What is copies of documents?",
+      "How does copies of documents work?",
+      "Can you explain copies of documents?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

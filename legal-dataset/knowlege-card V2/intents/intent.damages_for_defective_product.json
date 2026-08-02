@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.damages_for_defective_product",
+  "concept_type": "intent",
+  "title": "Questions about Damages for Defective Product",
+  "description": "Natural language queries a user may ask about: Damages for Defective Product",
+  "content": {
+    "queries": [
+      "What is damages for defective product?",
+      "How does damages for defective product work?",
+      "Can you explain damages for defective product?"
+    ]
+  },
+  "derived_from": [
+    "remedy.damages",
+    "example.damages_for_defective_product"
+  ],
+  "related_concepts": [
+    "example.damages_for_defective_product"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "damages",
+      "defective",
+      "product",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "compensation rights",
+      "refund rights",
+      "reimbursement rights",
+      "right to claim damages",
+      "right to damages",
+      "right to redress",
+      "right to remedy",
+      "right to reparation"
+    ],
+    "user_queries": [
+      "What is damages for defective product?",
+      "How does damages for defective product work?",
+      "Can you explain damages for defective product?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Unfair Contract",
   "content": {
     "queries": [
-      "what is an unfair contract",
-      "what makes a contract unfair",
-      "how to identify an unfair contract"
+      "What constitutes an unfair contract under the Consumer Protection Act?",
+      "How can I determine if a contract is unfair or not?",
+      "What are the consequences of entering into an unfair contract?",
+      "Can a consumer cancel an unfair contract?",
+      "What are the key elements of an unfair contract that I should be aware of?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-46",
-    "definition.unfair_contract"
+    "definition.unfair_contract",
+    "alias.unfair_contract"
   ],
   "related_concepts": [
-    "definition.unfair_contract"
+    "alias.unfair_contract"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "unfair",
+      "contract",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "unconscionable contract",
+      "one-sided contract"
+    ],
+    "user_queries": [
+      "What is unfair contract?",
+      "How does unfair contract work?",
+      "Can you explain unfair contract?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,0 +1,58 @@
+{
+  "concept_id": "intent.district_commission_references_questions_about_term_of_office",
+  "concept_type": "intent",
+  "title": "Questions about District Commission references Questions about Term of office",
+  "description": "Natural language queries a user may ask about: District Commission references Questions about Term of office",
+  "content": {
+    "queries": [
+      "What is the term of office for a District Commission member?",
+      "How long does a District Commission reference about term of office take to resolve?",
+      "Can a District Commission reference about term of office be appealed?",
+      "What are the grounds for a District Commission reference about term of office?",
+      "How does a District Commission reference about term of office affect the consumer's case?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S75-3",
+    "CPA2019-CH8-S103-2",
+    "relationship.alias_district_commission_references_intent_term_of_office"
+  ],
+  "related_concepts": [
+    "relationship.alias_district_commission_references_intent_term_of_office"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commission",
+      "references",
+      "term",
+      "office",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "panel re-appointment",
+      "re-eligibility",
+      "re-qualification",
+      "re-selection criteria"
+    ],
+    "user_queries": [
+      "What is district commission references questions about term of office?",
+      "How does district commission references questions about term of office work?",
+      "Can you explain district commission references questions about term of office?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

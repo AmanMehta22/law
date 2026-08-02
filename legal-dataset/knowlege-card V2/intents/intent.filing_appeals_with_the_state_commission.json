@@ -5,21 +5,44 @@
   "description": "Natural language queries a user may ask about: Filing appeals with the State Commission",
   "content": {
     "queries": [
-      "How do I file filing appeals with the state commission?",
-      "What are the steps for filing appeals with the state commission?"
+      "What is the procedure for filing an appeal against a district commission order?",
+      "How long do I have to file an appeal with the State Commission?",
+      "What are the grounds for filing an appeal with the State Commission?",
+      "Can I file an appeal with the State Commission online?",
+      "What are the fees for filing an appeal with the State Commission?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S47-1",
-    "procedure.filing_appeals_with_the_state_commission"
+    "procedure.filing_appeals_with_the_state_commission",
+    "alias.filing_appeals_with_the_state_commission"
   ],
   "related_concepts": [
-    "procedure.filing_appeals_with_the_state_commission"
+    "alias.filing_appeals_with_the_state_commission"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "filing",
+      "appeals",
+      "state",
+      "commission",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "calling for records",
+      "calling for records and passing orders",
+      "records and orders"
+    ],
+    "user_queries": [
+      "What is calling for records and passing orders?",
+      "How does calling for records and passing orders work?",
+      "Can you explain calling for records and passing orders?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,0 +1,56 @@
+{
+  "concept_id": "intent.furnishing_information_handled_by_state_commission",
+  "concept_type": "intent",
+  "title": "Questions about Furnishing information handled by State Commission",
+  "description": "Natural language queries a user may ask about: Furnishing information handled by State Commission",
+  "content": {
+    "queries": [
+      "What is furnishing information handled by state commission?",
+      "How does furnishing information handled by state commission work?",
+      "Can you explain furnishing information handled by state commission?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S101-2",
+    "relationship.procedure_furnishing_information_handled_by_authority_state_commission"
+  ],
+  "related_concepts": [
+    "relationship.procedure_furnishing_information_handled_by_authority_state_commission"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "furnishing",
+      "information",
+      "handled",
+      "state",
+      "commission",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "appeal to national commission",
+      "appeal to national consumer commission",
+      "national appeal",
+      "national commission",
+      "national commission appeal"
+    ],
+    "user_queries": [
+      "What is furnishing information handled by state commission?",
+      "How does furnishing information handled by state commission work?",
+      "Can you explain furnishing information handled by state commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

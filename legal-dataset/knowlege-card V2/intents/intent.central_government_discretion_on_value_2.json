@@ -1,0 +1,61 @@
+{
+  "concept_id": "intent.central_government_discretion_on_value_2",
+  "concept_type": "intent",
+  "title": "Questions about Central Government discretion on value",
+  "description": "Natural language queries a user may ask about: Central Government discretion on value",
+  "content": {
+    "queries": [
+      "How does the Central Government decide on the value of a product or service?",
+      "What factors influence Central Government discretion on value?",
+      "Can the Central Government change its discretion on value after it's been set?",
+      "How does Central Government discretion on value affect consumer rights?",
+      "Is Central Government discretion on value applicable to all consumer goods?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S58-1",
+    "exception.the_central_government_may_prescribe_a_different_value_as_it"
+  ],
+  "related_concepts": [
+    "exception.the_central_government_may_prescribe_a_different_value_as_it"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "government",
+      "discretion",
+      "value",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is central government discretion on value?",
+      "How does central government discretion on value work?",
+      "Can you explain central government discretion on value?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

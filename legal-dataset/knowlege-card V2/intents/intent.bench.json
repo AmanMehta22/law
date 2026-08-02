@@ -5,22 +5,44 @@
   "description": "Natural language queries a user may ask about: Bench",
   "content": {
     "queries": [
-      "What is bench?",
-      "How does bench work?",
-      "Can you explain bench?"
+      "What is the composition of a Bench under the Consumer Protection Act?",
+      "How are members of a Bench selected?",
+      "What are the powers and functions of a Bench?",
+      "Can a Bench review decisions made by the Central Authority?",
+      "How does a Bench ensure fairness and transparency in its proceedings?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S47-2",
-    "authority.bench"
+    "authority.bench",
+    "alias.bench"
   ],
   "related_concepts": [
-    "authority.bench"
+    "alias.bench"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "bench",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "how"
+    ],
+    "aliases": [
+      "Court Bench",
+      "Judicial Bench",
+      "Tribunal"
+    ],
+    "user_queries": [
+      "What is bench?",
+      "How does bench work?",
+      "Can you explain bench?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

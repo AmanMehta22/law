@@ -1,24 +1,48 @@
 {
   "concept_id": "intent.national_commission_must_investigate_allegations_against_state_commission_member",
   "concept_type": "intent",
-  "title": "Questions about National Commission must investigate allegations against State Commission members",
-  "description": "Natural language queries a user may ask about: National Commission must investigate allegations against State Commission members",
+  "title": "Questions about National Commission Must Investigate Allegations Against State Commission Members",
+  "description": "Natural language queries a user may ask about: National Commission Must Investigate Allegations Against State Commission Members",
   "content": {
     "queries": [
-      "What happens when allegations are made against State Commission members?"
+      "What happens when allegations are made against a State Commission member?",
+      "How does the National Commission investigate allegations against State Commission members?",
+      "Can you explain the procedure for investigating allegations against State Commission members?",
+      "What are the grounds for investigating allegations against a State Commission member?",
+      "What are the potential outcomes of an investigation into allegations against a State Commission member?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S70-1",
-    "obligation.national_commission_shall_investigate_into_any_allegations_a"
+    "obligation.national_commission_shall_investigate_into_any_allegations_a",
+    "alias.national_commission_must_investigate_allegations_against_state_commission_member"
   ],
   "related_concepts": [
-    "obligation.national_commission_shall_investigate_into_any_allegations_a"
+    "alias.national_commission_must_investigate_allegations_against_state_commission_member"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "national",
+      "commission",
+      "investigate",
+      "allegations",
+      "against",
+      "state",
+      "members",
+      "natural"
+    ],
+    "aliases": [
+      "State Commission members",
+      "accountability"
+    ],
+    "user_queries": [
+      "What happens when allegations are made against State Commission members?",
+      "What is copies of documents?",
+      "How does copies of documents work?",
+      "Can you explain copies of documents?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

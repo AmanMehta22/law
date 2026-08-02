@@ -1,24 +1,48 @@
 {
   "concept_id": "intent.mediator_must_disclose_other_facts_specified_by_regulations",
   "concept_type": "intent",
-  "title": "Questions about Mediator must disclose other facts specified by regulations",
-  "description": "Natural language queries a user may ask about: Mediator must disclose other facts specified by regulations",
+  "title": "Questions about Mediator Must Disclose Other Facts Specified By Regulations",
+  "description": "Natural language queries a user may ask about: Mediator Must Disclose Other Facts Specified By Regulations",
   "content": {
     "queries": [
-      "What else must a mediator disclose?"
+      "What other facts must a mediator disclose according to regulations?",
+      "How do regulations specify the disclosure of facts by a mediator?",
+      "Can a mediator refuse to disclose certain facts specified by regulations?",
+      "What are the consequences for a mediator who fails to disclose facts as specified by regulations?",
+      "Do regulations require a mediator to disclose facts about their relationship with parties involved?"
     ]
   },
   "derived_from": [
     "CPA2019-CH5-S77",
-    "obligation.mediator_must_disclose_such_other_facts_as_may_be_specified_"
+    "obligation.mediator_must_disclose_such_other_facts_as_may_be_specified_",
+    "alias.mediator_must_disclose_other_facts_specified_by_regulations"
   ],
   "related_concepts": [
-    "obligation.mediator_must_disclose_such_other_facts_as_may_be_specified_"
+    "alias.mediator_must_disclose_other_facts_specified_by_regulations"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "mediator",
+      "disclose",
+      "other",
+      "facts",
+      "specified",
+      "regulations",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "reveal",
+      "declare"
+    ],
+    "user_queries": [
+      "What else must a mediator disclose?",
+      "What is district commission references mediator must disclose circumstances affecting independence or impartiality?",
+      "How does district commission references mediator must disclose circumstances affecting independence or impartiality work?",
+      "Can you explain district commission references mediator must disclose circumstances affecting independence or impartiality?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.national_consumer_disputes_redressal_commission_2",
+  "concept_type": "intent",
+  "title": "Questions about National Consumer Disputes Redressal Commission",
+  "description": "Natural language queries a user may ask about: National Consumer Disputes Redressal Commission",
+  "content": {
+    "queries": [
+      "What is the National Commission for consumers?",
+      "How do I file a complaint with the National Commission?",
+      "What is the role of the National Commission in consumer protection?",
+      "Can I appeal to the National Commission for a consumer dispute?",
+      "What is the process for filing a complaint with the National Commission?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-29",
+    "CPA2019-CH4-S53-1",
+    "authority.national_consumer_disputes_redressal_commission"
+  ],
+  "related_concepts": [
+    "authority.national_consumer_disputes_redressal_commission"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "national",
+      "consumer",
+      "disputes",
+      "redressal",
+      "commission",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "National Commission"
+    ],
+    "user_queries": [
+      "What is the National Commission for consumers?",
+      "How do I file a complaint with the National Commission?",
+      "What is the role of the National Commission in consumer protection?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

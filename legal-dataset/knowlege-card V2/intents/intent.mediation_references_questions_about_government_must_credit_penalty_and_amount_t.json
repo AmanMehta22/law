@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.mediation_references_questions_about_government_must_credit_penalty_and_amount_t",
+  "concept_type": "intent",
+  "title": "Questions about Mediation references Questions about Government must credit penalty and amount to fund",
+  "description": "Natural language queries a user may ask about: Mediation references Questions about Government must credit penalty and amount to fund",
+  "content": {
+    "queries": [
+      "How does mediation address disputes related to the government's crediting of penalties and amounts to the fund?",
+      "Can mediation be used to resolve issues with the government's crediting process?",
+      "What is the role of mediation in ensuring the government credits penalties and amounts to the fund?",
+      "How does the mediation process handle cases where the government has failed to credit penalties and amounts to the fund?",
+      "What are the benefits of using mediation to resolve disputes related to the government's crediting of penalties and amounts to the fund?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S101-2",
+    "CPA2019-CH8-S97",
+    "relationship.alias_mediation_references_intent_government_must_credit_penalty_and_a"
+  ],
+  "related_concepts": [
+    "relationship.alias_mediation_references_intent_government_must_credit_penalty_and_a"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "mediation",
+      "references",
+      "government",
+      "credit",
+      "penalty",
+      "amount",
+      "fund",
+      "natural"
+    ],
+    "aliases": [
+      "appeal to national commission",
+      "appeal to national consumer commission",
+      "national appeal",
+      "national commission",
+      "national commission appeal"
+    ],
+    "user_queries": [
+      "What is government must credit penalty and amount to fund?",
+      "How does government must credit penalty and amount to fund work?",
+      "Can you explain government must credit penalty and amount to fund?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

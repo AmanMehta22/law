@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.proof_of_express_warranty_3",
+  "concept_type": "intent",
+  "title": "Questions about Proof of express warranty",
+  "description": "Natural language queries a user may ask about: Proof of express warranty",
+  "content": {
+    "queries": [
+      "What are the requirements for a product service provider to conform to express warranty or contract terms?",
+      "Can a product service provider be held liable for not conforming to express warranty or contract terms?",
+      "How does a consumer prove that a product service provider has not conformed to express warranty or contract terms?",
+      "What are the consequences for a product service provider that fails to conform to express warranty or contract terms?",
+      "Is it necessary for a product service provider to provide proof of express warranty or contract terms to the consumer?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH6-S85",
+    "evidence.warranty"
+  ],
+  "related_concepts": [
+    "evidence.warranty"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "proof",
+      "express",
+      "warranty",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "damages",
+      "reparation"
+    ],
+    "user_queries": [
+      "What is product service provider must conform to express warranty or contract terms?",
+      "How does product service provider must conform to express warranty or contract terms work?",
+      "Can you explain product service provider must conform to express warranty or contract terms?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

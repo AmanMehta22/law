@@ -1,0 +1,62 @@
+{
+  "concept_id": "intent.commissioner_2",
+  "concept_type": "intent",
+  "title": "Questions about Commissioner",
+  "description": "Natural language queries a user may ask about: Commissioner",
+  "content": {
+    "queries": [
+      "What are the responsibilities of the chief commissioner in exercising general superintendence?",
+      "How does the chief commissioner ensure general superintendence over the commission?",
+      "Can the chief commissioner delegate the power of general superintendence to others?",
+      "What is the role of the chief commissioner in overseeing the commission's activities?",
+      "How does the chief commissioner's general superintendence impact consumer protection?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S14-2",
+    "CPA2019-CH8-S98",
+    "authority.commissioner"
+  ],
+  "related_concepts": [
+    "authority.commissioner"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "commissioner",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "chief"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is chief commissioner must exercise general superintendence?",
+      "How does chief commissioner must exercise general superintendence work?",
+      "Can you explain chief commissioner must exercise general superintendence?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

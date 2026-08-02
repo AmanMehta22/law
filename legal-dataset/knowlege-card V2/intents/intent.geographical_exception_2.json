@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.geographical_exception_2",
+  "concept_type": "intent",
+  "title": "Questions about Geographical Exception",
+  "description": "Natural language queries a user may ask about: Geographical Exception",
+  "content": {
+    "queries": [
+      "What are the implications of geographical exception on consumer contracts?",
+      "How does geographical exception affect the jurisdiction of consumer courts?",
+      "Can a consumer claim relief under the Act if geographical exception is invoked?",
+      "Is geographical exception a factor in determining the applicability of consumer protection laws?",
+      "How does geographical exception influence the enforcement of consumer rights in border regions?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S1-2",
+    "exception.except_the_state_of_jammu_and_kashmir"
+  ],
+  "related_concepts": [
+    "exception.except_the_state_of_jammu_and_kashmir"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "geographical",
+      "exception",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "India except Jammu and Kashmir"
+    ],
+    "user_queries": [
+      "What is geographical exception?",
+      "How does geographical exception work?",
+      "Can you explain geographical exception?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

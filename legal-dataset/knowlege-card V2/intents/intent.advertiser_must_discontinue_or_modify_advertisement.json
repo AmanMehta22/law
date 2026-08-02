@@ -1,24 +1,48 @@
 {
   "concept_id": "intent.advertiser_must_discontinue_or_modify_advertisement",
   "concept_type": "intent",
-  "title": "Questions about Advertiser must discontinue or modify advertisement",
-  "description": "Natural language queries a user may ask about: Advertiser must discontinue or modify advertisement",
+  "title": "Questions about Advertiser Must Discontinue Or Modify Advertisement",
+  "description": "Natural language queries a user may ask about: Advertiser Must Discontinue Or Modify Advertisement",
   "content": {
     "queries": [
-      "What are the obligations of an advertiser regarding false advertisements?"
+      "Under what circumstances must an advertiser discontinue an advertisement?",
+      "Can a court order an advertiser to modify or discontinue an advertisement?",
+      "What are the consequences for an advertiser that fails to discontinue a misleading advertisement?",
+      "How can a consumer request that an advertiser modify or discontinue an advertisement?",
+      "What is the process for reviewing and enforcing orders to discontinue or modify advertisements?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S21-1",
-    "obligation.advertiser_must_discontinue_or_modify_advertisement_as_direc"
+    "obligation.advertiser_must_discontinue_or_modify_advertisement_as_direc",
+    "alias.advertiser_must_discontinue_or_modify_advertisement"
   ],
   "related_concepts": [
-    "obligation.advertiser_must_discontinue_or_modify_advertisement_as_direc"
+    "alias.advertiser_must_discontinue_or_modify_advertisement"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "advertiser",
+      "discontinue",
+      "modify",
+      "advertisement",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "manufacturer duties",
+      "endorser responsibilities"
+    ],
+    "user_queries": [
+      "What are the obligations of an advertiser regarding false advertisements?",
+      "What is advertiser must discontinue or modify advertisement?",
+      "How does advertiser must discontinue or modify advertisement work?",
+      "Can you explain advertiser must discontinue or modify advertisement?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

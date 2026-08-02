@@ -1,0 +1,58 @@
+{
+  "concept_id": "intent.district_commission_requires_questions_about_term_of_office",
+  "concept_type": "intent",
+  "title": "Questions about District Commission requires Questions about Term of office",
+  "description": "Natural language queries a user may ask about: District Commission requires Questions about Term of office",
+  "content": {
+    "queries": [
+      "What are the requirements for a District Commission to consider a term of office question?",
+      "How does a District Commission determine the term of office for its members?",
+      "Can a consumer approach a District Commission directly with a term of office question?",
+      "What is the process for a District Commission to address a term of office question?",
+      "Are there any specific rules that govern a District Commission's term of office questions?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S75-3",
+    "CPA2019-CH8-S103-2",
+    "relationship.alias_district_commission_requires_intent_term_of_office"
+  ],
+  "related_concepts": [
+    "relationship.alias_district_commission_requires_intent_term_of_office"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commission",
+      "requires",
+      "term",
+      "office",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "panel re-appointment",
+      "re-eligibility",
+      "re-qualification",
+      "re-selection criteria"
+    ],
+    "user_queries": [
+      "What is district commission references questions about term of office?",
+      "How does district commission references questions about term of office work?",
+      "Can you explain district commission references questions about term of office?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

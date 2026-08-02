@@ -11,16 +11,37 @@
     ]
   },
   "derived_from": [
-    "CPA2019-CH6-S86",
-    "evidence.documents_showing_control_over_designing_testing_manufacturi"
+    "alias.proof_of_substantial_control"
   ],
   "related_concepts": [
-    "evidence.documents_showing_control_over_designing_testing_manufacturi"
+    "alias.proof_of_substantial_control"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "proof",
+      "substantial",
+      "control",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "control confirmation",
+      "dominant interest evidence",
+      "majority ownership proof"
+    ],
+    "user_queries": [
+      "What is product seller must exercise reasonable care?",
+      "How does product seller must exercise reasonable care work?",
+      "Can you explain product seller must exercise reasonable care?",
+      "What is proof of substantial control?",
+      "How does proof of substantial control work?",
+      "Can you explain proof of substantial control?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

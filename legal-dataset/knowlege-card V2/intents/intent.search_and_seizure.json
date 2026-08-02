@@ -5,21 +5,46 @@
   "description": "Natural language queries a user may ask about: Search and Seizure",
   "content": {
     "queries": [
-      "How do I file search and seizure?",
-      "What are the steps for search and seizure?"
+      "Under what circumstances can a search and seizure be conducted in a consumer protection case?",
+      "What are the rights of a consumer during a search and seizure operation?",
+      "Can a search and seizure be conducted without a warrant in consumer protection cases?",
+      "How does the search and seizure process work in cases of counterfeit goods?",
+      "What is the role of the consumer protection agency in conducting search and seizure operations?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S22-2",
-    "procedure.search_and_seizure"
+    "procedure.search_and_seizure",
+    "alias.search_and_seizure"
   ],
   "related_concepts": [
-    "procedure.search_and_seizure"
+    "alias.search_and_seizure"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "search",
+      "seizure",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Forced entry and search",
+      "Inspection and seizure",
+      "Raid and seizure",
+      "Search warrant",
+      "Seizure of goods"
+    ],
+    "user_queries": [
+      "What is search and seizure?",
+      "How does search and seizure work?",
+      "Can you explain search and seizure?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

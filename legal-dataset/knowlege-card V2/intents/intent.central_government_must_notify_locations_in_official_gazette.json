@@ -1,26 +1,46 @@
 {
   "concept_id": "intent.central_government_must_notify_locations_in_official_gazette",
   "concept_type": "intent",
-  "title": "Questions about Central Government must notify locations in Official Gazette",
-  "description": "Natural language queries a user may ask about: Central Government must notify locations in Official Gazette",
+  "title": "Questions about Central Government Must Notify Locations In Official Gazette",
+  "description": "Natural language queries a user may ask about: Central Government Must Notify Locations In Official Gazette",
   "content": {
     "queries": [
-      "What is central government must notify locations in official gazette?",
-      "How does central government must notify locations in official gazette work?",
-      "Can you explain central government must notify locations in official gazette?"
+      "What is the purpose of the Central Government notifying locations in the Official Gazette?",
+      "How does the Central Government determine which locations to notify in the Official Gazette?",
+      "Can the Central Government notify locations in the Official Gazette for consumer protection purposes?",
+      "What is the process for the Central Government to notify locations in the Official Gazette?",
+      "How do notifications in the Official Gazette affect consumer protection cases?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S53-2",
-    "obligation.central_government_must_notify_locations_in_official_gazette"
+    "obligation.central_government_must_notify_locations_in_official_gazette",
+    "alias.central_government_must_notify_locations_in_official_gazette"
   ],
   "related_concepts": [
-    "obligation.central_government_must_notify_locations_in_official_gazette"
+    "alias.central_government_must_notify_locations_in_official_gazette"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "government",
+      "notify",
+      "locations",
+      "official",
+      "gazette",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "Government of India"
+    ],
+    "user_queries": [
+      "What is central government must establish regional benches by notification?",
+      "How does central government must establish regional benches by notification work?",
+      "Can you explain central government must establish regional benches by notification?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

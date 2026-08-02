@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.endorser_exemption_from_penalty_2",
+  "concept_type": "intent",
+  "title": "Questions about Endorser exemption from penalty",
+  "description": "Natural language queries a user may ask about: Endorser exemption from penalty",
+  "content": {
+    "queries": [
+      "endorser liability",
+      "What is endorser exemption from penalty?",
+      "How does endorser exemption from penalty work?",
+      "Can you explain endorser exemption from penalty?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S21-5",
+    "exception.endorser_is_not_liable_to_a_penalty_if_he_has_exercised_due_"
+  ],
+  "related_concepts": [
+    "exception.endorser_is_not_liable_to_a_penalty_if_he_has_exercised_due_"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "endorser",
+      "exemption",
+      "penalty",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "exemption from penalty"
+    ],
+    "user_queries": [
+      "endorser liability",
+      "What is endorser exemption from penalty?",
+      "How does endorser exemption from penalty work?",
+      "Can you explain endorser exemption from penalty?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

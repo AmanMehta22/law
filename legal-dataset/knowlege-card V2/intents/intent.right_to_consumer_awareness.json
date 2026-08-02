@@ -5,20 +5,43 @@
   "description": "Natural language queries a user may ask about: Right to Consumer Awareness",
   "content": {
     "queries": [
-      "how can I learn about consumer rights"
+      "What is the right to consumer awareness?",
+      "How does the right to consumer awareness work?",
+      "Can you explain the concept of the right to consumer awareness?",
+      "What are the benefits of the right to consumer awareness?",
+      "How does the right to consumer awareness help consumers?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-9",
-    "right.right_to_consumer_awareness"
+    "right.right_to_consumer_awareness",
+    "alias.right_to_consumer_awareness"
   ],
   "related_concepts": [
-    "right.right_to_consumer_awareness"
+    "alias.right_to_consumer_awareness"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "right",
+      "consumer",
+      "awareness",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "right to education"
+    ],
+    "user_queries": [
+      "how can I learn about consumer rights",
+      "What is consumer rights?",
+      "How does consumer rights work?",
+      "Can you explain consumer rights?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

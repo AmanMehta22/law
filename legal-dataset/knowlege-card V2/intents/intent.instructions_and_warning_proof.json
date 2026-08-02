@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.instructions_and_warning_proof",
   "concept_type": "intent",
-  "title": "Questions about Instructions and warning proof",
-  "description": "Natural language queries a user may ask about: Instructions and warning proof",
+  "title": "Questions about Instructions And Warning Proof",
+  "description": "Natural language queries a user may ask about: Instructions And Warning Proof",
   "content": {
     "queries": [
-      "What documents are required to prove inadequate instructions or warnings?"
+      "What kind of instructions and warnings are required for a product?",
+      "How can a manufacturer provide adequate instructions and warnings?",
+      "What happens if a product does not come with proper instructions and warnings?",
+      "Can a lack of instructions and warnings be considered a design defect?",
+      "How can a consumer prove that inadequate instructions and warnings led to harm?"
     ]
   },
   "derived_from": [
     "CPA2019-CH6-S84-1",
-    "evidence.product_manual_warning_labels"
+    "evidence.product_manual_warning_labels",
+    "alias.instructions_and_warning_proof"
   ],
   "related_concepts": [
-    "evidence.product_manual_warning_labels"
+    "alias.instructions_and_warning_proof"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "instructions",
+      "warning",
+      "proof",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "product usage instructions"
+    ],
+    "user_queries": [
+      "What documents are required to prove inadequate instructions or warnings?",
+      "What is design defect evidence?",
+      "How does design defect evidence work?",
+      "Can you explain design defect evidence?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

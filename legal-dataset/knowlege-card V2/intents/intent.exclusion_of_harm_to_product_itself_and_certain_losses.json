@@ -1,24 +1,48 @@
 {
   "concept_id": "intent.exclusion_of_harm_to_product_itself_and_certain_losses",
   "concept_type": "intent",
-  "title": "Questions about Exclusion of harm to product itself and certain losses",
-  "description": "Natural language queries a user may ask about: Exclusion of harm to product itself and certain losses",
+  "title": "Questions about Exclusion Of Harm To Product Itself And Certain Losses",
+  "description": "Natural language queries a user may ask about: Exclusion Of Harm To Product Itself And Certain Losses",
   "content": {
     "queries": [
-      "What is not included in the definition of harm in relation to product liability?"
+      "What types of losses are excluded from product liability under the Consumer Protection Act?",
+      "How does the exclusion of harm to the product itself impact the consumer's right to claim damages?",
+      "Can a consumer claim compensation for losses incurred due to a defect in the product, even if the product itself is excluded from liability?",
+      "What is the rationale behind excluding certain losses from product liability, and how does it affect consumer protection?",
+      "Are there any specific conditions under which the exclusion of harm to the product itself and certain losses may not apply?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-22",
-    "exception.does_not_include_harm_caused_to_a_product_itself_or_any_dama"
+    "exception.does_not_include_harm_caused_to_a_product_itself_or_any_dama",
+    "alias.exclusion_of_harm_to_product_itself_and_certain_losses"
   ],
   "related_concepts": [
-    "exception.does_not_include_harm_caused_to_a_product_itself_or_any_dama"
+    "alias.exclusion_of_harm_to_product_itself_and_certain_losses"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "exclusion",
+      "harm",
+      "product",
+      "itself",
+      "certain",
+      "losses",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "damage to product",
+      "commercial loss"
+    ],
+    "user_queries": [
+      "What is not included in the definition of harm in relation to product liability?",
+      "What is exclusion of harm to product itself and certain losses?",
+      "How does exclusion of harm to product itself and certain losses work?",
+      "Can you explain exclusion of harm to product itself and certain losses?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

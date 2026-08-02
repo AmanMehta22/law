@@ -11,16 +11,37 @@
     ]
   },
   "derived_from": [
-    "CPA2019-CH6-S87-2",
-    "evidence.prescription_from_a_medical_practitioner"
+    "alias.proof_of_prescription"
   ],
   "related_concepts": [
-    "evidence.prescription_from_a_medical_practitioner"
+    "alias.proof_of_prescription"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "proof",
+      "prescription",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "doctor's prescription record",
+      "medical prescription evidence",
+      "prescription proof"
+    ],
+    "user_queries": [
+      "What is complainant under influence exception?",
+      "How does complainant under influence exception work?",
+      "Can you explain complainant under influence exception?",
+      "What is proof of prescription?",
+      "How does proof of prescription work?",
+      "Can you explain proof of prescription?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

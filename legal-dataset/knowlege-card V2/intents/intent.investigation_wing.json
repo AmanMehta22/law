@@ -5,22 +5,49 @@
   "description": "Natural language queries a user may ask about: Investigation Wing",
   "content": {
     "queries": [
-      "What is investigation wing?",
-      "How does investigation wing work?",
-      "Can you explain investigation wing?"
+      "What is the role of the investigation wing in consumer protection?",
+      "How does the investigation wing conduct investigations?",
+      "Can the investigation wing investigate complaints on its own initiative?",
+      "What are the powers of the investigation wing during an investigation?",
+      "How does the investigation wing coordinate with other authorities during an investigation?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S15-1",
-    "authority.investigation_wing"
+    "authority.investigation_wing",
+    "alias.investigation_wing"
   ],
   "related_concepts": [
-    "authority.investigation_wing"
+    "alias.investigation_wing"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "investigation",
+      "wing",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is central authority must conduct inquiry or investigation?",
+      "How does central authority must conduct inquiry or investigation work?",
+      "Can you explain central authority must conduct inquiry or investigation?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

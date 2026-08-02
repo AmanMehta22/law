@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Commission must consider suitability",
   "content": {
     "queries": [
+      "What factors does the commission consider when evaluating suitability?",
+      "How does the commission's consideration of suitability impact consumer protection?",
+      "Can the commission reject a proposal if it doesn't meet suitability standards?",
+      "What is the process for the commission to assess suitability in a particular case?",
+      "Are there any specific guidelines the commission follows when considering suitability?"
+    ]
+  },
+  "derived_from": [
+    "alias.commission_must_consider_suitability"
+  ],
+  "related_concepts": [
+    "alias.commission_must_consider_suitability"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "commission",
+      "consider",
+      "suitability",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "candidate suitability review",
+      "eligibility evaluation",
+      "fitness for purpose evaluation",
+      "suitability assessment"
+    ],
+    "user_queries": [
       "What is commission must consider suitability?",
       "How does commission must consider suitability work?",
       "Can you explain commission must consider suitability?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH5-S76",
-    "obligation.district_commission_state_commission_or_national_commission_"
-  ],
-  "related_concepts": [
-    "obligation.district_commission_state_commission_or_national_commission_"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

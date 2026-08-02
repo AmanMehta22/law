@@ -1,24 +1,46 @@
 {
   "concept_id": "intent.minimum_amount_of_sum_payable",
   "concept_type": "intent",
-  "title": "Questions about Minimum amount of sum payable",
-  "description": "Natural language queries a user may ask about: Minimum amount of sum payable",
+  "title": "Questions about Minimum Amount Of Sum Payable",
+  "description": "Natural language queries a user may ask about: Minimum Amount Of Sum Payable",
   "content": {
     "queries": [
-      "what is the minimum compensation amount"
+      "What is the minimum amount that must be paid for a corrective advertisement?",
+      "How is the cost of a corrective advertisement determined?",
+      "What factors affect the minimum amount of sum payable for a corrective advertisement?",
+      "Is the minimum amount of sum payable the same in all cases?",
+      "Can the minimum amount of sum payable be waived in certain circumstances?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S39-1",
-    "exception.the_minimum_amount_of_sum_so_payable_shall_not_be_less_than_"
+    "exception.the_minimum_amount_of_sum_so_payable_shall_not_be_less_than_",
+    "alias.minimum_amount_of_sum_payable"
   ],
   "related_concepts": [
-    "exception.the_minimum_amount_of_sum_so_payable_shall_not_be_less_than_"
+    "alias.minimum_amount_of_sum_payable"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "minimum",
+      "amount",
+      "sum",
+      "payable",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "compensation amount"
+    ],
+    "user_queries": [
+      "what is the minimum compensation amount",
+      "What is the punishment for cost of corrective advertisement?",
+      "What happens if I commit cost of corrective advertisement?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

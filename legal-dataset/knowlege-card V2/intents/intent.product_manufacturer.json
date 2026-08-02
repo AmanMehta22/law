@@ -5,22 +5,44 @@
   "description": "Natural language queries a user may ask about: Product Manufacturer",
   "content": {
     "queries": [
-      "What is a product manufacturer?",
-      "What does a product manufacturer do?",
-      "What is the role of a product manufacturer?"
+      "Who is considered a product manufacturer under the Consumer Protection Act?",
+      "What are the responsibilities of a product manufacturer towards consumers?",
+      "How can a consumer identify the product manufacturer of a particular product?",
+      "What are the obligations of a product manufacturer in case of a product defect?",
+      "Can a product manufacturer be held liable for damages caused by a product?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-36",
-    "definition.product_manufacturer"
+    "definition.product_manufacturer",
+    "alias.product_manufacturer"
   ],
   "related_concepts": [
-    "definition.product_manufacturer"
+    "alias.product_manufacturer"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "product",
+      "manufacturer",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "product maker",
+      "product seller",
+      "manufacturer"
+    ],
+    "user_queries": [
+      "What is product manufacturer?",
+      "How does product manufacturer work?",
+      "Can you explain product manufacturer?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

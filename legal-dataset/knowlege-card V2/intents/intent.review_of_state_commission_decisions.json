@@ -5,21 +5,49 @@
   "description": "Natural language queries a user may ask about: Review of State Commission decisions",
   "content": {
     "queries": [
-      "How do I file review of state commission decisions?",
-      "What are the steps for review of state commission decisions?"
+      "How can I appeal a decision made by a State Commission?",
+      "What is the process for reviewing a decision made by a State Commission?",
+      "Can the National Commission overturn a decision made by a State Commission?",
+      "How long do I have to appeal a decision made by a State Commission?",
+      "What are the grounds for reviewing a decision made by a State Commission?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S58-1",
-    "procedure.review_of_state_commission_decisions"
+    "procedure.review_of_state_commission_decisions",
+    "alias.review_of_state_commission_decisions"
   ],
   "related_concepts": [
-    "procedure.review_of_state_commission_decisions"
+    "alias.review_of_state_commission_decisions"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "review",
+      "state",
+      "commission",
+      "decisions",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is central government discretion on value?",
+      "How does central government discretion on value work?",
+      "Can you explain central government discretion on value?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

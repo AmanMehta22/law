@@ -1,0 +1,56 @@
+{
+  "concept_id": "intent.recommendation_of_international_covenants_handled_by_state_commission",
+  "concept_type": "intent",
+  "title": "Questions about Recommendation of International Covenants handled by State Commission",
+  "description": "Natural language queries a user may ask about: Recommendation of International Covenants handled by State Commission",
+  "content": {
+    "queries": [
+      "What is recommendation of international covenants handled by state commission?",
+      "How does recommendation of international covenants handled by state commission work?",
+      "Can you explain recommendation of international covenants handled by state commission?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S18-2",
+    "relationship.procedure_recommendation_of_international_covenants_handled_by_authori_5"
+  ],
+  "related_concepts": [
+    "relationship.procedure_recommendation_of_international_covenants_handled_by_authori_5"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "recommendation",
+      "international",
+      "covenants",
+      "handled",
+      "state",
+      "commission",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "advice on consumer welfare",
+      "advising on consumer welfare",
+      "consumer rights guidance",
+      "consumer welfare advice",
+      "consumer welfare measures"
+    ],
+    "user_queries": [
+      "What is recommendation of international covenants handled by state commission?",
+      "How does recommendation of international covenants handled by state commission work?",
+      "Can you explain recommendation of international covenants handled by state commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

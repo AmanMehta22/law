@@ -1,0 +1,58 @@
+{
+  "concept_id": "intent.intervention_in_proceedings_2",
+  "concept_type": "intent",
+  "title": "Questions about Intervention in Proceedings",
+  "description": "Natural language queries a user may ask about: Intervention in Proceedings",
+  "content": {
+    "queries": [
+      "What are the requirements for a party to intervene in proceedings under the Act?",
+      "Can a consumer intervene in proceedings if they are not a party to the original complaint?",
+      "How does intervention in proceedings affect the rights of the original parties to the complaint?",
+      "What is the procedure for seeking intervention in proceedings under the Consumer Protection Act?",
+      "Can the court reject a request for intervention in proceedings, and if so, on what grounds?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S18-2",
+    "procedure.intervention_in_proceedings"
+  ],
+  "related_concepts": [
+    "procedure.intervention_in_proceedings"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "intervention",
+      "proceedings",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "advice on consumer welfare",
+      "advising on consumer welfare",
+      "consumer rights guidance",
+      "consumer welfare advice",
+      "consumer welfare measures"
+    ],
+    "user_queries": [
+      "What is intervention in proceedings?",
+      "How does intervention in proceedings work?",
+      "Can you explain intervention in proceedings?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

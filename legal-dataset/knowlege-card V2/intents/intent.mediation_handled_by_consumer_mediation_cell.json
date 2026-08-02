@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.mediation_handled_by_consumer_mediation_cell",
+  "concept_type": "intent",
+  "title": "Questions about Mediation handled by Consumer Mediation Cell",
+  "description": "Natural language queries a user may ask about: Mediation handled by Consumer Mediation Cell",
+  "content": {
+    "queries": [
+      "What is mediation handled by consumer mediation cell?",
+      "How does mediation handled by consumer mediation cell work?",
+      "Can you explain mediation handled by consumer mediation cell?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S79-1",
+    "relationship.procedure_mediation_handled_by_authority_consumer_mediation_cell"
+  ],
+  "related_concepts": [
+    "relationship.procedure_mediation_handled_by_authority_consumer_mediation_cell"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "mediation",
+      "handled",
+      "consumer",
+      "cell",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "Consumer Arbitration",
+      "Consumer Mediator",
+      "Dispute Resolution Cell",
+      "Mediation Cell"
+    ],
+    "user_queries": [
+      "What is mediation handled by consumer mediation cell?",
+      "How does mediation handled by consumer mediation cell work?",
+      "Can you explain mediation handled by consumer mediation cell?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: State Commission or National Commission must hear appeal expeditiously",
   "content": {
     "queries": [
+      "What is the timeline for the State Commission or National Commission to hear an appeal?",
+      "Can the State Commission or National Commission reject an appeal?",
+      "How does the State Commission or National Commission prioritize appeals?",
+      "What is the process for filing an appeal with the State Commission or National Commission?",
+      "Are there any specific requirements for an appeal to be heard expeditiously by the State Commission or National Commission?"
+    ]
+  },
+  "derived_from": [
+    "alias.state_commission_or_national_commission_must_hear_appeal_expeditiously"
+  ],
+  "related_concepts": [
+    "alias.state_commission_or_national_commission_must_hear_appeal_expeditiously"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "state",
+      "commission",
+      "national",
+      "hear",
+      "appeal",
+      "expeditiously",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "appeal procedure",
+      "expeditious appeal hearing",
+      "fast track appeal"
+    ],
+    "user_queries": [
       "What is state commission or national commission must hear appeal expeditiously?",
       "How does state commission or national commission must hear appeal expeditiously work?",
       "Can you explain state commission or national commission must hear appeal expeditiously?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S52",
-    "obligation.state_commission_or_national_commission_must_hear_appeal_exp"
-  ],
-  "related_concepts": [
-    "obligation.state_commission_or_national_commission_must_hear_appeal_exp"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

@@ -5,23 +5,50 @@
   "description": "Natural language queries a user may ask about: Commissioner",
   "content": {
     "queries": [
-      "What is commissioner?",
-      "How does commissioner work?",
-      "Can you explain commissioner?"
+      "What are the responsibilities of a Commissioner under the Consumer Protection Act?",
+      "How is a Commissioner appointed?",
+      "What is the term of office for a Commissioner?",
+      "Can a Commissioner be removed from office?",
+      "What are the powers of a Commissioner in investigating consumer complaints?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S14-2",
     "CPA2019-CH8-S98",
-    "authority.commissioner"
+    "authority.commissioner",
+    "alias.commissioner"
   ],
   "related_concepts": [
-    "authority.commissioner"
+    "alias.commissioner"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "commissioner",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "chief"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is chief commissioner must exercise general superintendence?",
+      "How does chief commissioner must exercise general superintendence work?",
+      "Can you explain chief commissioner must exercise general superintendence?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,24 +1,45 @@
 {
   "concept_id": "intent.manufacturer_must_make_product",
   "concept_type": "intent",
-  "title": "Questions about Manufacturer must make product",
-  "description": "Natural language queries a user may ask about: Manufacturer must make product",
+  "title": "Questions about Manufacturer Must Make Product",
+  "description": "Natural language queries a user may ask about: Manufacturer Must Make Product",
   "content": {
     "queries": [
-      "What is product manufacturer's liability?"
+      "What is manufacturer must make product?",
+      "How does manufacturer must make product work?",
+      "Can you explain manufacturer must make product?"
     ]
   },
   "derived_from": [
     "CPA2019-CH6-S84-2",
-    "obligation.product_manufacturer_shall_be_liable_in_a_product_liability_"
+    "obligation.product_manufacturer_shall_be_liable_in_a_product_liability_",
+    "alias.manufacturer_must_make_product"
   ],
   "related_concepts": [
-    "obligation.product_manufacturer_shall_be_liable_in_a_product_liability_"
+    "alias.manufacturer_must_make_product"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "manufacturer",
+      "make",
+      "product",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "product manufacturer liability"
+    ],
+    "user_queries": [
+      "What is product manufacturer's liability?",
+      "What is manufacturer must make product?",
+      "How does manufacturer must make product work?",
+      "Can you explain manufacturer must make product?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

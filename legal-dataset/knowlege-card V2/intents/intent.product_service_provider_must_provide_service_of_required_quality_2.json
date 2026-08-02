@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.product_service_provider_must_provide_service_of_required_quality_2",
+  "concept_type": "intent",
+  "title": "Questions about Product service provider must provide service of required quality",
+  "description": "Natural language queries a user may ask about: Product service provider must provide service of required quality",
+  "content": {
+    "queries": [
+      "What is the standard for determining the required quality of service provided by a product service provider?",
+      "Can a consumer complain if the service provided by a product service provider is not of the required quality?",
+      "How does a product service provider ensure that they provide a service of the required quality?",
+      "What are the consequences for a product service provider that fails to provide a service of the required quality?",
+      "Is it necessary for a product service provider to have a quality control process in place to ensure required quality of service?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH6-S85",
+    "obligation.product_service_provider_must_provide_service_of_quality_req"
+  ],
+  "related_concepts": [
+    "obligation.product_service_provider_must_provide_service_of_quality_req"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "product",
+      "service",
+      "provider",
+      "provide",
+      "required",
+      "quality",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "product service provider liability"
+    ],
+    "user_queries": [
+      "what is product liability",
+      "What is product service provider must conform to express warranty or contract terms?",
+      "How does product service provider must conform to express warranty or contract terms work?",
+      "Can you explain product service provider must conform to express warranty or contract terms?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

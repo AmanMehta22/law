@@ -1,26 +1,49 @@
 {
   "concept_id": "intent.opportunity_to_express_views",
   "concept_type": "intent",
-  "title": "Questions about Opportunity to express views",
-  "description": "Natural language queries a user may ask about: Opportunity to express views",
+  "title": "Questions about Opportunity To Express Views",
+  "description": "Natural language queries a user may ask about: Opportunity To Express Views",
   "content": {
     "queries": [
-      "What is opportunity to express views?",
-      "How does opportunity to express views work?",
-      "Can you explain opportunity to express views?"
+      "What opportunities are available for consumers to express their views to the Central Authority?",
+      "How can individuals provide feedback on the directions followed by the Central Authority?",
+      "Are there any specific channels for expressing views on consumer protection issues?",
+      "Can consumer organizations express views on behalf of their members?",
+      "How are the views and feedback provided by consumers used by the Central Authority?"
     ]
   },
   "derived_from": [
     "CPA2019-CH8-S99-1",
-    "exception.the_central_authority_shall_be_given_an_opportunity_to_expre"
+    "exception.the_central_authority_shall_be_given_an_opportunity_to_expre",
+    "alias.opportunity_to_express_views"
   ],
   "related_concepts": [
-    "exception.the_central_authority_shall_be_given_an_opportunity_to_expre"
+    "alias.opportunity_to_express_views"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "opportunity",
+      "express",
+      "views",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "Central Government's power"
+    ],
+    "user_queries": [
+      "What is opportunity to express views?",
+      "How does opportunity to express views work?",
+      "Can you explain opportunity to express views?",
+      "What is central authority must follow directions?",
+      "How does central authority must follow directions work?",
+      "Can you explain central authority must follow directions?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

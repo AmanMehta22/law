@@ -1,24 +1,46 @@
 {
   "concept_id": "intent.central_government_must_establish_consumer_mediation_cell",
   "concept_type": "intent",
-  "title": "Questions about Central Government must establish consumer mediation cell",
-  "description": "Natural language queries a user may ask about: Central Government must establish consumer mediation cell",
+  "title": "Questions about Central Government Must Establish Consumer Mediation Cell",
+  "description": "Natural language queries a user may ask about: Central Government Must Establish Consumer Mediation Cell",
   "content": {
     "queries": [
-      "What is the role of Central Government in consumer protection?"
+      "What is central government must establish consumer mediation cell?",
+      "How does central government must establish consumer mediation cell work?",
+      "Can you explain central government must establish consumer mediation cell?"
     ]
   },
   "derived_from": [
     "CPA2019-CH5-S74-2",
-    "obligation.central_government_shall_establish_a_consumer_mediation_cell"
+    "obligation.central_government_shall_establish_a_consumer_mediation_cell",
+    "alias.central_government_must_establish_consumer_mediation_cell"
   ],
   "related_concepts": [
-    "obligation.central_government_shall_establish_a_consumer_mediation_cell"
+    "alias.central_government_must_establish_consumer_mediation_cell"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "government",
+      "establish",
+      "consumer",
+      "mediation",
+      "cell",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "Central Government",
+      "Government of India"
+    ],
+    "user_queries": [
+      "What is the role of Central Government in consumer protection?",
+      "What is central government must establish consumer mediation cell?",
+      "How does central government must establish consumer mediation cell work?",
+      "Can you explain central government must establish consumer mediation cell?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

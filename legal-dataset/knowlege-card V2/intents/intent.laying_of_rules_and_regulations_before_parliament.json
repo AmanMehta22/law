@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Laying of rules and regulations before Parliament",
   "content": {
     "queries": [
+      "What is the process of laying rules and regulations before Parliament?",
+      "Why are rules and regulations laid before Parliament?",
+      "Can you explain the significance of laying rules and regulations before Parliament?",
+      "What happens after rules and regulations are laid before Parliament?",
+      "How do rules and regulations laid before Parliament affect consumer protection?"
+    ]
+  },
+  "derived_from": [
+    "alias.laying_of_rules_and_regulations_before_parliament"
+  ],
+  "related_concepts": [
+    "alias.laying_of_rules_and_regulations_before_parliament"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "laying",
+      "rules",
+      "regulations",
+      "before",
+      "parliament",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "legislative scrutiny of regulations",
+      "parliamentary approval of rules",
+      "rules and regulations submission to parliament"
+    ],
+    "user_queries": [
       "What is laying of rules and regulations before parliament?",
       "How does laying of rules and regulations before parliament work?",
       "Can you explain laying of rules and regulations before parliament?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH8-S105-1",
-    "obligation.authority_making_rules_and_regulations_must_lay_rules_and_re"
-  ],
-  "related_concepts": [
-    "obligation.authority_making_rules_and_regulations_must_lay_rules_and_re"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

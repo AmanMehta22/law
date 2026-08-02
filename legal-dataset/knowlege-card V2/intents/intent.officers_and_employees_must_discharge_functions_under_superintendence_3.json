@@ -5,22 +5,46 @@
   "description": "Natural language queries a user may ask about: Officers and employees must discharge functions under superintendence",
   "content": {
     "queries": [
+      "Who supervises the discharge of functions by officers and employees?",
+      "What are the consequences if officers and employees do not discharge functions under superintendence?",
+      "Can officers and employees discharge functions independently without superintendence?",
+      "How does superintendence ensure officers and employees comply with regulations?",
+      "What is the role of superintendence in ensuring officers and employees act fairly?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S57-2",
+    "obligation.officers_and_other_employees_of_the_national_commission_disc"
+  ],
+  "related_concepts": [
+    "obligation.officers_and_other_employees_of_the_national_commission_disc"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "officers",
+      "employees",
+      "discharge",
+      "functions",
+      "superintendence",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "Central Commission",
+      "Central Consumer Protection Council",
+      "NCDRC",
+      "National Consumer Commission",
+      "National Consumer Disputes Redressal Commission",
+      "National Consumer Protection Agency"
+    ],
+    "user_queries": [
       "What is officers and employees must discharge functions under superintendence?",
       "How does officers and employees must discharge functions under superintendence work?",
       "Can you explain officers and employees must discharge functions under superintendence?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S46-2",
-    "obligation.officers_and_other_employees_of_the_state_commission_dischar"
-  ],
-  "related_concepts": [
-    "obligation.officers_and_other_employees_of_the_state_commission_dischar"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

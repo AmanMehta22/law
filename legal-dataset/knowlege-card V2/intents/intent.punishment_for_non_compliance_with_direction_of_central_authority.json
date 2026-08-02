@@ -5,21 +5,43 @@
   "description": "Natural language queries a user may ask about: Punishment for non-compliance with direction of Central Authority",
   "content": {
     "queries": [
-      "What is the punishment for punishment for non-compliance with direction of central authority?",
-      "What happens if I commit punishment for non-compliance with direction of central authority?"
+      "What is the punishment for non-compliance with direction of the Central Authority?",
+      "How does the Central Authority enforce punishment for non-compliance with direction?",
+      "Can you explain the process of punishment for non-compliance with direction of the Central Authority?",
+      "What are the consequences of not following a direction from the Central Authority?",
+      "How does the punishment for non-compliance with direction of the Central Authority protect consumer rights?"
     ]
   },
   "derived_from": [
-    "CPA2019-CH7-S88",
-    "penalty.failing_to_comply_with_direction_of_central_authority"
+    "alias.punishment_for_non_compliance_with_direction_of_central_authority"
   ],
   "related_concepts": [
-    "penalty.failing_to_comply_with_direction_of_central_authority"
+    "alias.punishment_for_non_compliance_with_direction_of_central_authority"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "punishment",
+      "non",
+      "compliance",
+      "direction",
+      "central",
+      "authority",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "consequences of non-compliance with central government",
+      "fine for non-compliance with central authority",
+      "penalty for disobeying central authority",
+      "punishment for ignoring central authority"
+    ],
+    "user_queries": [
+      "What is punishment for non-compliance with direction of central authority?",
+      "How does punishment for non-compliance with direction of central authority work?",
+      "Can you explain punishment for non-compliance with direction of central authority?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

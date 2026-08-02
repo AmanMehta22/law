@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Electronic Service Provider",
   "content": {
     "queries": [
-      "What is an electronic service provider?",
-      "Who is considered an electronic service provider under the Consumer Protection Act?",
-      "What does electronic service provider mean in the context of online shopping?"
+      "What is the role of an electronic service provider in consumer protection?",
+      "How does an electronic service provider ensure consumer safety?",
+      "Can an electronic service provider be held liable for consumer complaints?",
+      "What are the responsibilities of an electronic service provider under the Consumer Protection Act?",
+      "How do I report a complaint against an electronic service provider?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-17",
-    "definition.electronic_service_provider"
+    "definition.electronic_service_provider",
+    "alias.electronic_service_provider"
   ],
   "related_concepts": [
-    "definition.electronic_service_provider"
+    "alias.electronic_service_provider"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "electronic",
+      "service",
+      "provider",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "online service provider",
+      "e-service provider"
+    ],
+    "user_queries": [
+      "What is electronic service provider?",
+      "How does electronic service provider work?",
+      "Can you explain electronic service provider?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: State Government must prescribe interests",
   "content": {
     "queries": [
+      "What interests can the State Government prescribe under the Consumer Protection Act?",
+      "How does the State Government determine the rate of interest to prescribe?",
+      "Can the State Government change the prescribed interests over time?",
+      "What happens if the State Government fails to prescribe interests?",
+      "How do the prescribed interests by the State Government affect consumer disputes?"
+    ]
+  },
+  "derived_from": [
+    "alias.state_government_must_prescribe_interests"
+  ],
+  "related_concepts": [
+    "alias.state_government_must_prescribe_interests"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "state",
+      "government",
+      "prescribe",
+      "interests",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "government prescribed interest",
+      "interest rate prescription",
+      "set interest rates",
+      "state government interest rules"
+    ],
+    "user_queries": [
       "What is state government must prescribe interests?",
       "How does state government must prescribe interests work?",
       "Can you explain state government must prescribe interests?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH2-S6-2",
-    "obligation.state_government_must_prescribe_interests_for_non_official_m"
-  ],
-  "related_concepts": [
-    "obligation.state_government_must_prescribe_interests_for_non_official_m"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,0 +1,53 @@
+{
+  "concept_id": "intent.product_liability_action_3",
+  "concept_type": "intent",
+  "title": "Questions about Product Liability Action",
+  "description": "Natural language queries a user may ask about: Product Liability Action",
+  "content": {
+    "queries": [
+      "What is product liability action?",
+      "How does product liability action work?",
+      "Can you explain product liability action?"
+    ]
+  },
+  "derived_from": [
+    "definition.product_liability_action",
+    "example.product_liability_action"
+  ],
+  "related_concepts": [
+    "example.product_liability_action"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "product",
+      "liability",
+      "action",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "product liability claim",
+      "consumer protection complaint"
+    ],
+    "user_queries": [
+      "What is product liability action?",
+      "How does product liability action work?",
+      "Can you explain product liability action?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

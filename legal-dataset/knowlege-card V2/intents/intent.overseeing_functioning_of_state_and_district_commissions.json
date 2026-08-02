@@ -1,24 +1,48 @@
 {
   "concept_id": "intent.overseeing_functioning_of_state_and_district_commissions",
   "concept_type": "intent",
-  "title": "Questions about Overseeing functioning of State and District Commissions",
-  "description": "Natural language queries a user may ask about: Overseeing functioning of State and District Commissions",
+  "title": "Questions about Overseeing Functioning Of State And District Comisions",
+  "description": "What role do state and district commissions play in overseeing their respective functions? How are state and district commissions ensured to be functioning effectively? Can you describe the process of overseeing the functioning of state and district commissions? What are the key responsibilities of state and district commissions in terms of their oversight? How do state and district commissions in",
   "content": {
     "queries": [
-      "How does National Commission oversee State and District Commissions"
+      "What role do state and district commissions play in overseeing their respective functions?",
+      "How are state and district commissions ensured to be functioning effectively?",
+      "Can you describe the process of overseeing the functioning of state and district commissions?",
+      "What are the key responsibilities of state and district commissions in terms of their oversight?",
+      "How do state and district commissions interact with each other in their overseeing functions?"
     ]
   },
   "derived_from": [
-    "CPA2019-CH4-S70-1",
-    "procedure.overseeing_functioning_of_state_and_district_commissions"
+    "alias.overseeing_functioning_of_state_and_district_comisions"
   ],
   "related_concepts": [
-    "procedure.overseeing_functioning_of_state_and_district_commissions"
+    "alias.overseeing_functioning_of_state_and_district_commissions"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "overseeing",
+      "functioning",
+      "state",
+      "district",
+      "comisions",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "district commission",
+      "functioning",
+      "overseeing",
+      "state and district commissions",
+      "state commission"
+    ],
+    "user_queries": [
+      "What is overseeing functioning of state and district comisions?",
+      "How does overseeing functioning of state and district comisions work?",
+      "Can you explain overseeing functioning of state and district comisions?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

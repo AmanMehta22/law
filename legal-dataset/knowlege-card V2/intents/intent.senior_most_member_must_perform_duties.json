@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.senior_most_member_must_perform_duties",
   "concept_type": "intent",
-  "title": "Questions about Senior-most member must perform duties",
-  "description": "Natural language queries a user may ask about: Senior-most member must perform duties",
+  "title": "Questions about Senior-Most Member Must Perform Duties",
+  "description": "Natural language queries a user may ask about: Senior-Most Member Must Perform Duties",
   "content": {
     "queries": [
-      "who performs duties in absence of President"
+      "What are the circumstances under which the senior-most member is not required to perform duties?",
+      "Can the senior-most member delegate their duties to another member in certain situations?",
+      "How does the exception to performance of duties by the senior-most member affect the overall functioning of the organization?",
+      "What are the consequences if the senior-most member fails to perform their duties without a valid exception?",
+      "Is there a specific procedure that must be followed when the senior-most member is unable to perform their duties due to an exception?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S63",
-    "obligation.senior_most_member_of_the_national_commission_must_perform_t"
+    "obligation.senior_most_member_of_the_national_commission_must_perform_t",
+    "alias.senior_most_member_must_perform_duties"
   ],
   "related_concepts": [
-    "obligation.senior_most_member_of_the_national_commission_must_perform_t"
+    "alias.senior_most_member_must_perform_duties"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "senior",
+      "most",
+      "member",
+      "perform",
+      "duties",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "acting President"
+    ],
+    "user_queries": [
+      "who performs duties in absence of President",
+      "What is exception to performance of duties by senior-most member?",
+      "How does exception to performance of duties by senior-most member work?",
+      "Can you explain exception to performance of duties by senior-most member?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

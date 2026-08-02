@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.complaint_handling_2",
+  "concept_type": "intent",
+  "title": "Questions about Complaint handling",
+  "description": "Natural language queries a user may ask about: Complaint handling",
+  "content": {
+    "queries": [
+      "What are the different stages of complaint handling under the Consumer Protection Act?",
+      "How does the complaint handling process ensure consumer rights are protected?",
+      "Can a consumer complaint be handled through a fast-track process?",
+      "What is the importance of documentation in complaint handling?",
+      "How does the complaint handling process vary for e-commerce transactions?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-2",
+    "procedure.complaint_handling"
+  ],
+  "related_concepts": [
+    "procedure.complaint_handling"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "complaint",
+      "handling",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "complaint admission"
+    ],
+    "user_queries": [
+      "What is complaint handling?",
+      "How does complaint handling work?",
+      "Can you explain complaint handling?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

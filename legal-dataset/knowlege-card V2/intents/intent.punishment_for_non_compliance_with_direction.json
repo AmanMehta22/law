@@ -5,21 +5,43 @@
   "description": "Natural language queries a user may ask about: Punishment for non-compliance with direction",
   "content": {
     "queries": [
-      "What is the punishment for punishment for non-compliance with direction?",
-      "What happens if I commit punishment for non-compliance with direction?"
+      "What are the consequences of not following a direction?",
+      "How does the punishment for non-compliance with direction affect businesses?",
+      "Can you explain the process of punishment for non-compliance with direction?",
+      "What are the penalties for not complying with a direction under the Consumer Protection Act?",
+      "How does the punishment for non-compliance with direction impact consumer rights?"
     ]
   },
   "derived_from": [
-    "CPA2019-CH4-S72-1",
-    "penalty.failing_to_comply_with_order_made_by_the_district_commission"
+    "alias.punishment_for_non_compliance_with_direction"
   ],
   "related_concepts": [
-    "penalty.failing_to_comply_with_order_made_by_the_district_commission"
+    "alias.punishment_for_non_compliance_with_direction"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "punishment",
+      "non",
+      "compliance",
+      "direction",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "consequences of disobeying orders",
+      "fine for non-compliance",
+      "penalty for non-compliance",
+      "punishment for ignoring directives"
+    ],
+    "user_queries": [
+      "What is punishment for non-compliance with direction?",
+      "How does punishment for non-compliance with direction work?",
+      "Can you explain punishment for non-compliance with direction?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

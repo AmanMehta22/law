@@ -5,24 +5,49 @@
   "description": "Natural language queries a user may ask about: Supreme Court",
   "content": {
     "queries": [
-      "What is supreme court?",
-      "How does supreme court work?",
-      "Can you explain supreme court?"
+      "What is the process for filing an appeal to the Supreme Court?",
+      "Can the Supreme Court handle appeals from district commissions?",
+      "How does the Supreme Court review appeals from lower courts?",
+      "What are the requirements for filing an appeal with the Supreme Court?",
+      "Can I appeal a decision from a district commission directly to the Supreme Court?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S67",
     "CPA2019-CH4-S73-1",
     "CPA2019-CH4-S73-3",
-    "authority.supreme_court"
+    "authority.supreme_court",
+    "alias.supreme_court"
   ],
   "related_concepts": [
-    "authority.supreme_court"
+    "alias.supreme_court"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "supreme",
+      "court",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "appeal deadline",
+      "filing appeal",
+      "opposite party response",
+      "time limit for appeal",
+      "time limit for application",
+      "time to respond"
+    ],
+    "user_queries": [
+      "What is filing an appeal handled by district commission?",
+      "How does filing an appeal handled by district commission work?",
+      "Can you explain filing an appeal handled by district commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

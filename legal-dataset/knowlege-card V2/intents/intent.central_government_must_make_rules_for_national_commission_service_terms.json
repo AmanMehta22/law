@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Central Government must make rules for National Commission service terms",
   "content": {
     "queries": [
+      "What rules must the central government make for National Commission service terms?",
+      "How do the central government's rules for National Commission service terms work?",
+      "Can you explain the purpose of the central government making rules for National Commission service terms?",
+      "What are the key aspects of the rules made by the central government for National Commission service terms?",
+      "How do the central government's rules for National Commission service terms impact the commission's functioning?"
+    ]
+  },
+  "derived_from": [
+    "alias.central_government_must_make_rules_for_national_commission_service_terms"
+  ],
+  "related_concepts": [
+    "alias.central_government_must_make_rules_for_national_commission_service_terms"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "government",
+      "make",
+      "rules",
+      "national",
+      "commission",
+      "service",
+      "terms"
+    ],
+    "aliases": [
+      "central government rulemaking for national commission",
+      "national commission service terms",
+      "national commission staff regulations"
+    ],
+    "user_queries": [
       "What is central government must make rules for national commission service terms?",
       "How does central government must make rules for national commission service terms work?",
       "Can you explain central government must make rules for national commission service terms?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S55-1",
-    "obligation.central_government_must_make_rules_for_qualifications_appoin"
-  ],
-  "related_concepts": [
-    "obligation.central_government_must_make_rules_for_qualifications_appoin"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

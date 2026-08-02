@@ -5,21 +5,43 @@
   "description": "Natural language queries a user may ask about: Complaint disposal",
   "content": {
     "queries": [
-      "How do I file complaint disposal?",
-      "What are the steps for complaint disposal?"
+      "What are the steps involved in disposing of a consumer complaint?",
+      "How long does it typically take for a consumer complaint to be disposed of?",
+      "Can a consumer complaint be disposed of through mediation?",
+      "What happens if a consumer complaint is found to be frivolous or vexatious?",
+      "Is there a limit to the amount of compensation that can be awarded in a consumer complaint?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-7",
-    "procedure.complaint_disposal"
+    "procedure.complaint_disposal",
+    "alias.complaint_disposal"
   ],
   "related_concepts": [
-    "procedure.complaint_disposal"
+    "alias.complaint_disposal"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "complaint",
+      "disposal",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "delay",
+      "postponement"
+    ],
+    "user_queries": [
+      "What is adjournment exception?",
+      "How does adjournment exception work?",
+      "Can you explain adjournment exception?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

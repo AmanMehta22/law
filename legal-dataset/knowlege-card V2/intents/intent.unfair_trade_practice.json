@@ -5,22 +5,46 @@
   "description": "Natural language queries a user may ask about: Unfair Trade Practice",
   "content": {
     "queries": [
-      "What is an unfair trade practice?",
-      "What are some examples of unfair trade practices?",
-      "How does the Consumer Protection Act define unfair trade practice?"
+      "What is the contest, lottery, game of chance or skill exception in Unfair Trade Practice?",
+      "How does the contest, lottery, game of chance or skill exception work?",
+      "Can you explain the contest, lottery, game of chance or skill exception?",
+      "What is the purpose of the contest, lottery, game of chance or skill exception?",
+      "How does the contest, lottery, game of chance or skill exception apply to Unfair Trade Practice?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-47",
-    "definition.unfair_trade_practice"
+    "definition.unfair_trade_practice",
+    "alias.unfair_trade_practice"
   ],
   "related_concepts": [
-    "definition.unfair_trade_practice"
+    "alias.unfair_trade_practice"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "unfair",
+      "trade",
+      "practice",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "deceptive business practice",
+      "false advertising"
+    ],
+    "user_queries": [
+      "What is unfair trade practice?",
+      "How does unfair trade practice work?",
+      "Can you explain unfair trade practice?",
+      "What is contest, lottery, game of chance or skill exception?",
+      "How does contest, lottery, game of chance or skill exception work?",
+      "Can you explain contest, lottery, game of chance or skill exception?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

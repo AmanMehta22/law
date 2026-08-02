@@ -1,0 +1,57 @@
+{
+  "concept_id": "intent.mediator_panel_preparation_2",
+  "concept_type": "intent",
+  "title": "Questions about Mediator Panel Preparation",
+  "description": "Natural language queries a user may ask about: Mediator Panel Preparation",
+  "content": {
+    "queries": [
+      "What happens if a mediator on the panel has a conflict of interest with a consumer's case?",
+      "Can a consumer appeal a decision made by a mediator from the commission's panel?",
+      "How does the commission evaluate the effectiveness of the mediator panel preparation process?",
+      "Are mediators on the panel required to undergo any specific training or certification?",
+      "Can the commission add or remove mediators from the panel at any time and if so, why?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S75-1",
+    "procedure.mediator_panel_preparation"
+  ],
+  "related_concepts": [
+    "procedure.mediator_panel_preparation"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "mediator",
+      "panel",
+      "preparation",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "Consumer Arbitration",
+      "Consumer Mediator",
+      "Dispute Resolution Cell",
+      "Mediation Cell"
+    ],
+    "user_queries": [
+      "What is commission must prepare a panel of mediators?",
+      "How does commission must prepare a panel of mediators work?",
+      "Can you explain commission must prepare a panel of mediators?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

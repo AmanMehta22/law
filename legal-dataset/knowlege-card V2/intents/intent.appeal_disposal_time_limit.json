@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Appeal disposal time limit",
   "content": {
     "queries": [
+      "What is the time limit for disposing of an appeal in the consumer court?",
+      "How does the appeal disposal time limit affect my case?",
+      "Can the appeal disposal time limit be extended in special circumstances?",
+      "What happens if the appeal is not disposed of within the time limit?",
+      "Is the appeal disposal time limit the same for all types of appeals?"
+    ]
+  },
+  "derived_from": [
+    "alias.appeal_disposal_time_limit"
+  ],
+  "related_concepts": [
+    "alias.appeal_disposal_time_limit"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "appeal",
+      "disposal",
+      "time",
+      "limit",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "appeal decision timeline",
+      "appeal disposal deadline",
+      "appeal hearing period",
+      "appeal resolution timeframe"
+    ],
+    "user_queries": [
       "What is appeal disposal time limit?",
       "How does appeal disposal time limit work?",
       "Can you explain appeal disposal time limit?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S52",
-    "timeline.ninety_days"
-  ],
-  "related_concepts": [
-    "timeline.ninety_days"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

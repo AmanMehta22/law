@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.central_authority_4",
+  "concept_type": "intent",
+  "title": "Questions about Central Authority",
+  "description": "Natural language queries a user may ask about: Central Authority",
+  "content": {
+    "queries": [
+      "What are the powers and functions of the Central Authority?",
+      "How does the Central Authority regulate consumer protection in India?",
+      "What is the role of the Central Authority in investigating consumer complaints?",
+      "Can the Central Authority impose penalties on companies that violate consumer protection laws?",
+      "How does the Central Authority coordinate with state governments to protect consumer rights?"
+    ]
+  },
+  "derived_from": [
+    "definition.central_authority",
+    "example.central_authority"
+  ],
+  "related_concepts": [
+    "example.central_authority"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "authority",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency"
+    ],
+    "user_queries": [
+      "What is central authority?",
+      "How does central authority work?",
+      "Can you explain central authority?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

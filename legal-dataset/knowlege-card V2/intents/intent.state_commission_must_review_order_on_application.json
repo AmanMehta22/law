@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: State Commission must review order on application",
   "content": {
     "queries": [
+      "What are the procedures for a State Commission to review an order on application?",
+      "Can a State Commission reject an application for order review?",
+      "How long does it take for a State Commission to review an order on application?",
+      "What are the grounds for a State Commission to review an order on application?",
+      "Is it mandatory for a State Commission to review an order on application?"
+    ]
+  },
+  "derived_from": [
+    "alias.state_commission_must_review_order_on_application"
+  ],
+  "related_concepts": [
+    "alias.state_commission_must_review_order_on_application"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "state",
+      "commission",
+      "review",
+      "order",
+      "application",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "appeal to state commission",
+      "application for review",
+      "re-examine decisions",
+      "review of orders"
+    ],
+    "user_queries": [
       "What is state commission must review order on application?",
       "How does state commission must review order on application work?",
       "Can you explain state commission must review order on application?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S50",
-    "obligation.state_commission_shall_review_any_of_the_order_passed_by_it"
-  ],
-  "related_concepts": [
-    "obligation.state_commission_shall_review_any_of_the_order_passed_by_it"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

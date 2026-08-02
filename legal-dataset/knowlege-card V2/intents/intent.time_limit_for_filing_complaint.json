@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.time_limit_for_filing_complaint",
   "concept_type": "intent",
-  "title": "Questions about Time limit for filing complaint",
-  "description": "Natural language queries a user may ask about: Time limit for filing complaint",
+  "title": "Questions about Time Limit For Filing Complaint",
+  "description": "Natural language queries a user may ask about: Time Limit For Filing Complaint",
   "content": {
     "queries": [
-      "What is the time limit for filing a complaint?"
+      "How long do I have to file a complaint under the Consumer Protection Act?",
+      "What is the time limit for filing a complaint with the consumer forum?",
+      "Can I file a complaint after the time limit has expired?",
+      "How is the time limit for filing a complaint calculated?",
+      "Are there any exceptions to the time limit for filing a complaint?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S69-1",
-    "exception.shall_not_admit_a_complaint_unless_it_is_filed_within_two_ye"
+    "exception.shall_not_admit_a_complaint_unless_it_is_filed_within_two_ye",
+    "alias.time_limit_for_filing_complaint"
   ],
   "related_concepts": [
-    "exception.shall_not_admit_a_complaint_unless_it_is_filed_within_two_ye"
+    "alias.time_limit_for_filing_complaint"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "time",
+      "limit",
+      "filing",
+      "complaint",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "statute of limitations"
+    ],
+    "user_queries": [
+      "What is the time limit for filing a complaint?",
+      "What is complaint filing handled by national commission?",
+      "How does complaint filing handled by national commission work?",
+      "Can you explain complaint filing handled by national commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

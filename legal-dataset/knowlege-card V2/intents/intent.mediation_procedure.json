@@ -5,21 +5,45 @@
   "description": "Natural language queries a user may ask about: Mediation Procedure",
   "content": {
     "queries": [
-      "How do I file mediation procedure?",
-      "What are the steps for mediation procedure?"
+      "What are the steps involved in a mediation procedure?",
+      "How does a mediation procedure help resolve consumer disputes?",
+      "Can a mediation procedure be initiated by a consumer directly?",
+      "What is the role of a mediator in a mediation procedure?",
+      "Is a mediation procedure binding on both parties?"
     ]
   },
   "derived_from": [
     "CPA2019-CH5-S80-3",
-    "procedure.mediation_procedure"
+    "procedure.mediation_procedure",
+    "alias.mediation_procedure"
   ],
   "related_concepts": [
-    "procedure.mediation_procedure"
+    "alias.mediation_procedure"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "mediation",
+      "procedure",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Consumer Commission",
+      "Consumer Court",
+      "Court",
+      "Tribunal"
+    ],
+    "user_queries": [
+      "What is mediation procedure?",
+      "How does mediation procedure work?",
+      "Can you explain mediation procedure?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

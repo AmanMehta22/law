@@ -5,21 +5,45 @@
   "description": "Natural language queries a user may ask about: Discovery and production of evidence",
   "content": {
     "queries": [
-      "How do I file discovery and production of evidence?",
-      "What are the steps for discovery and production of evidence?"
+      "What evidence can be produced during the discovery process in a consumer complaint?",
+      "How does the discovery and production of evidence work in a consumer court case?",
+      "Can a consumer request specific evidence from the other party during discovery?",
+      "What happens if a party fails to produce evidence during the discovery process in a consumer dispute?",
+      "Are there any time limits for producing evidence during the discovery process in a consumer case?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-9",
-    "procedure.discovery_and_production_of_evidence"
+    "procedure.discovery_and_production_of_evidence",
+    "alias.discovery_and_production_of_evidence"
   ],
   "related_concepts": [
-    "procedure.discovery_and_production_of_evidence"
+    "alias.discovery_and_production_of_evidence"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "discovery",
+      "production",
+      "evidence",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government"
+    ],
+    "user_queries": [
+      "What is discovery and production of evidence?",
+      "How does discovery and production of evidence work?",
+      "Can you explain discovery and production of evidence?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

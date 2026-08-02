@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Enforcement of orders",
   "content": {
     "queries": [
+      "What happens if a company fails to comply with an enforcement order?",
+      "How are enforcement orders typically enforced?",
+      "Can a consumer file a complaint if an enforcement order is not being followed?",
+      "What is the process for appealing an enforcement order?",
+      "How long does it typically take for an enforcement order to be enforced?"
+    ]
+  },
+  "derived_from": [
+    "alias.enforcement_of_orders"
+  ],
+  "related_concepts": [
+    "alias.enforcement_of_orders"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "enforcement",
+      "orders",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "compliance enforcement",
+      "execution of orders",
+      "implementation of directives",
+      "order enforcement"
+    ],
+    "user_queries": [
       "What is enforcement of orders?",
       "How does enforcement of orders work?",
       "Can you explain enforcement of orders?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S71",
-    "exception.subject_to_the_modification_that_every_reference_to_the_decr"
-  ],
-  "related_concepts": [
-    "exception.subject_to_the_modification_that_every_reference_to_the_decr"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

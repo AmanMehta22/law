@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Reasons for adjournment",
   "content": {
     "queries": [
+      "What are the valid reasons for adjournment in a consumer protection case?",
+      "Can a consumer request an adjournment in a hearing under the Consumer Protection Act?",
+      "How many times can a case be adjourned before it is dismissed?",
+      "What is the process for requesting an adjournment in a consumer protection court?",
+      "Are there any penalties for frivolous requests for adjournment in consumer cases?"
+    ]
+  },
+  "derived_from": [
+    "alias.reasons_for_adjournment"
+  ],
+  "related_concepts": [
+    "alias.reasons_for_adjournment"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "reasons",
+      "adjournment",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "adjournment grounds",
+      "delay justification",
+      "hearing reschedule reasons",
+      "postponement reasons"
+    ],
+    "user_queries": [
       "What is reasons for adjournment?",
       "How does reasons for adjournment work?",
       "Can you explain reasons for adjournment?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S38-7",
-    "evidence.written_record"
-  ],
-  "related_concepts": [
-    "evidence.written_record"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

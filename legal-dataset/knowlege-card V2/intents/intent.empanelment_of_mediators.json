@@ -5,21 +5,44 @@
   "description": "Natural language queries a user may ask about: Empanelment of mediators",
   "content": {
     "queries": [
-      "How do I file empanelment of mediators?",
-      "What are the steps for empanelment of mediators?"
+      "What is the process of empaneling mediators under the Consumer Protection Act?",
+      "How are mediators selected for empanelment?",
+      "Can a consumer choose their own mediator for empanelment?",
+      "What are the qualifications required for a mediator to be empaneled?",
+      "Is empanelment of mediators mandatory for consumer dispute resolution?"
     ]
   },
   "derived_from": [
     "CPA2019-CH8-S103-2",
-    "procedure.empanelment_of_mediators"
+    "procedure.empanelment_of_mediators",
+    "alias.empanelment_of_mediators"
   ],
   "related_concepts": [
-    "procedure.empanelment_of_mediators"
+    "alias.empanelment_of_mediators"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "empanelment",
+      "mediators",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "adjournment cost",
+      "cost imposition by district commission",
+      "district commission cost"
+    ],
+    "user_queries": [
+      "What is empanelment of mediators?",
+      "How does empanelment of mediators work?",
+      "Can you explain empanelment of mediators?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

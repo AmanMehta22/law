@@ -5,21 +5,47 @@
   "description": "Natural language queries a user may ask about: Information Requirement",
   "content": {
     "queries": [
-      "How do I file information requirement?",
-      "What are the steps for information requirement?"
+      "What information is a business required to provide to consumers before a sale?",
+      "How does the information requirement protect consumers from unfair business practices?",
+      "What are the consequences for a business that fails to meet the information requirement?",
+      "Can a consumer cancel a purchase if the business did not provide the required information?",
+      "Is the information requirement the same for all types of businesses and transactions?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-4",
-    "procedure.information_requirement"
+    "procedure.information_requirement",
+    "alias.information_requirement"
   ],
   "related_concepts": [
-    "procedure.information_requirement"
+    "alias.information_requirement"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "information",
+      "requirement",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is electronic service provider must provide information?",
+      "How does electronic service provider must provide information work?",
+      "Can you explain electronic service provider must provide information?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

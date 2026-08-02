@@ -11,16 +11,38 @@
     ]
   },
   "derived_from": [
-    "CPA2019-CH7-S92",
-    "exception.except_on_a_complaint_filed_by_the_central_authority_or_any_"
+    "alias.complaint_by_central_authority_or_authorised_officer"
   ],
   "related_concepts": [
-    "exception.except_on_a_complaint_filed_by_the_central_authority_or_any_"
+    "alias.complaint_by_central_authority_or_authorised_officer"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "complaint",
+      "central",
+      "authority",
+      "authorised",
+      "officer",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "authorised officer complaint",
+      "central authority complaint",
+      "government complaint",
+      "regulatory complaint"
+    ],
+    "user_queries": [
+      "What is complaint by central authority or authorised officer?",
+      "How does complaint by central authority or authorised officer work?",
+      "Can you explain complaint by central authority or authorised officer?",
+      "What is central authority must file a complaint?",
+      "How does central authority must file a complaint work?",
+      "Can you explain central authority must file a complaint?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

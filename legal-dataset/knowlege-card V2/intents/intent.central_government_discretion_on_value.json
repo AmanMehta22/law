@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Central Government discretion on value",
   "content": {
     "queries": [
+      "What is the criteria used by the central government to determine the value of a complaint?",
+      "Can the central government discretion on value be challenged by a consumer?",
+      "How does the central government's discretion on value impact the outcome of a complaint?",
+      "Is the central government's discretion on value subject to review or appeal?",
+      "What is the range of values that the central government can discretionarily assign to a complaint?"
+    ]
+  },
+  "derived_from": [
+    "alias.central_government_discretion_on_value"
+  ],
+  "related_concepts": [
+    "alias.central_government_discretion_on_value"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "government",
+      "discretion",
+      "value",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "central authority value judgment",
+      "government pricing discretion",
+      "government value discretion",
+      "value threshold discretion"
+    ],
+    "user_queries": [
       "What is central government discretion on value?",
       "How does central government discretion on value work?",
       "Can you explain central government discretion on value?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S58-1",
-    "exception.the_central_government_may_prescribe_a_different_value_as_it"
-  ],
-  "related_concepts": [
-    "exception.the_central_government_may_prescribe_a_different_value_as_it"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

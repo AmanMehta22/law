@@ -5,21 +5,49 @@
   "description": "Natural language queries a user may ask about: Filing of complaint",
   "content": {
     "queries": [
-      "How do I file filing of complaint?",
-      "What are the steps for filing of complaint?"
+      "What are the requirements for filing a complaint with the Central Authority?",
+      "How can a consumer file a complaint with the Central Authority?",
+      "What documents are needed to file a complaint with the Central Authority?",
+      "Can a complaint be filed with the Central Authority online?",
+      "What is the fee for filing a complaint with the Central Authority?"
     ]
   },
   "derived_from": [
     "CPA2019-CH7-S92",
-    "procedure.filing_of_complaint"
+    "procedure.filing_of_complaint",
+    "alias.filing_of_complaint"
   ],
   "related_concepts": [
-    "procedure.filing_of_complaint"
+    "alias.filing_of_complaint"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "filing",
+      "complaint",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is central authority must file a complaint?",
+      "How does central authority must file a complaint work?",
+      "Can you explain central authority must file a complaint?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

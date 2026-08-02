@@ -5,22 +5,45 @@
   "description": "Natural language queries a user may ask about: Proof of express warranty",
   "content": {
     "queries": [
-      "What is proof of express warranty?",
-      "How does proof of express warranty work?",
-      "Can you explain proof of express warranty?"
+      "What constitutes proof of an express warranty?",
+      "How can a consumer obtain proof of an express warranty?",
+      "What are the requirements for a valid express warranty?",
+      "Can a product seller be held liable for failing to provide proof of an express warranty?",
+      "How does proof of an express warranty impact a product seller's liability?"
     ]
   },
   "derived_from": [
-    "CPA2019-CH6-S85",
-    "evidence.warranty"
+    "CPA2019-CH6-S86",
+    "evidence.express_warranty_documents"
   ],
   "related_concepts": [
-    "evidence.warranty"
+    "evidence.express_warranty_documents"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "proof",
+      "express",
+      "warranty",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "damages",
+      "reparation"
+    ],
+    "user_queries": [
+      "What is product service provider must conform to express warranty or contract terms?",
+      "How does product service provider must conform to express warranty or contract terms work?",
+      "Can you explain product service provider must conform to express warranty or contract terms?",
+      "What is product seller must exercise reasonable care?",
+      "How does product seller must exercise reasonable care work?",
+      "Can you explain product seller must exercise reasonable care?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

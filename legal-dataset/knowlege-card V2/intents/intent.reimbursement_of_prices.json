@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.reimbursement_of_prices",
   "concept_type": "intent",
-  "title": "Questions about Reimbursement of prices",
-  "description": "Natural language queries a user may ask about: Reimbursement of prices",
+  "title": "Questions about Reimbursement Of Prices",
+  "description": "Natural language queries a user may ask about: Reimbursement Of Prices",
   "content": {
     "queries": [
-      "get my money back"
+      "What is the process for reimbursement of prices to consumers?",
+      "How does the central authority ensure reimbursement of prices to consumers?",
+      "Can a consumer claim reimbursement of prices for defective goods or services?",
+      "What are the timelines for reimbursement of prices to consumers?",
+      "Is reimbursement of prices applicable to all goods and services?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S20",
-    "remedy.reimbursement_of_prices"
+    "remedy.reimbursement_of_prices",
+    "alias.reimbursement_of_prices"
   ],
   "related_concepts": [
-    "remedy.reimbursement_of_prices"
+    "alias.reimbursement_of_prices"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "reimbursement",
+      "prices",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "price reimbursement"
+    ],
+    "user_queries": [
+      "get my money back",
+      "What is central authority must give opportunity of being heard?",
+      "How does central authority must give opportunity of being heard work?",
+      "Can you explain central authority must give opportunity of being heard?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

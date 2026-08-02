@@ -1,24 +1,45 @@
 {
   "concept_id": "intent.court_must_consider_factors_while_determining_penalty",
   "concept_type": "intent",
-  "title": "Questions about Court must consider factors while determining penalty",
-  "description": "Natural language queries a user may ask about: Court must consider factors while determining penalty",
+  "title": "Questions about Court Must Consider Factors While Determining Penalty",
+  "description": "Natural language queries a user may ask about: Court Must Consider Factors While Determining Penalty",
   "content": {
     "queries": [
-      "what factors to consider while determining penalty under this section"
+      "What is court must consider factors while determining penalty?",
+      "How does court must consider factors while determining penalty work?",
+      "Can you explain court must consider factors while determining penalty?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S21-7",
-    "obligation.court_must_consider_factors_while_determining_penalty"
+    "obligation.court_must_consider_factors_while_determining_penalty",
+    "alias.court_must_consider_factors_while_determining_penalty"
   ],
   "related_concepts": [
-    "obligation.court_must_consider_factors_while_determining_penalty"
+    "alias.court_must_consider_factors_while_determining_penalty"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "court",
+      "consider",
+      "factors",
+      "while",
+      "determining",
+      "penalty",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "court consideration while determining penalty"
+    ],
+    "user_queries": [
+      "what factors to consider while determining penalty under this section",
+      "What is court must consider factors while determining penalty?",
+      "How does court must consider factors while determining penalty work?",
+      "Can you explain court must consider factors while determining penalty?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

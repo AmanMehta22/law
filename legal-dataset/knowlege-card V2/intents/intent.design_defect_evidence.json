@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.design_defect_evidence",
   "concept_type": "intent",
-  "title": "Questions about Design defect evidence",
-  "description": "Natural language queries a user may ask about: Design defect evidence",
+  "title": "Questions about Design Defect Evidence",
+  "description": "Natural language queries a user may ask about: Design Defect Evidence",
   "content": {
     "queries": [
-      "What documents are required to prove a design defect?"
+      "What kind of evidence is required to prove a design defect?",
+      "How does a design defect affect the overall safety of a product?",
+      "Can a design defect be considered a manufacturing flaw?",
+      "What role does design defect evidence play in a product liability case?",
+      "How can a consumer provide design defect evidence to support their claim?"
     ]
   },
   "derived_from": [
     "CPA2019-CH6-S84-1",
-    "evidence.design_specifications_testing_records"
+    "evidence.design_specifications_testing_records",
+    "alias.design_defect_evidence"
   ],
   "related_concepts": [
-    "evidence.design_specifications_testing_records"
+    "alias.design_defect_evidence"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "design",
+      "defect",
+      "evidence",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "product design flaw"
+    ],
+    "user_queries": [
+      "What documents are required to prove a design defect?",
+      "What is design defect evidence?",
+      "How does design defect evidence work?",
+      "Can you explain design defect evidence?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

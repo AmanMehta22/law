@@ -5,21 +5,44 @@
   "description": "Natural language queries a user may ask about: Filing complaints with the State Commission",
   "content": {
     "queries": [
-      "How do I file filing complaints with the state commission?",
-      "What are the steps for filing complaints with the state commission?"
+      "What are the requirements for filing a complaint with the State Commission?",
+      "Can I file a complaint with the State Commission directly or do I need to go to the District Forum first?",
+      "How do I know if my complaint falls within the jurisdiction of the State Commission?",
+      "What are the documents required to file a complaint with the State Commission?",
+      "Can the State Commission entertain complaints against unfair trade practices?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S47-1",
-    "procedure.filing_complaints_with_the_state_commission"
+    "procedure.filing_complaints_with_the_state_commission",
+    "alias.filing_complaints_with_the_state_commission"
   ],
   "related_concepts": [
-    "procedure.filing_complaints_with_the_state_commission"
+    "alias.filing_complaints_with_the_state_commission"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "filing",
+      "complaints",
+      "state",
+      "commission",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "calling for records",
+      "calling for records and passing orders",
+      "records and orders"
+    ],
+    "user_queries": [
+      "What is calling for records and passing orders?",
+      "How does calling for records and passing orders work?",
+      "Can you explain calling for records and passing orders?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.national_and_state_commissions_must_furnish_information_2",
+  "concept_type": "intent",
+  "title": "Questions about National and State Commissions must furnish information",
+  "description": "Natural language queries a user may ask about: National and State Commissions must furnish information",
+  "content": {
+    "queries": [
+      "What is the role of the National and State Commissions in providing information to consumers?",
+      "How do the National and State Commissions determine what information to furnish to consumers?",
+      "Can the National and State Commissions charge a fee for providing information to consumers?",
+      "What are the consequences for the National and State Commissions if they fail to furnish information to consumers?",
+      "How can I complain if the National or State Commission fails to provide me with the information I requested?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S70-4",
+    "obligation.national_commission_and_the_state_commissions_shall_furnish_"
+  ],
+  "related_concepts": [
+    "obligation.national_commission_and_the_state_commissions_shall_furnish_"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "national",
+      "state",
+      "commissions",
+      "furnish",
+      "information",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "reporting requirement"
+    ],
+    "user_queries": [
+      "What is information?",
+      "How does information work?",
+      "Can you explain information?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

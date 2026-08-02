@@ -1,0 +1,56 @@
+{
+  "concept_id": "intent.electronic_service_provider_must_designate_a_nodal_officer_2",
+  "concept_type": "intent",
+  "title": "Questions about Electronic Service Provider must designate a nodal officer",
+  "description": "Natural language queries a user may ask about: Electronic Service Provider must designate a nodal officer",
+  "content": {
+    "queries": [
+      "What are the benefits of having a nodal officer in an electronic service provider company?",
+      "How does the designation of a nodal officer affect the consumer grievance process?",
+      "Can an electronic service provider have multiple nodal officers?",
+      "What is the process for designating a nodal officer in an electronic service provider company?",
+      "How does the Consumer Protection Act ensure that electronic service providers designate nodal officers?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S65-2",
+    "obligation.electronic_service_provider_shall_designate_a_nodal_officer_"
+  ],
+  "related_concepts": [
+    "obligation.electronic_service_provider_shall_designate_a_nodal_officer_"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "electronic",
+      "service",
+      "provider",
+      "designate",
+      "nodal",
+      "officer",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "csp",
+      "csp nodal officer",
+      "electronic service provider nodal officer"
+    ],
+    "user_queries": [
+      "What is electronic service provider must designate a nodal officer?",
+      "How does electronic service provider must designate a nodal officer work?",
+      "Can you explain electronic service provider must designate a nodal officer?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

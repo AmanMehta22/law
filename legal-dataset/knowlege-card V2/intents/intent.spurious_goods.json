@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Spurious Goods",
   "content": {
     "queries": [
-      "What are spurious goods?",
-      "What is meant by spurious goods?",
-      "How are spurious goods defined under the Consumer Protection Act?"
+      "What are the consequences of selling spurious goods to consumers?",
+      "How can I identify if a product is spurious or not?",
+      "What is the definition of spurious goods under the Consumer Protection Act?",
+      "Can a consumer file a complaint against a seller of spurious goods?",
+      "What are the penalties for manufacturing and selling spurious goods?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-43",
-    "definition.spurious_goods"
+    "definition.spurious_goods",
+    "alias.spurious_goods"
   ],
   "related_concepts": [
-    "definition.spurious_goods"
+    "alias.spurious_goods"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "spurious",
+      "goods",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "fake goods",
+      "counterfeit products"
+    ],
+    "user_queries": [
+      "What is spurious goods?",
+      "How does spurious goods work?",
+      "Can you explain spurious goods?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

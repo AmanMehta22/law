@@ -1,0 +1,61 @@
+{
+  "concept_id": "intent.punishment_for_non_compliance_with_direction_of_central_authority_3",
+  "concept_type": "intent",
+  "title": "Questions about Punishment for non-compliance with direction of Central Authority",
+  "description": "Natural language queries a user may ask about: Punishment for non-compliance with direction of Central Authority",
+  "content": {
+    "queries": [
+      "What is the process for punishing non-compliance with the Central Authority's direction?",
+      "Can an individual be held liable for non-compliance with the Central Authority's direction?",
+      "How does the Central Authority determine the punishment for non-compliance?",
+      "What are the factors that influence the punishment for non-compliance with the Central Authority's direction?",
+      "Can the punishment for non-compliance with the Central Authority's direction be appealed?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH7-S88",
+    "penalty.failing_to_comply_with_direction_of_central_authority"
+  ],
+  "related_concepts": [
+    "penalty.failing_to_comply_with_direction_of_central_authority"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "punishment",
+      "non",
+      "compliance",
+      "direction",
+      "central",
+      "authority",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is punishment for non-compliance with direction of central authority?",
+      "How does punishment for non-compliance with direction of central authority work?",
+      "Can you explain punishment for non-compliance with direction of central authority?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

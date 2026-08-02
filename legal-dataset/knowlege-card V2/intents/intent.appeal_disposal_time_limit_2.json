@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.appeal_disposal_time_limit_2",
+  "concept_type": "intent",
+  "title": "Questions about Appeal disposal time limit",
+  "description": "Natural language queries a user may ask about: Appeal disposal time limit",
+  "content": {
+    "queries": [
+      "Are there any exceptions to the appeal disposal time limit?",
+      "How can I track the status of my appeal within the time limit?",
+      "What are the consequences of not meeting the appeal disposal time limit?",
+      "Can I file an appeal after the disposal time limit has expired?",
+      "How does the appeal disposal time limit impact the overall appeal process?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S52",
+    "timeline.ninety_days"
+  ],
+  "related_concepts": [
+    "timeline.ninety_days"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "appeal",
+      "disposal",
+      "time",
+      "limit",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "delay",
+      "postponement"
+    ],
+    "user_queries": [
+      "What is appeal disposal time limit?",
+      "How does appeal disposal time limit work?",
+      "Can you explain appeal disposal time limit?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

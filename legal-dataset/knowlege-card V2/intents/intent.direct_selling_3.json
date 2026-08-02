@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.direct_selling_3",
+  "concept_type": "intent",
+  "title": "Questions about Direct Selling",
+  "description": "Natural language queries a user may ask about: Direct Selling",
+  "content": {
+    "queries": [
+      "What are the benefits of direct selling for consumers?",
+      "How can a consumer identify a legitimate direct selling business?",
+      "What are the responsibilities of a direct seller to their customers?",
+      "Can a direct seller make false or misleading claims about their products?",
+      "How can a consumer file a complaint against a direct seller?"
+    ]
+  },
+  "derived_from": [
+    "definition.direct_selling",
+    "example.direct_selling"
+  ],
+  "related_concepts": [
+    "example.direct_selling"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "direct",
+      "selling",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "multi-level marketing",
+      "network selling"
+    ],
+    "user_queries": [
+      "What is direct selling?",
+      "How does direct selling work?",
+      "Can you explain direct selling?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

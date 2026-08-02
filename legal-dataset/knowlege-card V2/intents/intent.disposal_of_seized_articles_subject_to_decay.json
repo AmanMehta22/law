@@ -5,21 +5,46 @@
   "description": "Natural language queries a user may ask about: Disposal of seized articles subject to decay",
   "content": {
     "queries": [
-      "How do I file disposal of seized articles subject to decay?",
-      "What are the steps for disposal of seized articles subject to decay?"
+      "Who is responsible for disposing of seized articles that are subject to decay?",
+      "What is the process for disposing of seized goods that are perishable?",
+      "Can a director-general or officer dispose of seized articles without permission?",
+      "How are seized articles that are subject to decay typically disposed of?",
+      "What are the rules for disposing of seized goods that are likely to decay?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S22-4",
-    "procedure.disposal_of_seized_articles_subject_to_decay"
+    "procedure.disposal_of_seized_articles_subject_to_decay",
+    "alias.disposal_of_seized_articles_subject_to_decay"
   ],
   "related_concepts": [
-    "procedure.disposal_of_seized_articles_subject_to_decay"
+    "alias.disposal_of_seized_articles_subject_to_decay"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "disposal",
+      "seized",
+      "articles",
+      "subject",
+      "decay",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "Chief Director",
+      "DG",
+      "Director General of Consumer Affairs",
+      "Head of Consumer Protection",
+      "Main Official"
+    ],
+    "user_queries": [
+      "What is director-general or officer must dispose of seized articles?",
+      "How does director-general or officer must dispose of seized articles work?",
+      "Can you explain director-general or officer must dispose of seized articles?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

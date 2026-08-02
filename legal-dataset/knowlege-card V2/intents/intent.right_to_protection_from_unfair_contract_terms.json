@@ -5,22 +5,45 @@
   "description": "Natural language queries a user may ask about: Right to Protection from Unfair Contract Terms",
   "content": {
     "queries": [
-      "can a consumer challenge unfair contract terms",
-      "can a contract be declared null and void if it is unfair"
+      "What rights do consumers have to protection from unfair contract terms?",
+      "How can consumers seek protection from unfair contract terms?",
+      "What constitutes an unfair contract term that a consumer needs protection from?",
+      "Can consumers claim compensation for unfair contract terms?",
+      "How does the law protect consumers from unfair contract terms?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S49-2",
     "CPA2019-CH4-S59-2",
-    "right.right_to_protection_from_unfair_contract_terms"
+    "right.right_to_protection_from_unfair_contract_terms",
+    "alias.right_to_protection_from_unfair_contract_terms"
   ],
   "related_concepts": [
-    "right.right_to_protection_from_unfair_contract_terms"
+    "alias.right_to_protection_from_unfair_contract_terms"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "right",
+      "protection",
+      "unfair",
+      "contract",
+      "terms",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "right to fair contract terms"
+    ],
+    "user_queries": [
+      "can a consumer challenge unfair contract terms",
+      "can a contract be declared null and void if it is unfair",
+      "What is declaration of contract terms as null and void?",
+      "How does declaration of contract terms as null and void work?",
+      "Can you explain declaration of contract terms as null and void?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

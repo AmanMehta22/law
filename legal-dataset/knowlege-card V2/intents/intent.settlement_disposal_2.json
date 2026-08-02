@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.settlement_disposal_2",
+  "concept_type": "intent",
+  "title": "Questions about Settlement Disposal",
+  "description": "Natural language queries a user may ask about: Settlement Disposal",
+  "content": {
+    "queries": [
+      "What are the factors that a commission considers when disposing of a matter through settlement?",
+      "How does a commission ensure that a settlement disposal is fair and reasonable?",
+      "Can a consumer dispute be settled and disposed of through mediation?",
+      "What is the role of a commission in facilitating settlement disposal in a consumer dispute?",
+      "How does a commission document and record a settlement disposal in a consumer dispute?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S81-1",
+    "procedure.settlement_disposal"
+  ],
+  "related_concepts": [
+    "procedure.settlement_disposal"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "settlement",
+      "disposal",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "consumer complaint",
+      "dispute resolution"
+    ],
+    "user_queries": [
+      "What is commission must pass order and dispose of matter?",
+      "How does commission must pass order and dispose of matter work?",
+      "Can you explain commission must pass order and dispose of matter?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

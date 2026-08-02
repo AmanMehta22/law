@@ -11,16 +11,38 @@
     ]
   },
   "derived_from": [
-    "CPA2019-CH1-S2-37",
-    "exception.does_not_include_a_person_who_leases_a_product_without_havin"
+    "alias.leasing_a_product"
   ],
   "related_concepts": [
-    "exception.does_not_include_a_person_who_leases_a_product_without_havin"
+    "alias.leasing_a_product"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "leasing",
+      "product",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "equipment lease",
+      "hire purchase",
+      "product rental",
+      "rental agreement"
+    ],
+    "user_queries": [
+      "What is leasing a product?",
+      "How does leasing a product work?",
+      "Can you explain leasing a product?",
+      "What is financial capacity?",
+      "How does financial capacity work?",
+      "Can you explain financial capacity?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

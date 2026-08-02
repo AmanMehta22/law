@@ -5,21 +5,45 @@
   "description": "Natural language queries a user may ask about: Appeal to National Commission",
   "content": {
     "queries": [
-      "How do I file appeal to national commission?",
-      "What are the steps for appeal to national commission?"
+      "Is there a specific form that needs to be filled for appealing to the National Commission?",
+      "Can a consumer appeal to the National Commission without going through the state commission?",
+      "What are the fees associated with filing an appeal to the National Commission?",
+      "How does the National Commission decide on the appeal in a consumer dispute?",
+      "Are there any limitations on the number of appeals that can be filed to the National Commission?"
     ]
   },
   "derived_from": [
-    "CPA2019-CH8-S101-2",
-    "procedure.appeal_to_national_commission"
+    "CPA2019-CH4-S51-2",
+    "exception.save_as_otherwise_expressly_provided_under_this_act_or_by_an"
   ],
   "related_concepts": [
-    "procedure.appeal_to_national_commission"
+    "exception.save_as_otherwise_expressly_provided_under_this_act_or_by_an"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "appeal",
+      "national",
+      "commission",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "appeal to national commission",
+      "appeal to national consumer commission",
+      "national appeal",
+      "national commission",
+      "national commission appeal"
+    ],
+    "user_queries": [
+      "What is appeal to national commission?",
+      "How does appeal to national commission work?",
+      "Can you explain appeal to national commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,25 +1,49 @@
 {
   "concept_id": "intent.appellant_must_state_substantial_question_of_law",
   "concept_type": "intent",
-  "title": "Questions about Appellant must state substantial question of law",
-  "description": "Natural language queries a user may ask about: Appellant must state substantial question of law",
+  "title": "Questions about Appellant Must State Substantial Question Of Law",
+  "description": "Natural language queries a user may ask about: Appellant Must State Substantial Question Of Law",
   "content": {
     "queries": [
-      "What are the requirements for filing an appeal?",
-      "How to appeal a decision involving a question of law?"
+      "What is considered a substantial question of law in an appeal?",
+      "How must an appellant frame a substantial question of law?",
+      "Can an appeal be admitted without a substantial question of law being stated?",
+      "What are the implications of not stating a substantial question of law?",
+      "How does the court evaluate if a question of law is substantial enough for an appeal?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S51-3",
-    "obligation.appellant_must_precisely_state_the_substantial_question_of_l"
+    "obligation.appellant_must_precisely_state_the_substantial_question_of_l",
+    "alias.appellant_must_state_substantial_question_of_law"
   ],
   "related_concepts": [
-    "obligation.appellant_must_precisely_state_the_substantial_question_of_l"
+    "alias.appellant_must_state_substantial_question_of_law"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "appellant",
+      "state",
+      "substantial",
+      "question",
+      "law",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "statement of appeal",
+      "appeal petition"
+    ],
+    "user_queries": [
+      "What are the requirements for filing an appeal?",
+      "How to appeal a decision involving a question of law?",
+      "What is appellant must state substantial question of law?",
+      "How does appellant must state substantial question of law work?",
+      "Can you explain appellant must state substantial question of law?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

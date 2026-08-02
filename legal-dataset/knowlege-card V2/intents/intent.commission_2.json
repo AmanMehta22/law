@@ -1,0 +1,58 @@
+{
+  "concept_id": "intent.commission_2",
+  "concept_type": "intent",
+  "title": "Questions about Commission",
+  "description": "Natural language queries a user may ask about: Commission",
+  "content": {
+    "queries": [
+      "What is the composition of the commission and how are its members appointed?",
+      "How does the commission handle complaints and grievances from consumers?",
+      "What are the commission's powers to investigate and prosecute consumer protection cases?",
+      "Can the commission provide relief and compensation to consumers who have been harmed?",
+      "How does the commission coordinate with other regulatory agencies to protect consumer interests?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S80-2",
+    "CPA2019-CH5-S80-3",
+    "authority.commission"
+  ],
+  "related_concepts": [
+    "authority.commission"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "commission",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what",
+      "how"
+    ],
+    "aliases": [
+      "Consumer Commission",
+      "Consumer Court",
+      "Court",
+      "Tribunal"
+    ],
+    "user_queries": [
+      "What is commission?",
+      "How does commission work?",
+      "Can you explain commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.proof_of_manufacturing_defect",
   "concept_type": "intent",
-  "title": "Questions about Proof of manufacturing defect",
-  "description": "Natural language queries a user may ask about: Proof of manufacturing defect",
+  "title": "Questions about Proof Of Manufacturing Defect",
+  "description": "Natural language queries a user may ask about: Proof Of Manufacturing Defect",
   "content": {
     "queries": [
-      "What documents are required to prove a manufacturing defect?"
+      "How can I prove that a product has a manufacturing defect?",
+      "What evidence is required to establish a manufacturing defect claim?",
+      "Can a consumer use expert testimony to prove a manufacturing defect?",
+      "What is the process for obtaining proof of a manufacturing defect from a manufacturer?",
+      "How long do I have to provide proof of a manufacturing defect after discovering it?"
     ]
   },
   "derived_from": [
     "CPA2019-CH6-S84-1",
-    "evidence.evidence_of_manufacturing_process_quality_control_records"
+    "evidence.evidence_of_manufacturing_process_quality_control_records",
+    "alias.proof_of_manufacturing_defect"
   ],
   "related_concepts": [
-    "evidence.evidence_of_manufacturing_process_quality_control_records"
+    "alias.proof_of_manufacturing_defect"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "proof",
+      "manufacturing",
+      "defect",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "product flaw"
+    ],
+    "user_queries": [
+      "What documents are required to prove a manufacturing defect?",
+      "What is design defect evidence?",
+      "How does design defect evidence work?",
+      "Can you explain design defect evidence?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.district_commission_must_give_opportunity_of_being_heard",
   "concept_type": "intent",
-  "title": "Questions about District Commission must give opportunity of being heard",
-  "description": "Natural language queries a user may ask about: District Commission must give opportunity of being heard",
+  "title": "Questions about District Commission Must Give Opportunity Of Being Heard",
+  "description": "Natural language queries a user may ask about: District Commission Must Give Opportunity Of Being Heard",
   "content": {
     "queries": [
-      "District Commission duties"
+      "Does the District Commission have to give the consumer a chance to be heard before making a decision?",
+      "What is the process for being heard by the District Commission?",
+      "Can the District Commission make a decision without giving the consumer an opportunity to present their case?",
+      "How does the District Commission ensure that consumers are given a fair opportunity to be heard?",
+      "What are the consequences if the District Commission fails to provide an opportunity of being heard?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S36-2",
-    "obligation.district_commission_must_give_opportunity_of_being_heard_to_"
+    "obligation.district_commission_must_give_opportunity_of_being_heard_to_",
+    "alias.district_commission_must_give_opportunity_of_being_heard"
   ],
   "related_concepts": [
-    "obligation.district_commission_must_give_opportunity_of_being_heard_to_"
+    "alias.district_commission_must_give_opportunity_of_being_heard"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commission",
+      "give",
+      "opportunity",
+      "being",
+      "heard",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "fair hearing"
+    ],
+    "user_queries": [
+      "District Commission duties",
+      "What is admissibility decision time limit?",
+      "How does admissibility decision time limit work?",
+      "Can you explain admissibility decision time limit?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

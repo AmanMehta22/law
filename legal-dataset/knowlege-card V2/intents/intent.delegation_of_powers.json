@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.delegation_of_powers",
   "concept_type": "intent",
-  "title": "Questions about Delegation of powers",
-  "description": "Natural language queries a user may ask about: Delegation of powers",
+  "title": "Questions about Delegation Of Powers",
+  "description": "Natural language queries a user may ask about: Delegation Of Powers",
   "content": {
     "queries": [
-      "Can the Chief Commissioner delegate powers?"
+      "Under what circumstances can the chief commissioner delegate powers to other officials?",
+      "What are the limitations on the chief commissioner's power to delegate authority?",
+      "Can the chief commissioner delegate the power to exercise general superintendence?",
+      "How does the delegation of powers affect the commission's decision-making process?",
+      "What are the consequences of the chief commissioner's delegation of powers being challenged?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S14-2",
-    "exception.the_chief_commissioner_may_delegate_such_powers_to_any_commi"
+    "exception.the_chief_commissioner_may_delegate_such_powers_to_any_commi",
+    "alias.delegation_of_powers"
   ],
   "related_concepts": [
-    "exception.the_chief_commissioner_may_delegate_such_powers_to_any_commi"
+    "alias.delegation_of_powers"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "delegation",
+      "powers",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "administrative matters"
+    ],
+    "user_queries": [
+      "Can the Chief Commissioner delegate powers?",
+      "What is chief commissioner must exercise general superintendence?",
+      "How does chief commissioner must exercise general superintendence work?",
+      "Can you explain chief commissioner must exercise general superintendence?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

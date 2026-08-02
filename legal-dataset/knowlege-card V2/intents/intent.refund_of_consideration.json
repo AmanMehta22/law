@@ -11,16 +11,38 @@
     ]
   },
   "derived_from": [
-    "CPA2019-CH1-S2-47",
-    "remedy.refund"
+    "alias.refund_of_consideration"
   ],
   "related_concepts": [
-    "remedy.refund"
+    "alias.refund_of_consideration"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "refund",
+      "consideration",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "money back",
+      "refund of payment",
+      "reimbursement",
+      "return of consideration"
+    ],
+    "user_queries": [
+      "What is refund for defective goods?",
+      "How does refund for defective goods work?",
+      "Can you explain refund for defective goods?",
+      "What is refund of consideration?",
+      "How does refund of consideration work?",
+      "Can you explain refund of consideration?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

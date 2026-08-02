@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.penalty_for_unauthorized_search_or_seizure",
   "concept_type": "intent",
-  "title": "Questions about Penalty for unauthorized search or seizure",
-  "description": "Natural language queries a user may ask about: Penalty for unauthorized search or seizure",
+  "title": "Questions about Penalty For Unauthorized Search Or Seizure",
+  "description": "Natural language queries a user may ask about: Penalty For Unauthorized Search Or Seizure",
   "content": {
     "queries": [
-      "what is the punishment for illegal search"
+      "What is the penalty for conducting an unauthorized search of a consumer's property?",
+      "Can a business be penalized for seizing a consumer's goods without permission?",
+      "How does the law handle unauthorized searches or seizures by businesses?",
+      "What are the consequences for a company that conducts an unauthorized search or seizure?",
+      "Is there a penalty for businesses that search or seize consumer property without authorization?"
     ]
   },
   "derived_from": [
     "CPA2019-CH7-S93",
-    "penalty.searching_or_seizing_without_reasonable_grounds"
+    "penalty.searching_or_seizing_without_reasonable_grounds",
+    "alias.penalty_for_unauthorized_search_or_seizure"
   ],
   "related_concepts": [
-    "penalty.searching_or_seizing_without_reasonable_grounds"
+    "alias.penalty_for_unauthorized_search_or_seizure"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "penalty",
+      "unauthorized",
+      "search",
+      "seizure",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "penalty for misconduct"
+    ],
+    "user_queries": [
+      "what is the punishment for illegal search",
+      "What is penalty for unauthorized search or seizure?",
+      "How does penalty for unauthorized search or seizure work?",
+      "Can you explain penalty for unauthorized search or seizure?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

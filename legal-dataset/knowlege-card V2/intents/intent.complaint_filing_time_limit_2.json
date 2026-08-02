@@ -1,0 +1,57 @@
+{
+  "concept_id": "intent.complaint_filing_time_limit_2",
+  "concept_type": "intent",
+  "title": "Questions about Complaint filing time limit",
+  "description": "Natural language queries a user may ask about: Complaint filing time limit",
+  "content": {
+    "queries": [
+      "complaint time limit",
+      "filing deadline",
+      "What is central government must make provisions to remove difficulties?",
+      "How does central government must make provisions to remove difficulties work?",
+      "Can you explain central government must make provisions to remove difficulties?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S69-1",
+    "CPA2019-CH8-S106",
+    "timeline.two_years"
+  ],
+  "related_concepts": [
+    "timeline.two_years"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "complaint",
+      "filing",
+      "time",
+      "limit",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "complaint deadline"
+    ],
+    "user_queries": [
+      "complaint time limit",
+      "filing deadline",
+      "What is central government must make provisions to remove difficulties?",
+      "How does central government must make provisions to remove difficulties work?",
+      "Can you explain central government must make provisions to remove difficulties?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

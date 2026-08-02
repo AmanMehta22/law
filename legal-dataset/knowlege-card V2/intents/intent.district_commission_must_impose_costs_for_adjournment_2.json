@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.district_commission_must_impose_costs_for_adjournment_2",
+  "concept_type": "intent",
+  "title": "Questions about District Commission must impose costs for adjournment",
+  "description": "Natural language queries a user may ask about: District Commission must impose costs for adjournment",
+  "content": {
+    "queries": [
+      "what are the costs for adjournment",
+      "What is district commission must impose costs for adjournment?",
+      "How does district commission must impose costs for adjournment work?",
+      "Can you explain district commission must impose costs for adjournment?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S103-2",
+    "obligation.district_commission_must_impose_costs_for_adjournment"
+  ],
+  "related_concepts": [
+    "obligation.district_commission_must_impose_costs_for_adjournment"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commission",
+      "impose",
+      "costs",
+      "adjournment",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "costs for delay"
+    ],
+    "user_queries": [
+      "what are the costs for adjournment",
+      "What is district commission must impose costs for adjournment?",
+      "How does district commission must impose costs for adjournment work?",
+      "Can you explain district commission must impose costs for adjournment?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

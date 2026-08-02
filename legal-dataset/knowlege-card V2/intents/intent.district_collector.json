@@ -5,9 +5,11 @@
   "description": "Natural language queries a user may ask about: District Collector",
   "content": {
     "queries": [
-      "What is district collector?",
-      "How does district collector work?",
-      "Can you explain district collector?"
+      "Who is responsible for causing an investigation in a district?",
+      "What role does the District Collector play in consumer protection?",
+      "Can the District Collector initiate an investigation on their own?",
+      "How does the District Collector interact with the central authority?",
+      "Is the District Collector the central authority for investigation purposes?"
     ]
   },
   "derived_from": [
@@ -16,15 +18,36 @@
     "CPA2019-CH3-S19-1",
     "CPA2019-CH3-S19-3",
     "CPA2019-CH3-S22-1",
-    "authority.district_collector"
+    "authority.district_collector",
+    "alias.district_collector"
   ],
   "related_concepts": [
-    "authority.district_collector"
+    "alias.district_collector"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "collector",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "by whatever name called"
+    ],
+    "user_queries": [
+      "What is commissioner of regional office?",
+      "How does commissioner of regional office work?",
+      "Can you explain commissioner of regional office?",
+      "What is central authority must cause investigation?",
+      "How does central authority must cause investigation work?",
+      "Can you explain central authority must cause investigation?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

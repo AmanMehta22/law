@@ -11,16 +11,37 @@
     ]
   },
   "derived_from": [
-    "CPA2019-CH4-S38-2",
-    "evidence.report_from_laboratory"
+    "alias.report_from_laboratory"
   ],
   "related_concepts": [
-    "evidence.report_from_laboratory"
+    "alias.report_from_laboratory"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "report",
+      "laboratory",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "lab report",
+      "laboratory test results",
+      "scientific analysis report"
+    ],
+    "user_queries": [
+      "What is complaint handling?",
+      "How does complaint handling work?",
+      "Can you explain complaint handling?",
+      "What is report from laboratory?",
+      "How does report from laboratory work?",
+      "Can you explain report from laboratory?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

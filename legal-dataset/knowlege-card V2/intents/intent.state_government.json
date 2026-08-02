@@ -5,9 +5,11 @@
   "description": "Natural language queries a user may ask about: State Government",
   "content": {
     "queries": [
-      "What is state government?",
-      "How does state government work?",
-      "Can you explain state government?"
+      "What is the role of state government in consumer protection?",
+      "How does state government regulate appropriate laboratories?",
+      "Can I file a complaint with the state government about a product?",
+      "What are the powers of state government under the Consumer Protection Act?",
+      "How does state government ensure compliance with consumer protection laws?"
     ]
   },
   "derived_from": [
@@ -29,15 +31,34 @@
     "CPA2019-CH5-S74-1",
     "CPA2019-CH8-S102-2",
     "CPA2019-CH8-S105-2",
-    "authority.state_government"
+    "authority.state_government",
+    "alias.state_government"
   ],
   "related_concepts": [
-    "authority.state_government"
+    "alias.state_government"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "state",
+      "government",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Government of the State",
+      "State Govt"
+    ],
+    "user_queries": [
+      "What is appropriate laboratory?",
+      "How does appropriate laboratory work?",
+      "Can you explain appropriate laboratory?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

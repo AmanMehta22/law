@@ -1,24 +1,46 @@
 {
   "concept_id": "intent.trader_must_discontinue_or_modify_advertisement",
   "concept_type": "intent",
-  "title": "Questions about Trader must discontinue or modify advertisement",
-  "description": "Natural language queries a user may ask about: Trader must discontinue or modify advertisement",
+  "title": "Questions about Trader Must Discontinue Or Modify Advertisement",
+  "description": "Natural language queries a user may ask about: Trader Must Discontinue Or Modify Advertisement",
   "content": {
     "queries": [
-      "What must a trader do if their advertisement is found to be misleading?"
+      "What is trader must discontinue or modify advertisement?",
+      "How does trader must discontinue or modify advertisement work?",
+      "Can you explain trader must discontinue or modify advertisement?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S21-1",
-    "obligation.trader_must_discontinue_or_modify_advertisement_as_directed"
+    "obligation.trader_must_discontinue_or_modify_advertisement_as_directed",
+    "alias.trader_must_discontinue_or_modify_advertisement"
   ],
   "related_concepts": [
-    "obligation.trader_must_discontinue_or_modify_advertisement_as_directed"
+    "alias.trader_must_discontinue_or_modify_advertisement"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "trader",
+      "discontinue",
+      "modify",
+      "advertisement",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "manufacturer duties",
+      "endorser responsibilities"
+    ],
+    "user_queries": [
+      "What must a trader do if their advertisement is found to be misleading?",
+      "What is trader must discontinue or modify advertisement?",
+      "How does trader must discontinue or modify advertisement work?",
+      "Can you explain trader must discontinue or modify advertisement?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

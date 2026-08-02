@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.central_government_must_consult_2",
+  "concept_type": "intent",
+  "title": "Questions about Central Government must consult",
+  "description": "Natural language queries a user may ask about: Central Government must consult",
+  "content": {
+    "queries": [
+      "What are the obligations of the Central Government regarding District Commissions?",
+      "What is central government must consult?",
+      "How does central government must consult work?",
+      "Can you explain central government must consult?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S28-2",
+    "obligation.central_government_must_consult"
+  ],
+  "related_concepts": [
+    "obligation.central_government_must_consult"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "government",
+      "consult",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Government of India"
+    ],
+    "user_queries": [
+      "What are the obligations of the Central Government regarding District Commissions?",
+      "What is central government must consult?",
+      "How does central government must consult work?",
+      "Can you explain central government must consult?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

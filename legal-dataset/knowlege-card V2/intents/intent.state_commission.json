@@ -5,7 +5,11 @@
   "description": "Natural language queries a user may ask about: State Commission",
   "content": {
     "queries": [
-      "file complaint in state commission"
+      "What is the role of the State Commission in consumer disputes?",
+      "How do I contact the State Commission for a consumer complaint?",
+      "Can the State Commission provide acknowledgment for my complaint?",
+      "What are the powers of the State Commission under the Consumer Protection Act?",
+      "How does the State Commission handle consumer complaints against companies?"
     ]
   },
   "derived_from": [
@@ -62,15 +66,39 @@
     "CPA2019-CH8-S103-2",
     "CPA2019-CH8-S95",
     "CPA2019-CH8-S98",
-    "authority.state_commission"
+    "authority.state_commission",
+    "definition.state_commission",
+    "alias.state_commission"
   ],
   "related_concepts": [
-    "authority.state_commission"
+    "alias.state_commission"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "state",
+      "commission",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "State Consumer Disputes Redressal Commission",
+      "Commission of the State",
+      "State Consumer Commission"
+    ],
+    "user_queries": [
+      "What is state commission?",
+      "How does state commission work?",
+      "Can you explain state commission?",
+      "What is acknowledgment?",
+      "How does acknowledgment work?",
+      "Can you explain acknowledgment?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

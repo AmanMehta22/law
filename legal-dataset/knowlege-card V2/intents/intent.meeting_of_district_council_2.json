@@ -1,0 +1,56 @@
+{
+  "concept_id": "intent.meeting_of_district_council_2",
+  "concept_type": "intent",
+  "title": "Questions about Meeting of District Council",
+  "description": "Natural language queries a user may ask about: Meeting of District Council",
+  "content": {
+    "queries": [
+      "What procedures must a district council follow during meetings?",
+      "How often should a district council meet to observe procedures?",
+      "Can a district council meeting be conducted without following procedures?",
+      "What are the consequences if a district council does not meet and observe procedures?",
+      "How does the district council ensure that its meetings are conducted in accordance with procedures?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH2-S8-4",
+    "procedure.meeting_of_district_council"
+  ],
+  "related_concepts": [
+    "procedure.meeting_of_district_council"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "meeting",
+      "district",
+      "council",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "District Board",
+      "Local Council",
+      "Municipal Council"
+    ],
+    "user_queries": [
+      "What is district council must meet and observe procedure?",
+      "How does district council must meet and observe procedure work?",
+      "Can you explain district council must meet and observe procedure?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.admissibility_of_the_complaint_2",
+  "concept_type": "intent",
+  "title": "Questions about Admissibility of the complaint",
+  "description": "Natural language queries a user may ask about: Admissibility of the complaint",
+  "content": {
+    "queries": [
+      "What are the criteria for determining admissibility of a complaint?",
+      "How do I know if my complaint is admissible under the Consumer Protection Act?",
+      "Can a complaint be rejected due to inadmissibility?",
+      "What is the process for reviewing the admissibility of a complaint?",
+      "On what grounds can a complaint be deemed inadmissible?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S36-3",
+    "timeline.the_period_so_specified"
+  ],
+  "related_concepts": [
+    "timeline.the_period_so_specified"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "admissibility",
+      "complaint",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is admissibility of the complaint?",
+      "How does admissibility of the complaint work?",
+      "Can you explain admissibility of the complaint?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

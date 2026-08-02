@@ -1,24 +1,45 @@
 {
   "concept_id": "intent.state_commission_must_dispose_of_complaints",
   "concept_type": "intent",
-  "title": "Questions about State Commission must dispose of complaints",
-  "description": "Natural language queries a user may ask about: State Commission must dispose of complaints",
+  "title": "Questions about State Commission Must Dispose Of Complaints",
+  "description": "Natural language queries a user may ask about: State Commission Must Dispose Of Complaints",
   "content": {
     "queries": [
-      "How does State Commission handle complaints"
+      "What is state commission must dispose of complaints?",
+      "How does state commission must dispose of complaints work?",
+      "Can you explain state commission must dispose of complaints?"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S49-1",
-    "obligation.state_commission_must_dispose_of_complaints"
+    "obligation.state_commission_must_dispose_of_complaints",
+    "alias.state_commission_must_dispose_of_complaints"
   ],
   "related_concepts": [
-    "obligation.state_commission_must_dispose_of_complaints"
+    "alias.state_commission_must_dispose_of_complaints"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "state",
+      "commission",
+      "dispose",
+      "complaints",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "State Commission complaints disposal"
+    ],
+    "user_queries": [
+      "How does State Commission handle complaints",
+      "What is state commission must dispose of complaints?",
+      "How does state commission must dispose of complaints work?",
+      "Can you explain state commission must dispose of complaints?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

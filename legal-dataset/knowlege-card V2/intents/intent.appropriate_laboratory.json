@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Appropriate Laboratory",
   "content": {
     "queries": [
-      "What is an appropriate laboratory?",
-      "How is a lab recognised by the government?",
-      "What kind of labs can test goods for defects?"
+      "What makes a laboratory an appropriate laboratory for testing consumer goods?",
+      "How does an appropriate laboratory ensure the accuracy of its test results?",
+      "What are the standards for an appropriate laboratory to follow in testing consumer products?",
+      "Can an appropriate laboratory be accredited by a recognized authority?",
+      "How does an appropriate laboratory maintain the integrity of its testing processes?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-2",
-    "definition.appropriate_laboratory"
+    "definition.appropriate_laboratory",
+    "alias.appropriate_laboratory"
   ],
   "related_concepts": [
-    "definition.appropriate_laboratory"
+    "alias.appropriate_laboratory"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "appropriate",
+      "laboratory",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "approved lab",
+      "recognised lab"
+    ],
+    "user_queries": [
+      "What is appropriate laboratory?",
+      "How does appropriate laboratory work?",
+      "Can you explain appropriate laboratory?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

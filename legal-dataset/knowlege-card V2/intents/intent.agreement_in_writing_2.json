@@ -1,0 +1,57 @@
+{
+  "concept_id": "intent.agreement_in_writing_2",
+  "concept_type": "intent",
+  "title": "Questions about Agreement in writing",
+  "description": "Natural language queries a user may ask about: Agreement in writing",
+  "content": {
+    "queries": [
+      "What are the consequences of not having an agreement in writing?",
+      "How can a consumer ensure that an agreement in writing is fair and reasonable?",
+      "Can an agreement in writing be used as evidence in a consumer court?",
+      "What is the difference between an agreement in writing and a verbal agreement?",
+      "How long should an agreement in writing be kept for record purposes?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S80-1",
+    "evidence.written_agreement"
+  ],
+  "related_concepts": [
+    "evidence.written_agreement"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "agreement",
+      "writing",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Alternative Dispute Resolution",
+      "Dispute Resolution Agreement",
+      "Mediation Contract",
+      "Settlement Agreement"
+    ],
+    "user_queries": [
+      "What is agreement in writing?",
+      "How does agreement in writing work?",
+      "Can you explain agreement in writing?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

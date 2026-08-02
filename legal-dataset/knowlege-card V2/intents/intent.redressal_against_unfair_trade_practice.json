@@ -1,24 +1,48 @@
 {
   "concept_id": "intent.redressal_against_unfair_trade_practice",
   "concept_type": "intent",
-  "title": "Questions about Redressal against unfair trade practice",
-  "description": "Natural language queries a user may ask about: Redressal against unfair trade practice",
+  "title": "Questions about Redressal Against Unfair Trade Practice",
+  "description": "Natural language queries a user may ask about: Redressal Against Unfair Trade Practice",
   "content": {
     "queries": [
-      "how to seek redressal against unfair trade practice"
+      "What is redressal against unfair trade practice?",
+      "How does redressal against unfair trade practice work?",
+      "Can you explain the process of redressal against unfair trade practice?",
+      "What are the consequences of unfair trade practice?",
+      "How does redressal against unfair trade practice help consumers?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-9",
-    "remedy.redressal"
+    "remedy.redressal",
+    "alias.redressal_against_unfair_trade_practice"
   ],
   "related_concepts": [
-    "remedy.redressal"
+    "alias.redressal_against_unfair_trade_practice"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "redressal",
+      "against",
+      "unfair",
+      "trade",
+      "practice",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "redressal",
+      "relief"
+    ],
+    "user_queries": [
+      "how to seek redressal against unfair trade practice",
+      "What is consumer rights?",
+      "How does consumer rights work?",
+      "Can you explain consumer rights?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

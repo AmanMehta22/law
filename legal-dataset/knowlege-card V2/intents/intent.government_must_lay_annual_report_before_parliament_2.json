@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.government_must_lay_annual_report_before_parliament_2",
+  "concept_type": "intent",
+  "title": "Questions about Government must lay annual report before Parliament",
+  "description": "Natural language queries a user may ask about: Government must lay annual report before Parliament",
+  "content": {
+    "queries": [
+      "government obligations",
+      "What is government must lay annual report before parliament?",
+      "How does government must lay annual report before parliament work?",
+      "Can you explain government must lay annual report before parliament?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S27-2",
+    "obligation.government_must_lay_a_copy_of_the_annual_report_before_each_"
+  ],
+  "related_concepts": [
+    "obligation.government_must_lay_a_copy_of_the_annual_report_before_each_"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "government",
+      "lay",
+      "annual",
+      "report",
+      "before",
+      "parliament",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "laying of report"
+    ],
+    "user_queries": [
+      "government obligations",
+      "What is government must lay annual report before parliament?",
+      "How does government must lay annual report before parliament work?",
+      "Can you explain government must lay annual report before parliament?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -5,22 +5,52 @@
   "description": "Natural language queries a user may ask about: Regional Benches Establishment",
   "content": {
     "queries": [
-      "What is regional benches establishment?",
-      "How does regional benches establishment work?",
-      "Can you explain regional benches establishment?"
+      "What is the process for establishing regional benches?",
+      "How does the Central Government establish regional benches by notification?",
+      "What are the requirements for establishing regional benches?",
+      "Can regional benches be established without notification in the Official Gazette?",
+      "How many regional benches can be established by the Central Government?"
     ]
   },
   "derived_from": [
+    "CPA2019-CH4-S42-2",
     "CPA2019-CH4-S53-2",
-    "exception.the_central_government_may_establish_regional_benches_of_the"
+    "exception.the_central_government_may_establish_regional_benches_of_the",
+    "exception.the_state_government_may_establish_regional_benches_of_the_s",
+    "alias.regional_benches_establishment"
   ],
   "related_concepts": [
-    "exception.the_central_government_may_establish_regional_benches_of_the"
+    "alias.regional_benches_establishment"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "regional",
+      "benches",
+      "establishment",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government"
+    ],
+    "user_queries": [
+      "consumer protection",
+      "regional benches",
+      "What is regional benches establishment?",
+      "How does regional benches establishment work?",
+      "Can you explain regional benches establishment?",
+      "What is central government must establish regional benches by notification?",
+      "How does central government must establish regional benches by notification work?",
+      "Can you explain central government must establish regional benches by notification?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

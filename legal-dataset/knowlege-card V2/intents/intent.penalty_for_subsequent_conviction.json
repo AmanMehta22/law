@@ -5,21 +5,44 @@
   "description": "Natural language queries a user may ask about: Penalty for subsequent conviction",
   "content": {
     "queries": [
-      "What is the punishment for penalty for subsequent conviction?",
-      "What happens if I commit penalty for subsequent conviction?"
+      "What is penalty for subsequent conviction?",
+      "How does penalty for subsequent conviction work?",
+      "Can you explain penalty for subsequent conviction?"
     ]
   },
   "derived_from": [
-    "CPA2019-CH7-S90-3",
-    "penalty.second_or_subsequent_conviction"
+    "alias.penalty_for_subsequent_conviction"
   ],
   "related_concepts": [
-    "penalty.second_or_subsequent_conviction"
+    "alias.penalty_for_subsequent_conviction"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "penalty",
+      "subsequent",
+      "conviction",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "repeat fine",
+      "repeat offender penalty",
+      "second conviction fine",
+      "subsequent offence penalty"
+    ],
+    "user_queries": [
+      "What is licence cancellation for repeat offences?",
+      "How does licence cancellation for repeat offences work?",
+      "Can you explain licence cancellation for repeat offences?",
+      "What is penalty for subsequent conviction?",
+      "How does penalty for subsequent conviction work?",
+      "Can you explain penalty for subsequent conviction?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

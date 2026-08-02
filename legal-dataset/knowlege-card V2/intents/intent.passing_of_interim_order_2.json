@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.passing_of_interim_order_2",
+  "concept_type": "intent",
+  "title": "Questions about Passing of Interim Order",
+  "description": "Natural language queries a user may ask about: Passing of Interim Order",
+  "content": {
+    "queries": [
+      "What are the requirements for a district commission to pass an interim order?",
+      "Can a district commission pass an interim order in cases where the dispute is already pending in a court?",
+      "How does a district commission determine whether to pass an interim order or not?",
+      "What is the role of the district commission in passing an interim order?",
+      "Can a party appeal against an interim order passed by a district commission?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-8",
+    "procedure.passing_of_interim_order"
+  ],
+  "related_concepts": [
+    "procedure.passing_of_interim_order"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "passing",
+      "interim",
+      "order",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is district commission must pass interim order?",
+      "How does district commission must pass interim order work?",
+      "Can you explain district commission must pass interim order?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

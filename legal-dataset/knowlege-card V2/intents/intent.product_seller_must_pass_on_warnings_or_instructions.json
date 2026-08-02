@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Product seller must pass on warnings or instructions",
   "content": {
     "queries": [
+      "What warnings or instructions must a product seller pass on to consumers?",
+      "How can a product seller ensure that warnings or instructions are effectively communicated to consumers?",
+      "What are the consequences for a product seller who fails to pass on warnings or instructions?",
+      "Can a product seller be held liable if a consumer is injured due to lack of warnings or instructions?",
+      "What are some examples of warnings or instructions that a product seller must pass on to consumers?"
+    ]
+  },
+  "derived_from": [
+    "alias.product_seller_must_pass_on_warnings_or_instructions"
+  ],
+  "related_concepts": [
+    "alias.product_seller_must_pass_on_warnings_or_instructions"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "product",
+      "seller",
+      "pass",
+      "warnings",
+      "instructions",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "passing on product warnings",
+      "product instructions",
+      "seller's duty to inform"
+    ],
+    "user_queries": [
       "What is product seller must pass on warnings or instructions?",
       "How does product seller must pass on warnings or instructions work?",
       "Can you explain product seller must pass on warnings or instructions?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH6-S86",
-    "obligation.product_seller_must_pass_on_warnings_or_instructions_of_the_"
-  ],
-  "related_concepts": [
-    "obligation.product_seller_must_pass_on_warnings_or_instructions_of_the_"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

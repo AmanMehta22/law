@@ -5,13 +5,16 @@
   "description": "Natural language queries a user may ask about: Central Authority",
   "content": {
     "queries": [
-      "What is central authority?",
-      "How does central authority work?",
-      "Can you explain central authority?"
+      "What is the role of the Central Authority in consumer protection?",
+      "How does the Central Authority handle consumer complaints?",
+      "Is the Central Authority responsible for regulating businesses?",
+      "Can I file a complaint directly with the Central Authority?",
+      "What are the powers of the Central Authority under the Consumer Protection Act?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-39",
+    "CPA2019-CH1-S2-4",
     "CPA2019-CH1-S2-5",
     "CPA2019-CH3-S10-2",
     "CPA2019-CH3-S10-3",
@@ -53,15 +56,38 @@
     "CPA2019-CH8-S96-2",
     "CPA2019-CH8-S96-5",
     "CPA2019-CH8-S99-1",
-    "authority.central_authority"
+    "authority.central_authority",
+    "definition.central_authority",
+    "alias.central_authority"
   ],
   "related_concepts": [
-    "authority.central_authority"
+    "alias.central_authority"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "authority",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Central Consumer Protection Authority",
+      "Central Authority"
+    ],
+    "user_queries": [
+      "What is central authority?",
+      "How does central authority work?",
+      "Can you explain central authority?",
+      "What is accounts and audit reports?",
+      "How does accounts and audit reports work?",
+      "Can you explain accounts and audit reports?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

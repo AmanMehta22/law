@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Branch Office",
   "content": {
     "queries": [
-      "What is a branch office?",
-      "What constitutes a branch office under CPA?",
-      "How is a branch office defined?"
+      "What is the definition of a branch office?",
+      "How does a branch office operate?",
+      "Can you explain the purpose of a branch office?",
+      "What is the difference between a branch office and a head office?",
+      "How does a branch office contribute to the overall business?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-3",
-    "definition.branch_office"
+    "definition.branch_office",
+    "alias.branch_office"
   ],
   "related_concepts": [
-    "definition.branch_office"
+    "alias.branch_office"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "branch",
+      "office",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "satellite office",
+      "regional office"
+    ],
+    "user_queries": [
+      "What is branch office?",
+      "How does branch office work?",
+      "Can you explain branch office?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,0 +1,56 @@
+{
+  "concept_id": "intent.monitoring_cell_2",
+  "concept_type": "intent",
+  "title": "Questions about Monitoring Cell",
+  "description": "Natural language queries a user may ask about: Monitoring Cell",
+  "content": {
+    "queries": [
+      "What is the purpose of a monitoring cell in consumer protection?",
+      "How does the monitoring cell handle consumer complaints?",
+      "Can the monitoring cell provide assistance with filing a complaint?",
+      "What kind of information does the monitoring cell collect and analyze?",
+      "Is the monitoring cell responsible for enforcing consumer protection laws?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S70-2",
+    "authority.monitoring_cell"
+  ],
+  "related_concepts": [
+    "authority.monitoring_cell"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "monitoring",
+      "cell",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Regulatory Cell",
+      "Surveillance Cell",
+      "Watchdog"
+    ],
+    "user_queries": [
+      "What is monitoring cell?",
+      "How does monitoring cell work?",
+      "Can you explain monitoring cell?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

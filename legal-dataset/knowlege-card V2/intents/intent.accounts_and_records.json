@@ -5,22 +5,42 @@
   "description": "Natural language queries a user may ask about: Accounts and records",
   "content": {
     "queries": [
+      "What are the requirements for maintaining accurate accounts and records under the Consumer Protection Act?",
+      "How long are businesses required to keep records of consumer transactions?",
+      "Can businesses use electronic records to comply with accounts and records requirements?",
+      "What are the consequences of failing to maintain proper accounts and records?",
+      "How do businesses ensure the security and confidentiality of consumer records?"
+    ]
+  },
+  "derived_from": [
+    "alias.accounts_and_records"
+  ],
+  "related_concepts": [
+    "alias.accounts_and_records"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "accounts",
+      "records",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "business accounts",
+      "company documents",
+      "financial records"
+    ],
+    "user_queries": [
       "What is accounts and records?",
       "How does accounts and records work?",
       "Can you explain accounts and records?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH3-S26-1",
-    "evidence.accounts_records"
-  ],
-  "related_concepts": [
-    "evidence.accounts_records"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

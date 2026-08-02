@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.mediation_procedure_handled_by_commission",
+  "concept_type": "intent",
+  "title": "Questions about Mediation Procedure handled by Commission",
+  "description": "Natural language queries a user may ask about: Mediation Procedure handled by Commission",
+  "content": {
+    "queries": [
+      "What is mediation procedure handled by commission?",
+      "How does mediation procedure handled by commission work?",
+      "Can you explain mediation procedure handled by commission?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S80-3",
+    "relationship.procedure_mediation_procedure_handled_by_authority_commission"
+  ],
+  "related_concepts": [
+    "relationship.procedure_mediation_procedure_handled_by_authority_commission"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "mediation",
+      "procedure",
+      "handled",
+      "commission",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "Consumer Commission",
+      "Consumer Court",
+      "Court",
+      "Tribunal"
+    ],
+    "user_queries": [
+      "What is mediation procedure handled by commission?",
+      "How does mediation procedure handled by commission work?",
+      "Can you explain mediation procedure handled by commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -5,22 +5,46 @@
   "description": "Natural language queries a user may ask about: Product Liability Action",
   "content": {
     "queries": [
-      "What is product liability action?",
-      "How to file a product liability complaint?",
-      "What is the process for claiming compensation for product harm?"
+      "What are the steps to file a product liability action?",
+      "How long does a product liability action typically take to resolve?",
+      "Can I file a product liability action on my own or do I need a lawyer?",
+      "What kind of evidence do I need to support a product liability action?",
+      "Are there any specific laws that govern product liability actions in the Consumer Protection Act?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-35",
-    "definition.product_liability_action"
+    "definition.product_liability_action",
+    "alias.product_liability_action"
   ],
   "related_concepts": [
-    "definition.product_liability_action"
+    "alias.product_liability_action"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "product",
+      "liability",
+      "action",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "product liability claim",
+      "consumer protection complaint"
+    ],
+    "user_queries": [
+      "What is product liability action?",
+      "How does product liability action work?",
+      "Can you explain product liability action?",
+      "What is filing a product liability action?",
+      "How does filing a product liability action work?",
+      "Can you explain filing a product liability action?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -5,21 +5,45 @@
   "description": "Natural language queries a user may ask about: Mediator Panel Preparation",
   "content": {
     "queries": [
-      "How do I file mediator panel preparation?",
-      "What are the steps for mediator panel preparation?"
+      "What is the timeline for the commission to prepare a panel of mediators after receiving a complaint?",
+      "Can the mediator panel preparation process be initiated by a consumer or only by the commission?",
+      "How does the commission notify consumers about the availability of the mediator panel?",
+      "What information must the commission provide to consumers about the mediator panel preparation process?",
+      "Are there any specific rules governing the mediator panel preparation process under the Consumer Protection Act?"
     ]
   },
   "derived_from": [
     "CPA2019-CH5-S75-1",
-    "procedure.mediator_panel_preparation"
+    "procedure.mediator_panel_preparation",
+    "alias.mediator_panel_preparation"
   ],
   "related_concepts": [
-    "procedure.mediator_panel_preparation"
+    "alias.mediator_panel_preparation"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "mediator",
+      "panel",
+      "preparation",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "Consumer Arbitration",
+      "Consumer Mediator",
+      "Dispute Resolution Cell",
+      "Mediation Cell"
+    ],
+    "user_queries": [
+      "What is commission must prepare a panel of mediators?",
+      "How does commission must prepare a panel of mediators work?",
+      "Can you explain commission must prepare a panel of mediators?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

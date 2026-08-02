@@ -1,24 +1,45 @@
 {
   "concept_id": "intent.central_authority_must_engage_experts_according_to_regulations",
   "concept_type": "intent",
-  "title": "Questions about Central Authority must engage experts according to regulations",
-  "description": "Natural language queries a user may ask about: Central Authority must engage experts according to regulations",
+  "title": "Questions about Central Authority Must Engage Experts According To Regulations",
+  "description": "Natural language queries a user may ask about: Central Authority Must Engage Experts According To Regulations",
   "content": {
     "queries": [
-      "What are the obligations of the Central Authority under the Consumer Protection Act"
+      "What is central authority must engage experts according to regulations?",
+      "How does central authority must engage experts according to regulations work?",
+      "Can you explain central authority must engage experts according to regulations?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S13-3",
-    "obligation.central_authority_must_engage_experts_and_professionals"
+    "obligation.central_authority_must_engage_experts_and_professionals",
+    "alias.central_authority_must_engage_experts_according_to_regulations"
   ],
   "related_concepts": [
-    "obligation.central_authority_must_engage_experts_and_professionals"
+    "alias.central_authority_must_engage_experts_according_to_regulations"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "authority",
+      "engage",
+      "experts",
+      "according",
+      "regulations",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "Consumer Protection Authority"
+    ],
+    "user_queries": [
+      "What are the obligations of the Central Authority under the Consumer Protection Act",
+      "What is central authority must engage experts according to regulations?",
+      "How does central authority must engage experts according to regulations work?",
+      "Can you explain central authority must engage experts according to regulations?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

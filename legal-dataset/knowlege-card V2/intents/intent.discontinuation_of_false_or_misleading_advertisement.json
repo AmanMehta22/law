@@ -1,24 +1,50 @@
 {
   "concept_id": "intent.discontinuation_of_false_or_misleading_advertisement",
   "concept_type": "intent",
-  "title": "Questions about Discontinuation of false or misleading advertisement",
-  "description": "Natural language queries a user may ask about: Discontinuation of false or misleading advertisement",
+  "title": "Questions about Discontinuation Of False Or Misleading Advertisement",
+  "description": "Natural language queries a user may ask about: Discontinuation Of False Or Misleading Advertisement",
   "content": {
     "queries": [
-      "stop false ads"
+      "What is the process for discontinuing a false or misleading advertisement?",
+      "Can a consumer complain about a false or misleading advertisement to the authorities?",
+      "How long does an advertiser have to discontinue a false or misleading advertisement?",
+      "What are the consequences for an advertiser that fails to discontinue a false or misleading advertisement?",
+      "Does the law require advertisers to modify their advertisements if they are found to be false or misleading?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S21-1",
-    "remedy.discontinuation_of_unfair_practice"
+    "remedy.discontinuation_of_unfair_practice",
+    "alias.discontinuation_of_false_or_misleading_advertisement"
   ],
   "related_concepts": [
-    "remedy.discontinuation_of_unfair_practice"
+    "alias.discontinuation_of_false_or_misleading_advertisement"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "discontinuation",
+      "false",
+      "misleading",
+      "advertisement",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "withdrawal of advertisement"
+    ],
+    "user_queries": [
+      "stop false ads",
+      "What is discontinuation of false advertisement?",
+      "How does discontinuation of false advertisement work?",
+      "Can you explain discontinuation of false advertisement?",
+      "What is advertiser must discontinue or modify advertisement?",
+      "How does advertiser must discontinue or modify advertisement work?",
+      "Can you explain advertiser must discontinue or modify advertisement?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

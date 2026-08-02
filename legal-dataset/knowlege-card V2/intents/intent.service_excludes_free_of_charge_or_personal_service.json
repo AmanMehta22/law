@@ -1,26 +1,49 @@
 {
   "concept_id": "intent.service_excludes_free_of_charge_or_personal_service",
   "concept_type": "intent",
-  "title": "Questions about Service excludes free of charge or personal service",
-  "description": "Natural language queries a user may ask about: Service excludes free of charge or personal service",
+  "title": "Questions about Service Excludes Free Of Charge Or Personal Service",
+  "description": "Natural language queries a user may ask about: Service Excludes Free Of Charge Or Personal Service",
   "content": {
     "queries": [
-      "What is service excludes free of charge or personal service?",
-      "How does service excludes free of charge or personal service work?",
-      "Can you explain service excludes free of charge or personal service?"
+      "Are free services covered under the Consumer Protection Act?",
+      "Does the Act apply to personal services, such as those provided by individuals?",
+      "Can a consumer complain about a free service that is not up to standards?",
+      "How does the Act distinguish between paid and free services?",
+      "Are services provided without charge or for personal use excluded from the Act's provisions?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-42",
-    "exception.does_not_include_the_rendering_of_any_service_free_of_charge"
+    "exception.does_not_include_the_rendering_of_any_service_free_of_charge",
+    "alias.service_excludes_free_of_charge_or_personal_service"
   ],
   "related_concepts": [
-    "exception.does_not_include_the_rendering_of_any_service_free_of_charge"
+    "alias.service_excludes_free_of_charge_or_personal_service"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "service",
+      "excludes",
+      "free",
+      "charge",
+      "personal",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "excluded services"
+    ],
+    "user_queries": [
+      "What is service excludes free of charge or personal service?",
+      "How does service excludes free of charge or personal service work?",
+      "Can you explain service excludes free of charge or personal service?",
+      "What is service?",
+      "How does service work?",
+      "Can you explain service?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

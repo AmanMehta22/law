@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Direct Selling",
   "content": {
     "queries": [
-      "What is direct selling",
-      "How does direct selling work",
-      "Is direct selling legal in India"
+      "What is the definition of direct selling under the Consumer Protection Act?",
+      "How does direct selling differ from other types of sales?",
+      "Can a direct seller be held liable for defective products?",
+      "What are the rights of consumers when purchasing from a direct seller?",
+      "Are direct sellers required to provide warranties for their products?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-13",
-    "definition.direct_selling"
+    "definition.direct_selling",
+    "alias.direct_selling"
   ],
   "related_concepts": [
-    "definition.direct_selling"
+    "alias.direct_selling"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "direct",
+      "selling",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "multi-level marketing",
+      "network selling"
+    ],
+    "user_queries": [
+      "What is direct selling?",
+      "How does direct selling work?",
+      "Can you explain direct selling?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

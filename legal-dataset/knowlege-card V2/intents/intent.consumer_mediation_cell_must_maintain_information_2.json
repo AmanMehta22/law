@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.consumer_mediation_cell_must_maintain_information_2",
+  "concept_type": "intent",
+  "title": "Questions about Consumer mediation cell must maintain information",
+  "description": "Natural language queries a user may ask about: Consumer mediation cell must maintain information",
+  "content": {
+    "queries": [
+      "what information must be maintained",
+      "What is adjournment cost imposition by district commission?",
+      "How does adjournment cost imposition by district commission work?",
+      "Can you explain adjournment cost imposition by district commission?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S103-2",
+    "obligation.consumer_mediation_cell_must_maintain_information"
+  ],
+  "related_concepts": [
+    "obligation.consumer_mediation_cell_must_maintain_information"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "consumer",
+      "mediation",
+      "cell",
+      "maintain",
+      "information",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "record keeping"
+    ],
+    "user_queries": [
+      "what information must be maintained",
+      "What is adjournment cost imposition by district commission?",
+      "How does adjournment cost imposition by district commission work?",
+      "Can you explain adjournment cost imposition by district commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

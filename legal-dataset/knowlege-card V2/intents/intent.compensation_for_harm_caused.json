@@ -1,14 +1,15 @@
 {
   "concept_id": "intent.compensation_for_harm_caused",
   "concept_type": "intent",
-  "title": "Questions about Compensation for harm caused",
-  "description": "Natural language queries a user may ask about: Compensation for harm caused",
+  "title": "Questions about Compensation For Harm Caused",
+  "description": "Natural language queries a user may ask about: Compensation For Harm Caused",
   "content": {
     "queries": [
-      "what if a product hurts me",
-      "what if the service provider is negligent",
-      "can I get compensation for harm caused by a product",
-      "what if product seller is not manufacturer"
+      "What kind of harm is eligible for compensation under the Consumer Protection Act?",
+      "How is the amount of compensation for harm caused determined?",
+      "Can a consumer claim compensation for harm caused by a product or service?",
+      "What is the process for filing a claim for compensation for harm caused?",
+      "Is there a time limit for claiming compensation for harm caused?"
     ]
   },
   "derived_from": [
@@ -17,15 +18,38 @@
     "CPA2019-CH6-S82",
     "CPA2019-CH6-S85",
     "CPA2019-CH6-S86",
-    "remedy.compensation"
+    "remedy.compensation",
+    "alias.compensation_for_harm_caused"
   ],
   "related_concepts": [
-    "remedy.compensation"
+    "alias.compensation_for_harm_caused"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "compensation",
+      "harm",
+      "caused",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "damages",
+      "reparation"
+    ],
+    "user_queries": [
+      "what if a product hurts me",
+      "what if the service provider is negligent",
+      "can I get compensation for harm caused by a product",
+      "what if product seller is not manufacturer",
+      "What is compensation for harm caused?",
+      "How does compensation for harm caused work?",
+      "Can you explain compensation for harm caused?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

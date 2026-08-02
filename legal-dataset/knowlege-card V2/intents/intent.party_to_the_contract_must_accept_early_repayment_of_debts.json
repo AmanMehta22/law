@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.party_to_the_contract_must_accept_early_repayment_of_debts",
   "concept_type": "intent",
-  "title": "Questions about Party to the contract must accept early repayment of debts",
-  "description": "Natural language queries a user may ask about: Party to the contract must accept early repayment of debts",
+  "title": "Questions about Party To The Contract Must Accept Early Repayment Of Debts",
+  "description": "Natural language queries a user may ask about: Party To The Contract Must Accept Early Repayment Of Debts",
   "content": {
     "queries": [
-      "Can I repay my debt early?"
+      "Can I repay my debt early without penalty?",
+      "How does early repayment of debts affect my contract?",
+      "What are the benefits of early repayment of debts to the consumer?",
+      "Is the party to the contract required to accept early repayment of debts?",
+      "What happens if I want to repay my debt early, but the contract doesn't specify it?"
     ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-46",
-    "obligation.party_to_the_contract_must_accept_early_repayment_of_debts"
+    "obligation.party_to_the_contract_must_accept_early_repayment_of_debts",
+    "alias.party_to_the_contract_must_accept_early_repayment_of_debts"
   ],
   "related_concepts": [
-    "obligation.party_to_the_contract_must_accept_early_repayment_of_debts"
+    "alias.party_to_the_contract_must_accept_early_repayment_of_debts"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "party",
+      "contract",
+      "accept",
+      "early",
+      "repayment",
+      "debts",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "debt repayment"
+    ],
+    "user_queries": [
+      "Can I repay my debt early?",
+      "What is party to the contract must accept early repayment of debts?",
+      "How does party to the contract must accept early repayment of debts work?",
+      "Can you explain party to the contract must accept early repayment of debts?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

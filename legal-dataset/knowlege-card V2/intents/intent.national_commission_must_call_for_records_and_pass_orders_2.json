@@ -1,0 +1,61 @@
+{
+  "concept_id": "intent.national_commission_must_call_for_records_and_pass_orders_2",
+  "concept_type": "intent",
+  "title": "Questions about National Commission must call for records and pass orders",
+  "description": "Natural language queries a user may ask about: National Commission must call for records and pass orders",
+  "content": {
+    "queries": [
+      "What records can the National Commission call for?",
+      "Under what circumstances will the National Commission pass orders?",
+      "How does the National Commission ensure transparency in record-keeping and order-passing?",
+      "Can the National Commission call for records from private companies?",
+      "What is the process for the National Commission to pass orders based on the records obtained?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S58-1",
+    "obligation.national_commission_must_call_for_records_and_pass_appropria"
+  ],
+  "related_concepts": [
+    "obligation.national_commission_must_call_for_records_and_pass_appropria"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "national",
+      "commission",
+      "call",
+      "records",
+      "pass",
+      "orders",
+      "natural",
+      "language"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is national commission must call for records and pass orders?",
+      "How does national commission must call for records and pass orders work?",
+      "Can you explain national commission must call for records and pass orders?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.requisitioning_of_report_depends_on_document_or_other_material_object",
+  "concept_type": "intent",
+  "title": "Questions about Requisitioning of report depends on Document or other material object",
+  "description": "Natural language queries a user may ask about: Requisitioning of report depends on Document or other material object",
+  "content": {
+    "queries": [
+      "What is requisitioning of report depends on document or other material object?",
+      "How does requisitioning of report depends on document or other material object work?",
+      "Can you explain requisitioning of report depends on document or other material object?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-9",
+    "relationship.procedure_requisitioning_of_report_depends_on_evidence_document_materi"
+  ],
+  "related_concepts": [
+    "relationship.procedure_requisitioning_of_report_depends_on_evidence_document_materi"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "requisitioning",
+      "report",
+      "depends",
+      "document",
+      "other",
+      "material",
+      "object",
+      "natural"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government"
+    ],
+    "user_queries": [
+      "What is requisitioning of report depends on document or other material object?",
+      "How does requisitioning of report depends on document or other material object work?",
+      "Can you explain requisitioning of report depends on document or other material object?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

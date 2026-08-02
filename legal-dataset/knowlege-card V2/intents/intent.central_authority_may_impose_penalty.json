@@ -1,26 +1,50 @@
 {
   "concept_id": "intent.central_authority_may_impose_penalty",
   "concept_type": "intent",
-  "title": "Questions about Central Authority may impose penalty",
-  "description": "Natural language queries a user may ask about: Central Authority may impose penalty",
+  "title": "Questions about Central Authority May Impose Penalty",
+  "description": "Natural language queries a user may ask about: Central Authority May Impose Penalty",
   "content": {
     "queries": [
-      "What is the penalty for false advertisement?",
-      "What is the penalty for misleading ads?"
+      "Under what circumstances can the central authority impose a penalty?",
+      "What is the maximum penalty that the central authority can impose?",
+      "How does the central authority determine the amount of penalty to impose?",
+      "Can the central authority impose a penalty on a consumer?",
+      "What is the process for appealing a penalty imposed by the central authority?"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S21-2",
     "CPA2019-CH3-S21-4",
-    "obligation.central_authority_may_impose_penalty"
+    "obligation.central_authority_may_impose_penalty",
+    "alias.central_authority_may_impose_penalty"
   ],
   "related_concepts": [
-    "obligation.central_authority_may_impose_penalty"
+    "alias.central_authority_may_impose_penalty"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "authority",
+      "impose",
+      "penalty",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "fine",
+      "punishment"
+    ],
+    "user_queries": [
+      "What is the penalty for false advertisement?",
+      "What is the penalty for misleading ads?",
+      "What is central authority may impose penalty?",
+      "How does central authority may impose penalty work?",
+      "Can you explain central authority may impose penalty?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

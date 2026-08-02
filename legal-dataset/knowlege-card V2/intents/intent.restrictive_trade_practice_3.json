@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.restrictive_trade_practice_3",
+  "concept_type": "intent",
+  "title": "Questions about Restrictive Trade Practice",
+  "description": "Natural language queries a user may ask about: Restrictive Trade Practice",
+  "content": {
+    "queries": [
+      "What are the different types of restrictive trade practices prohibited by law?",
+      "How do restrictive trade practices affect competition in the market?",
+      "Can a business be held liable for engaging in restrictive trade practices?",
+      "What are the penalties for violating laws against restrictive trade practices?",
+      "How can consumers protect themselves from restrictive trade practices?"
+    ]
+  },
+  "derived_from": [
+    "definition.restrictive_trade_practice",
+    "example.restrictive_trade_practice"
+  ],
+  "related_concepts": [
+    "example.restrictive_trade_practice"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "restrictive",
+      "trade",
+      "practice",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "anti-competitive practice",
+      "unfair trade practice"
+    ],
+    "user_queries": [
+      "What is restrictive trade practice?",
+      "How does restrictive trade practice work?",
+      "Can you explain restrictive trade practice?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

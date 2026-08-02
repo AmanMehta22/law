@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: Bench Constitution",
   "content": {
     "queries": [
+      "What are the key components of the bench constitution under the Consumer Protection Act?",
+      "How does the bench constitution impact the process of filing consumer complaints?",
+      "Can the bench constitution be amended, and if so, how?",
+      "What role does the bench constitution play in ensuring fairness in consumer dispute resolution?",
+      "How does the bench constitution define the powers and responsibilities of the consumer commission?"
+    ]
+  },
+  "derived_from": [
+    "alias.bench_constitution"
+  ],
+  "related_concepts": [
+    "alias.bench_constitution"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "bench",
+      "constitution",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "bench setup",
+      "court composition",
+      "judicial panel",
+      "tribunal formation"
+    ],
+    "user_queries": [
       "What is bench constitution?",
       "How does bench constitution work?",
       "Can you explain bench constitution?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S58-2",
-    "exception.a_bench_may_be_constituted_by_the_president_with_one_or_more"
-  ],
-  "related_concepts": [
-    "exception.a_bench_may_be_constituted_by_the_president_with_one_or_more"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

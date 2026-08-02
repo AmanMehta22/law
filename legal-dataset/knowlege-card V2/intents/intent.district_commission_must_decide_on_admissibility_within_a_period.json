@@ -5,22 +5,43 @@
   "description": "Natural language queries a user may ask about: District Commission must decide on admissibility within a period",
   "content": {
     "queries": [
+      "What is the time limit for a District Commission to decide on the admissibility of a complaint?",
+      "How long does a District Commission have to decide whether to admit a complaint?",
+      "Can a District Commission take more than the prescribed period to decide on admissibility?",
+      "What happens if a District Commission does not decide on admissibility within the given period?",
+      "Is there a specific timeframe within which a District Commission must decide on the admissibility of a complaint?"
+    ]
+  },
+  "derived_from": [
+    "alias.district_commission_must_decide_on_admissibility_within_a_period"
+  ],
+  "related_concepts": [
+    "alias.district_commission_must_decide_on_admissibility_within_a_period"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "district",
+      "commission",
+      "decide",
+      "admissibility",
+      "period",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "admissibility timeline",
+      "complaint admissibility period",
+      "district commission decision deadline",
+      "time-bound admissibility decision"
+    ],
+    "user_queries": [
       "What is district commission must decide on admissibility within a period?",
       "How does district commission must decide on admissibility within a period work?",
       "Can you explain district commission must decide on admissibility within a period?"
     ]
-  },
-  "derived_from": [
-    "CPA2019-CH4-S36-3",
-    "obligation.district_commission_must_decide_the_issue_of_admissibility_o"
-  ],
-  "related_concepts": [
-    "obligation.district_commission_must_decide_the_issue_of_admissibility_o"
-  ],
-  "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
   },
   "metadata": {
     "jurisdiction": "India",

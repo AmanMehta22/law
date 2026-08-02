@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.opposite_party_must_respond_to_complaint_2",
+  "concept_type": "intent",
+  "title": "Questions about Opposite party must respond to complaint",
+  "description": "Natural language queries a user may ask about: Opposite party must respond to complaint",
+  "content": {
+    "queries": [
+      "what are the obligations of the opposite party",
+      "What is opposite party must respond to complaint?",
+      "How does opposite party must respond to complaint work?",
+      "Can you explain opposite party must respond to complaint?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-3",
+    "obligation.opposite_party_must_give_their_version_of_the_case"
+  ],
+  "related_concepts": [
+    "obligation.opposite_party_must_give_their_version_of_the_case"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "opposite",
+      "party",
+      "respond",
+      "complaint",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "opposite party obligations"
+    ],
+    "user_queries": [
+      "what are the obligations of the opposite party",
+      "What is opposite party must respond to complaint?",
+      "How does opposite party must respond to complaint work?",
+      "Can you explain opposite party must respond to complaint?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

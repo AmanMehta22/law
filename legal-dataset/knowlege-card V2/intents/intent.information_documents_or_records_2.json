@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.information_documents_or_records_2",
+  "concept_type": "intent",
+  "title": "Questions about Information, documents or records",
+  "description": "Natural language queries a user may ask about: Information, documents or records",
+  "content": {
+    "queries": [
+      "What documents or records should I keep when dealing with a business?",
+      "How long do businesses have to keep records of transactions with consumers?",
+      "What kind of information can I request from a business in terms of documents or records?",
+      "Are businesses required to provide consumers with copies of documents or records?",
+      "How can I access my personal information that a business has on record?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-4",
+    "evidence.information_documents_records"
+  ],
+  "related_concepts": [
+    "evidence.information_documents_records"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "information",
+      "documents",
+      "records",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is electronic service provider must provide information?",
+      "How does electronic service provider must provide information work?",
+      "Can you explain electronic service provider must provide information?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

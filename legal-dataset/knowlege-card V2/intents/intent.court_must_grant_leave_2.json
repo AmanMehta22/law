@@ -1,0 +1,57 @@
+{
+  "concept_id": "intent.court_must_grant_leave_2",
+  "concept_type": "intent",
+  "title": "Questions about Court must grant leave",
+  "description": "Natural language queries a user may ask about: Court must grant leave",
+  "content": {
+    "queries": [
+      "Is the court's decision to grant leave final and binding?",
+      "Can a consumer's application for leave be rejected by the court?",
+      "What are the grounds on which a court may grant leave to a consumer?",
+      "How does the court determine whether to grant leave in a consumer dispute?",
+      "What is the role of the court in granting leave to a consumer under the Consumer Protection Act?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S96-1",
+    "obligation.court_must_grant_leave_for_compounding_of_offence"
+  ],
+  "related_concepts": [
+    "obligation.court_must_grant_leave_for_compounding_of_offence"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "court",
+      "grant",
+      "leave",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask"
+    ],
+    "aliases": [
+      "compromise on penalty",
+      "offence compounding",
+      "penalty waiver",
+      "settlement of offence"
+    ],
+    "user_queries": [
+      "What is court must grant leave?",
+      "How does court must grant leave work?",
+      "Can you explain court must grant leave?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

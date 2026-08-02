@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.mediator_must_prepare_and_forward_settlement_report_2",
+  "concept_type": "intent",
+  "title": "Questions about Mediator must prepare and forward settlement report",
+  "description": "Natural language queries a user may ask about: Mediator must prepare and forward settlement report",
+  "content": {
+    "queries": [
+      "What are the mediator's duties?",
+      "What is commission?",
+      "How does commission work?",
+      "Can you explain commission?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH5-S80-2",
+    "obligation.mediator_must_prepare_a_settlement_report_and_forward_the_si"
+  ],
+  "related_concepts": [
+    "obligation.mediator_must_prepare_a_settlement_report_and_forward_the_si"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "mediator",
+      "prepare",
+      "forward",
+      "settlement",
+      "report",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "mediation officer"
+    ],
+    "user_queries": [
+      "What are the mediator's duties?",
+      "What is commission?",
+      "How does commission work?",
+      "Can you explain commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

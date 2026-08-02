@@ -1,0 +1,55 @@
+{
+  "concept_id": "intent.unfair_contract_3",
+  "concept_type": "intent",
+  "title": "Questions about Unfair Contract",
+  "description": "Natural language queries a user may ask about: Unfair Contract",
+  "content": {
+    "queries": [
+      "What is the process for challenging an unfair contract in court?",
+      "How does an unfair contract affect the rights of a consumer?",
+      "Can an unfair contract be amended or modified to make it fair?",
+      "What are the penalties for a business that enters into unfair contracts with consumers?",
+      "How can a consumer protect themselves from signing an unfair contract?"
+    ]
+  },
+  "derived_from": [
+    "definition.unfair_contract",
+    "example.unfair_contract"
+  ],
+  "related_concepts": [
+    "example.unfair_contract"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "unfair",
+      "contract",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "unconscionable contract",
+      "one-sided contract"
+    ],
+    "user_queries": [
+      "What is unfair contract?",
+      "How does unfair contract work?",
+      "Can you explain unfair contract?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

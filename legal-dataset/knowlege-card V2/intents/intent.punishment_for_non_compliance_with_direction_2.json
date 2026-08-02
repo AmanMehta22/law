@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.punishment_for_non_compliance_with_direction_2",
+  "concept_type": "intent",
+  "title": "Questions about Punishment for non-compliance with direction",
+  "description": "Natural language queries a user may ask about: Punishment for non-compliance with direction",
+  "content": {
+    "queries": [
+      "What is the severity of punishment for non-compliance with direction in different cases?",
+      "How does the punishment for non-compliance with direction vary for individuals and companies?",
+      "Can you provide examples of punishment for non-compliance with direction?",
+      "What are the factors that determine the punishment for non-compliance with direction?",
+      "How can businesses avoid punishment for non-compliance with direction?"
+    ]
+  },
+  "derived_from": [
+    "penalty.failing_to_comply_with_order_made_by_the_district_commission",
+    "example.punishment_for_non_compliance_with_direction"
+  ],
+  "related_concepts": [
+    "example.punishment_for_non_compliance_with_direction"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "punishment",
+      "non",
+      "compliance",
+      "direction",
+      "natural",
+      "language",
+      "queries",
+      "user"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is punishment for non-compliance with direction?",
+      "How does punishment for non-compliance with direction work?",
+      "Can you explain punishment for non-compliance with direction?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

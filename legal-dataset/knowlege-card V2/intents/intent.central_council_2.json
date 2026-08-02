@@ -1,0 +1,59 @@
+{
+  "concept_id": "intent.central_council_2",
+  "concept_type": "intent",
+  "title": "Questions about Central Council",
+  "description": "Natural language queries a user may ask about: Central Council",
+  "content": {
+    "queries": [
+      "What is the composition of the Central Council?",
+      "How does the Central Council address consumer grievances?",
+      "Can the Central Council impose penalties on errant companies?",
+      "What is the role of the Central Council in promoting consumer awareness?",
+      "How does the Central Council collaborate with state consumer councils?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH2-S3-2",
+    "CPA2019-CH2-S4-1",
+    "CPA2019-CH2-S4-2",
+    "CPA2019-CH2-S5",
+    "authority.central_council"
+  ],
+  "related_concepts": [
+    "authority.central_council"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "central",
+      "council",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "Central Consumer Council",
+      "Consumer Council",
+      "National Council"
+    ],
+    "user_queries": [
+      "What is central council?",
+      "How does central council work?",
+      "Can you explain central council?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

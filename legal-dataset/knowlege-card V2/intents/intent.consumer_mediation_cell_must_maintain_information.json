@@ -1,24 +1,47 @@
 {
   "concept_id": "intent.consumer_mediation_cell_must_maintain_information",
   "concept_type": "intent",
-  "title": "Questions about Consumer mediation cell must maintain information",
-  "description": "Natural language queries a user may ask about: Consumer mediation cell must maintain information",
+  "title": "Questions about Consumer Mediation Cell Must Maintain Information",
+  "description": "Natural language queries a user may ask about: Consumer Mediation Cell Must Maintain Information",
   "content": {
     "queries": [
-      "what information must be maintained"
+      "What information must the Consumer Mediation Cell maintain during the mediation process?",
+      "How does the Consumer Mediation Cell maintain records of consumer complaints?",
+      "What are the requirements for the Consumer Mediation Cell to maintain information about consumer disputes?",
+      "Can the Consumer Mediation Cell share the information it maintains with other authorities?",
+      "How long must the Consumer Mediation Cell retain the information it maintains about consumer complaints?"
     ]
   },
   "derived_from": [
     "CPA2019-CH8-S103-2",
-    "obligation.consumer_mediation_cell_must_maintain_information"
+    "obligation.consumer_mediation_cell_must_maintain_information",
+    "alias.consumer_mediation_cell_must_maintain_information"
   ],
   "related_concepts": [
-    "obligation.consumer_mediation_cell_must_maintain_information"
+    "alias.consumer_mediation_cell_must_maintain_information"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "questions",
+      "about",
+      "consumer",
+      "mediation",
+      "cell",
+      "maintain",
+      "information",
+      "natural",
+      "language",
+      "queries"
+    ],
+    "aliases": [
+      "record keeping"
+    ],
+    "user_queries": [
+      "what information must be maintained",
+      "What is adjournment cost imposition by district commission?",
+      "How does adjournment cost imposition by district commission work?",
+      "Can you explain adjournment cost imposition by district commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

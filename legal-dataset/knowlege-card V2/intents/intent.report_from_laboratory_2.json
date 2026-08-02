@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.report_from_laboratory_2",
+  "concept_type": "intent",
+  "title": "Questions about Report from laboratory",
+  "description": "Natural language queries a user may ask about: Report from laboratory",
+  "content": {
+    "queries": [
+      "What is the process for handling complaints in a laboratory setting?",
+      "Can a laboratory report be used as evidence in a consumer complaint?",
+      "How does a laboratory report impact the complaint handling process?",
+      "What information should be included in a laboratory report for a consumer complaint?",
+      "Can a consumer request a laboratory report to support their complaint?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-2",
+    "evidence.report_from_laboratory"
+  ],
+  "related_concepts": [
+    "evidence.report_from_laboratory"
+  ],
+  "search": {
+    "keywords": [
+      "questions",
+      "about",
+      "report",
+      "laboratory",
+      "natural",
+      "language",
+      "queries",
+      "user",
+      "ask",
+      "what"
+    ],
+    "aliases": [
+      "complaint admission"
+    ],
+    "user_queries": [
+      "What is complaint handling?",
+      "How does complaint handling work?",
+      "Can you explain complaint handling?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}
