@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.central_government_must_appoint_date_of_coming_into_force",
+  "concept_type": "alias",
+  "title": "Central Government must appoint date of coming into force",
+  "description": "Alternative names and search aliases for: Central Government must appoint date of coming into force",
+  "content": {
+    "aliases": [
+      "central government enforcement schedule",
+      "effective date announcement",
+      "enforcement date notification"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.central_government_must_appoint_date_of_coming_into_force"
+  ],
+  "search": {
+    "keywords": [
+      "central",
+      "government",
+      "appoint",
+      "date",
+      "coming",
+      "into",
+      "force",
+      "alternative",
+      "names",
+      "search"
+    ],
+    "aliases": [
+      "central government enforcement schedule",
+      "effective date announcement",
+      "enforcement date notification"
+    ],
+    "user_queries": [
+      "What is central government must appoint date of coming into force?",
+      "How does central government must appoint date of coming into force work?",
+      "Can you explain central government must appoint date of coming into force?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

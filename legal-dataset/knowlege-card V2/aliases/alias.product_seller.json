@@ -19,9 +19,28 @@
     "CPA2019-CH1-S2-37",
     "definition.product_seller"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "definition.product_seller",
+    "exception.does_not_include_a_person_who_acts_only_in_a_financial_capac",
+    "exception.does_not_include_a_person_who_leases_a_product_without_havin",
+    "exception.does_not_include_a_provider_of_professional_services_in_any_",
+    "intent.financial_capacity",
+    "intent.leasing_a_product",
+    "intent.product_seller"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "product",
+      "seller",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "merchant",
+      "retailer",
+      "supplier",
+      "vendor"
+    ],
     "aliases": [
       "Merchant",
       "Retailer",
@@ -32,7 +51,11 @@
       "supplier",
       "vendor"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is financial capacity?",
+      "How does financial capacity work?",
+      "Can you explain financial capacity?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

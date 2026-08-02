@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.reasons_for_adjournment",
+  "concept_type": "alias",
+  "title": "Reasons for adjournment",
+  "description": "Alternative names and search aliases for: Reasons for adjournment",
+  "content": {
+    "aliases": [
+      "adjournment grounds",
+      "delay justification",
+      "hearing reschedule reasons",
+      "postponement reasons"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "evidence.written_record"
+  ],
+  "search": {
+    "keywords": [
+      "reasons",
+      "adjournment",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "grounds",
+      "delay",
+      "justification",
+      "hearing"
+    ],
+    "aliases": [
+      "adjournment grounds",
+      "delay justification",
+      "hearing reschedule reasons",
+      "postponement reasons"
+    ],
+    "user_queries": [
+      "What is reasons for adjournment?",
+      "How does reasons for adjournment work?",
+      "Can you explain reasons for adjournment?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

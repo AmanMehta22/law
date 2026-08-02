@@ -13,14 +13,37 @@
     "CPA2019-CH8-S106",
     "obligation.central_government_may_make_provisions_to_remove_difficultie"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.complaint_filing_time_limit",
+    "alias.time_limit_for_removing_difficulty",
+    "authority.central_government",
+    "exception.no_such_order_shall_be_made_after_the_expiry_of_a_period_of_",
+    "intent.central_government",
+    "intent.central_government_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "central",
+      "government",
+      "make",
+      "provisions",
+      "remove",
+      "difficulties",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
     "aliases": [
       "make provisions",
       "remove difficulties"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central government must make provisions to remove difficulties?",
+      "How does central government must make provisions to remove difficulties work?",
+      "Can you explain central government must make provisions to remove difficulties?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

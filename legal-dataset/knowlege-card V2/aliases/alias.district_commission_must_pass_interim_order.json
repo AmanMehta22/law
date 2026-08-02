@@ -13,14 +13,37 @@
     "CPA2019-CH4-S38-8",
     "obligation.district_commission_may_pass_interim_order"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.passing_of_interim_order",
+    "authority.district_commission",
+    "intent.district_commission",
+    "intent.district_commission_2",
+    "intent.district_commission_must_pass_interim_order",
+    "intent.district_commission_must_pass_interim_order_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "district",
+      "commission",
+      "pass",
+      "interim",
+      "order",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "proceeding"
+    ],
     "aliases": [
       "proceeding before District Commission",
       "temporary order"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is district commission must pass interim order?",
+      "How does district commission must pass interim order work?",
+      "Can you explain district commission must pass interim order?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

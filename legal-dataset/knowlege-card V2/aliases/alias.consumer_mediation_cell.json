@@ -23,16 +23,39 @@
     "CPA2019-CH8-S103-2",
     "authority.consumer_mediation_cell"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commissions",
+    "alias.state_commissions",
+    "alias.state_government",
+    "authority.consumer_mediation_cell",
+    "authority.district_commissions",
+    "authority.state_commissions",
+    "authority.state_government"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "consumer",
+      "mediation",
+      "cell",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "arbitration",
+      "mediator",
+      "dispute"
+    ],
     "aliases": [
       "Consumer Arbitration",
       "Consumer Mediator",
       "Dispute Resolution Cell",
       "Mediation Cell"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is adjournment cost imposition by district commission?",
+      "How does adjournment cost imposition by district commission work?",
+      "Can you explain adjournment cost imposition by district commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.central_authority_must_pay_audit_expenditure",
+  "concept_type": "alias",
+  "title": "Central Authority must pay audit expenditure",
+  "description": "Alternative names and search aliases for: Central Authority must pay audit expenditure",
+  "content": {
+    "aliases": [
+      "audit expenditure reimbursement by central authority",
+      "central authority audit costs",
+      "central authority payment for audit fees"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.central_authority_must_pay_expenditure_incurred_in_connectio"
+  ],
+  "search": {
+    "keywords": [
+      "central",
+      "authority",
+      "pay",
+      "audit",
+      "expenditure",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "reimbursement"
+    ],
+    "aliases": [
+      "audit expenditure reimbursement by central authority",
+      "central authority audit costs",
+      "central authority payment for audit fees"
+    ],
+    "user_queries": [
+      "What is central authority must pay audit expenditure?",
+      "How does central authority must pay audit expenditure work?",
+      "Can you explain central authority must pay audit expenditure?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

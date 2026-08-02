@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.report_of_analysis_or_test",
+  "concept_type": "alias",
+  "title": "Report of analysis or test",
+  "description": "Alternative names and search aliases for: Report of analysis or test",
+  "content": {
+    "aliases": [
+      "analysis report",
+      "examination findings",
+      "test results"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "evidence.report_of_analysis_or_test"
+  ],
+  "search": {
+    "keywords": [
+      "report",
+      "analysis",
+      "test",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "examination",
+      "findings",
+      "results"
+    ],
+    "aliases": [
+      "analysis report",
+      "examination findings",
+      "test results"
+    ],
+    "user_queries": [
+      "What is report of analysis or test?",
+      "How does report of analysis or test work?",
+      "Can you explain report of analysis or test?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

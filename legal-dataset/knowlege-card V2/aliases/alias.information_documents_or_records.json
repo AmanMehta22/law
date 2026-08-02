@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.information_documents_or_records",
+  "concept_type": "alias",
+  "title": "Information, documents or records",
+  "description": "Alternative names and search aliases for: Information, documents or records",
+  "content": {
+    "aliases": [
+      "data and documents",
+      "files and details",
+      "records and information"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "evidence.information_documents_records"
+  ],
+  "search": {
+    "keywords": [
+      "information",
+      "documents",
+      "records",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "data",
+      "files",
+      "details"
+    ],
+    "aliases": [
+      "data and documents",
+      "files and details",
+      "records and information"
+    ],
+    "user_queries": [
+      "What is information, documents or records?",
+      "How does information, documents or records work?",
+      "Can you explain information, documents or records?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -19,9 +19,28 @@
     "CPA2019-CH8-S95",
     "authority.additional_director_general"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.assistant_director",
+    "alias.central_government",
+    "alias.central_government_must_appoint_officers_in_a_prescribed_manner",
+    "alias.deputy_director",
+    "alias.director",
+    "alias.director_general",
+    "alias.joint_director"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "additional",
+      "director",
+      "general",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "alternate",
+      "assistant",
+      "deputy"
+    ],
     "aliases": [
       "Alternate Director-General",
       "Assistant Director-General",
@@ -29,7 +48,11 @@
       "Extra Director-General",
       "Supplemental Director-General"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is additional director-general?",
+      "How does additional director-general work?",
+      "Can you explain additional director-general?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

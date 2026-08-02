@@ -15,16 +15,37 @@
     "CPA2019-CH3-S18-2",
     "procedure.awareness_on_consumer_rights"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.advising_on_consumer_welfare_measures",
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.cooperation_with_non_governmental_organisations",
+    "alias.district_commission",
+    "alias.filing_complaints",
+    "alias.inquiry_or_investigation"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "awareness",
+      "consumer",
+      "rights",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "education"
+    ],
     "aliases": [
       "awareness on consumer rights",
       "consumer rights",
       "consumer rights awareness",
       "consumer rights education"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is advising on consumer welfare measures?",
+      "How does advising on consumer welfare measures work?",
+      "Can you explain advising on consumer welfare measures?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

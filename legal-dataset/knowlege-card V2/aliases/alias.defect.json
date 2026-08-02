@@ -19,9 +19,24 @@
     "CPA2019-CH1-S2-10",
     "definition.defect"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "definition.defect",
+    "intent.defect",
+    "intent.defect_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "defect",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "deficiency",
+      "fault",
+      "flaw",
+      "imperfection",
+      "shortcoming"
+    ],
     "aliases": [
       "Deficiency",
       "Fault",
@@ -32,7 +47,11 @@
       "flaw",
       "imperfection"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is defect?",
+      "How does defect work?",
+      "Can you explain defect?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

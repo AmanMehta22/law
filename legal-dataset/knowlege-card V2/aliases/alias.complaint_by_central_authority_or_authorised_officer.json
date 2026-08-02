@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.complaint_by_central_authority_or_authorised_officer",
+  "concept_type": "alias",
+  "title": "Complaint by Central Authority or authorised officer",
+  "description": "Alternative names and search aliases for: Complaint by Central Authority or authorised officer",
+  "content": {
+    "aliases": [
+      "authorised officer complaint",
+      "central authority complaint",
+      "government complaint",
+      "regulatory complaint"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "exception.except_on_a_complaint_filed_by_the_central_authority_or_any_"
+  ],
+  "search": {
+    "keywords": [
+      "complaint",
+      "central",
+      "authority",
+      "authorised",
+      "officer",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "government"
+    ],
+    "aliases": [
+      "authorised officer complaint",
+      "central authority complaint",
+      "government complaint",
+      "regulatory complaint"
+    ],
+    "user_queries": [
+      "What is complaint by central authority or authorised officer?",
+      "How does complaint by central authority or authorised officer work?",
+      "Can you explain complaint by central authority or authorised officer?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

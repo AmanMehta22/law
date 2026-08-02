@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.otherwise_provided",
+  "concept_type": "alias",
+  "title": "Otherwise Provided",
+  "description": "Alternative names and search aliases for: Otherwise Provided",
+  "content": {
+    "aliases": [
+      "alternative provision",
+      "except as provided",
+      "special exception",
+      "unless otherwise stated"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "exception.save_as_otherwise_provided"
+  ],
+  "search": {
+    "keywords": [
+      "otherwise",
+      "provided",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "provision",
+      "except",
+      "special",
+      "exception"
+    ],
+    "aliases": [
+      "alternative provision",
+      "except as provided",
+      "special exception",
+      "unless otherwise stated"
+    ],
+    "user_queries": [
+      "What is otherwise provided?",
+      "How does otherwise provided work?",
+      "Can you explain otherwise provided?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

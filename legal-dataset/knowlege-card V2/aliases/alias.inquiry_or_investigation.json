@@ -16,16 +16,39 @@
     "CPA2019-CH3-S18-2",
     "procedure.inquiry_or_investigation"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.commissioner_of_a_regional_office",
+    "alias.district_collector",
+    "alias.district_collector_must_inquire_and_report",
+    "authority.central_authority",
+    "authority.commissioner_of_a_regional_office",
+    "authority.district_collector"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "inquiry",
+      "investigation",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "fact",
+      "finding",
+      "mission",
+      "procedure"
+    ],
     "aliases": [
       "fact-finding mission",
       "inquiry procedure",
       "investigation process",
       "probe into complaint"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is commissioner of a regional office?",
+      "How does commissioner of a regional office work?",
+      "Can you explain commissioner of a regional office?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

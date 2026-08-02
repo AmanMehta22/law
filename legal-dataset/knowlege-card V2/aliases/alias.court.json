@@ -21,9 +21,28 @@
     "CPA2019-CH8-S96-1",
     "authority.court"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.enforcement_of_order",
+    "alias.national_commission",
+    "alias.state_commission",
+    "authority.court",
+    "authority.district_commission",
+    "authority.national_commission"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "court",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "bench",
+      "judiciary",
+      "law",
+      "tribunal",
+      "judicial"
+    ],
     "aliases": [
       "Bench",
       "Judiciary",
@@ -32,7 +51,11 @@
       "judicial body",
       "tribunal"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is appeal exception?",
+      "How does appeal exception work?",
+      "Can you explain appeal exception?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

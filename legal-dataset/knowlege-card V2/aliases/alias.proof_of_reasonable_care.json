@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.proof_of_reasonable_care",
+  "concept_type": "alias",
+  "title": "Proof of reasonable care",
+  "description": "Alternative names and search aliases for: Proof of reasonable care",
+  "content": {
+    "aliases": [
+      "care and caution proof",
+      "due diligence proof",
+      "reasonable care evidence"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "evidence.maintenance_records_inspection_records_assembly_records"
+  ],
+  "search": {
+    "keywords": [
+      "proof",
+      "reasonable",
+      "care",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "caution",
+      "due",
+      "diligence"
+    ],
+    "aliases": [
+      "care and caution proof",
+      "due diligence proof",
+      "reasonable care evidence"
+    ],
+    "user_queries": [
+      "What is proof of reasonable care?",
+      "How does proof of reasonable care work?",
+      "Can you explain proof of reasonable care?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

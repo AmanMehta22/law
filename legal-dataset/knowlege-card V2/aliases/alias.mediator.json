@@ -18,9 +18,24 @@
     "CPA2019-CH1-S2-26",
     "definition.mediator"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "definition.mediator",
+    "intent.mediator",
+    "intent.mediator_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "mediator",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "arbitrator",
+      "dispute",
+      "resolver",
+      "mediation",
+      "expert"
+    ],
     "aliases": [
       "Arbitrator",
       "Dispute Resolver",
@@ -30,7 +45,11 @@
       "facilitator",
       "neutral third-party"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is mediator?",
+      "How does mediator work?",
+      "Can you explain mediator?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

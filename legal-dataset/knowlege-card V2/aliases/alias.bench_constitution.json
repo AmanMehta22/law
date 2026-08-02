@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.bench_constitution",
+  "concept_type": "alias",
+  "title": "Bench Constitution",
+  "description": "Alternative names and search aliases for: Bench Constitution",
+  "content": {
+    "aliases": [
+      "bench setup",
+      "court composition",
+      "judicial panel",
+      "tribunal formation"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "exception.a_bench_may_be_constituted_by_the_president_with_one_or_more"
+  ],
+  "search": {
+    "keywords": [
+      "bench",
+      "constitution",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "setup",
+      "court",
+      "composition",
+      "judicial"
+    ],
+    "aliases": [
+      "bench setup",
+      "court composition",
+      "judicial panel",
+      "tribunal formation"
+    ],
+    "user_queries": [
+      "What is bench constitution?",
+      "How does bench constitution work?",
+      "Can you explain bench constitution?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

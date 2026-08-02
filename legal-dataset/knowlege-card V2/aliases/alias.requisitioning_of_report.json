@@ -16,9 +16,28 @@
     "CPA2019-CH4-S38-9",
     "procedure.requisitioning_of_report"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.discovery_and_production_of_evidence",
+    "alias.district_commission",
+    "alias.district_commission_must_exercise_powers",
+    "alias.issuing_of_commissions",
+    "alias.receiving_evidence_on_affidavits",
+    "alias.summoning_and_enforcing_attendance"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "requisitioning",
+      "report",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "calling",
+      "formal",
+      "request",
+      "information"
+    ],
     "aliases": [
       "calling for a report",
       "formal request for information",
@@ -26,7 +45,11 @@
       "report requisition",
       "request for report"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is discovery and production of evidence?",
+      "How does discovery and production of evidence work?",
+      "Can you explain discovery and production of evidence?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

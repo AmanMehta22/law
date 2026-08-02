@@ -5,22 +5,47 @@
   "description": "Alternative names and search aliases for: District Commission Must Not Grant Adjournment Without Sufficient Cause",
   "content": {
     "aliases": [
-      "Consumer Forum",
-      "District Commission"
+      "adjournment",
+      "delay",
+      "postponement",
+      "adjournment without cause"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-7",
     "obligation.district_commission_must_not_grant_adjournment_without_suffi"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.adjournment_exception",
+    "alias.complaint_disposal",
+    "alias.district_commission",
+    "alias.district_commission_must_dispose_of_complaint_within_a_period",
+    "alias.district_commission_must_make_orders_for_costs_of_adjournment",
+    "alias.district_commission_must_record_reasons_for_adjournment",
+    "alias.district_commission_must_record_reasons_for_delayed_disposal"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "district",
+      "commission",
+      "grant",
+      "adjournment",
+      "without",
+      "sufficient",
+      "cause",
+      "alternative",
+      "names",
+      "search"
+    ],
     "aliases": [
       "Consumer Forum",
       "District Commission"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is adjournment exception?",
+      "How does adjournment exception work?",
+      "Can you explain adjournment exception?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.electronic_filing_of_complaint",
+  "concept_type": "alias",
+  "title": "Electronic filing of complaint",
+  "description": "Alternative names and search aliases for: Electronic filing of complaint",
+  "content": {
+    "aliases": [
+      "digital complaint filing",
+      "e-filing complaint",
+      "electronic complaint registration",
+      "online complaint submission"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "exception.the_complaint_under_this_sub_section_may_be_filed_electronic"
+  ],
+  "search": {
+    "keywords": [
+      "electronic",
+      "filing",
+      "complaint",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "digital",
+      "registration",
+      "online"
+    ],
+    "aliases": [
+      "digital complaint filing",
+      "e-filing complaint",
+      "electronic complaint registration",
+      "online complaint submission"
+    ],
+    "user_queries": [
+      "What is electronic filing of complaint?",
+      "How does electronic filing of complaint work?",
+      "Can you explain electronic filing of complaint?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

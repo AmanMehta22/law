@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.leasing_a_product",
+  "concept_type": "alias",
+  "title": "Leasing a product",
+  "description": "Alternative names and search aliases for: Leasing a product",
+  "content": {
+    "aliases": [
+      "equipment lease",
+      "hire purchase",
+      "product rental",
+      "rental agreement"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "exception.does_not_include_a_person_who_leases_a_product_without_havin"
+  ],
+  "search": {
+    "keywords": [
+      "leasing",
+      "product",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "equipment",
+      "lease",
+      "hire",
+      "purchase"
+    ],
+    "aliases": [
+      "equipment lease",
+      "hire purchase",
+      "product rental",
+      "rental agreement"
+    ],
+    "user_queries": [
+      "What is leasing a product?",
+      "How does leasing a product work?",
+      "Can you explain leasing a product?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

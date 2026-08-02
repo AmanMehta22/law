@@ -16,9 +16,28 @@
     "CPA2019-CH8-S103-2",
     "procedure.submission_of_quarterly_report_by_consumer_mediation_cell"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.adjournment_cost_imposition_by_district_commission",
+    "alias.adjournment_cost_imposition_by_state_or_national_commission",
+    "alias.authority_must_provide_for_re_empanelment_of_mediators",
+    "alias.authority_must_set_qualifications_and_experience_for_empanelment_as_mediator",
+    "alias.conduct_of_mediation",
+    "alias.consumer_mediation_cell",
+    "alias.consumer_mediation_cell_must_maintain_information"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "submission",
+      "quarterly",
+      "report",
+      "consumer",
+      "mediation",
+      "cell",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
     "aliases": [
       "Consumer mediation cell quarterly report",
       "Mediation cell quarterly report filing",
@@ -26,7 +45,11 @@
       "Quarterly report submission by consumer mediation cell",
       "Regular report submission by mediation cell"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is submission of quarterly report by consumer mediation cell?",
+      "How does submission of quarterly report by consumer mediation cell work?",
+      "Can you explain submission of quarterly report by consumer mediation cell?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

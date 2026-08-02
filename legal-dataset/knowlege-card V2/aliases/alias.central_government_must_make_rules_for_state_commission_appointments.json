@@ -5,22 +5,47 @@
   "description": "Alternative names and search aliases for: Central Government Must Make Rules For State Commission Appointments",
   "content": {
     "aliases": [
-      "notifications",
-      "regulations"
+      "Central Govt rules for state commission",
+      "State Commission appointment rules",
+      "Union Government regulations for state commission members",
+      "Govt of India state commission rules"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S43",
     "obligation.central_government_make_rules_for_appointment_of_president_a"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appointment_of_president_and_members_of_the_state_commission",
+    "alias.central_government",
+    "alias.state_commission",
+    "authority.central_government",
+    "authority.state_commission",
+    "intent.appointment_of_president_and_members_of_the_state_commission",
+    "intent.appointment_of_president_and_members_of_the_state_commission_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "central",
+      "government",
+      "make",
+      "rules",
+      "state",
+      "commission",
+      "appointments",
+      "alternative",
+      "names",
+      "search"
+    ],
     "aliases": [
       "notifications",
       "regulations"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is appointment of president and members of the state commission?",
+      "How does appointment of president and members of the state commission work?",
+      "Can you explain appointment of president and members of the state commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

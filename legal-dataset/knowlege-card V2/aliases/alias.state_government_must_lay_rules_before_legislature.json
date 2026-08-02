@@ -12,13 +12,35 @@
     "CPA2019-CH8-S105-2",
     "obligation.state_government_shall_lay_rules_before_the_state_legislatur"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.state_government",
+    "authority.state_government",
+    "intent.state_government",
+    "intent.state_government_2",
+    "intent.state_government_must_lay_rules_before_legislature",
+    "intent.state_government_must_lay_rules_before_legislature_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "state",
+      "government",
+      "lay",
+      "rules",
+      "before",
+      "legislature",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
     "aliases": [
       "laying of rules"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is state government must lay rules before legislature?",
+      "How does state government must lay rules before legislature work?",
+      "Can you explain state government must lay rules before legislature?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

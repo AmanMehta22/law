@@ -14,15 +14,37 @@
     "CPA2019-CH3-S17",
     "authority.commissioner_of_regional_office"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.district_collector",
+    "alias.right_to_file_complaint",
+    "authority.central_authority",
+    "authority.commissioner_of_regional_office",
+    "authority.district_collector",
+    "intent.central_authority"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "commissioner",
+      "regional",
+      "office",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "roc",
+      "comm"
+    ],
     "aliases": [
       "ROC Comm",
       "Regional Comm",
       "Regional Office Commissioner"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is commissioner of regional office?",
+      "How does commissioner of regional office work?",
+      "Can you explain commissioner of regional office?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -12,13 +12,35 @@
     "CPA2019-CH3-S13-3",
     "obligation.central_authority_must_engage_experts_and_professionals"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "authority.central_authority",
+    "intent.central_authority",
+    "intent.central_authority_2",
+    "intent.central_authority_must_engage_experts_according_to_regulations",
+    "intent.central_authority_must_engage_experts_according_to_regulations_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "central",
+      "authority",
+      "engage",
+      "experts",
+      "according",
+      "regulations",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
     "aliases": [
       "Consumer Protection Authority"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central authority must engage experts according to regulations?",
+      "How does central authority must engage experts according to regulations work?",
+      "Can you explain central authority must engage experts according to regulations?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

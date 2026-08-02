@@ -16,9 +16,28 @@
     "CPA2019-CH5-S75-1",
     "authority.selection_committee"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.consumer_mediation_cell",
+    "alias.district_commission",
+    "alias.mediator_panel_preparation",
+    "alias.national_commission",
+    "alias.state_commission",
+    "authority.consumer_mediation_cell",
+    "authority.district_commission"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "selection",
+      "committee",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "appointment",
+      "panel",
+      "nominating",
+      "nomination"
+    ],
     "aliases": [
       "Appointment Panel",
       "Nominating Committee",
@@ -26,7 +45,11 @@
       "Recruitment Board",
       "Selection Panel"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is commission must prepare a panel of mediators?",
+      "How does commission must prepare a panel of mediators work?",
+      "Can you explain commission must prepare a panel of mediators?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

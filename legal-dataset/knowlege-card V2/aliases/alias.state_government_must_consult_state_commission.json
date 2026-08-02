@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.state_government_must_consult_state_commission",
+  "concept_type": "alias",
+  "title": "State Government must consult State Commission",
+  "description": "Alternative names and search aliases for: State Government must consult State Commission",
+  "content": {
+    "aliases": [
+      "collaboration with state commission",
+      "consult with state commission",
+      "seek state commission advice",
+      "state government consultation"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.state_government_must_consult_state_commission"
+  ],
+  "search": {
+    "keywords": [
+      "state",
+      "government",
+      "consult",
+      "commission",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "collaboration",
+      "seek"
+    ],
+    "aliases": [
+      "collaboration with state commission",
+      "consult with state commission",
+      "seek state commission advice",
+      "state government consultation"
+    ],
+    "user_queries": [
+      "What is state government must consult state commission?",
+      "How does state government must consult state commission work?",
+      "Can you explain state government must consult state commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

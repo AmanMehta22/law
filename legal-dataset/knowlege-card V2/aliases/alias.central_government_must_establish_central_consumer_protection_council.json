@@ -12,13 +12,36 @@
     "CPA2019-CH2-S3-1",
     "obligation.central_government_shall_establish_the_central_consumer_prot"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_consumer_protection_council",
+    "alias.central_government",
+    "authority.central_consumer_protection_council",
+    "authority.central_government",
+    "intent.central_consumer_protection_council",
+    "intent.central_consumer_protection_council_2",
+    "intent.central_government"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "central",
+      "government",
+      "establish",
+      "consumer",
+      "protection",
+      "council",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
     "aliases": [
       "Central Government"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central consumer protection council?",
+      "How does central consumer protection council work?",
+      "Can you explain central consumer protection council?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

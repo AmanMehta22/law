@@ -16,9 +16,28 @@
     "CPA2019-CH3-S22-4",
     "procedure.disposal_of_seized_articles_subject_to_decay"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.director_general",
+    "authority.director_general",
+    "intent.director_general",
+    "intent.director_general_2",
+    "intent.director_general_or_officer_must_dispose_of_seized_articles",
+    "intent.disposal_of_seized_articles_subject_to_decay",
+    "intent.disposal_of_seized_articles_subject_to_decay_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "disposal",
+      "seized",
+      "articles",
+      "subject",
+      "decay",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "destruction"
+    ],
     "aliases": [
       "destruction of perishable goods",
       "disposal of spoiling items",
@@ -26,7 +45,11 @@
       "removal of seized perishables",
       "wasting of seized goods"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is director-general or officer must dispose of seized articles?",
+      "How does director-general or officer must dispose of seized articles work?",
+      "Can you explain director-general or officer must dispose of seized articles?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -12,13 +12,34 @@
     "CPA2019-CH4-S59-1",
     "obligation.national_commission_must_dispose_of_complaints"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.national_commission",
+    "authority.national_commission",
+    "intent.national_commission",
+    "intent.national_commission_2",
+    "intent.national_commission_must_dispose_of_complaints",
+    "intent.national_commission_must_dispose_of_complaints_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "national",
+      "commission",
+      "dispose",
+      "complaints",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "disposal"
+    ],
     "aliases": [
       "National Commission complaints disposal"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is national commission must dispose of complaints?",
+      "How does national commission must dispose of complaints work?",
+      "Can you explain national commission must dispose of complaints?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

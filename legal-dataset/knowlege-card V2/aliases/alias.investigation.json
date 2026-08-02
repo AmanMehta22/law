@@ -17,9 +17,28 @@
     "CPA2019-CH3-S19-3",
     "procedure.investigation"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_authority_must_cause_investigation",
+    "alias.central_government",
+    "alias.director_general",
+    "alias.district_collector",
+    "alias.preliminary_inquiry",
+    "authority.central_authority"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "investigation",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "enquiry",
+      "process",
+      "examination",
+      "fact",
+      "finding"
+    ],
     "aliases": [
       "enquiry process",
       "examination",
@@ -27,7 +46,11 @@
       "inquiry",
       "probe"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central authority must cause investigation?",
+      "How does central authority must cause investigation work?",
+      "Can you explain central authority must cause investigation?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -18,9 +18,28 @@
     "CPA2019-CH4-S52",
     "procedure.appeal_hearing"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.adjournment_exception",
+    "alias.national_commission",
+    "alias.right_to_expedient_hearing_of_appeal",
+    "alias.state_commission",
+    "authority.national_commission",
+    "authority.state_commission",
+    "evidence.written_record_of_reasons"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "appeal",
+      "hearing",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "procedure",
+      "national",
+      "commission",
+      "state"
+    ],
     "aliases": [
       "appeal hearing",
       "appeal hearing procedure",
@@ -30,7 +49,11 @@
       "hearing for appeal",
       "hearing of appeal"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is adjournment exception?",
+      "How does adjournment exception work?",
+      "Can you explain adjournment exception?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

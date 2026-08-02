@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.penalty_for_subsequent_false_or_misleading_advertisement",
+  "concept_type": "alias",
+  "title": "Penalty for subsequent false or misleading advertisement",
+  "description": "Alternative names and search aliases for: Penalty for subsequent false or misleading advertisement",
+  "content": {
+    "aliases": [
+      "repeat misleading ad fine",
+      "second false ad penalty",
+      "subsequent deceptive advertising penalty"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "penalty.subsequent_publishing_of_false_or_misleading_advertisement"
+  ],
+  "search": {
+    "keywords": [
+      "penalty",
+      "subsequent",
+      "false",
+      "misleading",
+      "advertisement",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "repeat"
+    ],
+    "aliases": [
+      "repeat misleading ad fine",
+      "second false ad penalty",
+      "subsequent deceptive advertising penalty"
+    ],
+    "user_queries": [
+      "What is penalty for subsequent false or misleading advertisement?",
+      "How does penalty for subsequent false or misleading advertisement work?",
+      "Can you explain penalty for subsequent false or misleading advertisement?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

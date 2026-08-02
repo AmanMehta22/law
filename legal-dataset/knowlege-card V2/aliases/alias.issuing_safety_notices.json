@@ -15,16 +15,39 @@
     "CPA2019-CH3-S18-2",
     "procedure.issuing_safety_notices"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.advising_on_consumer_welfare_measures",
+    "alias.awareness_on_consumer_rights",
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.cooperation_with_non_governmental_organisations",
+    "alias.district_commission",
+    "alias.filing_complaints"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "issuing",
+      "safety",
+      "notices",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "hazard",
+      "warning",
+      "product"
+    ],
     "aliases": [
       "Hazard Warning",
       "Product Safety Notice",
       "Risk Notification",
       "Safety Alert"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is issuing safety notices?",
+      "How does issuing safety notices work?",
+      "Can you explain issuing safety notices?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -16,9 +16,28 @@
     "CPA2019-CH4-S58-1",
     "procedure.review_of_state_commission_decisions"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.filing_of_complaints_and_appeals_with_the_national_commission",
+    "alias.national_commission",
+    "alias.right_to_appeal",
+    "alias.state_commission",
+    "authority.central_authority"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "review",
+      "state",
+      "commission",
+      "decisions",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "appeal",
+      "against"
+    ],
     "aliases": [
       "Appeal against State Commission",
       "Challenging State Commission decisions",
@@ -26,7 +45,11 @@
       "State Commission decision review",
       "State Commission order review"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central government discretion on value?",
+      "How does central government discretion on value work?",
+      "Can you explain central government discretion on value?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

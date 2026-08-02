@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.pecuniary_jurisdiction_of_district_commission",
+  "concept_type": "alias",
+  "title": "Pecuniary jurisdiction of District Commission",
+  "description": "Alternative names and search aliases for: Pecuniary jurisdiction of District Commission",
+  "content": {
+    "aliases": [
+      "district commission monetary limit",
+      "district commission money threshold",
+      "financial jurisdiction of district commission",
+      "pecuniary limit of district commission"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "jurisdiction.district_commission_other_value_of_goods_and_services"
+  ],
+  "search": {
+    "keywords": [
+      "pecuniary",
+      "jurisdiction",
+      "district",
+      "commission",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "monetary",
+      "limit"
+    ],
+    "aliases": [
+      "district commission monetary limit",
+      "district commission money threshold",
+      "financial jurisdiction of district commission",
+      "pecuniary limit of district commission"
+    ],
+    "user_queries": [
+      "What is pecuniary jurisdiction of district commission?",
+      "How does pecuniary jurisdiction of district commission work?",
+      "Can you explain pecuniary jurisdiction of district commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

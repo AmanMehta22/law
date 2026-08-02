@@ -10,25 +10,57 @@
       "Regulation of State and District Commissions",
       "State Commission oversight",
       "State and District Commission regulation",
-      "supervision"
+      "supervision",
+      "district commission",
+      "functioning",
+      "overseeing",
+      "state and district commissions",
+      "state commission"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S70-1",
     "procedure.overseeing_functioning_of_state_and_district_commissions"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.district_commission",
+    "alias.investigation_into_allegations_against_state_commission_members",
+    "alias.issuance_of_instructions_for_uniform_procedure",
+    "alias.monitoring_performance_of_state_commissions",
+    "alias.national_commission",
+    "alias.national_commission_must_investigate_allegations_against_state_commission_member"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "overseeing",
+      "functioning",
+      "state",
+      "district",
+      "commissions",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "commission"
+    ],
     "aliases": [
       "District Commission supervision",
       "Monitoring State Commissions",
       "Regulation of State and District Commissions",
       "State Commission oversight",
       "State and District Commission regulation",
-      "supervision"
+      "supervision",
+      "district commission",
+      "functioning",
+      "overseeing",
+      "state and district commissions"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is overseeing functioning of state and district commissions?",
+      "How does overseeing functioning of state and district commissions work?",
+      "Can you explain overseeing functioning of state and district commissions?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

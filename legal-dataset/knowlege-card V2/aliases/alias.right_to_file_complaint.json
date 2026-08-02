@@ -17,9 +17,28 @@
     "CPA2019-CH3-S17",
     "right.right_to_file_complaint"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.commissioner_of_regional_office",
+    "alias.district_collector",
+    "authority.central_authority",
+    "authority.commissioner_of_regional_office",
+    "authority.district_collector",
+    "intent.central_authority"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "right",
+      "file",
+      "complaint",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "filing",
+      "rights",
+      "grievance"
+    ],
     "aliases": [
       "complaint filing rights",
       "filing a grievance",
@@ -28,7 +47,11 @@
       "right to report",
       "submitting a complaint"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is commissioner of regional office?",
+      "How does commissioner of regional office work?",
+      "Can you explain commissioner of regional office?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -16,9 +16,27 @@
     "CPA2019-CH4-S37-2",
     "procedure.mediation_referral"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.district_commission_must_refer_matter_for_mediation",
+    "authority.district_commission",
+    "evidence.written_consent",
+    "intent.consent_in_writing",
+    "intent.district_commission",
+    "intent.district_commission_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "mediation",
+      "referral",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "arbitration",
+      "dispute",
+      "resolution"
+    ],
     "aliases": [
       "arbitration",
       "dispute resolution",
@@ -26,7 +44,11 @@
       "mediation referral",
       "referral to mediation"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is district commission must refer matter for mediation?",
+      "How does district commission must refer matter for mediation work?",
+      "Can you explain district commission must refer matter for mediation?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -12,13 +12,36 @@
     "CPA2019-CH4-S53-2",
     "obligation.national_commission_must_function_at_specified_locations"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.central_government_must_notify_locations_in_official_gazette",
+    "alias.national_commission",
+    "alias.regional_benches_establishment",
+    "authority.central_government",
+    "authority.national_commission",
+    "exception.the_central_government_may_establish_regional_benches_of_the"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "national",
+      "commission",
+      "function",
+      "specified",
+      "locations",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "consumer"
+    ],
     "aliases": [
       "National Consumer Disputes Redressal Commission"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central government must establish regional benches by notification?",
+      "How does central government must establish regional benches by notification work?",
+      "Can you explain central government must establish regional benches by notification?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

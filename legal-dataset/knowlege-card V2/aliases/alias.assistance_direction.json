@@ -15,16 +15,37 @@
     "CPA2019-CH4-S66",
     "procedure.assistance_direction"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.national_commission",
+    "alias.national_or_state_commission_may_direct_assistance",
+    "alias.state_commission",
+    "authority.national_commission",
+    "authority.state_commission",
+    "intent.assistance_direction",
+    "intent.assistance_direction_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "assistance",
+      "direction",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "guidance",
+      "order"
+    ],
     "aliases": [
       "assistance direction",
       "assistance guidance",
       "assistance order",
       "direction for assistance"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is assistance direction?",
+      "How does assistance direction work?",
+      "Can you explain assistance direction?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -12,13 +12,35 @@
     "CPA2019-CH1-S1-4",
     "obligation.central_government_may_exempt_goods_and_services_by_notifica"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "authority.central_government",
+    "exception.does_not_apply_if_the_central_government_otherwise_expressly",
+    "intent.central_government",
+    "intent.central_government_2",
+    "intent.central_government_must_consider_exceptions",
+    "intent.central_government_must_consider_exceptions_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "central",
+      "government",
+      "consider",
+      "exceptions",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "exception"
+    ],
     "aliases": [
       "exception"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central government?",
+      "How does central government work?",
+      "Can you explain central government?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

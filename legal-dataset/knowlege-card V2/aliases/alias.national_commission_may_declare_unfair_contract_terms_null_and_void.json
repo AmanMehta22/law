@@ -12,13 +12,36 @@
     "CPA2019-CH4-S59-2",
     "obligation.national_commission_may_declare_terms_of_contract_null_and_v"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.declaration_of_contract_terms_as_null_and_void",
+    "alias.national_commission",
+    "alias.right_to_protection_from_unfair_contract_terms",
+    "authority.national_commission",
+    "intent.declaration_of_contract_terms_as_null_and_void",
+    "intent.declaration_of_contract_terms_as_null_and_void_2",
+    "intent.national_commission"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "national",
+      "commission",
+      "declare",
+      "unfair",
+      "contract",
+      "terms",
+      "null",
+      "void",
+      "alternative",
+      "names"
+    ],
     "aliases": [
       "declare invalid"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is declaration of contract terms as null and void?",
+      "How does declaration of contract terms as null and void work?",
+      "Can you explain declaration of contract terms as null and void?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

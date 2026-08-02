@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.offences_under_clauses_c_and_d",
+  "concept_type": "alias",
+  "title": "Offences under clauses (c) and (d)",
+  "description": "Alternative names and search aliases for: Offences under clauses (c) and (d)",
+  "content": {
+    "aliases": [
+      "breaches under clauses c and d",
+      "crimes under clauses c and d",
+      "offenses under section c and d",
+      "violations of clauses c and d"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "penalty.offences_under_clauses_c_and_d"
+  ],
+  "search": {
+    "keywords": [
+      "offences",
+      "clauses",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "breaches",
+      "crimes",
+      "offenses",
+      "section"
+    ],
+    "aliases": [
+      "breaches under clauses c and d",
+      "crimes under clauses c and d",
+      "offenses under section c and d",
+      "violations of clauses c and d"
+    ],
+    "user_queries": [
+      "What is offences under clauses (c) and (d)?",
+      "How does offences under clauses (c) and (d) work?",
+      "Can you explain offences under clauses (c) and (d)?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

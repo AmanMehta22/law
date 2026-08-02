@@ -13,14 +13,35 @@
     "CPA2019-CH2-S7",
     "obligation.state_council_render_advice_on_promotion_and_protection_of_c"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.state_council",
+    "authority.state_council",
+    "intent.state_council",
+    "intent.state_council_2",
+    "intent.state_council_must_render_advice",
+    "intent.state_council_must_render_advice_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "state",
+      "council",
+      "render",
+      "advice",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "counsel"
+    ],
     "aliases": [
       "advice",
       "counsel"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is state council must render advice?",
+      "How does state council must render advice work?",
+      "Can you explain state council must render advice?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

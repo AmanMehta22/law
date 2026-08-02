@@ -18,9 +18,24 @@
     "CPA2019-CH1-S2-24",
     "definition.manufacturer"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "definition.manufacturer",
+    "intent.manufacturer",
+    "intent.manufacturer_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "manufacturer",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "creator",
+      "goods",
+      "maker",
+      "producer",
+      "supplier"
+    ],
     "aliases": [
       "Creator of Goods",
       "Maker",
@@ -30,7 +45,11 @@
       "maker",
       "producer"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is manufacturer?",
+      "How does manufacturer work?",
+      "Can you explain manufacturer?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

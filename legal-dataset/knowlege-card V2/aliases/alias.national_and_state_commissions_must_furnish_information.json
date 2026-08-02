@@ -12,13 +12,36 @@
     "CPA2019-CH4-S70-4",
     "obligation.national_commission_and_the_state_commissions_shall_furnish_"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.national_commission",
+    "alias.state_commissions",
+    "authority.central_government",
+    "authority.national_commission",
+    "authority.state_commissions",
+    "evidence.information"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "national",
+      "state",
+      "commissions",
+      "furnish",
+      "information",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "reporting"
+    ],
     "aliases": [
       "reporting requirement"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is information?",
+      "How does information work?",
+      "Can you explain information?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

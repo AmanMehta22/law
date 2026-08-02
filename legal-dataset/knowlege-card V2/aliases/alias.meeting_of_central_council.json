@@ -15,16 +15,36 @@
     "CPA2019-CH2-S4-2",
     "procedure.meeting_of_central_council"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_council",
+    "alias.central_council_must_observe_prescribed_procedure",
+    "authority.central_council",
+    "intent.central_council",
+    "intent.central_council_2",
+    "intent.central_council_must_observe_prescribed_procedure",
+    "intent.central_council_must_observe_prescribed_procedure_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "meeting",
+      "central",
+      "council",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
     "aliases": [
       "central council",
       "central council meeting",
       "council",
       "council meeting"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central council must observe prescribed procedure?",
+      "How does central council must observe prescribed procedure work?",
+      "Can you explain central council must observe prescribed procedure?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

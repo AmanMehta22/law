@@ -18,9 +18,28 @@
     "CPA2019-CH1-S2-42",
     "definition.service"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.service_excludes_free_of_charge_or_personal_service",
+    "definition.service",
+    "exception.does_not_include_the_rendering_of_any_service_free_of_charge",
+    "intent.service",
+    "intent.service_2",
+    "intent.service_excludes_free_of_charge_or_personal_service",
+    "intent.service_excludes_free_of_charge_or_personal_service_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "service",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "commodity",
+      "facility",
+      "offering",
+      "provision",
+      "utility"
+    ],
     "aliases": [
       "Commodity",
       "Facility",
@@ -30,7 +49,11 @@
       "facility",
       "provision"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is service?",
+      "How does service work?",
+      "Can you explain service?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

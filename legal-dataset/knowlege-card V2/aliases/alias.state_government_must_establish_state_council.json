@@ -12,13 +12,36 @@
     "CPA2019-CH2-S6-1",
     "obligation.state_government_shall_establish_a_state_consumer_protection"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.state_council",
+    "alias.state_government",
+    "authority.state_council",
+    "authority.state_government",
+    "intent.state_council",
+    "intent.state_council_2",
+    "intent.state_government"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "state",
+      "government",
+      "establish",
+      "council",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "consumer",
+      "protection"
+    ],
     "aliases": [
       "State Consumer Protection Council"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is state council?",
+      "How does state council work?",
+      "Can you explain state council?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -17,9 +17,28 @@
     "CPA2019-CH4-S58-3",
     "procedure.resolution_of_differing_opinions"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.president",
+    "alias.president_or_other_members_must_give_opinion_within_a_month",
+    "authority.president",
+    "intent.opinion_time_limit",
+    "intent.president",
+    "intent.president_2",
+    "intent.president_or_other_members_must_give_opinion_within_a_month"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "resolution",
+      "differing",
+      "opinions",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "conflict",
+      "dispute",
+      "opinion"
+    ],
     "aliases": [
       "conflict resolution",
       "dispute resolution",
@@ -27,7 +46,11 @@
       "resolving disagreements",
       "settling differences"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is president or other members must give opinion within a month?",
+      "How does president or other members must give opinion within a month work?",
+      "Can you explain president or other members must give opinion within a month?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -16,9 +16,27 @@
     "CPA2019-CH4-S43",
     "procedure.appointment_of_president_and_members_of_the_state_commission"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.central_government_must_make_rules_for_state_commission_appointments",
+    "alias.state_commission",
+    "authority.central_government",
+    "authority.state_commission",
+    "intent.appointment_of_president_and_members_of_the_state_commission",
+    "intent.appointment_of_president_and_members_of_the_state_commission_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "appointment",
+      "president",
+      "members",
+      "state",
+      "commission",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
     "aliases": [
       "president and members of the state commission",
       "state commission",
@@ -26,7 +44,11 @@
       "state commission members",
       "state commission president"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is appointment of president and members of the state commission?",
+      "How does appointment of president and members of the state commission work?",
+      "Can you explain appointment of president and members of the state commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

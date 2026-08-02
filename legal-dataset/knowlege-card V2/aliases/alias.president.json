@@ -18,9 +18,28 @@
     "CPA2019-CH4-S58-3",
     "authority.president"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.bench",
+    "alias.state_commission",
+    "authority.bench",
+    "authority.president",
+    "authority.state_commission",
+    "exception.does_not_include_a_person_who_obtains_goods_for_resale_or_co",
+    "intent.bench"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "president",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "chairperson",
+      "chief",
+      "commission",
+      "head",
+      "leader"
+    ],
     "aliases": [
       "Chairperson",
       "Chief of Commission",
@@ -28,7 +47,11 @@
       "Head of Commission",
       "Leader of the Commission"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is bench?",
+      "How does bench work?",
+      "Can you explain bench?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

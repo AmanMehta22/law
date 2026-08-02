@@ -15,16 +15,39 @@
     "CPA2019-CH4-S38-4",
     "procedure.information_requirement"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "authority.district_commission",
+    "evidence.information_documents_records",
+    "intent.district_commission",
+    "intent.district_commission_2",
+    "intent.electronic_service_provider_must_provide_information",
+    "intent.information_documents_or_records"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "information",
+      "requirement",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "needed",
+      "mandatory",
+      "disclosure",
+      "necessary"
+    ],
     "aliases": [
       "information needed",
       "mandatory disclosure",
       "necessary details",
       "required information"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is electronic service provider must provide information?",
+      "How does electronic service provider must provide information work?",
+      "Can you explain electronic service provider must provide information?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

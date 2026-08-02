@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.state_commission_s_administrative_control",
+  "concept_type": "alias",
+  "title": "State Commission's administrative control",
+  "description": "Alternative names and search aliases for: State Commission's administrative control",
+  "content": {
+    "aliases": [
+      "administrative authority",
+      "control and regulation",
+      "state commission governance",
+      "state commission management"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.state_commission_shall_have_administrative_control"
+  ],
+  "search": {
+    "keywords": [
+      "state",
+      "commission",
+      "administrative",
+      "control",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "authority",
+      "regulation"
+    ],
+    "aliases": [
+      "administrative authority",
+      "control and regulation",
+      "state commission governance",
+      "state commission management"
+    ],
+    "user_queries": [
+      "What is state commission's administrative control?",
+      "How does state commission's administrative control work?",
+      "Can you explain state commission's administrative control?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -15,16 +15,39 @@
     "CPA2019-CH3-S22-1",
     "procedure.investigation_and_search"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.director_general",
+    "alias.district_collector",
+    "authority.director_general",
+    "authority.district_collector",
+    "evidence.document_record_article_evidence",
+    "intent.director_general",
+    "intent.director_general_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "investigation",
+      "search",
+      "alternative",
+      "names",
+      "aliases",
+      "inquiry",
+      "inspection",
+      "raid",
+      "probe",
+      "examination"
+    ],
     "aliases": [
       "Inquiry and Inspection",
       "Investigation and Raid",
       "Probe and Examination",
       "Search and Seizure"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is document or record or article or evidence?",
+      "How does document or record or article or evidence work?",
+      "Can you explain document or record or article or evidence?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

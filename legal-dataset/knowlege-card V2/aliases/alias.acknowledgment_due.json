@@ -1,0 +1,50 @@
+{
+  "concept_id": "alias.acknowledgment_due",
+  "concept_type": "alias",
+  "title": "Acknowledgment due",
+  "description": "Alternative names and search aliases for: Acknowledgment due",
+  "content": {
+    "aliases": [
+      "acknowledgement receipt",
+      "confirmation receipt",
+      "due acknowledgement"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "evidence.registered_post_acknowledgment_due"
+  ],
+  "search": {
+    "keywords": [
+      "acknowledgment",
+      "due",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "acknowledgement",
+      "receipt",
+      "confirmation"
+    ],
+    "aliases": [
+      "acknowledgement receipt",
+      "confirmation receipt",
+      "due acknowledgement"
+    ],
+    "user_queries": [
+      "What is acknowledgment due?",
+      "How does acknowledgment due work?",
+      "Can you explain acknowledgment due?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

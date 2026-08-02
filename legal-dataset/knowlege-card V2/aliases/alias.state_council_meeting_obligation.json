@@ -12,13 +12,35 @@
     "CPA2019-CH2-S6-3",
     "obligation.state_council_shall_meet"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.minimum_meetings_per_year",
+    "alias.state_council",
+    "authority.state_council",
+    "intent.minimum_meetings_per_year",
+    "intent.minimum_meetings_per_year_2",
+    "intent.state_council",
+    "intent.state_council_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "state",
+      "council",
+      "meeting",
+      "obligation",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "requirement"
+    ],
     "aliases": [
       "State Council meeting requirement"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is minimum meetings per year?",
+      "How does minimum meetings per year work?",
+      "Can you explain minimum meetings per year?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

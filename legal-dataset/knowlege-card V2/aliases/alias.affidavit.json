@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.affidavit",
+  "concept_type": "alias",
+  "title": "Affidavit",
+  "description": "Alternative names and search aliases for: Affidavit",
+  "content": {
+    "aliases": [
+      "notarized declaration",
+      "sworn statement",
+      "written oath"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "evidence.affidavit"
+  ],
+  "search": {
+    "keywords": [
+      "affidavit",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "notarized",
+      "declaration",
+      "sworn",
+      "statement",
+      "written"
+    ],
+    "aliases": [
+      "notarized declaration",
+      "sworn statement",
+      "written oath"
+    ],
+    "user_queries": [
+      "What is affidavit?",
+      "How does affidavit work?",
+      "Can you explain affidavit?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

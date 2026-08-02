@@ -17,16 +17,38 @@
     "CPA2019-CH3-S26-4",
     "authority.comptroller_and_auditor_general_of_india"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_authority_must_maintain_accounts_and_records",
+    "authority.central_authority",
+    "authority.comptroller_and_auditor_general_of_india",
+    "evidence.accounts_records",
+    "intent.accounts_and_records",
+    "intent.central_authority"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "comptroller",
+      "auditor",
+      "general",
+      "india",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "cag"
+    ],
     "aliases": [
       "Auditor General of India",
       "CAG",
       "CAG India",
       "Comptroller and Auditor General"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is accounts and audit reports?",
+      "How does accounts and audit reports work?",
+      "Can you explain accounts and audit reports?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

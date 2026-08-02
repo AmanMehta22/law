@@ -17,9 +17,24 @@
     "CPA2019-CH1-S2-43",
     "definition.spurious_goods"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "definition.spurious_goods",
+    "intent.spurious_goods",
+    "intent.spurious_goods_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "spurious",
+      "goods",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "counterfeit",
+      "fake",
+      "products",
+      "pirated"
+    ],
     "aliases": [
       "Counterfeit Goods",
       "Fake Products",
@@ -28,7 +43,11 @@
       "counterfeit products",
       "fake goods"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is spurious goods?",
+      "How does spurious goods work?",
+      "Can you explain spurious goods?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

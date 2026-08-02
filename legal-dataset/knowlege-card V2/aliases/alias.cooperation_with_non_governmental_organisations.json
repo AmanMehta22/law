@@ -15,16 +15,39 @@
     "CPA2019-CH3-S18-2",
     "procedure.cooperation_with_non_governmental_organisations"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.advising_on_consumer_welfare_measures",
+    "alias.awareness_on_consumer_rights",
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.district_commission",
+    "alias.filing_complaints",
+    "alias.inquiry_or_investigation"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "cooperation",
+      "non",
+      "governmental",
+      "organisations",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "ngo",
+      "collaboration"
+    ],
     "aliases": [
       "NGO collaboration",
       "civil society partnership",
       "cooperation with non-profit organizations",
       "partnership with NGOs"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is advising on consumer welfare measures?",
+      "How does advising on consumer welfare measures work?",
+      "Can you explain advising on consumer welfare measures?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

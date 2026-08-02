@@ -12,13 +12,35 @@
     "CPA2019-CH5-S80-3",
     "obligation.mediator_shall_prepare_his_report_and_submit_the_same_to_the"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.commission",
+    "alias.mediation_procedure",
+    "authority.commission",
+    "intent.commission",
+    "intent.commission_2",
+    "intent.mediation_procedure",
+    "intent.mediation_procedure_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "mediator",
+      "prepare",
+      "submit",
+      "report",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "mediation"
+    ],
     "aliases": [
       "mediation report"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is mediation procedure?",
+      "How does mediation procedure work?",
+      "Can you explain mediation procedure?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

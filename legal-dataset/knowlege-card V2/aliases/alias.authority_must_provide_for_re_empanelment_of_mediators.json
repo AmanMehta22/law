@@ -12,13 +12,36 @@
     "CPA2019-CH8-S103-2",
     "obligation.authority_must_provide_for_re_empanelment_of_mediators"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.adjournment_cost_imposition_by_district_commission",
+    "alias.adjournment_cost_imposition_by_state_or_national_commission",
+    "alias.authority_must_set_qualifications_and_experience_for_empanelment_as_mediator",
+    "alias.conduct_of_mediation",
+    "alias.consumer_mediation_cell",
+    "alias.consumer_mediation_cell_must_maintain_information",
+    "alias.consumer_mediation_cell_must_submit_quarterly_report"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "authority",
+      "provide",
+      "empanelment",
+      "mediators",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "eligibility",
+      "criteria"
+    ],
     "aliases": [
       "re-eligibility criteria"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is adjournment cost imposition by district commission?",
+      "How does adjournment cost imposition by district commission work?",
+      "Can you explain adjournment cost imposition by district commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

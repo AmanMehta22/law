@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.state_government_recognition",
+  "concept_type": "alias",
+  "title": "State Government recognition",
+  "description": "Alternative names and search aliases for: State Government recognition",
+  "content": {
+    "aliases": [
+      "local government acknowledgement",
+      "regional recognition",
+      "state approval"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "exception.does_not_include_a_laboratory_or_an_organisation_that_is_not"
+  ],
+  "search": {
+    "keywords": [
+      "state",
+      "government",
+      "recognition",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "local",
+      "acknowledgement",
+      "regional"
+    ],
+    "aliases": [
+      "local government acknowledgement",
+      "regional recognition",
+      "state approval"
+    ],
+    "user_queries": [
+      "What is state government recognition?",
+      "How does state government recognition work?",
+      "Can you explain state government recognition?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

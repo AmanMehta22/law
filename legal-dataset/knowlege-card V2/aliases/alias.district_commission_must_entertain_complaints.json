@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.district_commission_must_entertain_complaints",
+  "concept_type": "alias",
+  "title": "District Commission must entertain complaints",
+  "description": "Alternative names and search aliases for: District Commission must entertain complaints",
+  "content": {
+    "aliases": [
+      "complaint acceptance",
+      "complaint registration",
+      "consumer complaint filing",
+      "district commission complaint reception"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.district_commission_shall_have_jurisdiction_to_entertain_com"
+  ],
+  "search": {
+    "keywords": [
+      "district",
+      "commission",
+      "entertain",
+      "complaints",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "complaint",
+      "acceptance"
+    ],
+    "aliases": [
+      "complaint acceptance",
+      "complaint registration",
+      "consumer complaint filing",
+      "district commission complaint reception"
+    ],
+    "user_queries": [
+      "What is district commission must entertain complaints?",
+      "How does district commission must entertain complaints work?",
+      "Can you explain district commission must entertain complaints?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.documentary_evidence",
+  "concept_type": "alias",
+  "title": "Documentary evidence",
+  "description": "Alternative names and search aliases for: Documentary evidence",
+  "content": {
+    "aliases": [
+      "paper trail",
+      "tangible evidence",
+      "written proof"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "evidence.documentary_evidence"
+  ],
+  "search": {
+    "keywords": [
+      "documentary",
+      "evidence",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "paper",
+      "trail",
+      "tangible",
+      "written"
+    ],
+    "aliases": [
+      "paper trail",
+      "tangible evidence",
+      "written proof"
+    ],
+    "user_queries": [
+      "What is documentary evidence?",
+      "How does documentary evidence work?",
+      "Can you explain documentary evidence?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

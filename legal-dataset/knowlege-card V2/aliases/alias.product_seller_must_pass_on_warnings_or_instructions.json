@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.product_seller_must_pass_on_warnings_or_instructions",
+  "concept_type": "alias",
+  "title": "Product seller must pass on warnings or instructions",
+  "description": "Alternative names and search aliases for: Product seller must pass on warnings or instructions",
+  "content": {
+    "aliases": [
+      "passing on product warnings",
+      "product instructions",
+      "seller's duty to inform"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.product_seller_must_pass_on_warnings_or_instructions_of_the_"
+  ],
+  "search": {
+    "keywords": [
+      "product",
+      "seller",
+      "pass",
+      "warnings",
+      "instructions",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "passing"
+    ],
+    "aliases": [
+      "passing on product warnings",
+      "product instructions",
+      "seller's duty to inform"
+    ],
+    "user_queries": [
+      "What is product seller must pass on warnings or instructions?",
+      "How does product seller must pass on warnings or instructions work?",
+      "Can you explain product seller must pass on warnings or instructions?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

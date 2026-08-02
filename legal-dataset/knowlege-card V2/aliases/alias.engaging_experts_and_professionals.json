@@ -16,9 +16,28 @@
     "CPA2019-CH8-S104-2",
     "procedure.engaging_experts_and_professionals"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_authority_must_receive_inquiry_or_investigation_report",
+    "alias.director_general",
+    "alias.mediation_time_limit",
+    "alias.submission_of_inquiries_or_investigation",
+    "alias.transaction_of_business",
+    "authority.central_authority"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "engaging",
+      "experts",
+      "professionals",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "appointment",
+      "consulting",
+      "engagement"
+    ],
     "aliases": [
       "appointment of experts",
       "consulting with experts",
@@ -26,7 +45,11 @@
       "hiring specialists",
       "retaining specialists"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central authority must receive inquiry or investigation report?",
+      "How does central authority must receive inquiry or investigation report work?",
+      "Can you explain central authority must receive inquiry or investigation report?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

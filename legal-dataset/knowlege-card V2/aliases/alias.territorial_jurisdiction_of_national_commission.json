@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.territorial_jurisdiction_of_national_commission",
+  "concept_type": "alias",
+  "title": "Territorial jurisdiction of National Commission",
+  "description": "Alternative names and search aliases for: Territorial jurisdiction of National Commission",
+  "content": {
+    "aliases": [
+      "geographical area of national commission",
+      "national commission area of authority",
+      "national commission jurisdiction"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "jurisdiction.national_commission_national_capital_region_and_other_notified_places"
+  ],
+  "search": {
+    "keywords": [
+      "territorial",
+      "jurisdiction",
+      "national",
+      "commission",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "geographical",
+      "area"
+    ],
+    "aliases": [
+      "geographical area of national commission",
+      "national commission area of authority",
+      "national commission jurisdiction"
+    ],
+    "user_queries": [
+      "What is territorial jurisdiction of national commission?",
+      "How does territorial jurisdiction of national commission work?",
+      "Can you explain territorial jurisdiction of national commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -12,13 +12,35 @@
     "CPA2019-CH5-S79-2",
     "obligation.mediator_nominated_by_the_commission_shall_have_regard_to_th"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.mediation",
+    "alias.national_commission",
+    "alias.state_commission",
+    "authority.district_commission",
+    "authority.national_commission",
+    "authority.state_commission"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "mediator",
+      "consider",
+      "relevant",
+      "factors",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "arbitrator"
+    ],
     "aliases": [
       "arbitrator"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is mediator must consider relevant factors?",
+      "How does mediator must consider relevant factors work?",
+      "Can you explain mediator must consider relevant factors?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

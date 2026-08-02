@@ -18,9 +18,28 @@
     "CPA2019-CH1-S2-27",
     "definition.member"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.national_commission",
+    "alias.state_commission",
+    "authority.district_commission",
+    "authority.national_commission",
+    "authority.state_commission",
+    "definition.member"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "member",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "board",
+      "commission",
+      "committee",
+      "panel",
+      "representative"
+    ],
     "aliases": [
       "Board Member",
       "Commission Member",
@@ -30,7 +49,11 @@
       "commission member",
       "president"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is district commission?",
+      "How does district commission work?",
+      "Can you explain district commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -19,16 +19,39 @@
     "CPA2019-CH3-S22-1",
     "authority.district_collector"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.commissioner_of_a_regional_office",
+    "alias.district_collector_must_inquire_and_report",
+    "alias.inquiry_or_investigation",
+    "authority.central_authority",
+    "authority.commissioner_of_a_regional_office",
+    "authority.district_collector"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "district",
+      "collector",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "magistrate",
+      "whatever",
+      "name",
+      "called"
+    ],
     "aliases": [
       "Collector",
       "DC",
       "District Magistrate",
       "by whatever name called"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central authority must cause investigation?",
+      "How does central authority must cause investigation work?",
+      "Can you explain central authority must cause investigation?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

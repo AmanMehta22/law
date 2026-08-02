@@ -5,20 +5,44 @@
   "description": "Alternative names and search aliases for: District Commission Must Impose Costs For Adjournment",
   "content": {
     "aliases": [
-      "costs for delay"
+      "costs for delay imposed by District Commission",
+      "District Commission costs for unnecessary adjournment"
     ]
   },
   "derived_from": [
     "CPA2019-CH8-S103-2",
     "obligation.district_commission_must_impose_costs_for_adjournment"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.adjournment_cost_imposition_by_district_commission",
+    "alias.adjournment_cost_imposition_by_state_or_national_commission",
+    "alias.authority_must_provide_for_re_empanelment_of_mediators",
+    "alias.authority_must_set_qualifications_and_experience_for_empanelment_as_mediator",
+    "alias.conduct_of_mediation",
+    "alias.consumer_mediation_cell",
+    "alias.consumer_mediation_cell_must_maintain_information"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "district",
+      "commission",
+      "impose",
+      "costs",
+      "adjournment",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "delay"
+    ],
     "aliases": [
       "costs for delay"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is district commission must impose costs for adjournment?",
+      "How does district commission must impose costs for adjournment work?",
+      "Can you explain district commission must impose costs for adjournment?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

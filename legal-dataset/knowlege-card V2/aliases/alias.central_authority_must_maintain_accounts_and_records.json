@@ -13,14 +13,37 @@
     "CPA2019-CH3-S26-1",
     "obligation.central_authority_must_maintain_proper_accounts_and_other_re"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.comptroller_and_auditor_general_of_india",
+    "authority.central_authority",
+    "authority.comptroller_and_auditor_general_of_india",
+    "evidence.accounts_records",
+    "intent.accounts_and_records",
+    "intent.central_authority"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "central",
+      "authority",
+      "maintain",
+      "accounts",
+      "records",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "comptroller"
+    ],
     "aliases": [
       "Central Authority",
       "Comptroller and Auditor-General of India"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is accounts and records?",
+      "How does accounts and records work?",
+      "Can you explain accounts and records?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

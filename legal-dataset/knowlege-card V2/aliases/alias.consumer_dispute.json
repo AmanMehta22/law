@@ -18,9 +18,24 @@
     "CPA2019-CH1-S2-8",
     "definition.consumer_dispute"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "definition.consumer_dispute",
+    "intent.consumer_dispute",
+    "intent.consumer_dispute_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "consumer",
+      "dispute",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "conflict",
+      "complaint",
+      "grievance",
+      "issue"
+    ],
     "aliases": [
       "Conflict",
       "Consumer Complaint",
@@ -30,7 +45,11 @@
       "consumer complaint dispute",
       "disputed consumer claim"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is consumer dispute?",
+      "How does consumer dispute work?",
+      "Can you explain consumer dispute?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

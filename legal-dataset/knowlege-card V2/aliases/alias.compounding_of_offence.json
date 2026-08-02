@@ -18,16 +18,39 @@
     "penalty.offence_under_sub_section_1",
     "procedure.compounding_of_offence"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.court",
+    "authority.court",
+    "intent.compounding_of_offence",
+    "intent.compounding_of_offence_3",
+    "intent.compounding_of_offence_5",
+    "intent.compounding_of_offence_handled_by_court",
+    "intent.court"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "compounding",
+      "offence",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "compromise",
+      "penalty",
+      "waiver",
+      "settlement"
+    ],
     "aliases": [
       "compromise on penalty",
       "offence compounding",
       "penalty waiver",
       "settlement of offence"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is compounding of offence?",
+      "How does compounding of offence work?",
+      "Can you explain compounding of offence?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

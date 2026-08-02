@@ -18,9 +18,28 @@
     "CPA2019-CH4-S73-3",
     "procedure.filing_an_appeal"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_time_limit",
+    "alias.central_authority",
+    "alias.national_commission",
+    "alias.right_to_appeal",
+    "authority.central_authority",
+    "authority.national_commission",
+    "intent.appeal_time_limit"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "filing",
+      "appeal",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "appealing",
+      "decision",
+      "challenging",
+      "ruling"
+    ],
     "aliases": [
       "appealing a decision",
       "challenging a ruling",
@@ -28,7 +47,11 @@
       "making an appeal",
       "submitting an appeal"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is appeal time limit?",
+      "How does appeal time limit work?",
+      "Can you explain appeal time limit?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

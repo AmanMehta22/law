@@ -16,9 +16,28 @@
     "CPA2019-CH4-S47-1",
     "procedure.filing_appeals_with_the_state_commission"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.calling_for_records_and_passing_orders",
+    "alias.central_government",
+    "alias.central_government_override",
+    "alias.district_commission",
+    "alias.filing_complaints_with_the_state_commission",
+    "alias.pecuniary_jurisdiction_of_state_commission",
+    "alias.right_to_appeal"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "filing",
+      "appeals",
+      "state",
+      "commission",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "appealing",
+      "appeal"
+    ],
     "aliases": [
       "appealing to state commission",
       "filing appeal to state commission",
@@ -26,7 +45,11 @@
       "state commission appeals",
       "submitting appeal to state commission"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is calling for records and passing orders?",
+      "How does calling for records and passing orders work?",
+      "Can you explain calling for records and passing orders?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

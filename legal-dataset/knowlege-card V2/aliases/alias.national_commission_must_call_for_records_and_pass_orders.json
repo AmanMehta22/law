@@ -1,0 +1,50 @@
+{
+  "concept_id": "alias.national_commission_must_call_for_records_and_pass_orders",
+  "concept_type": "alias",
+  "title": "National Commission must call for records and pass orders",
+  "description": "Alternative names and search aliases for: National Commission must call for records and pass orders",
+  "content": {
+    "aliases": [
+      "National Commission's power to call for records",
+      "Passing orders by National Commission",
+      "Calling for records by National Commission",
+      "NC's jurisdiction to pass orders"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.national_commission_must_call_for_records_and_pass_appropria"
+  ],
+  "search": {
+    "keywords": [
+      "national",
+      "commission",
+      "call",
+      "records",
+      "pass",
+      "orders",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
+    "aliases": [
+      "national commission"
+    ],
+    "user_queries": [
+      "What is national commission must call for records and pass orders?",
+      "How does national commission must call for records and pass orders work?",
+      "Can you explain national commission must call for records and pass orders?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

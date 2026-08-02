@@ -16,9 +16,28 @@
     "CPA2019-CH3-S19-2",
     "procedure.referral_to_regulator"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_authority_must_refer_matter_to_regulator",
+    "alias.regulator",
+    "authority.central_authority",
+    "authority.regulator",
+    "intent.central_authority",
+    "intent.central_authority_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "referral",
+      "regulator",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "complaint",
+      "filing",
+      "notification",
+      "regulatory"
+    ],
     "aliases": [
       "complaint to regulator",
       "filing with regulator",
@@ -26,7 +45,11 @@
       "regulatory body referral",
       "report to regulator"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central authority must refer matter to regulator?",
+      "How does central authority must refer matter to regulator work?",
+      "Can you explain central authority must refer matter to regulator?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

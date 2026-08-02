@@ -16,9 +16,28 @@
     "CPA2019-CH3-S18-2",
     "procedure.filing_complaints"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.advising_on_consumer_welfare_measures",
+    "alias.awareness_on_consumer_rights",
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.cooperation_with_non_governmental_organisations",
+    "alias.district_commission",
+    "alias.inquiry_or_investigation"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "filing",
+      "complaints",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "complaint",
+      "submission",
+      "registering",
+      "submitting"
+    ],
     "aliases": [
       "complaint filing",
       "complaint submission",
@@ -26,7 +45,11 @@
       "registering a complaint",
       "submitting a complaint"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is advising on consumer welfare measures?",
+      "How does advising on consumer welfare measures work?",
+      "Can you explain advising on consumer welfare measures?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -14,15 +14,36 @@
     "CPA2019-CH4-S47-2",
     "authority.bench"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.president",
+    "alias.state_commission",
+    "authority.bench",
+    "authority.president",
+    "authority.state_commission",
+    "exception.does_not_include_a_person_who_obtains_goods_for_resale_or_co",
+    "intent.bench"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "bench",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "court",
+      "judicial",
+      "tribunal"
+    ],
     "aliases": [
       "Court Bench",
       "Judicial Bench",
       "Tribunal"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is bench?",
+      "How does bench work?",
+      "Can you explain bench?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

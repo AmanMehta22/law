@@ -12,13 +12,36 @@
     "CPA2019-CH4-S49-2",
     "obligation.state_commission_may_declare_unfair_terms_of_contract_null_a"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.declaration_of_unfair_contract_terms_as_null_and_void",
+    "alias.right_to_protection_from_unfair_contract_terms",
+    "alias.state_commission",
+    "authority.state_commission",
+    "intent.declaration_of_unfair_contract_terms_as_null_and_void",
+    "intent.declaration_of_unfair_contract_terms_as_null_and_void_2",
+    "intent.right_to_protection_from_unfair_contract_terms"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "state",
+      "commission",
+      "declare",
+      "unfair",
+      "contract",
+      "terms",
+      "null",
+      "void",
+      "alternative",
+      "names"
+    ],
     "aliases": [
       "declaration of unfair terms"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is declaration of unfair contract terms as null and void?",
+      "How does declaration of unfair contract terms as null and void work?",
+      "Can you explain declaration of unfair contract terms as null and void?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

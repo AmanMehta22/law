@@ -17,9 +17,23 @@
     "CPA2019-CH1-S2-21",
     "definition.goods"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "definition.goods",
+    "intent.goods",
+    "intent.goods_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "goods",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "commodities",
+      "items",
+      "merchandise",
+      "products"
+    ],
     "aliases": [
       "Commodities",
       "Items",
@@ -28,7 +42,11 @@
       "commodities",
       "products"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is goods?",
+      "How does goods work?",
+      "Can you explain goods?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

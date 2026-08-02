@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.sample_of_goods",
+  "concept_type": "alias",
+  "title": "Sample of goods",
+  "description": "Alternative names and search aliases for: Sample of goods",
+  "content": {
+    "aliases": [
+      "goods specimen",
+      "item example",
+      "product sample"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "evidence.sample_of_goods"
+  ],
+  "search": {
+    "keywords": [
+      "sample",
+      "goods",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "specimen",
+      "item",
+      "example",
+      "product"
+    ],
+    "aliases": [
+      "goods specimen",
+      "item example",
+      "product sample"
+    ],
+    "user_queries": [
+      "What is sample of goods?",
+      "How does sample of goods work?",
+      "Can you explain sample of goods?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

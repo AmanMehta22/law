@@ -1,0 +1,55 @@
+{
+  "concept_id": "alias.document_or_record_or_article_or_evidence",
+  "concept_type": "alias",
+  "title": "Document or record or article or evidence",
+  "description": "Alternative names and search aliases for: Document or record or article or evidence",
+  "content": {
+    "aliases": [
+      "documents",
+      "exhibits",
+      "papers",
+      "proof",
+      "records"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "evidence.document_record_article_evidence"
+  ],
+  "search": {
+    "keywords": [
+      "document",
+      "record",
+      "article",
+      "evidence",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "documents",
+      "exhibits"
+    ],
+    "aliases": [
+      "documents",
+      "exhibits",
+      "papers",
+      "proof",
+      "records"
+    ],
+    "user_queries": [
+      "What is document or record or article or evidence?",
+      "How does document or record or article or evidence work?",
+      "Can you explain document or record or article or evidence?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.central_authority_must_regulate_its_business",
+  "concept_type": "alias",
+  "title": "Central Authority must regulate its business",
+  "description": "Alternative names and search aliases for: Central Authority must regulate its business",
+  "content": {
+    "aliases": [
+      "business oversight by central authority",
+      "central authority business regulation",
+      "regulation of central authority business"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.central_authority_must_regulate_the_procedure_for_transactio"
+  ],
+  "search": {
+    "keywords": [
+      "central",
+      "authority",
+      "regulate",
+      "its",
+      "business",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "oversight"
+    ],
+    "aliases": [
+      "business oversight by central authority",
+      "central authority business regulation",
+      "regulation of central authority business"
+    ],
+    "user_queries": [
+      "What is central authority must regulate its business?",
+      "How does central authority must regulate its business work?",
+      "Can you explain central authority must regulate its business?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

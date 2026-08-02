@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.settlement_order_time_limit",
+  "concept_type": "alias",
+  "title": "Settlement order time limit",
+  "description": "Alternative names and search aliases for: Settlement order time limit",
+  "content": {
+    "aliases": [
+      "order implementation timeline",
+      "settlement deadline",
+      "settlement order timeframe",
+      "settlement period"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "timeline.seven_days"
+  ],
+  "search": {
+    "keywords": [
+      "settlement",
+      "order",
+      "time",
+      "limit",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "implementation",
+      "timeline"
+    ],
+    "aliases": [
+      "order implementation timeline",
+      "settlement deadline",
+      "settlement order timeframe",
+      "settlement period"
+    ],
+    "user_queries": [
+      "What is settlement order time limit?",
+      "How does settlement order time limit work?",
+      "Can you explain settlement order time limit?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

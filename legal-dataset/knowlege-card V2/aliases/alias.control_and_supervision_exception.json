@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.control_and_supervision_exception",
+  "concept_type": "alias",
+  "title": "Control and supervision exception",
+  "description": "Alternative names and search aliases for: Control and supervision exception",
+  "content": {
+    "aliases": [
+      "exclusion from control",
+      "oversight exclusion",
+      "regulatory exception",
+      "supervision exemption"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "exception.subject_to_the_general_control_supervision_and_direction_of_"
+  ],
+  "search": {
+    "keywords": [
+      "control",
+      "supervision",
+      "exception",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "exclusion",
+      "oversight",
+      "regulatory"
+    ],
+    "aliases": [
+      "exclusion from control",
+      "oversight exclusion",
+      "regulatory exception",
+      "supervision exemption"
+    ],
+    "user_queries": [
+      "What is control and supervision exception?",
+      "How does control and supervision exception work?",
+      "Can you explain control and supervision exception?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

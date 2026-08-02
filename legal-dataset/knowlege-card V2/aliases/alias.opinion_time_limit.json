@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.opinion_time_limit",
+  "concept_type": "alias",
+  "title": "Opinion time limit",
+  "description": "Alternative names and search aliases for: Opinion time limit",
+  "content": {
+    "aliases": [
+      "expert opinion timeframe",
+      "opinion deadline",
+      "opinion submission period",
+      "timeframe for opinion"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "timeline.one_month"
+  ],
+  "search": {
+    "keywords": [
+      "opinion",
+      "time",
+      "limit",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "expert",
+      "timeframe",
+      "deadline"
+    ],
+    "aliases": [
+      "expert opinion timeframe",
+      "opinion deadline",
+      "opinion submission period",
+      "timeframe for opinion"
+    ],
+    "user_queries": [
+      "What is opinion time limit?",
+      "How does opinion time limit work?",
+      "Can you explain opinion time limit?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

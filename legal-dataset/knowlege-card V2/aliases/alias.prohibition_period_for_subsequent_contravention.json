@@ -14,14 +14,37 @@
     "CPA2019-CH8-S96-3",
     "timeline.three_years"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_authority_must_consider_prohibition",
+    "alias.minimum_meetings_per_year",
+    "alias.subsequent_contravention",
+    "authority.central_authority",
+    "exception.the_central_authority_may_prohibit_such_endorser_from_making",
+    "intent.central_authority"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "prohibition",
+      "period",
+      "subsequent",
+      "contravention",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "similar",
+      "offence"
+    ],
     "aliases": [
       "similar offence",
       "subsequent offence"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central authority must consider prohibition?",
+      "How does central authority must consider prohibition work?",
+      "Can you explain central authority must consider prohibition?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

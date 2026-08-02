@@ -14,14 +14,37 @@
     "CPA2019-CH3-S21-4",
     "obligation.central_authority_may_impose_penalty"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.subsequent_contravention_penalty",
+    "authority.central_authority",
+    "exception.the_central_authority_may_impose_a_higher_penalty_for_subseq",
+    "intent.central_authority",
+    "intent.central_authority_2",
+    "intent.central_authority_may_impose_penalty"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "central",
+      "authority",
+      "impose",
+      "penalty",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "fine",
+      "punishment"
+    ],
     "aliases": [
       "fine",
       "punishment"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central authority may impose penalty?",
+      "How does central authority may impose penalty work?",
+      "Can you explain central authority may impose penalty?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

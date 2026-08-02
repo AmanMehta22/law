@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.punitive_damages",
+  "concept_type": "alias",
+  "title": "Punitive damages",
+  "description": "Alternative names and search aliases for: Punitive damages",
+  "content": {
+    "aliases": [
+      "exemplary damages",
+      "punishment damages",
+      "retributory damages",
+      "vindictive damages"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "penalty.punitive_damages"
+  ],
+  "search": {
+    "keywords": [
+      "punitive",
+      "damages",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "exemplary",
+      "punishment",
+      "retributory",
+      "vindictive"
+    ],
+    "aliases": [
+      "exemplary damages",
+      "punishment damages",
+      "retributory damages",
+      "vindictive damages"
+    ],
+    "user_queries": [
+      "What is punitive damages?",
+      "How does punitive damages work?",
+      "Can you explain punitive damages?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

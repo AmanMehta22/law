@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.territorial_jurisdiction_of_the_act",
+  "concept_type": "alias",
+  "title": "Territorial jurisdiction of the Act",
+  "description": "Alternative names and search aliases for: Territorial jurisdiction of the Act",
+  "content": {
+    "aliases": [
+      "act area of authority",
+      "act jurisdiction",
+      "consumer protection act jurisdiction",
+      "geographical area of the act"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "jurisdiction.the_consumer_protection_act_2019_the_whole_of_india_except_the_state_of_jammu_an"
+  ],
+  "search": {
+    "keywords": [
+      "territorial",
+      "jurisdiction",
+      "act",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "area",
+      "authority",
+      "consumer"
+    ],
+    "aliases": [
+      "act area of authority",
+      "act jurisdiction",
+      "consumer protection act jurisdiction",
+      "geographical area of the act"
+    ],
+    "user_queries": [
+      "What is territorial jurisdiction of the act?",
+      "How does territorial jurisdiction of the act work?",
+      "Can you explain territorial jurisdiction of the act?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

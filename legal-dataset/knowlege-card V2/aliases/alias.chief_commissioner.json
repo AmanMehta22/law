@@ -16,15 +16,36 @@
     "CPA2019-CH8-S98",
     "authority.chief_commissioner"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.central_government_must_appoint_commissioners",
+    "authority.central_authority",
+    "authority.central_government",
+    "authority.chief_commissioner",
+    "intent.central_authority"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "chief",
+      "commissioner",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "comm",
+      "head"
+    ],
     "aliases": [
       "CC",
       "Chief Comm",
       "Head Commissioner"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central government must appoint commissioners?",
+      "How does central government must appoint commissioners work?",
+      "Can you explain central government must appoint commissioners?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

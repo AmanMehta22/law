@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.district_commission_president_and_member_must_sign_order",
+  "concept_type": "alias",
+  "title": "District Commission President and member must sign order",
+  "description": "Alternative names and search aliases for: District Commission President and member must sign order",
+  "content": {
+    "aliases": [
+      "district commission order signature",
+      "joint signing of order",
+      "president and member signature"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.president_and_the_member_who_conducted_the_proceeding_shall_"
+  ],
+  "search": {
+    "keywords": [
+      "district",
+      "commission",
+      "president",
+      "member",
+      "sign",
+      "order",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
+    "aliases": [
+      "district commission order signature",
+      "joint signing of order",
+      "president and member signature"
+    ],
+    "user_queries": [
+      "What is district commission president and member must sign order?",
+      "How does district commission president and member must sign order work?",
+      "Can you explain district commission president and member must sign order?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -14,15 +14,37 @@
     "CPA2019-CH4-S70-2",
     "authority.monitoring_cell"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.national_commission",
+    "alias.state_commissions",
+    "authority.monitoring_cell",
+    "authority.national_commission",
+    "authority.state_commissions",
+    "intent.monitoring_cell",
+    "intent.monitoring_cell_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "monitoring",
+      "cell",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "regulatory",
+      "surveillance",
+      "watchdog"
+    ],
     "aliases": [
       "Regulatory Cell",
       "Surveillance Cell",
       "Watchdog"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is monitoring cell?",
+      "How does monitoring cell work?",
+      "Can you explain monitoring cell?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.laboratory_report_time_limit",
+  "concept_type": "alias",
+  "title": "Laboratory report time limit",
+  "description": "Alternative names and search aliases for: Laboratory report time limit",
+  "content": {
+    "aliases": [
+      "lab report deadline",
+      "lab result timeline",
+      "laboratory testing timeframe",
+      "reporting period for lab tests"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "timeline.forty_five_days"
+  ],
+  "search": {
+    "keywords": [
+      "laboratory",
+      "report",
+      "time",
+      "limit",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "lab",
+      "deadline"
+    ],
+    "aliases": [
+      "lab report deadline",
+      "lab result timeline",
+      "laboratory testing timeframe",
+      "reporting period for lab tests"
+    ],
+    "user_queries": [
+      "What is laboratory report time limit?",
+      "How does laboratory report time limit work?",
+      "Can you explain laboratory report time limit?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

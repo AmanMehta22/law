@@ -16,9 +16,28 @@
     "CPA2019-CH4-S52",
     "right.right_to_expedient_hearing_of_appeal"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.adjournment_exception",
+    "alias.appeal_hearing",
+    "alias.national_commission",
+    "alias.state_commission",
+    "authority.national_commission",
+    "authority.state_commission",
+    "evidence.written_record_of_reasons"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "right",
+      "expedient",
+      "hearing",
+      "appeal",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "expedited",
+      "fast"
+    ],
     "aliases": [
       "expedited appeal hearing",
       "fast appeal hearing",
@@ -26,7 +45,11 @@
       "right to speedy appeal",
       "swift appeal resolution"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is adjournment exception?",
+      "How does adjournment exception work?",
+      "Can you explain adjournment exception?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

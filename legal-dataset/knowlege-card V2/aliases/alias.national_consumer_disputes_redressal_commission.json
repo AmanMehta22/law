@@ -16,16 +16,39 @@
     "CPA2019-CH4-S53-1",
     "authority.national_consumer_disputes_redressal_commission"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.national_commission",
+    "authority.national_consumer_disputes_redressal_commission",
+    "definition.national_commission",
+    "intent.national_commission",
+    "intent.national_commission_3",
+    "intent.national_commission_references_national_consumer_disputes_redressal_commission",
+    "intent.national_consumer_disputes_redressal_commission"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "national",
+      "consumer",
+      "disputes",
+      "redressal",
+      "commission",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "court"
+    ],
     "aliases": [
       "Consumer Court",
       "NCDRC",
       "National Commission",
       "National Tribunal"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is the National Commission for consumers?",
+      "How do I file a complaint with the National Commission?",
+      "What is the role of the National Commission in consumer protection?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

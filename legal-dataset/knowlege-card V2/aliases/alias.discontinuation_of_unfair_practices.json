@@ -12,13 +12,34 @@
     "CPA2019-CH3-S20",
     "remedy.discontinuation_of_unfair_practices"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.investigation_and_order_passing",
+    "alias.opportunity_of_being_heard",
+    "alias.recall_of_goods_or_withdrawal_of_services",
+    "alias.reimbursement_of_prices",
+    "alias.right_to_reimbursement",
+    "authority.central_authority"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "discontinuation",
+      "unfair",
+      "practices",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "stop"
+    ],
     "aliases": [
       "stop unfair practices"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central authority must give opportunity of being heard?",
+      "How does central authority must give opportunity of being heard work?",
+      "Can you explain central authority must give opportunity of being heard?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

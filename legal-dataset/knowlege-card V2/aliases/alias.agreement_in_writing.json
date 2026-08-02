@@ -1,0 +1,55 @@
+{
+  "concept_id": "alias.agreement_in_writing",
+  "concept_type": "alias",
+  "title": "Agreement in writing",
+  "description": "Alternative names and search aliases for: Agreement in writing",
+  "content": {
+    "aliases": [
+      "documented deal",
+      "formal agreement",
+      "paperwork",
+      "signed agreement",
+      "written contract"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "evidence.written_agreement"
+  ],
+  "search": {
+    "keywords": [
+      "agreement",
+      "writing",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "documented",
+      "deal",
+      "formal",
+      "paperwork"
+    ],
+    "aliases": [
+      "documented deal",
+      "formal agreement",
+      "paperwork",
+      "signed agreement",
+      "written contract"
+    ],
+    "user_queries": [
+      "What is agreement in writing?",
+      "How does agreement in writing work?",
+      "Can you explain agreement in writing?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

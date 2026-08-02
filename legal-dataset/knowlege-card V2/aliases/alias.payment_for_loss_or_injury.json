@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.payment_for_loss_or_injury",
+  "concept_type": "alias",
+  "title": "Payment for loss or injury",
+  "description": "Alternative names and search aliases for: Payment for loss or injury",
+  "content": {
+    "aliases": [
+      "compensation for loss or injury",
+      "indemnity for loss or injury",
+      "payment for damages",
+      "reimbursement for harm"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "penalty.negligence"
+  ],
+  "search": {
+    "keywords": [
+      "payment",
+      "loss",
+      "injury",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "compensation",
+      "indemnity",
+      "damages"
+    ],
+    "aliases": [
+      "compensation for loss or injury",
+      "indemnity for loss or injury",
+      "payment for damages",
+      "reimbursement for harm"
+    ],
+    "user_queries": [
+      "What is payment for loss or injury?",
+      "How does payment for loss or injury work?",
+      "Can you explain payment for loss or injury?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

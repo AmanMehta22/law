@@ -12,13 +12,36 @@
     "CPA2019-CH4-S62",
     "obligation.national_commission_may_transfer_any_complaint"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.complaint_transfer",
+    "alias.district_commission",
+    "alias.national_commission",
+    "alias.state_commission",
+    "authority.district_commission",
+    "authority.national_commission",
+    "authority.state_commission"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "national",
+      "commission",
+      "consider",
+      "transfer",
+      "complaint",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "relocation"
+    ],
     "aliases": [
       "complaint relocation"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is complaint transfer?",
+      "How does complaint transfer work?",
+      "Can you explain complaint transfer?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

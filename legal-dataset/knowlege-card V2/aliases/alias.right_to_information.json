@@ -16,16 +16,39 @@
     "CPA2019-CH1-S2-9",
     "right.right_to_information"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.deficiency",
+    "definition.deficiency",
+    "intent.deficiency",
+    "intent.deficiency_2",
+    "intent.deficiency_defines_right_to_information",
+    "intent.right_to_information",
+    "intent.right_to_information_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "right",
+      "information",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "disclosure",
+      "rights",
+      "access",
+      "know"
+    ],
     "aliases": [
       "disclosure rights",
       "information access rights",
       "right to know",
       "transparency rights"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is consumer rights?",
+      "How does consumer rights work?",
+      "Can you explain consumer rights?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

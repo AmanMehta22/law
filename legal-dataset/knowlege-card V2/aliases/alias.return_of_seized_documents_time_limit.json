@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.return_of_seized_documents_time_limit",
+  "concept_type": "alias",
+  "title": "Return of seized documents time limit",
+  "description": "Alternative names and search aliases for: Return of seized documents time limit",
+  "content": {
+    "aliases": [
+      "document return deadline",
+      "return of confiscated documents timeline",
+      "seized document return period",
+      "timeframe for document return"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "timeline.twenty_days"
+  ],
+  "search": {
+    "keywords": [
+      "return",
+      "seized",
+      "documents",
+      "time",
+      "limit",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "document"
+    ],
+    "aliases": [
+      "document return deadline",
+      "return of confiscated documents timeline",
+      "seized document return period",
+      "timeframe for document return"
+    ],
+    "user_queries": [
+      "What is return of seized documents time limit?",
+      "How does return of seized documents time limit work?",
+      "Can you explain return of seized documents time limit?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

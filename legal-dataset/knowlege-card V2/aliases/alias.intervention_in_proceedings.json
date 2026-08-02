@@ -15,16 +15,39 @@
     "CPA2019-CH3-S18-2",
     "procedure.intervention_in_proceedings"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.advising_on_consumer_welfare_measures",
+    "alias.awareness_on_consumer_rights",
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.cooperation_with_non_governmental_organisations",
+    "alias.district_commission",
+    "alias.filing_complaints"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "intervention",
+      "proceedings",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "amicus",
+      "curiae",
+      "intervening",
+      "case"
+    ],
     "aliases": [
       "amicus curiae",
       "intervening in a case",
       "intervention in a hearing",
       "joining a lawsuit"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is intervention in proceedings?",
+      "How does intervention in proceedings work?",
+      "Can you explain intervention in proceedings?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

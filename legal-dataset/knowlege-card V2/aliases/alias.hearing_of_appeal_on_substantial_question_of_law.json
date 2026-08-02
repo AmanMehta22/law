@@ -15,16 +15,39 @@
     "CPA2019-CH4-S51-4",
     "procedure.hearing_of_appeal_on_substantial_question_of_law"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.national_commission",
+    "alias.national_commission_must_formulate_and_hear_appeal_on_substantial_question_of_la",
+    "alias.right_to_appeal",
+    "authority.national_commission",
+    "intent.hearing_of_appeal_on_substantial_question_of_law",
+    "intent.hearing_of_appeal_on_substantial_question_of_law_2",
+    "intent.hearing_of_appeal_on_substantial_question_of_law_enables_right_to_appeal"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "hearing",
+      "appeal",
+      "substantial",
+      "question",
+      "law",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "point"
+    ],
     "aliases": [
       "appeal hearing on substantial law question",
       "appeal on point of law",
       "hearing of legal appeal",
       "substantial question of law appeal"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is hearing of appeal on substantial question of law?",
+      "How does hearing of appeal on substantial question of law work?",
+      "Can you explain hearing of appeal on substantial question of law?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

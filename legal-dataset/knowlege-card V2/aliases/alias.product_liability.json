@@ -18,9 +18,28 @@
     "CPA2019-CH1-S2-34",
     "definition.product_liability"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.compensation_for_harm_caused",
+    "alias.product_manufacturer_or_seller_must_compensate_for_harm",
+    "definition.product_liability",
+    "intent.compensation_for_harm_caused",
+    "intent.compensation_for_harm_caused_3",
+    "intent.product_liability",
+    "intent.product_liability_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "product",
+      "liability",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "defective",
+      "goods",
+      "manufacturer",
+      "responsibility"
+    ],
     "aliases": [
       "Defective Product Liability",
       "Goods Liability",
@@ -30,7 +49,11 @@
       "manufacturer liability",
       "product responsibility"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is compensation for harm caused?",
+      "How does compensation for harm caused work?",
+      "Can you explain compensation for harm caused?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

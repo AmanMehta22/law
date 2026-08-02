@@ -5,7 +5,10 @@
   "description": "Alternative names and search aliases for: Pecuniary Jurisdiction Of State Commission",
   "content": {
     "aliases": [
-      "State Consumer Commission"
+      "monetary jurisdiction of state commission",
+      "state commission jurisdiction",
+      "pecuniary limits of state commission",
+      "state commission pecuniary jurisdiction"
     ]
   },
   "derived_from": [
@@ -14,13 +17,35 @@
     "jurisdiction.state_commission_exceeds_rupees_one_crore_but_does_not_exceed_rupees_ten_crore_w",
     "jurisdiction.state_commission_other_value_of_goods_and_services"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.calling_for_records_and_passing_orders",
+    "alias.central_government",
+    "alias.central_government_override",
+    "alias.district_commission",
+    "alias.filing_appeals_with_the_state_commission",
+    "alias.filing_complaints_with_the_state_commission",
+    "alias.right_to_appeal"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "pecuniary",
+      "jurisdiction",
+      "state",
+      "commission",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "consumer"
+    ],
     "aliases": [
       "State Consumer Commission"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is calling for records and passing orders?",
+      "How does calling for records and passing orders work?",
+      "Can you explain calling for records and passing orders?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

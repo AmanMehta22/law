@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.mediation_consent_time_limit",
+  "concept_type": "alias",
+  "title": "Mediation consent time limit",
+  "description": "Alternative names and search aliases for: Mediation consent time limit",
+  "content": {
+    "aliases": [
+      "alternative dispute resolution timeframe",
+      "arbitration consent period",
+      "conciliation consent timeline",
+      "mediation agreement deadline"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "timeline.five_days"
+  ],
+  "search": {
+    "keywords": [
+      "mediation",
+      "consent",
+      "time",
+      "limit",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "dispute",
+      "resolution"
+    ],
+    "aliases": [
+      "alternative dispute resolution timeframe",
+      "arbitration consent period",
+      "conciliation consent timeline",
+      "mediation agreement deadline"
+    ],
+    "user_queries": [
+      "What is mediation consent time limit?",
+      "How does mediation consent time limit work?",
+      "Can you explain mediation consent time limit?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

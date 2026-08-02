@@ -12,13 +12,36 @@
     "CPA2019-CH8-S99-1",
     "exception.the_central_authority_shall_be_given_an_opportunity_to_expre"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_government",
+    "authority.central_authority",
+    "authority.central_government",
+    "exception.the_central_authority_shall_be_given_an_opportunity_to_expre",
+    "intent.central_authority",
+    "intent.central_authority_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "opportunity",
+      "express",
+      "views",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "central",
+      "government",
+      "power"
+    ],
     "aliases": [
       "Central Government's power"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central authority must follow directions?",
+      "How does central authority must follow directions work?",
+      "Can you explain central authority must follow directions?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

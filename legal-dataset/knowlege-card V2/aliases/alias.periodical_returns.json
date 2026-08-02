@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.periodical_returns",
+  "concept_type": "alias",
+  "title": "Periodical returns",
+  "description": "Alternative names and search aliases for: Periodical returns",
+  "content": {
+    "aliases": [
+      "periodic filings",
+      "recurring returns",
+      "regular returns"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "evidence.periodical_returns"
+  ],
+  "search": {
+    "keywords": [
+      "periodical",
+      "returns",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "periodic",
+      "filings",
+      "recurring",
+      "regular"
+    ],
+    "aliases": [
+      "periodic filings",
+      "recurring returns",
+      "regular returns"
+    ],
+    "user_queries": [
+      "What is periodical returns?",
+      "How does periodical returns work?",
+      "Can you explain periodical returns?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

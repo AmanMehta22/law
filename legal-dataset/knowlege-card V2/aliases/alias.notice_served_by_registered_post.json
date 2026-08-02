@@ -12,13 +12,35 @@
     "CPA2019-CH4-S65-3",
     "exception.notice_is_considered_served_even_if_acknowledgment_is_lost_m"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.acknowledgment",
+    "alias.appeal_time_limit",
+    "alias.district_commission",
+    "alias.national_commission",
+    "alias.service_of_notice",
+    "alias.state_commission",
+    "authority.district_commission"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "notice",
+      "served",
+      "registered",
+      "post",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "service"
+    ],
     "aliases": [
       "service of notice"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is acknowledgment?",
+      "How does acknowledgment work?",
+      "Can you explain acknowledgment?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

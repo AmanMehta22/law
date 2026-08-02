@@ -1,0 +1,52 @@
+{
+  "concept_id": "alias.endorser_must_exercise_due_diligence",
+  "concept_type": "alias",
+  "title": "Endorser must exercise due diligence",
+  "description": "Alternative names and search aliases for: Endorser must exercise due diligence",
+  "content": {
+    "aliases": [
+      "csp",
+      "csp due diligence",
+      "endorser",
+      "endorser due diligence"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.endorser_must_exercise_due_diligence_to_verify_the_veracity_"
+  ],
+  "search": {
+    "keywords": [
+      "endorser",
+      "exercise",
+      "due",
+      "diligence",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "csp"
+    ],
+    "aliases": [
+      "csp",
+      "csp due diligence",
+      "endorser",
+      "endorser due diligence"
+    ],
+    "user_queries": [
+      "What is endorser must exercise due diligence?",
+      "How does endorser must exercise due diligence work?",
+      "Can you explain endorser must exercise due diligence?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

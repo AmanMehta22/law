@@ -15,16 +15,39 @@
     "CPA2019-CH7-S92",
     "procedure.filing_of_complaint"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "authority.central_authority",
+    "exception.except_on_a_complaint_filed_by_the_central_authority_or_any_",
+    "intent.central_authority",
+    "intent.central_authority_2",
+    "intent.central_authority_must_file_a_complaint",
+    "intent.central_authority_references_misleading_advertisement"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "filing",
+      "complaint",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "registration",
+      "submission",
+      "process",
+      "grievance"
+    ],
     "aliases": [
       "complaint registration",
       "complaint submission process",
       "filing a grievance",
       "lodging a complaint"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central authority must file a complaint?",
+      "How does central authority must file a complaint work?",
+      "Can you explain central authority must file a complaint?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

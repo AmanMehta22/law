@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.territorial_jurisdiction_of_state_commission_bench",
+  "concept_type": "alias",
+  "title": "Territorial jurisdiction of State Commission Bench",
+  "description": "Alternative names and search aliases for: Territorial jurisdiction of State Commission Bench",
+  "content": {
+    "aliases": [
+      "state bench area of authority",
+      "state bench geographical area",
+      "state commission bench jurisdiction"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "jurisdiction.state_commission_bench_no_pecuniary_limits_mentioned_no_specific_territorial_lim"
+  ],
+  "search": {
+    "keywords": [
+      "territorial",
+      "jurisdiction",
+      "state",
+      "commission",
+      "bench",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "area"
+    ],
+    "aliases": [
+      "state bench area of authority",
+      "state bench geographical area",
+      "state commission bench jurisdiction"
+    ],
+    "user_queries": [
+      "What is territorial jurisdiction of state commission bench?",
+      "How does territorial jurisdiction of state commission bench work?",
+      "Can you explain territorial jurisdiction of state commission bench?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

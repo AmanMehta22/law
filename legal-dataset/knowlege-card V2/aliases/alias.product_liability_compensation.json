@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.product_liability_compensation",
+  "concept_type": "alias",
+  "title": "Product liability compensation",
+  "description": "Alternative names and search aliases for: Product liability compensation",
+  "content": {
+    "aliases": [
+      "defective product compensation",
+      "manufacturer liability",
+      "producer compensation",
+      "product liability damages"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "penalty.product_liability_compensation"
+  ],
+  "search": {
+    "keywords": [
+      "product",
+      "liability",
+      "compensation",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "defective",
+      "manufacturer",
+      "producer"
+    ],
+    "aliases": [
+      "defective product compensation",
+      "manufacturer liability",
+      "producer compensation",
+      "product liability damages"
+    ],
+    "user_queries": [
+      "What is product liability compensation?",
+      "How does product liability compensation work?",
+      "Can you explain product liability compensation?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

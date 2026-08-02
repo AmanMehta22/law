@@ -12,13 +12,34 @@
     "CPA2019-CH4-S41",
     "exception.no_appeal_unless_50_of_amount_deposited"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.delayed_appeal",
+    "alias.filing_an_appeal_to_the_state_commission",
+    "alias.no_appeal_from_mediated_settlement",
+    "alias.proof_of_sufficient_cause",
+    "evidence.deposit_receipt",
+    "evidence.written_explanation",
+    "exception.no_appeal_from_order_under_section_81_1_pursuant_to_mediatio"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "deposit",
+      "appeal",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "payment",
+      "condition"
+    ],
     "aliases": [
       "payment condition"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is delayed appeal?",
+      "How does delayed appeal work?",
+      "Can you explain delayed appeal?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

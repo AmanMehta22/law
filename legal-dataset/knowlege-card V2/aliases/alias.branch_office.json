@@ -17,9 +17,24 @@
     "CPA2019-CH1-S2-3",
     "definition.branch_office"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "definition.branch_office",
+    "intent.branch_office",
+    "intent.branch_office_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "branch",
+      "office",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "local",
+      "regional",
+      "satellite",
+      "subsidiary"
+    ],
     "aliases": [
       "Local Office",
       "Regional Office",
@@ -28,7 +43,11 @@
       "regional office",
       "satellite office"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is branch office?",
+      "How does branch office work?",
+      "Can you explain branch office?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

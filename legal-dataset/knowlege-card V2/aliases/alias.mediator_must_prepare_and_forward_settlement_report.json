@@ -12,13 +12,36 @@
     "CPA2019-CH5-S80-2",
     "obligation.mediator_must_prepare_a_settlement_report_and_forward_the_si"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.commission",
+    "alias.mediation_settlement_reporting",
+    "authority.commission",
+    "evidence.settlement_agreement_settlement_report",
+    "intent.commission",
+    "intent.commission_2",
+    "intent.mediation_settlement_reporting"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "mediator",
+      "prepare",
+      "forward",
+      "settlement",
+      "report",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "mediation"
+    ],
     "aliases": [
       "mediation officer"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is commission?",
+      "How does commission work?",
+      "Can you explain commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

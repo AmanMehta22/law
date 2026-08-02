@@ -13,14 +13,35 @@
     "CPA2019-CH4-S28-2",
     "obligation.central_government_must_consult"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "authority.district_commission",
+    "intent.central_government_must_consult",
+    "intent.central_government_must_consult_2",
+    "intent.district_commission",
+    "intent.district_commission_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "central",
+      "government",
+      "consult",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "govt",
+      "india"
+    ],
     "aliases": [
       "Central Govt",
       "Government of India"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central government must consult?",
+      "How does central government must consult work?",
+      "Can you explain central government must consult?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

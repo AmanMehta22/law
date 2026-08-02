@@ -29,9 +29,28 @@
     "authority.director_general",
     "definition.director_general"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "authority.director_general",
+    "definition.director_general",
+    "intent.director_general",
+    "intent.director_general_2",
+    "intent.director_general_3",
+    "intent.director_general_references_central_government",
+    "relationship.alias_director_general_references_alias_central_government"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "director",
+      "general",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "chief",
+      "consumer",
+      "affairs",
+      "head"
+    ],
     "aliases": [
       "Chief Director",
       "DG",
@@ -39,7 +58,11 @@
       "Head of Consumer Protection",
       "Main Official"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is additional director-general?",
+      "How does additional director-general work?",
+      "Can you explain additional director-general?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

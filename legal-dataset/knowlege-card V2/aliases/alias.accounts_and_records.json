@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.accounts_and_records",
+  "concept_type": "alias",
+  "title": "Accounts and records",
+  "description": "Alternative names and search aliases for: Accounts and records",
+  "content": {
+    "aliases": [
+      "business accounts",
+      "company documents",
+      "financial records"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "evidence.accounts_records"
+  ],
+  "search": {
+    "keywords": [
+      "accounts",
+      "records",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "business",
+      "company",
+      "documents",
+      "financial"
+    ],
+    "aliases": [
+      "business accounts",
+      "company documents",
+      "financial records"
+    ],
+    "user_queries": [
+      "What is accounts and records?",
+      "How does accounts and records work?",
+      "Can you explain accounts and records?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

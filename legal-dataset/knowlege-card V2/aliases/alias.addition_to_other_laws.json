@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.addition_to_other_laws",
+  "concept_type": "alias",
+  "title": "Addition to other laws",
+  "description": "Alternative names and search aliases for: Addition to other laws",
+  "content": {
+    "aliases": [
+      "additional legislation",
+      "concurrent laws",
+      "cumulative effect",
+      "supplemental law"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "exception.shall_not_derogate_from_the_provisions_of_any_other_law_for_"
+  ],
+  "search": {
+    "keywords": [
+      "addition",
+      "other",
+      "laws",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "additional",
+      "legislation",
+      "concurrent"
+    ],
+    "aliases": [
+      "additional legislation",
+      "concurrent laws",
+      "cumulative effect",
+      "supplemental law"
+    ],
+    "user_queries": [
+      "What is addition to other laws?",
+      "How does addition to other laws work?",
+      "Can you explain addition to other laws?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

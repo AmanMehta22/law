@@ -17,9 +17,24 @@
     "CPA2019-CH1-S2-38",
     "definition.product_service_provider"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "definition.product_service_provider",
+    "intent.product_service_provider",
+    "intent.product_service_provider_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "product",
+      "service",
+      "provider",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "distributor",
+      "manufacturer",
+      "supplier"
+    ],
     "aliases": [
       "Distributor",
       "Manufacturer",
@@ -28,7 +43,11 @@
       "product maintainer",
       "service provider"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is product service provider?",
+      "How does product service provider work?",
+      "Can you explain product service provider?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -19,9 +19,28 @@
     "CPA2019-CH1-S2-39",
     "definition.regulations"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.national_commission",
+    "authority.central_authority",
+    "authority.national_commission",
+    "definition.regulations",
+    "intent.central_authority",
+    "intent.central_authority_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "regulations",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "codes",
+      "guidelines",
+      "laws",
+      "rules",
+      "standards"
+    ],
     "aliases": [
       "Codes",
       "Guidelines",
@@ -32,7 +51,11 @@
       "norms",
       "rules"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central authority?",
+      "How does central authority work?",
+      "Can you explain central authority?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

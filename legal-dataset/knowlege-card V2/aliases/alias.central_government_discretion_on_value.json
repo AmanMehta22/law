@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.central_government_discretion_on_value",
+  "concept_type": "alias",
+  "title": "Central Government discretion on value",
+  "description": "Alternative names and search aliases for: Central Government discretion on value",
+  "content": {
+    "aliases": [
+      "central authority value judgment",
+      "government pricing discretion",
+      "government value discretion",
+      "value threshold discretion"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "exception.the_central_government_may_prescribe_a_different_value_as_it"
+  ],
+  "search": {
+    "keywords": [
+      "central",
+      "government",
+      "discretion",
+      "value",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "authority",
+      "judgment"
+    ],
+    "aliases": [
+      "central authority value judgment",
+      "government pricing discretion",
+      "government value discretion",
+      "value threshold discretion"
+    ],
+    "user_queries": [
+      "What is central government discretion on value?",
+      "How does central government discretion on value work?",
+      "Can you explain central government discretion on value?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

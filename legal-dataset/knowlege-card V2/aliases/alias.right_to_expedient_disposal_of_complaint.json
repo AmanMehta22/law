@@ -16,9 +16,28 @@
     "CPA2019-CH4-S38-7",
     "right.right_to_expedient_disposal_of_complaint"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.adjournment_exception",
+    "alias.complaint_disposal",
+    "alias.district_commission",
+    "alias.district_commission_must_dispose_of_complaint_within_a_period",
+    "alias.district_commission_must_make_orders_for_costs_of_adjournment",
+    "alias.district_commission_must_not_grant_adjournment_without_sufficient_cause",
+    "alias.district_commission_must_record_reasons_for_adjournment"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "right",
+      "expedient",
+      "disposal",
+      "complaint",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "expedited",
+      "process"
+    ],
     "aliases": [
       "expedited complaint process",
       "fast complaint resolution",
@@ -26,7 +45,11 @@
       "right to speedy disposal",
       "swift complaint handling"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is right to expedient disposal of complaint?",
+      "How does right to expedient disposal of complaint work?",
+      "Can you explain right to expedient disposal of complaint?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -12,13 +12,35 @@
     "CPA2019-CH3-S27-2",
     "obligation.government_must_lay_a_copy_of_the_annual_report_before_each_"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.parliament",
+    "authority.parliament",
+    "intent.government_must_lay_annual_report_before_parliament",
+    "intent.government_must_lay_annual_report_before_parliament_2",
+    "intent.parliament",
+    "intent.parliament_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "government",
+      "lay",
+      "annual",
+      "report",
+      "before",
+      "parliament",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
     "aliases": [
       "laying of report"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is government must lay annual report before parliament?",
+      "How does government must lay annual report before parliament work?",
+      "Can you explain government must lay annual report before parliament?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

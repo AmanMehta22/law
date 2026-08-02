@@ -16,9 +16,28 @@
     "CPA2019-CH2-S6-4",
     "procedure.transaction_of_state_council_business"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.state_council",
+    "authority.state_council",
+    "intent.district_commission_references_state_council",
+    "intent.state_council",
+    "intent.state_council_2",
+    "intent.state_council_meeting_procedure",
+    "intent.transaction_of_state_council_business"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "transaction",
+      "state",
+      "council",
+      "business",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "conducting",
+      "proceedings"
+    ],
     "aliases": [
       "Conducting State Council business",
       "State Council business proceedings",
@@ -26,7 +45,11 @@
       "State Council meetings",
       "State Council operations"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is district commission references state council?",
+      "How does district commission references state council work?",
+      "Can you explain district commission references state council?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

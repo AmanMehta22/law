@@ -1,0 +1,45 @@
+{
+  "concept_id": "alias.commission_must_prepare_a_panel_of_mediators",
+  "concept_type": "alias",
+  "title": "Commission must prepare a panel of mediators",
+  "description": "Alternative names and search aliases for: Commission must prepare a panel of mediators",
+  "content": {
+    "aliases": [
+      "commission"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.national_commission_or_the_state_commission_or_the_district_"
+  ],
+  "search": {
+    "keywords": [
+      "commission",
+      "prepare",
+      "panel",
+      "mediators",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
+    "aliases": [
+      "commission"
+    ],
+    "user_queries": [
+      "What is commission must prepare a panel of mediators?",
+      "How does commission must prepare a panel of mediators work?",
+      "Can you explain commission must prepare a panel of mediators?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

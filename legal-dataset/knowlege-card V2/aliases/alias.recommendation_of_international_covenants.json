@@ -16,9 +16,28 @@
     "CPA2019-CH3-S18-2",
     "procedure.recommendation_of_international_covenants"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.advising_on_consumer_welfare_measures",
+    "alias.awareness_on_consumer_rights",
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.cooperation_with_non_governmental_organisations",
+    "alias.district_commission",
+    "alias.filing_complaints"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "recommendation",
+      "international",
+      "covenants",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "guideline",
+      "proposals",
+      "covenant"
+    ],
     "aliases": [
       "UN guideline proposals",
       "covenant recommendations",
@@ -26,7 +45,11 @@
       "global pact advice",
       "international treaty proposals"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is recommendation of international covenants?",
+      "How does recommendation of international covenants work?",
+      "Can you explain recommendation of international covenants?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

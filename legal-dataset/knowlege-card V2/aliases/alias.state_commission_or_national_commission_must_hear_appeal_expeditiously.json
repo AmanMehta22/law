@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.state_commission_or_national_commission_must_hear_appeal_expeditiously",
+  "concept_type": "alias",
+  "title": "State Commission or National Commission must hear appeal expeditiously",
+  "description": "Alternative names and search aliases for: State Commission or National Commission must hear appeal expeditiously",
+  "content": {
+    "aliases": [
+      "appeal procedure",
+      "expeditious appeal hearing",
+      "fast track appeal"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.state_commission_or_national_commission_must_hear_appeal_exp"
+  ],
+  "search": {
+    "keywords": [
+      "state",
+      "commission",
+      "national",
+      "hear",
+      "appeal",
+      "expeditiously",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
+    "aliases": [
+      "appeal procedure",
+      "expeditious appeal hearing",
+      "fast track appeal"
+    ],
+    "user_queries": [
+      "What is state commission or national commission must hear appeal expeditiously?",
+      "How does state commission or national commission must hear appeal expeditiously work?",
+      "Can you explain state commission or national commission must hear appeal expeditiously?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

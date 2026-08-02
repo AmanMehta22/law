@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.financial_capacity",
+  "concept_type": "alias",
+  "title": "Financial capacity",
+  "description": "Alternative names and search aliases for: Financial capacity",
+  "content": {
+    "aliases": [
+      "budgetary capacity",
+      "economic capability",
+      "fiscal ability",
+      "monetary resources"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "exception.does_not_include_a_person_who_acts_only_in_a_financial_capac"
+  ],
+  "search": {
+    "keywords": [
+      "financial",
+      "capacity",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "budgetary",
+      "economic",
+      "capability",
+      "fiscal"
+    ],
+    "aliases": [
+      "budgetary capacity",
+      "economic capability",
+      "fiscal ability",
+      "monetary resources"
+    ],
+    "user_queries": [
+      "What is financial capacity?",
+      "How does financial capacity work?",
+      "Can you explain financial capacity?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

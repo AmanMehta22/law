@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.director_general_or_officer_must_dispose_of_seized_articles",
+  "concept_type": "alias",
+  "title": "Director-General or officer must dispose of seized articles",
+  "description": "Alternative names and search aliases for: Director-General or officer must dispose of seized articles",
+  "content": {
+    "aliases": [
+      "director general disposal of seized items",
+      "disposal of seized goods",
+      "officer disposal of confiscated articles",
+      "seized article disposal"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.director_general_or_such_other_officer_must_dispose_of_the_a"
+  ],
+  "search": {
+    "keywords": [
+      "director",
+      "general",
+      "officer",
+      "dispose",
+      "seized",
+      "articles",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
+    "aliases": [
+      "director general disposal of seized items",
+      "disposal of seized goods",
+      "officer disposal of confiscated articles",
+      "seized article disposal"
+    ],
+    "user_queries": [
+      "What is director-general or officer must dispose of seized articles?",
+      "How does director-general or officer must dispose of seized articles work?",
+      "Can you explain director-general or officer must dispose of seized articles?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

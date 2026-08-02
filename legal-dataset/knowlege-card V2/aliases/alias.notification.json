@@ -18,9 +18,24 @@
     "CPA2019-CH1-S2-30",
     "definition.notification"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "definition.notification",
+    "intent.notification",
+    "intent.notification_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "notification",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "announcement",
+      "gazette",
+      "official",
+      "notice",
+      "public"
+    ],
     "aliases": [
       "Announcement",
       "Gazette Notification",
@@ -30,7 +45,11 @@
       "official announcement",
       "public notification"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is notification?",
+      "How does notification work?",
+      "Can you explain notification?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

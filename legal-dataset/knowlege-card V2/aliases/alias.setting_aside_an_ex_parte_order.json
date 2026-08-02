@@ -16,9 +16,28 @@
     "CPA2019-CH4-S61",
     "procedure.setting_aside_an_ex_parte_order"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.national_commission",
+    "alias.setting_aside_of_ex_parte_order",
+    "authority.national_commission",
+    "intent.national_commission",
+    "intent.national_commission_2",
+    "intent.setting_aside_an_ex_parte_order",
+    "intent.setting_aside_an_ex_parte_order_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "setting",
+      "aside",
+      "parte",
+      "order",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "cancellation",
+      "reversal"
+    ],
     "aliases": [
       "Cancellation of ex parte order",
       "Ex parte order reversal",
@@ -26,7 +45,11 @@
       "Recall of ex parte order",
       "Vacating an ex parte order"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is setting aside an ex parte order?",
+      "How does setting aside an ex parte order work?",
+      "Can you explain setting aside an ex parte order?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

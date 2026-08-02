@@ -15,16 +15,39 @@
     "CPA2019-CH4-S37-1",
     "procedure.mediation_direction"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.district_commission_may_direct_parties_to_consider_mediation",
+    "authority.district_commission",
+    "evidence.written_consent",
+    "exception.does_not_include_a_person_who_obtains_goods_for_resale_or_co",
+    "intent.consent_in_writing",
+    "intent.consumer_excludes_commercial_purpose"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "mediation",
+      "direction",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "dispute",
+      "resolution",
+      "guidance",
+      "directive"
+    ],
     "aliases": [
       "Alternative Dispute Resolution Guidance",
       "Dispute Resolution Directive",
       "Mediation Instruction",
       "Mediation Order"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is consent in writing?",
+      "How does consent in writing work?",
+      "Can you explain consent in writing?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

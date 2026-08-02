@@ -16,9 +16,28 @@
     "CPA2019-CH5-S81-1",
     "procedure.settlement_disposal"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.commission_must_pass_order_and_dispose_of_matter",
+    "alias.district_commission",
+    "alias.national_commission",
+    "alias.state_commission",
+    "authority.district_commission",
+    "authority.national_commission",
+    "authority.state_commission"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "settlement",
+      "disposal",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "case",
+      "disposing",
+      "finalizing",
+      "resolution"
+    ],
     "aliases": [
       "Case settlement disposal",
       "Disposal of settlement",
@@ -26,7 +45,11 @@
       "Finalizing a settlement",
       "Settlement resolution"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is commission must pass order and dispose of matter?",
+      "How does commission must pass order and dispose of matter work?",
+      "Can you explain commission must pass order and dispose of matter?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

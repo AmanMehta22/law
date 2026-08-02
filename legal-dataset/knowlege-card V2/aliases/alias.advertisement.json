@@ -19,9 +19,24 @@
     "CPA2019-CH1-S2-1",
     "definition.advertisement"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "definition.advertisement",
+    "intent.advertisement",
+    "intent.advertisement_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "advertisement",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "commercial",
+      "marketing",
+      "promotion",
+      "publicity",
+      "promo"
+    ],
     "aliases": [
       "Ad",
       "Commercial",
@@ -32,7 +47,11 @@
       "promo",
       "publicity material"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is advertisement?",
+      "How does advertisement work?",
+      "Can you explain advertisement?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

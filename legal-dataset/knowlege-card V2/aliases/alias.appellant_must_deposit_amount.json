@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.appellant_must_deposit_amount",
+  "concept_type": "alias",
+  "title": "Appellant must deposit amount",
+  "description": "Alternative names and search aliases for: Appellant must deposit amount",
+  "content": {
+    "aliases": [
+      "appeal deposit amount",
+      "appellant deposit requirement",
+      "security deposit for appeal"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.appellant_must_deposit_50_of_amount_ordered_by_state_commiss"
+  ],
+  "search": {
+    "keywords": [
+      "appellant",
+      "deposit",
+      "amount",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "appeal",
+      "requirement",
+      "security"
+    ],
+    "aliases": [
+      "appeal deposit amount",
+      "appellant deposit requirement",
+      "security deposit for appeal"
+    ],
+    "user_queries": [
+      "What is appellant must deposit amount?",
+      "How does appellant must deposit amount work?",
+      "Can you explain appellant must deposit amount?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

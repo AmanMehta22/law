@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.electronic_service_provider_must_designate_a_nodal_officer",
+  "concept_type": "alias",
+  "title": "Electronic Service Provider must designate a nodal officer",
+  "description": "Alternative names and search aliases for: Electronic Service Provider must designate a nodal officer",
+  "content": {
+    "aliases": [
+      "csp",
+      "csp nodal officer",
+      "electronic service provider nodal officer"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.electronic_service_provider_shall_designate_a_nodal_officer_"
+  ],
+  "search": {
+    "keywords": [
+      "electronic",
+      "service",
+      "provider",
+      "designate",
+      "nodal",
+      "officer",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
+    "aliases": [
+      "csp",
+      "csp nodal officer",
+      "electronic service provider nodal officer"
+    ],
+    "user_queries": [
+      "What is electronic service provider must designate a nodal officer?",
+      "How does electronic service provider must designate a nodal officer work?",
+      "Can you explain electronic service provider must designate a nodal officer?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

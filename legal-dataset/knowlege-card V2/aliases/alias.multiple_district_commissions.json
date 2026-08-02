@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.multiple_district_commissions",
+  "concept_type": "alias",
+  "title": "Multiple District Commissions",
+  "description": "Alternative names and search aliases for: Multiple District Commissions",
+  "content": {
+    "aliases": [
+      "district commission multiplicity",
+      "multiple district consumer forums",
+      "plural district commissions",
+      "several district commissions"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "exception.the_state_government_may_establish_more_than_one_district_co"
+  ],
+  "search": {
+    "keywords": [
+      "multiple",
+      "district",
+      "commissions",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "commission",
+      "multiplicity",
+      "consumer"
+    ],
+    "aliases": [
+      "district commission multiplicity",
+      "multiple district consumer forums",
+      "plural district commissions",
+      "several district commissions"
+    ],
+    "user_queries": [
+      "What is multiple district commissions?",
+      "How does multiple district commissions work?",
+      "Can you explain multiple district commissions?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

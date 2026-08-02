@@ -16,9 +16,28 @@
     "CPA2019-CH5-S78",
     "procedure.replacement_of_mediator"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "intent.replacement_of_mediator",
+    "intent.replacement_of_mediator_2",
+    "intent.replacement_of_mediator_handled_by_commission",
+    "intent.replacement_of_mediator_handled_by_district_commission",
+    "intent.replacement_of_mediator_handled_by_national_commission",
+    "intent.replacement_of_mediator_handled_by_state_commission",
+    "procedure.replacement_of_mediator"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "replacement",
+      "mediator",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "appointing",
+      "new",
+      "change",
+      "process"
+    ],
     "aliases": [
       "appointing a new mediator",
       "change of mediator",
@@ -26,7 +45,11 @@
       "mediator substitution",
       "new mediator appointment"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is replacement of mediator?",
+      "How does replacement of mediator work?",
+      "Can you explain replacement of mediator?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

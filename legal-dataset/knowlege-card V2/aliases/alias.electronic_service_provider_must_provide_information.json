@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.electronic_service_provider_must_provide_information",
+  "concept_type": "alias",
+  "title": "Electronic service provider must provide information",
+  "description": "Alternative names and search aliases for: Electronic service provider must provide information",
+  "content": {
+    "aliases": [
+      "csp",
+      "csp details",
+      "csp information",
+      "electronic service provider"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.electronic_service_provider_must_provide_information_documen"
+  ],
+  "search": {
+    "keywords": [
+      "electronic",
+      "service",
+      "provider",
+      "provide",
+      "information",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "csp"
+    ],
+    "aliases": [
+      "csp",
+      "csp details",
+      "csp information",
+      "electronic service provider"
+    ],
+    "user_queries": [
+      "What is electronic service provider must provide information?",
+      "How does electronic service provider must provide information work?",
+      "Can you explain electronic service provider must provide information?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

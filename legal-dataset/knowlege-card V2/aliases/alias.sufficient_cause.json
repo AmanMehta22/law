@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.sufficient_cause",
+  "concept_type": "alias",
+  "title": "Sufficient cause",
+  "description": "Alternative names and search aliases for: Sufficient cause",
+  "content": {
+    "aliases": [
+      "justifiable grounds",
+      "reasonable explanation",
+      "valid reason"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "evidence.sufficient_cause"
+  ],
+  "search": {
+    "keywords": [
+      "sufficient",
+      "cause",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "justifiable",
+      "grounds",
+      "reasonable",
+      "explanation"
+    ],
+    "aliases": [
+      "justifiable grounds",
+      "reasonable explanation",
+      "valid reason"
+    ],
+    "user_queries": [
+      "What is sufficient cause?",
+      "How does sufficient cause work?",
+      "Can you explain sufficient cause?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -13,14 +13,36 @@
     "CPA2019-CH4-S69-2",
     "obligation.complainant_must_satisfy_the_commission_that_he_had_sufficie"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.complaint_filing_time_limit_exception",
+    "alias.district_commission",
+    "alias.filing_of_complaint_after_specified_period",
+    "alias.national_commission",
+    "alias.right_to_file_a_late_complaint",
+    "alias.state_commission",
+    "authority.district_commission"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "complainant",
+      "satisfy",
+      "commission",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "applicant",
+      "consumer"
+    ],
     "aliases": [
       "applicant",
       "consumer"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is complainant must satisfy the commission?",
+      "How does complainant must satisfy the commission work?",
+      "Can you explain complainant must satisfy the commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

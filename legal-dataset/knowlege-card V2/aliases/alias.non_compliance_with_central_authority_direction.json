@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.non_compliance_with_central_authority_direction",
+  "concept_type": "alias",
+  "title": "Non-compliance with Central Authority direction",
+  "description": "Alternative names and search aliases for: Non-compliance with Central Authority direction",
+  "content": {
+    "aliases": [
+      "disobeying central authority",
+      "failing to comply with central authority",
+      "ignoring central authority orders",
+      "non-compliance with central government direction"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "offence.whoever_fails_to_comply_with_any_direction_of_the_central_authority_under_sectio"
+  ],
+  "search": {
+    "keywords": [
+      "non",
+      "compliance",
+      "central",
+      "authority",
+      "direction",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "disobeying"
+    ],
+    "aliases": [
+      "disobeying central authority",
+      "failing to comply with central authority",
+      "ignoring central authority orders",
+      "non-compliance with central government direction"
+    ],
+    "user_queries": [
+      "What is non-compliance with central authority direction?",
+      "How does non-compliance with central authority direction work?",
+      "Can you explain non-compliance with central authority direction?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

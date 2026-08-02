@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.prejudice_or_affect_the_general_application",
+  "concept_type": "alias",
+  "title": "Prejudice or affect the general application",
+  "description": "Alternative names and search aliases for: Prejudice or affect the general application",
+  "content": {
+    "aliases": [
+      "affecting overall implementation",
+      "general application impact",
+      "influencing general applicability",
+      "prejudicing general rules"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "exception.the_mention_of_particular_matters_in_sub_section_2_shall_not"
+  ],
+  "search": {
+    "keywords": [
+      "prejudice",
+      "affect",
+      "general",
+      "application",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "affecting",
+      "overall"
+    ],
+    "aliases": [
+      "affecting overall implementation",
+      "general application impact",
+      "influencing general applicability",
+      "prejudicing general rules"
+    ],
+    "user_queries": [
+      "What is prejudice or affect the general application?",
+      "How does prejudice or affect the general application work?",
+      "Can you explain prejudice or affect the general application?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

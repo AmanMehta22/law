@@ -18,9 +18,24 @@
     "CPA2019-CH1-S2-12",
     "definition.design"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "definition.design",
+    "intent.design_of_a_product",
+    "intent.design_of_a_product_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "design",
+      "product",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "architecture",
+      "blueprint",
+      "engineering",
+      "manufacturing"
+    ],
     "aliases": [
       "Architecture",
       "Blueprint",
@@ -30,7 +45,11 @@
       "product features",
       "product specification"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is design of a product?",
+      "How does design of a product work?",
+      "Can you explain design of a product?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

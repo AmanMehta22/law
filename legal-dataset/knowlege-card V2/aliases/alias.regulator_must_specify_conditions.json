@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.regulator_must_specify_conditions",
+  "concept_type": "alias",
+  "title": "Regulator must specify conditions",
+  "description": "Alternative names and search aliases for: Regulator must specify conditions",
+  "content": {
+    "aliases": [
+      "regulator's conditions",
+      "regulatory conditions",
+      "specifying regulations"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.regulator_must_specify_conditions_for_re_empanelment_of_medi"
+  ],
+  "search": {
+    "keywords": [
+      "regulator",
+      "specify",
+      "conditions",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "regulatory",
+      "specifying",
+      "regulations"
+    ],
+    "aliases": [
+      "regulator's conditions",
+      "regulatory conditions",
+      "specifying regulations"
+    ],
+    "user_queries": [
+      "What is regulator must specify conditions?",
+      "How does regulator must specify conditions work?",
+      "Can you explain regulator must specify conditions?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

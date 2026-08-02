@@ -13,14 +13,33 @@
     "CPA2019-CH4-S56",
     "exception.the_president_and_every_other_member_appointed_immediately_b"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "exception.the_president_and_every_other_member_appointed_immediately_b",
+    "intent.continuance_of_old_act_for_certain_members",
+    "intent.continuance_of_old_act_for_certain_members_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "continuance",
+      "old",
+      "act",
+      "certain",
+      "members",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "new"
+    ],
     "aliases": [
       "new Act",
       "old Act"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is continuance of old act for certain members?",
+      "How does continuance of old act for certain members work?",
+      "Can you explain continuance of old act for certain members?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

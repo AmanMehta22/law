@@ -12,13 +12,32 @@
     "CPA2019-CH6-S87-3",
     "exception.shall_not_be_liable_for_failure_to_instruct_or_warn_about_a_"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "exception.shall_not_be_liable_for_failure_to_instruct_or_warn_about_a_",
+    "intent.obvious_or_commonly_known_danger",
+    "intent.obvious_or_commonly_known_danger_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "obvious",
+      "commonly",
+      "known",
+      "danger",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "clear",
+      "risk"
+    ],
     "aliases": [
       "clear and obvious risk"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is obvious or commonly known danger?",
+      "How does obvious or commonly known danger work?",
+      "Can you explain obvious or commonly known danger?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

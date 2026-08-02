@@ -15,16 +15,39 @@
     "CPA2019-CH4-S38-9",
     "procedure.issuing_of_commissions"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.discovery_and_production_of_evidence",
+    "alias.district_commission",
+    "alias.district_commission_must_exercise_powers",
+    "alias.receiving_evidence_on_affidavits",
+    "alias.requisitioning_of_report",
+    "alias.summoning_and_enforcing_attendance"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "issuing",
+      "commissions",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "appointment",
+      "commissioners",
+      "commission",
+      "establishment"
+    ],
     "aliases": [
       "Appointment of Commissioners",
       "Commission Establishment",
       "Commissioner Assignment",
       "Regulatory Body Formation"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is discovery and production of evidence?",
+      "How does discovery and production of evidence work?",
+      "Can you explain discovery and production of evidence?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.unlawful_search_or_seizure",
+  "concept_type": "alias",
+  "title": "Unlawful search or seizure",
+  "description": "Alternative names and search aliases for: Unlawful search or seizure",
+  "content": {
+    "aliases": [
+      "illegal search",
+      "illegal seizure of property",
+      "unauthorized seizure",
+      "wrongful search and seizure"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "offence.the_director_general_or_any_other_officer_exercising_powers_under_section_22_who"
+  ],
+  "search": {
+    "keywords": [
+      "unlawful",
+      "search",
+      "seizure",
+      "alternative",
+      "names",
+      "aliases",
+      "illegal",
+      "property",
+      "unauthorized",
+      "wrongful"
+    ],
+    "aliases": [
+      "illegal search",
+      "illegal seizure of property",
+      "unauthorized seizure",
+      "wrongful search and seizure"
+    ],
+    "user_queries": [
+      "What is unlawful search or seizure?",
+      "How does unlawful search or seizure work?",
+      "Can you explain unlawful search or seizure?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

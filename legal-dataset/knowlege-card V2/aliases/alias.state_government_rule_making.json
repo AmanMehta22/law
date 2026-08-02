@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.state_government_rule_making",
+  "concept_type": "alias",
+  "title": "State Government rule making",
+  "description": "Alternative names and search aliases for: State Government rule making",
+  "content": {
+    "aliases": [
+      "government rule making",
+      "regulatory framework",
+      "state law creation",
+      "state regulations"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "exception.provided_that_the_central_government_may_frame_model_rules"
+  ],
+  "search": {
+    "keywords": [
+      "state",
+      "government",
+      "rule",
+      "making",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "regulatory",
+      "framework"
+    ],
+    "aliases": [
+      "government rule making",
+      "regulatory framework",
+      "state law creation",
+      "state regulations"
+    ],
+    "user_queries": [
+      "What is state government rule making?",
+      "How does state government rule making work?",
+      "Can you explain state government rule making?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -12,13 +12,36 @@
     "CPA2019-CH7-S91-3",
     "obligation.court_may_suspend_or_cancel_licence"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.court",
+    "authority.court",
+    "intent.court",
+    "intent.court_2",
+    "intent.court_must_consider_suspension_or_cancellation_of_licence",
+    "intent.court_must_consider_suspension_or_cancellation_of_licence_2",
+    "intent.licence_suspension_period"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "court",
+      "consider",
+      "suspension",
+      "cancellation",
+      "licence",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "authority"
+    ],
     "aliases": [
       "court authority"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is court must consider suspension or cancellation of licence?",
+      "How does court must consider suspension or cancellation of licence work?",
+      "Can you explain court must consider suspension or cancellation of licence?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

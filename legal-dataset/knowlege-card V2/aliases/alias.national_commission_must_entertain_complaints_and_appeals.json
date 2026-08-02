@@ -1,0 +1,48 @@
+{
+  "concept_id": "alias.national_commission_must_entertain_complaints_and_appeals",
+  "concept_type": "alias",
+  "title": "National Commission must entertain complaints and appeals",
+  "description": "Alternative names and search aliases for: National Commission must entertain complaints and appeals",
+  "content": {
+    "aliases": [
+      "National Commission's Jurisdiction",
+      "Entertaining Complaints and Appeals by National Commission",
+      "NC's Complaint and Appeal Jurisdiction"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.national_commission_must_entertain_complaints_and_appeals"
+  ],
+  "search": {
+    "keywords": [
+      "national",
+      "commission",
+      "entertain",
+      "complaints",
+      "appeals",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
+    "aliases": [
+      "national commission"
+    ],
+    "user_queries": [
+      "What is national commission must entertain complaints and appeals?",
+      "How does national commission must entertain complaints and appeals work?",
+      "Can you explain national commission must entertain complaints and appeals?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

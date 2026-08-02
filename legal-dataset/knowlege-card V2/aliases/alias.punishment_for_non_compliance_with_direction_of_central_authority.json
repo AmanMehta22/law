@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.punishment_for_non_compliance_with_direction_of_central_authority",
+  "concept_type": "alias",
+  "title": "Punishment for non-compliance with direction of Central Authority",
+  "description": "Alternative names and search aliases for: Punishment for non-compliance with direction of Central Authority",
+  "content": {
+    "aliases": [
+      "consequences of non-compliance with central government",
+      "fine for non-compliance with central authority",
+      "penalty for disobeying central authority",
+      "punishment for ignoring central authority"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "penalty.failing_to_comply_with_direction_of_central_authority"
+  ],
+  "search": {
+    "keywords": [
+      "punishment",
+      "non",
+      "compliance",
+      "direction",
+      "central",
+      "authority",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
+    "aliases": [
+      "consequences of non-compliance with central government",
+      "fine for non-compliance with central authority",
+      "penalty for disobeying central authority",
+      "punishment for ignoring central authority"
+    ],
+    "user_queries": [
+      "What is punishment for non-compliance with direction of central authority?",
+      "How does punishment for non-compliance with direction of central authority work?",
+      "Can you explain punishment for non-compliance with direction of central authority?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

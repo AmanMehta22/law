@@ -17,14 +17,36 @@
     "obligation.officers_and_other_employees_of_the_national_commission_disc",
     "obligation.officers_and_other_employees_of_the_state_commission_dischar"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "authority.district_commission",
+    "intent.district_commission",
+    "intent.district_commission_2",
+    "intent.officers_and_employees_must_discharge_functions_under_superintendence",
+    "intent.officers_and_employees_must_discharge_functions_under_superintendence_2",
+    "alias.state_commission"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "officers",
+      "employees",
+      "discharge",
+      "functions",
+      "superintendence",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
     "aliases": [
       "employees",
       "officers"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is officers and employees must discharge functions under superintendence?",
+      "How does officers and employees must discharge functions under superintendence work?",
+      "Can you explain officers and employees must discharge functions under superintendence?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

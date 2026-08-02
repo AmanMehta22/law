@@ -17,9 +17,28 @@
     "CPA2019-CH4-S51-5",
     "procedure.filing_an_appeal_to_the_national_commission"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_to_national_commission",
+    "alias.national_commission_must_hear_appeal",
+    "alias.right_to_appeal",
+    "exception.save_as_otherwise_expressly_provided_under_this_act_or_by_an",
+    "intent.appeal_to_national_commission",
+    "intent.appeal_to_national_commission_2",
+    "intent.appeal_to_national_commission_limits_right_to_appeal"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "filing",
+      "appeal",
+      "national",
+      "commission",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "appealing",
+      "petitioning"
+    ],
     "aliases": [
       "appealing to national commission",
       "filing appeal with national commission",
@@ -27,7 +46,11 @@
       "petitioning national commission",
       "submitting appeal to national commission"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is appeal to national commission?",
+      "How does appeal to national commission work?",
+      "Can you explain appeal to national commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

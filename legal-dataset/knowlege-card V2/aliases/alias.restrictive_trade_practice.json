@@ -16,9 +16,27 @@
     "CPA2019-CH1-S2-41",
     "definition.restrictive_trade_practice"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.trader_must_supply_goods_or_services_within_agreed_period",
+    "definition.restrictive_trade_practice",
+    "intent.restrictive_trade_practice",
+    "intent.restrictive_trade_practice_2",
+    "intent.trader_must_supply_goods_or_services_within_agreed_period",
+    "intent.trader_must_supply_goods_or_services_within_agreed_period_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "restrictive",
+      "trade",
+      "practice",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "anti",
+      "competitive",
+      "monopolistic"
+    ],
     "aliases": [
       "Anti-Competitive Practice",
       "Monopolistic Practice",
@@ -26,7 +44,11 @@
       "anti-competitive practice",
       "unfair trade practice"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is restrictive trade practice?",
+      "How does restrictive trade practice work?",
+      "Can you explain restrictive trade practice?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

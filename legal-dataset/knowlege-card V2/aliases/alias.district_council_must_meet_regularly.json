@@ -1,0 +1,55 @@
+{
+  "concept_id": "alias.district_council_must_meet_regularly",
+  "concept_type": "alias",
+  "title": "District Council must meet regularly",
+  "description": "Alternative names and search aliases for: District Council must meet regularly",
+  "content": {
+    "aliases": [
+      "council",
+      "council meeting",
+      "council meeting schedule",
+      "council meetings",
+      "district council meetings"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.district_council_shall_meet_as_and_when_necessary_and_at_lea"
+  ],
+  "search": {
+    "keywords": [
+      "district",
+      "council",
+      "meet",
+      "regularly",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "meeting",
+      "schedule"
+    ],
+    "aliases": [
+      "council",
+      "council meeting",
+      "council meeting schedule",
+      "council meetings",
+      "district council meetings"
+    ],
+    "user_queries": [
+      "What is district council must meet regularly?",
+      "How does district council must meet regularly work?",
+      "Can you explain district council must meet regularly?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

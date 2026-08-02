@@ -15,16 +15,39 @@
     "CPA2019-CH4-S38-2",
     "procedure.complaint_handling"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.admissibility_decision_time_limit",
+    "alias.appeal_time_limit",
+    "alias.district_commission",
+    "alias.right_to_be_heard",
+    "authority.district_commission",
+    "evidence.report_from_laboratory",
+    "evidence.sample_of_goods"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "complaint",
+      "handling",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "management",
+      "processing",
+      "resolution",
+      "process"
+    ],
     "aliases": [
       "complaint management",
       "complaint processing",
       "complaint resolution process",
       "handling customer complaints"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is complaint handling?",
+      "How does complaint handling work?",
+      "Can you explain complaint handling?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

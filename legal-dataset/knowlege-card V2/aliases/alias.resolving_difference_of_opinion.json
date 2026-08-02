@@ -16,9 +16,28 @@
     "CPA2019-CH4-S39-3",
     "procedure.resolving_difference_of_opinion"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.member_must_give_opinion_within_a_month",
+    "authority.district_commission",
+    "exception.the_other_member_shall_give_his_opinion_on_such_point_or_poi",
+    "intent.district_commission",
+    "intent.district_commission_2",
+    "intent.member_must_give_opinion_within_a_month"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "resolving",
+      "difference",
+      "opinion",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "resolution",
+      "disagreement",
+      "reconciliation"
+    ],
     "aliases": [
       "difference of opinion resolution",
       "disagreement resolution",
@@ -26,7 +45,11 @@
       "resolving conflicts",
       "settling disputes"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is member must give opinion within a month?",
+      "How does member must give opinion within a month work?",
+      "Can you explain member must give opinion within a month?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

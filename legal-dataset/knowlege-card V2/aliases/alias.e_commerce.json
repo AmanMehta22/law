@@ -17,9 +17,24 @@
     "CPA2019-CH1-S2-16",
     "definition.e_commerce"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "definition.e_commerce",
+    "intent.e_commerce",
+    "intent.e_commerce_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "commerce",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "digital",
+      "trade",
+      "electronic",
+      "internet",
+      "retailing"
+    ],
     "aliases": [
       "Digital Trade",
       "Electronic Commerce",
@@ -28,7 +43,11 @@
       "electronic commerce",
       "online commerce"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is e-commerce?",
+      "How does e-commerce work?",
+      "Can you explain e-commerce?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

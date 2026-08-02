@@ -12,13 +12,34 @@
     "CPA2019-CH4-S49-1",
     "obligation.state_commission_must_dispose_of_complaints"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.state_commission",
+    "authority.state_commission",
+    "intent.state_commission",
+    "intent.state_commission_2",
+    "intent.state_commission_must_dispose_of_complaints",
+    "intent.state_commission_must_dispose_of_complaints_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "state",
+      "commission",
+      "dispose",
+      "complaints",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "disposal"
+    ],
     "aliases": [
       "State Commission complaints disposal"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is state commission must dispose of complaints?",
+      "How does state commission must dispose of complaints work?",
+      "Can you explain state commission must dispose of complaints?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

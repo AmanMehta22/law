@@ -12,13 +12,30 @@
     "CPA2019-CH6-S87-1",
     "exception.if_the_product_was_misused_altered_or_modified_at_the_time_o"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "exception.if_the_product_was_misused_altered_or_modified_at_the_time_o",
+    "intent.product_liability_exception",
+    "intent.product_liability_exception_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "product",
+      "liability",
+      "exception",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "seller"
+    ],
     "aliases": [
       "product seller exception"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is product liability exception?",
+      "How does product liability exception work?",
+      "Can you explain product liability exception?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

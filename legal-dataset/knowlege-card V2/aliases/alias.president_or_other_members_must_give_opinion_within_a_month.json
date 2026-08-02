@@ -13,14 +13,37 @@
     "CPA2019-CH4-S47-3",
     "obligation.president_or_other_members_must_give_opinion_on_the_referred"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.president",
+    "alias.resolution_of_differing_opinions",
+    "authority.president",
+    "intent.opinion_time_limit",
+    "intent.president",
+    "intent.president_2",
+    "intent.president_or_other_members_must_give_opinion_within_a_month"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "president",
+      "other",
+      "members",
+      "give",
+      "opinion",
+      "month",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
     "aliases": [
       "deadline",
       "timeframe"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is president or other members must give opinion within a month?",
+      "How does president or other members must give opinion within a month work?",
+      "Can you explain president or other members must give opinion within a month?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

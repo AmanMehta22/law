@@ -17,9 +17,28 @@
     "CPA2019-CH4-S55-2",
     "right.right_to_non_variation_of_service_terms"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.national_commission",
+    "authority.national_commission",
+    "intent.national_commission",
+    "intent.national_commission_2",
+    "intent.right_to_non_variation_of_service_terms",
+    "intent.right_to_non_variation_of_service_terms_2",
+    "right.right_to_non_variation_of_service_terms"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "right",
+      "non",
+      "variation",
+      "service",
+      "terms",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "consistent"
+    ],
     "aliases": [
       "consistent service rights",
       "job security",
@@ -28,7 +47,11 @@
       "terms of service",
       "unmodified service agreement"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is right to non-variation of service terms?",
+      "How does right to non-variation of service terms work?",
+      "Can you explain right to non-variation of service terms?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

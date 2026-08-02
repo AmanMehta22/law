@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.central_government_may_prescribe_value",
+  "concept_type": "alias",
+  "title": "Central Government may prescribe value",
+  "description": "Alternative names and search aliases for: Central Government may prescribe value",
+  "content": {
+    "aliases": [
+      "central government valuation guideline",
+      "government prescribed value",
+      "value specification by central government"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.central_government_may_prescribe_such_other_value"
+  ],
+  "search": {
+    "keywords": [
+      "central",
+      "government",
+      "prescribe",
+      "value",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "valuation",
+      "guideline"
+    ],
+    "aliases": [
+      "central government valuation guideline",
+      "government prescribed value",
+      "value specification by central government"
+    ],
+    "user_queries": [
+      "What is central government may prescribe value?",
+      "How does central government may prescribe value work?",
+      "Can you explain central government may prescribe value?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -13,14 +13,37 @@
     "CPA2019-CH2-S3-2",
     "obligation.central_government_must_prescribe_interests"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_council",
+    "authority.central_council",
+    "intent.central_council",
+    "intent.central_council_2",
+    "intent.central_government_must_prescribe_interests",
+    "intent.central_government_must_prescribe_interests_2",
+    "intent.mediation_references_central_council"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "central",
+      "government",
+      "prescribe",
+      "interests",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "define",
+      "specify"
+    ],
     "aliases": [
       "define",
       "specify"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central council?",
+      "How does central council work?",
+      "Can you explain central council?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

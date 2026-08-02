@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.penalty_for_first_conviction",
+  "concept_type": "alias",
+  "title": "Penalty for first conviction",
+  "description": "Alternative names and search aliases for: Penalty for first conviction",
+  "content": {
+    "aliases": [
+      "first conviction punishment",
+      "first-time offender penalty",
+      "initial conviction fine",
+      "penalty for first-time offense"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "penalty.first_conviction"
+  ],
+  "search": {
+    "keywords": [
+      "penalty",
+      "first",
+      "conviction",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "punishment",
+      "time",
+      "offender"
+    ],
+    "aliases": [
+      "first conviction punishment",
+      "first-time offender penalty",
+      "initial conviction fine",
+      "penalty for first-time offense"
+    ],
+    "user_queries": [
+      "What is penalty for first conviction?",
+      "How does penalty for first conviction work?",
+      "Can you explain penalty for first conviction?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

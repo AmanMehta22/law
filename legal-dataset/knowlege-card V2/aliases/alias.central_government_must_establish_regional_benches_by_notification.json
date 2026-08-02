@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.central_government_must_establish_regional_benches_by_notification",
+  "concept_type": "alias",
+  "title": "Central Government must establish regional Benches by notification",
+  "description": "Alternative names and search aliases for: Central Government must establish regional Benches by notification",
+  "content": {
+    "aliases": [
+      "central government regional tribunal establishment",
+      "notification of regional benches",
+      "regional bench setup"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.central_government_must_establish_regional_benches_by_notifi"
+  ],
+  "search": {
+    "keywords": [
+      "central",
+      "government",
+      "establish",
+      "regional",
+      "benches",
+      "notification",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
+    "aliases": [
+      "central government regional tribunal establishment",
+      "notification of regional benches",
+      "regional bench setup"
+    ],
+    "user_queries": [
+      "What is central government must establish regional benches by notification?",
+      "How does central government must establish regional benches by notification work?",
+      "Can you explain central government must establish regional benches by notification?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

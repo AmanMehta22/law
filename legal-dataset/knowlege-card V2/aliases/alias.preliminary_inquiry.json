@@ -16,9 +16,28 @@
     "CPA2019-CH3-S19-1",
     "procedure.preliminary_inquiry"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_authority_must_cause_investigation",
+    "alias.central_government",
+    "alias.director_general",
+    "alias.district_collector",
+    "alias.investigation",
+    "authority.central_authority"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "preliminary",
+      "inquiry",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "arbitration",
+      "dispute",
+      "resolution",
+      "mediation"
+    ],
     "aliases": [
       "arbitration",
       "dispute resolution",
@@ -26,7 +45,11 @@
       "mediation",
       "preliminary"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central authority must cause investigation?",
+      "How does central authority must cause investigation work?",
+      "Can you explain central authority must cause investigation?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

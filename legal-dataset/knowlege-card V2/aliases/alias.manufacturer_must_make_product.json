@@ -12,13 +12,29 @@
     "CPA2019-CH6-S84-2",
     "obligation.product_manufacturer_shall_be_liable_in_a_product_liability_"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "intent.manufacturer_must_make_product",
+    "intent.manufacturer_must_make_product_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "manufacturer",
+      "make",
+      "product",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "liability"
+    ],
     "aliases": [
       "product manufacturer liability"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is manufacturer must make product?",
+      "How does manufacturer must make product work?",
+      "Can you explain manufacturer must make product?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

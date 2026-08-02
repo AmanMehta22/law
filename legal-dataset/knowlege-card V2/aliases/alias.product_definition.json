@@ -18,9 +18,26 @@
     "CPA2019-CH1-S2-33",
     "definition.product"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "definition.product",
+    "exception.does_not_include_human_tissues_blood_blood_products_and_orga",
+    "intent.exclusion_of_human_tissues_blood_blood_products_and_organs",
+    "intent.product_definition",
+    "intent.product_definition_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "product",
+      "definition",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "article",
+      "commodity",
+      "goods",
+      "item"
+    ],
     "aliases": [
       "Article Definition",
       "Commodity Definition",
@@ -30,7 +47,11 @@
       "commodity",
       "good"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is exclusion of human tissues, blood, blood products and organs?",
+      "How does exclusion of human tissues, blood, blood products and organs work?",
+      "Can you explain exclusion of human tissues, blood, blood products and organs?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

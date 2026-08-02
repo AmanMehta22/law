@@ -62,9 +62,28 @@
     "authority.central_authority",
     "definition.central_authority"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.national_commission",
+    "alias.regulations",
+    "authority.central_authority",
+    "authority.national_commission",
+    "definition.regulations",
+    "intent.central_authority",
+    "intent.central_authority_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "central",
+      "authority",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "ccpa",
+      "agency",
+      "consumer",
+      "protection"
+    ],
     "aliases": [
       "CCPA",
       "Central Agency",
@@ -75,7 +94,11 @@
       "Federal Agency",
       "National Authority"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is accounts and audit reports?",
+      "How does accounts and audit reports work?",
+      "Can you explain accounts and audit reports?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

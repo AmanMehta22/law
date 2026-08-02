@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.penalty_for_subsequent_conviction",
+  "concept_type": "alias",
+  "title": "Penalty for subsequent conviction",
+  "description": "Alternative names and search aliases for: Penalty for subsequent conviction",
+  "content": {
+    "aliases": [
+      "repeat fine",
+      "repeat offender penalty",
+      "second conviction fine",
+      "subsequent offence penalty"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "penalty.second_or_subsequent_conviction"
+  ],
+  "search": {
+    "keywords": [
+      "penalty",
+      "subsequent",
+      "conviction",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "repeat",
+      "fine",
+      "offender"
+    ],
+    "aliases": [
+      "repeat fine",
+      "repeat offender penalty",
+      "second conviction fine",
+      "subsequent offence penalty"
+    ],
+    "user_queries": [
+      "What is penalty for subsequent conviction?",
+      "How does penalty for subsequent conviction work?",
+      "Can you explain penalty for subsequent conviction?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

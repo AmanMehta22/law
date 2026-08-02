@@ -16,9 +16,28 @@
     "CPA2019-CH8-S104-2",
     "procedure.transaction_of_business"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_authority_must_receive_inquiry_or_investigation_report",
+    "alias.director_general",
+    "alias.engaging_experts_and_professionals",
+    "alias.mediation_time_limit",
+    "alias.submission_of_inquiries_or_investigation",
+    "authority.central_authority"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "transaction",
+      "business",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "operations",
+      "proceedings",
+      "carrying",
+      "out"
+    ],
     "aliases": [
       "Business operations",
       "Business proceedings",
@@ -26,7 +45,11 @@
       "Commercial transactions",
       "Conducting business"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central authority must receive inquiry or investigation report?",
+      "How does central authority must receive inquiry or investigation report work?",
+      "Can you explain central authority must receive inquiry or investigation report?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

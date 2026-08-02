@@ -15,16 +15,39 @@
     "CPA2019-CH5-S80-1",
     "procedure.mediation_agreement"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.parties_must_reduce_agreement_to_writing",
+    "evidence.written_agreement",
+    "intent.agreement_in_writing",
+    "intent.mediation_agreement",
+    "intent.mediation_agreement_2",
+    "intent.mediation_agreement_depends_on_agreement_in_writing",
+    "intent.parties_must_reduce_agreement_to_writing"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "mediation",
+      "agreement",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "dispute",
+      "resolution",
+      "contract",
+      "settlement"
+    ],
     "aliases": [
       "Alternative Dispute Resolution",
       "Dispute Resolution Agreement",
       "Mediation Contract",
       "Settlement Agreement"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is agreement in writing?",
+      "How does agreement in writing work?",
+      "Can you explain agreement in writing?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -16,9 +16,28 @@
     "CPA2019-CH8-S101-2",
     "procedure.filing_complaint"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_to_national_commission",
+    "alias.appeal_to_state_commission",
+    "alias.authentication_of_goods",
+    "alias.deposit_of_amount",
+    "alias.furnishing_information",
+    "alias.government_must_make_rules",
+    "alias.mediation"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "filing",
+      "complaint",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "grievance",
+      "lodging",
+      "making",
+      "registering"
+    ],
     "aliases": [
       "filing a grievance",
       "lodging a complaint",
@@ -26,7 +45,10 @@
       "registering a complaint",
       "submitting a complaint"
     ],
-    "user_queries": []
+    "user_queries": [
+      "How do I file appeal to national commission?",
+      "What are the steps for appeal to national commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

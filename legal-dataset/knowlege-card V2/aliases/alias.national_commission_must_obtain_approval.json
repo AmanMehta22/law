@@ -1,0 +1,48 @@
+{
+  "concept_id": "alias.national_commission_must_obtain_approval",
+  "concept_type": "alias",
+  "title": "National Commission must obtain approval",
+  "description": "Alternative names and search aliases for: National Commission must obtain approval",
+  "content": {
+    "aliases": [
+      "Previous Approval of Central Government",
+      "Central Government Approval",
+      "Prior Sanction of Central Government",
+      "Approval from Central Government"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.national_commission_must_obtain_previous_approval_of_the_cen"
+  ],
+  "search": {
+    "keywords": [
+      "national",
+      "commission",
+      "obtain",
+      "approval",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
+    "aliases": [
+      "national commission"
+    ],
+    "user_queries": [
+      "What is national commission must obtain approval?",
+      "How does national commission must obtain approval work?",
+      "Can you explain national commission must obtain approval?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

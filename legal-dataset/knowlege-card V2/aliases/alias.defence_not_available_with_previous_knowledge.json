@@ -13,14 +13,37 @@
     "CPA2019-CH3-S21-6",
     "exception.such_defence_is_not_available_if_the_person_had_previous_kno"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.person_must_prove_publication_in_ordinary_course_of_business",
+    "alias.proof_of_publication_in_ordinary_course_of_business",
+    "authority.central_authority",
+    "evidence.records_of_business_transactions_publication_records",
+    "exception.such_defence_is_not_available_if_the_person_had_previous_kno",
+    "intent.central_authority"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "defence",
+      "available",
+      "previous",
+      "knowledge",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "exception",
+      "exemption"
+    ],
     "aliases": [
       "exception",
       "exemption"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is defence not available with previous knowledge?",
+      "How does defence not available with previous knowledge work?",
+      "Can you explain defence not available with previous knowledge?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.cost_of_corrective_advertisement",
+  "concept_type": "alias",
+  "title": "Cost of corrective advertisement",
+  "description": "Alternative names and search aliases for: Cost of corrective advertisement",
+  "content": {
+    "aliases": [
+      "corrective advertising cost",
+      "cost of rectification advertisement",
+      "expense of corrective notice",
+      "price of corrective publicity"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "penalty.issuing_misleading_advertisement"
+  ],
+  "search": {
+    "keywords": [
+      "cost",
+      "corrective",
+      "advertisement",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "advertising",
+      "rectification",
+      "expense"
+    ],
+    "aliases": [
+      "corrective advertising cost",
+      "cost of rectification advertisement",
+      "expense of corrective notice",
+      "price of corrective publicity"
+    ],
+    "user_queries": [
+      "What is cost of corrective advertisement?",
+      "How does cost of corrective advertisement work?",
+      "Can you explain cost of corrective advertisement?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

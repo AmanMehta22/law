@@ -16,9 +16,28 @@
     "CPA2019-CH3-S26-3",
     "right.right_to_demand_production_of_documents"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.audit_of_central_authority_accounts",
+    "alias.comptroller_and_auditor_general_of_india",
+    "authority.comptroller_and_auditor_general_of_india",
+    "evidence.books_accounts_connected_vouchers_other_documents_and_papers",
+    "intent.audit_documents",
+    "intent.audit_of_central_authority_accounts",
+    "intent.audit_of_central_authority_accounts_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "right",
+      "demand",
+      "production",
+      "documents",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "document",
+      "rights"
+    ],
     "aliases": [
       "document production rights",
       "document request rights",
@@ -26,7 +45,11 @@
       "right to access documents",
       "right to evidence"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is audit documents?",
+      "How does audit documents work?",
+      "Can you explain audit documents?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

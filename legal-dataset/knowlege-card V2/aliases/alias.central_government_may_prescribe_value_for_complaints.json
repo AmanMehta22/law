@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.central_government_may_prescribe_value_for_complaints",
+  "concept_type": "alias",
+  "title": "Central Government may prescribe value for complaints",
+  "description": "Alternative names and search aliases for: Central Government may prescribe value for complaints",
+  "content": {
+    "aliases": [
+      "central government complaint valuation",
+      "complaint value threshold",
+      "government prescribed complaint value"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.central_government_may_prescribe_value_for_complaints"
+  ],
+  "search": {
+    "keywords": [
+      "central",
+      "government",
+      "prescribe",
+      "value",
+      "complaints",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "complaint"
+    ],
+    "aliases": [
+      "central government complaint valuation",
+      "complaint value threshold",
+      "government prescribed complaint value"
+    ],
+    "user_queries": [
+      "What is central government may prescribe value for complaints?",
+      "How does central government may prescribe value for complaints work?",
+      "Can you explain central government may prescribe value for complaints?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

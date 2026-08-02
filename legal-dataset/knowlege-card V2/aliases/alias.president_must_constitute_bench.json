@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.president_must_constitute_bench",
+  "concept_type": "alias",
+  "title": "President must constitute Bench",
+  "description": "Alternative names and search aliases for: President must constitute Bench",
+  "content": {
+    "aliases": [
+      "appointing a bench",
+      "bench formation",
+      "constituting a bench"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.president_must_constitute_a_bench"
+  ],
+  "search": {
+    "keywords": [
+      "president",
+      "constitute",
+      "bench",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "appointing",
+      "formation",
+      "constituting"
+    ],
+    "aliases": [
+      "appointing a bench",
+      "bench formation",
+      "constituting a bench"
+    ],
+    "user_queries": [
+      "What is president must constitute bench?",
+      "How does president must constitute bench work?",
+      "Can you explain president must constitute bench?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

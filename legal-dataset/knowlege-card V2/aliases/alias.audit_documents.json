@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.audit_documents",
+  "concept_type": "alias",
+  "title": "Audit documents",
+  "description": "Alternative names and search aliases for: Audit documents",
+  "content": {
+    "aliases": [
+      "accounting records",
+      "audit reports",
+      "financial audit papers"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "evidence.books_accounts_connected_vouchers_other_documents_and_papers"
+  ],
+  "search": {
+    "keywords": [
+      "audit",
+      "documents",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "accounting",
+      "records",
+      "reports",
+      "financial"
+    ],
+    "aliases": [
+      "accounting records",
+      "audit reports",
+      "financial audit papers"
+    ],
+    "user_queries": [
+      "What is audit documents?",
+      "How does audit documents work?",
+      "Can you explain audit documents?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

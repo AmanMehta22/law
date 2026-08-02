@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.central_government_may_take_measures",
+  "concept_type": "alias",
+  "title": "Central Government may take measures",
+  "description": "Alternative names and search aliases for: Central Government may take measures",
+  "content": {
+    "aliases": [
+      "central government action",
+      "government intervention",
+      "regulatory measures by central government"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.central_government_may_take_measures"
+  ],
+  "search": {
+    "keywords": [
+      "central",
+      "government",
+      "take",
+      "measures",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "action",
+      "intervention"
+    ],
+    "aliases": [
+      "central government action",
+      "government intervention",
+      "regulatory measures by central government"
+    ],
+    "user_queries": [
+      "What is central government may take measures?",
+      "How does central government may take measures work?",
+      "Can you explain central government may take measures?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

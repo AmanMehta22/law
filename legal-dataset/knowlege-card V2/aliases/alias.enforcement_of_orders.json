@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.enforcement_of_orders",
+  "concept_type": "alias",
+  "title": "Enforcement of orders",
+  "description": "Alternative names and search aliases for: Enforcement of orders",
+  "content": {
+    "aliases": [
+      "compliance enforcement",
+      "execution of orders",
+      "implementation of directives",
+      "order enforcement"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "exception.subject_to_the_modification_that_every_reference_to_the_decr"
+  ],
+  "search": {
+    "keywords": [
+      "enforcement",
+      "orders",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "compliance",
+      "execution",
+      "implementation",
+      "directives"
+    ],
+    "aliases": [
+      "compliance enforcement",
+      "execution of orders",
+      "implementation of directives",
+      "order enforcement"
+    ],
+    "user_queries": [
+      "What is enforcement of orders?",
+      "How does enforcement of orders work?",
+      "Can you explain enforcement of orders?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

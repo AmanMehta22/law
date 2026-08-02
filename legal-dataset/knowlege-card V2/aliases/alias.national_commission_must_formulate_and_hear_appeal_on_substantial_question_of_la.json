@@ -12,13 +12,36 @@
     "CPA2019-CH4-S51-4",
     "obligation.national_commission_must_formulate_and_hear_appeal_on_substa"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.hearing_of_appeal_on_substantial_question_of_law",
+    "alias.national_commission",
+    "alias.right_to_appeal",
+    "authority.national_commission",
+    "intent.hearing_of_appeal_on_substantial_question_of_law",
+    "intent.hearing_of_appeal_on_substantial_question_of_law_2",
+    "intent.hearing_of_appeal_on_substantial_question_of_law_enables_right_to_appeal"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "national",
+      "commission",
+      "formulate",
+      "hear",
+      "appeal",
+      "substantial",
+      "question",
+      "law",
+      "alternative",
+      "names"
+    ],
     "aliases": [
       "formulate and hear appeal"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is hearing of appeal on substantial question of law?",
+      "How does hearing of appeal on substantial question of law work?",
+      "Can you explain hearing of appeal on substantial question of law?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

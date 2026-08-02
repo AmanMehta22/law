@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.proof_of_product_sale",
+  "concept_type": "alias",
+  "title": "Proof of product sale",
+  "description": "Alternative names and search aliases for: Proof of product sale",
+  "content": {
+    "aliases": [
+      "invoice proof",
+      "product purchase proof",
+      "sales receipt"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "evidence.sales_records_invoice_receipt"
+  ],
+  "search": {
+    "keywords": [
+      "proof",
+      "product",
+      "sale",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "invoice",
+      "purchase",
+      "sales"
+    ],
+    "aliases": [
+      "invoice proof",
+      "product purchase proof",
+      "sales receipt"
+    ],
+    "user_queries": [
+      "What is proof of product sale?",
+      "How does proof of product sale work?",
+      "Can you explain proof of product sale?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

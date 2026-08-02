@@ -16,9 +16,28 @@
     "CPA2019-CH4-S71",
     "procedure.enforcement_of_order"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.court",
+    "alias.district_commission",
+    "alias.national_commission",
+    "alias.state_commission",
+    "authority.court",
+    "authority.district_commission",
+    "authority.national_commission"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "enforcement",
+      "order",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "carrying",
+      "out",
+      "judgment",
+      "execution"
+    ],
     "aliases": [
       "carrying out the judgment",
       "execution of order",
@@ -26,7 +45,11 @@
       "order enforcement",
       "upholding the ruling"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is commission must enforce order?",
+      "How does commission must enforce order work?",
+      "Can you explain commission must enforce order?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

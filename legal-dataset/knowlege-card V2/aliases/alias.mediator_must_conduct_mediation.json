@@ -1,0 +1,46 @@
+{
+  "concept_id": "alias.mediator_must_conduct_mediation",
+  "concept_type": "alias",
+  "title": "Mediator must conduct mediation",
+  "description": "Alternative names and search aliases for: Mediator must conduct mediation",
+  "content": {
+    "aliases": [
+      "mediation",
+      "mediator"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.mediator_must_conduct_mediation"
+  ],
+  "search": {
+    "keywords": [
+      "mediator",
+      "conduct",
+      "mediation",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
+    "aliases": [
+      "mediation",
+      "mediator"
+    ],
+    "user_queries": [
+      "What is mediator must conduct mediation?",
+      "How does mediator must conduct mediation work?",
+      "Can you explain mediator must conduct mediation?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

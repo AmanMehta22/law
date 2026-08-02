@@ -12,13 +12,35 @@
     "CPA2019-CH6-S84-1",
     "evidence.design_specifications_testing_records"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.deviation_from_manufacturing_specifications_proof",
+    "alias.express_warranty_proof",
+    "alias.instructions_and_warning_proof",
+    "alias.manufacturer_must_provide_adequate_instructions_and_warnings",
+    "alias.proof_of_manufacturing_defect",
+    "alias.right_to_compensation",
+    "evidence.design_specifications_testing_records"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "design",
+      "defect",
+      "evidence",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "product",
+      "flaw"
+    ],
     "aliases": [
       "product design flaw"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is design defect evidence?",
+      "How does design defect evidence work?",
+      "Can you explain design defect evidence?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

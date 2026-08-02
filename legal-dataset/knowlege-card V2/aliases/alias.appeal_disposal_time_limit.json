@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.appeal_disposal_time_limit",
+  "concept_type": "alias",
+  "title": "Appeal disposal time limit",
+  "description": "Alternative names and search aliases for: Appeal disposal time limit",
+  "content": {
+    "aliases": [
+      "appeal decision timeline",
+      "appeal disposal deadline",
+      "appeal hearing period",
+      "appeal resolution timeframe"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "timeline.ninety_days"
+  ],
+  "search": {
+    "keywords": [
+      "appeal",
+      "disposal",
+      "time",
+      "limit",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "decision",
+      "timeline"
+    ],
+    "aliases": [
+      "appeal decision timeline",
+      "appeal disposal deadline",
+      "appeal hearing period",
+      "appeal resolution timeframe"
+    ],
+    "user_queries": [
+      "What is appeal disposal time limit?",
+      "How does appeal disposal time limit work?",
+      "Can you explain appeal disposal time limit?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

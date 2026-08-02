@@ -5,22 +5,47 @@
   "description": "Alternative names and search aliases for: National Commission Must Review Order",
   "content": {
     "aliases": [
-      "re-examine",
-      "reconsider"
+      "National Commission Review",
+      "NCDRC Review Order",
+      "Central Commission Mandatory Review",
+      "Mandatory Review by National Consumer Commission"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S60",
     "obligation.national_commission_shall_review_any_of_the_order_passed_by_"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_time_limit",
+    "alias.national_commission",
+    "alias.review_of_order",
+    "alias.right_to_review",
+    "authority.national_commission",
+    "intent.appeal_time_limit",
+    "intent.appeal_time_limit_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "national",
+      "commission",
+      "review",
+      "order",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "examine",
+      "reconsider"
+    ],
     "aliases": [
       "re-examine",
       "reconsider"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is national commission must review order?",
+      "How does national commission must review order work?",
+      "Can you explain national commission must review order?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

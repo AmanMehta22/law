@@ -5,20 +5,44 @@
   "description": "Alternative names and search aliases for: State Commission Or National Commission Must Impose Costs For Adjournment",
   "content": {
     "aliases": [
-      "costs for delay"
+      "costs for delay imposed by State or National Commission",
+      "State or National Commission costs for unnecessary adjournment"
     ]
   },
   "derived_from": [
     "CPA2019-CH8-S103-2",
     "obligation.state_commission_or_national_commission_must_impose_costs_fo"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.adjournment_cost_imposition_by_district_commission",
+    "alias.adjournment_cost_imposition_by_state_or_national_commission",
+    "alias.authority_must_provide_for_re_empanelment_of_mediators",
+    "alias.authority_must_set_qualifications_and_experience_for_empanelment_as_mediator",
+    "alias.conduct_of_mediation",
+    "alias.consumer_mediation_cell",
+    "alias.consumer_mediation_cell_must_maintain_information"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "state",
+      "commission",
+      "national",
+      "impose",
+      "costs",
+      "adjournment",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
     "aliases": [
       "costs for delay"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is state commission or national commission must impose costs for adjournment?",
+      "How does state commission or national commission must impose costs for adjournment work?",
+      "Can you explain state commission or national commission must impose costs for adjournment?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

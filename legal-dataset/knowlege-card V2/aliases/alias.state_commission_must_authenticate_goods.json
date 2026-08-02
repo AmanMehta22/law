@@ -13,14 +13,37 @@
     "CPA2019-CH8-S102-2",
     "obligation.state_commission_must_authenticate_goods_sampled"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.consumer_mediation_cell",
+    "alias.district_commission",
+    "alias.district_council",
+    "alias.government_must_make_rules",
+    "alias.state_commission",
+    "alias.state_commission_must_furnish_information",
+    "alias.state_council"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "state",
+      "commission",
+      "authenticate",
+      "goods",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "validation",
+      "verification"
+    ],
     "aliases": [
       "validation",
       "verification"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is state commission must authenticate goods?",
+      "How does state commission must authenticate goods work?",
+      "Can you explain state commission must authenticate goods?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

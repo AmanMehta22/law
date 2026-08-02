@@ -24,9 +24,28 @@
     "CPA2019-CH6-S86",
     "right.right_to_compensation"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.compensation_for_harm_caused",
+    "alias.district_commission",
+    "alias.filing_a_product_liability_action",
+    "alias.national_commission",
+    "alias.product_liability_action",
+    "alias.state_commission",
+    "authority.district_commission"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "right",
+      "compensation",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "rights",
+      "refund",
+      "reimbursement",
+      "claim"
+    ],
     "aliases": [
       "compensation rights",
       "refund rights",
@@ -37,7 +56,10 @@
       "right to remedy",
       "right to reparation"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is the punishment for cost of corrective advertisement?",
+      "What happens if I commit cost of corrective advertisement?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

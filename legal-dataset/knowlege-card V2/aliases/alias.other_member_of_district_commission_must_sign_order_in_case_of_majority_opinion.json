@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.other_member_of_district_commission_must_sign_order_in_case_of_majority_opinion",
+  "concept_type": "alias",
+  "title": "Other member of District Commission must sign order in case of majority opinion",
+  "description": "Alternative names and search aliases for: Other member of District Commission must sign order in case of majority opinion",
+  "content": {
+    "aliases": [
+      "district commission majority order signature",
+      "district commission order signing",
+      "majority decision signing"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.other_member_shall_sign_the_order"
+  ],
+  "search": {
+    "keywords": [
+      "other",
+      "member",
+      "district",
+      "commission",
+      "sign",
+      "order",
+      "case",
+      "majority",
+      "opinion",
+      "alternative"
+    ],
+    "aliases": [
+      "district commission majority order signature",
+      "district commission order signing",
+      "majority decision signing"
+    ],
+    "user_queries": [
+      "What is other member of district commission must sign order in case of majority opinion?",
+      "How does other member of district commission must sign order in case of majority opinion work?",
+      "Can you explain other member of district commission must sign order in case of majority opinion?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

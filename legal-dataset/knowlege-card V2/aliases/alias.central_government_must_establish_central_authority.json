@@ -5,20 +5,43 @@
   "description": "Alternative names and search aliases for: Central Government Must Establish Central Authority",
   "content": {
     "aliases": [
-      "Central Authority"
+      "CCPA Establishment",
+      "Central Authority Setup",
+      "Central Govt Authority Establishment"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S10-1",
     "obligation.central_government_shall_establish_a_central_consumer_protec"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_consumer_protection_authority",
+    "alias.central_government",
+    "authority.central_consumer_protection_authority",
+    "authority.central_government",
+    "intent.central_consumer_protection_authority",
+    "intent.central_consumer_protection_authority_2",
+    "intent.central_government"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "central",
+      "government",
+      "establish",
+      "authority",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
     "aliases": [
       "Central Authority"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central government must establish central authority?",
+      "How does central government must establish central authority work?",
+      "Can you explain central government must establish central authority?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

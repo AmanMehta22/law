@@ -5,7 +5,10 @@
   "description": "Alternative names and search aliases for: Regional Benches Establishment",
   "content": {
     "aliases": [
-      "State Consumer Commission"
+      "Regional Benches",
+      "State Commission Benches",
+      "Establishment of Benches",
+      "Regional Bench Establishment"
     ]
   },
   "derived_from": [
@@ -14,13 +17,36 @@
     "exception.the_central_government_may_establish_regional_benches_of_the",
     "exception.the_state_government_may_establish_regional_benches_of_the_s"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "exception.the_state_government_may_establish_regional_benches_of_the_s",
+    "intent.regional_benches_establishment",
+    "intent.regional_benches_establishment_3",
+    "intent.state_government_must_consult_state_commission",
+    "intent.state_government_must_notify_in_official_gazette",
+    "intent.territorial_jurisdiction_of_state_commission",
+    "jurisdiction.state_commission_state_capital_and_other_notified_places"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "regional",
+      "benches",
+      "establishment",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "state",
+      "consumer",
+      "commission"
+    ],
     "aliases": [
       "State Consumer Commission"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central government must establish regional benches by notification?",
+      "How does central government must establish regional benches by notification work?",
+      "Can you explain central government must establish regional benches by notification?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

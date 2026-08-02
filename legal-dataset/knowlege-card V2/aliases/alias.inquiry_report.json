@@ -1,0 +1,50 @@
+{
+  "concept_id": "alias.inquiry_report",
+  "concept_type": "alias",
+  "title": "Inquiry report",
+  "description": "Alternative names and search aliases for: Inquiry report",
+  "content": {
+    "aliases": [
+      "inquiry findings",
+      "investigation report",
+      "probe report"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "evidence.inquiry_report"
+  ],
+  "search": {
+    "keywords": [
+      "inquiry",
+      "report",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "findings",
+      "investigation",
+      "probe"
+    ],
+    "aliases": [
+      "inquiry findings",
+      "investigation report",
+      "probe report"
+    ],
+    "user_queries": [
+      "What is inquiry report?",
+      "How does inquiry report work?",
+      "Can you explain inquiry report?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

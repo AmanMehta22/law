@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.central_government_must_provide_opportunity_for_views",
+  "concept_type": "alias",
+  "title": "Central Government must provide opportunity for views",
+  "description": "Alternative names and search aliases for: Central Government must provide opportunity for views",
+  "content": {
+    "aliases": [
+      "central government public hearing",
+      "public consultation",
+      "stakeholder feedback opportunity"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.central_government_give_an_opportunity_to_express_views"
+  ],
+  "search": {
+    "keywords": [
+      "central",
+      "government",
+      "provide",
+      "opportunity",
+      "views",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "public"
+    ],
+    "aliases": [
+      "central government public hearing",
+      "public consultation",
+      "stakeholder feedback opportunity"
+    ],
+    "user_queries": [
+      "What is central government must provide opportunity for views?",
+      "How does central government must provide opportunity for views work?",
+      "Can you explain central government must provide opportunity for views?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -13,14 +13,37 @@
     "CPA2019-CH5-S74-4",
     "obligation.consumer_mediation_cell_must_maintain_a_list_of_empanelled_m"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.consumer_mediation_cell",
+    "authority.consumer_mediation_cell",
+    "evidence.record_of_proceeding",
+    "intent.consumer_mediation_cell",
+    "intent.consumer_mediation_cell_2",
+    "intent.consumer_mediation_cell_must_maintain_records",
+    "intent.consumer_mediation_cell_must_maintain_records_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "consumer",
+      "mediation",
+      "cell",
+      "maintain",
+      "records",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "cmc"
+    ],
     "aliases": [
       "cmc",
       "consumer mediation cell"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is consumer mediation cell must maintain records?",
+      "How does consumer mediation cell must maintain records work?",
+      "Can you explain consumer mediation cell must maintain records?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -19,9 +19,24 @@
     "CPA2019-CH1-S2-31",
     "definition.person"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "definition.person",
+    "intent.definition_of_person",
+    "intent.definition_of_person_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "definition",
+      "person",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "entity",
+      "individual",
+      "legal",
+      "natural"
+    ],
     "aliases": [
       "Entity",
       "Individual",
@@ -32,7 +47,11 @@
       "individual",
       "party"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is definition of person?",
+      "How does definition of person work?",
+      "Can you explain definition of person?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

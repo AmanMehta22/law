@@ -5,22 +5,46 @@
   "description": "Alternative names and search aliases for: District Commission Must Record Reasons For Adjournment",
   "content": {
     "aliases": [
-      "Consumer Forum",
-      "District Commission"
+      "recording reasons for delay",
+      "postponement justification",
+      "adjournment reasoning record"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-7",
     "obligation.district_commission_must_record_reasons_for_adjournment_in_w"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.adjournment_exception",
+    "alias.complaint_disposal",
+    "alias.district_commission",
+    "alias.district_commission_must_dispose_of_complaint_within_a_period",
+    "alias.district_commission_must_make_orders_for_costs_of_adjournment",
+    "alias.district_commission_must_not_grant_adjournment_without_sufficient_cause",
+    "alias.district_commission_must_record_reasons_for_delayed_disposal"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "district",
+      "commission",
+      "record",
+      "reasons",
+      "adjournment",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "consumer"
+    ],
     "aliases": [
       "Consumer Forum",
       "District Commission"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is adjournment exception?",
+      "How does adjournment exception work?",
+      "Can you explain adjournment exception?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

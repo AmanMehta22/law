@@ -5,22 +5,47 @@
   "description": "Alternative names and search aliases for: District Commission Must Review Order",
   "content": {
     "aliases": [
-      "re-examine",
-      "reconsider"
+      "review of order",
+      "district level review",
+      "mandatory review by DC",
+      "compulsory review by District Commission"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S40",
     "obligation.district_commission_shall_review_any_of_the_order_passed_by_"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_time_limit",
+    "alias.district_commission",
+    "alias.review_of_order",
+    "authority.district_commission",
+    "intent.appeal_time_limit",
+    "intent.appeal_time_limit_2",
+    "intent.district_commission"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "district",
+      "commission",
+      "review",
+      "order",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "examine",
+      "reconsider"
+    ],
     "aliases": [
       "re-examine",
       "reconsider"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is district commission must review order?",
+      "How does district commission must review order work?",
+      "Can you explain district commission must review order?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

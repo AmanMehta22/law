@@ -14,15 +14,38 @@
     "CPA2019-CH3-S16",
     "obligation.district_collector_inquire_into_or_investigate_complaints_an"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.commissioner_of_a_regional_office",
+    "alias.district_collector",
+    "alias.inquiry_or_investigation",
+    "authority.central_authority",
+    "authority.commissioner_of_a_regional_office",
+    "authority.district_collector"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "district",
+      "collector",
+      "inquire",
+      "report",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "central",
+      "authority"
+    ],
     "aliases": [
       "Central Authority",
       "Commissioner of a regional office",
       "District Collector"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is commissioner of a regional office?",
+      "How does commissioner of a regional office work?",
+      "Can you explain commissioner of a regional office?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

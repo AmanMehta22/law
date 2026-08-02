@@ -15,16 +15,38 @@
     "CPA2019-CH3-S27-2",
     "authority.parliament"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.government_must_lay_annual_report_before_parliament",
+    "authority.parliament",
+    "intent.government_must_lay_annual_report_before_parliament",
+    "intent.government_must_lay_annual_report_before_parliament_2",
+    "intent.parliament",
+    "intent.parliament_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "parliament",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "assembly",
+      "house",
+      "representatives",
+      "legislature",
+      "national"
+    ],
     "aliases": [
       "Assembly",
       "House of Representatives",
       "Legislature",
       "National Assembly"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is government must lay annual report before parliament?",
+      "How does government must lay annual report before parliament work?",
+      "Can you explain government must lay annual report before parliament?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -17,9 +17,28 @@
     "CPA2019-CH4-S70-1",
     "procedure.monitoring_performance_of_state_commissions"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.district_commission",
+    "alias.investigation_into_allegations_against_state_commission_members",
+    "alias.issuance_of_instructions_for_uniform_procedure",
+    "alias.national_commission",
+    "alias.national_commission_must_investigate_allegations_against_state_commission_member",
+    "alias.national_commission_must_issue_instructions_for_uniform_procedure"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "monitoring",
+      "performance",
+      "state",
+      "commissions",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "commission",
+      "oversight"
+    ],
     "aliases": [
       "commission",
       "monitoring",
@@ -28,7 +47,11 @@
       "state",
       "state commission"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is copies of documents?",
+      "How does copies of documents work?",
+      "Can you explain copies of documents?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

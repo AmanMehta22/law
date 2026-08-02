@@ -16,9 +16,28 @@
     "CPA2019-CH4-S72-3",
     "procedure.trial_of_offences"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.national_commission",
+    "alias.state_commission",
+    "authority.district_commission",
+    "authority.national_commission",
+    "authority.state_commission",
+    "exception.save_as_otherwise_provided"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "trial",
+      "offences",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "court",
+      "criminal",
+      "hearing",
+      "offence"
+    ],
     "aliases": [
       "Court trial for offences",
       "Criminal trial",
@@ -26,7 +45,11 @@
       "Offence trial",
       "Prosecution of offences"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is otherwise provided?",
+      "How does otherwise provided work?",
+      "Can you explain otherwise provided?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

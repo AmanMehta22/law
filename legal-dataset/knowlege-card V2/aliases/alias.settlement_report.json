@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.settlement_report",
+  "concept_type": "alias",
+  "title": "Settlement Report",
+  "description": "Alternative names and search aliases for: Settlement Report",
+  "content": {
+    "aliases": [
+      "agreement settlement",
+      "case settlement",
+      "dispute resolution report"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "evidence.settlement_agreement_settlement_report"
+  ],
+  "search": {
+    "keywords": [
+      "settlement",
+      "report",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "agreement",
+      "case",
+      "dispute",
+      "resolution"
+    ],
+    "aliases": [
+      "agreement settlement",
+      "case settlement",
+      "dispute resolution report"
+    ],
+    "user_queries": [
+      "What is settlement report?",
+      "How does settlement report work?",
+      "Can you explain settlement report?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

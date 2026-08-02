@@ -13,13 +13,35 @@
     "CPA2019-CH8-S106",
     "timeline.two_years"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.complaint_filing",
+    "alias.district_commission",
+    "alias.national_commission",
+    "alias.state_commission",
+    "alias.time_limit_for_filing_complaint",
+    "authority.district_commission",
+    "authority.national_commission"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "complaint",
+      "filing",
+      "time",
+      "limit",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "deadline"
+    ],
     "aliases": [
       "complaint deadline"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central government must make provisions to remove difficulties?",
+      "How does central government must make provisions to remove difficulties work?",
+      "Can you explain central government must make provisions to remove difficulties?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

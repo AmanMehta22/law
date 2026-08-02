@@ -16,9 +16,28 @@
     "CPA2019-CH5-S81-2",
     "procedure.partial_settlement_and_continued_hearing"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.national_commission",
+    "alias.state_commission",
+    "authority.district_commission",
+    "authority.national_commission",
+    "authority.state_commission",
+    "intent.district_commission"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "partial",
+      "settlement",
+      "continued",
+      "hearing",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "arbitration",
+      "dispute"
+    ],
     "aliases": [
       "arbitration",
       "dispute resolution",
@@ -26,7 +45,11 @@
       "mediation",
       "partial settlement"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is partial settlement and continued hearing?",
+      "How does partial settlement and continued hearing work?",
+      "Can you explain partial settlement and continued hearing?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

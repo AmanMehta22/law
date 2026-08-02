@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.proof_of_substantial_control",
+  "concept_type": "alias",
+  "title": "Proof of substantial control",
+  "description": "Alternative names and search aliases for: Proof of substantial control",
+  "content": {
+    "aliases": [
+      "control confirmation",
+      "dominant interest evidence",
+      "majority ownership proof"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "evidence.documents_showing_control_over_designing_testing_manufacturi"
+  ],
+  "search": {
+    "keywords": [
+      "proof",
+      "substantial",
+      "control",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "confirmation",
+      "dominant",
+      "interest"
+    ],
+    "aliases": [
+      "control confirmation",
+      "dominant interest evidence",
+      "majority ownership proof"
+    ],
+    "user_queries": [
+      "What is proof of substantial control?",
+      "How does proof of substantial control work?",
+      "Can you explain proof of substantial control?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

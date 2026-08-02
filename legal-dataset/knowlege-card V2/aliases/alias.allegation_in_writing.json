@@ -12,13 +12,34 @@
     "CPA2019-CH1-S2-6",
     "evidence.written_complaint"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.complaint_under_consumer_protection_act_2019",
+    "alias.relief",
+    "alias.right_to_relief",
+    "definition.complaint",
+    "evidence.written_complaint",
+    "intent.allegation_in_writing",
+    "intent.allegation_in_writing_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "allegation",
+      "writing",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "written",
+      "complaint"
+    ],
     "aliases": [
       "written complaint"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is allegation in writing?",
+      "How does allegation in writing work?",
+      "Can you explain allegation in writing?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

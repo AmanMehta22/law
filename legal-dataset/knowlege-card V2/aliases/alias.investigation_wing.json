@@ -14,15 +14,38 @@
     "CPA2019-CH3-S15-1",
     "authority.investigation_wing"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_authority_must_conduct_inquiry_or_investigation",
+    "alias.director_general",
+    "authority.central_authority",
+    "authority.director_general",
+    "authority.investigation_wing",
+    "intent.central_authority"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "investigation",
+      "wing",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "enforcement",
+      "investigating",
+      "agency",
+      "probe"
+    ],
     "aliases": [
       "Enforcement Wing",
       "Investigating Agency",
       "Probe Team"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central authority must conduct inquiry or investigation?",
+      "How does central authority must conduct inquiry or investigation work?",
+      "Can you explain central authority must conduct inquiry or investigation?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

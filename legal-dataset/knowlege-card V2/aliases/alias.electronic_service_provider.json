@@ -17,9 +17,24 @@
     "CPA2019-CH1-S2-17",
     "definition.electronic_service_provider"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "definition.electronic_service_provider",
+    "intent.electronic_service_provider",
+    "intent.electronic_service_provider_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "electronic",
+      "service",
+      "provider",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "digital",
+      "internet",
+      "online"
+    ],
     "aliases": [
       "Digital Service Provider",
       "E-Service Provider",
@@ -28,7 +43,11 @@
       "e-service provider",
       "online service provider"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is electronic service provider?",
+      "How does electronic service provider work?",
+      "Can you explain electronic service provider?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

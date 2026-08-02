@@ -13,14 +13,37 @@
     "CPA2019-CH4-S38-6",
     "exception.the_district_commission_may_allow_hearing_or_examination_of_"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.complaint_filing",
+    "alias.district_commission",
+    "authority.district_commission",
+    "evidence.affidavit",
+    "evidence.documentary_evidence",
+    "exception.the_district_commission_may_allow_hearing_or_examination_of_",
+    "intent.affidavit"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "hearing",
+      "through",
+      "affidavit",
+      "documentary",
+      "evidence",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "person"
+    ],
     "aliases": [
       "in-person hearing",
       "video conference hearing"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is affidavit?",
+      "How does affidavit work?",
+      "Can you explain affidavit?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

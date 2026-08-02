@@ -13,14 +13,37 @@
     "CPA2019-CH4-S48",
     "obligation.state_commission_may_transfer_any_complaint_pending_before_a"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.state_commission",
+    "authority.district_commission",
+    "authority.state_commission",
+    "intent.district_commission",
+    "intent.district_commission_2",
+    "intent.state_commission"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "state",
+      "commission",
+      "transfer",
+      "complaint",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "reassign",
+      "redistribute"
+    ],
     "aliases": [
       "reassign complaint",
       "redistribute case"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is state commission must transfer complaint?",
+      "How does state commission must transfer complaint work?",
+      "Can you explain state commission must transfer complaint?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -22,9 +22,28 @@
     "definition.mediation",
     "procedure.mediation"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "definition.mediation",
+    "intent.mediation",
+    "intent.mediation_2",
+    "alias.consumer_mediation_cell",
+    "alias.district_commission",
+    "alias.national_commission",
+    "alias.state_commission"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "mediation",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "adr",
+      "dispute",
+      "resolution",
+      "process",
+      "negotiation"
+    ],
     "aliases": [
       "ADR",
       "Alternative Dispute Resolution",
@@ -33,7 +52,11 @@
       "Negotiation",
       "alternative dispute resolution"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is district commission references mediation?",
+      "How does district commission references mediation work?",
+      "Can you explain district commission references mediation?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

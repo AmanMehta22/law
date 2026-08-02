@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.english_translation_of_judgments",
+  "concept_type": "alias",
+  "title": "English translation of judgments",
+  "description": "Alternative names and search aliases for: English translation of judgments",
+  "content": {
+    "aliases": [
+      "english version of verdicts",
+      "judgment translation",
+      "translated court decisions"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "evidence.english_translation_of_judgments"
+  ],
+  "search": {
+    "keywords": [
+      "english",
+      "translation",
+      "judgments",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "version",
+      "verdicts",
+      "judgment"
+    ],
+    "aliases": [
+      "english version of verdicts",
+      "judgment translation",
+      "translated court decisions"
+    ],
+    "user_queries": [
+      "What is english translation of judgments?",
+      "How does english translation of judgments work?",
+      "Can you explain english translation of judgments?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

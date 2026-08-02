@@ -15,16 +15,38 @@
     "CPA2019-CH8-S101-2",
     "procedure.furnishing_information"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_to_national_commission",
+    "alias.appeal_to_state_commission",
+    "alias.authentication_of_goods",
+    "alias.deposit_of_amount",
+    "alias.filing_complaint",
+    "alias.government_must_make_rules",
+    "alias.mediation"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "furnishing",
+      "information",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "disclosure",
+      "providing",
+      "submitting",
+      "details"
+    ],
     "aliases": [
       "disclosure of information",
       "information disclosure",
       "providing information",
       "submitting details"
     ],
-    "user_queries": []
+    "user_queries": [
+      "How do I file appeal to national commission?",
+      "What are the steps for appeal to national commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -14,13 +14,33 @@
     "exception.may_entertain_an_appeal_after_the_expiry_of_the_said_period_",
     "exception.state_commission_may_entertain_appeal_after_45_days"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.deposit_for_appeal",
+    "alias.filing_an_appeal_to_the_state_commission",
+    "alias.no_appeal_from_mediated_settlement",
+    "alias.proof_of_sufficient_cause",
+    "evidence.deposit_receipt",
+    "evidence.written_explanation",
+    "exception.no_appeal_from_order_under_section_81_1_pursuant_to_mediatio"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "delayed",
+      "appeal",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "late"
+    ],
     "aliases": [
       "late appeal"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is delayed appeal?",
+      "How does delayed appeal work?",
+      "Can you explain delayed appeal?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

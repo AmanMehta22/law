@@ -70,9 +70,28 @@
     "authority.state_commission",
     "definition.state_commission"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.member",
+    "alias.national_commission",
+    "authority.district_commission",
+    "authority.national_commission",
+    "authority.state_commission",
+    "definition.member"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "state",
+      "commission",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "scdrc",
+      "consumer",
+      "disputes",
+      "redressal"
+    ],
     "aliases": [
       "Commission of the State",
       "SCDRC",
@@ -81,7 +100,11 @@
       "State Consumer Forum",
       "State Tribunal"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is acknowledgment?",
+      "How does acknowledgment work?",
+      "Can you explain acknowledgment?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

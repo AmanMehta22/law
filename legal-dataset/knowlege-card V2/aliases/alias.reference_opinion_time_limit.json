@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.reference_opinion_time_limit",
+  "concept_type": "alias",
+  "title": "Reference opinion time limit",
+  "description": "Alternative names and search aliases for: Reference opinion time limit",
+  "content": {
+    "aliases": [
+      "expert reference timeframe",
+      "reference opinion deadline",
+      "reference opinion submission period",
+      "timeframe for reference opinion"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "timeline.two_months"
+  ],
+  "search": {
+    "keywords": [
+      "reference",
+      "opinion",
+      "time",
+      "limit",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "expert",
+      "timeframe"
+    ],
+    "aliases": [
+      "expert reference timeframe",
+      "reference opinion deadline",
+      "reference opinion submission period",
+      "timeframe for reference opinion"
+    ],
+    "user_queries": [
+      "What is reference opinion time limit?",
+      "How does reference opinion time limit work?",
+      "Can you explain reference opinion time limit?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

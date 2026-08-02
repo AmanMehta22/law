@@ -12,13 +12,34 @@
     "CPA2019-CH7-S93",
     "penalty.searching_or_seizing_without_reasonable_grounds"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.director_general",
+    "authority.director_general",
+    "intent.director_general",
+    "intent.director_general_2",
+    "intent.penalty_for_unauthorized_search_or_seizure",
+    "intent.penalty_for_unauthorized_search_or_seizure_3",
+    "intent.penalty_for_unauthorized_search_or_seizure_applies_to_unlawful_search_or_seizure"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "penalty",
+      "unauthorized",
+      "search",
+      "seizure",
+      "alternative",
+      "names",
+      "aliases",
+      "misconduct"
+    ],
     "aliases": [
       "penalty for misconduct"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is penalty for unauthorized search or seizure?",
+      "How does penalty for unauthorized search or seizure work?",
+      "Can you explain penalty for unauthorized search or seizure?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

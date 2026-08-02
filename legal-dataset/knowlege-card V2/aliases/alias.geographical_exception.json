@@ -12,13 +12,34 @@
     "CPA2019-CH1-S1-2",
     "exception.except_the_state_of_jammu_and_kashmir"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "exception.except_the_state_of_jammu_and_kashmir",
+    "intent.geographical_exception",
+    "intent.geographical_exception_2",
+    "intent.territorial_jurisdiction_of_the_act",
+    "jurisdiction.the_consumer_protection_act_2019_the_whole_of_india_except_the_state_of_jammu_an"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "geographical",
+      "exception",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "india",
+      "except",
+      "jammu",
+      "kashmir"
+    ],
     "aliases": [
       "India except Jammu and Kashmir"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is geographical exception?",
+      "How does geographical exception work?",
+      "Can you explain geographical exception?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

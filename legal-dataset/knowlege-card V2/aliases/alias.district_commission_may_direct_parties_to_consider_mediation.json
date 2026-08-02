@@ -12,13 +12,36 @@
     "CPA2019-CH4-S37-1",
     "obligation.district_commission_may_direct_parties_to_give_in_writing_co"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.mediation_direction",
+    "authority.district_commission",
+    "evidence.written_consent",
+    "exception.does_not_include_a_person_who_obtains_goods_for_resale_or_co",
+    "intent.consent_in_writing",
+    "intent.consumer_excludes_commercial_purpose"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "district",
+      "commission",
+      "direct",
+      "parties",
+      "consider",
+      "mediation",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
     "aliases": [
       "alternative dispute resolution"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is consent in writing?",
+      "How does consent in writing work?",
+      "Can you explain consent in writing?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

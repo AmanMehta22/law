@@ -12,13 +12,36 @@
     "CPA2019-CH4-S73-1",
     "jurisdiction.district_commission_state_commission_national_commission_supreme_court_no_pecuni"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.filing_an_appeal",
+    "alias.national_commission",
+    "alias.right_to_appeal",
+    "alias.state_commission",
+    "alias.supreme_court",
+    "authority.district_commission"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "territorial",
+      "jurisdiction",
+      "appellate",
+      "authorities",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "hierarchy",
+      "appeal"
+    ],
     "aliases": [
       "hierarchy of appeal"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is filing an appeal handled by district commission?",
+      "How does filing an appeal handled by district commission work?",
+      "Can you explain filing an appeal handled by district commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

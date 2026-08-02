@@ -12,13 +12,36 @@
     "CPA2019-CH2-S4-1",
     "obligation.central_council_must_meet_at_least_once_a_year"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_council",
+    "authority.central_council",
+    "intent.central_council",
+    "intent.central_council_2",
+    "intent.central_council_must_meet_annually",
+    "intent.central_council_must_meet_annually_2",
+    "intent.meeting_time_limit"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "central",
+      "council",
+      "meet",
+      "annually",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "annual",
+      "meeting"
+    ],
     "aliases": [
       "annual meeting"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central council must meet annually?",
+      "How does central council must meet annually work?",
+      "Can you explain central council must meet annually?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

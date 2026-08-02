@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.central_government_must_make_rules_for_national_commission_service_terms",
+  "concept_type": "alias",
+  "title": "Central Government must make rules for National Commission service terms",
+  "description": "Alternative names and search aliases for: Central Government must make rules for National Commission service terms",
+  "content": {
+    "aliases": [
+      "central government rulemaking for national commission",
+      "national commission service terms",
+      "national commission staff regulations"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.central_government_must_make_rules_for_qualifications_appoin"
+  ],
+  "search": {
+    "keywords": [
+      "central",
+      "government",
+      "make",
+      "rules",
+      "national",
+      "commission",
+      "service",
+      "terms",
+      "alternative",
+      "names"
+    ],
+    "aliases": [
+      "central government rulemaking for national commission",
+      "national commission service terms",
+      "national commission staff regulations"
+    ],
+    "user_queries": [
+      "What is central government must make rules for national commission service terms?",
+      "How does central government must make rules for national commission service terms work?",
+      "Can you explain central government must make rules for national commission service terms?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

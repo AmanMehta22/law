@@ -19,9 +19,24 @@
     "CPA2019-CH1-S2-36",
     "definition.product_manufacturer"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "definition.product_manufacturer",
+    "intent.product_manufacturer",
+    "intent.product_manufacturer_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "product",
+      "manufacturer",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "article",
+      "producer",
+      "commodity",
+      "goods"
+    ],
     "aliases": [
       "Article Producer",
       "Commodity Producer",
@@ -32,7 +47,11 @@
       "product maker",
       "product seller"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is product manufacturer?",
+      "How does product manufacturer work?",
+      "Can you explain product manufacturer?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

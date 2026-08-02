@@ -18,15 +18,37 @@
     "CPA2019-CH8-S102-2",
     "authority.district_council"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "authority.district_council",
+    "intent.district_commission_references_district_council",
+    "intent.district_council",
+    "intent.district_council_2",
+    "intent.district_council_composition",
+    "relationship.alias_district_commission_references_alias_district_council",
+    "intent.district_council_must_meet_regularly"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "district",
+      "council",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "board",
+      "local",
+      "municipal"
+    ],
     "aliases": [
       "District Board",
       "Local Council",
       "Municipal Council"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is district commission references district council?",
+      "How does district commission references district council work?",
+      "Can you explain district commission references district council?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

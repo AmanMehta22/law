@@ -16,9 +16,28 @@
     "CPA2019-CH1-S2-46",
     "definition.unfair_contract"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.party_to_the_contract_must_accept_early_repayment_of_debts",
+    "alias.party_to_the_contract_must_not_assign_contract_unilaterally_without_consumer_con",
+    "alias.party_to_the_contract_must_not_impose_disproportionate_penalties",
+    "alias.party_to_the_contract_must_not_impose_unreasonable_charges_or_conditions",
+    "alias.party_to_the_contract_must_not_require_excessive_security_deposits",
+    "alias.party_to_the_contract_must_not_terminate_contract_unilaterally_without_reasonabl",
+    "alias.right_to_fair_contract_terms"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "unfair",
+      "contract",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "abusive",
+      "one",
+      "sided",
+      "unconscionable"
+    ],
     "aliases": [
       "Abusive Contract",
       "One-Sided Contract",
@@ -26,7 +45,11 @@
       "one-sided contract",
       "unconscionable contract"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is unfair contract?",
+      "How does unfair contract work?",
+      "Can you explain unfair contract?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

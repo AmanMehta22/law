@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.laying_of_rules_and_regulations_before_parliament",
+  "concept_type": "alias",
+  "title": "Laying of rules and regulations before Parliament",
+  "description": "Alternative names and search aliases for: Laying of rules and regulations before Parliament",
+  "content": {
+    "aliases": [
+      "legislative scrutiny of regulations",
+      "parliamentary approval of rules",
+      "rules and regulations submission to parliament"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.authority_making_rules_and_regulations_must_lay_rules_and_re"
+  ],
+  "search": {
+    "keywords": [
+      "laying",
+      "rules",
+      "regulations",
+      "before",
+      "parliament",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "legislative"
+    ],
+    "aliases": [
+      "legislative scrutiny of regulations",
+      "parliamentary approval of rules",
+      "rules and regulations submission to parliament"
+    ],
+    "user_queries": [
+      "What is laying of rules and regulations before parliament?",
+      "How does laying of rules and regulations before parliament work?",
+      "Can you explain laying of rules and regulations before parliament?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

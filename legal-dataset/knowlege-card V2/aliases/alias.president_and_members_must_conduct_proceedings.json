@@ -13,14 +13,37 @@
     "CPA2019-CH4-S36-1",
     "obligation.president_and_members_of_the_district_commission_must_conduc"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.conduct_of_proceeding_before_district_commission",
+    "alias.district_commission",
+    "authority.district_commission",
+    "intent.conduct_of_proceeding_before_district_commission",
+    "intent.conduct_of_proceeding_before_district_commission_2",
+    "intent.conduct_of_proceeding_before_district_commission_handled_by_commission",
+    "intent.conduct_of_proceeding_before_district_commission_handled_by_district_commission"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "president",
+      "members",
+      "conduct",
+      "proceedings",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "hearing",
+      "trial"
+    ],
     "aliases": [
       "hearing",
       "trial"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is conduct of proceeding before district commission?",
+      "How does conduct of proceeding before district commission work?",
+      "Can you explain conduct of proceeding before district commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -19,15 +19,37 @@
     "CPA2019-CH8-S102-2",
     "authority.state_council"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.state_government",
+    "alias.state_government_must_establish_state_council",
+    "authority.state_council",
+    "authority.state_government",
+    "intent.state_council",
+    "intent.state_council_2",
+    "intent.state_government"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "state",
+      "council",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "advisory",
+      "consumer",
+      "protection"
+    ],
     "aliases": [
       "State Advisory Council",
       "State Consumer Council",
       "State Consumer Protection Council"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is district commission references central government?",
+      "How does district commission references central government work?",
+      "Can you explain district commission references central government?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

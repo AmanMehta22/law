@@ -13,14 +13,37 @@
     "CPA2019-CH4-S28-3",
     "obligation.district_commission_shall_function_in_district_headquarters"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.state_commission",
+    "alias.state_government",
+    "authority.district_commission",
+    "authority.state_commission",
+    "authority.state_government",
+    "intent.district_commission"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "district",
+      "commission",
+      "function",
+      "headquarters",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "operate",
+      "perform"
+    ],
     "aliases": [
       "operate",
       "perform functions"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is district commission must function in district headquarters?",
+      "How does district commission must function in district headquarters work?",
+      "Can you explain district commission must function in district headquarters?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -19,9 +19,28 @@
     "CPA2019-CH1-S2-32",
     "definition.prescribed"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.state_government",
+    "authority.central_government",
+    "authority.state_government",
+    "definition.prescribed",
+    "intent.central_government",
+    "intent.central_government_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "prescribed",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "mandated",
+      "regulated",
+      "required",
+      "specified",
+      "stipulated"
+    ],
     "aliases": [
       "Mandated",
       "Regulated",
@@ -32,7 +51,11 @@
       "officially stated",
       "required by law"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is prescribed?",
+      "How does prescribed work?",
+      "Can you explain prescribed?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

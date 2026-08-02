@@ -17,15 +17,36 @@
     "CPA2019-CH8-S95",
     "authority.joint_director"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.additional_director_general",
+    "alias.assistant_director",
+    "alias.central_government",
+    "alias.central_government_must_appoint_officers_in_a_prescribed_manner",
+    "alias.deputy_director",
+    "alias.director",
+    "alias.director_general"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "joint",
+      "director",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "additional",
+      "head"
+    ],
     "aliases": [
       "Additional Director",
       "JD",
       "Joint Head"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is control and supervision exception?",
+      "How does control and supervision exception work?",
+      "Can you explain control and supervision exception?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

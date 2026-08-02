@@ -5,20 +5,46 @@
   "description": "Alternative names and search aliases for: Chief Commissioner Must Exercise General Superintendence",
   "content": {
     "aliases": [
-      "administrative matters"
+      "General Supervision",
+      "Overall Supervision",
+      "Administrative Oversight",
+      "Regulatory Supervision"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S14-2",
     "obligation.chief_commissioner_shall_have_powers_of_general_superintende"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.chief_commissioner",
+    "alias.commissioner",
+    "alias.delegation_of_powers",
+    "authority.central_authority",
+    "authority.chief_commissioner",
+    "authority.commissioner"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "chief",
+      "commissioner",
+      "exercise",
+      "general",
+      "superintendence",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "administrative"
+    ],
     "aliases": [
       "administrative matters"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is chief commissioner must exercise general superintendence?",
+      "How does chief commissioner must exercise general superintendence work?",
+      "Can you explain chief commissioner must exercise general superintendence?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

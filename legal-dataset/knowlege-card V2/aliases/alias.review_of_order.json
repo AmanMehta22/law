@@ -18,9 +18,28 @@
     "CPA2019-CH4-S60",
     "procedure.review_of_order"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_time_limit",
+    "alias.district_commission",
+    "alias.district_commission_must_review_order",
+    "authority.district_commission",
+    "intent.appeal_time_limit",
+    "intent.appeal_time_limit_2",
+    "intent.district_commission"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "review",
+      "order",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "appeal",
+      "assessment",
+      "examination",
+      "examining"
+    ],
     "aliases": [
       "appeal of order",
       "order assessment",
@@ -28,7 +47,11 @@
       "re-examining an order",
       "review of decision"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is district commission must review order?",
+      "How does district commission must review order work?",
+      "Can you explain district commission must review order?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

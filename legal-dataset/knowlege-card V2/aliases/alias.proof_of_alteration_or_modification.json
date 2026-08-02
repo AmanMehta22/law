@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.proof_of_alteration_or_modification",
+  "concept_type": "alias",
+  "title": "Proof of alteration or modification",
+  "description": "Alternative names and search aliases for: Proof of alteration or modification",
+  "content": {
+    "aliases": [
+      "alteration record",
+      "evidence of change",
+      "modification proof"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "evidence.records_of_alteration_or_modification"
+  ],
+  "search": {
+    "keywords": [
+      "proof",
+      "alteration",
+      "modification",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "record",
+      "evidence",
+      "change"
+    ],
+    "aliases": [
+      "alteration record",
+      "evidence of change",
+      "modification proof"
+    ],
+    "user_queries": [
+      "What is proof of alteration or modification?",
+      "How does proof of alteration or modification work?",
+      "Can you explain proof of alteration or modification?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -15,16 +15,39 @@
     "CPA2019-CH5-S81-3",
     "procedure.hearing_of_consumer_dispute"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.commission_must_hear_consumer_dispute",
+    "alias.district_commission",
+    "alias.national_commission",
+    "alias.state_commission",
+    "authority.district_commission",
+    "authority.national_commission",
+    "authority.state_commission"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "hearing",
+      "consumer",
+      "dispute",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "case",
+      "resolution",
+      "complaint"
+    ],
     "aliases": [
       "consumer case hearing",
       "consumer dispute hearing",
       "dispute resolution hearing",
       "hearing of consumer complaint"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is commission must hear consumer dispute?",
+      "How does commission must hear consumer dispute work?",
+      "Can you explain commission must hear consumer dispute?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

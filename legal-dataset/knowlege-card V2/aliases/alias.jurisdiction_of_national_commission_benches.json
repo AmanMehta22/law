@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.jurisdiction_of_national_commission_benches",
+  "concept_type": "alias",
+  "title": "Jurisdiction of National Commission Benches",
+  "description": "Alternative names and search aliases for: Jurisdiction of National Commission Benches",
+  "content": {
+    "aliases": [
+      "national commission bench authority",
+      "national commission court jurisdiction",
+      "national commission tribunal scope",
+      "national consumer commission benches jurisdiction"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "jurisdiction.national_commission_benches"
+  ],
+  "search": {
+    "keywords": [
+      "jurisdiction",
+      "national",
+      "commission",
+      "benches",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "bench",
+      "authority"
+    ],
+    "aliases": [
+      "national commission bench authority",
+      "national commission court jurisdiction",
+      "national commission tribunal scope",
+      "national consumer commission benches jurisdiction"
+    ],
+    "user_queries": [
+      "What is jurisdiction of national commission benches?",
+      "How does jurisdiction of national commission benches work?",
+      "Can you explain jurisdiction of national commission benches?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

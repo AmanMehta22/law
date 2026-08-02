@@ -12,13 +12,36 @@
     "CPA2019-CH4-S38-9",
     "obligation.district_commission_shall_have_the_same_powers_as_are_vested"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.discovery_and_production_of_evidence",
+    "alias.district_commission",
+    "alias.issuing_of_commissions",
+    "alias.receiving_evidence_on_affidavits",
+    "alias.requisitioning_of_report",
+    "alias.summoning_and_enforcing_attendance"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "district",
+      "commission",
+      "exercise",
+      "powers",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "consumer",
+      "court"
+    ],
     "aliases": [
       "consumer court"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is discovery and production of evidence?",
+      "How does discovery and production of evidence work?",
+      "Can you explain discovery and production of evidence?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

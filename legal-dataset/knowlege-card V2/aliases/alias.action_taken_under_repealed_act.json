@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.action_taken_under_repealed_act",
+  "concept_type": "alias",
+  "title": "Action taken under repealed Act",
+  "description": "Alternative names and search aliases for: Action taken under repealed Act",
+  "content": {
+    "aliases": [
+      "obsolete law application",
+      "prior law action",
+      "repealed law action",
+      "superseded law effect"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "exception.shall_be_deemed_to_have_been_done_or_taken_under_the_corresp"
+  ],
+  "search": {
+    "keywords": [
+      "action",
+      "taken",
+      "repealed",
+      "act",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "obsolete",
+      "law"
+    ],
+    "aliases": [
+      "obsolete law application",
+      "prior law action",
+      "repealed law action",
+      "superseded law effect"
+    ],
+    "user_queries": [
+      "What is action taken under repealed act?",
+      "How does action taken under repealed act work?",
+      "Can you explain action taken under repealed act?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

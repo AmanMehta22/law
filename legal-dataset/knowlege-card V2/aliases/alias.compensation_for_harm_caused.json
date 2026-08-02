@@ -17,14 +17,36 @@
     "CPA2019-CH6-S86",
     "remedy.compensation"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.product_liability",
+    "alias.product_manufacturer_or_seller_must_compensate_for_harm",
+    "definition.product_liability",
+    "intent.compensation_for_harm_caused",
+    "intent.compensation_for_harm_caused_3",
+    "intent.product_liability",
+    "intent.product_liability_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "compensation",
+      "harm",
+      "caused",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "damages",
+      "reparation"
+    ],
     "aliases": [
       "damages",
       "reparation"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is compensation for harm caused?",
+      "How does compensation for harm caused work?",
+      "Can you explain compensation for harm caused?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

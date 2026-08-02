@@ -12,13 +12,35 @@
     "CPA2019-CH3-S12",
     "exception.no_act_or_proceeding_of_the_central_authority_shall_be_inval"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "authority.central_authority",
+    "exception.no_act_or_proceeding_of_the_central_authority_shall_be_inval",
+    "intent.central_authority",
+    "intent.central_authority_2",
+    "intent.invalidation_of_central_authority_acts",
+    "intent.invalidation_of_central_authority_acts_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "invalidation",
+      "central",
+      "authority",
+      "acts",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "validity"
+    ],
     "aliases": [
       "validity of acts"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is invalidation of central authority acts?",
+      "How does invalidation of central authority acts work?",
+      "Can you explain invalidation of central authority acts?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -13,14 +13,37 @@
     "CPA2019-CH5-S74-3",
     "obligation.government_must_prescribe_persons_for_consumer_mediation_cel"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.consumer_mediation_cell",
+    "authority.consumer_mediation_cell",
+    "intent.consumer_mediation_cell",
+    "intent.consumer_mediation_cell_2",
+    "intent.district_commission_references_consumer_mediation_cell",
+    "intent.government_must_prescribe_persons_for_consumer_mediation_cell",
+    "intent.government_must_prescribe_persons_for_consumer_mediation_cell_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "government",
+      "prescribe",
+      "persons",
+      "consumer",
+      "mediation",
+      "cell",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
     "aliases": [
       "define composition",
       "specify members"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is district commission references consumer mediation cell?",
+      "How does district commission references consumer mediation cell work?",
+      "Can you explain district commission references consumer mediation cell?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.state_commission_or_national_commission_must_make_orders_on_costs_of_adjournment",
+  "concept_type": "alias",
+  "title": "State Commission or National Commission must make orders on costs of adjournment",
+  "description": "Alternative names and search aliases for: State Commission or National Commission must make orders on costs of adjournment",
+  "content": {
+    "aliases": [
+      "adjournment cost orders",
+      "adjournment fees",
+      "costs of adjournment"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.state_commission_or_national_commission_must_make_orders_on_"
+  ],
+  "search": {
+    "keywords": [
+      "state",
+      "commission",
+      "national",
+      "make",
+      "orders",
+      "costs",
+      "adjournment",
+      "alternative",
+      "names",
+      "search"
+    ],
+    "aliases": [
+      "adjournment cost orders",
+      "adjournment fees",
+      "costs of adjournment"
+    ],
+    "user_queries": [
+      "What is state commission or national commission must make orders on costs of adjournment?",
+      "How does state commission or national commission must make orders on costs of adjournment work?",
+      "Can you explain state commission or national commission must make orders on costs of adjournment?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

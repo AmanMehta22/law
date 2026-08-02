@@ -13,14 +13,37 @@
     "CPA2019-CH3-S25",
     "obligation.central_government_make_grants_of_money_to_the_central_autho"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_government",
+    "authority.central_authority",
+    "authority.central_government",
+    "intent.central_authority",
+    "intent.central_authority_2",
+    "intent.central_government"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "central",
+      "government",
+      "make",
+      "grants",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "allocation",
+      "funds"
+    ],
     "aliases": [
       "allocation of funds",
       "financial support"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central government must make grants?",
+      "How does central government must make grants work?",
+      "Can you explain central government must make grants?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

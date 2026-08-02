@@ -15,16 +15,38 @@
     "CPA2019-CH3-S20",
     "right.right_to_reimbursement"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.discontinuation_of_unfair_practices",
+    "alias.investigation_and_order_passing",
+    "alias.opportunity_of_being_heard",
+    "alias.recall_of_goods_or_withdrawal_of_services",
+    "alias.reimbursement_of_prices",
+    "authority.central_authority"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "right",
+      "reimbursement",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "consumer",
+      "rights",
+      "refund"
+    ],
     "aliases": [
       "consumer reimbursement",
       "reimbursement rights",
       "right to refund",
       "right to reimbursement"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central authority must give opportunity of being heard?",
+      "How does central authority must give opportunity of being heard work?",
+      "Can you explain central authority must give opportunity of being heard?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

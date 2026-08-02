@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.court_must_grant_leave",
+  "concept_type": "alias",
+  "title": "Court must grant leave",
+  "description": "Alternative names and search aliases for: Court must grant leave",
+  "content": {
+    "aliases": [
+      "court permission to proceed",
+      "judicial leave",
+      "leave to appeal",
+      "permission to proceed from court"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.court_must_grant_leave_for_compounding_of_offence"
+  ],
+  "search": {
+    "keywords": [
+      "court",
+      "grant",
+      "leave",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "permission",
+      "proceed",
+      "judicial"
+    ],
+    "aliases": [
+      "court permission to proceed",
+      "judicial leave",
+      "leave to appeal",
+      "permission to proceed from court"
+    ],
+    "user_queries": [
+      "What is court must grant leave?",
+      "How does court must grant leave work?",
+      "Can you explain court must grant leave?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

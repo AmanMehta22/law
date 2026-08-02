@@ -15,15 +15,37 @@
     "CPA2019-CH3-S10-1",
     "authority.central_consumer_protection_authority"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "authority.central_consumer_protection_authority",
+    "definition.central_authority",
+    "intent.central_authority",
+    "intent.central_authority_3",
+    "intent.central_consumer_protection_authority",
+    "intent.central_consumer_protection_authority_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "central",
+      "consumer",
+      "protection",
+      "authority",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "ccpa"
+    ],
     "aliases": [
       "CCPA",
       "Central Authority",
       "Consumer Protection Authority"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is the Central Authority under the Consumer Protection Act",
+      "Who is responsible for enforcing consumer protection laws in India",
+      "What is the role of the Central Consumer Protection Authority"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

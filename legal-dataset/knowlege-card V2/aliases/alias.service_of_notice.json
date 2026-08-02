@@ -19,9 +19,28 @@
     "CPA2019-CH4-S65-3",
     "procedure.service_of_notice"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.national_commission",
+    "alias.serving_notices",
+    "alias.state_commission",
+    "authority.district_commission",
+    "authority.national_commission",
+    "authority.state_commission"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "service",
+      "notice",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "delivery",
+      "issuance",
+      "serving",
+      "notification"
+    ],
     "aliases": [
       "Delivery of notice",
       "Issuance of notice",
@@ -31,7 +50,11 @@
       "giving notice",
       "serving a notice"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is acknowledgment?",
+      "How does acknowledgment work?",
+      "Can you explain acknowledgment?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

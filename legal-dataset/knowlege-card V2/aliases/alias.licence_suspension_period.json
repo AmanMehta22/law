@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.licence_suspension_period",
+  "concept_type": "alias",
+  "title": "Licence suspension period",
+  "description": "Alternative names and search aliases for: Licence suspension period",
+  "content": {
+    "aliases": [
+      "licence suspension deadline",
+      "licence suspension timeframe",
+      "period of licence suspension",
+      "suspension duration"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "timeline.up_to_two_years"
+  ],
+  "search": {
+    "keywords": [
+      "licence",
+      "suspension",
+      "period",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "deadline",
+      "timeframe",
+      "duration"
+    ],
+    "aliases": [
+      "licence suspension deadline",
+      "licence suspension timeframe",
+      "period of licence suspension",
+      "suspension duration"
+    ],
+    "user_queries": [
+      "What is licence suspension period?",
+      "How does licence suspension period work?",
+      "Can you explain licence suspension period?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

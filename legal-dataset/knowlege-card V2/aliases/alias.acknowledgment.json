@@ -12,13 +12,33 @@
     "CPA2019-CH4-S65-3",
     "evidence.acknowledgment_receipt"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_time_limit",
+    "alias.district_commission",
+    "alias.national_commission",
+    "alias.notice_served_by_registered_post",
+    "alias.service_of_notice",
+    "alias.state_commission",
+    "authority.district_commission"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "acknowledgment",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "proof",
+      "service"
+    ],
     "aliases": [
       "proof of service"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is acknowledgment?",
+      "How does acknowledgment work?",
+      "Can you explain acknowledgment?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

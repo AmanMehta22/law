@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.central_authority_must_obtain_approval",
+  "concept_type": "alias",
+  "title": "Central Authority must obtain approval",
+  "description": "Alternative names and search aliases for: Central Authority must obtain approval",
+  "content": {
+    "aliases": [
+      "approval for central authority actions",
+      "central authority approval requirement",
+      "prior approval for central authority"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.central_authority_must_obtain_previous_approval_of_the_centr"
+  ],
+  "search": {
+    "keywords": [
+      "central",
+      "authority",
+      "obtain",
+      "approval",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "actions",
+      "requirement"
+    ],
+    "aliases": [
+      "approval for central authority actions",
+      "central authority approval requirement",
+      "prior approval for central authority"
+    ],
+    "user_queries": [
+      "What is central authority must obtain approval?",
+      "How does central authority must obtain approval work?",
+      "Can you explain central authority must obtain approval?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

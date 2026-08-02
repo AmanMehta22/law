@@ -17,9 +17,23 @@
     "CPA2019-CH1-S2-18",
     "definition.endorsement"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "definition.endorsement",
+    "intent.endorsement",
+    "intent.endorsement_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "endorsement",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "approval",
+      "celebrity",
+      "recommendation",
+      "testimonial"
+    ],
     "aliases": [
       "Approval",
       "Celebrity Endorsement",
@@ -28,7 +42,11 @@
       "recommendation",
       "testimonial"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is endorsement?",
+      "How does endorsement work?",
+      "Can you explain endorsement?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

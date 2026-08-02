@@ -13,14 +13,37 @@
     "CPA2019-CH3-S15-5",
     "obligation.director_general_must_submit_inquiries_or_investigations"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.director_general",
+    "authority.central_authority",
+    "authority.director_general",
+    "intent.central_authority",
+    "intent.central_authority_2",
+    "intent.director_general"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "director",
+      "general",
+      "submit",
+      "inquiries",
+      "investigations",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "report"
+    ],
     "aliases": [
       "report",
       "submission"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is director-general must submit inquiries or investigations?",
+      "How does director-general must submit inquiries or investigations work?",
+      "Can you explain director-general must submit inquiries or investigations?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

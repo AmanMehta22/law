@@ -12,13 +12,36 @@
     "CPA2019-CH4-S49-2",
     "remedy.declaration_of_unfair_contract_terms_as_null_and_void"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.right_to_protection_from_unfair_contract_terms",
+    "alias.state_commission",
+    "alias.state_commission_may_declare_unfair_contract_terms_null_and_void",
+    "authority.state_commission",
+    "intent.declaration_of_unfair_contract_terms_as_null_and_void",
+    "intent.declaration_of_unfair_contract_terms_as_null_and_void_2",
+    "intent.right_to_protection_from_unfair_contract_terms"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "declaration",
+      "unfair",
+      "contract",
+      "terms",
+      "null",
+      "void",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
     "aliases": [
       "declaration of invalid contract terms"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is declaration of unfair contract terms as null and void?",
+      "How does declaration of unfair contract terms as null and void work?",
+      "Can you explain declaration of unfair contract terms as null and void?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -5,20 +5,44 @@
   "description": "Alternative names and search aliases for: Delegation Of Powers",
   "content": {
     "aliases": [
-      "administrative matters"
+      "Section 101",
+      "Power Delegation",
+      "Sub-delegation of Powers",
+      "Powers Delegated"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S14-2",
     "exception.the_chief_commissioner_may_delegate_such_powers_to_any_commi"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.chief_commissioner",
+    "alias.chief_commissioner_must_exercise_general_superintendence",
+    "alias.commissioner",
+    "authority.central_authority",
+    "authority.chief_commissioner",
+    "authority.commissioner"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "delegation",
+      "powers",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "administrative",
+      "matters"
+    ],
     "aliases": [
       "administrative matters"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is chief commissioner must exercise general superintendence?",
+      "How does chief commissioner must exercise general superintendence work?",
+      "Can you explain chief commissioner must exercise general superintendence?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

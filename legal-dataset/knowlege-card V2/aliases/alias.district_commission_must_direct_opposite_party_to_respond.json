@@ -12,13 +12,36 @@
     "CPA2019-CH4-S38-3",
     "obligation.district_commission_must_direct_the_opposite_party_to_give_t"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_time_limit",
+    "alias.complaint_handling_by_district_commission",
+    "alias.district_commission",
+    "alias.district_commission_must_decide_complaint_on_merits",
+    "alias.district_commission_must_refer_complaint",
+    "alias.district_commission_must_settle_consumer_dispute",
+    "alias.opposite_party_must_respond_to_complaint"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "district",
+      "commission",
+      "direct",
+      "opposite",
+      "party",
+      "respond",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
     "aliases": [
       "time limit for response"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is complaint handling by district commission?",
+      "How does complaint handling by district commission work?",
+      "Can you explain complaint handling by district commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

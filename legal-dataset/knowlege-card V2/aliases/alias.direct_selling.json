@@ -17,9 +17,24 @@
     "CPA2019-CH1-S2-13",
     "definition.direct_selling"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "definition.direct_selling",
+    "intent.direct_selling",
+    "intent.direct_selling_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "direct",
+      "selling",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "door",
+      "sales",
+      "multi",
+      "level"
+    ],
     "aliases": [
       "Door-to-Door Sales",
       "Multi-Level Marketing",
@@ -28,7 +43,11 @@
       "multi-level marketing",
       "network selling"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is direct selling?",
+      "How does direct selling work?",
+      "Can you explain direct selling?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.meeting_time_limit",
+  "concept_type": "alias",
+  "title": "Meeting time limit",
+  "description": "Alternative names and search aliases for: Meeting time limit",
+  "content": {
+    "aliases": [
+      "conference time frame",
+      "gathering timeline",
+      "hearing schedule",
+      "meeting deadline"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "timeline.every_year"
+  ],
+  "search": {
+    "keywords": [
+      "meeting",
+      "time",
+      "limit",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "conference",
+      "frame",
+      "gathering"
+    ],
+    "aliases": [
+      "conference time frame",
+      "gathering timeline",
+      "hearing schedule",
+      "meeting deadline"
+    ],
+    "user_queries": [
+      "What is meeting time limit?",
+      "How does meeting time limit work?",
+      "Can you explain meeting time limit?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

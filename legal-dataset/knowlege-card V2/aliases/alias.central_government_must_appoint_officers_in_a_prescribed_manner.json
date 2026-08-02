@@ -13,14 +13,37 @@
     "CPA2019-CH3-S15-2",
     "obligation.central_government_must_appoint_director_general_and_other_o"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.additional_director_general",
+    "alias.assistant_director",
+    "alias.central_government",
+    "alias.deputy_director",
+    "alias.director",
+    "alias.director_general",
+    "alias.joint_director"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "central",
+      "government",
+      "appoint",
+      "officers",
+      "prescribed",
+      "manner",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
     "aliases": [
       "Central Government",
       "Government"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is additional director-general?",
+      "How does additional director-general work?",
+      "Can you explain additional director-general?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

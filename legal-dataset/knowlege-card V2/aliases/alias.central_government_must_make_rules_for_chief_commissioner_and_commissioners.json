@@ -5,20 +5,46 @@
   "description": "Alternative names and search aliases for: Central Government Must Make Rules For Chief Commissioner And Commissioners",
   "content": {
     "aliases": [
-      "Central Authority"
+      "Central Govt Rules",
+      "CG Rules for Chief Commissioner",
+      "Union Government Regulations for Commissioners",
+      "Federal Rules for Chief and Commissioners"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S11",
     "obligation.central_government_make_rules_for_the_qualifications_appoint"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_government",
+    "authority.central_authority",
+    "authority.central_government",
+    "intent.central_authority",
+    "intent.central_authority_2",
+    "intent.central_government"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "central",
+      "government",
+      "make",
+      "rules",
+      "chief",
+      "commissioner",
+      "commissioners",
+      "alternative",
+      "names",
+      "search"
+    ],
     "aliases": [
       "Central Authority"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central government must make rules for chief commissioner and commissioners?",
+      "How does central government must make rules for chief commissioner and commissioners work?",
+      "Can you explain central government must make rules for chief commissioner and commissioners?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

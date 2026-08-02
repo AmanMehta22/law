@@ -14,15 +14,38 @@
     "CPA2019-CH4-S36-1",
     "procedure.conduct_of_proceeding_before_district_commission"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.president_and_members_must_conduct_proceedings",
+    "authority.district_commission",
+    "intent.conduct_of_proceeding_before_district_commission",
+    "intent.conduct_of_proceeding_before_district_commission_2",
+    "intent.conduct_of_proceeding_before_district_commission_handled_by_commission",
+    "intent.conduct_of_proceeding_before_district_commission_handled_by_district_commission"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "conduct",
+      "proceeding",
+      "before",
+      "district",
+      "commission",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "proceedings"
+    ],
     "aliases": [
       "district commission proceedings",
       "district consumer forum hearing",
       "proceedings before district commission"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is conduct of proceeding before district commission?",
+      "How does conduct of proceeding before district commission work?",
+      "Can you explain conduct of proceeding before district commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

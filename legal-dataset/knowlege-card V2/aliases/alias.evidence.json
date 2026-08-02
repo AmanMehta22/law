@@ -1,0 +1,52 @@
+{
+  "concept_id": "alias.evidence",
+  "concept_type": "alias",
+  "title": "Evidence",
+  "description": "Alternative names and search aliases for: Evidence",
+  "content": {
+    "aliases": [
+      "documents",
+      "exhibits",
+      "proof",
+      "testimony"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "evidence.evidence"
+  ],
+  "search": {
+    "keywords": [
+      "evidence",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "documents",
+      "exhibits",
+      "proof",
+      "testimony"
+    ],
+    "aliases": [
+      "documents",
+      "exhibits",
+      "proof",
+      "testimony"
+    ],
+    "user_queries": [
+      "What is evidence?",
+      "How does evidence work?",
+      "Can you explain evidence?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

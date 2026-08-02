@@ -13,14 +13,37 @@
     "CPA2019-CH5-S80-1",
     "obligation.parties_to_a_consumer_dispute_or_their_authorised_representa"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.mediation_agreement",
+    "evidence.written_agreement",
+    "intent.agreement_in_writing",
+    "intent.mediation_agreement",
+    "intent.mediation_agreement_2",
+    "intent.mediation_agreement_depends_on_agreement_in_writing",
+    "intent.parties_must_reduce_agreement_to_writing"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "parties",
+      "reduce",
+      "agreement",
+      "writing",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "settlement",
+      "written"
+    ],
     "aliases": [
       "settlement",
       "written agreement"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is agreement in writing?",
+      "How does agreement in writing work?",
+      "Can you explain agreement in writing?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

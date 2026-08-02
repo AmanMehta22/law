@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.state_governments_must_conform_to_model_rules",
+  "concept_type": "alias",
+  "title": "State Governments must conform to model rules",
+  "description": "Alternative names and search aliases for: State Governments must conform to model rules",
+  "content": {
+    "aliases": [
+      "adherence to model code",
+      "follow model rules",
+      "model rule conformity",
+      "state government compliance"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.state_governments_must_conform_to_model_rules"
+  ],
+  "search": {
+    "keywords": [
+      "state",
+      "governments",
+      "conform",
+      "model",
+      "rules",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "adherence"
+    ],
+    "aliases": [
+      "adherence to model code",
+      "follow model rules",
+      "model rule conformity",
+      "state government compliance"
+    ],
+    "user_queries": [
+      "What is state governments must conform to model rules?",
+      "How does state governments must conform to model rules work?",
+      "Can you explain state governments must conform to model rules?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

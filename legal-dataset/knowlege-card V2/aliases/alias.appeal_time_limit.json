@@ -27,9 +27,28 @@
     "CPA2019-CH8-S105-1",
     "timeline.thirty_days"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.filing_an_appeal",
+    "alias.national_commission",
+    "alias.right_to_appeal",
+    "authority.central_authority",
+    "authority.national_commission",
+    "intent.appeal_time_limit"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "appeal",
+      "time",
+      "limit",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "deadline",
+      "filing",
+      "opposite"
+    ],
     "aliases": [
       "appeal deadline",
       "filing appeal",
@@ -38,7 +57,11 @@
       "time limit for application",
       "time to respond"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is acknowledgment?",
+      "How does acknowledgment work?",
+      "Can you explain acknowledgment?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

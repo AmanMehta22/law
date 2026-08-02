@@ -15,16 +15,39 @@
     "CPA2019-CH4-S38-1",
     "procedure.complaint_proceeding"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "authority.district_commission",
+    "intent.complaint_proceeding",
+    "intent.complaint_proceeding_2",
+    "intent.complaint_proceeding_handled_by_commission",
+    "intent.complaint_proceeding_handled_by_district_commission",
+    "intent.district_commission"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "complaint",
+      "proceeding",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "adjudication",
+      "hearing",
+      "proceedings",
+      "trial"
+    ],
     "aliases": [
       "complaint adjudication",
       "complaint hearing",
       "complaint proceedings",
       "complaint trial"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is complaint proceeding?",
+      "How does complaint proceeding work?",
+      "Can you explain complaint proceeding?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

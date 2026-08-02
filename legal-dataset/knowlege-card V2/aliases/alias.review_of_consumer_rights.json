@@ -16,9 +16,28 @@
     "CPA2019-CH3-S18-2",
     "procedure.review_of_consumer_rights"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.advising_on_consumer_welfare_measures",
+    "alias.awareness_on_consumer_rights",
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.cooperation_with_non_governmental_organisations",
+    "alias.district_commission",
+    "alias.filing_complaints"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "review",
+      "consumer",
+      "rights",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "analysis",
+      "protection",
+      "law"
+    ],
     "aliases": [
       "analysis of consumer protection",
       "consumer law assessment",
@@ -26,7 +45,11 @@
       "consumer rights examination",
       "evaluation of consumer rights"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is review of consumer rights?",
+      "How does review of consumer rights work?",
+      "Can you explain review of consumer rights?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

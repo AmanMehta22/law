@@ -5,22 +5,46 @@
   "description": "Alternative names and search aliases for: District Commission Must Record Reasons For Delayed Disposal",
   "content": {
     "aliases": [
-      "Consumer Forum",
-      "District Commission"
+      "delayed disposal recording",
+      "reasons for postponement",
+      "case closure delay explanation"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-7",
     "obligation.district_commission_must_record_reasons_for_delayed_disposal"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.adjournment_exception",
+    "alias.complaint_disposal",
+    "alias.district_commission",
+    "alias.district_commission_must_dispose_of_complaint_within_a_period",
+    "alias.district_commission_must_make_orders_for_costs_of_adjournment",
+    "alias.district_commission_must_not_grant_adjournment_without_sufficient_cause",
+    "alias.district_commission_must_record_reasons_for_adjournment"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "district",
+      "commission",
+      "record",
+      "reasons",
+      "delayed",
+      "disposal",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
     "aliases": [
       "Consumer Forum",
       "District Commission"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is district commission must record reasons for delayed disposal?",
+      "How does district commission must record reasons for delayed disposal work?",
+      "Can you explain district commission must record reasons for delayed disposal?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

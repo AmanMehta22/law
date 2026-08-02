@@ -14,15 +14,38 @@
     "CPA2019-CH5-S74-1",
     "authority.district_commissions"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.consumer_mediation_cell",
+    "alias.state_commissions",
+    "alias.state_government",
+    "authority.consumer_mediation_cell",
+    "authority.district_commissions",
+    "authority.state_commissions",
+    "authority.state_government"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "district",
+      "commissions",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "consumer",
+      "courts",
+      "forums",
+      "local"
+    ],
     "aliases": [
       "Consumer Courts",
       "District Forums",
       "Local Commissions"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is consumer mediation cell?",
+      "How does consumer mediation cell work?",
+      "Can you explain consumer mediation cell?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

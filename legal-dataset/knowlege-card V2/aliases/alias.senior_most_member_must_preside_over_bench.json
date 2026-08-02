@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.senior_most_member_must_preside_over_bench",
+  "concept_type": "alias",
+  "title": "Senior-most member must preside over Bench",
+  "description": "Alternative names and search aliases for: Senior-most member must preside over Bench",
+  "content": {
+    "aliases": [
+      "bench presiding officer",
+      "senior member presiding",
+      "senior-most member's role"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.senior_most_member_must_preside_over_the_bench"
+  ],
+  "search": {
+    "keywords": [
+      "senior",
+      "most",
+      "member",
+      "preside",
+      "over",
+      "bench",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
+    "aliases": [
+      "bench presiding officer",
+      "senior member presiding",
+      "senior-most member's role"
+    ],
+    "user_queries": [
+      "What is senior-most member must preside over bench?",
+      "How does senior-most member must preside over bench work?",
+      "Can you explain senior-most member must preside over bench?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

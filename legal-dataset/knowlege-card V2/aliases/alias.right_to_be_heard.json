@@ -23,9 +23,28 @@
     "CPA2019-CH4-S38-3",
     "right.right_to_be_heard"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.consumer_rights",
+    "alias.redressal_against_unfair_trade_practice",
+    "alias.right_to_access_to_variety_of_goods",
+    "alias.right_to_consumer_awareness",
+    "alias.right_to_information",
+    "alias.right_to_protection_against_hazardous_goods",
+    "alias.right_to_redressal"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "right",
+      "heard",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "hearing",
+      "rights",
+      "fair",
+      "express"
+    ],
     "aliases": [
       "hearing rights",
       "right to a fair hearing",
@@ -36,7 +55,11 @@
       "right to speak",
       "right to voice"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is admissibility decision time limit?",
+      "How does admissibility decision time limit work?",
+      "Can you explain admissibility decision time limit?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

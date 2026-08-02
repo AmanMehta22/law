@@ -12,13 +12,36 @@
     "CPA2019-CH2-S8-4",
     "obligation.district_council_shall_meet_and_observe_procedure"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_council",
+    "alias.meeting_of_district_council",
+    "authority.district_council",
+    "intent.district_commission_references_district_council",
+    "intent.district_council",
+    "intent.district_council_2",
+    "intent.district_council_must_meet_and_observe_procedure"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "district",
+      "council",
+      "meet",
+      "observe",
+      "procedure",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "consumer"
+    ],
     "aliases": [
       "District Consumer Council"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is district commission references district council?",
+      "How does district commission references district council work?",
+      "Can you explain district commission references district council?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

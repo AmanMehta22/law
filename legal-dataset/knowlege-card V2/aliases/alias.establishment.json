@@ -18,9 +18,28 @@
     "CPA2019-CH1-S2-19",
     "definition.establishment"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "definition.establishment",
+    "intent.district_commission_references_establishment",
+    "intent.establishment",
+    "intent.establishment_2",
+    "intent.mediation_references_establishment",
+    "relationship.alias_district_commission_references_alias_establishment",
+    "relationship.alias_mediation_references_alias_establishment"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "establishment",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "business",
+      "company",
+      "institution",
+      "organization",
+      "firm"
+    ],
     "aliases": [
       "Business Establishment",
       "Company",
@@ -30,7 +49,11 @@
       "firm",
       "organization"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is district commission references establishment?",
+      "How does district commission references establishment work?",
+      "Can you explain district commission references establishment?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

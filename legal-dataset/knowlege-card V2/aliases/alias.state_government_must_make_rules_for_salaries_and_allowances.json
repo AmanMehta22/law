@@ -14,14 +14,37 @@
     "CPA2019-CH4-S44",
     "obligation.state_government_make_rules_to_provide_for_salaries_and_allo"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.state_government",
+    "authority.district_commission",
+    "authority.state_government",
+    "intent.district_commission",
+    "intent.district_commission_2",
+    "intent.state_government"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "state",
+      "government",
+      "make",
+      "rules",
+      "salaries",
+      "allowances",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
     "aliases": [
       "State Govt",
       "rules making"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is state government must make rules for salaries and allowances?",
+      "How does state government must make rules for salaries and allowances work?",
+      "Can you explain state government must make rules for salaries and allowances?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

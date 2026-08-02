@@ -17,9 +17,24 @@
     "CPA2019-CH1-S2-20",
     "definition.express_warranty"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "definition.express_warranty",
+    "intent.express_warranty",
+    "intent.express_warranty_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "express",
+      "warranty",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "clear",
+      "promise",
+      "explicit",
+      "stated"
+    ],
     "aliases": [
       "Clear Promise",
       "Explicit Warranty",
@@ -28,7 +43,11 @@
       "product guarantee",
       "warranty"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is express warranty?",
+      "How does express warranty work?",
+      "Can you explain express warranty?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

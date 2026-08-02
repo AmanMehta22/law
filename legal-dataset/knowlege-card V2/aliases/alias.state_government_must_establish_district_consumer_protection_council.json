@@ -12,13 +12,31 @@
     "CPA2019-CH2-S8-1",
     "obligation.state_government_shall_establish_a_district_consumer_protect"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "intent.state_government_must_establish_district_consumer_protection_council",
+    "intent.state_government_must_establish_district_consumer_protection_council_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "state",
+      "government",
+      "establish",
+      "district",
+      "consumer",
+      "protection",
+      "council",
+      "alternative",
+      "names",
+      "search"
+    ],
     "aliases": [
       "District Council"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is state government must establish district consumer protection council?",
+      "How does state government must establish district consumer protection council work?",
+      "Can you explain state government must establish district consumer protection council?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -12,13 +12,35 @@
     "CPA2019-CH3-S23",
     "obligation.central_government_must_consider_necessity"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_government",
+    "authority.central_authority",
+    "authority.central_government",
+    "intent.central_authority",
+    "intent.central_authority_2",
+    "intent.central_government"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "central",
+      "government",
+      "consider",
+      "necessity",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "notification"
+    ],
     "aliases": [
       "notification"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central government must consider necessity?",
+      "How does central government must consider necessity work?",
+      "Can you explain central government must consider necessity?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

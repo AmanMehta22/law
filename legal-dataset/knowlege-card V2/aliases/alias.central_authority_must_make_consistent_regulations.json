@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.central_authority_must_make_consistent_regulations",
+  "concept_type": "alias",
+  "title": "Central Authority must make consistent regulations",
+  "description": "Alternative names and search aliases for: Central Authority must make consistent regulations",
+  "content": {
+    "aliases": [
+      "central authority regulation consistency",
+      "consistent rulemaking by central authority",
+      "uniform regulations by central authority"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.central_authority_must_make_regulations_not_inconsistent_wit"
+  ],
+  "search": {
+    "keywords": [
+      "central",
+      "authority",
+      "make",
+      "consistent",
+      "regulations",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "regulation"
+    ],
+    "aliases": [
+      "central authority regulation consistency",
+      "consistent rulemaking by central authority",
+      "uniform regulations by central authority"
+    ],
+    "user_queries": [
+      "What is central authority must make consistent regulations?",
+      "How does central authority must make consistent regulations work?",
+      "Can you explain central authority must make consistent regulations?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

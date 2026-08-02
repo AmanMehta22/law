@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.document_or_record",
+  "concept_type": "alias",
+  "title": "Document or record",
+  "description": "Alternative names and search aliases for: Document or record",
+  "content": {
+    "aliases": [
+      "documentation",
+      "files",
+      "papers",
+      "paperwork"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "evidence.document_record"
+  ],
+  "search": {
+    "keywords": [
+      "document",
+      "record",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "documentation",
+      "files",
+      "papers",
+      "paperwork"
+    ],
+    "aliases": [
+      "documentation",
+      "files",
+      "papers",
+      "paperwork"
+    ],
+    "user_queries": [
+      "What is document or record?",
+      "How does document or record work?",
+      "Can you explain document or record?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

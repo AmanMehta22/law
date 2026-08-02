@@ -73,9 +73,28 @@
     "authority.national_commission",
     "definition.national_commission"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.member",
+    "alias.state_commission",
+    "authority.district_commission",
+    "authority.national_commission",
+    "authority.state_commission",
+    "definition.member"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "national",
+      "commission",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "central",
+      "consumer",
+      "protection",
+      "council"
+    ],
     "aliases": [
       "Central Commission",
       "Central Consumer Protection Council",
@@ -84,7 +103,11 @@
       "National Consumer Disputes Redressal Commission",
       "National Consumer Protection Agency"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is acknowledgment?",
+      "How does acknowledgment work?",
+      "Can you explain acknowledgment?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

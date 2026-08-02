@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.written_objections",
+  "concept_type": "alias",
+  "title": "Written objections",
+  "description": "Alternative names and search aliases for: Written objections",
+  "content": {
+    "aliases": [
+      "documented opposition",
+      "formal complaint",
+      "objection in writing",
+      "written protest"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "evidence.written_objections"
+  ],
+  "search": {
+    "keywords": [
+      "written",
+      "objections",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "documented",
+      "opposition",
+      "formal",
+      "complaint"
+    ],
+    "aliases": [
+      "documented opposition",
+      "formal complaint",
+      "objection in writing",
+      "written protest"
+    ],
+    "user_queries": [
+      "What is written objections?",
+      "How does written objections work?",
+      "Can you explain written objections?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

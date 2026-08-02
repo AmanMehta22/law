@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.state_commission_or_national_commission_must_not_grant_adjournment_without_suffi",
+  "concept_type": "alias",
+  "title": "State Commission or National Commission must not grant adjournment without sufficient cause",
+  "description": "Alternative names and search aliases for: State Commission or National Commission must not grant adjournment without sufficient cause",
+  "content": {
+    "aliases": [
+      "adjournment only with reason",
+      "no unnecessary delays",
+      "sufficient cause for delay",
+      "valid reason for adjournment"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.state_commission_or_national_commission_must_not_grant_adjou"
+  ],
+  "search": {
+    "keywords": [
+      "state",
+      "commission",
+      "national",
+      "grant",
+      "adjournment",
+      "without",
+      "sufficient",
+      "cause",
+      "alternative",
+      "names"
+    ],
+    "aliases": [
+      "adjournment only with reason",
+      "no unnecessary delays",
+      "sufficient cause for delay",
+      "valid reason for adjournment"
+    ],
+    "user_queries": [
+      "What is state commission or national commission must not grant adjournment without sufficient cause?",
+      "How does state commission or national commission must not grant adjournment without sufficient cause work?",
+      "Can you explain state commission or national commission must not grant adjournment without sufficient cause?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

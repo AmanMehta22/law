@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.consent_in_writing",
+  "concept_type": "alias",
+  "title": "Consent in writing",
+  "description": "Alternative names and search aliases for: Consent in writing",
+  "content": {
+    "aliases": [
+      "documented approval",
+      "informed consent",
+      "signed consent",
+      "written permission"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "evidence.written_consent"
+  ],
+  "search": {
+    "keywords": [
+      "consent",
+      "writing",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "documented",
+      "approval",
+      "informed",
+      "signed"
+    ],
+    "aliases": [
+      "documented approval",
+      "informed consent",
+      "signed consent",
+      "written permission"
+    ],
+    "user_queries": [
+      "What is consent in writing?",
+      "How does consent in writing work?",
+      "Can you explain consent in writing?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

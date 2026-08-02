@@ -15,16 +15,38 @@
     "CPA2019-CH1-S2-9",
     "right.right_to_redressal"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.consumer_rights",
+    "alias.redressal_against_unfair_trade_practice",
+    "alias.right_to_access_to_variety_of_goods",
+    "alias.right_to_be_heard",
+    "alias.right_to_consumer_awareness",
+    "alias.right_to_information",
+    "alias.right_to_protection_against_hazardous_goods"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "right",
+      "redressal",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "consumer",
+      "rights",
+      "compensation"
+    ],
     "aliases": [
       "consumer redressal",
       "redressal rights",
       "right to compensation",
       "right to redressal"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is right to redressal?",
+      "How does right to redressal work?",
+      "Can you explain right to redressal?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

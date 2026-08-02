@@ -17,9 +17,24 @@
     "CPA2019-CH1-S2-23",
     "definition.injury"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "definition.injury",
+    "intent.injury",
+    "intent.injury_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "injury",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "damage",
+      "harm",
+      "physical",
+      "mental",
+      "trauma"
+    ],
     "aliases": [
       "Damage",
       "Harm",
@@ -28,7 +43,11 @@
       "damage",
       "harm"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is injury?",
+      "How does injury work?",
+      "Can you explain injury?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

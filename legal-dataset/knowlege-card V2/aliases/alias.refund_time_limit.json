@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.refund_time_limit",
+  "concept_type": "alias",
+  "title": "Refund time limit",
+  "description": "Alternative names and search aliases for: Refund time limit",
+  "content": {
+    "aliases": [
+      "money back timeline",
+      "refund deadline",
+      "reimbursement period",
+      "return time frame"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "timeline.a_period"
+  ],
+  "search": {
+    "keywords": [
+      "refund",
+      "time",
+      "limit",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "money",
+      "back",
+      "timeline"
+    ],
+    "aliases": [
+      "money back timeline",
+      "refund deadline",
+      "reimbursement period",
+      "return time frame"
+    ],
+    "user_queries": [
+      "What is refund time limit?",
+      "How does refund time limit work?",
+      "Can you explain refund time limit?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -82,9 +82,28 @@
     "authority.district_commission",
     "definition.district_commission"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "authority.district_commission",
+    "definition.district_commission",
+    "intent.district_commission",
+    "intent.district_commission_2",
+    "intent.district_commission_3",
+    "alias.member",
+    "alias.national_commission"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "district",
+      "commission",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "consumer",
+      "forum",
+      "level",
+      "court"
+    ],
     "aliases": [
       "Consumer Forum District Level",
       "DC",
@@ -93,7 +112,11 @@
       "Local Consumer Court",
       "Local Consumer Forum"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is acknowledgment?",
+      "How does acknowledgment work?",
+      "Can you explain acknowledgment?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

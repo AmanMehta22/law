@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.payment_for_loss_to_multiple_consumers",
+  "concept_type": "alias",
+  "title": "Payment for loss to multiple consumers",
+  "description": "Alternative names and search aliases for: Payment for loss to multiple consumers",
+  "content": {
+    "aliases": [
+      "compensation for multiple consumers",
+      "consumer loss payment",
+      "group compensation",
+      "mass compensation"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "penalty.payment_for_loss_to_multiple_consumers"
+  ],
+  "search": {
+    "keywords": [
+      "payment",
+      "loss",
+      "multiple",
+      "consumers",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "compensation",
+      "consumer"
+    ],
+    "aliases": [
+      "compensation for multiple consumers",
+      "consumer loss payment",
+      "group compensation",
+      "mass compensation"
+    ],
+    "user_queries": [
+      "What is payment for loss to multiple consumers?",
+      "How does payment for loss to multiple consumers work?",
+      "Can you explain payment for loss to multiple consumers?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

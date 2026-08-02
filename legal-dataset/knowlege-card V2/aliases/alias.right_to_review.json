@@ -18,9 +18,28 @@
     "CPA2019-CH4-S60",
     "right.right_to_review"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_time_limit",
+    "alias.review_of_order",
+    "alias.state_commission",
+    "authority.state_commission",
+    "intent.appeal_time_limit",
+    "intent.appeal_time_limit_2",
+    "intent.review_of_order"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "right",
+      "review",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "consumer",
+      "rights",
+      "appeal",
+      "examine"
+    ],
     "aliases": [
       "consumer review",
       "review rights",
@@ -29,7 +48,11 @@
       "right to reconsideration",
       "right to review"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is national commission must review order?",
+      "How does national commission must review order work?",
+      "Can you explain national commission must review order?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

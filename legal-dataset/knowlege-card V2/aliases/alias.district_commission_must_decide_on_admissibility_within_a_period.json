@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.district_commission_must_decide_on_admissibility_within_a_period",
+  "concept_type": "alias",
+  "title": "District Commission must decide on admissibility within a period",
+  "description": "Alternative names and search aliases for: District Commission must decide on admissibility within a period",
+  "content": {
+    "aliases": [
+      "admissibility timeline",
+      "complaint admissibility period",
+      "district commission decision deadline",
+      "time-bound admissibility decision"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.district_commission_must_decide_the_issue_of_admissibility_o"
+  ],
+  "search": {
+    "keywords": [
+      "district",
+      "commission",
+      "decide",
+      "admissibility",
+      "period",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "timeline"
+    ],
+    "aliases": [
+      "admissibility timeline",
+      "complaint admissibility period",
+      "district commission decision deadline",
+      "time-bound admissibility decision"
+    ],
+    "user_queries": [
+      "What is district commission must decide on admissibility within a period?",
+      "How does district commission must decide on admissibility within a period work?",
+      "Can you explain district commission must decide on admissibility within a period?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

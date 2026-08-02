@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.complaint_disposal_time_limit_with_analysis_or_testing",
+  "concept_type": "alias",
+  "title": "Complaint disposal time limit with analysis or testing",
+  "description": "Alternative names and search aliases for: Complaint disposal time limit with analysis or testing",
+  "content": {
+    "aliases": [
+      "analysis based complaint resolution time",
+      "complaint disposal period with lab testing",
+      "complaint resolution timeline with investigation",
+      "testing based complaint disposal timeframe"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "timeline.five_months"
+  ],
+  "search": {
+    "keywords": [
+      "complaint",
+      "disposal",
+      "time",
+      "limit",
+      "analysis",
+      "testing",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
+    "aliases": [
+      "analysis based complaint resolution time",
+      "complaint disposal period with lab testing",
+      "complaint resolution timeline with investigation",
+      "testing based complaint disposal timeframe"
+    ],
+    "user_queries": [
+      "What is complaint disposal time limit with analysis or testing?",
+      "How does complaint disposal time limit with analysis or testing work?",
+      "Can you explain complaint disposal time limit with analysis or testing?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

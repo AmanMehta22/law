@@ -13,13 +13,36 @@
     "CPA2019-CH4-S38-2",
     "timeline.twenty_one_days"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.complaint_admissibility_procedure",
+    "alias.district_commission_must_decide_admissibility_within_21_days",
+    "alias.district_commission_must_give_opportunity_of_being_heard",
+    "alias.right_to_be_heard",
+    "exception.a_complaint_shall_not_be_rejected_unless_an_opportunity_of_b",
+    "intent.admissibility_decision_time_limit",
+    "intent.admissibility_decision_time_limit_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "admissibility",
+      "decision",
+      "time",
+      "limit",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "complaint",
+      "admission"
+    ],
     "aliases": [
       "complaint admission"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is admissibility decision time limit?",
+      "How does admissibility decision time limit work?",
+      "Can you explain admissibility decision time limit?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

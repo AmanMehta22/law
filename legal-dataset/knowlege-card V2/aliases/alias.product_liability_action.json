@@ -18,9 +18,28 @@
     "CPA2019-CH1-S2-35",
     "definition.product_liability_action"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.compensation_for_harm_caused",
+    "alias.district_commission",
+    "alias.filing_a_product_liability_action",
+    "alias.national_commission",
+    "alias.right_to_compensation",
+    "alias.state_commission",
+    "authority.district_commission"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "product",
+      "liability",
+      "action",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "defective",
+      "manufacturer",
+      "case"
+    ],
     "aliases": [
       "Defective Product Action",
       "Manufacturer Liability Action",
@@ -30,7 +49,11 @@
       "consumer protection complaint",
       "product liability claim"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is filing a product liability action?",
+      "How does filing a product liability action work?",
+      "Can you explain filing a product liability action?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

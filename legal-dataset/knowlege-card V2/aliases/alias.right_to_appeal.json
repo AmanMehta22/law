@@ -28,9 +28,28 @@
     "CPA2019-CH4-S73-3",
     "right.right_to_appeal"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_time_limit",
+    "alias.central_authority",
+    "alias.filing_an_appeal",
+    "alias.national_commission",
+    "authority.central_authority",
+    "authority.national_commission",
+    "intent.appeal_time_limit"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "right",
+      "appeal",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "process",
+      "rights",
+      "complaint",
+      "heard"
+    ],
     "aliases": [
       "appeal process",
       "appeal rights",
@@ -41,7 +60,11 @@
       "right to contest",
       "right to review"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is appeal time limit?",
+      "How does appeal time limit work?",
+      "Can you explain appeal time limit?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

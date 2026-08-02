@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.term_of_office",
+  "concept_type": "alias",
+  "title": "Term of office",
+  "description": "Alternative names and search aliases for: Term of office",
+  "content": {
+    "aliases": [
+      "office duration",
+      "period of service",
+      "tenure",
+      "term length"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "timeline.five_years"
+  ],
+  "search": {
+    "keywords": [
+      "term",
+      "office",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "duration",
+      "period",
+      "service",
+      "tenure"
+    ],
+    "aliases": [
+      "office duration",
+      "period of service",
+      "tenure",
+      "term length"
+    ],
+    "user_queries": [
+      "What is term of office?",
+      "How does term of office work?",
+      "Can you explain term of office?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

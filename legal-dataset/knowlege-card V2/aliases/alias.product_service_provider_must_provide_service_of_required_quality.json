@@ -12,13 +12,36 @@
     "CPA2019-CH6-S85",
     "obligation.product_service_provider_must_provide_service_of_quality_req"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.compensation_for_harm_caused",
+    "alias.product_service_provider_must_conform_to_express_warranty_or_contract_terms",
+    "alias.product_service_provider_must_issue_adequate_instructions_or_warnings",
+    "alias.product_service_provider_must_not_withhold_information",
+    "evidence.contract",
+    "evidence.warranty",
+    "intent.compensation_for_harm_caused"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "product",
+      "service",
+      "provider",
+      "provide",
+      "required",
+      "quality",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
     "aliases": [
       "product service provider liability"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is product service provider must conform to express warranty or contract terms?",
+      "How does product service provider must conform to express warranty or contract terms work?",
+      "Can you explain product service provider must conform to express warranty or contract terms?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

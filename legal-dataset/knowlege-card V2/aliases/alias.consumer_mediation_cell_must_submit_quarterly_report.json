@@ -16,15 +16,38 @@
     "obligation.consumer_mediation_cell_must_submit_quarterly_report",
     "obligation.consumer_mediation_cell_shall_submit_a_quarterly_report"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.consumer_mediation_cell",
+    "alias.district_commission",
+    "alias.national_commission",
+    "alias.state_commission",
+    "authority.consumer_mediation_cell",
+    "authority.district_commission",
+    "authority.national_commission"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "consumer",
+      "mediation",
+      "cell",
+      "submit",
+      "quarterly",
+      "report",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
     "aliases": [
       "consumer dispute resolution",
       "mediation cell report",
       "periodic reporting"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is consumer mediation cell must submit quarterly report?",
+      "How does consumer mediation cell must submit quarterly report work?",
+      "Can you explain consumer mediation cell must submit quarterly report?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

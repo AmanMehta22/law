@@ -5,20 +5,46 @@
   "description": "Alternative names and search aliases for: Central Authority Must Prevent Participation In False Or Misleading Advertisements",
   "content": {
     "aliases": [
-      "advertisements"
+      "CCPA to prevent false ads",
+      "Prevention of misleading ads by Central Authority",
+      "Central Agency to stop false advertisements",
+      "Consumer Protection Agency to prevent deceptive ads"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S18-1",
     "obligation.central_authority_ensure_that_no_person_takes_part_in_the_pu"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_authority_must_prevent_false_or_misleading_advertisements_of_goods_or_se",
+    "alias.central_authority_must_prevent_unfair_trade_practices",
+    "alias.central_authority_must_protect_consumer_rights",
+    "authority.central_authority",
+    "intent.central_authority",
+    "intent.central_authority_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "central",
+      "authority",
+      "prevent",
+      "participation",
+      "false",
+      "misleading",
+      "advertisements",
+      "alternative",
+      "names",
+      "search"
+    ],
     "aliases": [
       "advertisements"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central authority must prevent false or misleading advertisements of goods or services?",
+      "How does central authority must prevent false or misleading advertisements of goods or services work?",
+      "Can you explain central authority must prevent false or misleading advertisements of goods or services?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

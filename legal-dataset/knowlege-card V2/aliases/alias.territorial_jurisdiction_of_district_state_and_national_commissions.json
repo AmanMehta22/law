@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.territorial_jurisdiction_of_district_state_and_national_commissions",
+  "concept_type": "alias",
+  "title": "Territorial jurisdiction of District, State and National Commissions",
+  "description": "Alternative names and search aliases for: Territorial jurisdiction of District, State and National Commissions",
+  "content": {
+    "aliases": [
+      "consumer forum jurisdiction",
+      "geographical scope of commissions",
+      "regional jurisdiction of district, state and national commissions",
+      "territorial authority of consumer commissions"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "jurisdiction.district_commission_state_commission_national_commission_not_specified_not_speci"
+  ],
+  "search": {
+    "keywords": [
+      "territorial",
+      "jurisdiction",
+      "district",
+      "state",
+      "national",
+      "commissions",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
+    "aliases": [
+      "consumer forum jurisdiction",
+      "geographical scope of commissions",
+      "regional jurisdiction of district, state and national commissions",
+      "territorial authority of consumer commissions"
+    ],
+    "user_queries": [
+      "What is territorial jurisdiction of district, state and national commissions?",
+      "How does territorial jurisdiction of district, state and national commissions work?",
+      "Can you explain territorial jurisdiction of district, state and national commissions?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

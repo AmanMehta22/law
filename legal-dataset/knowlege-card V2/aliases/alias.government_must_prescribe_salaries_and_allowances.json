@@ -14,13 +14,35 @@
     "CPA2019-CH4-S57-3",
     "obligation.government_must_prescribe_salaries_and_allowances"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "authority.central_authority",
+    "intent.central_authority",
+    "intent.central_authority_2",
+    "intent.government_must_prescribe_salaries_and_allowances",
+    "intent.government_must_prescribe_salaries_and_allowances_2",
+    "intent.mediation_references_central_authority"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "government",
+      "prescribe",
+      "salaries",
+      "allowances",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "remuneration"
+    ],
     "aliases": [
       "remuneration"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is government must prescribe salaries and allowances?",
+      "How does government must prescribe salaries and allowances work?",
+      "Can you explain government must prescribe salaries and allowances?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -12,13 +12,33 @@
     "CPA2019-CH4-S73-2",
     "exception.an_appeal_may_lie_before_a_court_as_provided_in_sub_section_"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.court",
+    "alias.district_commission",
+    "alias.national_commission",
+    "alias.state_commission",
+    "authority.court",
+    "authority.district_commission",
+    "authority.national_commission"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "appeal",
+      "exception",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "rule"
+    ],
     "aliases": [
       "exception to appeal rule"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is appeal exception?",
+      "How does appeal exception work?",
+      "Can you explain appeal exception?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

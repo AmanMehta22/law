@@ -5,22 +5,47 @@
   "description": "Alternative names and search aliases for: Central Government Must Make Rules For District Commission Appointments",
   "content": {
     "aliases": [
-      "notifications",
-      "regulations"
+      "Central Govt Rules for DC Appointments",
+      "Union Government Regulations for District Consumer Commission",
+      "Federal Govt District Forum Appointment Rules",
+      "Govt of India Rules for Local Consumer Court Appointments"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S29",
     "obligation.central_government_make_rules_for_district_commission_appoin"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.district_commission",
+    "authority.central_government",
+    "authority.district_commission",
+    "intent.central_government",
+    "intent.central_government_2",
+    "intent.central_government_must_make_rules_for_district_commission_appointments"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "central",
+      "government",
+      "make",
+      "rules",
+      "district",
+      "commission",
+      "appointments",
+      "alternative",
+      "names",
+      "search"
+    ],
     "aliases": [
       "notifications",
       "regulations"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central government must make rules for district commission appointments?",
+      "How does central government must make rules for district commission appointments work?",
+      "Can you explain central government must make rules for district commission appointments?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

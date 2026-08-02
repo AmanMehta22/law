@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.refund_of_consideration",
+  "concept_type": "alias",
+  "title": "Refund of consideration",
+  "description": "Alternative names and search aliases for: Refund of consideration",
+  "content": {
+    "aliases": [
+      "money back",
+      "refund of payment",
+      "reimbursement",
+      "return of consideration"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "remedy.refund"
+  ],
+  "search": {
+    "keywords": [
+      "refund",
+      "consideration",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "money",
+      "back",
+      "payment",
+      "reimbursement"
+    ],
+    "aliases": [
+      "money back",
+      "refund of payment",
+      "reimbursement",
+      "return of consideration"
+    ],
+    "user_queries": [
+      "What is refund of consideration?",
+      "How does refund of consideration work?",
+      "Can you explain refund of consideration?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

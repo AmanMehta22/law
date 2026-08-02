@@ -5,20 +5,45 @@
   "description": "Alternative names and search aliases for: Complainant Under Influence Exception",
   "content": {
     "aliases": [
-      "exception to product liability"
+      "exception to product liability",
+      "influence exception",
+      "complainant under influence",
+      "undue influence exception"
     ]
   },
   "derived_from": [
     "CPA2019-CH6-S87-2",
     "exception.product_manufacturer_not_liable_if_complainant_under_influen"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.component_or_material_sale_exception",
+    "alias.employer_purchase_exception",
+    "alias.expert_supervision_exception",
+    "evidence.prescription_from_a_medical_practitioner",
+    "evidence.warnings_or_instructions_provided_to_employer_warnings_or_in",
+    "exception.product_manufacturer_not_liable_if_complainant_under_influen",
+    "exception.product_manufacturer_not_liable_if_necessary_warnings_given_"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "complainant",
+      "influence",
+      "exception",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "product",
+      "liability"
+    ],
     "aliases": [
       "exception to product liability"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is complainant under influence exception?",
+      "How does complainant under influence exception work?",
+      "Can you explain complainant under influence exception?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

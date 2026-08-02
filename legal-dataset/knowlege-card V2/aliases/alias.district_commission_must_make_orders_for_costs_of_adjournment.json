@@ -5,22 +5,46 @@
   "description": "Alternative names and search aliases for: District Commission Must Make Orders For Costs Of Adjournment",
   "content": {
     "aliases": [
-      "Consumer Forum",
-      "District Commission"
+      "costs of postponement",
+      "adjournment expenses",
+      "delay costs order"
     ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-7",
     "obligation.district_commission_must_make_orders_as_to_the_costs_occasio"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.adjournment_exception",
+    "alias.complaint_disposal",
+    "alias.district_commission",
+    "alias.district_commission_must_dispose_of_complaint_within_a_period",
+    "alias.district_commission_must_not_grant_adjournment_without_sufficient_cause",
+    "alias.district_commission_must_record_reasons_for_adjournment",
+    "alias.district_commission_must_record_reasons_for_delayed_disposal"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "district",
+      "commission",
+      "make",
+      "orders",
+      "costs",
+      "adjournment",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
     "aliases": [
       "Consumer Forum",
       "District Commission"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is adjournment exception?",
+      "How does adjournment exception work?",
+      "Can you explain adjournment exception?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

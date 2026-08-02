@@ -12,13 +12,36 @@
     "CPA2019-CH3-S10-2",
     "obligation.central_government_must_appoint_commissioners"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.chief_commissioner",
+    "authority.central_authority",
+    "authority.central_government",
+    "authority.chief_commissioner",
+    "intent.central_authority"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "central",
+      "government",
+      "appoint",
+      "commissioners",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "authority",
+      "members"
+    ],
     "aliases": [
       "Central Authority members"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central government must appoint commissioners?",
+      "How does central government must appoint commissioners work?",
+      "Can you explain central government must appoint commissioners?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

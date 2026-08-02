@@ -13,14 +13,34 @@
     "CPA2019-CH4-S51-3",
     "obligation.appellant_must_precisely_state_the_substantial_question_of_l"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "evidence.memorandum_of_appeal",
+    "intent.appellant_must_state_substantial_question_of_law",
+    "intent.appellant_must_state_substantial_question_of_law_2",
+    "intent.memorandum_of_appeal"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "appellant",
+      "state",
+      "substantial",
+      "question",
+      "law",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "appeal"
+    ],
     "aliases": [
       "appeal petition",
       "statement of appeal"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is appellant must state substantial question of law?",
+      "How does appellant must state substantial question of law work?",
+      "Can you explain appellant must state substantial question of law?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -16,9 +16,28 @@
     "CPA2019-CH1-S2-47",
     "definition.unfair_trade_practice"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.contest_lottery_game_of_chance_or_skill_exception",
+    "alias.proof_of_warranty_or_guarantee",
+    "definition.unfair_trade_practice",
+    "evidence.test_results_records_of_testing",
+    "exception.except_such_contest_lottery_game_of_chance_or_skill_as_may_b",
+    "intent.contest_lottery_game_of_chance_or_skill_exception",
+    "intent.contest_lottery_game_of_chance_or_skill_exception_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "unfair",
+      "trade",
+      "practice",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "deceptive",
+      "fraudulent",
+      "unscrupulous"
+    ],
     "aliases": [
       "Deceptive Practice",
       "Fraudulent Practice",
@@ -26,7 +45,11 @@
       "deceptive business practice",
       "false advertising"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is contest, lottery, game of chance or skill exception?",
+      "How does contest, lottery, game of chance or skill exception work?",
+      "Can you explain contest, lottery, game of chance or skill exception?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

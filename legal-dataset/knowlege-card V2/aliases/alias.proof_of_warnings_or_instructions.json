@@ -1,0 +1,55 @@
+{
+  "concept_id": "alias.proof_of_warnings_or_instructions",
+  "concept_type": "alias",
+  "title": "Proof of warnings or instructions",
+  "description": "Alternative names and search aliases for: Proof of warnings or instructions",
+  "content": {
+    "aliases": [
+      "instruction manual",
+      "product warnings",
+      "safety guidelines",
+      "user instructions",
+      "warning labels"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "evidence.warnings_or_instructions_provided_to_employer_warnings_or_in"
+  ],
+  "search": {
+    "keywords": [
+      "proof",
+      "warnings",
+      "instructions",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "instruction",
+      "manual",
+      "product"
+    ],
+    "aliases": [
+      "instruction manual",
+      "product warnings",
+      "safety guidelines",
+      "user instructions",
+      "warning labels"
+    ],
+    "user_queries": [
+      "What is proof of warnings or instructions?",
+      "How does proof of warnings or instructions work?",
+      "Can you explain proof of warnings or instructions?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

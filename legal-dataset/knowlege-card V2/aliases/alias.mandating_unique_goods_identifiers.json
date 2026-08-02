@@ -15,16 +15,39 @@
     "CPA2019-CH3-S18-2",
     "procedure.mandating_unique_goods_identifiers"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.advising_on_consumer_welfare_measures",
+    "alias.awareness_on_consumer_rights",
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.cooperation_with_non_governmental_organisations",
+    "alias.district_commission",
+    "alias.filing_complaints"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "mandating",
+      "unique",
+      "goods",
+      "identifiers",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "tracking",
+      "code"
+    ],
     "aliases": [
       "Goods Tracking Code",
       "Product Identification Requirement",
       "Product Labeling Regulation",
       "Unique Identifier Mandate"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is mandating unique goods identifiers?",
+      "How does mandating unique goods identifiers work?",
+      "Can you explain mandating unique goods identifiers?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

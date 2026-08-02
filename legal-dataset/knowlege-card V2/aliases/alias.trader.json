@@ -19,9 +19,24 @@
     "CPA2019-CH1-S2-45",
     "definition.trader"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "definition.trader",
+    "intent.trader",
+    "intent.trader_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "trader",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "businessman",
+      "dealer",
+      "merchant",
+      "seller",
+      "supplier"
+    ],
     "aliases": [
       "Businessman",
       "Dealer",
@@ -32,7 +47,11 @@
       "supplier",
       "vendor"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is trader?",
+      "How does trader work?",
+      "Can you explain trader?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

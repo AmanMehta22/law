@@ -13,14 +13,35 @@
     "CPA2019-CH4-S42-3",
     "obligation.state_government_must_consult_central_government"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.state_commission",
+    "authority.central_government",
+    "authority.state_commission",
+    "intent.central_government",
+    "intent.central_government_2",
+    "intent.district_commission_references_state_commission"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "state",
+      "government",
+      "consult",
+      "central",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
     "aliases": [
       "Central Government",
       "State Government"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is district commission references state commission?",
+      "How does district commission references state commission work?",
+      "Can you explain district commission references state commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.central_government_must_issue_guidelines",
+  "concept_type": "alias",
+  "title": "Central Government must issue guidelines",
+  "description": "Alternative names and search aliases for: Central Government must issue guidelines",
+  "content": {
+    "aliases": [
+      "central government directive",
+      "government guidelines",
+      "regulatory guidelines by central government"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.central_government_must_issue_guidelines"
+  ],
+  "search": {
+    "keywords": [
+      "central",
+      "government",
+      "issue",
+      "guidelines",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "directive",
+      "regulatory"
+    ],
+    "aliases": [
+      "central government directive",
+      "government guidelines",
+      "regulatory guidelines by central government"
+    ],
+    "user_queries": [
+      "What is central government must issue guidelines?",
+      "How does central government must issue guidelines work?",
+      "Can you explain central government must issue guidelines?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

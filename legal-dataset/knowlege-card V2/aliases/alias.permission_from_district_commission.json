@@ -13,14 +13,36 @@
     "CPA2019-CH4-S34-2",
     "exception.does_not_apply_without_permission_of_the_district_commission"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.complaint_filing",
+    "alias.district_commission",
+    "authority.district_commission",
+    "exception.does_not_apply_without_permission_of_the_district_commission",
+    "intent.complaint_filing",
+    "intent.complaint_filing_2",
+    "intent.complaint_filing_handled_by_commission"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "permission",
+      "district",
+      "commission",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "consent",
+      "leave"
+    ],
     "aliases": [
       "consent",
       "leave"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is complaint filing?",
+      "How does complaint filing work?",
+      "Can you explain complaint filing?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -14,14 +14,35 @@
     "CPA2019-CH8-S102-2",
     "obligation.government_must_make_rules"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_to_national_commission",
+    "alias.appeal_to_state_commission",
+    "alias.authentication_of_goods",
+    "alias.deposit_of_amount",
+    "alias.filing_complaint",
+    "alias.furnishing_information",
+    "alias.mediation"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "government",
+      "make",
+      "rules",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "guidelines",
+      "regulations"
+    ],
     "aliases": [
       "guidelines",
       "regulations"
     ],
-    "user_queries": []
+    "user_queries": [
+      "How do I file appeal to national commission?",
+      "What are the steps for appeal to national commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

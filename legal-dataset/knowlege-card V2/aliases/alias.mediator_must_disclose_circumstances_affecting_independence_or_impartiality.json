@@ -5,22 +5,47 @@
   "description": "Alternative names and search aliases for: Mediator Must Disclose Circumstances Affecting Independence Or Impartiality",
   "content": {
     "aliases": [
-      "declare",
-      "reveal"
+      "disclose circumstances affecting impartiality",
+      "reveal potential biases",
+      "declare conflicts of interest",
+      "impartiality disclosure requirement"
     ]
   },
   "derived_from": [
     "CPA2019-CH5-S77",
     "obligation.mediator_must_disclose_circumstances_which_may_give_rise_to_"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.mediator_must_disclose_other_facts_specified_by_regulations",
+    "alias.mediator_must_disclose_personal_professional_or_financial_interest",
+    "intent.district_commission_references_mediator_must_disclose_circumstances_affecting_in",
+    "intent.mediator_must_disclose_circumstances_affecting_independence_or_impartiality",
+    "intent.mediator_must_disclose_circumstances_affecting_independence_or_impartiality_2",
+    "intent.mediator_must_disclose_other_facts_specified_by_regulations",
+    "intent.mediator_must_disclose_other_facts_specified_by_regulations_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "mediator",
+      "disclose",
+      "circumstances",
+      "affecting",
+      "independence",
+      "impartiality",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
     "aliases": [
       "declare",
       "reveal"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is district commission references mediator must disclose circumstances affecting independence or impartiality?",
+      "How does district commission references mediator must disclose circumstances affecting independence or impartiality work?",
+      "Can you explain district commission references mediator must disclose circumstances affecting independence or impartiality?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

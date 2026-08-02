@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.comptroller_and_auditor_general_of_india_must_have_audit_rights",
+  "concept_type": "alias",
+  "title": "Comptroller and Auditor-General of India must have audit rights",
+  "description": "Alternative names and search aliases for: Comptroller and Auditor-General of India must have audit rights",
+  "content": {
+    "aliases": [
+      "CAG audit powers",
+      "CAG auditing privileges",
+      "audit rights of CAG",
+      "comptroller and auditor general audit authority"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.comptroller_and_auditor_general_of_india_or_any_other_person"
+  ],
+  "search": {
+    "keywords": [
+      "comptroller",
+      "auditor",
+      "general",
+      "india",
+      "have",
+      "audit",
+      "rights",
+      "alternative",
+      "names",
+      "search"
+    ],
+    "aliases": [
+      "CAG audit powers",
+      "CAG auditing privileges",
+      "audit rights of CAG",
+      "comptroller and auditor general audit authority"
+    ],
+    "user_queries": [
+      "What is comptroller and auditor-general of india must have audit rights?",
+      "How does comptroller and auditor-general of india must have audit rights work?",
+      "Can you explain comptroller and auditor-general of india must have audit rights?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

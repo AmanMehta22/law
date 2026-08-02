@@ -15,16 +15,39 @@
     "CPA2019-CH8-S102-1",
     "authority.state_governments"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "authority.central_government",
+    "authority.state_governments",
+    "exception.provided_that_the_central_government_may_frame_model_rules",
+    "intent.central_government",
+    "intent.central_government_2",
+    "intent.state_governments"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "state",
+      "governments",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "local",
+      "provincial",
+      "regional",
+      "administrations"
+    ],
     "aliases": [
       "Local Governments",
       "Provincial Governments",
       "Regional Governments",
       "State Administrations"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is state governments?",
+      "How does state governments work?",
+      "Can you explain state governments?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

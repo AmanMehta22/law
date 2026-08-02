@@ -19,9 +19,28 @@
     "CPA2019-CH1-S2-11",
     "definition.deficiency"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.right_to_information",
+    "definition.deficiency",
+    "intent.deficiency",
+    "intent.deficiency_2",
+    "intent.deficiency_defines_right_to_information",
+    "intent.right_to_information",
+    "intent.right_to_information_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "deficiency",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "flaw",
+      "imperfection",
+      "inadequacy",
+      "lack",
+      "shortcoming"
+    ],
     "aliases": [
       "Flaw",
       "Imperfection",
@@ -32,7 +51,11 @@
       "inadequacy",
       "shortcoming"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is deficiency?",
+      "How does deficiency work?",
+      "Can you explain deficiency?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

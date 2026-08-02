@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.state_council_meeting_procedure",
+  "concept_type": "alias",
+  "title": "State Council meeting procedure",
+  "description": "Alternative names and search aliases for: State Council meeting procedure",
+  "content": {
+    "aliases": [
+      "meeting rules and regulations",
+      "procedure for state council meetings",
+      "state council governance",
+      "state council protocols"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.state_council_shall_observe_prescribed_procedure_in_regard_t"
+  ],
+  "search": {
+    "keywords": [
+      "state",
+      "council",
+      "meeting",
+      "procedure",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "rules",
+      "regulations"
+    ],
+    "aliases": [
+      "meeting rules and regulations",
+      "procedure for state council meetings",
+      "state council governance",
+      "state council protocols"
+    ],
+    "user_queries": [
+      "What is state council meeting procedure?",
+      "How does state council meeting procedure work?",
+      "Can you explain state council meeting procedure?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

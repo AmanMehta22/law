@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.state_commission_must_review_order_on_application",
+  "concept_type": "alias",
+  "title": "State Commission must review order on application",
+  "description": "Alternative names and search aliases for: State Commission must review order on application",
+  "content": {
+    "aliases": [
+      "appeal to state commission",
+      "application for review",
+      "re-examine decisions",
+      "review of orders"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.state_commission_shall_review_any_of_the_order_passed_by_it"
+  ],
+  "search": {
+    "keywords": [
+      "state",
+      "commission",
+      "review",
+      "order",
+      "application",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "appeal"
+    ],
+    "aliases": [
+      "appeal to state commission",
+      "application for review",
+      "re-examine decisions",
+      "review of orders"
+    ],
+    "user_queries": [
+      "What is state commission must review order on application?",
+      "How does state commission must review order on application work?",
+      "Can you explain state commission must review order on application?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

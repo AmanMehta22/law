@@ -15,16 +15,39 @@
     "CPA2019-CH1-S2-9",
     "right.right_to_protection_against_hazardous_goods"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.consumer_rights",
+    "alias.redressal_against_unfair_trade_practice",
+    "alias.right_to_access_to_variety_of_goods",
+    "alias.right_to_be_heard",
+    "alias.right_to_consumer_awareness",
+    "alias.right_to_information",
+    "alias.right_to_redressal"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "right",
+      "protection",
+      "against",
+      "hazardous",
+      "goods",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "consumer"
+    ],
     "aliases": [
       "consumer protection from hazardous goods",
       "protection from hazardous goods",
       "right to protection from hazardous goods",
       "right to safety"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is consumer rights?",
+      "How does consumer rights work?",
+      "Can you explain consumer rights?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

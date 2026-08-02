@@ -1,0 +1,53 @@
+{
+  "concept_id": "alias.state_commission_or_national_commission_must_record_reasons_for_delayed_disposal",
+  "concept_type": "alias",
+  "title": "State Commission or National Commission must record reasons for delayed disposal",
+  "description": "Alternative names and search aliases for: State Commission or National Commission must record reasons for delayed disposal",
+  "content": {
+    "aliases": [
+      "delay explanation required",
+      "documentation of delay",
+      "reasons for slow disposal",
+      "record delay reasons"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "obligation.state_commission_or_national_commission_must_record_reasons_"
+  ],
+  "search": {
+    "keywords": [
+      "state",
+      "commission",
+      "national",
+      "record",
+      "reasons",
+      "delayed",
+      "disposal",
+      "alternative",
+      "names",
+      "search"
+    ],
+    "aliases": [
+      "delay explanation required",
+      "documentation of delay",
+      "reasons for slow disposal",
+      "record delay reasons"
+    ],
+    "user_queries": [
+      "What is state commission or national commission must record reasons for delayed disposal?",
+      "How does state commission or national commission must record reasons for delayed disposal work?",
+      "Can you explain state commission or national commission must record reasons for delayed disposal?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

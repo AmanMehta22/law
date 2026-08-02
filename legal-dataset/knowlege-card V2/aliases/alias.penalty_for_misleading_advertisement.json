@@ -12,13 +12,34 @@
     "CPA2019-CH3-S21-4",
     "penalty.publishing_misleading_advertisement"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_authority_may_impose_penalty",
+    "authority.central_authority",
+    "intent.central_authority",
+    "intent.central_authority_2",
+    "intent.central_authority_may_impose_penalty",
+    "intent.central_authority_may_impose_penalty_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "penalty",
+      "misleading",
+      "advertisement",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "fine"
+    ],
     "aliases": [
       "fine for misleading ad"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is penalty for misleading advertisement?",
+      "How does penalty for misleading advertisement work?",
+      "Can you explain penalty for misleading advertisement?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

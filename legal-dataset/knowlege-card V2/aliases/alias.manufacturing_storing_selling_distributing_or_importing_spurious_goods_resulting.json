@@ -1,0 +1,55 @@
+{
+  "concept_id": "alias.manufacturing_storing_selling_distributing_or_importing_spurious_goods_resulting",
+  "concept_type": "alias",
+  "title": "Manufacturing, storing, selling, distributing or importing spurious goods resulting in death",
+  "description": "Alternative names and search aliases for: Manufacturing, storing, selling, distributing or importing spurious goods resulting in death",
+  "content": {
+    "aliases": [
+      "counterfeit goods resulting in death",
+      "fake products leading to fatality",
+      "harmful fake products causing death",
+      "spurious goods causing death",
+      "spurious goods resulting in fatal injury"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "offence.manufactures_for_sale_or_stores_or_sells_or_distributes_or_imports_any_spur_3"
+  ],
+  "search": {
+    "keywords": [
+      "manufacturing",
+      "storing",
+      "selling",
+      "distributing",
+      "importing",
+      "spurious",
+      "goods",
+      "resulting",
+      "death",
+      "alternative"
+    ],
+    "aliases": [
+      "counterfeit goods resulting in death",
+      "fake products leading to fatality",
+      "harmful fake products causing death",
+      "spurious goods causing death",
+      "spurious goods resulting in fatal injury"
+    ],
+    "user_queries": [
+      "What is manufacturing, storing, selling, distributing or importing spurious goods resulting in death?",
+      "How does manufacturing, storing, selling, distributing or importing spurious goods resulting in death work?",
+      "Can you explain manufacturing, storing, selling, distributing or importing spurious goods resulting in death?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -5,22 +5,46 @@
   "description": "Alternative names and search aliases for: Manufacturer Must Discontinue Or Modify Advertisement",
   "content": {
     "aliases": [
-      "advertiser duties",
-      "publisher responsibilities"
+      "endorser responsibilities",
+      "manufacturer duties",
+      "stop misleading ads"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S21-1",
     "obligation.manufacturer_must_discontinue_or_modify_advertisement_as_dir"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.advertiser_must_discontinue_or_modify_advertisement",
+    "alias.central_authority_must_investigate_and_issue_directions",
+    "alias.discontinuation_of_false_or_misleading_advertisement",
+    "alias.endorser_must_discontinue_or_modify_advertisement",
+    "alias.issuance_of_directions_to_discontinue_or_modify_advertisement",
+    "alias.publisher_must_discontinue_or_modify_advertisement",
+    "alias.trader_must_discontinue_or_modify_advertisement"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "manufacturer",
+      "discontinue",
+      "modify",
+      "advertisement",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "advertiser",
+      "duties"
+    ],
     "aliases": [
       "advertiser duties",
       "publisher responsibilities"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is advertiser must discontinue or modify advertisement?",
+      "How does advertiser must discontinue or modify advertisement work?",
+      "Can you explain advertiser must discontinue or modify advertisement?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

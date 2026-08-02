@@ -12,13 +12,34 @@
     "CPA2019-CH2-S5",
     "obligation.central_council_must_render_advice_on_promotion_and_protecti"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_council",
+    "alias.right_to_protection",
+    "authority.central_council",
+    "intent.central_council",
+    "intent.central_council_2",
+    "intent.central_council_must_render_advice",
+    "intent.central_council_must_render_advice_2"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "central",
+      "council",
+      "render",
+      "advice",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
     "aliases": [
       "Central Council advice"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central council must render advice?",
+      "How does central council must render advice work?",
+      "Can you explain central council must render advice?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

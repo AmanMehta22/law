@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.copies_of_documents",
+  "concept_type": "alias",
+  "title": "Copies of documents",
+  "description": "Alternative names and search aliases for: Copies of documents",
+  "content": {
+    "aliases": [
+      "document duplicates",
+      "paper copies",
+      "replicas of papers"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "evidence.copies_of_documents"
+  ],
+  "search": {
+    "keywords": [
+      "copies",
+      "documents",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "document",
+      "duplicates",
+      "paper",
+      "replicas"
+    ],
+    "aliases": [
+      "document duplicates",
+      "paper copies",
+      "replicas of papers"
+    ],
+    "user_queries": [
+      "What is copies of documents?",
+      "How does copies of documents work?",
+      "Can you explain copies of documents?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

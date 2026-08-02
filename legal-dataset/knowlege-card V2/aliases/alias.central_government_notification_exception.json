@@ -1,0 +1,51 @@
+{
+  "concept_id": "alias.central_government_notification_exception",
+  "concept_type": "alias",
+  "title": "Central Government Notification Exception",
+  "description": "Alternative names and search aliases for: Central Government Notification Exception",
+  "content": {
+    "aliases": [
+      "central exemption",
+      "federal exception",
+      "government notification exclusion"
+    ]
+  },
+  "derived_from": [],
+  "related_concepts": [
+    "exception.does_not_apply_if_the_central_government_otherwise_expressly"
+  ],
+  "search": {
+    "keywords": [
+      "central",
+      "government",
+      "notification",
+      "exception",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "exemption",
+      "federal"
+    ],
+    "aliases": [
+      "central exemption",
+      "federal exception",
+      "government notification exclusion"
+    ],
+    "user_queries": [
+      "What is central government notification exception?",
+      "How does central government notification exception work?",
+      "Can you explain central government notification exception?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "KeywordAliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

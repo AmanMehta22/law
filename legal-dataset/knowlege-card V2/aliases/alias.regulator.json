@@ -19,9 +19,28 @@
     "authority.regulator",
     "definition.regulator"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "authority.regulator",
+    "definition.regulator",
+    "intent.regulator",
+    "intent.regulator_2",
+    "intent.regulator_3",
+    "alias.central_authority",
+    "alias.central_authority_must_refer_matter_to_regulator"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "regulator",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "authority",
+      "enforcement",
+      "agency",
+      "oversight",
+      "body"
+    ],
     "aliases": [
       "Authority",
       "Enforcement Agency",
@@ -30,7 +49,11 @@
       "authority",
       "regulatory body"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central authority must refer matter to regulator?",
+      "How does central authority must refer matter to regulator work?",
+      "Can you explain central authority must refer matter to regulator?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

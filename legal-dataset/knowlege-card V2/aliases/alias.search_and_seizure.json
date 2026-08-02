@@ -16,9 +16,24 @@
     "CPA2019-CH3-S22-2",
     "procedure.search_and_seizure"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "intent.search_and_seizure",
+    "intent.search_and_seizure_2",
+    "procedure.search_and_seizure"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "search",
+      "seizure",
+      "alternative",
+      "names",
+      "aliases",
+      "forced",
+      "entry",
+      "inspection",
+      "raid",
+      "warrant"
+    ],
     "aliases": [
       "Forced entry and search",
       "Inspection and seizure",
@@ -26,7 +41,11 @@
       "Search warrant",
       "Seizure of goods"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is search and seizure?",
+      "How does search and seizure work?",
+      "Can you explain search and seizure?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

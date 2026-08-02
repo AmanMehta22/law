@@ -16,9 +16,28 @@
     "CPA2019-CH4-S67",
     "procedure.filing_an_appeal_to_the_supreme_court"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_time_limit",
+    "alias.national_commission",
+    "alias.proof_of_sufficient_cause",
+    "alias.right_to_appeal",
+    "alias.supreme_court",
+    "authority.national_commission",
+    "authority.supreme_court"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "filing",
+      "appeal",
+      "supreme",
+      "court",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "appealing",
+      "petitioning"
+    ],
     "aliases": [
       "appealing to supreme court",
       "filing appeal with supreme court",
@@ -26,7 +45,11 @@
       "submitting appeal to supreme court",
       "supreme court appeal"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is filing an appeal to the supreme court?",
+      "How does filing an appeal to the supreme court work?",
+      "Can you explain filing an appeal to the supreme court?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

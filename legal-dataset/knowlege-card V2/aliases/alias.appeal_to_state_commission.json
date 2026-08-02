@@ -16,9 +16,26 @@
     "CPA2019-CH8-S101-2",
     "procedure.appeal_to_state_commission"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_to_national_commission",
+    "alias.authentication_of_goods",
+    "alias.deposit_of_amount",
+    "alias.filing_complaint",
+    "alias.furnishing_information",
+    "alias.government_must_make_rules",
+    "alias.mediation"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "appeal",
+      "state",
+      "commission",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "consumer"
+    ],
     "aliases": [
       "appeal to state commission",
       "appeal to state consumer commission",
@@ -26,7 +43,10 @@
       "state commission",
       "state commission appeal"
     ],
-    "user_queries": []
+    "user_queries": [
+      "How do I file appeal to national commission?",
+      "What are the steps for appeal to national commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

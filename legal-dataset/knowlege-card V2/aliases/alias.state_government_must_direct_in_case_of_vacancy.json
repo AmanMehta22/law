@@ -12,13 +12,36 @@
     "CPA2019-CH4-S32",
     "obligation.state_government_may_direct_any_other_district_commission_or"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.state_government",
+    "authority.district_commission",
+    "authority.state_government",
+    "intent.district_commission",
+    "intent.district_commission_2",
+    "intent.state_government"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "state",
+      "government",
+      "direct",
+      "case",
+      "vacancy",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "direction"
+    ],
     "aliases": [
       "direction in case of vacancy"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is state government must direct in case of vacancy?",
+      "How does state government must direct in case of vacancy work?",
+      "Can you explain state government must direct in case of vacancy?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

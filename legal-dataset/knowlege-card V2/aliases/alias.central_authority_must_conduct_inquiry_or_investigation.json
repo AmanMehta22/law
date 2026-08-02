@@ -5,20 +5,45 @@
   "description": "Alternative names and search aliases for: Central Authority Must Conduct Inquiry Or Investigation",
   "content": {
     "aliases": [
-      "Central Authority"
+      "inquiry by CCPA",
+      "investigation by Central Authority",
+      "DG inquiry",
+      "Central Agency probe"
     ]
   },
   "derived_from": [
     "CPA2019-CH3-S15-1",
     "obligation.central_authority_shall_conduct_inquiry_or_investigation"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.director_general",
+    "alias.investigation_wing",
+    "authority.central_authority",
+    "authority.director_general",
+    "authority.investigation_wing",
+    "intent.central_authority"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "central",
+      "authority",
+      "conduct",
+      "inquiry",
+      "investigation",
+      "alternative",
+      "names",
+      "search",
+      "aliases"
+    ],
     "aliases": [
       "Central Authority"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central authority must conduct inquiry or investigation?",
+      "How does central authority must conduct inquiry or investigation work?",
+      "Can you explain central authority must conduct inquiry or investigation?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

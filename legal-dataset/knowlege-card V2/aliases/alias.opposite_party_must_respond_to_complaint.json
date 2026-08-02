@@ -12,13 +12,35 @@
     "CPA2019-CH4-S38-3",
     "obligation.opposite_party_must_give_their_version_of_the_case"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_time_limit",
+    "alias.complaint_handling_by_district_commission",
+    "alias.district_commission",
+    "alias.district_commission_must_decide_complaint_on_merits",
+    "alias.district_commission_must_direct_opposite_party_to_respond",
+    "alias.district_commission_must_refer_complaint",
+    "alias.district_commission_must_settle_consumer_dispute"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "opposite",
+      "party",
+      "respond",
+      "complaint",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "obligations"
+    ],
     "aliases": [
       "opposite party obligations"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is opposite party must respond to complaint?",
+      "How does opposite party must respond to complaint work?",
+      "Can you explain opposite party must respond to complaint?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

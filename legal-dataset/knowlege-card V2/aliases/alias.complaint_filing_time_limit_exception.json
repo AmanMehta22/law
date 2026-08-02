@@ -12,13 +12,36 @@
     "CPA2019-CH4-S69-2",
     "exception.a_complaint_may_be_entertained_after_the_period_specified_in"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.complainant_must_satisfy_the_commission",
+    "alias.district_commission",
+    "alias.filing_of_complaint_after_specified_period",
+    "alias.national_commission",
+    "alias.right_to_file_a_late_complaint",
+    "alias.state_commission",
+    "authority.district_commission"
+  ],
   "search": {
-    "keywords": [],
+    "keywords": [
+      "complaint",
+      "filing",
+      "time",
+      "limit",
+      "exception",
+      "alternative",
+      "names",
+      "search",
+      "aliases",
+      "late"
+    ],
     "aliases": [
       "late complaint filing"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is complainant must satisfy the commission?",
+      "How does complainant must satisfy the commission work?",
+      "Can you explain complainant must satisfy the commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",
