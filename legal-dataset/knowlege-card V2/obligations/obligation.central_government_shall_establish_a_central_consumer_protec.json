@@ -10,24 +10,47 @@
       "by notification",
       "with effect from such date as it may specify in that notification"
     ],
-    "limitations": []
+    "limitations": [
+      "to regulate matters relating to violation of rights of consumers, unfair trade practices and false or misleading advertisements which are prejudicial to the interests of public and consumers",
+      "to promote, protect and enforce the rights of consumers as a class"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S10-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_consumer_protection_authority",
+    "alias.central_government",
+    "alias.central_government_must_establish_central_authority",
+    "authority.central_consumer_protection_authority",
+    "authority.central_government",
+    "intent.central_consumer_protection_authority",
+    "intent.central_consumer_protection_authority_2"
+  ],
   "search": {
     "keywords": [
       "Central Consumer Protection Authority",
       "consumer rights",
-      "unfair trade practices"
+      "unfair trade practices",
+      "central",
+      "government",
+      "establish",
+      "authority",
+      "establishment",
+      "consumer",
+      "protection",
+      "notification",
+      "effect"
     ],
     "aliases": [
       "Central Authority"
     ],
     "user_queries": [
       "consumer protection",
-      "regulation of unfair trade practices"
+      "regulation of unfair trade practices",
+      "What is central government must establish central authority?",
+      "How does central government must establish central authority work?",
+      "Can you explain central government must establish central authority?"
     ]
   },
   "metadata": {

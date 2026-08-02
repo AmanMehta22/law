@@ -10,23 +10,46 @@
       "complaint admitted under sub-section (2) of section 36",
       "complaint relates to goods or services where procedure specified in sub-section (2) cannot be followed"
     ],
-    "limitations": []
+    "limitations": [
+      "thirty days or such extended period not exceeding fifteen days",
+      "time given by the District Commission"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_time_limit",
+    "alias.complaint_handling_by_district_commission",
+    "alias.district_commission",
+    "alias.district_commission_must_decide_complaint_on_merits",
+    "alias.district_commission_must_direct_opposite_party_to_respond",
+    "alias.district_commission_must_refer_complaint",
+    "alias.district_commission_must_settle_consumer_dispute"
+  ],
   "search": {
     "keywords": [
       "District Commission",
       "complaint",
-      "opposite party"
+      "opposite party",
+      "district",
+      "commission",
+      "refer",
+      "copy",
+      "opposite",
+      "party",
+      "admitted",
+      "sub",
+      "section"
     ],
     "aliases": [
       "consumer dispute forum"
     ],
     "user_queries": [
-      "what are the duties of the District Commission"
+      "what are the duties of the District Commission",
+      "What is complaint handling by district commission?",
+      "How does complaint handling by district commission work?",
+      "Can you explain complaint handling by district commission?"
     ]
   },
   "metadata": {

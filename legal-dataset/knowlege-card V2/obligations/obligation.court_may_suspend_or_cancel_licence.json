@@ -17,17 +17,38 @@
   "derived_from": [
     "CPA2019-CH7-S91-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.court",
+    "alias.court_must_consider_suspension_or_cancellation_of_licence",
+    "authority.court",
+    "intent.court",
+    "intent.court_2",
+    "intent.court_must_consider_suspension_or_cancellation_of_licence",
+    "intent.court_must_consider_suspension_or_cancellation_of_licence_2"
+  ],
   "search": {
     "keywords": [
       "licence suspension",
-      "conviction"
+      "conviction",
+      "court",
+      "consider",
+      "suspension",
+      "cancellation",
+      "licence",
+      "has",
+      "authority",
+      "suspend",
+      "cancel",
+      "case"
     ],
     "aliases": [
       "court authority"
     ],
     "user_queries": [
-      "what happens to licence after conviction"
+      "what happens to licence after conviction",
+      "What is court must consider suspension or cancellation of licence?",
+      "How does court must consider suspension or cancellation of licence work?",
+      "Can you explain court must consider suspension or cancellation of licence?"
     ]
   },
   "metadata": {

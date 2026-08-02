@@ -2,21 +2,57 @@
   "concept_id": "obligation.additional_director_general_director_joint_director_deputy_d",
   "concept_type": "obligation",
   "title": "Exercise of powers and discharge of functions by certain officials",
-  "description": "Exercise of powers and discharge of functions by certain officials",
+  "description": "Who: Additional Director-General, Director, Joint Director, Deputy Director and Assistant Director. What: shall exercise his powers, and discharge his functions, subject to the general control, supervision and direction of the Director-General. Limitations: subject to the general control, supervision and direction of the Director-General",
   "content": {
     "who": "Additional Director-General, Director, Joint Director, Deputy Director and Assistant Director",
     "what": "shall exercise his powers, and discharge his functions, subject to the general control, supervision and direction of the Director-General",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "Not specified in the Act"
+    ],
+    "limitations": [
+      "subject to the general control, supervision and direction of the Director-General"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S15-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.additional_director_general",
+    "alias.assistant_director",
+    "alias.deputy_director",
+    "alias.director",
+    "alias.director_general",
+    "alias.joint_director",
+    "authority.additional_director_general"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "exercise",
+      "powers",
+      "discharge",
+      "functions",
+      "certain",
+      "officials",
+      "additional",
+      "director",
+      "general",
+      "joint"
+    ],
+    "aliases": [
+      "Alternate Director-General",
+      "Assistant Director-General",
+      "Deputy Director-General",
+      "Extra Director-General",
+      "Supplemental Director-General",
+      "exercise of authority by officials",
+      "official duties and responsibilities",
+      "official powers and functions"
+    ],
+    "user_queries": [
+      "What is exercise of powers and discharge of functions by certain officials?",
+      "How does exercise of powers and discharge of functions by certain officials work?",
+      "Can you explain exercise of powers and discharge of functions by certain officials?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -6,25 +6,46 @@
   "content": {
     "who": "State Commission",
     "what": "must furnish information to the State Government",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "the State Commission furnishing information is as per sub-section (5) of section 70"
+    ],
+    "limitations": [
+      "the form in which the State Commission shall furnish information to the State Government is as per sub-section (5) of section 70",
+      "as prescribed under rules"
+    ]
   },
   "derived_from": [
     "CPA2019-CH8-S102-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.consumer_mediation_cell",
+    "alias.district_commission",
+    "alias.district_council",
+    "alias.government_must_make_rules",
+    "alias.state_commission",
+    "alias.state_commission_must_authenticate_goods",
+    "alias.state_commission_must_furnish_information"
+  ],
   "search": {
     "keywords": [
       "information",
       "State Commission",
-      "State Government"
+      "State Government",
+      "state",
+      "commission",
+      "furnish",
+      "required",
+      "government"
     ],
     "aliases": [
       "report",
       "notification"
     ],
     "user_queries": [
-      "What information must the State Commission provide to the State Government?"
+      "What information must the State Commission provide to the State Government?",
+      "What is state commission must authenticate goods?",
+      "How does state commission must authenticate goods work?",
+      "Can you explain state commission must authenticate goods?"
     ]
   },
   "metadata": {

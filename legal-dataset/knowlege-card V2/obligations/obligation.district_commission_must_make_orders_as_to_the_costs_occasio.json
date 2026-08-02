@@ -2,28 +2,49 @@
   "concept_id": "obligation.district_commission_must_make_orders_as_to_the_costs_occasio",
   "concept_type": "obligation",
   "title": "District Commission must make orders for costs of adjournment",
-  "description": "District Commission must make orders for costs of adjournment",
+  "description": "Who: District Commission. What: must make orders as to the costs occasioned by the adjournment. Conditions: sufficient cause is shown; the reasons for grant of adjournment have been recorded in writing. Limitations: as may be specified by regulations",
   "content": {
     "who": "District Commission",
     "what": "must make orders as to the costs occasioned by the adjournment",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "sufficient cause is shown",
+      "the reasons for grant of adjournment have been recorded in writing"
+    ],
+    "limitations": [
+      "as may be specified by regulations"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-7"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.adjournment_exception",
+    "alias.complaint_disposal",
+    "alias.district_commission",
+    "alias.district_commission_must_dispose_of_complaint_within_a_period",
+    "alias.district_commission_must_make_orders_for_costs_of_adjournment",
+    "alias.district_commission_must_not_grant_adjournment_without_sufficient_cause",
+    "alias.district_commission_must_record_reasons_for_adjournment"
+  ],
   "search": {
     "keywords": [
       "adjournment",
-      "costs"
+      "costs",
+      "district",
+      "commission",
+      "make",
+      "orders",
+      "occasioned"
     ],
     "aliases": [
       "District Commission",
       "Consumer Forum"
     ],
     "user_queries": [
-      "adjournment costs"
+      "adjournment costs",
+      "What is adjournment exception?",
+      "How does adjournment exception work?",
+      "Can you explain adjournment exception?"
     ]
   },
   "metadata": {

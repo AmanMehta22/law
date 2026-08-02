@@ -9,24 +9,46 @@
     "conditions": [
       "when prescribing the number of members for a District Commission"
     ],
-    "limitations": []
+    "limitations": [
+      "not less than two and not more than such number of members as may be prescribed"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S28-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government_must_consult",
+    "alias.district_commission",
+    "authority.district_commission",
+    "intent.central_government_must_consult",
+    "intent.central_government_must_consult_2",
+    "intent.district_commission",
+    "intent.district_commission_2"
+  ],
   "search": {
     "keywords": [
       "consultation",
       "prescription",
-      "District Commission"
+      "District Commission",
+      "central",
+      "government",
+      "consult",
+      "when",
+      "prescribing",
+      "number",
+      "members",
+      "district",
+      "commission"
     ],
     "aliases": [
       "Central Govt",
       "Government of India"
     ],
     "user_queries": [
-      "What are the obligations of the Central Government regarding District Commissions?"
+      "What are the obligations of the Central Government regarding District Commissions?",
+      "What is central government must consult?",
+      "How does central government must consult work?",
+      "Can you explain central government must consult?"
     ]
   },
   "metadata": {

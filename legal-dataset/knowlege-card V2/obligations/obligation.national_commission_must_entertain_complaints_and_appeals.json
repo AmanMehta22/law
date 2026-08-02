@@ -11,20 +11,53 @@
       "complaints against unfair contracts",
       "appeals against orders of State Commission or Central Authority"
     ],
-    "limitations": []
+    "limitations": [
+      "subject to other provisions of the Act",
+      "value of goods or services exceeds rupees ten crore as may be prescribed by Central Government"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S58-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.filing_of_complaints_and_appeals_with_the_national_commission",
+    "alias.national_commission",
+    "alias.review_of_state_commission_decisions",
+    "alias.right_to_appeal",
+    "alias.state_commission"
+  ],
   "search": {
     "keywords": [
       "National Commission",
       "complaints",
-      "appeals"
+      "appeals",
+      "national",
+      "commission",
+      "entertain",
+      "has",
+      "jurisdiction",
+      "certain",
+      "conditions",
+      "value"
     ],
-    "aliases": [],
-    "user_queries": []
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority",
+      "national commission"
+    ],
+    "user_queries": [
+      "What is national commission must entertain complaints and appeals?",
+      "How does national commission must entertain complaints and appeals work?",
+      "Can you explain national commission must entertain complaints and appeals?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

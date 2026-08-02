@@ -10,20 +10,53 @@
       "consumer dispute pending before or decided by State Commission",
       "State Commission has exercised jurisdiction not vested in it by law, or failed to exercise jurisdiction, or acted illegally or with material irregularity"
     ],
-    "limitations": []
+    "limitations": [
+      "value of goods or services paid as consideration exceeds rupees ten crore",
+      "Central Government prescribed value"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S58-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.filing_of_complaints_and_appeals_with_the_national_commission",
+    "alias.national_commission",
+    "alias.review_of_state_commission_decisions",
+    "alias.right_to_appeal",
+    "alias.state_commission"
+  ],
   "search": {
     "keywords": [
       "National Commission",
       "records",
-      "orders"
+      "orders",
+      "national",
+      "commission",
+      "call",
+      "pass",
+      "has",
+      "jurisdiction",
+      "certain",
+      "consumer"
     ],
-    "aliases": [],
-    "user_queries": []
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority",
+      "national commission"
+    ],
+    "user_queries": [
+      "What is national commission must call for records and pass orders?",
+      "How does national commission must call for records and pass orders work?",
+      "Can you explain national commission must call for records and pass orders?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

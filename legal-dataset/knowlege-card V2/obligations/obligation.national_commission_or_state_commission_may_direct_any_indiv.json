@@ -9,22 +9,45 @@
     "conditions": [
       "it involves the larger interest of consumers"
     ],
-    "limitations": []
+    "limitations": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S66"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.assistance_direction",
+    "alias.national_commission",
+    "alias.national_or_state_commission_may_direct_assistance",
+    "alias.state_commission",
+    "authority.national_commission",
+    "authority.state_commission",
+    "intent.assistance_direction"
+  ],
   "search": {
     "keywords": [
       "consumer interest",
-      "expert assistance"
+      "expert assistance",
+      "national",
+      "state",
+      "commission",
+      "direct",
+      "assistance",
+      "directing",
+      "consumer",
+      "cases",
+      "individual",
+      "organisation"
     ],
     "aliases": [
       "direction to assist"
     ],
     "user_queries": [
-      "consumer protection assistance"
+      "consumer protection assistance",
+      "What is assistance direction?",
+      "How does assistance direction work?",
+      "Can you explain assistance direction?"
     ]
   },
   "metadata": {

@@ -9,16 +9,50 @@
     "conditions": [
       "appeal is disposed of after 90 days"
     ],
-    "limitations": []
+    "limitations": [
+      "no adjournment shall ordinarily be granted unless sufficient cause is shown",
+      "reasons for grant of adjournment must be recorded in writing",
+      "costs occasioned by the adjournment shall be specified by regulations"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S52"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.adjournment_exception",
+    "alias.appeal_hearing",
+    "alias.national_commission",
+    "alias.right_to_expedient_hearing_of_appeal",
+    "alias.state_commission",
+    "authority.national_commission",
+    "authority.state_commission"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "state",
+      "commission",
+      "national",
+      "record",
+      "reasons",
+      "delayed",
+      "disposal",
+      "disposing",
+      "appeal",
+      "after"
+    ],
+    "aliases": [
+      "delay",
+      "postponement",
+      "delay explanation required",
+      "documentation of delay",
+      "reasons for slow disposal",
+      "record delay reasons"
+    ],
+    "user_queries": [
+      "What is state commission or national commission must record reasons for delayed disposal?",
+      "How does state commission or national commission must record reasons for delayed disposal work?",
+      "Can you explain state commission or national commission must record reasons for delayed disposal?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

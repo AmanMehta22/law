@@ -9,23 +9,45 @@
     "conditions": [
       "had published or arranged for publication of advertisement in ordinary course of business"
     ],
-    "limitations": []
+    "limitations": [
+      "had previous knowledge of the order passed by the Central Authority for withdrawal or modification of such advertisement"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S21-6"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.defence_not_available_with_previous_knowledge",
+    "alias.person_must_prove_publication_in_ordinary_course_of_business",
+    "alias.proof_of_publication_in_ordinary_course_of_business",
+    "authority.central_authority",
+    "evidence.records_of_business_transactions_publication_records",
+    "exception.such_defence_is_not_available_if_the_person_had_previous_kno"
+  ],
   "search": {
     "keywords": [
       "defence",
       "advertisement",
-      "liability"
+      "liability",
+      "person",
+      "prove",
+      "publication",
+      "ordinary",
+      "course",
+      "business",
+      "they",
+      "published",
+      "arranged"
     ],
     "aliases": [
       "due diligence"
     ],
     "user_queries": [
-      "how to avoid penalty for false advertising"
+      "how to avoid penalty for false advertising",
+      "What is defence not available with previous knowledge?",
+      "How does defence not available with previous knowledge work?",
+      "Can you explain defence not available with previous knowledge?"
     ]
   },
   "metadata": {

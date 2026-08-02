@@ -16,17 +16,35 @@
   "derived_from": [
     "CPA2019-CH4-S36-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.admissibility_decision_time_limit",
+    "alias.complaint_admissibility_procedure",
+    "alias.district_commission_must_decide_admissibility_within_21_days",
+    "alias.district_commission_must_give_opportunity_of_being_heard",
+    "alias.right_to_be_heard",
+    "exception.a_complaint_shall_not_be_rejected_unless_an_opportunity_of_b",
+    "intent.admissibility_decision_time_limit"
+  ],
   "search": {
     "keywords": [
       "admissibility",
-      "time limit"
+      "time limit",
+      "district",
+      "commission",
+      "decide",
+      "days",
+      "complaint",
+      "filing",
+      "ordinarily"
     ],
     "aliases": [
       "complaint procedure"
     ],
     "user_queries": [
-      "District Commission timelines"
+      "District Commission timelines",
+      "What is admissibility decision time limit?",
+      "How does admissibility decision time limit work?",
+      "Can you explain admissibility decision time limit?"
     ]
   },
   "metadata": {

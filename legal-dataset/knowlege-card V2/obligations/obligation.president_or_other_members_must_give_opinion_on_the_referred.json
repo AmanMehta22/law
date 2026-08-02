@@ -9,25 +9,46 @@
     "conditions": [
       "within a period of one month from the date of such reference"
     ],
-    "limitations": []
+    "limitations": [
+      "if the members are equally divided"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S47-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.president",
+    "alias.president_or_other_members_must_give_opinion_within_a_month",
+    "alias.resolution_of_differing_opinions",
+    "authority.president",
+    "intent.opinion_time_limit",
+    "intent.president",
+    "intent.president_2"
+  ],
   "search": {
     "keywords": [
       "President",
       "opinion",
       "reference",
-      "time limit"
+      "time limit",
+      "president",
+      "other",
+      "members",
+      "give",
+      "month",
+      "referred",
+      "point",
+      "points"
     ],
     "aliases": [
       "timeframe",
       "deadline"
     ],
     "user_queries": [
-      "What is the timeframe for the President to give an opinion?"
+      "What is the timeframe for the President to give an opinion?",
+      "What is president or other members must give opinion within a month?",
+      "How does president or other members must give opinion within a month work?",
+      "Can you explain president or other members must give opinion within a month?"
     ]
   },
   "metadata": {

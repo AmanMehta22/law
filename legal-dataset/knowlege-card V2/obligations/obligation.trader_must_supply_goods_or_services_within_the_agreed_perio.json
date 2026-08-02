@@ -9,23 +9,45 @@
     "conditions": [
       "agreed period"
     ],
-    "limitations": []
+    "limitations": [
+      "delay beyond the period agreed to by a trader in supply of such goods or in providing the services which has led or is likely to lead to rise in the price"
+    ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-41"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.restrictive_trade_practice",
+    "alias.trader_must_supply_goods_or_services_within_agreed_period",
+    "definition.restrictive_trade_practice",
+    "intent.restrictive_trade_practice",
+    "intent.restrictive_trade_practice_2",
+    "intent.trader_must_supply_goods_or_services_within_agreed_period",
+    "intent.trader_must_supply_goods_or_services_within_agreed_period_2"
+  ],
   "search": {
     "keywords": [
       "restrictive trade practice",
       "delay",
-      "agreed period"
+      "agreed period",
+      "trader",
+      "supply",
+      "goods",
+      "services",
+      "agreed",
+      "period",
+      "avoid",
+      "lead",
+      "rise"
     ],
     "aliases": [
       "supply goods or services on time"
     ],
     "user_queries": [
-      "What are the obligations of a trader in supplying goods or services?"
+      "What are the obligations of a trader in supplying goods or services?",
+      "What is restrictive trade practice?",
+      "How does restrictive trade practice work?",
+      "Can you explain restrictive trade practice?"
     ]
   },
   "metadata": {

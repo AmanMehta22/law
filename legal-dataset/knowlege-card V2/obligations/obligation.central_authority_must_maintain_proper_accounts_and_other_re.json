@@ -9,24 +9,45 @@
     "conditions": [
       "in such form and manner as may be prescribed in consultation with the Comptroller and Auditor-General of India"
     ],
-    "limitations": []
+    "limitations": [
+      "in such form and manner as may be prescribed in consultation with the Comptroller and Auditor-General of India"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S26-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_authority_must_maintain_accounts_and_records",
+    "alias.comptroller_and_auditor_general_of_india",
+    "authority.central_authority",
+    "authority.comptroller_and_auditor_general_of_india",
+    "evidence.accounts_records",
+    "intent.accounts_and_records"
+  ],
   "search": {
     "keywords": [
       "accounts",
       "records",
-      "annual statement"
+      "annual statement",
+      "central",
+      "authority",
+      "maintain",
+      "required",
+      "proper",
+      "other",
+      "relevant",
+      "prepare"
     ],
     "aliases": [
       "Central Authority",
       "Comptroller and Auditor-General of India"
     ],
     "user_queries": [
-      "What are the accounting requirements for the Central Authority?"
+      "What are the accounting requirements for the Central Authority?",
+      "What is accounts and records?",
+      "How does accounts and records work?",
+      "Can you explain accounts and records?"
     ]
   },
   "metadata": {

@@ -6,17 +6,53 @@
   "content": {
     "who": "District Commission",
     "what": "must hear complaints based on affidavit and documentary evidence",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "on sufficient cause being shown",
+      "after recording its reasons in writing"
+    ],
+    "limitations": [
+      "where an application is made for hearing or for examination of parties in person or through video conferencing"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-6"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.complaint_filing",
+    "alias.district_commission",
+    "alias.hearing_through_affidavit_and_documentary_evidence",
+    "authority.district_commission",
+    "evidence.affidavit",
+    "evidence.documentary_evidence",
+    "exception.the_district_commission_may_allow_hearing_or_examination_of_"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "district",
+      "commission",
+      "hear",
+      "complaints",
+      "based",
+      "affidavit",
+      "documentary",
+      "evidence",
+      "required"
+    ],
+    "aliases": [
+      "complaint lodging",
+      "complaint registration",
+      "filing a complaint",
+      "submitting a complaint",
+      "affidavit-based complaint",
+      "complaint hearing with supporting documents",
+      "documentary evidence hearing",
+      "evidence-based complaint hearing"
+    ],
+    "user_queries": [
+      "What is district commission must hear complaints based on affidavit and documentary evidence?",
+      "How does district commission must hear complaints based on affidavit and documentary evidence work?",
+      "Can you explain district commission must hear complaints based on affidavit and documentary evidence?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

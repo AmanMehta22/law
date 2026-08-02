@@ -9,22 +9,45 @@
     "conditions": [
       "periodically or as and when required"
     ],
-    "limitations": []
+    "limitations": [
+      "in such form and manner as may be prescribed"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S70-4"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.national_and_state_commissions_must_furnish_information",
+    "alias.national_commission",
+    "alias.state_commissions",
+    "authority.central_government",
+    "authority.national_commission",
+    "authority.state_commissions"
+  ],
   "search": {
     "keywords": [
       "information",
       "Central Government",
-      "periodic"
+      "periodic",
+      "national",
+      "state",
+      "commissions",
+      "furnish",
+      "commission",
+      "required",
+      "provide",
+      "central",
+      "government"
     ],
     "aliases": [
       "reporting requirement"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is information?",
+      "How does information work?",
+      "Can you explain information?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

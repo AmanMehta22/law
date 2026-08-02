@@ -10,21 +10,51 @@
       "for preventing unfair trade practices in e-commerce, direct selling",
       "to protect the interest and rights of consumers"
     ],
-    "limitations": []
+    "limitations": [
+      "in the manner as may be prescribed"
+    ]
   },
   "derived_from": [
     "CPA2019-CH8-S94"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "authority.central_government",
+    "intent.central_government",
+    "intent.central_government_2",
+    "intent.central_government_may_take_measures",
+    "intent.mediation_references_central_government",
+    "relationship.alias_mediation_references_alias_central_government"
+  ],
   "search": {
     "keywords": [
       "unfair trade practices",
       "e-commerce",
       "direct selling",
-      "consumer protection"
+      "consumer protection",
+      "central",
+      "government",
+      "take",
+      "measures",
+      "prevent",
+      "unfair",
+      "trade",
+      "practices"
     ],
-    "aliases": [],
-    "user_queries": []
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government",
+      "central government action",
+      "government intervention",
+      "regulatory measures by central government"
+    ],
+    "user_queries": [
+      "What is central government may take measures?",
+      "How does central government may take measures work?",
+      "Can you explain central government may take measures?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -9,23 +9,46 @@
     "conditions": [
       "within seven days of the receipt of the settlement report"
     ],
-    "limitations": []
+    "limitations": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH5-S81-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.commission_must_pass_order_and_dispose_of_matter",
+    "alias.district_commission",
+    "alias.national_commission",
+    "alias.settlement_disposal",
+    "alias.state_commission",
+    "authority.district_commission",
+    "authority.national_commission"
+  ],
   "search": {
     "keywords": [
       "consumer dispute",
-      "settlement report"
+      "settlement report",
+      "commission",
+      "pass",
+      "order",
+      "dispose",
+      "matter",
+      "days",
+      "receiving",
+      "settlement",
+      "report",
+      "district"
     ],
     "aliases": [
       "consumer complaint",
       "dispute resolution"
     ],
     "user_queries": [
-      "What happens after a settlement report is received?"
+      "What happens after a settlement report is received?",
+      "What is commission must pass order and dispose of matter?",
+      "How does commission must pass order and dispose of matter work?",
+      "Can you explain commission must pass order and dispose of matter?"
     ]
   },
   "metadata": {

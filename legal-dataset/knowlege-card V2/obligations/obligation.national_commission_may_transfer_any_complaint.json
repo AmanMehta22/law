@@ -10,22 +10,46 @@
       "at any stage of the proceeding",
       "in the interest of justice"
     ],
-    "limitations": []
+    "limitations": [
+      "on the application of the complainant or of its own motion",
+      "pending before the District Commission of one State to a District Commission of another State or before one State Commission to another State Commission"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S62"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.complaint_transfer",
+    "alias.district_commission",
+    "alias.national_commission",
+    "alias.national_commission_must_consider_transfer_of_complaint",
+    "alias.state_commission",
+    "authority.district_commission",
+    "authority.national_commission"
+  ],
   "search": {
     "keywords": [
       "complaint transfer",
-      "National Commission"
+      "National Commission",
+      "national",
+      "commission",
+      "consider",
+      "transfer",
+      "complaint",
+      "has",
+      "power",
+      "complaints",
+      "between",
+      "district"
     ],
     "aliases": [
       "complaint relocation"
     ],
     "user_queries": [
-      "can the National Commission transfer a complaint"
+      "can the National Commission transfer a complaint",
+      "What is complaint transfer?",
+      "How does complaint transfer work?",
+      "Can you explain complaint transfer?"
     ]
   },
   "metadata": {

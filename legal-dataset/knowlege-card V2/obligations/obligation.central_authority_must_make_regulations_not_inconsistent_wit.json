@@ -6,20 +6,54 @@
   "content": {
     "who": "Central Authority",
     "what": "must make regulations not inconsistent with this Act",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "with the previous approval of the Central Government",
+      "by notification",
+      "for the purpose of giving effect to the provisions of this Act"
+    ],
+    "limitations": [
+      "not inconsistent with this Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH8-S104-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_government",
+    "authority.central_authority",
+    "authority.central_government",
+    "intent.central_authority",
+    "intent.central_authority_2",
+    "intent.central_authority_must_make_consistent_regulations"
+  ],
   "search": {
     "keywords": [
       "regulations",
-      "consistent"
+      "consistent",
+      "central",
+      "authority",
+      "make",
+      "act",
+      "inconsistent"
     ],
-    "aliases": [],
-    "user_queries": []
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority",
+      "central authority regulation consistency",
+      "consistent rulemaking by central authority"
+    ],
+    "user_queries": [
+      "What is central authority must make consistent regulations?",
+      "How does central authority must make consistent regulations work?",
+      "Can you explain central authority must make consistent regulations?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

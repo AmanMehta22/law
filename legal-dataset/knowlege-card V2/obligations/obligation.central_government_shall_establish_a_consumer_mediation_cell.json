@@ -6,25 +6,47 @@
   "content": {
     "who": "Central Government",
     "what": "shall establish a consumer mediation cell",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "by notification"
+    ],
+    "limitations": [
+      "to be attached to the National Commission and each of the regional Benches"
+    ]
   },
   "derived_from": [
     "CPA2019-CH5-S74-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.central_government_must_establish_consumer_mediation_cell",
+    "alias.consumer_mediation_cell",
+    "alias.national_commission",
+    "authority.central_government",
+    "authority.consumer_mediation_cell",
+    "authority.national_commission"
+  ],
   "search": {
     "keywords": [
       "consumer mediation cell",
       "National Commission",
-      "regional Benches"
+      "regional Benches",
+      "central",
+      "government",
+      "establish",
+      "consumer",
+      "mediation",
+      "cell",
+      "required"
     ],
     "aliases": [
       "Central Government",
       "Government of India"
     ],
     "user_queries": [
-      "What is the role of Central Government in consumer protection?"
+      "What is the role of Central Government in consumer protection?",
+      "What is central government must establish consumer mediation cell?",
+      "How does central government must establish consumer mediation cell work?",
+      "Can you explain central government must establish consumer mediation cell?"
     ]
   },
   "metadata": {

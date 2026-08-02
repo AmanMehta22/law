@@ -10,19 +10,50 @@
       "as and when necessary",
       "at least two meetings every year"
     ],
-    "limitations": []
+    "limitations": [
+      "not less than two meetings a year"
+    ]
   },
   "derived_from": [
     "CPA2019-CH2-S8-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_council",
+    "authority.district_council",
+    "intent.district_council",
+    "intent.district_council_2",
+    "intent.district_council_must_meet_regularly"
+  ],
   "search": {
     "keywords": [
       "District Council",
-      "meeting frequency"
+      "meeting frequency",
+      "district",
+      "council",
+      "meet",
+      "regularly",
+      "has",
+      "meeting",
+      "obligation",
+      "when",
+      "necessary",
+      "least"
     ],
-    "aliases": [],
-    "user_queries": []
+    "aliases": [
+      "District Board",
+      "Local Council",
+      "Municipal Council",
+      "council",
+      "council meeting",
+      "council meeting schedule",
+      "council meetings",
+      "district council meetings"
+    ],
+    "user_queries": [
+      "What is district council must meet regularly?",
+      "How does district council must meet regularly work?",
+      "Can you explain district council must meet regularly?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -9,23 +9,44 @@
     "conditions": [
       "as soon as may be after it is made"
     ],
-    "limitations": []
+    "limitations": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH8-S105-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.state_government",
+    "alias.state_government_must_lay_rules_before_legislature",
+    "authority.state_government",
+    "intent.state_government",
+    "intent.state_government_2",
+    "intent.state_government_must_lay_rules_before_legislature",
+    "intent.state_government_must_lay_rules_before_legislature_2"
+  ],
   "search": {
     "keywords": [
       "State Government",
       "rules",
-      "State Legislature"
+      "State Legislature",
+      "state",
+      "government",
+      "lay",
+      "before",
+      "legislature",
+      "soon",
+      "after",
+      "made"
     ],
     "aliases": [
       "laying of rules"
     ],
     "user_queries": [
-      "What are the obligations of State Government under the Act?"
+      "What are the obligations of State Government under the Act?",
+      "What is state government must lay rules before legislature?",
+      "How does state government must lay rules before legislature work?",
+      "Can you explain state government must lay rules before legislature?"
     ]
   },
   "metadata": {

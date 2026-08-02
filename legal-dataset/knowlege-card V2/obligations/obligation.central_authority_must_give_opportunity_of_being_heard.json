@@ -9,20 +9,54 @@
     "conditions": [
       "before passing an order under this section"
     ],
-    "limitations": []
+    "limitations": [
+      "before passing an order under this section"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S20"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.discontinuation_of_unfair_practices",
+    "alias.investigation_and_order_passing",
+    "alias.opportunity_of_being_heard",
+    "alias.recall_of_goods_or_withdrawal_of_services",
+    "alias.reimbursement_of_prices",
+    "alias.right_to_reimbursement"
+  ],
   "search": {
     "keywords": [
       "opportunity of being heard",
       "Central Authority",
-      "order"
+      "order",
+      "central",
+      "authority",
+      "give",
+      "opportunity",
+      "being",
+      "heard",
+      "provide",
+      "person",
+      "before"
     ],
-    "aliases": [],
-    "user_queries": []
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority",
+      "central authority right to hearing",
+      "fair hearing by central authority"
+    ],
+    "user_queries": [
+      "What is central authority must give opportunity of being heard?",
+      "How does central authority must give opportunity of being heard work?",
+      "Can you explain central authority must give opportunity of being heard?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

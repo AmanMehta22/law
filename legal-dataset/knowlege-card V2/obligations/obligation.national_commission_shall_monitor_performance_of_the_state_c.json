@@ -9,24 +9,46 @@
     "conditions": [
       "by calling for periodical returns regarding institution, disposal and pendency of cases"
     ],
-    "limitations": []
+    "limitations": [
+      "without interfering with their quasi-judicial freedom"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S70-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.district_commission",
+    "alias.investigation_into_allegations_against_state_commission_members",
+    "alias.issuance_of_instructions_for_uniform_procedure",
+    "alias.monitoring_performance_of_state_commissions",
+    "alias.national_commission",
+    "alias.national_commission_must_investigate_allegations_against_state_commission_member"
+  ],
   "search": {
     "keywords": [
       "National Commission",
       "State Commissions",
-      "performance monitoring"
+      "performance monitoring",
+      "national",
+      "commission",
+      "monitor",
+      "state",
+      "commissions",
+      "performance",
+      "has",
+      "administrative",
+      "control"
     ],
     "aliases": [
       "administrative control",
       "regulatory oversight"
     ],
     "user_queries": [
-      "How does the National Commission oversee State Commissions?"
+      "How does the National Commission oversee State Commissions?",
+      "What is national commission must monitor state commissions' performance?",
+      "How does national commission must monitor state commissions' performance work?",
+      "Can you explain national commission must monitor state commissions' performance?"
     ]
   },
   "metadata": {

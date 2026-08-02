@@ -6,17 +6,44 @@
   "content": {
     "who": "Regulator",
     "what": "must specify conditions for re-empanelment of mediators",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "such conditions as may be specified by regulations"
+    ],
+    "limitations": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH5-S75-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "exception.shall_be_eligible_subject_to_such_conditions_as_may_be_speci",
+    "intent.district_commission_references_questions_about_term_of_office",
+    "intent.district_commission_requires_questions_about_term_of_office",
+    "intent.regulator_must_specify_conditions",
+    "intent.re_empanelment_eligibility",
+    "intent.term_of_office",
+    "relationship.alias_district_commission_references_intent_term_of_office"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "regulator",
+      "specify",
+      "conditions",
+      "regulations",
+      "empanelment",
+      "mediators"
+    ],
+    "aliases": [
+      "regulator's conditions",
+      "regulatory conditions",
+      "specifying regulations"
+    ],
+    "user_queries": [
+      "What is regulator must specify conditions?",
+      "How does regulator must specify conditions work?",
+      "Can you explain regulator must specify conditions?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

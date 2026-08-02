@@ -10,24 +10,45 @@
       "if there is an error apparent on the face of the record",
       "either of its own motion or on an application made by any of the parties within thirty days of such order"
     ],
-    "limitations": []
+    "limitations": [
+      "within thirty days of such order"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S40"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_time_limit",
+    "alias.district_commission",
+    "alias.district_commission_must_review_order",
+    "alias.review_of_order",
+    "authority.district_commission",
+    "intent.appeal_time_limit",
+    "intent.appeal_time_limit_2"
+  ],
   "search": {
     "keywords": [
       "review",
       "order",
-      "District Commission"
+      "District Commission",
+      "district",
+      "commission",
+      "passed",
+      "there",
+      "error",
+      "apparent",
+      "face",
+      "record"
     ],
     "aliases": [
       "re-examine",
       "reconsider"
     ],
     "user_queries": [
-      "Can the District Commission review its own order?"
+      "Can the District Commission review its own order?",
+      "What is district commission must review order?",
+      "How does district commission must review order work?",
+      "Can you explain district commission must review order?"
     ]
   },
   "metadata": {

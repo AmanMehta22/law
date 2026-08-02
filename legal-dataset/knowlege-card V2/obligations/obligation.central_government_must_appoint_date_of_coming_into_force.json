@@ -6,17 +6,52 @@
   "content": {
     "who": "Central Government",
     "what": "must appoint date of coming into force",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "by notification"
+    ],
+    "limitations": [
+      "different dates may be appointed for different States",
+      "different dates may be appointed for different provisions of this Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH1-S1-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "authority.central_government",
+    "intent.central_government",
+    "intent.central_government_2",
+    "intent.central_government_must_appoint_date_of_coming_into_force",
+    "intent.district_commission_references_central_government",
+    "relationship.alias_district_commission_references_alias_central_government"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "central",
+      "government",
+      "appoint",
+      "date",
+      "coming",
+      "into",
+      "force",
+      "required",
+      "act"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government",
+      "central government enforcement schedule",
+      "effective date announcement",
+      "enforcement date notification"
+    ],
+    "user_queries": [
+      "What is central government must appoint date of coming into force?",
+      "How does central government must appoint date of coming into force work?",
+      "Can you explain central government must appoint date of coming into force?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

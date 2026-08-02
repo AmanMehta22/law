@@ -6,17 +6,47 @@
   "content": {
     "who": "Officers and other employees of the State Commission",
     "what": "discharge their functions under the general superintendence of the President",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "Not specified in the Act"
+    ],
+    "limitations": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S46-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.officers_and_employees_must_discharge_functions_under_superintendence",
+    "alias.state_commission",
+    "authority.state_commission",
+    "intent.officers_and_employees_must_discharge_functions_under_superintendence",
+    "intent.officers_and_employees_must_discharge_functions_under_superintendence_4",
+    "intent.state_commission",
+    "intent.state_commission_2"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "officers",
+      "employees",
+      "discharge",
+      "functions",
+      "superintendence",
+      "other",
+      "state",
+      "commission",
+      "have",
+      "duty"
+    ],
+    "aliases": [
+      "employees",
+      "officers"
+    ],
+    "user_queries": [
+      "What is officers and employees must discharge functions under superintendence?",
+      "How does officers and employees must discharge functions under superintendence work?",
+      "Can you explain officers and employees must discharge functions under superintendence?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

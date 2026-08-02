@@ -9,20 +9,52 @@
     "conditions": [
       "periodically or as and when required"
     ],
-    "limitations": []
+    "limitations": [
+      "in such form and manner as may be prescribed"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S70-5"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.state_commission",
+    "alias.state_commission_must_furnish_information",
+    "alias.state_government",
+    "authority.state_commission",
+    "authority.state_government",
+    "evidence.information",
+    "intent.district_commission_references_state_commission"
+  ],
   "search": {
     "keywords": [
       "State Commission",
       "information",
-      "State Government"
+      "State Government",
+      "state",
+      "commission",
+      "furnish",
+      "required",
+      "provide",
+      "government",
+      "including",
+      "pendency",
+      "cases"
     ],
-    "aliases": [],
-    "user_queries": []
+    "aliases": [
+      "Commission of the State",
+      "SCDRC",
+      "State Consumer Commission",
+      "State Consumer Disputes Redressal Commission",
+      "State Consumer Forum",
+      "State Tribunal",
+      "notification",
+      "report"
+    ],
+    "user_queries": [
+      "What is state commission must authenticate goods?",
+      "How does state commission must authenticate goods work?",
+      "Can you explain state commission must authenticate goods?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

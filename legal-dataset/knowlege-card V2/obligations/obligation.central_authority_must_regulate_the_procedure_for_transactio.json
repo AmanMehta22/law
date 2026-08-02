@@ -27,16 +27,50 @@
       "o",
       "n"
     ],
-    "limitations": []
+    "limitations": [
+      "as may be specified by regulations"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S14-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "authority.central_authority",
+    "intent.central_authority",
+    "intent.central_authority_2",
+    "intent.central_authority_must_regulate_its_business"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "central",
+      "authority",
+      "regulate",
+      "its",
+      "business",
+      "procedure",
+      "transaction",
+      "allocation",
+      "amongst",
+      "chief"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority",
+      "business oversight by central authority",
+      "central authority business regulation"
+    ],
+    "user_queries": [
+      "What is central authority must regulate its business?",
+      "How does central authority must regulate its business work?",
+      "Can you explain central authority must regulate its business?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

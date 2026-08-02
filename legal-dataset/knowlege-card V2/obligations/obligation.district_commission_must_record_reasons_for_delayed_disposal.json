@@ -2,30 +2,53 @@
   "concept_id": "obligation.district_commission_must_record_reasons_for_delayed_disposal",
   "concept_type": "obligation",
   "title": "District Commission must record reasons for delayed disposal",
-  "description": "District Commission must record reasons for delayed disposal",
+  "description": "Who: District Commission. What: must record reasons for delayed disposal in writing. Conditions: complaint is disposed of after the period so specified. Limitations: within a period of three months from the date of receipt of notice by opposite party where the complaint does not require analysis or testing of commodities; within five months if it requires analysis or testing of commodities",
   "content": {
     "who": "District Commission",
     "what": "must record reasons for delayed disposal in writing",
     "conditions": [
       "complaint is disposed of after the period so specified"
     ],
-    "limitations": []
+    "limitations": [
+      "within a period of three months from the date of receipt of notice by opposite party where the complaint does not require analysis or testing of commodities",
+      "within five months if it requires analysis or testing of commodities"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-7"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.adjournment_exception",
+    "alias.complaint_disposal",
+    "alias.district_commission",
+    "alias.district_commission_must_dispose_of_complaint_within_a_period",
+    "alias.district_commission_must_make_orders_for_costs_of_adjournment",
+    "alias.district_commission_must_not_grant_adjournment_without_sufficient_cause",
+    "alias.district_commission_must_record_reasons_for_adjournment"
+  ],
   "search": {
     "keywords": [
       "delayed disposal",
-      "reasons"
+      "reasons",
+      "district",
+      "commission",
+      "record",
+      "delayed",
+      "disposal",
+      "writing",
+      "complaint",
+      "disposed",
+      "after"
     ],
     "aliases": [
       "District Commission",
       "Consumer Forum"
     ],
     "user_queries": [
-      "delayed disposal reasons"
+      "delayed disposal reasons",
+      "What is district commission must record reasons for delayed disposal?",
+      "How does district commission must record reasons for delayed disposal work?",
+      "Can you explain district commission must record reasons for delayed disposal?"
     ]
   },
   "metadata": {

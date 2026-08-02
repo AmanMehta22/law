@@ -6,25 +6,49 @@
   "content": {
     "who": "Central Government",
     "what": "make rules for appointment of President and members of State Commission",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "by notification"
+    ],
+    "limitations": [
+      "by notification",
+      "make rules to provide for the qualification for appointment, method of recruitment, procedure of appointment, term of office, resignation and removal of the President and members of the State Commission"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S43"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appointment_of_president_and_members_of_the_state_commission",
+    "alias.central_government",
+    "alias.central_government_must_make_rules_for_state_commission_appointments",
+    "alias.state_commission",
+    "authority.central_government",
+    "authority.state_commission",
+    "intent.appointment_of_president_and_members_of_the_state_commission"
+  ],
   "search": {
     "keywords": [
       "appointment",
       "State Commission",
-      "rules"
+      "rules",
+      "central",
+      "government",
+      "make",
+      "state",
+      "commission",
+      "appointments",
+      "required",
+      "president"
     ],
     "aliases": [
       "regulations",
       "notifications"
     ],
     "user_queries": [
-      "What are the rules for State Commission appointments?"
+      "What are the rules for State Commission appointments?",
+      "What is appointment of president and members of the state commission?",
+      "How does appointment of president and members of the state commission work?",
+      "Can you explain appointment of president and members of the state commission?"
     ]
   },
   "metadata": {

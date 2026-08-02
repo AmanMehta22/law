@@ -10,24 +10,46 @@
       "if it appears necessary",
       "during the pendency of any proceeding before the District Commission"
     ],
-    "limitations": []
+    "limitations": [
+      "as is just and proper in the facts and circumstances of the case"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-8"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.district_commission_must_pass_interim_order",
+    "alias.passing_of_interim_order",
+    "authority.district_commission",
+    "intent.district_commission",
+    "intent.district_commission_2",
+    "intent.district_commission_must_pass_interim_order"
+  ],
   "search": {
     "keywords": [
       "interim order",
       "District Commission",
-      "pendency of proceeding"
+      "pendency of proceeding",
+      "district",
+      "commission",
+      "pass",
+      "interim",
+      "order",
+      "such",
+      "just",
+      "proper",
+      "facts"
     ],
     "aliases": [
       "temporary order",
       "proceeding before District Commission"
     ],
     "user_queries": [
-      "What are the powers of District Commission during a proceeding?"
+      "What are the powers of District Commission during a proceeding?",
+      "What is district commission must pass interim order?",
+      "How does district commission must pass interim order work?",
+      "Can you explain district commission must pass interim order?"
     ]
   },
   "metadata": {

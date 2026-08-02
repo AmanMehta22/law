@@ -6,25 +6,49 @@
   "content": {
     "who": "Mediator",
     "what": "must disclose circumstances which may give rise to a justifiable doubt as to his independence or impartiality",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "personal interest",
+      "professional interest",
+      "financial interest in the outcome of the consumer dispute"
+    ],
+    "limitations": [
+      "such other facts as may be specified by regulations"
+    ]
   },
   "derived_from": [
     "CPA2019-CH5-S77"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.mediator_must_disclose_circumstances_affecting_independence_or_impartiality",
+    "alias.mediator_must_disclose_other_facts_specified_by_regulations",
+    "alias.mediator_must_disclose_personal_professional_or_financial_interest",
+    "intent.district_commission_references_mediator_must_disclose_circumstances_affecting_in",
+    "intent.mediator_must_disclose_circumstances_affecting_independence_or_impartiality",
+    "intent.mediator_must_disclose_circumstances_affecting_independence_or_impartiality_2",
+    "intent.mediator_must_disclose_other_facts_specified_by_regulations"
+  ],
   "search": {
     "keywords": [
       "mediator",
       "independence",
-      "impartiality"
+      "impartiality",
+      "disclose",
+      "circumstances",
+      "affecting",
+      "give",
+      "rise",
+      "justifiable",
+      "doubt"
     ],
     "aliases": [
       "reveal",
       "declare"
     ],
     "user_queries": [
-      "What must a mediator disclose about his independence?"
+      "What must a mediator disclose about his independence?",
+      "What is district commission references mediator must disclose circumstances affecting independence or impartiality?",
+      "How does district commission references mediator must disclose circumstances affecting independence or impartiality work?",
+      "Can you explain district commission references mediator must disclose circumstances affecting independence or impartiality?"
     ]
   },
   "metadata": {

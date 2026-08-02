@@ -9,20 +9,52 @@
     "conditions": [
       "ordered to pay amount by State Commission"
     ],
-    "limitations": []
+    "limitations": [
+      "within thirty days from the date of the order",
+      "sufficient cause for not filing within thirty days",
+      "deposit of fifty per cent. of the amount ordered by State Commission"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S51-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_time_limit",
+    "alias.national_commission",
+    "alias.proof_of_sufficient_cause",
+    "alias.right_to_appeal",
+    "alias.state_commission",
+    "authority.national_commission",
+    "authority.state_commission"
+  ],
   "search": {
     "keywords": [
       "appeal",
       "deposit",
-      "National Commission"
+      "National Commission",
+      "appellant",
+      "amount",
+      "ordered",
+      "state",
+      "commission",
+      "pay"
     ],
-    "aliases": [],
-    "user_queries": []
+    "aliases": [
+      "appeal deadline",
+      "filing appeal",
+      "opposite party response",
+      "time limit for appeal",
+      "time limit for application",
+      "time to respond",
+      "appeal deposit amount",
+      "appellant deposit requirement",
+      "security deposit for appeal"
+    ],
+    "user_queries": [
+      "What is appellant must deposit amount?",
+      "How does appellant must deposit amount work?",
+      "Can you explain appellant must deposit amount?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

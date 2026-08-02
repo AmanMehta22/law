@@ -6,17 +6,43 @@
   "content": {
     "who": "Government",
     "what": "must utilise funds in a prescribed manner",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "as may be prescribed"
+    ],
+    "limitations": [
+      "in such manner"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S39-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "intent.government_must_utilise_funds",
+    "intent.mediation_references_questions_about_government_must_utilise_funds",
+    "relationship.alias_mediation_references_intent_government_must_utilise_funds"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "government",
+      "utilise",
+      "funds",
+      "prescribed",
+      "manner"
+    ],
+    "aliases": [
+      "appeal to national commission",
+      "appeal to national consumer commission",
+      "national appeal",
+      "national commission",
+      "national commission appeal",
+      "government fund",
+      "government use of funds"
+    ],
+    "user_queries": [
+      "What is government must utilise funds?",
+      "How does government must utilise funds work?",
+      "Can you explain government must utilise funds?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

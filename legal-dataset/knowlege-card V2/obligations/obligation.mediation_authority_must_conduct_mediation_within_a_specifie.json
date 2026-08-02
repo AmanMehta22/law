@@ -9,22 +9,54 @@
     "conditions": [
       "under sub-section (3) of section 79"
     ],
-    "limitations": []
+    "limitations": [
+      "under sub-section (3) of section 79",
+      "the costs for adjournment to be imposed by the District Commission under the second proviso to sub-section (7) of section 38",
+      "the costs for adjournment to be imposed by the State Commission or the National Commission, as the case may be, under the second proviso to section 52",
+      "the maintenance of any other information by the consumer mediation cell under sub-section (4) of section 74",
+      "the manner of submission of quarterly report by consumer mediation cell to the District Commission, the State Commission or the National Commission under sub-section (5) of section 74",
+      "the qualifications and experience required for empanelment as mediator, the procedure for empanelment, the manner of training empanelled mediators, the fee payable to empanelled mediator, the terms and conditions for empanelment, the code of conduct for empanelled mediators, the grounds on which, and the manner in which, empanelled mediators shall be removed or empanelment shall be cancelled and the other matters relating thereto under sub-section (2) of section 75",
+      "the conditions for re-empanelment of mediators for another term under sub-section (3) of section 75",
+      "the other facts to be disclosed by mediators under clause (c) of section 77",
+      "the time within which, and the manner in which, mediation may be conducted under sub-section (3) of section 79",
+      "such other matter for which provision is to be, or may be, made by regulation"
+    ]
   },
   "derived_from": [
     "CPA2019-CH8-S103-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.adjournment_cost_imposition_by_district_commission",
+    "alias.adjournment_cost_imposition_by_state_or_national_commission",
+    "alias.authority_must_provide_for_re_empanelment_of_mediators",
+    "alias.authority_must_set_qualifications_and_experience_for_empanelment_as_mediator",
+    "alias.conduct_of_mediation",
+    "alias.consumer_mediation_cell",
+    "alias.consumer_mediation_cell_must_maintain_information"
+  ],
   "search": {
     "keywords": [
       "mediation timeline",
-      "mediation procedure"
+      "mediation procedure",
+      "mediation",
+      "conducted",
+      "specified",
+      "time",
+      "manner",
+      "regulations",
+      "provide",
+      "which",
+      "authority",
+      "conduct"
     ],
     "aliases": [
       "dispute resolution process"
     ],
     "user_queries": [
-      "what is the mediation process"
+      "what is the mediation process",
+      "What is mediation must be conducted within a specified time and manner?",
+      "How does mediation must be conducted within a specified time and manner work?",
+      "Can you explain mediation must be conducted within a specified time and manner?"
     ]
   },
   "metadata": {

@@ -22,12 +22,29 @@
     "CPA2019-CH3-S21-2",
     "CPA2019-CH3-S21-4"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_authority_may_impose_penalty",
+    "alias.subsequent_contravention_penalty",
+    "authority.central_authority",
+    "exception.the_central_authority_may_impose_a_higher_penalty_for_subseq",
+    "intent.central_authority",
+    "intent.central_authority_2"
+  ],
   "search": {
     "keywords": [
       "penalty",
       "false advertisement",
-      "misleading advertisement"
+      "misleading advertisement",
+      "central",
+      "authority",
+      "impose",
+      "manufacturer",
+      "endorser",
+      "false",
+      "misleading",
+      "advertisement",
+      "necessary"
     ],
     "aliases": [
       "fine",
@@ -35,7 +52,10 @@
     ],
     "user_queries": [
       "What is the penalty for false advertisement?",
-      "What is the penalty for misleading ads?"
+      "What is the penalty for misleading ads?",
+      "What is central authority may impose penalty?",
+      "How does central authority may impose penalty work?",
+      "Can you explain central authority may impose penalty?"
     ]
   },
   "metadata": {

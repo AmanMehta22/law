@@ -9,23 +9,46 @@
     "conditions": [
       "from amongst persons who have experience in investigation and possess such qualifications"
     ],
-    "limitations": []
+    "limitations": [
+      "in such manner, as may be prescribed"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S15-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.additional_director_general",
+    "alias.assistant_director",
+    "alias.central_government",
+    "alias.central_government_must_appoint_officers_in_a_prescribed_manner",
+    "alias.deputy_director",
+    "alias.director",
+    "alias.director_general"
+  ],
   "search": {
     "keywords": [
       "appointment",
-      "prescribed manner"
+      "prescribed manner",
+      "central",
+      "government",
+      "appoint",
+      "officers",
+      "prescribed",
+      "manner",
+      "director",
+      "general",
+      "other",
+      "amongst"
     ],
     "aliases": [
       "Central Government",
       "Government"
     ],
     "user_queries": [
-      "What are the rules for appointing a Director-General?"
+      "What are the rules for appointing a Director-General?",
+      "What is additional director-general?",
+      "How does additional director-general work?",
+      "Can you explain additional director-general?"
     ]
   },
   "metadata": {

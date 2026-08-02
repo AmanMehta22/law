@@ -9,22 +9,47 @@
     "conditions": [
       "ordinarily"
     ],
-    "limitations": []
+    "limitations": [
+      "at the National Capital Region",
+      "at such other places as the Central Government may in consultation with the National Commission notify in the Official Gazette",
+      "at regional Benches of the National Commission, at such places, as the Central Government deems fit"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S53-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.central_government_must_notify_locations_in_official_gazette",
+    "alias.national_commission",
+    "alias.national_commission_must_function_at_specified_locations",
+    "alias.regional_benches_establishment",
+    "authority.central_government",
+    "authority.national_commission"
+  ],
   "search": {
     "keywords": [
       "National Commission",
       "function",
-      "location"
+      "location",
+      "national",
+      "commission",
+      "specified",
+      "locations",
+      "capital",
+      "region",
+      "other",
+      "notified",
+      "places"
     ],
     "aliases": [
       "National Consumer Disputes Redressal Commission"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central government must establish regional benches by notification?",
+      "How does central government must establish regional benches by notification work?",
+      "Can you explain central government must establish regional benches by notification?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

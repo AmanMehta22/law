@@ -9,17 +9,36 @@
     "conditions": [
       "if it is satisfied that there exists a prima facie case of violation of consumer rights or unfair trade practice"
     ],
-    "limitations": []
+    "limitations": [
+      "prejudicial to the public interest or to the interests of consumers"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S19-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_authority_must_cause_investigation",
+    "alias.central_government",
+    "alias.director_general",
+    "alias.district_collector",
+    "alias.investigation",
+    "alias.preliminary_inquiry"
+  ],
   "search": {
     "keywords": [
       "consumer rights",
       "unfair trade practice",
-      "investigation"
+      "investigation",
+      "central",
+      "authority",
+      "cause",
+      "made",
+      "satisfied",
+      "there",
+      "exists",
+      "prima",
+      "facie"
     ],
     "aliases": [
       "Central Authority",
@@ -27,7 +46,10 @@
       "District Collector"
     ],
     "user_queries": [
-      "What are the obligations of the Central Authority?"
+      "What are the obligations of the Central Authority?",
+      "What is central authority must cause investigation?",
+      "How does central authority must cause investigation work?",
+      "Can you explain central authority must cause investigation?"
     ]
   },
   "metadata": {

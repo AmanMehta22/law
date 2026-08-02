@@ -9,22 +9,45 @@
     "conditions": [
       "under the second proviso to sub-section (7) of section 38"
     ],
-    "limitations": []
+    "limitations": [
+      "under the second proviso to sub-section (7) of section 38"
+    ]
   },
   "derived_from": [
     "CPA2019-CH8-S103-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.adjournment_cost_imposition_by_district_commission",
+    "alias.adjournment_cost_imposition_by_state_or_national_commission",
+    "alias.authority_must_provide_for_re_empanelment_of_mediators",
+    "alias.authority_must_set_qualifications_and_experience_for_empanelment_as_mediator",
+    "alias.conduct_of_mediation",
+    "alias.consumer_mediation_cell",
+    "alias.consumer_mediation_cell_must_maintain_information"
+  ],
   "search": {
     "keywords": [
       "adjournment costs",
-      "District Commission"
+      "District Commission",
+      "district",
+      "commission",
+      "impose",
+      "costs",
+      "adjournment",
+      "regulations",
+      "provide",
+      "imposed",
+      "second",
+      "proviso"
     ],
     "aliases": [
       "costs for delay"
     ],
     "user_queries": [
-      "what are the costs for adjournment"
+      "what are the costs for adjournment",
+      "What is district commission must impose costs for adjournment?",
+      "How does district commission must impose costs for adjournment work?",
+      "Can you explain district commission must impose costs for adjournment?"
     ]
   },
   "metadata": {

@@ -6,18 +6,36 @@
   "content": {
     "who": "Appellant",
     "what": "must precisely state the substantial question of law involved in the appeal",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "in an appeal involving a question of law"
+    ],
+    "limitations": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S51-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appellant_must_state_substantial_question_of_law",
+    "evidence.memorandum_of_appeal",
+    "intent.appellant_must_state_substantial_question_of_law",
+    "intent.appellant_must_state_substantial_question_of_law_2",
+    "intent.memorandum_of_appeal"
+  ],
   "search": {
     "keywords": [
       "appeal",
       "question of law",
-      "memorandum of appeal"
+      "memorandum of appeal",
+      "appellant",
+      "state",
+      "substantial",
+      "question",
+      "law",
+      "required",
+      "precisely",
+      "involved"
     ],
     "aliases": [
       "statement of appeal",
@@ -25,7 +43,10 @@
     ],
     "user_queries": [
       "What are the requirements for filing an appeal?",
-      "How to appeal a decision involving a question of law?"
+      "How to appeal a decision involving a question of law?",
+      "What is appellant must state substantial question of law?",
+      "How does appellant must state substantial question of law work?",
+      "Can you explain appellant must state substantial question of law?"
     ]
   },
   "metadata": {

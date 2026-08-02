@@ -10,23 +10,45 @@
       "as the Chairperson may think fit",
       "as may be prescribed"
     ],
-    "limitations": []
+    "limitations": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH2-S8-4"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_council",
+    "alias.district_council_must_meet_and_observe_procedure",
+    "alias.meeting_of_district_council",
+    "authority.district_council",
+    "intent.district_commission_references_district_council",
+    "intent.district_council",
+    "intent.district_council_2"
+  ],
   "search": {
     "keywords": [
       "District Council",
       "meeting",
-      "procedure"
+      "procedure",
+      "district",
+      "council",
+      "meet",
+      "observe",
+      "has",
+      "certain",
+      "chairperson",
+      "think",
+      "fit"
     ],
     "aliases": [
       "District Consumer Council"
     ],
     "user_queries": [
-      "What are the obligations of the District Council?"
+      "What are the obligations of the District Council?",
+      "What is district commission references district council?",
+      "How does district commission references district council work?",
+      "Can you explain district commission references district council?"
     ]
   },
   "metadata": {

@@ -9,22 +9,46 @@
     "conditions": [
       "in consultation with the National Commission"
     ],
-    "limitations": []
+    "limitations": [
+      "in consultation with the National Commission",
+      "the Central Government may establish regional Benches of the National Commission, at such places, as it deems fit"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S53-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.central_government_must_notify_locations_in_official_gazette",
+    "alias.national_commission",
+    "alias.national_commission_must_function_at_specified_locations",
+    "alias.regional_benches_establishment",
+    "authority.central_government",
+    "authority.national_commission"
+  ],
   "search": {
     "keywords": [
       "Central Government",
       "notification",
-      "Official Gazette"
+      "Official Gazette",
+      "central",
+      "government",
+      "notify",
+      "locations",
+      "official",
+      "gazette",
+      "national",
+      "commission",
+      "functions"
     ],
     "aliases": [
       "Government of India"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central government must establish regional benches by notification?",
+      "How does central government must establish regional benches by notification work?",
+      "Can you explain central government must establish regional benches by notification?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

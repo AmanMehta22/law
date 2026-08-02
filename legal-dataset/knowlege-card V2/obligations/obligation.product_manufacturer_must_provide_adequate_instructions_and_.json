@@ -6,26 +6,52 @@
   "content": {
     "who": "Product manufacturer",
     "what": "must provide adequate instructions and warnings",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "the product contains a manufacturing defect",
+      "the product is defective in design",
+      "there is a deviation from manufacturing specifications",
+      "the product does not conform to the express warranty",
+      "the product fails to contain adequate instructions of correct usage to prevent any harm or any warning regarding improper or incorrect usage"
+    ],
+    "limitations": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH6-S84-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.design_defect_evidence",
+    "alias.deviation_from_manufacturing_specifications_proof",
+    "alias.express_warranty_proof",
+    "alias.instructions_and_warning_proof",
+    "alias.manufacturer_must_provide_adequate_instructions_and_warnings",
+    "alias.proof_of_manufacturing_defect",
+    "alias.right_to_compensation"
+  ],
   "search": {
     "keywords": [
       "product liability",
       "manufacturer liability",
       "instructions",
-      "warnings"
+      "warnings",
+      "manufacturer",
+      "provide",
+      "adequate",
+      "liable",
+      "product",
+      "fails",
+      "contain"
     ],
     "aliases": [
       "product manufacturer duties",
       "liability for defective products"
     ],
     "user_queries": [
-      "What are the duties of a product manufacturer under the Consumer Protection Act?"
+      "What are the duties of a product manufacturer under the Consumer Protection Act?",
+      "What is design defect evidence?",
+      "How does design defect evidence work?",
+      "Can you explain design defect evidence?"
     ]
   },
   "metadata": {

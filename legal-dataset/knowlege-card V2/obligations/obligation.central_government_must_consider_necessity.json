@@ -9,21 +9,45 @@
     "conditions": [
       "if it considers necessary"
     ],
-    "limitations": []
+    "limitations": [
+      "by notification"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S23"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.central_government_must_consider_necessity",
+    "authority.central_authority",
+    "authority.central_government",
+    "intent.central_authority",
+    "intent.central_authority_2"
+  ],
   "search": {
     "keywords": [
       "designation",
-      "Central Authority"
+      "Central Authority",
+      "central",
+      "government",
+      "consider",
+      "necessity",
+      "has",
+      "necessary",
+      "before",
+      "designating",
+      "authority",
+      "considers"
     ],
     "aliases": [
       "notification"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central government must consider necessity?",
+      "How does central government must consider necessity work?",
+      "Can you explain central government must consider necessity?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

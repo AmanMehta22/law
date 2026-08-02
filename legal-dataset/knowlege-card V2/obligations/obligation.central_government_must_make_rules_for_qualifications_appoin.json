@@ -6,17 +6,54 @@
   "content": {
     "who": "Central Government",
     "what": "must make rules for qualifications, appointment, term of office, salaries and allowances, resignation, removal and other terms and conditions of service of the President and members of the National Commission",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "the President and members of the National Commission shall hold office for such term as specified in the rules made by the Central Government but not exceeding five years from the date on which he enters upon his office and shall be eligible for re-appointment"
+    ],
+    "limitations": [
+      "the term of office shall not exceed five years",
+      "the age of President shall not exceed seventy years",
+      "the age of any other member shall not exceed sixty-seven years"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S55-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.national_commission",
+    "alias.term_of_office_of_president_and_members",
+    "authority.central_government",
+    "authority.national_commission",
+    "exception.the_president_and_members_shall_hold_office_for_a_term_not_e",
+    "intent.central_government"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "central",
+      "government",
+      "make",
+      "rules",
+      "national",
+      "commission",
+      "service",
+      "terms",
+      "required",
+      "president"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government",
+      "central government rulemaking for national commission",
+      "national commission service terms",
+      "national commission staff regulations"
+    ],
+    "user_queries": [
+      "What is central government must make rules for national commission service terms?",
+      "How does central government must make rules for national commission service terms work?",
+      "Can you explain central government must make rules for national commission service terms?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

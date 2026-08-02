@@ -9,23 +9,45 @@
     "conditions": [
       "within the State"
     ],
-    "limitations": []
+    "limitations": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH2-S7"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.state_council",
+    "alias.state_council_must_render_advice",
+    "authority.state_council",
+    "intent.state_council",
+    "intent.state_council_2",
+    "intent.state_council_must_render_advice",
+    "intent.state_council_must_render_advice_2"
+  ],
   "search": {
     "keywords": [
       "consumer rights",
-      "State Council"
+      "State Council",
+      "state",
+      "council",
+      "render",
+      "advice",
+      "promotion",
+      "protection",
+      "consumer",
+      "rights",
+      "act"
     ],
     "aliases": [
       "advice",
       "counsel"
     ],
     "user_queries": [
-      "What is the role of State Council?"
+      "What is the role of State Council?",
+      "What is state council must render advice?",
+      "How does state council must render advice work?",
+      "Can you explain state council must render advice?"
     ]
   },
   "metadata": {

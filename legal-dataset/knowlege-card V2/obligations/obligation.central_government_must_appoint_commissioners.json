@@ -6,23 +6,44 @@
   "content": {
     "who": "Central Government",
     "what": "must appoint Commissioners",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "to exercise the powers and discharge the functions under this Act"
+    ],
+    "limitations": [
+      "such number of other Commissioners as may be prescribed"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S10-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.central_government_must_appoint_commissioners",
+    "alias.chief_commissioner",
+    "authority.central_authority",
+    "authority.central_government",
+    "authority.chief_commissioner"
+  ],
   "search": {
     "keywords": [
       "appointment",
-      "Commissioners"
+      "Commissioners",
+      "central",
+      "government",
+      "appoint",
+      "commissioners",
+      "required",
+      "authority"
     ],
     "aliases": [
       "Central Authority members"
     ],
     "user_queries": [
-      "Who appoints the Central Authority members?"
+      "Who appoints the Central Authority members?",
+      "What is central government must appoint commissioners?",
+      "How does central government must appoint commissioners work?",
+      "Can you explain central government must appoint commissioners?"
     ]
   },
   "metadata": {

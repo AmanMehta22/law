@@ -9,23 +9,44 @@
     "conditions": [
       "within the specified time"
     ],
-    "limitations": []
+    "limitations": [
+      "within the specified time",
+      "in the form, manner and time as prescribed"
+    ]
   },
   "derived_from": [
     "CPA2019-CH8-S104-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_authority_must_receive_inquiry_or_investigation_report",
+    "alias.director_general",
+    "alias.engaging_experts_and_professionals",
+    "alias.mediation_time_limit",
+    "alias.submission_of_inquiries_or_investigation",
+    "alias.transaction_of_business"
+  ],
   "search": {
     "keywords": [
       "inquiry",
       "investigation",
-      "report"
+      "report",
+      "central",
+      "authority",
+      "receive",
+      "director",
+      "general",
+      "submit",
+      "inquiries"
     ],
     "aliases": [
       "submission of report"
     ],
     "user_queries": [
-      "what are the obligations of Director-General"
+      "what are the obligations of Director-General",
+      "What is central authority must receive inquiry or investigation report?",
+      "How does central authority must receive inquiry or investigation report work?",
+      "Can you explain central authority must receive inquiry or investigation report?"
     ]
   },
   "metadata": {

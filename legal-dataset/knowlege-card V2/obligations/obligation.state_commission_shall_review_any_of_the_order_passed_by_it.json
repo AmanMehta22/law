@@ -10,20 +10,55 @@
       "on an application made by any of the parties",
       "within thirty days of such order"
     ],
-    "limitations": []
+    "limitations": [
+      "if there is an error apparent on the face of the record",
+      "within thirty days of such order",
+      "either of its own motion or on an application made by any of the parties"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S50"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_time_limit",
+    "alias.review_of_order",
+    "alias.right_to_review",
+    "alias.state_commission",
+    "authority.state_commission",
+    "intent.appeal_time_limit",
+    "intent.appeal_time_limit_2"
+  ],
   "search": {
     "keywords": [
       "review",
       "order",
-      "State Commission"
+      "State Commission",
+      "state",
+      "commission",
+      "application",
+      "passed",
+      "made",
+      "parties",
+      "thirty",
+      "days"
     ],
-    "aliases": [],
-    "user_queries": []
+    "aliases": [
+      "appeal deadline",
+      "filing appeal",
+      "opposite party response",
+      "time limit for appeal",
+      "time limit for application",
+      "time to respond",
+      "appeal to state commission",
+      "application for review",
+      "re-examine decisions",
+      "review of orders"
+    ],
+    "user_queries": [
+      "What is state commission must review order on application?",
+      "How does state commission must review order on application work?",
+      "Can you explain state commission must review order on application?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

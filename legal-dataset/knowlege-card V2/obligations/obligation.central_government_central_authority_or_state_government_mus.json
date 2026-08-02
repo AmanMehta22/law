@@ -6,17 +6,55 @@
   "content": {
     "who": "Central Government, Central Authority or State Government",
     "what": "must allow filing of complaint",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "the complaint is in relation to any goods sold or delivered or agreed to be sold or delivered or any service provided or agreed to be provided"
+    ],
+    "limitations": [
+      "the complaint may be filed electronically in such manner as may be prescribed"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S35-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.complaint_filing",
+    "alias.district_commission",
+    "alias.state_government",
+    "authority.central_authority",
+    "authority.central_government"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "central",
+      "government",
+      "authority",
+      "state",
+      "allow",
+      "filing",
+      "complaint",
+      "filed",
+      "district",
+      "commission"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority",
+      "allowing consumer complaints",
+      "complaint registration with government"
+    ],
+    "user_queries": [
+      "What is central government, central authority or state government must allow filing of complaint?",
+      "How does central government, central authority or state government must allow filing of complaint work?",
+      "Can you explain central government, central authority or state government must allow filing of complaint?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

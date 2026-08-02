@@ -6,23 +6,45 @@
   "content": {
     "who": "Central Council",
     "what": "must render advice on promotion and protection of consumers’ rights",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "Not specified in the Act"
+    ],
+    "limitations": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH2-S5"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_council",
+    "alias.central_council_must_render_advice",
+    "alias.right_to_protection",
+    "authority.central_council",
+    "intent.central_council",
+    "intent.central_council_2",
+    "intent.central_council_must_render_advice"
+  ],
   "search": {
     "keywords": [
       "consumer rights",
-      "advice"
+      "advice",
+      "central",
+      "council",
+      "render",
+      "promotion",
+      "protection",
+      "consumers",
+      "rights"
     ],
     "aliases": [
       "Central Council advice"
     ],
     "user_queries": [
-      "What is the role of Central Council?"
+      "What is the role of Central Council?",
+      "What is central council must render advice?",
+      "How does central council must render advice work?",
+      "Can you explain central council must render advice?"
     ]
   },
   "metadata": {

@@ -9,16 +9,49 @@
     "conditions": [
       "sufficient cause is shown"
     ],
-    "limitations": []
+    "limitations": [
+      "ordinarily",
+      "reasons for grant of adjournment have been recorded in writing"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S52"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.adjournment_exception",
+    "alias.appeal_hearing",
+    "alias.national_commission",
+    "alias.right_to_expedient_hearing_of_appeal",
+    "alias.state_commission",
+    "authority.national_commission",
+    "authority.state_commission"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "state",
+      "commission",
+      "national",
+      "grant",
+      "adjournment",
+      "without",
+      "sufficient",
+      "cause",
+      "unless",
+      "shown"
+    ],
+    "aliases": [
+      "delay",
+      "postponement",
+      "adjournment only with reason",
+      "no unnecessary delays",
+      "sufficient cause for delay",
+      "valid reason for adjournment"
+    ],
+    "user_queries": [
+      "What is state commission or national commission must not grant adjournment without sufficient cause?",
+      "How does state commission or national commission must not grant adjournment without sufficient cause work?",
+      "Can you explain state commission or national commission must not grant adjournment without sufficient cause?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

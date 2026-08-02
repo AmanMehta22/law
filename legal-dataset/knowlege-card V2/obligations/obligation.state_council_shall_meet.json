@@ -10,22 +10,44 @@
       "as and when necessary",
       "not less than two meetings every year"
     ],
-    "limitations": []
+    "limitations": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH2-S6-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.minimum_meetings_per_year",
+    "alias.state_council",
+    "alias.state_council_meeting_obligation",
+    "authority.state_council",
+    "intent.minimum_meetings_per_year",
+    "intent.minimum_meetings_per_year_2",
+    "intent.state_council"
+  ],
   "search": {
     "keywords": [
       "State Council",
-      "meeting"
+      "meeting",
+      "state",
+      "council",
+      "obligation",
+      "required",
+      "hold",
+      "meetings",
+      "meet",
+      "when",
+      "necessary"
     ],
     "aliases": [
       "State Council meeting requirement"
     ],
     "user_queries": [
-      "How often must the State Council meet?"
+      "How often must the State Council meet?",
+      "What is minimum meetings per year?",
+      "How does minimum meetings per year work?",
+      "Can you explain minimum meetings per year?"
     ]
   },
   "metadata": {

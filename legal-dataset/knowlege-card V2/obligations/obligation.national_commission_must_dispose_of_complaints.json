@@ -9,23 +9,44 @@
     "conditions": [
       "with such modifications as may be considered necessary"
     ],
-    "limitations": []
+    "limitations": [
+      "applicability of sections 35, 36, 37, 38 and 39 with modifications"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S59-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.national_commission",
+    "alias.national_commission_must_dispose_of_complaints",
+    "authority.national_commission",
+    "intent.national_commission",
+    "intent.national_commission_2",
+    "intent.national_commission_must_dispose_of_complaints",
+    "intent.national_commission_must_dispose_of_complaints_2"
+  ],
   "search": {
     "keywords": [
       "complaints",
       "National Commission",
-      "disposal"
+      "disposal",
+      "national",
+      "commission",
+      "dispose",
+      "modifications",
+      "sections",
+      "such",
+      "considered",
+      "necessary"
     ],
     "aliases": [
       "National Commission complaints disposal"
     ],
     "user_queries": [
-      "How does the National Commission handle complaints?"
+      "How does the National Commission handle complaints?",
+      "What is national commission must dispose of complaints?",
+      "How does national commission must dispose of complaints work?",
+      "Can you explain national commission must dispose of complaints?"
     ]
   },
   "metadata": {

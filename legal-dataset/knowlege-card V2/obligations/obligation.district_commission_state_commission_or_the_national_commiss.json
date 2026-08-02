@@ -6,17 +6,56 @@
   "content": {
     "who": "District Commission, State Commission or the National Commission",
     "what": "shall enforce its order",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "Every order made by a District Commission, State Commission or the National Commission"
+    ],
+    "limitations": [
+      "as far as may be applicable",
+      "subject to the modification that every reference therein to the decree shall be construed as reference to the order made under this Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S71"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.court",
+    "alias.district_commission",
+    "alias.enforcement_of_order",
+    "alias.national_commission",
+    "alias.state_commission",
+    "authority.court",
+    "authority.district_commission"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "commission",
+      "enforce",
+      "order",
+      "same",
+      "manner",
+      "court",
+      "decree",
+      "district",
+      "state",
+      "national"
+    ],
+    "aliases": [
+      "Bench",
+      "Judiciary",
+      "Law Court",
+      "Tribunal",
+      "judicial body",
+      "tribunal",
+      "commission enforcement powers",
+      "enforcing consumer protection orders",
+      "execution of orders",
+      "order enforcement"
+    ],
+    "user_queries": [
+      "What is commission must enforce order?",
+      "How does commission must enforce order work?",
+      "Can you explain commission must enforce order?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

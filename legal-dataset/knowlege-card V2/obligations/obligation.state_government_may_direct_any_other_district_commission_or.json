@@ -10,23 +10,45 @@
       "at any time",
       "there is a vacancy in the office of the President or member of a District Commission"
     ],
-    "limitations": []
+    "limitations": [
+      "by notification"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S32"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.state_government",
+    "alias.state_government_must_direct_in_case_of_vacancy",
+    "authority.district_commission",
+    "authority.state_government",
+    "intent.district_commission",
+    "intent.district_commission_2"
+  ],
   "search": {
     "keywords": [
       "vacancy",
       "District Commission",
-      "State Government"
+      "State Government",
+      "state",
+      "government",
+      "direct",
+      "case",
+      "has",
+      "office",
+      "president",
+      "member",
+      "district"
     ],
     "aliases": [
       "direction in case of vacancy"
     ],
     "user_queries": [
-      "what to do in case of vacancy in District Commission"
+      "what to do in case of vacancy in District Commission",
+      "What is state government must direct in case of vacancy?",
+      "How does state government must direct in case of vacancy work?",
+      "Can you explain state government must direct in case of vacancy?"
     ]
   },
   "metadata": {

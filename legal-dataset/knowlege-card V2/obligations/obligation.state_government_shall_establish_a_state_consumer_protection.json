@@ -6,23 +6,44 @@
   "content": {
     "who": "State Government",
     "what": "shall establish a State Consumer Protection Council",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "by notification"
+    ],
+    "limitations": [
+      "with effect from such date as it may specify in such notification"
+    ]
   },
   "derived_from": [
     "CPA2019-CH2-S6-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.state_council",
+    "alias.state_government",
+    "alias.state_government_must_establish_state_council",
+    "authority.state_council",
+    "authority.state_government",
+    "intent.state_council",
+    "intent.state_council_2"
+  ],
   "search": {
     "keywords": [
       "State Government",
-      "State Council"
+      "State Council",
+      "state",
+      "government",
+      "establish",
+      "council",
+      "consumer",
+      "protection"
     ],
     "aliases": [
       "State Consumer Protection Council"
     ],
     "user_queries": [
-      "consumer protection council"
+      "consumer protection council",
+      "What is state council?",
+      "How does state council work?",
+      "Can you explain state council?"
     ]
   },
   "metadata": {

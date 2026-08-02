@@ -12,24 +12,46 @@
       "furnishing of english translation of judgments written in any language",
       "speedy grant of copies of documents"
     ],
-    "limitations": []
+    "limitations": [
+      "without interfering with their quasi-judicial freedom"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S70-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.district_commission",
+    "alias.investigation_into_allegations_against_state_commission_members",
+    "alias.issuance_of_instructions_for_uniform_procedure",
+    "alias.monitoring_performance_of_state_commissions",
+    "alias.national_commission",
+    "alias.national_commission_must_investigate_allegations_against_state_commission_member"
+  ],
   "search": {
     "keywords": [
       "National Commission",
       "uniform procedure",
-      "instructions"
+      "instructions",
+      "national",
+      "commission",
+      "issue",
+      "uniform",
+      "procedure",
+      "regarding",
+      "adoption",
+      "hearing",
+      "matters"
     ],
     "aliases": [
       "hearing of matters",
       "regulatory guidance"
     ],
     "user_queries": [
-      "What procedures must be followed in consumer cases?"
+      "What procedures must be followed in consumer cases?",
+      "What is national commission must issue instructions for uniform procedure?",
+      "How does national commission must issue instructions for uniform procedure work?",
+      "Can you explain national commission must issue instructions for uniform procedure?"
     ]
   },
   "metadata": {

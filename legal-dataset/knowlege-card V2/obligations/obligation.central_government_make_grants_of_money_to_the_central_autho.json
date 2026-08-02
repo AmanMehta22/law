@@ -9,24 +9,46 @@
     "conditions": [
       "after due appropriation made by Parliament by law"
     ],
-    "limitations": []
+    "limitations": [
+      "after due appropriation made by Parliament by law"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S25"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.central_government_must_make_grants",
+    "authority.central_authority",
+    "authority.central_government",
+    "intent.central_authority",
+    "intent.central_authority_2"
+  ],
   "search": {
     "keywords": [
       "grant",
       "funding",
-      "Central Authority"
+      "Central Authority",
+      "central",
+      "government",
+      "make",
+      "grants",
+      "has",
+      "provide",
+      "funds",
+      "authority",
+      "money"
     ],
     "aliases": [
       "financial support",
       "allocation of funds"
     ],
     "user_queries": [
-      "How is the Central Authority funded?"
+      "How is the Central Authority funded?",
+      "What is central government must make grants?",
+      "How does central government must make grants work?",
+      "Can you explain central government must make grants?"
     ]
   },
   "metadata": {

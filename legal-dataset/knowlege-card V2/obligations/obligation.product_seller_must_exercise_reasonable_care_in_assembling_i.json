@@ -6,17 +6,51 @@
   "content": {
     "who": "Product seller",
     "what": "must exercise reasonable care in assembling, inspecting or maintaining a product",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "the product seller has exercised substantial control over the designing, testing, manufacturing, packaging or labelling of a product that caused harm",
+      "the product seller has altered or modified the product and such alteration or modification was the substantial factor in causing the harm",
+      "the product seller has made an express warranty of a product independent of any express warranty made by a manufacturer and such product failed to conform to the express warranty made by the product seller which caused the harm",
+      "the product has been sold by him and the identity of product manufacturer of such product is not known, or if known, the service of notice or process or warrant cannot be effected on him or he is not subject to the law which is in force in India or the order, if any, passed or to be passed cannot be enforced against him"
+    ],
+    "limitations": [
+      "if the product seller can prove that he did not fail to exercise reasonable care in assembling, inspecting or maintaining such product and did pass on the warnings or instructions of the product manufacturer regarding the dangers involved or proper usage of the product while selling such product"
+    ]
   },
   "derived_from": [
     "CPA2019-CH6-S86"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.compensation_for_harm_caused",
+    "alias.right_to_compensation",
+    "evidence.documents_showing_control_over_designing_testing_manufacturi",
+    "evidence.express_warranty_documents",
+    "evidence.maintenance_records_inspection_records_assembly_records",
+    "evidence.manufacturer_s_records_identification_documents",
+    "evidence.notice_or_process_records_service_records"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "product",
+      "seller",
+      "exercise",
+      "reasonable",
+      "care",
+      "assembling",
+      "inspecting",
+      "maintaining"
+    ],
+    "aliases": [
+      "damages",
+      "reparation",
+      "product seller responsibility",
+      "reasonable care by seller",
+      "seller's duty of care"
+    ],
+    "user_queries": [
+      "What is product seller must exercise reasonable care?",
+      "How does product seller must exercise reasonable care work?",
+      "Can you explain product seller must exercise reasonable care?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -10,19 +10,51 @@
       "while making rules",
       "so far as is practicable"
     ],
-    "limitations": []
+    "limitations": [
+      "so far as is practicable"
+    ]
   },
   "derived_from": [
     "CPA2019-CH8-S102-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.state_governments",
+    "authority.central_government",
+    "authority.state_governments",
+    "exception.provided_that_the_central_government_may_frame_model_rules",
+    "intent.central_government",
+    "intent.central_government_2"
+  ],
   "search": {
     "keywords": [
       "conform to model rules",
-      "State Governments"
+      "State Governments",
+      "state",
+      "governments",
+      "conform",
+      "model",
+      "rules",
+      "while",
+      "making",
+      "far",
+      "practicable"
     ],
-    "aliases": [],
-    "user_queries": []
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government",
+      "adherence to model code",
+      "follow model rules",
+      "model rule conformity",
+      "state government compliance"
+    ],
+    "user_queries": [
+      "What is state governments must conform to model rules?",
+      "How does state governments must conform to model rules work?",
+      "Can you explain state governments must conform to model rules?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

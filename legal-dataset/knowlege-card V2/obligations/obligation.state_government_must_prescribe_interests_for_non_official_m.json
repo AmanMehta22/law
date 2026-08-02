@@ -6,17 +6,51 @@
   "content": {
     "who": "State Government",
     "what": "must prescribe interests for non-official members",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "representing such interests"
+    ],
+    "limitations": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH2-S6-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.state_council",
+    "alias.state_government",
+    "authority.central_government",
+    "authority.state_council",
+    "authority.state_government",
+    "intent.central_government"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "state",
+      "government",
+      "prescribe",
+      "interests",
+      "has",
+      "non",
+      "official",
+      "members"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government",
+      "government prescribed interest",
+      "interest rate prescription",
+      "set interest rates",
+      "state government interest rules"
+    ],
+    "user_queries": [
+      "What is state government must prescribe interests?",
+      "How does state government must prescribe interests work?",
+      "Can you explain state government must prescribe interests?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

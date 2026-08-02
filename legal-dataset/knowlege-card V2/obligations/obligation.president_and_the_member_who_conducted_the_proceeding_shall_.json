@@ -6,17 +6,54 @@
   "content": {
     "who": "President and the member who conducted the proceeding",
     "what": "shall sign the order",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "order made by the District Commission under sub-section (1)"
+    ],
+    "limitations": [
+      "where the order is made as per majority opinion under sub-section (3)"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S39-4"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "authority.district_commission",
+    "exception.shall_also_be_signed_by_the_other_member",
+    "intent.district_commission",
+    "intent.district_commission_2",
+    "intent.district_commission_president_and_member_must_sign_order",
+    "intent.district_commission_references_central_government"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "district",
+      "commission",
+      "president",
+      "member",
+      "sign",
+      "order",
+      "signing",
+      "who",
+      "conducted",
+      "proceeding"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum",
+      "district commission order signature",
+      "joint signing of order",
+      "president and member signature"
+    ],
+    "user_queries": [
+      "What is district commission president and member must sign order?",
+      "How does district commission president and member must sign order work?",
+      "Can you explain district commission president and member must sign order?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

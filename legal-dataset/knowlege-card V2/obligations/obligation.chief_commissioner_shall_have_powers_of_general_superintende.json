@@ -6,24 +6,47 @@
   "content": {
     "who": "Chief Commissioner",
     "what": "shall have powers of general superintendence, direction and control",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "in respect of all administrative matters of the Central Authority"
+    ],
+    "limitations": [
+      "may delegate such of his powers relating to administrative matters of the Central Authority, as he may think fit, to any Commissioner (including Commissioner of a regional office) or any other officer of the Central Authority"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S14-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.chief_commissioner",
+    "alias.chief_commissioner_must_exercise_general_superintendence",
+    "alias.commissioner",
+    "alias.delegation_of_powers",
+    "authority.central_authority",
+    "authority.chief_commissioner"
+  ],
   "search": {
     "keywords": [
       "general superintendence",
       "direction",
-      "control"
+      "control",
+      "chief",
+      "commissioner",
+      "exercise",
+      "general",
+      "superintendence",
+      "has",
+      "powers",
+      "have"
     ],
     "aliases": [
       "administrative matters"
     ],
     "user_queries": [
-      "Chief Commissioner powers"
+      "Chief Commissioner powers",
+      "What is chief commissioner must exercise general superintendence?",
+      "How does chief commissioner must exercise general superintendence work?",
+      "Can you explain chief commissioner must exercise general superintendence?"
     ]
   },
   "metadata": {

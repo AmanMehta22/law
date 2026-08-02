@@ -9,17 +9,35 @@
     "conditions": [
       "the consumer dispute could not be settled by mediation"
     ],
-    "limitations": []
+    "limitations": [
+      "the consumer dispute could not be settled by mediation"
+    ]
   },
   "derived_from": [
     "CPA2019-CH5-S81-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.commission_must_hear_consumer_dispute",
+    "alias.district_commission",
+    "alias.hearing_of_consumer_dispute",
+    "alias.national_commission",
+    "alias.state_commission",
+    "authority.district_commission",
+    "authority.national_commission"
+  ],
   "search": {
     "keywords": [
       "consumer dispute",
       "mediation",
-      "commission"
+      "commission",
+      "hear",
+      "consumer",
+      "dispute",
+      "continue",
+      "issues",
+      "could",
+      "settled",
+      "district"
     ],
     "aliases": [
       "District Commission",
@@ -27,7 +45,10 @@
       "National Commission"
     ],
     "user_queries": [
-      "what happens if mediation fails"
+      "what happens if mediation fails",
+      "What is commission must hear consumer dispute?",
+      "How does commission must hear consumer dispute work?",
+      "Can you explain commission must hear consumer dispute?"
     ]
   },
   "metadata": {

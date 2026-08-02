@@ -9,16 +9,48 @@
     "conditions": [
       "where the Central Government deems it necessary so to do"
     ],
-    "limitations": []
+    "limitations": [
+      "one crore rupees"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S34-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.central_government_override",
+    "alias.district_commission",
+    "authority.central_government",
+    "authority.district_commission",
+    "exception.central_government_may_prescribe_a_different_value",
+    "intent.central_government"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "central",
+      "government",
+      "prescribe",
+      "value",
+      "such",
+      "other",
+      "where",
+      "deems",
+      "necessary"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government",
+      "central government valuation guideline",
+      "government prescribed value",
+      "value specification by central government"
+    ],
+    "user_queries": [
+      "What is central government may prescribe value?",
+      "How does central government may prescribe value work?",
+      "Can you explain central government may prescribe value?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

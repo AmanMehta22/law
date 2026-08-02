@@ -6,17 +6,43 @@
   "content": {
     "who": "Complainant",
     "what": "must pay fee",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "such fee and payable in such manner, including electronic form, as may be prescribed"
+    ],
+    "limitations": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S35-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "intent.complainant_must_pay_fee",
+    "intent.mediation_references_questions_about_complainant_must_pay_fee",
+    "relationship.alias_mediation_references_intent_complainant_must_pay_fee"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "complainant",
+      "pay",
+      "fee",
+      "prescribed"
+    ],
+    "aliases": [
+      "appeal to national commission",
+      "appeal to national consumer commission",
+      "national appeal",
+      "national commission",
+      "national commission appeal",
+      "complaint filing fee",
+      "consumer complaint charge",
+      "fee for grievance submission"
+    ],
+    "user_queries": [
+      "What is complainant must pay fee?",
+      "How does complainant must pay fee work?",
+      "Can you explain complainant must pay fee?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

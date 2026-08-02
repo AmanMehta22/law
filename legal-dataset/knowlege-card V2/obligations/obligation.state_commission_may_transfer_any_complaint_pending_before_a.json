@@ -9,24 +9,47 @@
     "conditions": [
       "if the interest of justice so requires"
     ],
-    "limitations": []
+    "limitations": [
+      "at any stage of the proceeding",
+      "on the application of the complainant or of its own motion"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S48"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.state_commission",
+    "alias.state_commission_must_transfer_complaint",
+    "authority.district_commission",
+    "authority.state_commission",
+    "intent.district_commission",
+    "intent.district_commission_2"
+  ],
   "search": {
     "keywords": [
       "complaint transfer",
       "District Commission",
-      "State Commission"
+      "State Commission",
+      "state",
+      "commission",
+      "transfer",
+      "complaint",
+      "pending",
+      "before",
+      "district",
+      "another",
+      "interest"
     ],
     "aliases": [
       "reassign complaint",
       "redistribute case"
     ],
     "user_queries": [
-      "Can a complaint be transferred to another District Commission?"
+      "Can a complaint be transferred to another District Commission?",
+      "What is state commission must transfer complaint?",
+      "How does state commission must transfer complaint work?",
+      "Can you explain state commission must transfer complaint?"
     ]
   },
   "metadata": {

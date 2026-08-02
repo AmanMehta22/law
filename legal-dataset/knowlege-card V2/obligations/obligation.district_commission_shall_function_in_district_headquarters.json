@@ -9,23 +9,42 @@
     "conditions": [
       "ordinarily"
     ],
-    "limitations": []
+    "limitations": [
+      "as notified in the Official Gazette from time to time",
+      "in consultation with the State Commission",
+      "as the State Government may decide"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S28-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.district_commission_must_function_in_district_headquarters",
+    "alias.state_commission",
+    "alias.state_government",
+    "authority.district_commission",
+    "authority.state_commission",
+    "authority.state_government"
+  ],
   "search": {
     "keywords": [
       "district headquarters",
-      "function"
+      "function",
+      "district",
+      "commission",
+      "headquarters",
+      "ordinarily"
     ],
     "aliases": [
       "operate",
       "perform functions"
     ],
     "user_queries": [
-      "where does District Commission function"
+      "where does District Commission function",
+      "What is district commission must function in district headquarters?",
+      "How does district commission must function in district headquarters work?",
+      "Can you explain district commission must function in district headquarters?"
     ]
   },
   "metadata": {

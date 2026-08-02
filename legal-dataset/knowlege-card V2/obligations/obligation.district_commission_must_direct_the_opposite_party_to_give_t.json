@@ -17,18 +17,38 @@
   "derived_from": [
     "CPA2019-CH4-S38-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_time_limit",
+    "alias.complaint_handling_by_district_commission",
+    "alias.district_commission",
+    "alias.district_commission_must_decide_complaint_on_merits",
+    "alias.district_commission_must_direct_opposite_party_to_respond",
+    "alias.district_commission_must_refer_complaint",
+    "alias.district_commission_must_settle_consumer_dispute"
+  ],
   "search": {
     "keywords": [
       "District Commission",
       "opposite party",
-      "response period"
+      "response period",
+      "district",
+      "commission",
+      "direct",
+      "opposite",
+      "party",
+      "respond",
+      "give",
+      "their",
+      "version"
     ],
     "aliases": [
       "time limit for response"
     ],
     "user_queries": [
-      "how long does the opposite party have to respond"
+      "how long does the opposite party have to respond",
+      "What is complaint handling by district commission?",
+      "How does complaint handling by district commission work?",
+      "Can you explain complaint handling by district commission?"
     ]
   },
   "metadata": {

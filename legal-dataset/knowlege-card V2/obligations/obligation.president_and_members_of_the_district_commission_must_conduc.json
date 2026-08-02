@@ -9,23 +9,44 @@
     "conditions": [
       "sitting together"
     ],
-    "limitations": []
+    "limitations": [
+      "where a member, for any reason, is unable to conduct a proceeding till it is completed"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S36-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.conduct_of_proceeding_before_district_commission",
+    "alias.district_commission",
+    "alias.president_and_members_must_conduct_proceedings",
+    "authority.district_commission",
+    "intent.conduct_of_proceeding_before_district_commission",
+    "intent.conduct_of_proceeding_before_district_commission_2",
+    "intent.conduct_of_proceeding_before_district_commission_handled_by_commission"
+  ],
   "search": {
     "keywords": [
       "District Commission",
-      "proceedings"
+      "proceedings",
+      "president",
+      "members",
+      "conduct",
+      "before",
+      "district",
+      "commission",
+      "sitting",
+      "together"
     ],
     "aliases": [
       "hearing",
       "trial"
     ],
     "user_queries": [
-      "How are proceedings conducted in District Commission?"
+      "How are proceedings conducted in District Commission?",
+      "What is conduct of proceeding before district commission?",
+      "How does conduct of proceeding before district commission work?",
+      "Can you explain conduct of proceeding before district commission?"
     ]
   },
   "metadata": {

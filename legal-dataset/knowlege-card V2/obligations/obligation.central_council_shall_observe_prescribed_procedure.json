@@ -9,24 +9,46 @@
     "conditions": [
       "in regard to the transaction of its business"
     ],
-    "limitations": []
+    "limitations": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH2-S4-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_council",
+    "alias.central_council_must_observe_prescribed_procedure",
+    "alias.meeting_of_central_council",
+    "authority.central_council",
+    "intent.central_council",
+    "intent.central_council_2",
+    "intent.central_council_must_observe_prescribed_procedure"
+  ],
   "search": {
     "keywords": [
       "Central Council",
       "procedure",
-      "transaction of business"
+      "transaction of business",
+      "central",
+      "council",
+      "observe",
+      "prescribed",
+      "has",
+      "follow",
+      "transaction",
+      "its",
+      "business"
     ],
     "aliases": [
       "CC",
       "Council"
     ],
     "user_queries": [
-      "What are the rules for Central Council meetings?"
+      "What are the rules for Central Council meetings?",
+      "What is central council must observe prescribed procedure?",
+      "How does central council must observe prescribed procedure work?",
+      "Can you explain central council must observe prescribed procedure?"
     ]
   },
   "metadata": {

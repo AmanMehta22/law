@@ -9,16 +9,53 @@
     "conditions": [
       "with permission of the District Commission"
     ],
-    "limitations": []
+    "limitations": [
+      "with the permission of the District Commission",
+      "where there are numerous consumers having the same interest"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S35-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.complaint_filing",
+    "alias.district_commission",
+    "alias.state_government",
+    "authority.central_authority",
+    "authority.central_government"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "district",
+      "commission",
+      "consider",
+      "complaint",
+      "filed",
+      "behalf",
+      "multiple",
+      "consumers",
+      "having",
+      "same"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority",
+      "class action complaint",
+      "consumer collective complaint"
+    ],
+    "user_queries": [
+      "What is district commission must consider complaint filed on behalf of multiple consumers?",
+      "How does district commission must consider complaint filed on behalf of multiple consumers work?",
+      "Can you explain district commission must consider complaint filed on behalf of multiple consumers?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -6,17 +6,52 @@
   "content": {
     "who": "State Council",
     "what": "shall observe prescribed procedure in regard to the transaction of its business",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "as may be prescribed"
+    ],
+    "limitations": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH2-S6-4"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.state_council",
+    "alias.transaction_of_state_council_business",
+    "authority.state_council",
+    "intent.district_commission_references_state_council",
+    "intent.state_council",
+    "intent.state_council_2",
+    "intent.state_council_meeting_procedure"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "state",
+      "council",
+      "meeting",
+      "procedure",
+      "observe",
+      "prescribed",
+      "its",
+      "business",
+      "transactions",
+      "regard"
+    ],
+    "aliases": [
+      "State Advisory Council",
+      "State Consumer Council",
+      "State Consumer Protection Council",
+      "meeting rules and regulations",
+      "procedure for state council meetings",
+      "state council governance",
+      "state council protocols"
+    ],
+    "user_queries": [
+      "What is state council meeting procedure?",
+      "How does state council meeting procedure work?",
+      "Can you explain state council meeting procedure?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

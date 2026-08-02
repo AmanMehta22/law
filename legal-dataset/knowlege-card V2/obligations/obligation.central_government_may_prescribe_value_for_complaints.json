@@ -9,20 +9,54 @@
     "conditions": [
       "deems it necessary"
     ],
-    "limitations": []
+    "limitations": [
+      "ten crore rupees"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S58-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.filing_of_complaints_and_appeals_with_the_national_commission",
+    "alias.national_commission",
+    "alias.review_of_state_commission_decisions",
+    "alias.right_to_appeal",
+    "alias.state_commission"
+  ],
   "search": {
     "keywords": [
       "Central Government",
       "prescribe value",
-      "complaints"
+      "complaints",
+      "central",
+      "government",
+      "prescribe",
+      "value",
+      "has",
+      "power",
+      "certain",
+      "conditions",
+      "deems"
     ],
-    "aliases": [],
-    "user_queries": []
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority",
+      "central government complaint valuation",
+      "complaint value threshold"
+    ],
+    "user_queries": [
+      "What is central government may prescribe value for complaints?",
+      "How does central government may prescribe value for complaints work?",
+      "Can you explain central government may prescribe value for complaints?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

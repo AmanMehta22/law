@@ -6,24 +6,46 @@
   "content": {
     "who": "State Government",
     "what": "shall establish a State Consumer Disputes Redressal Commission",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "by notification"
+    ],
+    "limitations": [
+      "in the State"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S42-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.state_commission",
+    "alias.state_government_must_establish_state_commission",
+    "authority.state_commission",
+    "intent.state_commission",
+    "intent.state_commission_2",
+    "intent.state_government_must_establish_state_commission",
+    "intent.state_government_must_establish_state_commission_2"
+  ],
   "search": {
     "keywords": [
       "State Government",
       "State Commission",
-      "establishment"
+      "establishment",
+      "state",
+      "government",
+      "establish",
+      "commission",
+      "consumer",
+      "disputes",
+      "redressal"
     ],
     "aliases": [
       "State Consumer Disputes Redressal Commission"
     ],
     "user_queries": [
-      "What is the role of State Government in consumer protection?"
+      "What is the role of State Government in consumer protection?",
+      "What is state government must establish state commission?",
+      "How does state government must establish state commission work?",
+      "Can you explain state government must establish state commission?"
     ]
   },
   "metadata": {

@@ -9,23 +9,44 @@
     "conditions": [
       "with such modifications as may be necessary"
     ],
-    "limitations": []
+    "limitations": [
+      "with such modifications as may be necessary"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S49-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.state_commission",
+    "alias.state_commission_must_dispose_of_complaints",
+    "authority.state_commission",
+    "intent.state_commission",
+    "intent.state_commission_2",
+    "intent.state_commission_must_dispose_of_complaints",
+    "intent.state_commission_must_dispose_of_complaints_2"
+  ],
   "search": {
     "keywords": [
       "complaints",
       "disposal",
-      "State Commission"
+      "State Commission",
+      "state",
+      "commission",
+      "dispose",
+      "necessary",
+      "modifications",
+      "provisions",
+      "sections",
+      "such"
     ],
     "aliases": [
       "State Commission complaints disposal"
     ],
     "user_queries": [
-      "How does State Commission handle complaints"
+      "How does State Commission handle complaints",
+      "What is state commission must dispose of complaints?",
+      "How does state commission must dispose of complaints work?",
+      "Can you explain state commission must dispose of complaints?"
     ]
   },
   "metadata": {

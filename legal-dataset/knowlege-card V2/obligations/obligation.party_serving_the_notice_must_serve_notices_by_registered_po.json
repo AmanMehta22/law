@@ -9,24 +9,49 @@
     "conditions": [
       "notices required by this Act to be served"
     ],
-    "limitations": []
+    "limitations": [
+      "by delivering or transmitting a copy thereof by registered post acknowledgment due",
+      "by speed post",
+      "by such courier service, approved by the District Commission, the State Commission or the National Commission, as the case may be",
+      "by any other mode of transmission of documents including electronic means"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S65-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.national_commission",
+    "alias.service_of_notice",
+    "alias.serving_notices",
+    "alias.state_commission",
+    "authority.district_commission",
+    "authority.national_commission"
+  ],
   "search": {
     "keywords": [
       "notices",
       "service of notice",
-      "registered post"
+      "registered post",
+      "serving",
+      "required",
+      "act",
+      "party",
+      "notice",
+      "serve",
+      "registered",
+      "post",
+      "speed"
     ],
     "aliases": [
       "serving a complaint",
       "giving notice"
     ],
     "user_queries": [
-      "how to serve a notice under the Consumer Protection Act"
+      "how to serve a notice under the Consumer Protection Act",
+      "What is acknowledgment due?",
+      "How does acknowledgment due work?",
+      "Can you explain acknowledgment due?"
     ]
   },
   "metadata": {

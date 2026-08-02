@@ -9,20 +9,53 @@
     "conditions": [
       "the article is subject to speedy or natural decay"
     ],
-    "limitations": []
+    "limitations": [
+      "in such manner as may be prescribed"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S22-4"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.director_general",
+    "alias.disposal_of_seized_articles_subject_to_decay",
+    "authority.director_general",
+    "intent.director_general",
+    "intent.director_general_2",
+    "intent.director_general_or_officer_must_dispose_of_seized_articles",
+    "intent.disposal_of_seized_articles_subject_to_decay"
+  ],
   "search": {
     "keywords": [
       "seized article",
       "speedy decay",
-      "natural decay"
+      "natural decay",
+      "director",
+      "general",
+      "officer",
+      "dispose",
+      "seized",
+      "articles",
+      "subject",
+      "speedy",
+      "natural"
     ],
-    "aliases": [],
-    "user_queries": []
+    "aliases": [
+      "Chief Director",
+      "DG",
+      "Director General of Consumer Affairs",
+      "Head of Consumer Protection",
+      "Main Official",
+      "director general disposal of seized items",
+      "disposal of seized goods",
+      "officer disposal of confiscated articles",
+      "seized article disposal"
+    ],
+    "user_queries": [
+      "What is director-general or officer must dispose of seized articles?",
+      "How does director-general or officer must dispose of seized articles work?",
+      "Can you explain director-general or officer must dispose of seized articles?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

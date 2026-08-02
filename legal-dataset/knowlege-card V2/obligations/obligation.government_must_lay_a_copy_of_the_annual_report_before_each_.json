@@ -9,22 +9,45 @@
     "conditions": [
       "as soon as may be after it is received"
     ],
-    "limitations": []
+    "limitations": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S27-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.government_must_lay_annual_report_before_parliament",
+    "alias.parliament",
+    "authority.parliament",
+    "intent.government_must_lay_annual_report_before_parliament",
+    "intent.government_must_lay_annual_report_before_parliament_2",
+    "intent.parliament",
+    "intent.parliament_2"
+  ],
   "search": {
     "keywords": [
       "annual report",
-      "Parliament"
+      "Parliament",
+      "government",
+      "lay",
+      "annual",
+      "report",
+      "before",
+      "parliament",
+      "copy",
+      "each",
+      "house",
+      "soon"
     ],
     "aliases": [
       "laying of report"
     ],
     "user_queries": [
-      "government obligations"
+      "government obligations",
+      "What is government must lay annual report before parliament?",
+      "How does government must lay annual report before parliament work?",
+      "Can you explain government must lay annual report before parliament?"
     ]
   },
   "metadata": {

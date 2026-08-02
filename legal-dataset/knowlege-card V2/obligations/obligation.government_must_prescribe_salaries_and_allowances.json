@@ -6,26 +6,48 @@
   "content": {
     "who": "Government",
     "what": "must prescribe salaries and allowances",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "such as may be prescribed"
+    ],
+    "limitations": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S13-2",
     "CPA2019-CH4-S33-3",
     "CPA2019-CH4-S57-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.government_must_prescribe_salaries_and_allowances",
+    "authority.central_authority",
+    "intent.central_authority",
+    "intent.central_authority_2",
+    "intent.government_must_prescribe_salaries_and_allowances",
+    "intent.government_must_prescribe_salaries_and_allowances_2"
+  ],
   "search": {
     "keywords": [
       "salaries",
       "allowances",
-      "National Commission"
+      "National Commission",
+      "government",
+      "prescribe",
+      "required",
+      "central",
+      "authority",
+      "officers",
+      "employees"
     ],
     "aliases": [
       "remuneration"
     ],
     "user_queries": [
-      "What are the salary rules for National Commission employees?"
+      "What are the salary rules for National Commission employees?",
+      "What is government must prescribe salaries and allowances?",
+      "How does government must prescribe salaries and allowances work?",
+      "Can you explain government must prescribe salaries and allowances?"
     ]
   },
   "metadata": {

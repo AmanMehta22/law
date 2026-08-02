@@ -18,19 +18,39 @@
   "derived_from": [
     "CPA2019-CH8-S106"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.central_government_must_make_provisions_to_remove_difficulties",
+    "alias.complaint_filing_time_limit",
+    "alias.time_limit_for_removing_difficulty",
+    "authority.central_government",
+    "exception.no_such_order_shall_be_made_after_the_expiry_of_a_period_of_",
+    "intent.central_government"
+  ],
   "search": {
     "keywords": [
       "difficulty",
       "Official Gazette",
-      "commencement of this Act"
+      "commencement of this Act",
+      "central",
+      "government",
+      "make",
+      "provisions",
+      "remove",
+      "difficulties",
+      "making",
+      "giving",
+      "effect"
     ],
     "aliases": [
       "remove difficulties",
       "make provisions"
     ],
     "user_queries": [
-      "what are the Central Government's obligations under the Act"
+      "what are the Central Government's obligations under the Act",
+      "What is central government must make provisions to remove difficulties?",
+      "How does central government must make provisions to remove difficulties work?",
+      "Can you explain central government must make provisions to remove difficulties?"
     ]
   },
   "metadata": {

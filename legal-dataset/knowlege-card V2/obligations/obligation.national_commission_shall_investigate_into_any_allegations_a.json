@@ -9,24 +9,46 @@
     "conditions": [
       "and submit inquiry report to the State Government concerned along with copy endorsed to the Central Government"
     ],
-    "limitations": []
+    "limitations": [
+      "without interfering with their quasi-judicial freedom"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S70-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.district_commission",
+    "alias.investigation_into_allegations_against_state_commission_members",
+    "alias.issuance_of_instructions_for_uniform_procedure",
+    "alias.monitoring_performance_of_state_commissions",
+    "alias.national_commission",
+    "alias.national_commission_must_investigate_allegations_against_state_commission_member"
+  ],
   "search": {
     "keywords": [
       "National Commission",
       "allegations",
-      "investigation"
+      "investigation",
+      "national",
+      "commission",
+      "investigate",
+      "against",
+      "state",
+      "members",
+      "president",
+      "into",
+      "submit"
     ],
     "aliases": [
       "State Commission members",
       "accountability"
     ],
     "user_queries": [
-      "What happens when allegations are made against State Commission members?"
+      "What happens when allegations are made against State Commission members?",
+      "What is copies of documents?",
+      "How does copies of documents work?",
+      "Can you explain copies of documents?"
     ]
   },
   "metadata": {

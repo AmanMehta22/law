@@ -9,20 +9,54 @@
     "conditions": [
       "in all matters referred to in sub-section (1)"
     ],
-    "limitations": []
+    "limitations": [
+      "within its jurisdiction"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S70-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "authority.district_commission",
+    "intent.district_commission",
+    "intent.district_commission_2",
+    "intent.state_commission_s_administrative_control",
+    "intent.territorial_jurisdiction_of_state_commission_3",
+    "jurisdiction.state_commission_within_its_jurisdiction"
+  ],
   "search": {
     "keywords": [
       "administrative control",
       "State Commission",
-      "District Commissions"
+      "District Commissions",
+      "state",
+      "commission",
+      "administrative",
+      "control",
+      "has",
+      "over",
+      "district",
+      "commissions",
+      "have"
     ],
-    "aliases": [],
-    "user_queries": []
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum",
+      "administrative authority",
+      "control and regulation",
+      "state commission governance",
+      "state commission management"
+    ],
+    "user_queries": [
+      "What is state commission's administrative control?",
+      "How does state commission's administrative control work?",
+      "Can you explain state commission's administrative control?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

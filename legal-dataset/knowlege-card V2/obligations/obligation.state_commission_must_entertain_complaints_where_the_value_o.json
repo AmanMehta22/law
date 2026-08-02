@@ -41,11 +41,41 @@
   "derived_from": [
     "CPA2019-CH4-S47-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.calling_for_records_and_passing_orders",
+    "alias.central_government",
+    "alias.central_government_override",
+    "alias.district_commission",
+    "alias.filing_appeals_with_the_state_commission",
+    "alias.filing_complaints_with_the_state_commission",
+    "alias.pecuniary_jurisdiction_of_state_commission"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "state",
+      "commission",
+      "entertain",
+      "complaints",
+      "where",
+      "value",
+      "goods",
+      "services",
+      "paid",
+      "consideration"
+    ],
+    "aliases": [
+      "calling for records",
+      "calling for records and passing orders",
+      "records and orders",
+      "complaint filing",
+      "state commission complaint handling",
+      "state commission complaint procedure"
+    ],
+    "user_queries": [
+      "What is state commission must entertain complaints?",
+      "How does state commission must entertain complaints work?",
+      "Can you explain state commission must entertain complaints?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -9,23 +9,44 @@
     "conditions": [
       "in accordance with the procedure specified by regulations"
     ],
-    "limitations": []
+    "limitations": [
+      "number of experts and professionals it deems necessary"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S13-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_authority_must_engage_experts_according_to_regulations",
+    "authority.central_authority",
+    "intent.central_authority",
+    "intent.central_authority_2",
+    "intent.central_authority_must_engage_experts_according_to_regulations",
+    "intent.central_authority_must_engage_experts_according_to_regulations_2"
+  ],
   "search": {
     "keywords": [
       "Central Authority",
       "experts",
-      "regulations"
+      "regulations",
+      "central",
+      "authority",
+      "engage",
+      "according",
+      "professionals",
+      "assist",
+      "discharge",
+      "functions"
     ],
     "aliases": [
       "Consumer Protection Authority"
     ],
     "user_queries": [
-      "What are the obligations of the Central Authority under the Consumer Protection Act"
+      "What are the obligations of the Central Authority under the Consumer Protection Act",
+      "What is central authority must engage experts according to regulations?",
+      "How does central authority must engage experts according to regulations work?",
+      "Can you explain central authority must engage experts according to regulations?"
     ]
   },
   "metadata": {

@@ -9,16 +9,51 @@
     "conditions": [
       "where the order is made as per majority opinion under sub-section (3)"
     ],
-    "limitations": []
+    "limitations": [
+      "shall be signed by the President and the member who conducted the proceeding"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S39-4"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "authority.district_commission",
+    "exception.shall_also_be_signed_by_the_other_member",
+    "intent.district_commission",
+    "intent.district_commission_2",
+    "intent.district_commission_president_and_member_must_sign_order",
+    "intent.district_commission_references_central_government"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "other",
+      "member",
+      "district",
+      "commission",
+      "sign",
+      "order",
+      "case",
+      "majority",
+      "opinion",
+      "signing"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum",
+      "district commission majority order signature",
+      "district commission order signing",
+      "majority decision signing"
+    ],
+    "user_queries": [
+      "What is other member of district commission must sign order in case of majority opinion?",
+      "How does other member of district commission must sign order in case of majority opinion work?",
+      "Can you explain other member of district commission must sign order in case of majority opinion?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

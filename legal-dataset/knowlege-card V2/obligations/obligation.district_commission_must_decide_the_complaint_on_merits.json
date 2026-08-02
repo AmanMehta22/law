@@ -9,23 +9,45 @@
     "conditions": [
       "complainant fails to appear on the date of hearing"
     ],
-    "limitations": []
+    "limitations": [
+      "complaint relates to goods in respect of which the procedure specified in sub-section (2) of section 36 cannot be followed",
+      "complaint relates to any services"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_time_limit",
+    "alias.complaint_handling_by_district_commission",
+    "alias.district_commission",
+    "alias.district_commission_must_decide_complaint_on_merits",
+    "alias.district_commission_must_direct_opposite_party_to_respond",
+    "alias.district_commission_must_refer_complaint",
+    "alias.district_commission_must_settle_consumer_dispute"
+  ],
   "search": {
     "keywords": [
       "District Commission",
       "complaint",
-      "merits"
+      "merits",
+      "district",
+      "commission",
+      "decide",
+      "complainant",
+      "fails",
+      "appear",
+      "date",
+      "hearing"
     ],
     "aliases": [
       "ex parte decision"
     ],
     "user_queries": [
-      "what happens if the complainant does not appear"
+      "what happens if the complainant does not appear",
+      "What is complaint handling by district commission?",
+      "How does complaint handling by district commission work?",
+      "Can you explain complaint handling by district commission?"
     ]
   },
   "metadata": {

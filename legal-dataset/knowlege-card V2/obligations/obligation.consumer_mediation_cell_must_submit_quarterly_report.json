@@ -9,22 +9,47 @@
     "conditions": [
       "to the District Commission, the State Commission or the National Commission under sub-section (5) of section 74"
     ],
-    "limitations": []
+    "limitations": [
+      "to the District Commission, the State Commission or the National Commission under sub-section (5) of section 74"
+    ]
   },
   "derived_from": [
     "CPA2019-CH8-S103-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.adjournment_cost_imposition_by_district_commission",
+    "alias.adjournment_cost_imposition_by_state_or_national_commission",
+    "alias.authority_must_provide_for_re_empanelment_of_mediators",
+    "alias.authority_must_set_qualifications_and_experience_for_empanelment_as_mediator",
+    "alias.conduct_of_mediation",
+    "alias.consumer_mediation_cell",
+    "alias.consumer_mediation_cell_must_maintain_information"
+  ],
   "search": {
     "keywords": [
       "quarterly report",
-      "consumer mediation cell"
+      "consumer mediation cell",
+      "consumer",
+      "mediation",
+      "cell",
+      "submit",
+      "quarterly",
+      "report",
+      "regulations",
+      "provide",
+      "submission",
+      "district"
     ],
     "aliases": [
-      "periodic reporting"
+      "periodic reporting",
+      "consumer dispute resolution",
+      "mediation cell report"
     ],
     "user_queries": [
-      "what is the reporting requirement"
+      "what is the reporting requirement",
+      "What is consumer mediation cell must submit quarterly report?",
+      "How does consumer mediation cell must submit quarterly report work?",
+      "Can you explain consumer mediation cell must submit quarterly report?"
     ]
   },
   "metadata": {

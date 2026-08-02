@@ -6,17 +6,41 @@
   "content": {
     "who": "Electronic Service Provider",
     "what": "shall designate a nodal officer to accept and process notices",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "for the purpose of accepting and processing notices"
+    ],
+    "limitations": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S65-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "intent.electronic_service_provider_must_designate_a_nodal_officer"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "electronic",
+      "service",
+      "provider",
+      "designate",
+      "nodal",
+      "officer",
+      "accept",
+      "process",
+      "notices"
+    ],
+    "aliases": [
+      "csp",
+      "csp nodal officer",
+      "electronic service provider nodal officer"
+    ],
+    "user_queries": [
+      "What is electronic service provider must designate a nodal officer?",
+      "How does electronic service provider must designate a nodal officer work?",
+      "Can you explain electronic service provider must designate a nodal officer?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

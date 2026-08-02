@@ -9,22 +9,44 @@
     "conditions": [
       "security deposits must not be manifestly excessive"
     ],
-    "limitations": []
+    "limitations": [
+      "security deposits must not cause significant change in the rights of the consumer",
+      "security deposits must not be wholly disproportionate to the loss occurred due to breach of contract"
+    ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-46"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.party_to_the_contract_must_accept_early_repayment_of_debts",
+    "alias.party_to_the_contract_must_not_assign_contract_unilaterally_without_consumer_con",
+    "alias.party_to_the_contract_must_not_impose_disproportionate_penalties",
+    "alias.party_to_the_contract_must_not_impose_unreasonable_charges_or_conditions",
+    "alias.party_to_the_contract_must_not_require_excessive_security_deposits",
+    "alias.party_to_the_contract_must_not_terminate_contract_unilaterally_without_reasonabl",
+    "alias.right_to_fair_contract_terms"
+  ],
   "search": {
     "keywords": [
       "unfair contract",
-      "excessive security deposits"
+      "excessive security deposits",
+      "party",
+      "contract",
+      "require",
+      "excessive",
+      "security",
+      "deposits",
+      "manifestly",
+      "consumer"
     ],
     "aliases": [
       "security deposit requirements"
     ],
     "user_queries": [
-      "What constitutes an excessive security deposit?"
+      "What constitutes an excessive security deposit?",
+      "What is party to the contract must accept early repayment of debts?",
+      "How does party to the contract must accept early repayment of debts work?",
+      "Can you explain party to the contract must accept early repayment of debts?"
     ]
   },
   "metadata": {

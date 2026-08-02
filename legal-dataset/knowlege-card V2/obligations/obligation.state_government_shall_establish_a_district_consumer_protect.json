@@ -10,22 +10,41 @@
       "by notification",
       "with effect from such date as it may specify in such notification"
     ],
-    "limitations": []
+    "limitations": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH2-S8-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.state_government_must_establish_district_consumer_protection_council",
+    "intent.state_government_must_establish_district_consumer_protection_council",
+    "intent.state_government_must_establish_district_consumer_protection_council_2"
+  ],
   "search": {
     "keywords": [
       "District Consumer Protection Council",
-      "State Government notification"
+      "State Government notification",
+      "state",
+      "government",
+      "establish",
+      "district",
+      "consumer",
+      "protection",
+      "council",
+      "required",
+      "every",
+      "notification"
     ],
     "aliases": [
       "District Council"
     ],
     "user_queries": [
-      "consumer protection council establishment"
+      "consumer protection council establishment",
+      "What is state government must establish district consumer protection council?",
+      "How does state government must establish district consumer protection council work?",
+      "Can you explain state government must establish district consumer protection council?"
     ]
   },
   "metadata": {

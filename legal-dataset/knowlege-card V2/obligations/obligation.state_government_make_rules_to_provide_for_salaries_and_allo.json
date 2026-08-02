@@ -9,19 +9,37 @@
     "conditions": [
       "by notification"
     ],
-    "limitations": []
+    "limitations": [
+      "salaries and allowances and other terms and conditions of service of the President, and members of the District Commission",
+      "salaries and allowances and other terms and conditions of service of the President and members of the State Commission"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S30",
     "CPA2019-CH4-S44"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.state_government",
+    "alias.state_government_must_make_rules_for_salaries_and_allowances",
+    "authority.district_commission",
+    "authority.state_government",
+    "intent.district_commission",
+    "intent.district_commission_2"
+  ],
   "search": {
     "keywords": [
       "State Government",
       "rules",
       "salaries",
-      "allowances"
+      "allowances",
+      "state",
+      "government",
+      "make",
+      "required",
+      "president",
+      "members",
+      "district"
     ],
     "aliases": [
       "State Govt",
@@ -29,7 +47,10 @@
     ],
     "user_queries": [
       "What are the rules for salaries of District Commission members",
-      "What are the obligations of State Government regarding State Commission"
+      "What are the obligations of State Government regarding State Commission",
+      "What is state government must make rules for salaries and allowances?",
+      "How does state government must make rules for salaries and allowances work?",
+      "Can you explain state government must make rules for salaries and allowances?"
     ]
   },
   "metadata": {

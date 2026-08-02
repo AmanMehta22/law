@@ -6,17 +6,48 @@
   "content": {
     "who": "Government",
     "what": "must credit penalty and amount to fund",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "under section 21",
+      "under section 96"
+    ],
+    "limitations": [
+      "such fund as may be prescribed"
+    ]
   },
   "derived_from": [
     "CPA2019-CH8-S97"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "intent.government_must_credit_penalty_and_amount_to_fund",
+    "intent.mediation_references_questions_about_government_must_credit_penalty_and_amount_t",
+    "relationship.alias_mediation_references_intent_government_must_credit_penalty_and_a"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "government",
+      "credit",
+      "penalty",
+      "amount",
+      "fund",
+      "required",
+      "collected",
+      "prescribed"
+    ],
+    "aliases": [
+      "appeal to national commission",
+      "appeal to national consumer commission",
+      "national appeal",
+      "national commission",
+      "national commission appeal",
+      "government fund",
+      "government penalty",
+      "government penalty and amount"
+    ],
+    "user_queries": [
+      "What is government must credit penalty and amount to fund?",
+      "How does government must credit penalty and amount to fund work?",
+      "Can you explain government must credit penalty and amount to fund?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

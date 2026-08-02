@@ -9,22 +9,45 @@
     "conditions": [
       "the terms are unfair to any consumer"
     ],
-    "limitations": []
+    "limitations": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S49-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.declaration_of_unfair_contract_terms_as_null_and_void",
+    "alias.right_to_protection_from_unfair_contract_terms",
+    "alias.state_commission",
+    "alias.state_commission_may_declare_unfair_contract_terms_null_and_void",
+    "authority.state_commission",
+    "intent.declaration_of_unfair_contract_terms_as_null_and_void",
+    "intent.declaration_of_unfair_contract_terms_as_null_and_void_2"
+  ],
   "search": {
     "keywords": [
       "unfair contract terms",
-      "null and void"
+      "null and void",
+      "state",
+      "commission",
+      "declare",
+      "unfair",
+      "contract",
+      "terms",
+      "null",
+      "void",
+      "declaration",
+      "consumer"
     ],
     "aliases": [
       "declaration of unfair terms"
     ],
     "user_queries": [
-      "what are unfair contract terms"
+      "what are unfair contract terms",
+      "What is declaration of unfair contract terms as null and void?",
+      "How does declaration of unfair contract terms as null and void work?",
+      "Can you explain declaration of unfair contract terms as null and void?"
     ]
   },
   "metadata": {

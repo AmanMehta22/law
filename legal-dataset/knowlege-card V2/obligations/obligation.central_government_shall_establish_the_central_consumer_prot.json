@@ -10,22 +10,45 @@
       "by notification",
       "with effect from such date as it may specify in that notification"
     ],
-    "limitations": []
+    "limitations": [
+      "to be known as the Central Council"
+    ]
   },
   "derived_from": [
     "CPA2019-CH2-S3-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_consumer_protection_council",
+    "alias.central_government",
+    "alias.central_government_must_establish_central_consumer_protection_council",
+    "authority.central_consumer_protection_council",
+    "authority.central_government",
+    "intent.central_consumer_protection_council",
+    "intent.central_consumer_protection_council_2"
+  ],
   "search": {
     "keywords": [
       "Central Consumer Protection Council",
-      "Central Council"
+      "Central Council",
+      "central",
+      "government",
+      "establish",
+      "consumer",
+      "protection",
+      "council",
+      "required",
+      "notification",
+      "effect",
+      "such"
     ],
     "aliases": [
       "Central Government"
     ],
     "user_queries": [
-      "establishment of Central Council"
+      "establishment of Central Council",
+      "What is central consumer protection council?",
+      "How does central consumer protection council work?",
+      "Can you explain central consumer protection council?"
     ]
   },
   "metadata": {

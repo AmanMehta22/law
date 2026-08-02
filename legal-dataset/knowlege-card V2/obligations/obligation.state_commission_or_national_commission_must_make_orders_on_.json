@@ -6,17 +6,52 @@
   "content": {
     "who": "State Commission or National Commission",
     "what": "must make orders on costs of adjournment",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "sufficient cause is shown",
+      "the reasons for grant of adjournment have been recorded in writing"
+    ],
+    "limitations": [
+      "ordinarily",
+      "as may be specified by regulations"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S52"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.adjournment_exception",
+    "alias.appeal_hearing",
+    "alias.national_commission",
+    "alias.right_to_expedient_hearing_of_appeal",
+    "alias.state_commission",
+    "authority.national_commission",
+    "authority.state_commission"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "state",
+      "commission",
+      "national",
+      "make",
+      "orders",
+      "costs",
+      "adjournment",
+      "occasioned",
+      "specified",
+      "regulations"
+    ],
+    "aliases": [
+      "delay",
+      "postponement",
+      "adjournment cost orders",
+      "adjournment fees",
+      "costs of adjournment"
+    ],
+    "user_queries": [
+      "What is state commission or national commission must make orders on costs of adjournment?",
+      "How does state commission or national commission must make orders on costs of adjournment work?",
+      "Can you explain state commission or national commission must make orders on costs of adjournment?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

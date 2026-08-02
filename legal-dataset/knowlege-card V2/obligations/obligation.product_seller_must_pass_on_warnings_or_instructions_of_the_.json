@@ -6,17 +6,54 @@
   "content": {
     "who": "Product seller",
     "what": "must pass on warnings or instructions of the product manufacturer",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "the product has been sold by him",
+      "the identity of product manufacturer of such product is not known",
+      "if known, the service of notice or process or warrant cannot be effected on him or he is not subject to the law which is in force in India or the order, if any, passed or to be passed cannot be enforced against him"
+    ],
+    "limitations": [
+      "he has exercised substantial control over the designing, testing, manufacturing, packaging or labelling of a product that caused harm",
+      "he has altered or modified the product and such alteration or modification was the substantial factor in causing the harm",
+      "he has made an express warranty of a product independent of any express warranty made by a manufacturer and such product failed to conform to the express warranty made by the product seller which caused the harm"
+    ]
   },
   "derived_from": [
     "CPA2019-CH6-S86"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.compensation_for_harm_caused",
+    "alias.right_to_compensation",
+    "evidence.documents_showing_control_over_designing_testing_manufacturi",
+    "evidence.express_warranty_documents",
+    "evidence.maintenance_records_inspection_records_assembly_records",
+    "evidence.manufacturer_s_records_identification_documents",
+    "evidence.notice_or_process_records_service_records"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "product",
+      "seller",
+      "pass",
+      "warnings",
+      "instructions",
+      "manufacturer",
+      "regarding",
+      "dangers",
+      "involved",
+      "proper"
+    ],
+    "aliases": [
+      "damages",
+      "reparation",
+      "passing on product warnings",
+      "product instructions",
+      "seller's duty to inform"
+    ],
+    "user_queries": [
+      "What is product seller must pass on warnings or instructions?",
+      "How does product seller must pass on warnings or instructions work?",
+      "Can you explain product seller must pass on warnings or instructions?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

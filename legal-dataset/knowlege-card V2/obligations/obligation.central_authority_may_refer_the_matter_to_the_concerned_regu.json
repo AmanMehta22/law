@@ -10,23 +10,44 @@
       "after preliminary inquiry",
       "matter is to be dealt with by a Regulator established under any other law for the time being in force"
     ],
-    "limitations": []
+    "limitations": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S19-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_authority_must_refer_matter_to_regulator",
+    "alias.referral_to_regulator",
+    "alias.regulator",
+    "authority.central_authority",
+    "authority.regulator",
+    "intent.central_authority"
+  ],
   "search": {
     "keywords": [
       "referral",
-      "regulator"
+      "regulator",
+      "central",
+      "authority",
+      "refer",
+      "matter",
+      "concerned",
+      "after",
+      "preliminary",
+      "inquiry"
     ],
     "aliases": [
       "Central Authority",
       "Regulator"
     ],
     "user_queries": [
-      "What are the obligations of the Central Authority?"
+      "What are the obligations of the Central Authority?",
+      "What is central authority must refer matter to regulator?",
+      "How does central authority must refer matter to regulator work?",
+      "Can you explain central authority must refer matter to regulator?"
     ]
   },
   "metadata": {

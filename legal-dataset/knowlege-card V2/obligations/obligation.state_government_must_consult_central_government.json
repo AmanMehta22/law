@@ -9,24 +9,46 @@
     "conditions": [
       "to prescribe the number of members in the State Commission"
     ],
-    "limitations": []
+    "limitations": [
+      "not less than four",
+      "not more than such number of members as may be prescribed"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S42-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.state_commission",
+    "alias.state_government_must_consult_central_government",
+    "authority.central_government",
+    "authority.state_commission",
+    "intent.central_government",
+    "intent.central_government_2"
+  ],
   "search": {
     "keywords": [
       "State Commission",
       "Central Government",
-      "consultation"
+      "consultation",
+      "state",
+      "government",
+      "consult",
+      "central",
+      "prescribe",
+      "number",
+      "members",
+      "commission"
     ],
     "aliases": [
       "State Government",
       "Central Government"
     ],
     "user_queries": [
-      "What is the composition of State Commission?"
+      "What is the composition of State Commission?",
+      "What is district commission references state commission?",
+      "How does district commission references state commission work?",
+      "Can you explain district commission references state commission?"
     ]
   },
   "metadata": {

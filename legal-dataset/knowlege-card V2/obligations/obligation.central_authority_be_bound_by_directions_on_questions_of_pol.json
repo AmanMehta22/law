@@ -9,19 +9,54 @@
     "conditions": [
       "in exercise of its powers or the performance of its functions under this Act"
     ],
-    "limitations": []
+    "limitations": [
+      "as far as practicable, be given an opportunity to express its views before any direction is given under this sub-section"
+    ]
   },
   "derived_from": [
     "CPA2019-CH8-S99-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.opportunity_to_express_views",
+    "authority.central_authority",
+    "authority.central_government",
+    "exception.the_central_authority_shall_be_given_an_opportunity_to_expre",
+    "intent.central_authority"
+  ],
   "search": {
     "keywords": [
       "directions on questions of policy",
-      "Central Government"
+      "Central Government",
+      "central",
+      "authority",
+      "follow",
+      "directions",
+      "questions",
+      "policy",
+      "given",
+      "government",
+      "bound",
+      "exercise"
     ],
-    "aliases": [],
-    "user_queries": []
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority",
+      "central authority adherence to guidelines",
+      "central authority compliance with directions"
+    ],
+    "user_queries": [
+      "What is central authority must follow directions?",
+      "How does central authority must follow directions work?",
+      "Can you explain central authority must follow directions?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

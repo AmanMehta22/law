@@ -9,22 +9,41 @@
     "conditions": [
       "factors include population and area impacted, frequency and duration of offence, vulnerability of affected persons, and gross revenue from sales"
     ],
-    "limitations": []
+    "limitations": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S21-7"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.court_must_consider_factors_while_determining_penalty",
+    "intent.court_must_consider_factors_while_determining_penalty",
+    "intent.court_must_consider_factors_while_determining_penalty_2"
+  ],
   "search": {
     "keywords": [
       "penalty determination",
-      "consumer protection"
+      "consumer protection",
+      "court",
+      "consider",
+      "factors",
+      "while",
+      "determining",
+      "penalty",
+      "certain",
+      "section",
+      "include",
+      "population"
     ],
     "aliases": [
       "court consideration while determining penalty"
     ],
     "user_queries": [
-      "what factors to consider while determining penalty under this section"
+      "what factors to consider while determining penalty under this section",
+      "What is court must consider factors while determining penalty?",
+      "How does court must consider factors while determining penalty work?",
+      "Can you explain court must consider factors while determining penalty?"
     ]
   },
   "metadata": {

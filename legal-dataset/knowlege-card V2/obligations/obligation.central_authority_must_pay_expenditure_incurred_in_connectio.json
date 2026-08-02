@@ -6,17 +6,43 @@
   "content": {
     "who": "Central Authority",
     "what": "must pay expenditure incurred in connection with audit",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "at such intervals as may be specified by the Comptroller and Auditor-General of India"
+    ],
+    "limitations": [
+      "any expenditure incurred in connection with such audit"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S26-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "intent.central_authority_must_pay_audit_expenditure",
+    "intent.comptroller_and_auditor_general_of_india_must_audit_accounts"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "central",
+      "authority",
+      "pay",
+      "audit",
+      "expenditure",
+      "required",
+      "incurred",
+      "connection",
+      "its",
+      "accounts"
+    ],
+    "aliases": [
+      "audit expenditure reimbursement by central authority",
+      "central authority audit costs",
+      "central authority payment for audit fees"
+    ],
+    "user_queries": [
+      "What is central authority must pay audit expenditure?",
+      "How does central authority must pay audit expenditure work?",
+      "Can you explain central authority must pay audit expenditure?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

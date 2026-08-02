@@ -10,22 +10,45 @@
       "unreasonable",
       "to the disadvantage of the consumer"
     ],
-    "limitations": []
+    "limitations": [
+      "unreasonable charges or conditions",
+      "to the disadvantage of the consumer"
+    ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-46"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.party_to_the_contract_must_accept_early_repayment_of_debts",
+    "alias.party_to_the_contract_must_not_assign_contract_unilaterally_without_consumer_con",
+    "alias.party_to_the_contract_must_not_impose_disproportionate_penalties",
+    "alias.party_to_the_contract_must_not_impose_unreasonable_charges_or_conditions",
+    "alias.party_to_the_contract_must_not_require_excessive_security_deposits",
+    "alias.party_to_the_contract_must_not_terminate_contract_unilaterally_without_reasonabl",
+    "alias.right_to_fair_contract_terms"
+  ],
   "search": {
     "keywords": [
       "unfair contract",
-      "unreasonable charges"
+      "unreasonable charges",
+      "party",
+      "contract",
+      "impose",
+      "unreasonable",
+      "charges",
+      "conditions",
+      "obligations",
+      "consumer",
+      "disadvantage"
     ],
     "aliases": [
       "unreasonable conditions"
     ],
     "user_queries": [
-      "What constitutes an unfair contract term?"
+      "What constitutes an unfair contract term?",
+      "What is party to the contract must accept early repayment of debts?",
+      "How does party to the contract must accept early repayment of debts work?",
+      "Can you explain party to the contract must accept early repayment of debts?"
     ]
   },
   "metadata": {

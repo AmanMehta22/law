@@ -6,17 +6,55 @@
   "content": {
     "who": "District Commission",
     "what": "must decide the issue of admissibility of the complaint within the period so specified",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "within the period so specified"
+    ],
+    "limitations": [
+      "it shall be deemed to have been admitted"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S36-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "authority.district_commission",
+    "intent.admissibility_of_the_complaint",
+    "intent.district_commission",
+    "intent.district_commission_2",
+    "intent.district_commission_must_decide_on_admissibility_within_a_period",
+    "timeline.the_period_so_specified"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "district",
+      "commission",
+      "decide",
+      "admissibility",
+      "period",
+      "has",
+      "time",
+      "limit",
+      "complaint",
+      "issue"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum",
+      "admissibility timeline",
+      "complaint admissibility period",
+      "district commission decision deadline",
+      "time-bound admissibility decision"
+    ],
+    "user_queries": [
+      "What is district commission must decide on admissibility within a period?",
+      "How does district commission must decide on admissibility within a period work?",
+      "Can you explain district commission must decide on admissibility within a period?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

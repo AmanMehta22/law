@@ -2,7 +2,7 @@
   "concept_id": "obligation.district_commission_may_direct_parties_to_give_in_writing_co",
   "concept_type": "obligation",
   "title": "District Commission may direct parties to consider mediation",
-  "description": "District Commission may direct parties to consider mediation",
+  "description": "Who: District Commission. What: may direct parties to give in writing consent to have their dispute settled by mediation. Conditions: at the first hearing of the complaint after its admission, or at any later stage; if it appears that there exists elements of a settlement which may be acceptable to the parties; except in such cases as may be prescribed. Limitations: within five days",
   "content": {
     "who": "District Commission",
     "what": "may direct parties to give in writing consent to have their dispute settled by mediation",
@@ -11,22 +11,44 @@
       "if it appears that there exists elements of a settlement which may be acceptable to the parties",
       "except in such cases as may be prescribed"
     ],
-    "limitations": []
+    "limitations": [
+      "within five days"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S37-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.district_commission_may_direct_parties_to_consider_mediation",
+    "alias.mediation_direction",
+    "authority.district_commission",
+    "evidence.written_consent",
+    "exception.does_not_include_a_person_who_obtains_goods_for_resale_or_co",
+    "intent.consent_in_writing"
+  ],
   "search": {
     "keywords": [
       "mediation",
-      "dispute settlement"
+      "dispute settlement",
+      "district",
+      "commission",
+      "direct",
+      "parties",
+      "consider",
+      "give",
+      "writing",
+      "consent",
+      "have"
     ],
     "aliases": [
       "alternative dispute resolution"
     ],
     "user_queries": [
-      "what happens at the first hearing of a complaint"
+      "what happens at the first hearing of a complaint",
+      "What is consent in writing?",
+      "How does consent in writing work?",
+      "Can you explain consent in writing?"
     ]
   },
   "metadata": {

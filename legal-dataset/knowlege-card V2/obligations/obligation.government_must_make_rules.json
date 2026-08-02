@@ -6,25 +6,47 @@
   "content": {
     "who": "Government",
     "what": "must make rules",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "Not specified in the Act"
+    ],
+    "limitations": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH8-S101-2",
     "CPA2019-CH8-S102-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_to_national_commission",
+    "alias.appeal_to_state_commission",
+    "alias.authentication_of_goods",
+    "alias.deposit_of_amount",
+    "alias.filing_complaint",
+    "alias.furnishing_information",
+    "alias.government_must_make_rules"
+  ],
   "search": {
     "keywords": [
       "rules",
-      "Consumer Protection Act"
+      "Consumer Protection Act",
+      "government",
+      "make",
+      "required",
+      "various",
+      "aspects",
+      "consumer",
+      "protection",
+      "act"
     ],
     "aliases": [
       "regulations",
       "guidelines"
     ],
     "user_queries": [
-      "What are the rules under the Consumer Protection Act?"
+      "What are the rules under the Consumer Protection Act?",
+      "How do I file appeal to national commission?",
+      "What are the steps for appeal to national commission?"
     ]
   },
   "metadata": {

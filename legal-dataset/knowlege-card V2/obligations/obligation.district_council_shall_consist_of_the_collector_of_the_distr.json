@@ -6,17 +6,52 @@
   "content": {
     "who": "District Council",
     "what": "shall consist of the Collector of the district and other prescribed members",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "the Collector of the district (by whatever name called), who shall be the Chairperson"
+    ],
+    "limitations": [
+      "such number of other official and non-official members representing such interests as may be prescribed"
+    ]
   },
   "derived_from": [
     "CPA2019-CH2-S8-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_council",
+    "authority.district_council",
+    "intent.district_commission_references_district_council",
+    "intent.district_council",
+    "intent.district_council_2",
+    "intent.district_council_composition",
+    "relationship.alias_district_commission_references_alias_district_council"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "district",
+      "council",
+      "composition",
+      "obligation",
+      "consist",
+      "collector",
+      "other",
+      "prescribed",
+      "members"
+    ],
+    "aliases": [
+      "District Board",
+      "Local Council",
+      "Municipal Council",
+      "council",
+      "council composition",
+      "council members",
+      "district council",
+      "district council structure"
+    ],
+    "user_queries": [
+      "What is district council composition?",
+      "How does district council composition work?",
+      "Can you explain district council composition?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

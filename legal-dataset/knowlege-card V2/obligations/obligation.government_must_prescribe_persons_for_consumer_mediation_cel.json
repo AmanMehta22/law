@@ -6,24 +6,46 @@
   "content": {
     "who": "Government",
     "what": "must prescribe persons for consumer mediation cell",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "Not specified in the Act"
+    ],
+    "limitations": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH5-S74-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.consumer_mediation_cell",
+    "alias.government_must_prescribe_persons_for_consumer_mediation_cell",
+    "authority.consumer_mediation_cell",
+    "intent.consumer_mediation_cell",
+    "intent.consumer_mediation_cell_2",
+    "intent.district_commission_references_consumer_mediation_cell",
+    "intent.government_must_prescribe_persons_for_consumer_mediation_cell"
+  ],
   "search": {
     "keywords": [
       "consumer mediation cell",
-      "prescribe persons"
+      "prescribe persons",
+      "government",
+      "prescribe",
+      "persons",
+      "consumer",
+      "mediation",
+      "cell",
+      "required"
     ],
     "aliases": [
       "specify members",
       "define composition"
     ],
     "user_queries": [
-      "Who decides the members of a consumer mediation cell?"
+      "Who decides the members of a consumer mediation cell?",
+      "What is district commission references consumer mediation cell?",
+      "How does district commission references consumer mediation cell work?",
+      "Can you explain district commission references consumer mediation cell?"
     ]
   },
   "metadata": {

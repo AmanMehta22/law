@@ -9,22 +9,45 @@
     "conditions": [
       "express provision"
     ],
-    "limitations": []
+    "limitations": [
+      "express provision by the Central Government by notification"
+    ]
   },
   "derived_from": [
     "CPA2019-CH1-S1-4"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.central_government_must_consider_exceptions",
+    "authority.central_government",
+    "exception.does_not_apply_if_the_central_government_otherwise_expressly",
+    "intent.central_government",
+    "intent.central_government_2",
+    "intent.central_government_must_consider_exceptions"
+  ],
   "search": {
     "keywords": [
       "exemption",
-      "notification"
+      "notification",
+      "central",
+      "government",
+      "consider",
+      "exceptions",
+      "has",
+      "power",
+      "exempt",
+      "certain",
+      "goods",
+      "services"
     ],
     "aliases": [
       "exception"
     ],
     "user_queries": [
-      "What goods and services are exempt from the Act?"
+      "What goods and services are exempt from the Act?",
+      "What is central government?",
+      "How does central government work?",
+      "Can you explain central government?"
     ]
   },
   "metadata": {

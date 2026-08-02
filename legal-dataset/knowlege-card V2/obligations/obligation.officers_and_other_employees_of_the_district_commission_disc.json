@@ -9,23 +9,45 @@
     "conditions": [
       "of the President of the District Commission"
     ],
-    "limitations": []
+    "limitations": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S33-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.officers_and_employees_must_discharge_functions_under_superintendence",
+    "authority.district_commission",
+    "intent.district_commission",
+    "intent.district_commission_2",
+    "intent.officers_and_employees_must_discharge_functions_under_superintendence",
+    "intent.officers_and_employees_must_discharge_functions_under_superintendence_2"
+  ],
   "search": {
     "keywords": [
       "District Commission",
-      "superintendence"
+      "superintendence",
+      "officers",
+      "employees",
+      "discharge",
+      "functions",
+      "general",
+      "president",
+      "district",
+      "commission",
+      "other"
     ],
     "aliases": [
       "officers",
       "employees"
     ],
     "user_queries": [
-      "District Commission duties"
+      "District Commission duties",
+      "What is officers and employees must discharge functions under superintendence?",
+      "How does officers and employees must discharge functions under superintendence work?",
+      "Can you explain officers and employees must discharge functions under superintendence?"
     ]
   },
   "metadata": {

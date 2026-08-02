@@ -10,16 +10,51 @@
       "on sufficient cause being shown",
       "after recording its reasons in writing"
     ],
-    "limitations": []
+    "limitations": [
+      "on sufficient cause being shown",
+      "after recording its reasons in writing"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-6"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.complaint_filing",
+    "alias.district_commission",
+    "alias.hearing_through_affidavit_and_documentary_evidence",
+    "authority.district_commission",
+    "evidence.affidavit",
+    "evidence.documentary_evidence",
+    "exception.the_district_commission_may_allow_hearing_or_examination_of_"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "district",
+      "commission",
+      "allow",
+      "hearing",
+      "examination",
+      "parties",
+      "person",
+      "through",
+      "video",
+      "conferencing"
+    ],
+    "aliases": [
+      "complaint lodging",
+      "complaint registration",
+      "filing a complaint",
+      "submitting a complaint",
+      "district commission remote hearing",
+      "in-person hearing",
+      "video conferencing for consumer complaints",
+      "virtual hearing"
+    ],
+    "user_queries": [
+      "What is district commission may allow hearing or examination of parties in person or through video conferencing?",
+      "How does district commission may allow hearing or examination of parties in person or through video conferencing work?",
+      "Can you explain district commission may allow hearing or examination of parties in person or through video conferencing?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

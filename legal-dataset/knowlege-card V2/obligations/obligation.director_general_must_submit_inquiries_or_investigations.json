@@ -9,25 +9,46 @@
     "conditions": [
       "in such form, in such manner and within such time, as may be specified by regulations"
     ],
-    "limitations": []
+    "limitations": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S15-5"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.director_general",
+    "alias.director_general_must_submit_inquiries_or_investigations",
+    "authority.central_authority",
+    "authority.director_general",
+    "intent.central_authority",
+    "intent.central_authority_2"
+  ],
   "search": {
     "keywords": [
       "inquiries",
       "investigations",
       "Director-General",
-      "Central Authority"
+      "Central Authority",
+      "director",
+      "general",
+      "submit",
+      "required",
+      "central",
+      "authority",
+      "such",
+      "form"
     ],
     "aliases": [
       "report",
       "submission"
     ],
     "user_queries": [
-      "What are the duties of the Director-General?"
+      "What are the duties of the Director-General?",
+      "What is director-general must submit inquiries or investigations?",
+      "How does director-general must submit inquiries or investigations work?",
+      "Can you explain director-general must submit inquiries or investigations?"
     ]
   },
   "metadata": {

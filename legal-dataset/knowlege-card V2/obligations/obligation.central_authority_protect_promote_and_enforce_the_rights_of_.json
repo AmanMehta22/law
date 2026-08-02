@@ -6,22 +6,47 @@
   "content": {
     "who": "Central Authority",
     "what": "protect, promote and enforce the rights of consumers",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "as a class"
+    ],
+    "limitations": [
+      "under this Act",
+      "the rules or regulations made thereunder"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S18-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_authority_must_prevent_false_or_misleading_advertisements_of_goods_or_se",
+    "alias.central_authority_must_prevent_participation_in_false_or_misleading_advertisemen",
+    "alias.central_authority_must_prevent_unfair_trade_practices",
+    "alias.central_authority_must_protect_consumer_rights",
+    "authority.central_authority",
+    "intent.central_authority"
+  ],
   "search": {
     "keywords": [
       "consumer rights",
-      "Central Authority"
+      "Central Authority",
+      "central",
+      "authority",
+      "protect",
+      "consumer",
+      "rights",
+      "promote",
+      "enforce",
+      "consumers"
     ],
     "aliases": [
       "consumer protection"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is central authority must prevent false or misleading advertisements of goods or services?",
+      "How does central authority must prevent false or misleading advertisements of goods or services work?",
+      "Can you explain central authority must prevent false or misleading advertisements of goods or services?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

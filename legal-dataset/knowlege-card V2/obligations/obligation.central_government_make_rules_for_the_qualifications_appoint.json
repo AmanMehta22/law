@@ -6,25 +6,54 @@
   "content": {
     "who": "Central Government",
     "what": "make rules for the qualifications, appointment, and terms of service of the Chief Commissioner and Commissioners",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "qualifications for appointment",
+      "method of recruitment",
+      "procedure for appointment",
+      "term of office",
+      "salaries and allowances",
+      "resignation",
+      "removal and other terms and conditions of the service"
+    ],
+    "limitations": [
+      "by notification"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S11"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.central_government_must_make_rules_for_chief_commissioner_and_commissioners",
+    "authority.central_authority",
+    "authority.central_government",
+    "intent.central_authority",
+    "intent.central_authority_2"
+  ],
   "search": {
     "keywords": [
       "Central Government",
       "Chief Commissioner",
       "Commissioners",
-      "rules"
+      "rules",
+      "central",
+      "government",
+      "make",
+      "chief",
+      "commissioner",
+      "commissioners",
+      "required",
+      "authority"
     ],
     "aliases": [
       "Central Authority"
     ],
     "user_queries": [
-      "What are the rules for Chief Commissioner and Commissioners?"
+      "What are the rules for Chief Commissioner and Commissioners?",
+      "What is central government must make rules for chief commissioner and commissioners?",
+      "How does central government must make rules for chief commissioner and commissioners work?",
+      "Can you explain central government must make rules for chief commissioner and commissioners?"
     ]
   },
   "metadata": {

@@ -6,25 +6,48 @@
   "content": {
     "who": "Central Government",
     "what": "must prescribe interests",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "representing such interests as may be prescribed"
+    ],
+    "limitations": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH2-S3-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_council",
+    "alias.central_government_must_prescribe_interests",
+    "authority.central_council",
+    "intent.central_council",
+    "intent.central_council_2",
+    "intent.central_government_must_prescribe_interests",
+    "intent.central_government_must_prescribe_interests_2"
+  ],
   "search": {
     "keywords": [
       "prescribe",
       "interests",
-      "Central Council"
+      "Central Council",
+      "central",
+      "government",
+      "required",
+      "represented",
+      "official",
+      "non",
+      "members",
+      "council"
     ],
     "aliases": [
       "specify",
       "define"
     ],
     "user_queries": [
-      "What are the responsibilities of the Central Government regarding the Central Council?"
+      "What are the responsibilities of the Central Government regarding the Central Council?",
+      "What is central council?",
+      "How does central council work?",
+      "Can you explain central council?"
     ]
   },
   "metadata": {

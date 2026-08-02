@@ -6,25 +6,52 @@
   "content": {
     "who": "Central Government",
     "what": "make rules for District Commission appointments",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "by notification"
+    ],
+    "limitations": [
+      "qualifications",
+      "method of recruitment",
+      "procedure for appointment",
+      "term of office",
+      "resignation and removal of the President and members of the District Commission"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S29"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.central_government_must_make_rules_for_district_commission_appointments",
+    "alias.district_commission",
+    "authority.central_government",
+    "authority.district_commission",
+    "intent.central_government",
+    "intent.central_government_2"
+  ],
   "search": {
     "keywords": [
       "District Commission",
       "appointments",
-      "rules"
+      "rules",
+      "central",
+      "government",
+      "make",
+      "district",
+      "commission",
+      "required",
+      "qualifications",
+      "method"
     ],
     "aliases": [
       "regulations",
       "notifications"
     ],
     "user_queries": [
-      "What are the rules for District Commission appointments?"
+      "What are the rules for District Commission appointments?",
+      "What is central government must make rules for district commission appointments?",
+      "How does central government must make rules for district commission appointments work?",
+      "Can you explain central government must make rules for district commission appointments?"
     ]
   },
   "metadata": {

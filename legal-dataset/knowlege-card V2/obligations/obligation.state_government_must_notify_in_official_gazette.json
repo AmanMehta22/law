@@ -9,16 +9,47 @@
     "conditions": [
       "in consultation with the State Commission"
     ],
-    "limitations": []
+    "limitations": [
+      "ordinarily at the State capital"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S42-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.regional_benches_establishment",
+    "exception.the_state_government_may_establish_regional_benches_of_the_s",
+    "intent.regional_benches_establishment",
+    "intent.regional_benches_establishment_3",
+    "intent.state_government_must_consult_state_commission",
+    "intent.state_government_must_notify_in_official_gazette",
+    "intent.territorial_jurisdiction_of_state_commission"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "state",
+      "government",
+      "notify",
+      "official",
+      "gazette",
+      "places",
+      "where",
+      "commission",
+      "performs",
+      "functions"
+    ],
+    "aliases": [
+      "State Consumer Commission",
+      "gazette publication requirement",
+      "government notification",
+      "official gazette notification",
+      "public notice in gazette"
+    ],
+    "user_queries": [
+      "What is state government must notify in official gazette?",
+      "How does state government must notify in official gazette work?",
+      "Can you explain state government must notify in official gazette?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

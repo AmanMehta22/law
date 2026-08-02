@@ -9,22 +9,44 @@
     "conditions": [
       "before rejecting a complaint"
     ],
-    "limitations": []
+    "limitations": [
+      "ordinarily within twenty-one days from the date on which the complaint was filed"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S36-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.admissibility_decision_time_limit",
+    "alias.complaint_admissibility_procedure",
+    "alias.district_commission_must_decide_admissibility_within_21_days",
+    "alias.district_commission_must_give_opportunity_of_being_heard",
+    "alias.right_to_be_heard",
+    "exception.a_complaint_shall_not_be_rejected_unless_an_opportunity_of_b",
+    "intent.admissibility_decision_time_limit"
+  ],
   "search": {
     "keywords": [
       "complaint",
-      "opportunity of being heard"
+      "opportunity of being heard",
+      "district",
+      "commission",
+      "give",
+      "opportunity",
+      "being",
+      "heard",
+      "before",
+      "rejecting",
+      "complainant"
     ],
     "aliases": [
       "fair hearing"
     ],
     "user_queries": [
-      "District Commission duties"
+      "District Commission duties",
+      "What is admissibility decision time limit?",
+      "How does admissibility decision time limit work?",
+      "Can you explain admissibility decision time limit?"
     ]
   },
   "metadata": {

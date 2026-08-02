@@ -9,19 +9,47 @@
     "conditions": [
       "within the district"
     ],
-    "limitations": []
+    "limitations": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH2-S9"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_council",
+    "authority.district_council",
+    "intent.district_council",
+    "intent.district_council_2",
+    "intent.district_council_must_render_advice"
+  ],
   "search": {
     "keywords": [
       "consumer rights",
-      "District Council"
+      "District Council",
+      "district",
+      "council",
+      "render",
+      "advice",
+      "promotion",
+      "protection",
+      "consumer",
+      "rights"
     ],
-    "aliases": [],
-    "user_queries": []
+    "aliases": [
+      "District Board",
+      "Local Council",
+      "Municipal Council",
+      "advisory services from district council",
+      "consumer guidance",
+      "district council guidance",
+      "expert advice"
+    ],
+    "user_queries": [
+      "What is district council must render advice?",
+      "How does district council must render advice work?",
+      "Can you explain district council must render advice?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -9,16 +9,41 @@
     "conditions": [
       "at such intervals as may be specified by him"
     ],
-    "limitations": []
+    "limitations": [
+      "at such intervals as may be specified by him"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S26-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "intent.central_authority_must_pay_audit_expenditure",
+    "intent.comptroller_and_auditor_general_of_india_must_audit_accounts"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "comptroller",
+      "auditor",
+      "general",
+      "india",
+      "audit",
+      "accounts",
+      "required",
+      "central",
+      "authority",
+      "such"
+    ],
+    "aliases": [
+      "CAG audit",
+      "accounts audit by CAG",
+      "audit of accounts by comptroller and auditor general",
+      "financial audit by CAG"
+    ],
+    "user_queries": [
+      "What is comptroller and auditor-general of india must audit accounts?",
+      "How does comptroller and auditor-general of india must audit accounts work?",
+      "Can you explain comptroller and auditor-general of india must audit accounts?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

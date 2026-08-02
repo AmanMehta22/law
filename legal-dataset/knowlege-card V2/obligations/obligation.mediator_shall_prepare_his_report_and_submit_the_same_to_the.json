@@ -10,23 +10,43 @@
       "no agreement is reached between the parties within the specified time",
       "the mediator is of the opinion that settlement is not possible"
     ],
-    "limitations": []
+    "limitations": [
+      "within the specified time"
+    ]
   },
   "derived_from": [
     "CPA2019-CH5-S80-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.commission",
+    "alias.mediation_procedure",
+    "alias.mediator_must_prepare_and_submit_report",
+    "authority.commission",
+    "intent.commission",
+    "intent.commission_2",
+    "intent.mediation_procedure"
+  ],
   "search": {
     "keywords": [
       "mediator",
       "report",
-      "commission"
+      "commission",
+      "prepare",
+      "submit",
+      "agreement",
+      "reached",
+      "settlement",
+      "possible",
+      "his"
     ],
     "aliases": [
       "mediation report"
     ],
     "user_queries": [
-      "what happens if no agreement is reached in mediation"
+      "what happens if no agreement is reached in mediation",
+      "What is mediation procedure?",
+      "How does mediation procedure work?",
+      "Can you explain mediation procedure?"
     ]
   },
   "metadata": {

@@ -9,22 +9,44 @@
     "conditions": [
       "under clause (c) of section 77"
     ],
-    "limitations": []
+    "limitations": [
+      "under clause (c) of section 77"
+    ]
   },
   "derived_from": [
     "CPA2019-CH8-S103-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.adjournment_cost_imposition_by_district_commission",
+    "alias.adjournment_cost_imposition_by_state_or_national_commission",
+    "alias.authority_must_provide_for_re_empanelment_of_mediators",
+    "alias.authority_must_set_qualifications_and_experience_for_empanelment_as_mediator",
+    "alias.conduct_of_mediation",
+    "alias.consumer_mediation_cell",
+    "alias.consumer_mediation_cell_must_maintain_information"
+  ],
   "search": {
     "keywords": [
       "mediator disclosure",
-      "fact disclosure"
+      "fact disclosure",
+      "mediators",
+      "disclose",
+      "facts",
+      "regulations",
+      "provide",
+      "other",
+      "disclosed",
+      "clause",
+      "section"
     ],
     "aliases": [
       "transparency requirements"
     ],
     "user_queries": [
-      "what facts must be disclosed"
+      "what facts must be disclosed",
+      "What is mediators must disclose facts?",
+      "How does mediators must disclose facts work?",
+      "Can you explain mediators must disclose facts?"
     ]
   },
   "metadata": {

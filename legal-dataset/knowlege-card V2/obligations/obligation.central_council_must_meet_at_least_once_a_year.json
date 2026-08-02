@@ -6,23 +6,47 @@
   "content": {
     "who": "Central Council",
     "what": "must meet at least once a year",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "as and when necessary"
+    ],
+    "limitations": [
+      "at least one meeting of the Council shall be held every year"
+    ]
   },
   "derived_from": [
     "CPA2019-CH2-S4-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_council",
+    "alias.central_council_must_meet_annually",
+    "authority.central_council",
+    "intent.central_council",
+    "intent.central_council_2",
+    "intent.central_council_must_meet_annually",
+    "intent.central_council_must_meet_annually_2"
+  ],
   "search": {
     "keywords": [
       "Central Council",
-      "meeting"
+      "meeting",
+      "central",
+      "council",
+      "meet",
+      "annually",
+      "required",
+      "hold",
+      "least",
+      "one",
+      "every"
     ],
     "aliases": [
       "annual meeting"
     ],
     "user_queries": [
-      "How often must the Central Council meet?"
+      "How often must the Central Council meet?",
+      "What is central council must meet annually?",
+      "How does central council must meet annually work?",
+      "Can you explain central council must meet annually?"
     ]
   },
   "metadata": {

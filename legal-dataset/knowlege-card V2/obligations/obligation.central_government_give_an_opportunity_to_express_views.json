@@ -16,14 +16,47 @@
   "derived_from": [
     "CPA2019-CH8-S99-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.opportunity_to_express_views",
+    "authority.central_authority",
+    "authority.central_government",
+    "exception.the_central_authority_shall_be_given_an_opportunity_to_expre",
+    "intent.central_authority"
+  ],
   "search": {
     "keywords": [
       "opportunity to express views",
-      "before giving directions"
+      "before giving directions",
+      "central",
+      "government",
+      "provide",
+      "opportunity",
+      "views",
+      "authority",
+      "express",
+      "its",
+      "before",
+      "giving"
     ],
-    "aliases": [],
-    "user_queries": []
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority",
+      "central government public hearing",
+      "public consultation"
+    ],
+    "user_queries": [
+      "What is central government must provide opportunity for views?",
+      "How does central government must provide opportunity for views work?",
+      "Can you explain central government must provide opportunity for views?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

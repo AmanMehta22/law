@@ -9,19 +9,54 @@
     "conditions": [
       "before making regulations"
     ],
-    "limitations": []
+    "limitations": [
+      "before making regulations",
+      "by notification",
+      "not inconsistent with this Act",
+      "for the purpose of giving effect to the provisions of this Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH8-S104-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_government",
+    "authority.central_authority",
+    "authority.central_government",
+    "intent.central_authority",
+    "intent.central_authority_2",
+    "intent.central_authority_must_make_consistent_regulations"
+  ],
   "search": {
     "keywords": [
       "approval",
-      "regulations"
+      "regulations",
+      "central",
+      "authority",
+      "obtain",
+      "government",
+      "before",
+      "making",
+      "previous"
     ],
-    "aliases": [],
-    "user_queries": []
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority",
+      "approval for central authority actions",
+      "central authority approval requirement"
+    ],
+    "user_queries": [
+      "What is central authority must obtain approval?",
+      "How does central authority must obtain approval work?",
+      "Can you explain central authority must obtain approval?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

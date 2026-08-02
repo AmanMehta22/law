@@ -9,24 +9,47 @@
     "conditions": [
       "deems it necessary"
     ],
-    "limitations": []
+    "limitations": [
+      "for a period which may extend to one year",
+      "for a period which may extend to three years for subsequent contravention"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S21-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_authority_must_consider_prohibition",
+    "alias.minimum_meetings_per_year",
+    "alias.prohibition_period_for_subsequent_contravention",
+    "alias.subsequent_contravention",
+    "authority.central_authority",
+    "exception.the_central_authority_may_prohibit_such_endorser_from_making"
+  ],
   "search": {
     "keywords": [
       "Central Authority",
       "endorser",
-      "false advertisement"
+      "false advertisement",
+      "central",
+      "authority",
+      "consider",
+      "prohibition",
+      "has",
+      "power",
+      "prohibit",
+      "false",
+      "misleading"
     ],
     "aliases": [
       "regulator",
       "authority"
     ],
     "user_queries": [
-      "can Central Authority ban endorsers"
+      "can Central Authority ban endorsers",
+      "What is central authority must consider prohibition?",
+      "How does central authority must consider prohibition work?",
+      "Can you explain central authority must consider prohibition?"
     ]
   },
   "metadata": {

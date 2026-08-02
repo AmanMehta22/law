@@ -6,17 +6,47 @@
   "content": {
     "who": "President",
     "what": "must constitute a Bench",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "the President may deem fit"
+    ],
+    "limitations": [
+      "with one or more members",
+      "the senior-most member shall preside over the Bench"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S47-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.bench",
+    "alias.president",
+    "alias.state_commission",
+    "authority.bench",
+    "authority.president",
+    "authority.state_commission",
+    "exception.does_not_include_a_person_who_obtains_goods_for_resale_or_co"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "president",
+      "constitute",
+      "bench",
+      "state",
+      "commission"
+    ],
+    "aliases": [
+      "Court Bench",
+      "Judicial Bench",
+      "Tribunal",
+      "appointing a bench",
+      "bench formation",
+      "constituting a bench"
+    ],
+    "user_queries": [
+      "What is president must constitute bench?",
+      "How does president must constitute bench work?",
+      "Can you explain president must constitute bench?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

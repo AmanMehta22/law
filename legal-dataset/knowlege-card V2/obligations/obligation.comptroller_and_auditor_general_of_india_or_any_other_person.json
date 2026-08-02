@@ -6,17 +6,55 @@
   "content": {
     "who": "Comptroller and Auditor-General of India or any other person appointed by him",
     "what": "shall have the same rights, privileges and authority in connection with such audit",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "in connection with the audit of the accounts of the Central Authority"
+    ],
+    "limitations": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S26-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.audit_of_central_authority_accounts",
+    "alias.comptroller_and_auditor_general_of_india",
+    "alias.right_to_demand_production_of_documents",
+    "authority.comptroller_and_auditor_general_of_india",
+    "evidence.books_accounts_connected_vouchers_other_documents_and_papers",
+    "intent.audit_documents",
+    "intent.audit_of_central_authority_accounts"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "comptroller",
+      "auditor",
+      "general",
+      "india",
+      "have",
+      "audit",
+      "rights",
+      "has",
+      "same",
+      "privileges"
+    ],
+    "aliases": [
+      "account examination",
+      "audit of central authority",
+      "central authority",
+      "central authority accounts",
+      "central authority audit",
+      "financial inspection",
+      "CAG audit powers",
+      "CAG auditing privileges",
+      "audit rights of CAG",
+      "comptroller and auditor general audit authority"
+    ],
+    "user_queries": [
+      "What is comptroller and auditor-general of india must have audit rights?",
+      "How does comptroller and auditor-general of india must have audit rights work?",
+      "Can you explain comptroller and auditor-general of india must have audit rights?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

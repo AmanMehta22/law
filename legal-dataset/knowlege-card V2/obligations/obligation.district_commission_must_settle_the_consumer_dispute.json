@@ -10,23 +10,46 @@
       "opposite party denies or disputes allegations",
       "opposite party omits or fails to take action to represent their case"
     ],
-    "limitations": []
+    "limitations": [
+      "complaint relates to goods in respect of which the procedure specified in sub-section (2) of section 36 cannot be followed",
+      "complaint relates to any services"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_time_limit",
+    "alias.complaint_handling_by_district_commission",
+    "alias.district_commission",
+    "alias.district_commission_must_decide_complaint_on_merits",
+    "alias.district_commission_must_direct_opposite_party_to_respond",
+    "alias.district_commission_must_refer_complaint",
+    "alias.district_commission_must_settle_consumer_dispute"
+  ],
   "search": {
     "keywords": [
       "District Commission",
       "consumer dispute",
-      "evidence"
+      "evidence",
+      "district",
+      "commission",
+      "settle",
+      "consumer",
+      "dispute",
+      "basis",
+      "opposite",
+      "party",
+      "denies"
     ],
     "aliases": [
       "dispute resolution"
     ],
     "user_queries": [
-      "how is a consumer dispute settled"
+      "how is a consumer dispute settled",
+      "What is complaint handling by district commission?",
+      "How does complaint handling by district commission work?",
+      "Can you explain complaint handling by district commission?"
     ]
   },
   "metadata": {

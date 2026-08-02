@@ -6,23 +6,49 @@
   "content": {
     "who": "Product service provider",
     "what": "must not withhold information",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "there was an act of omission or commission or negligence or conscious withholding any information which caused harm"
+    ],
+    "limitations": [
+      "the service provided by him was faulty or imperfect or deficient or inadequate in quality, nature or manner of performance which is required to be provided by or under any law for the time being in force, or pursuant to any contract or otherwise",
+      "the service provider did not issue adequate instructions or warnings to prevent any harm",
+      "the service did not conform to express warranty or the terms and conditions of the contract"
+    ]
   },
   "derived_from": [
     "CPA2019-CH6-S85"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.compensation_for_harm_caused",
+    "alias.product_service_provider_must_conform_to_express_warranty_or_contract_terms",
+    "alias.product_service_provider_must_issue_adequate_instructions_or_warnings",
+    "alias.product_service_provider_must_not_withhold_information",
+    "alias.product_service_provider_must_provide_service_of_required_quality",
+    "evidence.contract",
+    "evidence.warranty"
+  ],
   "search": {
     "keywords": [
       "product liability",
-      "information withholding"
+      "information withholding",
+      "product",
+      "service",
+      "provider",
+      "withhold",
+      "information",
+      "liable",
+      "they",
+      "causing",
+      "harm"
     ],
     "aliases": [
       "product service provider negligence"
     ],
     "user_queries": [
-      "what is product liability action"
+      "what is product liability action",
+      "What is product service provider must conform to express warranty or contract terms?",
+      "How does product service provider must conform to express warranty or contract terms work?",
+      "Can you explain product service provider must conform to express warranty or contract terms?"
     ]
   },
   "metadata": {

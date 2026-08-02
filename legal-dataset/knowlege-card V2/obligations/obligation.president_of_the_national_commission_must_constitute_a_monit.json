@@ -6,17 +6,51 @@
   "content": {
     "who": "President of the National Commission",
     "what": "must constitute a monitoring cell",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "There shall be a monitoring cell to be constituted by the President of the National Commission to oversee the functioning of the State Commissions from the administrative point of view."
+    ],
+    "limitations": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S70-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.monitoring_cell",
+    "alias.national_commission",
+    "alias.state_commissions",
+    "authority.monitoring_cell",
+    "authority.national_commission",
+    "authority.state_commissions",
+    "intent.monitoring_cell"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "president",
+      "national",
+      "commission",
+      "constitute",
+      "monitoring",
+      "cell",
+      "has",
+      "oversee",
+      "functioning",
+      "state"
+    ],
+    "aliases": [
+      "Regulatory Cell",
+      "Surveillance Cell",
+      "Watchdog",
+      "constituting a monitoring cell",
+      "monitoring cell formation",
+      "national commission monitoring cell"
+    ],
+    "user_queries": [
+      "What is president of the national commission must constitute a monitoring cell?",
+      "How does president of the national commission must constitute a monitoring cell work?",
+      "Can you explain president of the national commission must constitute a monitoring cell?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

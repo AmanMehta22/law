@@ -6,17 +6,47 @@
   "content": {
     "who": "Senior-most member",
     "what": "must preside over the Bench",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "the President may deem fit"
+    ],
+    "limitations": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S47-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.bench",
+    "alias.president",
+    "alias.state_commission",
+    "authority.bench",
+    "authority.president",
+    "authority.state_commission",
+    "exception.does_not_include_a_person_who_obtains_goods_for_resale_or_co"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "senior",
+      "most",
+      "member",
+      "preside",
+      "over",
+      "bench"
+    ],
+    "aliases": [
+      "Court Bench",
+      "Judicial Bench",
+      "Tribunal",
+      "bench presiding officer",
+      "senior member presiding",
+      "senior-most member's role"
+    ],
+    "user_queries": [
+      "What is senior-most member must preside over bench?",
+      "How does senior-most member must preside over bench work?",
+      "Can you explain senior-most member must preside over bench?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

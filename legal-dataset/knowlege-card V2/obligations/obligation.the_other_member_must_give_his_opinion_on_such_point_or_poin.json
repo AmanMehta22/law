@@ -9,25 +9,46 @@
     "conditions": [
       "within a period of one month from the date of such reference"
     ],
-    "limitations": []
+    "limitations": [
+      "the opinion of the majority shall be the order of the District Commission"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S39-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.member_must_give_opinion_within_a_month",
+    "alias.resolving_difference_of_opinion",
+    "authority.district_commission",
+    "exception.the_other_member_shall_give_his_opinion_on_such_point_or_poi",
+    "intent.district_commission",
+    "intent.district_commission_2"
+  ],
   "search": {
     "keywords": [
       "District Commission",
       "member",
       "opinion",
-      "timeframe"
+      "timeframe",
+      "give",
+      "month",
+      "other",
+      "provide",
+      "referred",
+      "point",
+      "points",
+      "specified"
     ],
     "aliases": [
       "District Commission member",
       "referral opinion"
     ],
     "user_queries": [
-      "What are the obligations of a District Commission member in case of a disagreement?"
+      "What are the obligations of a District Commission member in case of a disagreement?",
+      "What is member must give opinion within a month?",
+      "How does member must give opinion within a month work?",
+      "Can you explain member must give opinion within a month?"
     ]
   },
   "metadata": {

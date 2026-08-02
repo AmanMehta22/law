@@ -9,16 +9,51 @@
     "conditions": [
       "before which a complaint has been filed under section 92"
     ],
-    "limitations": []
+    "limitations": [
+      "on payment of such amount as may be prescribed",
+      "such sum shall not exceed the maximum amount of the fine"
+    ]
   },
   "derived_from": [
     "CPA2019-CH8-S96-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.compounding_of_offence",
+    "alias.court",
+    "authority.court",
+    "intent.compounding_of_offence",
+    "intent.compounding_of_offence_3",
+    "intent.compounding_of_offence_5",
+    "intent.compounding_of_offence_handled_by_court"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "court",
+      "grant",
+      "leave",
+      "compounding",
+      "offence",
+      "before",
+      "which",
+      "complaint",
+      "has",
+      "been"
+    ],
+    "aliases": [
+      "compromise on penalty",
+      "offence compounding",
+      "penalty waiver",
+      "settlement of offence",
+      "court permission to proceed",
+      "judicial leave",
+      "leave to appeal",
+      "permission to proceed from court"
+    ],
+    "user_queries": [
+      "What is court must grant leave?",
+      "How does court must grant leave work?",
+      "Can you explain court must grant leave?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

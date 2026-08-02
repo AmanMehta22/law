@@ -9,22 +9,41 @@
     "conditions": [
       "as directed by the Central Authority"
     ],
-    "limitations": []
+    "limitations": [
+      "as directed by the Central Authority",
+      "under this Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S15-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_authority_must_conduct_inquiry_or_investigation",
+    "alias.director_general",
+    "alias.investigation_wing",
+    "authority.central_authority",
+    "authority.director_general",
+    "authority.investigation_wing"
+  ],
   "search": {
     "keywords": [
       "inquiry",
-      "investigation"
+      "investigation",
+      "central",
+      "authority",
+      "conduct",
+      "act",
+      "directed"
     ],
     "aliases": [
       "Central Authority"
     ],
     "user_queries": [
-      "consumer protection inquiry"
+      "consumer protection inquiry",
+      "What is central authority must conduct inquiry or investigation?",
+      "How does central authority must conduct inquiry or investigation work?",
+      "Can you explain central authority must conduct inquiry or investigation?"
     ]
   },
   "metadata": {

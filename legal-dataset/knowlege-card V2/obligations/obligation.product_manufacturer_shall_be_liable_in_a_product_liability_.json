@@ -6,23 +6,40 @@
   "content": {
     "who": "Product manufacturer",
     "what": "shall be liable in a product liability action",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "even if he proves that he was not negligent or fraudulent in making the express warranty of a product"
+    ],
+    "limitations": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH6-S84-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.manufacturer_must_make_product",
+    "intent.manufacturer_must_make_product",
+    "intent.manufacturer_must_make_product_2"
+  ],
   "search": {
     "keywords": [
       "product liability",
-      "manufacturer liability"
+      "manufacturer liability",
+      "manufacturer",
+      "make",
+      "product",
+      "liability",
+      "action",
+      "liable"
     ],
     "aliases": [
       "product manufacturer liability"
     ],
     "user_queries": [
-      "What is product manufacturer's liability?"
+      "What is product manufacturer's liability?",
+      "What is manufacturer must make product?",
+      "How does manufacturer must make product work?",
+      "Can you explain manufacturer must make product?"
     ]
   },
   "metadata": {

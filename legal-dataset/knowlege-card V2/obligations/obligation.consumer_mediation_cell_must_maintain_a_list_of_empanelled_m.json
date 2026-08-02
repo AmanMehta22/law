@@ -6,25 +6,49 @@
   "content": {
     "who": "Consumer Mediation Cell",
     "what": "must maintain a list of empanelled mediators, a list of cases handled, record of proceeding and other specified information",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "Not specified in the Act"
+    ],
+    "limitations": [
+      "as may be specified by regulations"
+    ]
   },
   "derived_from": [
     "CPA2019-CH5-S74-4"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.consumer_mediation_cell",
+    "alias.consumer_mediation_cell_must_maintain_records",
+    "authority.consumer_mediation_cell",
+    "evidence.record_of_proceeding",
+    "intent.consumer_mediation_cell",
+    "intent.consumer_mediation_cell_2",
+    "intent.consumer_mediation_cell_must_maintain_records"
+  ],
   "search": {
     "keywords": [
       "consumer mediation cell",
       "records",
-      "regulations"
+      "regulations",
+      "consumer",
+      "mediation",
+      "cell",
+      "maintain",
+      "specific",
+      "information",
+      "list",
+      "empanelled",
+      "mediators"
     ],
     "aliases": [
       "consumer mediation cell",
       "cmc"
     ],
     "user_queries": [
-      "what records must consumer mediation cell maintain"
+      "what records must consumer mediation cell maintain",
+      "What is consumer mediation cell must maintain records?",
+      "How does consumer mediation cell must maintain records work?",
+      "Can you explain consumer mediation cell must maintain records?"
     ]
   },
   "metadata": {

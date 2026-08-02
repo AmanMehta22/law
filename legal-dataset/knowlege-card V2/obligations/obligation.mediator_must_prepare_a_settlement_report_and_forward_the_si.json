@@ -6,24 +6,48 @@
   "content": {
     "who": "Mediator",
     "what": "must prepare a settlement report and forward the signed agreement",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "The mediation process has resulted in a settlement"
+    ],
+    "limitations": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH5-S80-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.commission",
+    "alias.mediation_settlement_reporting",
+    "alias.mediator_must_prepare_and_forward_settlement_report",
+    "authority.commission",
+    "evidence.settlement_agreement_settlement_report",
+    "intent.commission",
+    "intent.commission_2"
+  ],
   "search": {
     "keywords": [
       "mediator",
       "settlement report",
-      "concerned Commission"
+      "concerned Commission",
+      "prepare",
+      "forward",
+      "settlement",
+      "report",
+      "required",
+      "along",
+      "signed",
+      "agreement",
+      "concerned"
     ],
     "aliases": [
       "mediation officer"
     ],
     "user_queries": [
-      "What are the mediator's duties?"
+      "What are the mediator's duties?",
+      "What is commission?",
+      "How does commission work?",
+      "Can you explain commission?"
     ]
   },
   "metadata": {

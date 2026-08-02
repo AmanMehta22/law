@@ -9,20 +9,52 @@
     "conditions": [
       "as soon as may be after it is made"
     ],
-    "limitations": []
+    "limitations": [
+      "for a total period of thirty days",
+      "while it is in session",
+      "without prejudice to the validity of anything previously done under that rule or regulation"
+    ]
   },
   "derived_from": [
     "CPA2019-CH8-S105-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_time_limit",
+    "intent.appeal_time_limit",
+    "intent.appeal_time_limit_2",
+    "intent.laying_of_rules_and_regulations_before_parliament",
+    "timeline.thirty_days"
+  ],
   "search": {
     "keywords": [
       "Parliament",
       "rules",
-      "regulations"
+      "regulations",
+      "laying",
+      "before",
+      "parliament",
+      "provision",
+      "requires",
+      "made",
+      "act",
+      "laid"
     ],
-    "aliases": [],
-    "user_queries": []
+    "aliases": [
+      "appeal deadline",
+      "filing appeal",
+      "opposite party response",
+      "time limit for appeal",
+      "time limit for application",
+      "time to respond",
+      "legislative scrutiny of regulations",
+      "parliamentary approval of rules",
+      "rules and regulations submission to parliament"
+    ],
+    "user_queries": [
+      "What is laying of rules and regulations before parliament?",
+      "How does laying of rules and regulations before parliament work?",
+      "Can you explain laying of rules and regulations before parliament?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

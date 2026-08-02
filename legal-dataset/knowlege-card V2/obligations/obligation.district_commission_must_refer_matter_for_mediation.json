@@ -11,24 +11,46 @@
       "parties give consent in writing",
       "within 5 days of receipt of consent"
     ],
-    "limitations": []
+    "limitations": [
+      "provisions of Chapter V relating to mediation shall apply"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S37-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.district_commission_must_refer_matter_for_mediation",
+    "alias.mediation_referral",
+    "authority.district_commission",
+    "evidence.written_consent",
+    "intent.consent_in_writing",
+    "intent.district_commission"
+  ],
   "search": {
     "keywords": [
       "mediation",
       "District Commission",
-      "consumer dispute"
+      "consumer dispute",
+      "district",
+      "commission",
+      "refer",
+      "matter",
+      "days",
+      "receipt",
+      "written",
+      "consent",
+      "parties"
     ],
     "aliases": [
       "alternative dispute resolution",
       "consumer mediation"
     ],
     "user_queries": [
-      "What happens after parties agree to mediation?"
+      "What happens after parties agree to mediation?",
+      "What is district commission must refer matter for mediation?",
+      "How does district commission must refer matter for mediation work?",
+      "Can you explain district commission must refer matter for mediation?"
     ]
   },
   "metadata": {

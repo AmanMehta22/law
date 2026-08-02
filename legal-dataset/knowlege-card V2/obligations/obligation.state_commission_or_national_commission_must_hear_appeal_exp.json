@@ -6,17 +6,53 @@
   "content": {
     "who": "State Commission or National Commission",
     "what": "must hear appeal expeditiously and endeavour to dispose of it within 90 days",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "sufficient cause is shown",
+      "the reasons for grant of adjournment have been recorded in writing"
+    ],
+    "limitations": [
+      "no adjournment shall ordinarily be granted",
+      "the State Commission or the National Commission, as the case may be, shall make such orders as to the costs occasioned by the adjournment, as may be specified by regulations",
+      "the State Commission or the National Commission, as the case may be, shall record in writing the reasons for the same at the time of disposing of the said appeal"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S52"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.adjournment_exception",
+    "alias.appeal_hearing",
+    "alias.national_commission",
+    "alias.right_to_expedient_hearing_of_appeal",
+    "alias.state_commission",
+    "authority.national_commission",
+    "authority.state_commission"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "state",
+      "commission",
+      "national",
+      "hear",
+      "appeal",
+      "expeditiously",
+      "possible",
+      "endeavour",
+      "dispose",
+      "days"
+    ],
+    "aliases": [
+      "delay",
+      "postponement",
+      "appeal procedure",
+      "expeditious appeal hearing",
+      "fast track appeal"
+    ],
+    "user_queries": [
+      "What is state commission or national commission must hear appeal expeditiously?",
+      "How does state commission or national commission must hear appeal expeditiously work?",
+      "Can you explain state commission or national commission must hear appeal expeditiously?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",
