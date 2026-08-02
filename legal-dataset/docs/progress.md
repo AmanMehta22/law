@@ -309,10 +309,10 @@ under **Needs human review** below.
 
 | Concept type (Tier) | Total | Reviewed | Approved | Draft | Needs human review |
 |---|---|---|---|---|---|
-| penalty (A) | 20 | 20 | 0 | 0 | 4 |
-| offence (A) | 9 | 9 | 0 | 0 | 4 |
-| procedure (A) | 98 | 98 | 0 | 0 | 22 |
-| timeline (A) | 20 | 20 | 0 | 0 | 7 |
+| penalty (A) | 20 | 20 | 0 | 0 | 2 |
+| offence (A) | 9 | 9 | 0 | 0 | 1 |
+| procedure (A) | 98 | 98 | 0 | 0 | 21 |
+| timeline (A) | 20 | 20 | 0 | 0 | 6 |
 | definition (A) | 48 | 48 | 0 | 0 | 1 |
 | authority (B) | 38 | 38 | 0 | 0 | 3 |
 | jurisdiction (B) | 18 | 18 | 0 | 0 | 0 |
@@ -325,20 +325,21 @@ under **Needs human review** below.
 | intent (C) | 1,820 | 0 | 0 | 1,820 | 0 |
 | alias (C) | 591 | 0 | 0 | 591 | 0 |
 | relationship (C) | 494 | 0 | 0 | 494 | 0 |
-| **Total** | 4,147 | **621** | 0 | **3,526** | **42** |
+| **Total** | 4,147 | **621** | 0 | **3,526** | **39** |
 
 This table is updated as content review progresses.
 
 ### Needs human review
 
-42 cards carry advisory flags from the automated review (a human should eyeball
-them before production use). Detail from `docs/_review_state.json`
-(`needs_human_review`). None were modified automatically.
+**39 distinct cards** carry advisory flags from the automated review (a human
+should eyeball them before production use). Detail from `docs/_review_state.json`
+(`needs_human_review`, 73 field-level entries). None were modified
+automatically.
 
 | concept_id | field(s) flagged |
 |---|---|
 | authority.national_commission | powers |
-| authority.president | jurisdiction, powers |
+| authority.president | powers, jurisdiction |
 | authority.state_commission | powers |
 | definition.product_seller | legal_definition, non_examples |
 | evidence.quarterly_report | mandatory |
@@ -346,45 +347,42 @@ them before production use). Detail from `docs/_review_state.json`
 | evidence.written_consent | mandatory |
 | obligation.central_government_make_grants_of_money_to_the_central_autho | conditions and limitations |
 | obligation.central_government_must_issue_guidelines | conditions |
-| offence.a_manufacturer_or_service_provider_who_causes_a_false_or_misleading_advertisemen | punishment |
-| offence.manufactures_for_sale_or_stores_or_sells_or_distributes_or_imports_any_product_c | punishment |
 | offence.manufactures_for_sale_or_stores_or_sells_or_distributes_or_imports_any_spur_2 | offence, punishment |
-| penalty.manufacturing_storing_selling_distributing_or_importing_prod | maximum, minimum, punishment |
-| penalty.publishing_false_or_misleading_advertisement | applicable_section, minimum, punishment |
+| penalty.manufacturing_storing_selling_distributing_or_importing_prod | minimum, maximum, punishment |
+| penalty.publishing_false_or_misleading_advertisement | punishment, minimum, applicable_section |
 | procedure.adjournment_cost_imposition_by_state_or_national_commission | steps |
-| procedure.appeal_to_national_commission | authority, documents, steps |
-| procedure.appeal_to_state_commission | documents, steps |
-| procedure.authentication_of_goods | authority, documents, steps |
+| procedure.appeal_to_national_commission | steps, authority |
+| procedure.appeal_to_state_commission | steps |
+| procedure.authentication_of_goods | authority, steps |
 | procedure.calling_for_records_and_passing_orders | steps |
 | procedure.complaint_admissibility_procedure | steps |
-| procedure.complaint_filing | authority, documents, steps |
-| procedure.compounding_of_offence | authority, steps |
-| procedure.deposit_of_amount | authority, documents, steps |
-| procedure.discovery_and_production_of_evidence | authority, steps |
-| procedure.filing_an_appeal | authority, documents, steps |
-| procedure.filing_complaint | authority, documents, steps |
-| procedure.filing_complaints | authority, documents, steps |
+| procedure.complaint_filing | steps, authority, documents |
+| procedure.compounding_of_offence | steps, authority |
+| procedure.deposit_of_amount | steps, authority |
+| procedure.discovery_and_production_of_evidence | steps, authority |
+| procedure.filing_an_appeal | steps, authority, documents |
+| procedure.filing_complaint | authority, steps |
+| procedure.filing_complaints | authority, steps |
 | procedure.hearing_of_appeal_on_substantial_question_of_law | steps |
-| procedure.inquiry_or_investigation | authority, documents, steps |
-| procedure.investigation | authority, steps |
+| procedure.inquiry_or_investigation | steps, authority, documents |
+| procedure.investigation | steps, authority |
 | procedure.issuance_of_directions_to_discontinue_or_modify_advertisemen | steps |
-| procedure.mediation | authority, documents, steps |
+| procedure.mediation | steps, authority, documents |
 | procedure.overseeing_functioning_of_state_and_district_commissions | authority, steps |
 | procedure.representative_proceeding | steps |
-| procedure.service_of_notice | order, step, steps |
+| procedure.service_of_notice | steps, order, step |
 | timeline.a_period | duration |
 | timeline.five_months | duration |
 | timeline.five_years | exceptions |
-| timeline.one_year | duration, exceptions, trigger |
-| timeline.the_period_so_specified | trigger |
-| timeline.three_years | duration, exceptions, trigger |
+| timeline.one_year | duration, trigger |
+| timeline.three_years | duration, exceptions |
 | timeline.two_years | exceptions |
-**Total flagged: 42 distinct cards.**
+**Total flagged: 39 distinct cards (73 field-level entries).**
 
-## Phase 2 content review — 2026-08-02
+## Phase 2 content review — 2026-08-02 (pass 1)
 
 Reviewer: `v2-review-llm-70b-2026-08-02` (meta-llama/llama-3.3-70b-instruct,
-temp 0, with a strict pass/fail on objective facts but a FAIR paraphrase bias).
+temperature 0, strict pass/fail on objective facts, FAIR paraphrase bias).
 State: `docs/_review_state.json`.
 
 - **Tier A (100%)** — penalties (20), offences (9), procedures (98),
@@ -406,13 +404,62 @@ State: `docs/_review_state.json`.
     `offence.offences_under_clauses_b_and_c...` (→ S91(1) and (2));
     `penalty.subsequent_publishing_of_false_or_misleading_advertisement`
     (→ Section 89).
-  - Reversed (original text restored, kept at `reviewed`): two overrides that
-    would have been wrong — turning `exception.the_central_authority...`
-    `general_rule` into "fifty lakh rupees" (the S21(2) base penalty is ten
-    lakh; fifty is only the subsequent-contravention cap) and replacing
-    `procedure.conduct_of_mediation` `steps` (array) with a stray prose string.
-- Next steps (Phase 3+): schema revalidation of all 4,147 cards, duplicate-id
-  check, example dedupe, and final merges.
+  - Reversed (two overrides that would have been wrong): turning
+    `exception.the_central_authority...` `general_rule` into "fifty lakh
+    rupees" (the S21(2) base penalty is ten lakh; fifty is only the
+    subsequent-contravention cap) and replacing `procedure.conduct_mediation`
+    `steps` (array) with a stray prose string.
+- Next steps (Phase 3+): schema revalidation, duplicate-id check, example
+  dedupe, final merges.
+
+## Phase 3 — LLM audit (second pass, 2026-08-02)
+
+- Ran `meta-llama/llama-3.3-70b-instruct` (temp 0) over the 621 reviewed cards:
+  **621 verdicts → 124 adjudications → 98 CONFIRM / 26 FALSE_POSITIVE**.
+- Every CONFIRM flag was manually triaged against the V1 `official_text`
+  (`docs/_llama_audit.json`, `docs/_llama_audit_adjudicated.json`).
+- **Key finding:** the adjudicator is self-contradictory — it CONFIRMed flags
+  whose own `reason` text admits the card is correct (e.g.
+  `remedy.setting_aside_of_order`, `evidence.affidavit`, `exception.except_the
+  state_of_jammu_and_kashmir`), and CONFIRMed false-by-design flags such as
+  "subsequent contravention" punishments that live on separate cards
+  (`penalty.subsequent_publishing_of_false_or_misleading_advertisement`).
+
+## Phase 5 — second-pass manual fixes applied (2026-08-02)
+
+Source-derived corrections ONLY (V1 `official_text`), no content rewrites.
+Script: `apply_fixes.py`. Pre-change backups: `pre_fix_backup/`.
+
+- **23 field fixes + 1 derived_from append applied** across evidence (1),
+  offences (2), obligations (8), procedures (7), timelines (3), remedy (1),
+  right (1). Examples:
+  - `evidence.deposit_receipt.required_documents` → `["Fifty per cent. deposit
+    receipt"]` (from S41).
+  - `obligation.consumer_mediation_cell_shall_submit_a_quarterly_report.
+    conditions` → added "to the District Commission, the State Commission or
+    the National Commission to which it is attached" (S74(5)).
+  - `obligation.product_service_provider_must_provide_service_of_quality_req.
+    limitations` → replaced 4× duplicate strings with the four statutory
+    clauses (S85).
+  - `offence.manufactures_for_sale_..._any_product_c.punishment` → full tiered
+    punishment (S91(1)); `offence.a_manufacturer_...advertisemen.punishment` →
+    added subsequent-offence tier (S21(1)).
+  - `procedure.appeal_to_{national,state}_commission.documents` →
+    ["appeal in the prescribed form", "proof of deposit of fifty per cent. of
+    the amount"] (S41); `procedure.filing_complaint(s)` documents
+    contamination cleanup.
+  - `derived_from` += `CPA2019-CH7-S91-1` on `offence.offences_under_clauses_
+    b_and_c_of_sub_section_1_of_section_91_cognizable_and_non_bailable`.
+- **Penalties** `penalty.making_false_or_misleading_advertisement` and
+  `penalty.manufacturing_storing_selling_distributing_or_importing_prod` kept
+  as-is after manual check — their min/max values mirror the statutory tiers
+  (S21(3): first 1 yr / subsequent 3 yrs; S90(1): max life only for death of
+  consumer); flagged entries reversed (user decision).
+- **No legal content rewritten**; only metadata-aligning field values sourced
+  from the Act, plus the derived_from append.
+- Merges regenerated: `dataset/final/knowledge_cards_v2.json` (4,147) and
+  `_v2.jsonl` (4,147), `search_augmentation.json` (533) — G-deep PASS (0
+  issues; json==jsonl; unique ids; transitive `derived_from` resolution).
 
 ### V2 Merging (final)
 
@@ -434,4 +481,5 @@ State: `docs/_review_state.json`.
 | G8  `review_status` vocabulary = {draft, reviewed} only | PASS |
 
 **Result: all 8 gates pass** — V2 content layer is ready to hand off, pending the
-42 human-review advisories listed above and the eventual Tier C review.
+39 human-review advisories listed above (73 field-level entries, see
+`docs/_review_state.json`) and the eventual Tier C review.

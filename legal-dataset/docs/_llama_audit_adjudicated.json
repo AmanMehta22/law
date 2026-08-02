@@ -1,0 +1,746 @@
+{
+ "remedy.damages": {
+  "concept_id": "remedy.damages",
+  "field": "limitations",
+  "decision": "CONFIRM",
+  "reason": "The official text does not specify any limitations for the remedy of damages, but the card incorrectly states 'harm caused by a defective product' as a limitation."
+ },
+ "remedy.discontinuation_of_unfair_practice": {
+  "concept_id": "remedy.discontinuation_of_unfair_practice",
+  "field": "description",
+  "decision": "FALSE_POSITIVE",
+  "reason": "The card description is a minor wording drift that preserves the meaning of the official text, which describes the discontinuation of a false or misleading advertisement as a remedy."
+ },
+ "remedy.setting_aside_of_order": {
+  "concept_id": "remedy.setting_aside_of_order",
+  "field": "limitations",
+  "decision": "CONFIRM",
+  "reason": "The official text does not provide specific limitations for this remedy, and the card correctly states 'Not specified in the Act'."
+ },
+ "penalty.failing_to_comply_with_order_made_by_the_district_commission": {
+  "concept_id": "penalty.failing_to_comply_with_order_made_by_the_district_commission",
+  "field": "applicable_section",
+  "decision": "FALSE_POSITIVE",
+  "reason": "The card specifies 'Section 72' as the applicable section, which is correct, and the omission of subsection 1 is a harmless paraphrase."
+ },
+ "penalty.making_false_or_misleading_advertisement": {
+  "concept_id": "penalty.making_false_or_misleading_advertisement",
+  "field": "maximum",
+  "decision": "CONFIRM",
+  "reason": "The card states a precise legal fact 'one year' as the maximum punishment, but the official text supports a maximum punishment of up to three years for subsequent contraventions."
+ },
+ "penalty.manufacturing_storing_selling_distributing_or_importing_prod": {
+  "concept_id": "penalty.manufacturing_storing_selling_distributing_or_importing_prod",
+  "field": "maximum",
+  "decision": "CONFIRM",
+  "reason": "The card states a maximum punishment of 'imprisonment for life', but the official text specifies varying maximum punishments based on the injury caused, with a maximum of imprisonment for life only for death of a consumer."
+ },
+ "penalty.offence_under_sub_section_1": {
+  "concept_id": "penalty.offence_under_sub_section_1",
+  "field": "punishment",
+  "decision": "FALSE_POSITIVE",
+  "reason": "The card's description of 'compounding of offence' is a harmless paraphrase of 'compounding of offences under sub-section (1)' from the official text."
+ },
+ "penalty.publishing_false_or_misleading_advertisement": {
+  "concept_id": "penalty.publishing_false_or_misleading_advertisement",
+  "field": "minimum",
+  "decision": "FALSE_POSITIVE",
+  "reason": "The Act does not explicitly specify a minimum penalty value for this offence, aligning with the card's 'Not specified in the Act' statement."
+ },
+ "offence.a_manufacturer_or_service_provider_who_causes_a_false_or_misleading_advertisemen": {
+  "concept_id": "offence.a_manufacturer_or_service_provider_who_causes_a_false_or_misleading_advertisemen",
+  "field": "punishment",
+  "decision": "CONFIRM",
+  "reason": "The card does not mention the punishment for subsequent offences as specified in the official text."
+ },
+ "offence.manufactures_for_sale_or_stores_or_sells_or_distributes_or_imports_any_product_c": {
+  "concept_id": "offence.manufactures_for_sale_or_stores_or_sells_or_distributes_or_imports_any_product_c",
+  "field": "punishment",
+  "decision": "CONFIRM",
+  "reason": "The card's punishment only accounts for cases where the act does not result in any injury to the consumer, omitting other scenarios described in the official text."
+ },
+ "offence.offences_under_clauses_b_and_c_of_sub_section_1_of_section_91_cognizable_and_non_bailable": {
+  "concept_id": "offence.offences_under_clauses_b_and_c_of_sub_section_1_of_section_91_cognizable_and_non_bailable",
+  "field": "punishment",
+  "decision": "CONFIRM",
+  "reason": "The official text only states that the offences are cognizable and non-bailable, without specifying the punishment details provided in the card."
+ },
+ "offence.whoever_fails_to_comply_with_any_order_made_by_the_district_commission_or_the_st": {
+  "concept_id": "offence.whoever_fails_to_comply_with_any_order_made_by_the_district_commission_or_the_st",
+  "field": "punishment",
+  "decision": "CONFIRM",
+  "reason": "The card value does not accurately represent the minimum values for imprisonment and fine as specified in the official text, which states 'not less than one month' and 'not less than twenty-five thousand rupees'."
+ },
+ "procedure.appeal_to_national_commission": {
+  "concept_id": "procedure.appeal_to_national_commission",
+  "field": "documents",
+  "decision": "CONFIRM",
+  "reason": "The card lists many irrelevant documents, while the source only mentions the form and manner of filing appeal and depositing 50% of the amount."
+ },
+ "procedure.appeal_to_state_commission": {
+  "concept_id": "procedure.appeal_to_state_commission",
+  "field": "content.steps",
+  "decision": "CONFIRM",
+  "reason": "The card does not specify the section number, which is mentioned in the source text as section 41."
+ },
+ "procedure.authentication_of_goods": {
+  "concept_id": "procedure.authentication_of_goods",
+  "field": "documents",
+  "decision": "CONFIRM",
+  "reason": "The card lists irrelevant documents, while the source text does not mention any specific documents for authentication of goods."
+ },
+ "procedure.complaint_filing": {
+  "concept_id": "procedure.complaint_filing",
+  "field": "steps",
+  "decision": "CONFIRM",
+  "reason": "The card step 'Cause of action arises' seems to be incomplete and not directly related to the source text."
+ },
+ "procedure.complaint_handling_by_district_commission": {
+  "concept_id": "procedure.complaint_handling_by_district_commission",
+  "field": "steps",
+  "decision": "CONFIRM",
+  "reason": "The card does not specify that the extended period is granted by the District Commission, as mentioned in the source text."
+ },
+ "procedure.complaint_proceeding": {
+  "concept_id": "procedure.complaint_proceeding",
+  "field": "steps",
+  "decision": "CONFIRM",
+  "reason": "The card does not mention the case of failure of settlement by mediation, as mentioned in the source text."
+ },
+ "procedure.compounding_of_offence": {
+  "concept_id": "procedure.compounding_of_offence",
+  "field": "steps",
+  "decision": "CONFIRM",
+  "reason": "The card does not specify that the payment is made to compound the offence, which is a crucial detail mentioned in the Act as 'on payment of such amount as may be prescribed'."
+ },
+ "procedure.conduct_of_mediation": {
+  "concept_id": "procedure.conduct_of_mediation",
+  "field": "content.steps",
+  "decision": "CONFIRM",
+  "reason": "The card implies that mediation is conducted under section 79, but the Act actually specifies the time and manner of conducting mediation under section 79, not the conduct of mediation itself."
+ },
+ "procedure.deposit_of_amount": {
+  "concept_id": "procedure.deposit_of_amount",
+  "field": "content.steps",
+  "decision": "CONFIRM",
+  "reason": "The card does not specify the correct section of the Act, which is section 51, where the manner of depositing fifty per cent of the amount before filing appeal is mentioned."
+ },
+ "procedure.disclosure_of_facts_by_mediators": {
+  "concept_id": "procedure.disclosure_of_facts_by_mediators",
+  "field": "content.steps",
+  "decision": "CONFIRM",
+  "reason": "The card's steps do not capture the full scope of the source text, which includes 'other facts' to be disclosed by mediators under clause (c) of section 77."
+ },
+ "procedure.empanelment_of_mediators": {
+  "concept_id": "procedure.empanelment_of_mediators",
+  "field": "authority",
+  "decision": "CONFIRM",
+  "reason": "The card's authority does not accurately reflect the source text, which does not specify the authority for empanelment of mediators under sub-section (2) of section 75."
+ },
+ "procedure.filing_an_appeal": {
+  "concept_id": "procedure.filing_an_appeal",
+  "field": "steps",
+  "decision": "CONFIRM",
+  "reason": "The card invents a step not supported by the Act, stating the appellant receives the order of a District Commission or a State Commission or the National Commission, which is not a required step for filing an appeal."
+ },
+ "procedure.filing_appeals_with_the_state_commission": {
+  "concept_id": "procedure.filing_appeals_with_the_state_commission",
+  "field": "documents",
+  "decision": "FALSE_POSITIVE",
+  "reason": "The card's examples of complaints are related to the State Commission's jurisdiction as per Section 47 of the Act."
+ },
+ "procedure.filing_complaint": {
+  "concept_id": "procedure.filing_complaint",
+  "field": "documents",
+  "decision": "CONFIRM",
+  "reason": "The card includes unrelated documents not specified for the complaint filing process in the Act."
+ },
+ "procedure.filing_complaints": {
+  "concept_id": "procedure.filing_complaints",
+  "field": "documents",
+  "decision": "CONFIRM",
+  "reason": "The card includes unrelated documents such as safety notices and guidelines, which are not specified for the complaint filing process in the Act."
+ },
+ "procedure.inquiry_or_investigation": {
+  "concept_id": "procedure.inquiry_or_investigation",
+  "field": "steps",
+  "decision": "CONFIRM",
+  "reason": "The card incorrectly includes 'or a consumer' as an entity that can make a complaint or reference to the District Collector, which is not present in the Act."
+ },
+ "procedure.investigation": {
+  "concept_id": "procedure.investigation",
+  "field": "authority",
+  "decision": "CONFIRM",
+  "reason": "The Act mentions multiple authorities including the Central Authority, the Director-General, or the District Collector, not just the Central Authority as stated in the card."
+ },
+ "procedure.mandating_unique_goods_identifiers": {
+  "concept_id": "procedure.mandating_unique_goods_identifiers",
+  "field": "documents",
+  "decision": "CONFIRM",
+  "reason": "The card includes documents such as complaints, safety notices, and guidelines, which are not specified in the Act for the procedure of mandating unique goods identifiers."
+ },
+ "timeline.five_years": {
+  "concept_id": "timeline.five_years",
+  "field": "exceptions",
+  "decision": "FALSE_POSITIVE",
+  "reason": "The Act does specify the age limits, which are correctly stated in the card, even though the ages are specified in the rules made by the Central Government."
+ },
+ "timeline.one_year": {
+  "concept_id": "timeline.one_year",
+  "field": "exceptions",
+  "decision": "CONFIRM",
+  "reason": "The exception mentioned in the card is not relevant to the State Council meetings, which is the context of the one-year duration."
+ },
+ "timeline.the_period_so_specified": {
+  "concept_id": "timeline.the_period_so_specified",
+  "field": "trigger",
+  "decision": "CONFIRM",
+  "reason": "The trigger is indeed specified in the Act as 'within the period so specified', but the card does not capture this information, making it a missing detail."
+ },
+ "timeline.three_years": {
+  "concept_id": "timeline.three_years",
+  "field": "trigger",
+  "decision": "CONFIRM",
+  "reason": "The card states the trigger as 'from the order', but the Act specifies the trigger as 'for every subsequent contravention', which are different conditions."
+ },
+ "definition.consumer_rights": {
+  "concept_id": "definition.consumer_rights",
+  "field": "legal_definition",
+  "decision": "FALSE_POSITIVE",
+  "reason": "The card's legal definition includes all the rights specified in the Act, and the omission of the 'includes' keyword does not change the meaning."
+ },
+ "definition.unfair_trade_practice": {
+  "concept_id": "definition.unfair_trade_practice",
+  "field": "legal_definition",
+  "decision": "CONFIRM",
+  "reason": "The card's legal definition does not include the specific practices listed in the Act, which could lead to an incomplete understanding of unfair trade practices."
+ },
+ "obligation.central_authority_must_cause_investigation_to_be_made": {
+  "concept_id": "obligation.central_authority_must_cause_investigation_to_be_made",
+  "field": "limitations",
+  "decision": "CONFIRM",
+  "reason": "The official text states that the condition 'prejudicial to the public interest or to the interests of consumers' is for the preliminary inquiry, not a limitation for the investigation."
+ },
+ "obligation.central_authority_shall_conduct_inquiry_or_investigation": {
+  "concept_id": "obligation.central_authority_shall_conduct_inquiry_or_investigation",
+  "field": "conditions",
+  "decision": "FALSE_POSITIVE",
+  "reason": "The official text uses 'as may be directed' which is a harmless paraphrase of 'as directed by the Central Authority'."
+ },
+ "obligation.central_government_central_authority_or_state_government_mus": {
+  "concept_id": "obligation.central_government_central_authority_or_state_government_mus",
+  "field": "who",
+  "decision": "CONFIRM",
+  "reason": "The official text lists multiple entities that can file a complaint, including the consumer, any recognised consumer association, one or more consumers, or the Central Government, the Central Authority or the State Government, which is not accurately represented in the card."
+ },
+ "obligation.central_government_may_prescribe_such_other_value": {
+  "concept_id": "obligation.central_government_may_prescribe_such_other_value",
+  "field": "limitations",
+  "decision": "CONFIRM",
+  "reason": "The official text states that the Central Government may prescribe 'such other value, as it deems fit', which contradicts the card's fixed value of 'one crore rupees'."
+ },
+ "obligation.central_government_may_prescribe_value_for_complaints": {
+  "concept_id": "obligation.central_government_may_prescribe_value_for_complaints",
+  "field": "limitations",
+  "decision": "CONFIRM",
+  "reason": "The official text states that the Central Government may prescribe 'such other value, as it deems fit', which contradicts the card's fixed value of 'ten crore rupees'."
+ },
+ "obligation.central_government_must_appoint_director_general_and_other_o": {
+  "concept_id": "obligation.central_government_must_appoint_director_general_and_other_o",
+  "field": "what",
+  "decision": "CONFIRM",
+  "reason": "The official text uses 'may appoint' which contradicts the card's 'must appoint'."
+ },
+ "obligation.central_government_must_consult": {
+  "concept_id": "obligation.central_government_must_consult",
+  "field": "what",
+  "decision": "CONFIRM",
+  "reason": "The official text states 'in consultation with the Central Government', implying the consulting is done by another entity with the Central Government, whereas the card implies the Central Government is the one doing the consulting."
+ },
+ "obligation.central_government_must_make_rules_for_qualifications_appoin": {
+  "concept_id": "obligation.central_government_must_make_rules_for_qualifications_appoin",
+  "field": "what",
+  "decision": "CONFIRM",
+  "reason": "The official text uses 'may' whereas the card uses 'must', indicating a contradiction in the level of obligation imposed on the Central Government."
+ },
+ "obligation.consumer_mediation_cell_shall_submit_a_quarterly_report": {
+  "concept_id": "obligation.consumer_mediation_cell_shall_submit_a_quarterly_report",
+  "field": "conditions",
+  "decision": "CONFIRM",
+  "reason": "The official text specifies that the quarterly report shall be submitted to the District Commission, State Commission or the National Commission, which is not mentioned in the card's conditions."
+ },
+ "obligation.court_may_suspend_or_cancel_licence": {
+  "concept_id": "obligation.court_may_suspend_or_cancel_licence",
+  "field": "what",
+  "decision": "CONFIRM",
+  "reason": "The official text distinguishes between 'suspend any licence' and 'cancel the licence' as two separate actions, whereas the card description implies a single action of 'may suspend or cancel licence'."
+ },
+ "obligation.director_general_shall_submit_inquiries_or_investigation_mad": {
+  "concept_id": "obligation.director_general_shall_submit_inquiries_or_investigation_mad",
+  "field": "content",
+  "decision": "CONFIRM",
+  "reason": "The official text only mentions regulation of the submission process under sub-section (5) of section 15, but does not explicitly state that the Director-General shall submit inquiries or investigation made, implying a hallucination risk."
+ },
+ "obligation.district_commission_may_direct_parties_to_give_in_writing_co": {
+  "concept_id": "obligation.district_commission_may_direct_parties_to_give_in_writing_co",
+  "field": "limitations",
+  "decision": "FALSE_POSITIVE",
+  "reason": "The official text does support the card's value of 'within five days' as a limitation, and the additional information in the source value is a separate fact about the mediation process."
+ },
+ "obligation.district_commission_may_pass_interim_order": {
+  "concept_id": "obligation.district_commission_may_pass_interim_order",
+  "field": "description",
+  "decision": "CONFIRM",
+  "reason": "The card incorrectly states 'pass' instead of 'may pass' as per the official text."
+ },
+ "obligation.district_commission_must_consider_complaint_filed_on_behalf_": {
+  "concept_id": "obligation.district_commission_must_consider_complaint_filed_on_behalf_",
+  "field": "description",
+  "decision": "CONFIRM",
+  "reason": "The card incorrectly states 'must consider' and does not fully capture the conditions as per the official text."
+ },
+ "obligation.district_commission_must_decide_on_admissibility_of_complain": {
+  "concept_id": "obligation.district_commission_must_decide_on_admissibility_of_complain",
+  "field": "limitations",
+  "decision": "CONFIRM",
+  "reason": "The card incorrectly places 'ordinarily' as a limitation instead of part of the condition as per the official text."
+ },
+ "obligation.district_commission_must_decide_the_issue_of_admissibility_o": {
+  "concept_id": "obligation.district_commission_must_decide_the_issue_of_admissibility_o",
+  "field": "conditions",
+  "decision": "CONFIRM",
+  "reason": "The Act specifies a time frame for deciding admissibility, which is not accurately reflected in the card as per the official text."
+ },
+ "obligation.district_commission_must_give_opportunity_of_being_heard_to_": {
+  "concept_id": "obligation.district_commission_must_give_opportunity_of_being_heard_to_",
+  "field": "limitations",
+  "decision": "CONFIRM",
+  "reason": "The time frame specified in the card is related to the decision on admissibility, not the opportunity to be heard as per the official text."
+ },
+ "obligation.district_commission_must_impose_costs_for_adjournment": {
+  "concept_id": "obligation.district_commission_must_impose_costs_for_adjournment",
+  "field": "what",
+  "decision": "CONFIRM",
+  "reason": "The card states the District Commission 'must' impose costs, but the Act states regulations 'may' provide for such costs as per the official text."
+ },
+ "obligation.district_commission_must_not_grant_adjournment_without_suffi": {
+  "concept_id": "obligation.district_commission_must_not_grant_adjournment_without_suffi",
+  "field": "limitations",
+  "decision": "CONFIRM",
+  "reason": "The official text does not mention the time periods as limitations for not granting adjournment, but rather as a timeframe for disposing of complaints."
+ },
+ "obligation.district_commission_must_record_reasons_for_adjournment_in_w": {
+  "concept_id": "obligation.district_commission_must_record_reasons_for_adjournment_in_w",
+  "field": "limitations",
+  "decision": "CONFIRM",
+  "reason": "The official text does not mention the time periods as limitations for recording reasons for adjournment, but rather as a timeframe for disposing of complaints."
+ },
+ "obligation.district_commission_shall_function_in_district_headquarters": {
+  "concept_id": "obligation.district_commission_shall_function_in_district_headquarters",
+  "field": "limitations",
+  "decision": "FALSE_POSITIVE",
+  "reason": "The card's limitations, although phrased differently, accurately reflect the official text's conditions for the District Commission's functioning."
+ },
+ "obligation.district_commission_shall_have_jurisdiction_to_entertain_com": {
+  "concept_id": "obligation.district_commission_shall_have_jurisdiction_to_entertain_com",
+  "field": "limitations",
+  "decision": "CONFIRM",
+  "reason": "The official text prescribes a different condition for the Central Government's intervention, using 'may prescribe such other value' instead of 'as prescribed by the Central Government'."
+ },
+ "obligation.district_commission_shall_review_any_of_the_order_passed_by_": {
+  "concept_id": "obligation.district_commission_shall_review_any_of_the_order_passed_by_",
+  "field": "conditions",
+  "decision": "FALSE_POSITIVE",
+  "reason": "The card's conditions accurately reflect the official text, and the flag's claim of incorrect separation is unfounded."
+ },
+ "obligation.endorser_must_discontinue_or_modify_advertisement_as_directe": {
+  "concept_id": "obligation.endorser_must_discontinue_or_modify_advertisement_as_directe",
+  "field": "who",
+  "decision": "CONFIRM",
+  "reason": "The official text specifies multiple entities, including but not limited to the endorser, that may be directed to discontinue or modify an advertisement."
+ },
+ "obligation.mediation_authority_must_conduct_mediation_within_a_specifie": {
+  "concept_id": "obligation.mediation_authority_must_conduct_mediation_within_a_specifie",
+  "field": "what",
+  "decision": "CONFIRM",
+  "reason": "The card implies a requirement, but the Act states it as a possibility for regulations."
+ },
+ "obligation.mediator_must_disclose_such_other_facts_as_may_be_specified_": {
+  "concept_id": "obligation.mediator_must_disclose_such_other_facts_as_may_be_specified_",
+  "field": "limitations",
+  "decision": "CONFIRM",
+  "reason": "Limitations listed are actually part of the disclosure duties, not limitations for disclosing other facts."
+ },
+ "obligation.national_commission_must_call_for_records_and_pass_appropria": {
+  "concept_id": "obligation.national_commission_must_call_for_records_and_pass_appropria",
+  "field": "limitations",
+  "decision": "CONFIRM",
+  "reason": "The card simplifies the condition to a fixed phrase, while the Act provides more context and conditions for the Central Government's prescription."
+ },
+ "obligation.national_commission_must_obtain_previous_approval_of_the_cen": {
+  "concept_id": "obligation.national_commission_must_obtain_previous_approval_of_the_cen",
+  "field": "what",
+  "decision": "CONFIRM",
+  "reason": "The card incorrectly states 'must' instead of 'may'."
+ },
+ "obligation.national_commission_shall_investigate_into_any_allegations_a": {
+  "concept_id": "obligation.national_commission_shall_investigate_into_any_allegations_a",
+  "field": "limitations",
+  "decision": "CONFIRM",
+  "reason": "The card mentions this limitation, but it applies to the overall administrative control, not just the investigation."
+ },
+ "obligation.national_commission_shall_issue_instructions_regarding_adopt": {
+  "concept_id": "obligation.national_commission_shall_issue_instructions_regarding_adopt",
+  "field": "limitations",
+  "decision": "CONFIRM",
+  "reason": "The card mentions this limitation, but it applies to the overall administrative control, not just the issuance of instructions."
+ },
+ "obligation.officers_and_other_employees_of_the_state_commission_dischar": {
+  "concept_id": "obligation.officers_and_other_employees_of_the_state_commission_dischar",
+  "field": "what",
+  "decision": "FALSE_POSITIVE",
+  "reason": "The card value 'discharge their functions under the general superintendence of the President' is a harmless paraphrase of the official text 'The officers and other employees of the State Commission shall discharge their functions under the general superintendence of the President'."
+ },
+ "obligation.parties_to_a_consumer_dispute_or_their_authorised_representa": {
+  "concept_id": "obligation.parties_to_a_consumer_dispute_or_their_authorised_representa",
+  "field": "limitations",
+  "decision": "CONFIRM",
+  "reason": "The official text does not specify any limitations, but the card incorrectly populates the limitations field with a condition."
+ },
+ "obligation.party_to_the_contract_must_accept_early_repayment_of_debts": {
+  "concept_id": "obligation.party_to_the_contract_must_accept_early_repayment_of_debts",
+  "field": "what",
+  "decision": "CONFIRM",
+  "reason": "The card value 'must accept early repayment of debts' is wrong because the official text actually describes a term that would make a contract unfair if it 'refusing to accept early repayment of debts on payment of applicable penalty'."
+ },
+ "obligation.product_seller_must_pass_on_warnings_or_instructions_of_the_": {
+  "concept_id": "obligation.product_seller_must_pass_on_warnings_or_instructions_of_the_",
+  "field": "conditions",
+  "decision": "CONFIRM",
+  "reason": "The card conditions do not match the source conditions for product seller liability as specified in the official text."
+ },
+ "obligation.product_service_provider_must_provide_service_of_quality_req": {
+  "concept_id": "obligation.product_service_provider_must_provide_service_of_quality_req",
+  "field": "limitations",
+  "decision": "CONFIRM",
+  "reason": "The card's limitations are repetitive and do not accurately reflect the source text, posing a hallucination risk."
+ },
+ "obligation.publisher_must_discontinue_or_modify_advertisement_as_direct": {
+  "concept_id": "obligation.publisher_must_discontinue_or_modify_advertisement_as_direct",
+  "field": "who",
+  "decision": "CONFIRM",
+  "reason": "The source text lists multiple entities that may be subject to the order, not just the publisher, making the card value 'Publisher' wrong."
+ },
+ "obligation.regulator_must_specify_conditions_for_re_empanelment_of_medi": {
+  "concept_id": "obligation.regulator_must_specify_conditions_for_re_empanelment_of_medi",
+  "field": "who",
+  "decision": "CONFIRM",
+  "reason": "The Act specifies 'regulations' not 'Regulator'."
+ },
+ "obligation.senior_most_member_of_the_national_commission_must_perform_t": {
+  "concept_id": "obligation.senior_most_member_of_the_national_commission_must_perform_t",
+  "field": "limitations",
+  "decision": "CONFIRM",
+  "reason": "The card misinterprets the provision as a limitation rather than an exception to the general rule."
+ },
+ "obligation.state_commission_must_authenticate_goods_sampled": {
+  "concept_id": "obligation.state_commission_must_authenticate_goods_sampled",
+  "field": "what",
+  "decision": "CONFIRM",
+  "reason": "The card incorrectly states that the State Commission 'must authenticate goods sampled', while the source text actually discusses the rules that may provide for the manner of authentication."
+ },
+ "obligation.state_government_make_rules_to_provide_for_salaries_and_allo": {
+  "concept_id": "obligation.state_government_make_rules_to_provide_for_salaries_and_allo",
+  "field": "content.who",
+  "decision": "CONFIRM",
+  "reason": "The card should reflect that the State Government makes rules for both District and State Commissions, not just one."
+ },
+ "obligation.state_government_may_direct_any_other_district_commission_or": {
+  "concept_id": "obligation.state_government_may_direct_any_other_district_commission_or",
+  "field": "content.what",
+  "decision": "CONFIRM",
+  "reason": "The card should reflect the correct actions that the State Government may direct."
+ },
+ "obligation.state_government_must_consult_central_government": {
+  "concept_id": "obligation.state_government_must_consult_central_government",
+  "field": "content.what",
+  "decision": "CONFIRM",
+  "reason": "The card should reflect that the consultation is for prescribing the number of members, not a general requirement for the State Government to consult the Central Government."
+ },
+ "obligation.trader_must_supply_goods_or_services_within_the_agreed_perio": {
+  "concept_id": "obligation.trader_must_supply_goods_or_services_within_the_agreed_perio",
+  "field": "description",
+  "decision": "CONFIRM",
+  "reason": "The card implies a mandatory obligation, while the Act describes a 'restrictive trade practice' without explicitly stating an obligation, as per CPA2019-CH1-S2-41."
+ },
+ "right.right_to_appeal": {
+  "concept_id": "right.right_to_appeal",
+  "field": "exceptions",
+  "decision": "CONFIRM",
+  "reason": "The card lists a general legal caveat rather than an exception specific to the right to appeal, as per CPA2019-CH4-S51-5 and CPA2019-CH4-S58-1."
+ },
+ "right.right_to_demand_production_of_documents": {
+  "concept_id": "right.right_to_demand_production_of_documents",
+  "field": "limitations",
+  "decision": "CONFIRM",
+  "reason": "The card's limitation is incomplete and misleading, as it omits specific rights mentioned in CPA2019-CH3-S26-3."
+ },
+ "right.right_to_fair_contract_terms": {
+  "concept_id": "right.right_to_fair_contract_terms",
+  "field": "exceptions",
+  "decision": "CONFIRM",
+  "reason": "The exceptions listed in the card are actually examples of unfair contract terms, not exceptions to the right to fair contract terms, as per CPA2019-CH1-S2-46."
+ },
+ "right.right_to_protection": {
+  "concept_id": "right.right_to_protection",
+  "field": "conditions",
+  "decision": "CONFIRM",
+  "reason": "The Act does specify the condition for protection of consumers' rights, as per CPA2019-CH2-S5."
+ },
+ "exception.an_appeal_may_lie_before_a_court_as_provided_in_sub_section_": {
+  "concept_id": "exception.an_appeal_may_lie_before_a_court_as_provided_in_sub_section_",
+  "field": "exception",
+  "decision": "CONFIRM",
+  "reason": "The card inverts the meaning of the source text, which states 'Except as provided in sub-section (1), no appeal shall lie before any court', as per CPA2019-CH4-S73-2."
+ },
+ "exception.analysis_or_tests_shall_apply_mutatis_mutandis": {
+  "concept_id": "exception.analysis_or_tests_shall_apply_mutatis_mutandis",
+  "field": "general_rule",
+  "decision": "CONFIRM",
+  "reason": "The official text does not mention the general rule stated in the card, which introduces a non-existent provision."
+ },
+ "exception.does_not_apply_without_permission_of_the_district_commission": {
+  "concept_id": "exception.does_not_apply_without_permission_of_the_district_commission",
+  "field": "general_rule",
+  "decision": "CONFIRM",
+  "reason": "The card simplifies the conditions for instituting a complaint, which are more specific in the official text."
+ },
+ "exception.does_not_apply_without_permission_of_the_state_commission_in": {
+  "concept_id": "exception.does_not_apply_without_permission_of_the_state_commission_in",
+  "field": "exception",
+  "decision": "CONFIRM",
+  "reason": "The card misrepresents the condition for requiring State Commission permission, which is actually for cases where any of the opposite parties actually and voluntarily resides or carries on business."
+ },
+ "exception.does_not_include_a_laboratory_or_an_organisation_that_is_not": {
+  "concept_id": "exception.does_not_include_a_laboratory_or_an_organisation_that_is_not",
+  "field": "exception",
+  "decision": "CONFIRM",
+  "reason": "The card incorrectly implies that recognition by a State Government is the only condition, omitting recognition by the Central Government and other conditions."
+ },
+ "exception.does_not_include_a_person_who_leases_a_product_without_havin": {
+  "concept_id": "exception.does_not_include_a_person_who_leases_a_product_without_havin",
+  "field": "conditions",
+  "decision": "FALSE_POSITIVE",
+  "reason": "The card lists conditions that are present in the official text, although the order and presentation might slightly differ, the information itself is not misleading about the relationship between the conditions."
+ },
+ "exception.except_the_state_of_jammu_and_kashmir": {
+  "concept_id": "exception.except_the_state_of_jammu_and_kashmir",
+  "field": "conditions",
+  "decision": "CONFIRM",
+  "reason": "The Act does specify the exception regarding the State of Jammu and Kashmir, which the card's conditions fail to mention."
+ },
+ "exception.provided_that_the_central_government_may_frame_model_rules": {
+  "concept_id": "exception.provided_that_the_central_government_may_frame_model_rules",
+  "field": "general_rule",
+  "decision": "FALSE_POSITIVE",
+  "reason": "The card content accurately reflects the official text, with the exception being a separate part of the sentence."
+ },
+ "exception.save_as_otherwise_provided": {
+  "concept_id": "exception.save_as_otherwise_provided",
+  "field": "conditions",
+  "decision": "CONFIRM",
+  "reason": "The card includes the general rule in the conditions field, which is incorrect according to the official text."
+ },
+ "exception.subject_to_the_modification_that_every_reference_to_the_decr": {
+  "concept_id": "exception.subject_to_the_modification_that_every_reference_to_the_decr",
+  "field": "conditions",
+  "decision": "CONFIRM",
+  "reason": "The card content inaccurately represents the source text, which states 'as far as may be' instead of 'as far as may be applicable'."
+ },
+ "exception.the_central_authority_may_impose_a_higher_penalty_for_subseq": {
+  "concept_id": "exception.the_central_authority_may_impose_a_higher_penalty_for_subseq",
+  "field": "exception",
+  "decision": "CONFIRM",
+  "reason": "The card content inaccurately represents the penalty for subsequent contraventions, which is specified in the official text as extending to fifty lakh rupees."
+ },
+ "exception.the_president_and_members_shall_hold_office_for_a_term_not_e": {
+  "concept_id": "exception.the_president_and_members_shall_hold_office_for_a_term_not_e",
+  "field": "exception",
+  "decision": "CONFIRM",
+  "reason": "The card content does not accurately reflect the source text, which states that the term is specified in the rules made by the Central Government but not exceeding five years from the date on which he enters upon his office."
+ },
+ "evidence.affidavit": {
+  "concept_id": "evidence.affidavit",
+  "field": "mandatory",
+  "decision": "CONFIRM",
+  "reason": "The Act does not explicitly state that an affidavit is mandatory, but rather that complaints shall be heard on the basis of affidavit and documentary evidence."
+ },
+ "evidence.deposit_receipt": {
+  "concept_id": "evidence.deposit_receipt",
+  "field": "required_documents",
+  "decision": "CONFIRM",
+  "reason": "The Act specifies that 50% of the amount must be deposited to entertain an appeal, which contradicts the card's 'Not specified in the Act' value."
+ },
+ "evidence.design_specifications_testing_records": {
+  "concept_id": "evidence.design_specifications_testing_records",
+  "field": "required_documents",
+  "decision": "CONFIRM",
+  "reason": "The Act does not specify 'Design specifications' and 'Testing records' as required documents for design defect evidence."
+ },
+ "evidence.evidence_of_manufacturing_process_quality_control_records": {
+  "concept_id": "evidence.evidence_of_manufacturing_process_quality_control_records",
+  "field": "required_documents",
+  "decision": "CONFIRM",
+  "reason": "The Act does not specify 'Evidence of manufacturing process' and 'Quality control records' as required documents for proof of manufacturing defect."
+ },
+ "evidence.maintenance_records_inspection_records_assembly_records": {
+  "concept_id": "evidence.maintenance_records_inspection_records_assembly_records",
+  "field": "required_documents",
+  "decision": "CONFIRM",
+  "reason": "The Act mentions the purpose of the records but does not specify 'Maintenance records', 'Inspection records', and 'Assembly records' as required documents."
+ },
+ "evidence.manufacturer_s_records_identification_documents": {
+  "concept_id": "evidence.manufacturer_s_records_identification_documents",
+  "field": "purpose",
+  "decision": "CONFIRM",
+  "reason": "The Act does specify the purpose of establishing the identity of the product manufacturer, which contradicts the card's 'Not specified in the Act' value."
+ },
+ "evidence.notice_or_process_records_service_records": {
+  "concept_id": "evidence.notice_or_process_records_service_records",
+  "field": "purpose",
+  "decision": "CONFIRM",
+  "reason": "The Act does specify the purpose of service records in the context of product liability, which contradicts the card's 'Not specified in the Act' value."
+ },
+ "evidence.product_manual_warning_labels": {
+  "concept_id": "evidence.product_manual_warning_labels",
+  "field": "content.required_documents",
+  "decision": "CONFIRM",
+  "reason": "The Act does not explicitly mention 'warning labels' as a required document, it only mentions 'adequate instructions of correct usage to prevent any harm or any warning regarding improper or incorrect usage'."
+ },
+ "evidence.record_of_proceeding": {
+  "concept_id": "evidence.record_of_proceeding",
+  "field": "content.purpose",
+  "decision": "CONFIRM",
+  "reason": "The card's purpose is not entirely accurate, as the record of proceeding is one of the items to be maintained, not the purpose itself, according to the Act."
+ },
+ "evidence.sales_records_invoice_receipt": {
+  "concept_id": "evidence.sales_records_invoice_receipt",
+  "field": "purpose",
+  "decision": "FALSE_POSITIVE",
+  "reason": "The Act does not specify the purpose of sales records, invoice, or receipt, but it does not necessarily imply that the card's purpose is wrong, it is just not mentioned in the provided Act text."
+ },
+ "evidence.test_results_records_of_testing": {
+  "concept_id": "evidence.test_results_records_of_testing",
+  "field": "required_documents",
+  "decision": "CONFIRM",
+  "reason": "The Act implies that documents related to the defence of adequate or proper test may be required, but the card states 'Not specified in the Act'."
+ },
+ "evidence.warning_or_instruction_records_documentation_of_warnings_or_": {
+  "concept_id": "evidence.warning_or_instruction_records_documentation_of_warnings_or_",
+  "field": "description",
+  "decision": "CONFIRM",
+  "reason": "The description is partially correct but does not fully capture the essence of the Act, which includes the concept of product seller's liability for not passing on warnings or instructions."
+ },
+ "evidence.warranty": {
+  "concept_id": "evidence.warranty",
+  "field": "content",
+  "decision": "CONFIRM",
+  "reason": "The card implies a standalone concept of express warranty, while the Act mentions it as part of product liability action, specifically in the context of the service not conforming to express warranty or contract terms."
+ },
+ "evidence.warranty_documents_sales_agreement": {
+  "concept_id": "evidence.warranty_documents_sales_agreement",
+  "field": "content",
+  "decision": "FALSE_POSITIVE",
+  "reason": "The card's statement about proof of non-conformity to express warranty is a harmless paraphrase of the Act's condition for product liability."
+ },
+ "evidence.written_consent": {
+  "concept_id": "evidence.written_consent",
+  "field": "content",
+  "decision": "FALSE_POSITIVE",
+  "reason": "The card's simplification of the purpose of written consent for mediation does not contradict the Act and preserves the essential meaning."
+ },
+ "evidence.written_explanation": {
+  "concept_id": "evidence.written_explanation",
+  "field": "mandatory",
+  "decision": "CONFIRM",
+  "reason": "The Act implies that providing a sufficient cause is necessary for the appeal to be entertained after the time limit, contradicting the card's 'false' value for mandatory."
+ },
+ "evidence.written_record": {
+  "concept_id": "evidence.written_record",
+  "field": "required_documents",
+  "decision": "CONFIRM",
+  "reason": "The Act does not explicitly mention 'written record' as a required document, making the card's statement potentially misleading."
+ },
+ "jurisdiction.district_commission_other_value_of_goods_and_services": {
+  "concept_id": "jurisdiction.district_commission_other_value_of_goods_and_services",
+  "field": "pecuniary",
+  "decision": "FALSE_POSITIVE",
+  "reason": "The card's use of 'other value of goods and services' is consistent with the Act's language regarding the District Commission's jurisdiction."
+ },
+ "jurisdiction.national_commission_other_value_of_goods_and_services": {
+  "concept_id": "jurisdiction.national_commission_other_value_of_goods_and_services",
+  "field": "content.pecuniary",
+  "decision": "FALSE_POSITIVE",
+  "reason": "The card accurately represents the source text concerning the National Commission's jurisdiction over 'other value of goods and services'."
+ },
+ "jurisdiction.state_commission_other_value_of_goods_and_services": {
+  "concept_id": "jurisdiction.state_commission_other_value_of_goods_and_services",
+  "field": "content.pecuniary",
+  "decision": "FALSE_POSITIVE",
+  "reason": "The card's content accurately represents the source text, which refers to the other value of goods and services in respect of which the State Commission shall have jurisdiction under the proviso to sub-clause (i) of clause (a) of sub-section (1) of section 47."
+ },
+ "jurisdiction.state_commission_within_its_jurisdiction": {
+  "concept_id": "jurisdiction.state_commission_within_its_jurisdiction",
+  "field": "conditions",
+  "decision": "FALSE_POSITIVE",
+  "reason": "The card's condition is a harmless paraphrase of the source text, which mentions administrative control over all the District Commissions within its jurisdiction."
+ },
+ "authority.assistant_director": {
+  "concept_id": "authority.assistant_director",
+  "field": "role",
+  "decision": "FALSE_POSITIVE",
+  "reason": "The Act does imply the role of Assistant Director through the context of the Additional Director-General's role and the general powers of the Central Authority."
+ },
+ "authority.central_authority": {
+  "concept_id": "authority.central_authority",
+  "field": "powers",
+  "decision": "FALSE_POSITIVE",
+  "reason": "The Act lists various powers of the Central Authority, and while some powers may be inferred or implied, the card's list is largely supported by the source text."
+ },
+ "authority.court": {
+  "concept_id": "authority.court",
+  "field": "powers",
+  "decision": "CONFIRM",
+  "reason": "The card mentions 'granting leave for compounding of offences' which is not a direct power of the court in the provided source text, although the court does have a role in compounding offences as per section 96."
+ },
+ "authority.director_general": {
+  "concept_id": "authority.director_general",
+  "field": "powers",
+  "decision": "CONFIRM",
+  "reason": "The card mentions 'Submitting reports' which is not explicitly mentioned in the source text as a power of the Director-General, although section 15(5) mentions that inquiries or investigations made by the Director-General shall be submitted to the Central Authority."
+ },
+ "authority.joint_director": {
+  "concept_id": "authority.joint_director",
+  "field": "role",
+  "decision": "FALSE_POSITIVE",
+  "reason": "The Act does not explicitly specify the role of the Joint Director, but it can be inferred that they assist in investigations under the direction of the Director-General, which is a harmless paraphrase."
+ },
+ "authority.president": {
+  "concept_id": "authority.president",
+  "field": "jurisdiction",
+  "decision": "CONFIRM",
+  "reason": "The Act specifies the jurisdiction for the President of the National Commission or State Commission, but it is not mentioned in the card."
+ },
+ "authority.state_commissions": {
+  "concept_id": "authority.state_commissions",
+  "field": "powers",
+  "decision": "FALSE_POSITIVE",
+  "reason": "The Act does specify the powers of the monitoring cell, but the card correctly states that the powers of the State Commissions are not specified in the Act."
+ },
+ "authority.state_government": {
+  "concept_id": "authority.state_government",
+  "field": "powers",
+  "decision": "FALSE_POSITIVE",
+  "reason": "The card mentions 'establish consumer mediation cells' which is correct as the State Government shall establish consumer mediation cells to be attached to each of the District Commissions and the State Commissions of that State."
+ }
+}

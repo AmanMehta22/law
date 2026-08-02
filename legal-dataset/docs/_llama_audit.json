@@ -1,0 +1,4502 @@
+{
+ "remedies": {
+  "remedy.compensation": {
+   "concept_id": "remedy.compensation",
+   "verdict": "OK",
+   "issues": []
+  },
+  "remedy.damages": {
+   "concept_id": "remedy.damages",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "limitations",
+     "type": "wrong",
+     "card_value": "harm caused by a defective product",
+     "source_value": "Not specified in the Act",
+     "note": "The card incorrectly specifies a limitation that is not present in the Act"
+    }
+   ]
+  },
+  "remedy.declaration_of_contract_terms_as_null_and_void": {
+   "concept_id": "remedy.declaration_of_contract_terms_as_null_and_void",
+   "verdict": "OK",
+   "issues": []
+  },
+  "remedy.declaration_of_unfair_contract_terms_as_null_and_void": {
+   "concept_id": "remedy.declaration_of_unfair_contract_terms_as_null_and_void",
+   "verdict": "OK",
+   "issues": []
+  },
+  "remedy.discontinuation_of_unfair_practice": {
+   "concept_id": "remedy.discontinuation_of_unfair_practice",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "title",
+     "type": "wrong",
+     "card_value": "Discontinuation of false or misleading advertisement",
+     "source_value": "Discontinuation of unfair practice",
+     "note": "The card title incorrectly specifies the type of practice being discontinued"
+    },
+    {
+     "field": "description",
+     "type": "wrong",
+     "card_value": "Discontinuation of advertisement that is false or misleading and prejudicial to consumer interest",
+     "source_value": "Discontinuation of unfair practice",
+     "note": "The card description incorrectly specifies the type of practice being discontinued"
+    }
+   ]
+  },
+  "remedy.discontinuation_of_unfair_practices": {
+   "concept_id": "remedy.discontinuation_of_unfair_practices",
+   "verdict": "OK",
+   "issues": []
+  },
+  "remedy.recall_of_goods_or_withdrawal_of_services": {
+   "concept_id": "remedy.recall_of_goods_or_withdrawal_of_services",
+   "verdict": "OK",
+   "issues": []
+  },
+  "remedy.redressal": {
+   "concept_id": "remedy.redressal",
+   "verdict": "OK",
+   "issues": []
+  },
+  "remedy.refund": {
+   "concept_id": "remedy.refund",
+   "verdict": "OK",
+   "issues": []
+  },
+  "remedy.reimbursement_of_prices": {
+   "concept_id": "remedy.reimbursement_of_prices",
+   "verdict": "OK",
+   "issues": []
+  },
+  "remedy.relief": {
+   "concept_id": "remedy.relief",
+   "verdict": "OK",
+   "issues": []
+  },
+  "remedy.return_of_seized_or_produced_documents_records_or_articles": {
+   "concept_id": "remedy.return_of_seized_or_produced_documents_records_or_articles",
+   "verdict": "OK",
+   "issues": []
+  },
+  "remedy.setting_aside_of_order": {
+   "concept_id": "remedy.setting_aside_of_order",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "title",
+     "type": "wrong",
+     "card_value": "Setting aside of ex parte order",
+     "source_value": "Setting aside of order",
+     "note": "The card title adds 'ex parte' which is not in the source section title but is in the description and conditions, however the source does indeed specify it is for 'ex parte' orders"
+    },
+    {
+     "field": "limitations",
+     "type": "missing",
+     "card_value": "Not specified in the Act",
+     "source_value": "None specified",
+     "note": "The Act does not provide specific limitations for this remedy in the given section, so 'Not specified in the Act' is correct in this context"
+    }
+   ]
+  }
+ },
+ "penalties": {
+  "penalty.failing_to_comply_with_direction_of_central_authority": {
+   "concept_id": "penalty.failing_to_comply_with_direction_of_central_authority",
+   "verdict": "OK",
+   "issues": []
+  },
+  "penalty.failing_to_comply_with_order_made_by_the_district_commission": {
+   "concept_id": "penalty.failing_to_comply_with_order_made_by_the_district_commission",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "applicable_section",
+     "type": "wrong",
+     "card_value": "Section 72",
+     "source_value": "Section 72, subsection 1",
+     "note": "The card should specify subsection 1 to accurately reflect the source."
+    }
+   ]
+  },
+  "penalty.first_conviction": {
+   "concept_id": "penalty.first_conviction",
+   "verdict": "OK",
+   "issues": []
+  },
+  "penalty.issuing_misleading_advertisement": {
+   "concept_id": "penalty.issuing_misleading_advertisement",
+   "verdict": "OK",
+   "issues": []
+  },
+  "penalty.making_false_or_misleading_advertisement": {
+   "concept_id": "penalty.making_false_or_misleading_advertisement",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "maximum",
+     "type": "hallucination_risk",
+     "card_value": "one year",
+     "source_value": "one year for the first contravention and up to three years for subsequent contraventions",
+     "note": "The card does not account for the possibility of subsequent contraventions."
+    }
+   ]
+  },
+  "penalty.manufacturing_storing_selling_distributing_or_importing_adul": {
+   "concept_id": "penalty.manufacturing_storing_selling_distributing_or_importing_adul",
+   "verdict": "OK",
+   "issues": []
+  },
+  "penalty.manufacturing_storing_selling_distributing_or_importing_prod": {
+   "concept_id": "penalty.manufacturing_storing_selling_distributing_or_importing_prod",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "minimum",
+     "type": "wrong",
+     "card_value": "six months",
+     "source_value": "varies based on the injury caused",
+     "note": "The minimum punishment varies based on the injury caused, not just six months"
+    },
+    {
+     "field": "maximum",
+     "type": "wrong",
+     "card_value": "imprisonment for life",
+     "source_value": "varies based on the injury caused, with a maximum of imprisonment for life for death of a consumer",
+     "note": "The maximum punishment also varies based on the injury caused"
+    }
+   ]
+  },
+  "penalty.negligence": {
+   "concept_id": "penalty.negligence",
+   "verdict": "OK",
+   "issues": []
+  },
+  "penalty.offence_punishable_under_sections_88_and_89": {
+   "concept_id": "penalty.offence_punishable_under_sections_88_and_89",
+   "verdict": "OK",
+   "issues": []
+  },
+  "penalty.offence_under_sub_section_1": {
+   "concept_id": "penalty.offence_under_sub_section_1",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "applicable_section",
+     "type": "wrong",
+     "card_value": "Section 96(2)",
+     "source_value": "Section 96(1)",
+     "note": "The compounding of offence under sub-section (1) is mentioned in Section 96(2) but it refers to compounding by the Central Authority or its officer, not the section itself"
+    },
+    {
+     "field": "punishment",
+     "type": "hallucination_risk",
+     "card_value": "compounding of offence",
+     "source_value": "compounding of offences under sub-section (1)",
+     "note": "The card's description is incomplete and the punishment field could be misleading"
+    }
+   ]
+  },
+  "penalty.offences_under_clauses_c_and_d": {
+   "concept_id": "penalty.offences_under_clauses_c_and_d",
+   "verdict": "OK",
+   "issues": []
+  },
+  "penalty.payment_for_loss_to_multiple_consumers": {
+   "concept_id": "penalty.payment_for_loss_to_multiple_consumers",
+   "verdict": "OK",
+   "issues": []
+  },
+  "penalty.product_liability_compensation": {
+   "concept_id": "penalty.product_liability_compensation",
+   "verdict": "OK",
+   "issues": []
+  },
+  "penalty.publishing_false_or_misleading_advertisement": {
+   "concept_id": "penalty.publishing_false_or_misleading_advertisement",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "minimum",
+     "type": "missing",
+     "card_value": "Not specified in the Act",
+     "source_value": "Not explicitly specified, but a penalty is mentioned",
+     "note": "The Act does mention a penalty but does not explicitly state a minimum value for this specific case."
+    }
+   ]
+  },
+  "penalty.publishing_misleading_advertisement": {
+   "concept_id": "penalty.publishing_misleading_advertisement",
+   "verdict": "OK",
+   "issues": []
+  },
+  "penalty.punitive_damages": {
+   "concept_id": "penalty.punitive_damages",
+   "verdict": "OK",
+   "issues": []
+  },
+  "penalty.searching_or_seizing_without_reasonable_grounds": {
+   "concept_id": "penalty.searching_or_seizing_without_reasonable_grounds",
+   "verdict": "OK",
+   "issues": []
+  },
+  "penalty.second_or_subsequent_conviction": {
+   "concept_id": "penalty.second_or_subsequent_conviction",
+   "verdict": "OK",
+   "issues": []
+  },
+  "penalty.subsequent_contravention_of_publishing_false_or_misleading_a": {
+   "concept_id": "penalty.subsequent_contravention_of_publishing_false_or_misleading_a",
+   "verdict": "OK",
+   "issues": []
+  },
+  "penalty.subsequent_publishing_of_false_or_misleading_advertisement": {
+   "concept_id": "penalty.subsequent_publishing_of_false_or_misleading_advertisement",
+   "verdict": "OK",
+   "issues": []
+  }
+ },
+ "offences": {
+  "offence.a_manufacturer_or_service_provider_who_causes_a_false_or_misleading_advertisemen": {
+   "concept_id": "offence.a_manufacturer_or_service_provider_who_causes_a_false_or_misleading_advertisemen",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "punishment",
+     "type": "wrong",
+     "card_value": "Imprisonment up to 2 years and fine up to ten lakh rupees",
+     "source_value": "imprisonment for a term which may extend to two years and with fine which may extend to ten lakh rupees; and for every subsequent offence, be punished with imprisonment for a term which may extend to five years and with fine which may extend to fifty lakh rupees",
+     "note": "The card does not mention the punishment for subsequent offences"
+    }
+   ]
+  },
+  "offence.manufactures_for_sale_or_stores_or_sells_or_distributes_or_imports_any_product_c": {
+   "concept_id": "offence.manufactures_for_sale_or_stores_or_sells_or_distributes_or_imports_any_product_c",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "punishment",
+     "type": "wrong",
+     "card_value": "Imprisonment for a term which may extend to six months and with fine which may extend to one lakh rupees",
+     "source_value": "imprisonment for a term which may extend to six months and with fine which may extend to one lakh rupees; (only for cases where the act does not result in any injury to the consumer)",
+     "note": "The card does not specify that the punishment is only for cases where the act does not result in any injury to the consumer"
+    }
+   ]
+  },
+  "offence.manufactures_for_sale_or_stores_or_sells_or_distributes_or_imports_any_spur_2": {
+   "concept_id": "offence.manufactures_for_sale_or_stores_or_sells_or_distributes_or_imports_any_spur_2",
+   "verdict": "OK"
+  },
+  "offence.manufactures_for_sale_or_stores_or_sells_or_distributes_or_imports_any_spur_3": {
+   "concept_id": "offence.manufactures_for_sale_or_stores_or_sells_or_distributes_or_imports_any_spur_3",
+   "verdict": "OK"
+  },
+  "offence.manufactures_for_sale_or_stores_or_sells_or_distributes_or_imports_any_spurious_": {
+   "concept_id": "offence.manufactures_for_sale_or_stores_or_sells_or_distributes_or_imports_any_spurious_",
+   "verdict": "OK"
+  },
+  "offence.offences_under_clauses_b_and_c_of_sub_section_1_of_section_91_cognizable_and_non_bailable": {
+   "concept_id": "offence.offences_under_clauses_b_and_c_of_sub_section_1_of_section_91_cognizable_and_non_bailable",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "punishment",
+     "type": "wrong",
+     "card_value": "Cognizable and non-bailable; clause (b): imprisonment which may extend to seven years and fine which may extend to five lakh rupees; clause (c): imprisonment which shall not be less than seven years but may extend to imprisonment for life and fine which shall not be less than ten lakh rupees",
+     "source_value": "The offences under clauses (b) and (c) of sub-section (1) shall be cognizable and non-bailable",
+     "note": "The authoritative source only mentions that the offences are cognizable and non-bailable, but does not specify the punishment details"
+    }
+   ]
+  },
+  "offence.the_director_general_or_any_other_officer_exercising_powers_under_section_22_who": {
+   "concept_id": "offence.the_director_general_or_any_other_officer_exercising_powers_under_section_22_who",
+   "verdict": "OK",
+   "issues": []
+  },
+  "offence.whoever_fails_to_comply_with_any_direction_of_the_central_authority_under_sectio": {
+   "concept_id": "offence.whoever_fails_to_comply_with_any_direction_of_the_central_authority_under_sectio",
+   "verdict": "OK",
+   "issues": []
+  },
+  "offence.whoever_fails_to_comply_with_any_order_made_by_the_district_commission_or_the_st": {
+   "concept_id": "offence.whoever_fails_to_comply_with_any_order_made_by_the_district_commission_or_the_st",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "punishment",
+     "type": "wrong",
+     "card_value": "Imprisonment for a term of one month to three years, or fine of twenty-five thousand rupees to one lakh rupees, or both",
+     "source_value": "imprisonment for a term which shall not be less than one month, but which may extend to three years, or with fine, which shall not be less than twenty-five thousand rupees, but which may extend to one lakh rupees, or with both",
+     "note": "The card value does not accurately represent the minimum values for imprisonment and fine as specified in the authoritative source"
+    }
+   ]
+  }
+ },
+ "procedures": {
+  "procedure.adjournment_cost_imposition_by_district_commission": {
+   "concept_id": "procedure.adjournment_cost_imposition_by_district_commission",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.adjournment_cost_imposition_by_state_or_national_commission": {
+   "concept_id": "procedure.adjournment_cost_imposition_by_state_or_national_commission",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.advising_on_consumer_welfare_measures": {
+   "concept_id": "procedure.advising_on_consumer_welfare_measures",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.appeal_hearing": {
+   "concept_id": "procedure.appeal_hearing",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.appeal_to_national_commission": {
+   "concept_id": "procedure.appeal_to_national_commission",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "documents",
+     "type": "hallucination_risk",
+     "card_value": "bill, cash memo, receipt for goods sold or services rendered, annual statement of accounts, annual report, other reports and returns, complaint, electronic form for filing complaint, appeal to the State Commission, appeal to the National Commission",
+     "source_value": "the form and manner of filing appeal to the National Commission, and the manner of depositing fifty per cent. of the amount before filing appeal",
+     "note": "The card lists many irrelevant documents, while the source only mentions the form and manner of filing appeal and depositing 50% of the amount."
+    }
+   ]
+  },
+  "procedure.appeal_to_state_commission": {
+   "concept_id": "procedure.appeal_to_state_commission",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "content.steps",
+     "type": "hallucination_risk",
+     "card_value": "the form and the manner in which appeal may be preferred to the State Commission",
+     "source_value": "the form and the manner in which appeal may be preferred to the State Commission under section 41",
+     "note": "The card does not specify the section number."
+    }
+   ]
+  },
+  "procedure.appointment_of_president_and_members_of_the_state_commission": {
+   "concept_id": "procedure.appointment_of_president_and_members_of_the_state_commission",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.assistance_direction": {
+   "concept_id": "procedure.assistance_direction",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.audit_of_central_authority_accounts": {
+   "concept_id": "procedure.audit_of_central_authority_accounts",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.authentication_of_goods": {
+   "concept_id": "procedure.authentication_of_goods",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "authority",
+     "type": "wrong",
+     "card_value": "National Commission",
+     "source_value": "clause (c) of sub-section (2) of section 38",
+     "note": "The card incorrectly specifies the authority."
+    },
+    {
+     "field": "documents",
+     "type": "hallucination_risk",
+     "card_value": "bill, cash memo, receipt",
+     "source_value": "None",
+     "note": "The card lists irrelevant documents."
+    }
+   ]
+  },
+  "procedure.awareness_on_consumer_rights": {
+   "concept_id": "procedure.awareness_on_consumer_rights",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.calling_for_records_and_passing_orders": {
+   "concept_id": "procedure.calling_for_records_and_passing_orders",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.complaint_admissibility_procedure": {
+   "concept_id": "procedure.complaint_admissibility_procedure",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.complaint_disposal": {
+   "concept_id": "procedure.complaint_disposal",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.complaint_filing": {
+   "concept_id": "procedure.complaint_filing",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "steps",
+     "type": "hallucination_risk",
+     "card_value": "Identify the jurisdiction of the State Commission based on the residence or business of the opposite party or parties",
+     "source_value": "A complaint shall be instituted in a District Commission within the local limits of whose jurisdiction,",
+     "note": "The card mentions State Commission, but the source text refers to District Commission"
+    },
+    {
+     "field": "steps",
+     "type": "hallucination_risk",
+     "card_value": "Obtain permission from the State Commission if instituting the complaint based on the voluntary residence or business of one of the opposite parties",
+     "source_value": "provided that in such case the permission of the District Commission is given;",
+     "note": "The card mentions State Commission, but the source text refers to District Commission"
+    },
+    {
+     "field": "steps",
+     "type": "hallucination_risk",
+     "card_value": "Cause of action arises",
+     "source_value": "",
+     "note": "This step seems to be incomplete and not directly related to the source text"
+    }
+   ]
+  },
+  "procedure.complaint_handling": {
+   "concept_id": "procedure.complaint_handling",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.complaint_handling_by_district_commission": {
+   "concept_id": "procedure.complaint_handling_by_district_commission",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "steps",
+     "type": "wrong",
+     "card_value": "District Commission refers a copy of the complaint to the opposite party, directing them to respond within 30 days or an extended period not exceeding 15 days",
+     "source_value": "refer a copy of such complaint to the opposite party directing him to give his version of the case within a period of thirty days or such extended period not exceeding fifteen days as may be granted by the District Commission",
+     "note": "The card does not specify that the extended period is granted by the District Commission"
+    }
+   ]
+  },
+  "procedure.complaint_proceeding": {
+   "concept_id": "procedure.complaint_proceeding",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "steps",
+     "type": "missing",
+     "card_value": "Admission of a complaint by the District Commission",
+     "source_value": "The District Commission shall, on admission of a complaint, or in respect of cases referred for mediation on failure of settlement by mediation, proceed with such",
+     "note": "The card does not mention the case of failure of settlement by mediation"
+    }
+   ]
+  },
+  "procedure.complaint_transfer": {
+   "concept_id": "procedure.complaint_transfer",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.compounding_of_offence": {
+   "concept_id": "procedure.compounding_of_offence",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "steps",
+     "type": "wrong",
+     "card_value": "The Central Authority or any officer specially authorised by him identifies the offence to be compounded",
+     "source_value": "The Central Authority or any officer as may be specially authorised by him in this behalf, may compound offences under sub-section (1)",
+     "note": "The card incorrectly describes the role of the Central Authority or officer"
+    },
+    {
+     "field": "steps",
+     "type": "hallucination_risk",
+     "card_value": "Payment of prescribed amount",
+     "source_value": "on payment of such amount as may be prescribed",
+     "note": "The card does not specify that the payment is made to compound the offence"
+    }
+   ]
+  },
+  "procedure.conduct_of_mediation": {
+   "concept_id": "procedure.conduct_of_mediation",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "content.steps",
+     "type": "hallucination_risk",
+     "card_value": "Mediation is conducted under sub-section (3) of section 79",
+     "source_value": "the time within which, and the manner in which, mediation may be conducted under sub-section (3) of section 79",
+     "note": "The card implies that mediation is conducted under section 79, but the Act actually specifies the time and manner of conducting mediation under section 79"
+    }
+   ]
+  },
+  "procedure.conduct_of_proceeding_before_district_commission": {
+   "concept_id": "procedure.conduct_of_proceeding_before_district_commission",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.cooperation_with_non_governmental_organisations": {
+   "concept_id": "procedure.cooperation_with_non_governmental_organisations",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.deemed_service_of_notices": {
+   "concept_id": "procedure.deemed_service_of_notices",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.deposit_of_amount": {
+   "concept_id": "procedure.deposit_of_amount",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "content.steps",
+     "type": "missing",
+     "card_value": "depositing fifty per cent. of the amount before filing appeal",
+     "source_value": "the form and manner of filing appeal to the National Commission, and the manner of depositing fifty per cent. of the amount before filing appeal, under sub-section (1) of section 51",
+     "note": "The card does not specify the correct section of the Act, which is section 51"
+    }
+   ]
+  },
+  "procedure.disclosure_of_facts_by_mediators": {
+   "concept_id": "procedure.disclosure_of_facts_by_mediators",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "description",
+     "type": "wrong",
+     "card_value": "Steps: Mediators disclose facts under clause (c) of section 77",
+     "source_value": "the other facts to be disclosed by mediators under clause (c) of section 77",
+     "note": "The card's description does not accurately reflect the source text, which mentions 'other facts' to be disclosed, not just 'facts'"
+    },
+    {
+     "field": "content.steps",
+     "type": "missing",
+     "card_value": "[{\"order\": 1, \"step\": \"Mediators disclose facts under clause (c) of section 77\"}]",
+     "source_value": "the other facts to be disclosed by mediators under clause (c) of section 77",
+     "note": "The card's steps do not capture the full scope of the source text, which includes 'other facts' to be disclosed"
+    }
+   ]
+  },
+  "procedure.discovery_and_production_of_evidence": {
+   "concept_id": "procedure.discovery_and_production_of_evidence",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.disposal_of_seized_articles_subject_to_decay": {
+   "concept_id": "procedure.disposal_of_seized_articles_subject_to_decay",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.empanelment_of_mediators": {
+   "concept_id": "procedure.empanelment_of_mediators",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "authority",
+     "type": "wrong",
+     "card_value": "District Commission, State Commission or the National Commission",
+     "source_value": "such regulations may make provisions for... under sub-section (2) of section 75",
+     "note": "The card's authority does not accurately reflect the source text, which does not specify the authority for empanelment of mediators"
+    }
+   ]
+  },
+  "procedure.enforcement_of_order": {
+   "concept_id": "procedure.enforcement_of_order",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.engaging_experts_and_professionals": {
+   "concept_id": "procedure.engaging_experts_and_professionals",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.filing_a_product_liability_action": {
+   "concept_id": "procedure.filing_a_product_liability_action",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.filing_an_appeal": {
+   "concept_id": "procedure.filing_an_appeal",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "steps",
+     "type": "hallucination_risk",
+     "card_value": "order is passed under sub-section (1) of section 72",
+     "source_value": "order passed by the Central Authority under sections 20 and 21",
+     "note": "Invented step not supported by the Act"
+    },
+    {
+     "field": "steps",
+     "type": "hallucination_risk",
+     "card_value": "The appellant receives the order of a District Commission or a State Commission or the National Commission",
+     "source_value": "order passed by the Central Authority under sections 20 and 21",
+     "note": "Invented step not supported by the Act"
+    }
+   ]
+  },
+  "procedure.filing_an_appeal_to_the_national_commission": {
+   "concept_id": "procedure.filing_an_appeal_to_the_national_commission",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.filing_an_appeal_to_the_state_commission": {
+   "concept_id": "procedure.filing_an_appeal_to_the_state_commission",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.filing_an_appeal_to_the_supreme_court": {
+   "concept_id": "procedure.filing_an_appeal_to_the_supreme_court",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.filing_appeals_with_the_state_commission": {
+   "concept_id": "procedure.filing_appeals_with_the_state_commission",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "documents",
+     "type": "hallucination_risk",
+     "card_value": "complaints where the value of the goods or services paid as consideration, exceeds rupees one crore, but does not exceed rupees ten crore",
+     "source_value": "complaints where the value of the goods or services paid as consideration, exceeds rupees one crore, but does not exceed rupees ten crore",
+     "note": "The card includes examples of complaints that are not necessarily related to appeals."
+    }
+   ]
+  },
+  "procedure.filing_complaint": {
+   "concept_id": "procedure.filing_complaint",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "authority",
+     "type": "wrong",
+     "card_value": "Not specified in the Act",
+     "source_value": "Central Authority",
+     "note": "The authority for filing complaints is specified in the Act as the Central Authority."
+    },
+    {
+     "field": "documents",
+     "type": "hallucination_risk",
+     "card_value": "annual statement of accounts, annual report, other reports and returns",
+     "source_value": "manner of electronically filing complaint",
+     "note": "The card includes unrelated documents."
+    }
+   ]
+  },
+  "procedure.filing_complaints": {
+   "concept_id": "procedure.filing_complaints",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "authority",
+     "type": "wrong",
+     "card_value": "Central Authority",
+     "source_value": "Central Authority may file complaints",
+     "note": "The Central Authority is not the only authority for filing complaints."
+    },
+    {
+     "field": "documents",
+     "type": "hallucination_risk",
+     "card_value": "safety notices, guidelines",
+     "source_value": "complaint",
+     "note": "The card includes unrelated documents."
+    }
+   ]
+  },
+  "procedure.filing_complaints_with_the_state_commission": {
+   "concept_id": "procedure.filing_complaints_with_the_state_commission",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.filing_of_complaint": {
+   "concept_id": "procedure.filing_of_complaint",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.filing_of_complaint_after_specified_period": {
+   "concept_id": "procedure.filing_of_complaint_after_specified_period",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.filing_of_complaints_and_appeals_with_the_national_commissio": {
+   "concept_id": "procedure.filing_of_complaints_and_appeals_with_the_national_commissio",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.furnishing_information": {
+   "concept_id": "procedure.furnishing_information",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.hearing_of_appeal_on_substantial_question_of_law": {
+   "concept_id": "procedure.hearing_of_appeal_on_substantial_question_of_law",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.hearing_of_consumer_dispute": {
+   "concept_id": "procedure.hearing_of_consumer_dispute",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.information_requirement": {
+   "concept_id": "procedure.information_requirement",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.inquiry_or_investigation": {
+   "concept_id": "procedure.inquiry_or_investigation",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "steps",
+     "type": "wrong",
+     "card_value": "Complaint or reference made to the District Collector by the Central Authority, Commissioner of a regional office, or a consumer",
+     "source_value": "on a complaint or on a reference made to him by the Central Authority or the Commissioner of a regional office",
+     "note": "The card includes 'or a consumer' which is not present in the Act."
+    }
+   ]
+  },
+  "procedure.intervention_in_proceedings": {
+   "concept_id": "procedure.intervention_in_proceedings",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.investigation": {
+   "concept_id": "procedure.investigation",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "steps",
+     "type": "wrong",
+     "card_value": "The Central Authority, the Director-General or the District Collector may call upon a person referred to in sub-section (1)",
+     "source_value": "the Central Authority, the Director-General or the District Collector may call upon a person referred to in sub-section (1)",
+     "note": "The card has duplicate steps with same order, which is not present in the Act."
+    },
+    {
+     "field": "authority",
+     "type": "wrong",
+     "card_value": "Central Authority",
+     "source_value": "The Central Authority, the Director-General or the District Collector",
+     "note": "The Act mentions multiple authorities, not just the Central Authority."
+    }
+   ]
+  },
+  "procedure.investigation_and_order_passing": {
+   "concept_id": "procedure.investigation_and_order_passing",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.investigation_and_search": {
+   "concept_id": "procedure.investigation_and_search",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.investigation_into_allegations_against_state_commission_memb": {
+   "concept_id": "procedure.investigation_into_allegations_against_state_commission_memb",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.issuance_of_directions_to_discontinue_or_modify_advertisemen": {
+   "concept_id": "procedure.issuance_of_directions_to_discontinue_or_modify_advertisemen",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.issuance_of_instructions_for_uniform_procedure": {
+   "concept_id": "procedure.issuance_of_instructions_for_uniform_procedure",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.issuing_guidelines": {
+   "concept_id": "procedure.issuing_guidelines",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.issuing_of_commissions": {
+   "concept_id": "procedure.issuing_of_commissions",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.issuing_safety_notices": {
+   "concept_id": "procedure.issuing_safety_notices",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.maintenance_of_information_by_consumer_mediation_cell": {
+   "concept_id": "procedure.maintenance_of_information_by_consumer_mediation_cell",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.mandating_unique_goods_identifiers": {
+   "concept_id": "procedure.mandating_unique_goods_identifiers",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "documents",
+     "type": "wrong",
+     "card_value": "complaints, safety notices, guidelines",
+     "source_value": "None specified in the Act for this specific procedure",
+     "note": "The card includes documents not mentioned in the Act for this procedure"
+    }
+   ]
+  },
+  "procedure.mediation": {
+   "concept_id": "procedure.mediation",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "steps",
+     "type": "hallucination_risk",
+     "card_value": "Mediation is held in the consumer mediation cell",
+     "source_value": "The mediation shall be held in the consumer mediation cell attached to the District Commission, the State Commission or the National Commission, as the case may be.",
+     "note": "The card has multiple steps with the same order number, which could lead to confusion."
+    },
+    {
+     "field": "steps",
+     "type": "hallucination_risk",
+     "card_value": "Referral of consumer dispute for mediation by the District Commission or the State Commission or the National Commission",
+     "source_value": "Where a consumer dispute is referred for mediation by the District Commission or the State Commission or the National Commission, as the case may be...",
+     "note": "The card has redundant steps."
+    }
+   ]
+  },
+  "procedure.mediation_agreement": {
+   "concept_id": "procedure.mediation_agreement",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.mediation_direction": {
+   "concept_id": "procedure.mediation_direction",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.mediation_procedure": {
+   "concept_id": "procedure.mediation_procedure",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.mediation_referral": {
+   "concept_id": "procedure.mediation_referral",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.mediation_settlement_reporting": {
+   "concept_id": "procedure.mediation_settlement_reporting",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.mediator_panel_preparation": {
+   "concept_id": "procedure.mediator_panel_preparation",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.meeting_of_central_council": {
+   "concept_id": "procedure.meeting_of_central_council",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.meeting_of_district_council": {
+   "concept_id": "procedure.meeting_of_district_council",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.monitoring_performance_of_state_commissions": {
+   "concept_id": "procedure.monitoring_performance_of_state_commissions",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.overseeing_functioning_of_state_and_district_commissions": {
+   "concept_id": "procedure.overseeing_functioning_of_state_and_district_commissions",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.partial_settlement_and_continued_hearing": {
+   "concept_id": "procedure.partial_settlement_and_continued_hearing",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.passing_of_interim_order": {
+   "concept_id": "procedure.passing_of_interim_order",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.preliminary_inquiry": {
+   "concept_id": "procedure.preliminary_inquiry",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.re_empanelment_of_mediators": {
+   "concept_id": "procedure.re_empanelment_of_mediators",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.receiving_evidence_on_affidavits": {
+   "concept_id": "procedure.receiving_evidence_on_affidavits",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.recommendation_of_international_covenants": {
+   "concept_id": "procedure.recommendation_of_international_covenants",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.referral_to_regulator": {
+   "concept_id": "procedure.referral_to_regulator",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.replacement_of_mediator": {
+   "concept_id": "procedure.replacement_of_mediator",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.representative_proceeding": {
+   "concept_id": "procedure.representative_proceeding",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.requisitioning_of_report": {
+   "concept_id": "procedure.requisitioning_of_report",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.research_in_consumer_rights": {
+   "concept_id": "procedure.research_in_consumer_rights",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.resolution_of_differing_opinions": {
+   "concept_id": "procedure.resolution_of_differing_opinions",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "content.steps[4].step",
+     "type": "hallucination_risk",
+     "card_value": "...within a period of one month or two months from the date of such reference",
+     "source_value": "S47-3: one month (District/State Commission); S58-3: two months (National Commission)",
+     "note": "Card merges two provisions (one/two months) without disambiguating commission type; verification needed"
+    },
+    {
+     "field": "content.steps[3].step",
+     "type": "wrong",
+     "card_value": "...majority of the members who have heard the case, including those who first heard it",
+     "source_value": "includes the members who first heard it",
+     "note": "minor wording drift, meaning preserved"
+    }
+   ]
+  },
+  "procedure.resolving_difference_of_opinion": {
+   "concept_id": "procedure.resolving_difference_of_opinion",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.return_of_seized_documents": {
+   "concept_id": "procedure.return_of_seized_documents",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.review_of_consumer_rights": {
+   "concept_id": "procedure.review_of_consumer_rights",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.review_of_order": {
+   "concept_id": "procedure.review_of_order",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.review_of_state_commission_decisions": {
+   "concept_id": "procedure.review_of_state_commission_decisions",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.search_and_seizure": {
+   "concept_id": "procedure.search_and_seizure",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.service_of_notice": {
+   "concept_id": "procedure.service_of_notice",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "steps",
+     "type": "hallucination_risk",
+     "card_value": "Transmitting a copy of the notice by speed post",
+     "source_value": "by speed post or by such courier service, approved by the District Commission, the State Commission or the National Commission, as the case may be",
+     "note": "The card mentions speed post as a separate step, while the Act mentions it as one of the modes of transmission of documents."
+    }
+   ]
+  },
+  "procedure.setting_aside_an_ex_parte_order": {
+   "concept_id": "procedure.setting_aside_an_ex_parte_order",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.settlement_disposal": {
+   "concept_id": "procedure.settlement_disposal",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.submission_of_inquiries_or_investigation": {
+   "concept_id": "procedure.submission_of_inquiries_or_investigation",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "documents",
+     "type": "hallucination_risk",
+     "card_value": "[\"form\", \"manner\", \"time\"]",
+     "source_value": "the form, manner and time within which, inquiries or investigation made by the Director-General shall be submitted to the Central Authority under sub-section (5) of section 15",
+     "note": "The card mentions 'form', 'manner', and 'time' as separate documents, while the source text mentions them as aspects of the submission procedure."
+    }
+   ]
+  },
+  "procedure.submission_of_quarterly_report_by_consumer_mediation_cell": {
+   "concept_id": "procedure.submission_of_quarterly_report_by_consumer_mediation_cell",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.summoning_and_enforcing_attendance": {
+   "concept_id": "procedure.summoning_and_enforcing_attendance",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "authority",
+     "type": "wrong",
+     "card_value": "District Commission",
+     "source_value": "the District Commission shall have the same powers as are vested in a civil court under the Code of Civil Procedure, 1908",
+     "note": "The source text does not explicitly state that only the District Commission has the power to summon and enforce attendance."
+    }
+   ]
+  },
+  "procedure.transaction_of_business": {
+   "concept_id": "procedure.transaction_of_business",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.transaction_of_state_council_business": {
+   "concept_id": "procedure.transaction_of_state_council_business",
+   "verdict": "OK",
+   "issues": []
+  },
+  "procedure.trial_of_offences": {
+   "concept_id": "procedure.trial_of_offences",
+   "verdict": "OK",
+   "issues": []
+  }
+ },
+ "timelines": {
+  "timeline.a_period": {
+   "concept_id": "timeline.a_period",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "duration",
+     "type": "missing",
+     "card_value": "a period",
+     "source_value": "thirty days",
+     "note": "The Act specifies a period of thirty days in the absence of stipulation"
+    },
+    {
+     "field": "trigger",
+     "type": "wrong",
+     "card_value": "Not specified in the Act",
+     "source_value": "from the date of the order is not relevant, but the trigger is the sale or rendering of services",
+     "note": "The trigger is related to the sale or rendering of services, not the date of the order"
+    }
+   ]
+  },
+  "timeline.every_year": {
+   "concept_id": "timeline.every_year",
+   "verdict": "OK",
+   "issues": []
+  },
+  "timeline.five_days": {
+   "concept_id": "timeline.five_days",
+   "verdict": "OK",
+   "issues": []
+  },
+  "timeline.five_months": {
+   "concept_id": "timeline.five_months",
+   "verdict": "OK",
+   "issues": []
+  },
+  "timeline.five_years": {
+   "concept_id": "timeline.five_years",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "exceptions",
+     "type": "hallucination_risk",
+     "card_value": "attaining the age of seventy years in the case of the President",
+     "source_value": "the age of seventy years as specified in the rules made by the Central Government",
+     "note": "The Act does not explicitly state the age, but rather refers to the rules made by the Central Government"
+    },
+    {
+     "field": "exceptions",
+     "type": "hallucination_risk",
+     "card_value": "attaining the age of sixty-seven years in the case of any other member",
+     "source_value": "the age of sixty-seven years as specified in the rules made by the Central Government",
+     "note": "The Act does not explicitly state the age, but rather refers to the rules made by the Central Government"
+    }
+   ]
+  },
+  "timeline.forty_five_days": {
+   "concept_id": "timeline.forty_five_days",
+   "verdict": "OK",
+   "issues": []
+  },
+  "timeline.ninety_days": {
+   "concept_id": "timeline.ninety_days",
+   "verdict": "OK",
+   "issues": []
+  },
+  "timeline.not_specified": {
+   "concept_id": "timeline.not_specified",
+   "verdict": "OK",
+   "issues": []
+  },
+  "timeline.one_month": {
+   "concept_id": "timeline.one_month",
+   "verdict": "OK",
+   "issues": []
+  },
+  "timeline.one_year": {
+   "concept_id": "timeline.one_year",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "description",
+     "type": "wrong",
+     "card_value": "The State Council shall meet at least twice a year",
+     "source_value": "The State Council shall meet as and when necessary but not less than two meetings shall be held every year.",
+     "note": "The card description is not entirely accurate to the source text."
+    },
+    {
+     "field": "exceptions",
+     "type": "hallucination_risk",
+     "card_value": "where the Central Authority deems it necessary",
+     "source_value": "Not applicable in this context",
+     "note": "The exception mentioned in the card is not relevant to the State Council meetings."
+    }
+   ]
+  },
+  "timeline.seven_days": {
+   "concept_id": "timeline.seven_days",
+   "verdict": "OK",
+   "issues": []
+  },
+  "timeline.the_period_so_specified": {
+   "concept_id": "timeline.the_period_so_specified",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "trigger",
+     "type": "missing",
+     "card_value": "Not specified in the Act",
+     "source_value": "within the period so specified",
+     "note": "The trigger is specified in the Act as 'within the period so specified' but the card does not capture this information."
+    }
+   ]
+  },
+  "timeline.thirty_days": {
+   "concept_id": "timeline.thirty_days",
+   "verdict": "OK",
+   "issues": []
+  },
+  "timeline.three_months": {
+   "concept_id": "timeline.three_months",
+   "verdict": "OK",
+   "issues": []
+  },
+  "timeline.three_years": {
+   "concept_id": "timeline.three_years",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "duration",
+     "type": "wrong",
+     "card_value": "three years",
+     "source_value": "a period which may extend to three years",
+     "note": "The card states a fixed duration of three years, but the Act specifies a period that 'may extend to three years'."
+    },
+    {
+     "field": "trigger",
+     "type": "wrong",
+     "card_value": "from the order",
+     "source_value": "for every subsequent contravention",
+     "note": "The card states the trigger as 'from the order', but the Act specifies the trigger as 'for every subsequent contravention'."
+    }
+   ]
+  },
+  "timeline.twenty_days": {
+   "concept_id": "timeline.twenty_days",
+   "verdict": "OK",
+   "issues": []
+  },
+  "timeline.twenty_one_days": {
+   "concept_id": "timeline.twenty_one_days",
+   "verdict": "OK",
+   "issues": []
+  },
+  "timeline.two_months": {
+   "concept_id": "timeline.two_months",
+   "verdict": "OK",
+   "issues": []
+  },
+  "timeline.two_years": {
+   "concept_id": "timeline.two_years",
+   "verdict": "OK",
+   "issues": []
+  },
+  "timeline.up_to_two_years": {
+   "concept_id": "timeline.up_to_two_years",
+   "verdict": "OK",
+   "issues": []
+  }
+ },
+ "definitions": {
+  "definition.advertisement": {
+   "concept_id": "definition.advertisement",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.appropriate_laboratory": {
+   "concept_id": "definition.appropriate_laboratory",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.branch_office": {
+   "concept_id": "definition.branch_office",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.central_authority": {
+   "concept_id": "definition.central_authority",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.complainant": {
+   "concept_id": "definition.complainant",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.complaint": {
+   "concept_id": "definition.complaint",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.consumer": {
+   "concept_id": "definition.consumer",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.consumer_dispute": {
+   "concept_id": "definition.consumer_dispute",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.consumer_protection_act_2019": {
+   "concept_id": "definition.consumer_protection_act_2019",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.consumer_rights": {
+   "concept_id": "definition.consumer_rights",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "legal_definition",
+     "type": "wrong",
+     "card_value": "the right to consumer awareness",
+     "source_value": "the right to consumer awareness is listed as (vi) but the card is missing the 'includes' keyword from the source",
+     "note": "missing 'includes' keyword"
+    }
+   ]
+  },
+  "definition.defect": {
+   "concept_id": "definition.defect",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.deficiency": {
+   "concept_id": "definition.deficiency",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.design": {
+   "concept_id": "definition.design",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.direct_selling": {
+   "concept_id": "definition.direct_selling",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.director_general": {
+   "concept_id": "definition.director_general",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.district_commission": {
+   "concept_id": "definition.district_commission",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.e_commerce": {
+   "concept_id": "definition.e_commerce",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.electronic_service_provider": {
+   "concept_id": "definition.electronic_service_provider",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.endorsement": {
+   "concept_id": "definition.endorsement",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.establishment": {
+   "concept_id": "definition.establishment",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.express_warranty": {
+   "concept_id": "definition.express_warranty",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.goods": {
+   "concept_id": "definition.goods",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.harm": {
+   "concept_id": "definition.harm",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.injury": {
+   "concept_id": "definition.injury",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.manufacturer": {
+   "concept_id": "definition.manufacturer",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.mediation": {
+   "concept_id": "definition.mediation",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.mediator": {
+   "concept_id": "definition.mediator",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.member": {
+   "concept_id": "definition.member",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.misleading_advertisement": {
+   "concept_id": "definition.misleading_advertisement",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.national_commission": {
+   "concept_id": "definition.national_commission",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.notification": {
+   "concept_id": "definition.notification",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.person": {
+   "concept_id": "definition.person",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.prescribed": {
+   "concept_id": "definition.prescribed",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.product": {
+   "concept_id": "definition.product",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.product_liability": {
+   "concept_id": "definition.product_liability",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.product_liability_action": {
+   "concept_id": "definition.product_liability_action",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.product_manufacturer": {
+   "concept_id": "definition.product_manufacturer",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.product_seller": {
+   "concept_id": "definition.product_seller",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.product_service_provider": {
+   "concept_id": "definition.product_service_provider",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.regulations": {
+   "concept_id": "definition.regulations",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.regulator": {
+   "concept_id": "definition.regulator",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.restrictive_trade_practice": {
+   "concept_id": "definition.restrictive_trade_practice",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.service": {
+   "concept_id": "definition.service",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.spurious_goods": {
+   "concept_id": "definition.spurious_goods",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.state_commission": {
+   "concept_id": "definition.state_commission",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.trader": {
+   "concept_id": "definition.trader",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.unfair_contract": {
+   "concept_id": "definition.unfair_contract",
+   "verdict": "OK",
+   "issues": []
+  },
+  "definition.unfair_trade_practice": {
+   "concept_id": "definition.unfair_trade_practice",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "legal_definition",
+     "type": "hallucination_risk",
+     "card_value": "a trade practice which, for the purpose of promoting the sale, use or supply of any goods or for the provision of any service, adopts any unfair method or unfair or deceptive practice including any of the following practices",
+     "source_value": "a trade practice which, for the purpose of promoting the sale, use or supply of any goods or for the provision of any service, adopts any unfair method or unfair or deceptive practice including any of the following practices, namely:— (i) making any statement...",
+     "note": "The card's legal definition does not include the specific practices listed in the Act, which could lead to incomplete understanding of unfair trade practices."
+    }
+   ]
+  }
+ },
+ "obligations": {
+  "obligation.additional_director_general_director_joint_director_deputy_d": {
+   "concept_id": "obligation.additional_director_general_director_joint_director_deputy_d",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.advertiser_must_discontinue_or_modify_advertisement_as_direc": {
+   "concept_id": "obligation.advertiser_must_discontinue_or_modify_advertisement_as_direc",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.appellant_must_deposit_50_of_amount_ordered_by_state_commiss": {
+   "concept_id": "obligation.appellant_must_deposit_50_of_amount_ordered_by_state_commiss",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.appellant_must_precisely_state_the_substantial_question_of_l": {
+   "concept_id": "obligation.appellant_must_precisely_state_the_substantial_question_of_l",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.authority_making_rules_and_regulations_must_lay_rules_and_re": {
+   "concept_id": "obligation.authority_making_rules_and_regulations_must_lay_rules_and_re",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.authority_must_provide_for_re_empanelment_of_mediators": {
+   "concept_id": "obligation.authority_must_provide_for_re_empanelment_of_mediators",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.authority_must_set_qualifications_and_experience_for_empanel": {
+   "concept_id": "obligation.authority_must_set_qualifications_and_experience_for_empanel",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.central_authority_be_bound_by_directions_on_questions_of_pol": {
+   "concept_id": "obligation.central_authority_be_bound_by_directions_on_questions_of_pol",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.central_authority_ensure_that_no_false_or_misleading_adverti": {
+   "concept_id": "obligation.central_authority_ensure_that_no_false_or_misleading_adverti",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.central_authority_ensure_that_no_person_takes_part_in_the_pu": {
+   "concept_id": "obligation.central_authority_ensure_that_no_person_takes_part_in_the_pu",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.central_authority_may_impose_penalty": {
+   "concept_id": "obligation.central_authority_may_impose_penalty",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.central_authority_may_issue_directions_to_discontinue_or_mod": {
+   "concept_id": "obligation.central_authority_may_issue_directions_to_discontinue_or_mod",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.central_authority_may_prohibit_endorser_of_false_or_misleadi": {
+   "concept_id": "obligation.central_authority_may_prohibit_endorser_of_false_or_misleadi",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.central_authority_may_refer_the_matter_to_the_concerned_regu": {
+   "concept_id": "obligation.central_authority_may_refer_the_matter_to_the_concerned_regu",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.central_authority_must_cause_investigation_to_be_made": {
+   "concept_id": "obligation.central_authority_must_cause_investigation_to_be_made",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "limitations",
+     "type": "wrong",
+     "card_value": "prejudicial to the public interest or to the interests of consumers",
+     "source_value": "prejudicial to the public interest or to the interests of consumers is a condition for the preliminary inquiry, not a limitation for the investigation",
+     "note": "The card incorrectly frames the condition as a limitation."
+    }
+   ]
+  },
+  "obligation.central_authority_must_engage_experts_and_professionals": {
+   "concept_id": "obligation.central_authority_must_engage_experts_and_professionals",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.central_authority_must_give_opportunity_of_being_heard": {
+   "concept_id": "obligation.central_authority_must_give_opportunity_of_being_heard",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.central_authority_must_maintain_proper_accounts_and_other_re": {
+   "concept_id": "obligation.central_authority_must_maintain_proper_accounts_and_other_re",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.central_authority_must_make_regulations_not_inconsistent_wit": {
+   "concept_id": "obligation.central_authority_must_make_regulations_not_inconsistent_wit",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.central_authority_must_obtain_previous_approval_of_the_centr": {
+   "concept_id": "obligation.central_authority_must_obtain_previous_approval_of_the_centr",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.central_authority_must_pay_expenditure_incurred_in_connectio": {
+   "concept_id": "obligation.central_authority_must_pay_expenditure_incurred_in_connectio",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.central_authority_must_regulate_the_procedure_for_transactio": {
+   "concept_id": "obligation.central_authority_must_regulate_the_procedure_for_transactio",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.central_authority_or_any_officer_authorised_by_it_must_file_": {
+   "concept_id": "obligation.central_authority_or_any_officer_authorised_by_it_must_file_",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.central_authority_prevent_unfair_trade_practices": {
+   "concept_id": "obligation.central_authority_prevent_unfair_trade_practices",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.central_authority_protect_promote_and_enforce_the_rights_of_": {
+   "concept_id": "obligation.central_authority_protect_promote_and_enforce_the_rights_of_",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.central_authority_shall_conduct_inquiry_or_investigation": {
+   "concept_id": "obligation.central_authority_shall_conduct_inquiry_or_investigation",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "conditions",
+     "type": "wrong",
+     "card_value": "as directed by the Central Authority",
+     "source_value": "as may be directed by the Central Authority",
+     "note": "Incorrect direction source"
+    }
+   ]
+  },
+  "obligation.central_council_must_meet_at_least_once_a_year": {
+   "concept_id": "obligation.central_council_must_meet_at_least_once_a_year",
+   "verdict": "OK"
+  },
+  "obligation.central_council_must_render_advice_on_promotion_and_protecti": {
+   "concept_id": "obligation.central_council_must_render_advice_on_promotion_and_protecti",
+   "verdict": "OK"
+  },
+  "obligation.central_council_shall_observe_prescribed_procedure": {
+   "concept_id": "obligation.central_council_shall_observe_prescribed_procedure",
+   "verdict": "OK"
+  },
+  "obligation.central_government_central_authority_or_state_government_mus": {
+   "concept_id": "obligation.central_government_central_authority_or_state_government_mus",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "who",
+     "type": "wrong",
+     "card_value": "Central Government, Central Authority or State Government",
+     "source_value": "the consumer, any recognised consumer association, one or more consumers, or the Central Government, the Central Authority or the State Government",
+     "note": "Incorrect list of entities that can file a complaint"
+    }
+   ]
+  },
+  "obligation.central_government_give_an_opportunity_to_express_views": {
+   "concept_id": "obligation.central_government_give_an_opportunity_to_express_views",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.central_government_make_grants_of_money_to_the_central_autho": {
+   "concept_id": "obligation.central_government_make_grants_of_money_to_the_central_autho",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.central_government_make_rules_for_appointment_of_president_a": {
+   "concept_id": "obligation.central_government_make_rules_for_appointment_of_president_a",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.central_government_make_rules_for_district_commission_appoin": {
+   "concept_id": "obligation.central_government_make_rules_for_district_commission_appoin",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.central_government_make_rules_for_the_qualifications_appoint": {
+   "concept_id": "obligation.central_government_make_rules_for_the_qualifications_appoint",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.central_government_may_exempt_goods_and_services_by_notifica": {
+   "concept_id": "obligation.central_government_may_exempt_goods_and_services_by_notifica",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.central_government_may_make_provisions_to_remove_difficultie": {
+   "concept_id": "obligation.central_government_may_make_provisions_to_remove_difficultie",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.central_government_may_prescribe_such_other_value": {
+   "concept_id": "obligation.central_government_may_prescribe_such_other_value",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "limitations",
+     "type": "wrong",
+     "card_value": "one crore rupees",
+     "source_value": "as it deems fit",
+     "note": "The card specifies a fixed value, but the Act states the value is 'as it deems fit'."
+    }
+   ]
+  },
+  "obligation.central_government_may_prescribe_value_for_complaints": {
+   "concept_id": "obligation.central_government_may_prescribe_value_for_complaints",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "limitations",
+     "type": "wrong",
+     "card_value": "ten crore rupees",
+     "source_value": "as it deems fit",
+     "note": "The card specifies a fixed value, but the Act states the value is 'as it deems fit'."
+    }
+   ]
+  },
+  "obligation.central_government_may_take_measures": {
+   "concept_id": "obligation.central_government_may_take_measures",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.central_government_must_appoint_commissioners": {
+   "concept_id": "obligation.central_government_must_appoint_commissioners",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.central_government_must_appoint_date_of_coming_into_force": {
+   "concept_id": "obligation.central_government_must_appoint_date_of_coming_into_force",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.central_government_must_appoint_director_general_and_other_o": {
+   "concept_id": "obligation.central_government_must_appoint_director_general_and_other_o",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "what",
+     "type": "wrong",
+     "card_value": "must appoint Director-General and other officers in a prescribed manner",
+     "source_value": "may appoint a Director-General and such number of Additional Director-General, Director, Joint Director, Deputy Director and Assistant Director, from amongst persons who have experience in investigation and possess such qualifications, in such manner, as may be prescribed",
+     "note": "The card uses 'must' while the Act uses 'may'."
+    }
+   ]
+  },
+  "obligation.central_government_must_consider_necessity": {
+   "concept_id": "obligation.central_government_must_consider_necessity",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.central_government_must_consult": {
+   "concept_id": "obligation.central_government_must_consult",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "what",
+     "type": "wrong",
+     "card_value": "must consult",
+     "source_value": "in consultation with the Central Government",
+     "note": "The card implies the Central Government is the one doing the consulting, while the Act implies the consulting is done with the Central Government."
+    }
+   ]
+  },
+  "obligation.central_government_must_establish_regional_benches_by_notifi": {
+   "concept_id": "obligation.central_government_must_establish_regional_benches_by_notifi",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.central_government_must_issue_guidelines": {
+   "concept_id": "obligation.central_government_must_issue_guidelines",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.central_government_must_make_rules_for_qualifications_appoin": {
+   "concept_id": "obligation.central_government_must_make_rules_for_qualifications_appoin",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "what",
+     "type": "wrong",
+     "card_value": "must make rules for qualifications, appointment, term of office, salaries and allowances, resignation, removal and other terms and conditions of service of the President and members of the National Commission",
+     "source_value": "may, by notification, make rules to provide for qualifications, appointment, term of office, salaries and allowances, resignation, removal and other terms and conditions of service of the President and members of the National Commission",
+     "note": "The card uses 'must' while the Act uses 'may'."
+    }
+   ]
+  },
+  "obligation.central_government_must_notify_locations_in_official_gazette": {
+   "concept_id": "obligation.central_government_must_notify_locations_in_official_gazette",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.central_government_must_prescribe_interests": {
+   "concept_id": "obligation.central_government_must_prescribe_interests",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.central_government_shall_establish_a_central_consumer_protec": {
+   "concept_id": "obligation.central_government_shall_establish_a_central_consumer_protec",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.central_government_shall_establish_a_consumer_mediation_cell": {
+   "concept_id": "obligation.central_government_shall_establish_a_consumer_mediation_cell",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.central_government_shall_establish_the_central_consumer_prot": {
+   "concept_id": "obligation.central_government_shall_establish_the_central_consumer_prot",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.central_government_shall_provide_officers_and_other_employee": {
+   "concept_id": "obligation.central_government_shall_provide_officers_and_other_employee",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.chief_commissioner_shall_have_powers_of_general_superintende": {
+   "concept_id": "obligation.chief_commissioner_shall_have_powers_of_general_superintende",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.complainant_must_pay_fee": {
+   "concept_id": "obligation.complainant_must_pay_fee",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.complainant_must_satisfy_the_commission_that_he_had_sufficie": {
+   "concept_id": "obligation.complainant_must_satisfy_the_commission_that_he_had_sufficie",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.comptroller_and_auditor_general_of_india_must_audit_accounts": {
+   "concept_id": "obligation.comptroller_and_auditor_general_of_india_must_audit_accounts",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.comptroller_and_auditor_general_of_india_or_any_other_person": {
+   "concept_id": "obligation.comptroller_and_auditor_general_of_india_or_any_other_person",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.consumer_mediation_cell_must_maintain_a_list_of_empanelled_m": {
+   "concept_id": "obligation.consumer_mediation_cell_must_maintain_a_list_of_empanelled_m",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.consumer_mediation_cell_must_maintain_information": {
+   "concept_id": "obligation.consumer_mediation_cell_must_maintain_information",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.consumer_mediation_cell_must_submit_quarterly_report": {
+   "concept_id": "obligation.consumer_mediation_cell_must_submit_quarterly_report",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.consumer_mediation_cell_shall_submit_a_quarterly_report": {
+   "concept_id": "obligation.consumer_mediation_cell_shall_submit_a_quarterly_report",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "conditions",
+     "type": "missing",
+     "card_value": "in the manner specified by regulations",
+     "source_value": "to the District Commission, State Commission or the National Commission to which it is attached, in the manner specified by regulations",
+     "note": "card is missing the recipient of the quarterly report"
+    }
+   ]
+  },
+  "obligation.court_may_suspend_or_cancel_licence": {
+   "concept_id": "obligation.court_may_suspend_or_cancel_licence",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "title",
+     "type": "wrong",
+     "card_value": "Court must consider suspension or cancellation of licence",
+     "source_value": "the court may, in case of first conviction, suspend any licence... and in case of second or subsequent conviction, cancel the licence",
+     "note": "card title implies a mandatory action, while the Act states a permissive action"
+    },
+    {
+     "field": "what",
+     "type": "wrong",
+     "card_value": "may suspend or cancel licence",
+     "source_value": "the court may... suspend any licence... and... cancel the licence",
+     "note": "card description implies a single action, while the Act states two separate actions"
+    }
+   ]
+  },
+  "obligation.court_must_consider_factors_while_determining_penalty": {
+   "concept_id": "obligation.court_must_consider_factors_while_determining_penalty",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.court_must_grant_leave_for_compounding_of_offence": {
+   "concept_id": "obligation.court_must_grant_leave_for_compounding_of_offence",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.director_general_must_submit_inquiries_or_investigations": {
+   "concept_id": "obligation.director_general_must_submit_inquiries_or_investigations",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.director_general_or_such_other_officer_must_dispose_of_the_a": {
+   "concept_id": "obligation.director_general_or_such_other_officer_must_dispose_of_the_a",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.director_general_shall_submit_inquiries_or_investigation_mad": {
+   "concept_id": "obligation.director_general_shall_submit_inquiries_or_investigation_mad",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "content",
+     "type": "hallucination_risk",
+     "card_value": "shall submit inquiries or investigation made",
+     "source_value": "the form, manner and time within which, inquiries or investigation made by the Director-General shall be submitted to the Central Authority",
+     "note": "The card implies a direct submission obligation, while the source text only mentions regulation of the submission process."
+    }
+   ]
+  },
+  "obligation.district_collector_inquire_into_or_investigate_complaints_an": {
+   "concept_id": "obligation.district_collector_inquire_into_or_investigate_complaints_an",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.district_commission_may_allow_hearing_or_examination_of_part": {
+   "concept_id": "obligation.district_commission_may_allow_hearing_or_examination_of_part",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.district_commission_may_direct_parties_to_give_in_writing_co": {
+   "concept_id": "obligation.district_commission_may_direct_parties_to_give_in_writing_co",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "limitations",
+     "type": "wrong",
+     "card_value": "within five days",
+     "source_value": "within five days, consent to have their dispute settled by mediation in accordance with the provisions of Chapter V",
+     "note": "card does not fully capture the condition for giving consent"
+    }
+   ]
+  },
+  "obligation.district_commission_may_pass_interim_order": {
+   "concept_id": "obligation.district_commission_may_pass_interim_order",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "title",
+     "type": "wrong",
+     "card_value": "District Commission must pass interim order",
+     "source_value": "may pass such interim order",
+     "note": "card incorrectly states 'must' instead of 'may'"
+    },
+    {
+     "field": "description",
+     "type": "wrong",
+     "card_value": "pass such interim order as is just and proper in the facts and circumstances of the case",
+     "source_value": "may pass such interim order as is just and proper in the facts and circumstances of the case",
+     "note": "card incorrectly states 'pass' instead of 'may pass'"
+    }
+   ]
+  },
+  "obligation.district_commission_must_consider_complaint_filed_on_behalf_": {
+   "concept_id": "obligation.district_commission_must_consider_complaint_filed_on_behalf_",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "title",
+     "type": "wrong",
+     "card_value": "District Commission must consider complaint filed on behalf of multiple consumers",
+     "source_value": "may be filed with a District Commission by... one or more consumers, where there are numerous consumers having the same interest, with the permission of the District Commission",
+     "note": "card incorrectly states 'must' instead of describing the conditions under which a complaint may be filed"
+    },
+    {
+     "field": "description",
+     "type": "wrong",
+     "card_value": "A District Commission must consider a complaint filed on behalf of multiple consumers having the same interest",
+     "source_value": "one or more consumers, where there are numerous consumers having the same interest, with the permission of the District Commission, on behalf of, or for the benefit of, all consumers so interested",
+     "note": "card incorrectly states 'must consider' and does not fully capture the conditions"
+    }
+   ]
+  },
+  "obligation.district_commission_must_decide_on_admissibility_of_complain": {
+   "concept_id": "obligation.district_commission_must_decide_on_admissibility_of_complain",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "conditions",
+     "type": "wrong",
+     "card_value": "within 21 days of filing the complaint",
+     "source_value": "ordinarily be decided within twenty-one days from the date on which the complaint was filed",
+     "note": "card does not include 'ordinarily' which is part of the source condition"
+    },
+    {
+     "field": "limitations",
+     "type": "wrong",
+     "card_value": "ordinarily",
+     "source_value": "the admissibility of the complaint shall ordinarily be decided within twenty-one days from the date on which the complaint was filed",
+     "note": "card incorrectly places 'ordinarily' as a limitation instead of part of the condition"
+    }
+   ]
+  },
+  "obligation.district_commission_must_decide_the_complaint_on_merits": {
+   "concept_id": "obligation.district_commission_must_decide_the_complaint_on_merits",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.district_commission_must_decide_the_issue_of_admissibility_o": {
+   "concept_id": "obligation.district_commission_must_decide_the_issue_of_admissibility_o",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "conditions",
+     "type": "missing",
+     "card_value": "within the period so specified",
+     "source_value": "within twenty-one days from the date on which the complaint was filed",
+     "note": "The Act specifies a time frame for deciding admissibility, which is not accurately reflected in the card."
+    }
+   ]
+  },
+  "obligation.district_commission_must_direct_the_opposite_party_to_give_t": {
+   "concept_id": "obligation.district_commission_must_direct_the_opposite_party_to_give_t",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.district_commission_must_dispose_of_complaint_within_a_perio": {
+   "concept_id": "obligation.district_commission_must_dispose_of_complaint_within_a_perio",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.district_commission_must_give_opportunity_of_being_heard_to_": {
+   "concept_id": "obligation.district_commission_must_give_opportunity_of_being_heard_to_",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "limitations",
+     "type": "wrong",
+     "card_value": "ordinarily within twenty-one days from the date on which the complaint was filed",
+     "source_value": "the admissibility of the complaint shall ordinarily be decided within twenty-one days from the date on which the complaint was filed",
+     "note": "The time frame specified in the card is related to the decision on admissibility, not the opportunity to be heard."
+    }
+   ]
+  },
+  "obligation.district_commission_must_hear_complaints_based_on_affidavit_": {
+   "concept_id": "obligation.district_commission_must_hear_complaints_based_on_affidavit_",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.district_commission_must_impose_costs_for_adjournment": {
+   "concept_id": "obligation.district_commission_must_impose_costs_for_adjournment",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "what",
+     "type": "wrong",
+     "card_value": "must impose costs for adjournment",
+     "source_value": "may make provisions for the costs for adjournment to be imposed",
+     "note": "The card states the District Commission 'must' impose costs, but the Act states regulations 'may' provide for such costs."
+    }
+   ]
+  },
+  "obligation.district_commission_must_make_orders_as_to_the_costs_occasio": {
+   "concept_id": "obligation.district_commission_must_make_orders_as_to_the_costs_occasio",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.district_commission_must_not_grant_adjournment_without_suffi": {
+   "concept_id": "obligation.district_commission_must_not_grant_adjournment_without_suffi",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "limitations",
+     "type": "wrong",
+     "card_value": "within a period of three months from the date of receipt of notice by opposite party where the complaint does not require analysis or testing of commodities; within five months if it requires analysis or testing of commodities",
+     "source_value": "no such limitations mentioned for not granting adjournment",
+     "note": "The card incorrectly states the time periods as limitations for not granting adjournment."
+    }
+   ]
+  },
+  "obligation.district_commission_must_record_reasons_for_adjournment_in_w": {
+   "concept_id": "obligation.district_commission_must_record_reasons_for_adjournment_in_w",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "limitations",
+     "type": "wrong",
+     "card_value": "within a period of three months from the date of receipt of notice by opposite party where the complaint does not require analysis or testing of commodities; within five months if it requires analysis or testing of commodities",
+     "source_value": "no such limitations mentioned for recording reasons for adjournment",
+     "note": "The card incorrectly states the time periods as limitations for recording reasons for adjournment."
+    }
+   ]
+  },
+  "obligation.district_commission_must_record_reasons_for_delayed_disposal": {
+   "concept_id": "obligation.district_commission_must_record_reasons_for_delayed_disposal",
+   "verdict": "OK",
+   "limitations": [
+    "within a period of three months from the date of receipt of notice by opposite party where the complaint does not require analysis or testing of commodities",
+    "within five months if it requires analysis or testing of commodities"
+   ]
+  },
+  "obligation.district_commission_must_refer_a_copy_of_the_complaint_to_th": {
+   "concept_id": "obligation.district_commission_must_refer_a_copy_of_the_complaint_to_th",
+   "verdict": "OK",
+   "limitations": [
+    "thirty days or such extended period not exceeding fifteen days",
+    "time given by the District Commission"
+   ]
+  },
+  "obligation.district_commission_must_refer_matter_for_mediation": {
+   "concept_id": "obligation.district_commission_must_refer_matter_for_mediation",
+   "verdict": "OK",
+   "limitations": [
+    "provisions of Chapter V relating to mediation shall apply"
+   ]
+  },
+  "obligation.district_commission_must_settle_the_consumer_dispute": {
+   "concept_id": "obligation.district_commission_must_settle_the_consumer_dispute",
+   "verdict": "OK",
+   "limitations": [
+    "complaint relates to goods in respect of which the procedure specified in sub-section (2) of section 36 cannot be followed",
+    "complaint relates to any services"
+   ]
+  },
+  "obligation.district_commission_or_state_commission_or_national_commissi": {
+   "concept_id": "obligation.district_commission_or_state_commission_or_national_commissi",
+   "verdict": "OK",
+   "limitations": [
+    "within seven days of the receipt of the settlement report"
+   ]
+  },
+  "obligation.district_commission_or_the_state_commission_or_the_national_": {
+   "concept_id": "obligation.district_commission_or_the_state_commission_or_the_national_",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.district_commission_shall_function_in_district_headquarters": {
+   "concept_id": "obligation.district_commission_shall_function_in_district_headquarters",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "limitations",
+     "type": "wrong",
+     "card_value": "as notified in the Official Gazette from time to time, in consultation with the State Commission, as the State Government may decide",
+     "source_value": "as the State Government may, in consultation with the State Commission, notify in the Official Gazette from time to time",
+     "note": "Incorrectly phrased limitations"
+    }
+   ]
+  },
+  "obligation.district_commission_shall_have_jurisdiction_to_entertain_com": {
+   "concept_id": "obligation.district_commission_shall_have_jurisdiction_to_entertain_com",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "limitations",
+     "type": "wrong",
+     "card_value": "Subject to the other provisions of this Act, as prescribed by the Central Government if it deems necessary",
+     "source_value": "Subject to the other provisions of this Act, where the Central Government deems it necessary so to do, it may prescribe such other value, as it deems fit",
+     "note": "Incorrectly phrased limitations"
+    }
+   ]
+  },
+  "obligation.district_commission_shall_have_the_same_powers_as_are_vested": {
+   "concept_id": "obligation.district_commission_shall_have_the_same_powers_as_are_vested",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.district_commission_shall_review_any_of_the_order_passed_by_": {
+   "concept_id": "obligation.district_commission_shall_review_any_of_the_order_passed_by_",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "conditions",
+     "type": "wrong",
+     "card_value": "if there is an error apparent on the face of the record, either of its own motion or on an application made by any of the parties within thirty days of such order",
+     "source_value": "if there is an error apparent on the face of the record, either of its own motion or on an application made by any of the parties within thirty days of such order",
+     "note": "Incorrectly separated conditions and limitations"
+    }
+   ]
+  },
+  "obligation.district_commission_state_commission_or_national_commission_": {
+   "concept_id": "obligation.district_commission_state_commission_or_national_commission_",
+   "verdict": "OK",
+   "limitations": [
+    "Not specified in the Act"
+   ]
+  },
+  "obligation.district_commission_state_commission_or_the_national_commiss": {
+   "concept_id": "obligation.district_commission_state_commission_or_the_national_commiss",
+   "verdict": "OK",
+   "limitations": [
+    "as far as may be applicable",
+    "subject to the modification that every reference therein to the decree shall be construed as reference to the order made under this Act"
+   ]
+  },
+  "obligation.district_council_must_render_advice_on_promotion_and_protect": {
+   "concept_id": "obligation.district_council_must_render_advice_on_promotion_and_protect",
+   "verdict": "OK",
+   "limitations": [
+    "Not specified in the Act"
+   ]
+  },
+  "obligation.district_council_shall_consist_of_the_collector_of_the_distr": {
+   "concept_id": "obligation.district_council_shall_consist_of_the_collector_of_the_distr",
+   "verdict": "OK",
+   "limitations": [
+    "such number of other official and non-official members representing such interests as may be prescribed"
+   ]
+  },
+  "obligation.district_council_shall_meet_and_observe_procedure": {
+   "concept_id": "obligation.district_council_shall_meet_and_observe_procedure",
+   "verdict": "OK",
+   "limitations": [
+    "Not specified in the Act"
+   ]
+  },
+  "obligation.district_council_shall_meet_as_and_when_necessary_and_at_lea": {
+   "concept_id": "obligation.district_council_shall_meet_as_and_when_necessary_and_at_lea",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.electronic_service_provider_must_provide_information_documen": {
+   "concept_id": "obligation.electronic_service_provider_must_provide_information_documen",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.electronic_service_provider_shall_designate_a_nodal_officer_": {
+   "concept_id": "obligation.electronic_service_provider_shall_designate_a_nodal_officer_",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.endorser_must_discontinue_or_modify_advertisement_as_directe": {
+   "concept_id": "obligation.endorser_must_discontinue_or_modify_advertisement_as_directe",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "who",
+     "type": "wrong",
+     "card_value": "Endorser",
+     "source_value": "concerned trader or manufacturer or endorser or advertiser or publisher",
+     "note": "The Act specifies multiple entities, not just the endorser"
+    }
+   ]
+  },
+  "obligation.endorser_must_exercise_due_diligence_to_verify_the_veracity_": {
+   "concept_id": "obligation.endorser_must_exercise_due_diligence_to_verify_the_veracity_",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.government_must_credit_penalty_and_amount_to_fund": {
+   "concept_id": "obligation.government_must_credit_penalty_and_amount_to_fund",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.government_must_lay_a_copy_of_the_annual_report_before_each_": {
+   "concept_id": "obligation.government_must_lay_a_copy_of_the_annual_report_before_each_",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.government_must_make_rules": {
+   "concept_id": "obligation.government_must_make_rules",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.government_must_prescribe_persons_for_consumer_mediation_cel": {
+   "concept_id": "obligation.government_must_prescribe_persons_for_consumer_mediation_cel",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.government_must_prescribe_salaries_and_allowances": {
+   "concept_id": "obligation.government_must_prescribe_salaries_and_allowances",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.government_must_utilise_funds_in_a_prescribed_manner": {
+   "concept_id": "obligation.government_must_utilise_funds_in_a_prescribed_manner",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.manufacturer_must_discontinue_or_modify_advertisement_as_dir": {
+   "concept_id": "obligation.manufacturer_must_discontinue_or_modify_advertisement_as_dir",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.mediation_authority_must_conduct_mediation_within_a_specifie": {
+   "concept_id": "obligation.mediation_authority_must_conduct_mediation_within_a_specifie",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "who",
+     "type": "wrong",
+     "card_value": "Mediation authority",
+     "source_value": "No specific 'Mediation authority' mentioned",
+     "note": "The Act does not explicitly mention a 'Mediation authority'"
+    },
+    {
+     "field": "what",
+     "type": "wrong",
+     "card_value": "must conduct mediation within a specified time and manner",
+     "source_value": "Regulations may provide for time within which, and the manner in which, mediation may be conducted",
+     "note": "The card implies a requirement, but the Act states it as a possibility for regulations"
+    }
+   ]
+  },
+  "obligation.mediator_must_conduct_mediation": {
+   "concept_id": "obligation.mediator_must_conduct_mediation",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.mediator_must_disclose_circumstances_which_may_give_rise_to_": {
+   "concept_id": "obligation.mediator_must_disclose_circumstances_which_may_give_rise_to_",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.mediator_must_disclose_personal_professional_or_financial_in": {
+   "concept_id": "obligation.mediator_must_disclose_personal_professional_or_financial_in",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.mediator_must_disclose_such_other_facts_as_may_be_specified_": {
+   "concept_id": "obligation.mediator_must_disclose_such_other_facts_as_may_be_specified_",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "conditions",
+     "type": "wrong",
+     "card_value": "personal, professional or financial interest in the outcome of the consumer dispute, circumstances which may give rise to a justifiable doubt as to his independence or impartiality",
+     "source_value": "none",
+     "note": "Conditions listed are actually part of the disclosure duties, not conditions for disclosing other facts"
+    },
+    {
+     "field": "limitations",
+     "type": "wrong",
+     "card_value": "personal, professional or financial interest in the outcome of the consumer dispute, circumstances which may give rise to a justifiable doubt as to his independence or impartiality",
+     "source_value": "none",
+     "note": "Limitations listed are actually part of the disclosure duties, not limitations for disclosing other facts"
+    }
+   ]
+  },
+  "obligation.mediator_must_prepare_a_settlement_report_and_forward_the_si": {
+   "concept_id": "obligation.mediator_must_prepare_a_settlement_report_and_forward_the_si",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.mediator_nominated_by_the_commission_shall_have_regard_to_th": {
+   "concept_id": "obligation.mediator_nominated_by_the_commission_shall_have_regard_to_th",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.mediator_shall_prepare_his_report_and_submit_the_same_to_the": {
+   "concept_id": "obligation.mediator_shall_prepare_his_report_and_submit_the_same_to_the",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.mediators_must_disclose_facts": {
+   "concept_id": "obligation.mediators_must_disclose_facts",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.national_commission_and_the_state_commissions_shall_furnish_": {
+   "concept_id": "obligation.national_commission_and_the_state_commissions_shall_furnish_",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.national_commission_may_declare_terms_of_contract_null_and_v": {
+   "concept_id": "obligation.national_commission_may_declare_terms_of_contract_null_and_v",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.national_commission_may_transfer_any_complaint": {
+   "concept_id": "obligation.national_commission_may_transfer_any_complaint",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.national_commission_must_call_for_records_and_pass_appropria": {
+   "concept_id": "obligation.national_commission_must_call_for_records_and_pass_appropria",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "limitations",
+     "type": "wrong",
+     "card_value": "Central Government prescribed value",
+     "source_value": "where the Central Government deems it necessary so to do, it may prescribe such other value, as it deems fit",
+     "note": "The card simplifies the condition to a fixed phrase, while the Act provides more context and conditions for the Central Government's prescription."
+    }
+   ]
+  },
+  "obligation.national_commission_must_dispose_of_complaints": {
+   "concept_id": "obligation.national_commission_must_dispose_of_complaints",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.national_commission_must_entertain_complaints_and_appeals": {
+   "concept_id": "obligation.national_commission_must_entertain_complaints_and_appeals",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.national_commission_must_formulate_and_hear_appeal_on_substa": {
+   "concept_id": "obligation.national_commission_must_formulate_and_hear_appeal_on_substa",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.national_commission_must_function_at_specified_locations": {
+   "concept_id": "obligation.national_commission_must_function_at_specified_locations",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.national_commission_must_hear_appeal": {
+   "concept_id": "obligation.national_commission_must_hear_appeal",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.national_commission_must_obtain_previous_approval_of_the_cen": {
+   "concept_id": "obligation.national_commission_must_obtain_previous_approval_of_the_cen",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "what",
+     "type": "wrong",
+     "card_value": "must obtain previous approval of the Central Government",
+     "source_value": "may, with the previous approval of the Central Government",
+     "note": "The card incorrectly states 'must' instead of 'may'."
+    }
+   ]
+  },
+  "obligation.national_commission_or_state_commission_may_direct_any_indiv": {
+   "concept_id": "obligation.national_commission_or_state_commission_may_direct_any_indiv",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.national_commission_or_the_state_commission_or_the_district_": {
+   "concept_id": "obligation.national_commission_or_the_state_commission_or_the_district_",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.national_commission_shall_investigate_into_any_allegations_a": {
+   "concept_id": "obligation.national_commission_shall_investigate_into_any_allegations_a",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "limitations",
+     "type": "hallucination_risk",
+     "card_value": "without interfering with their quasi-judicial freedom",
+     "source_value": "without interfering with their quasi-judicial freedom",
+     "note": "The card mentions this limitation, but it applies to the overall administrative control, not just the investigation."
+    }
+   ]
+  },
+  "obligation.national_commission_shall_issue_instructions_regarding_adopt": {
+   "concept_id": "obligation.national_commission_shall_issue_instructions_regarding_adopt",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "limitations",
+     "type": "hallucination_risk",
+     "card_value": "without interfering with their quasi-judicial freedom",
+     "source_value": "without interfering with their quasi-judicial freedom",
+     "note": "The card mentions this limitation, but it applies to the overall administrative control, not just the issuance of instructions."
+    }
+   ]
+  },
+  "obligation.national_commission_shall_lay_down_adequate_standards": {
+   "concept_id": "obligation.national_commission_shall_lay_down_adequate_standards",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.national_commission_shall_monitor_performance_of_the_state_c": {
+   "concept_id": "obligation.national_commission_shall_monitor_performance_of_the_state_c",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.national_commission_shall_oversee_the_functioning_of_the_sta": {
+   "concept_id": "obligation.national_commission_shall_oversee_the_functioning_of_the_sta",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.national_commission_shall_review_any_of_the_order_passed_by_": {
+   "concept_id": "obligation.national_commission_shall_review_any_of_the_order_passed_by_",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.officers_and_other_employees_of_the_district_commission_disc": {
+   "concept_id": "obligation.officers_and_other_employees_of_the_district_commission_disc",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.officers_and_other_employees_of_the_national_commission_disc": {
+   "concept_id": "obligation.officers_and_other_employees_of_the_national_commission_disc",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.officers_and_other_employees_of_the_state_commission_dischar": {
+   "concept_id": "obligation.officers_and_other_employees_of_the_state_commission_dischar",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "what",
+     "type": "wrong",
+     "card_value": "discharge their functions under the general superintendence of the President",
+     "source_value": "discharge their functions under the general superintendence of the President of the State Commission",
+     "note": "Missing 'of the State Commission' in card value"
+    }
+   ]
+  },
+  "obligation.opposite_party_must_give_their_version_of_the_case": {
+   "concept_id": "obligation.opposite_party_must_give_their_version_of_the_case",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.other_member_shall_sign_the_order": {
+   "concept_id": "obligation.other_member_shall_sign_the_order",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.parties_to_a_consumer_dispute_or_their_authorised_representa": {
+   "concept_id": "obligation.parties_to_a_consumer_dispute_or_their_authorised_representa",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "conditions",
+     "type": "wrong",
+     "card_value": "an agreement is reached between the parties with respect to all or some of the issues involved in the consumer dispute",
+     "source_value": "an agreement is reached between the parties with respect to all of the issues involved in the consumer dispute or with respect to only some of the issues",
+     "note": "Card value does not fully capture the source value's 'all of the issues' and 'only some of the issues' distinction"
+    },
+    {
+     "field": "limitations",
+     "type": "wrong",
+     "card_value": "an agreement is reached between the parties with respect to all or some of the issues involved in the consumer dispute",
+     "source_value": "None",
+     "note": "Limitations field is incorrectly populated with a condition"
+    }
+   ]
+  },
+  "obligation.party_serving_the_notice_must_serve_notices_by_registered_po": {
+   "concept_id": "obligation.party_serving_the_notice_must_serve_notices_by_registered_po",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.party_to_the_contract_must_accept_early_repayment_of_debts": {
+   "concept_id": "obligation.party_to_the_contract_must_accept_early_repayment_of_debts",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "what",
+     "type": "wrong",
+     "card_value": "must accept early repayment of debts",
+     "source_value": "refusing to accept early repayment of debts on payment of applicable penalty",
+     "note": "The card states a positive obligation, while the Act describes a term that would make a contract unfair if it refuses early repayment."
+    }
+   ]
+  },
+  "obligation.party_to_the_contract_must_not_assign_contract_without_consu": {
+   "concept_id": "obligation.party_to_the_contract_must_not_assign_contract_without_consu",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.party_to_the_contract_must_not_impose_disproportionate_penal": {
+   "concept_id": "obligation.party_to_the_contract_must_not_impose_disproportionate_penal",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.party_to_the_contract_must_not_impose_unreasonable_charges_o": {
+   "concept_id": "obligation.party_to_the_contract_must_not_impose_unreasonable_charges_o",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.party_to_the_contract_must_not_require_excessive_security_de": {
+   "concept_id": "obligation.party_to_the_contract_must_not_require_excessive_security_de",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.party_to_the_contract_must_not_terminate_contract_unilateral": {
+   "concept_id": "obligation.party_to_the_contract_must_not_terminate_contract_unilateral",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.person_must_prove_publication_in_ordinary_course_of_business": {
+   "concept_id": "obligation.person_must_prove_publication_in_ordinary_course_of_business",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.person_seizing_the_documents_must_return_seized_documents": {
+   "concept_id": "obligation.person_seizing_the_documents_must_return_seized_documents",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.president_and_members_of_the_district_commission_must_conduc": {
+   "concept_id": "obligation.president_and_members_of_the_district_commission_must_conduc",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.president_and_the_member_who_conducted_the_proceeding_shall_": {
+   "concept_id": "obligation.president_and_the_member_who_conducted_the_proceeding_shall_",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.president_must_constitute_a_bench": {
+   "concept_id": "obligation.president_must_constitute_a_bench",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.president_of_the_national_commission_must_constitute_a_bench": {
+   "concept_id": "obligation.president_of_the_national_commission_must_constitute_a_bench",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.president_of_the_national_commission_must_constitute_a_monit": {
+   "concept_id": "obligation.president_of_the_national_commission_must_constitute_a_monit",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.president_or_other_members_must_give_opinion_on_the_referred": {
+   "concept_id": "obligation.president_or_other_members_must_give_opinion_on_the_referred",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.product_manufacturer_must_provide_adequate_instructions_and_": {
+   "concept_id": "obligation.product_manufacturer_must_provide_adequate_instructions_and_",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.product_manufacturer_or_product_seller_must_compensate_for_h": {
+   "concept_id": "obligation.product_manufacturer_or_product_seller_must_compensate_for_h",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.product_manufacturer_shall_be_liable_in_a_product_liability_": {
+   "concept_id": "obligation.product_manufacturer_shall_be_liable_in_a_product_liability_",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.product_seller_must_exercise_reasonable_care_in_assembling_i": {
+   "concept_id": "obligation.product_seller_must_exercise_reasonable_care_in_assembling_i",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.product_seller_must_pass_on_warnings_or_instructions_of_the_": {
+   "concept_id": "obligation.product_seller_must_pass_on_warnings_or_instructions_of_the_",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "conditions",
+     "type": "wrong",
+     "card_value": [
+      "the product has been sold by him",
+      "the identity of product manufacturer of such product is not known",
+      "if known, the service of notice or process or warrant cannot be effected on him or he is not subject to the law which is in force in India or the order, if any, passed or to be passed cannot be enforced against him"
+     ],
+     "source_value": [
+      "he failed to exercise reasonable care in assembling, inspecting or maintaining such product or he did not pass on the warnings or instructions of the product manufacturer regarding the dangers involved or proper usage of the product while selling such product and such failure was the proximate cause of the harm"
+     ],
+     "note": "The card conditions do not match the source conditions for product seller liability."
+    }
+   ]
+  },
+  "obligation.product_service_provider_must_conform_to_express_warranty_or": {
+   "concept_id": "obligation.product_service_provider_must_conform_to_express_warranty_or",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.product_service_provider_must_issue_adequate_instructions_or": {
+   "concept_id": "obligation.product_service_provider_must_issue_adequate_instructions_or",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.product_service_provider_must_not_withhold_information": {
+   "concept_id": "obligation.product_service_provider_must_not_withhold_information",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.product_service_provider_must_provide_service_of_quality_req": {
+   "concept_id": "obligation.product_service_provider_must_provide_service_of_quality_req",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "limitations",
+     "type": "hallucination_risk",
+     "card_value": "[\"service is provided under any law or contract\", \"service is provided under any law or contract\", \"service is provided under any law or contract\", \"service is provided under any law or contract\"]",
+     "source_value": "the service provided by him was faulty or imperfect or deficient or inadequate in quality, nature or manner of performance which is required to be provided by or under any law for the time being in force, or pursuant to any contract or otherwise",
+     "note": "The card's limitations are repetitive and do not accurately reflect the source text."
+    }
+   ]
+  },
+  "obligation.publisher_must_discontinue_or_modify_advertisement_as_direct": {
+   "concept_id": "obligation.publisher_must_discontinue_or_modify_advertisement_as_direct",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "who",
+     "type": "wrong",
+     "card_value": "Publisher",
+     "source_value": "concerned trader or manufacturer or endorser or advertiser or publisher",
+     "note": "The source text lists multiple entities that may be subject to the order, not just the publisher."
+    }
+   ]
+  },
+  "obligation.regulations_must_specify_terms_for_mediator_empanelment": {
+   "concept_id": "obligation.regulations_must_specify_terms_for_mediator_empanelment",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.regulator_must_specify_conditions_for_re_empanelment_of_medi": {
+   "concept_id": "obligation.regulator_must_specify_conditions_for_re_empanelment_of_medi",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "who",
+     "type": "wrong",
+     "card_value": "Regulator",
+     "source_value": "regulations",
+     "note": "The Act specifies 'regulations' not 'Regulator'."
+    }
+   ]
+  },
+  "obligation.retired_judge_of_a_high_court_or_a_person_who_has_been_a_jud": {
+   "concept_id": "obligation.retired_judge_of_a_high_court_or_a_person_who_has_been_a_jud",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.senior_most_member_must_preside_over_the_bench": {
+   "concept_id": "obligation.senior_most_member_must_preside_over_the_bench",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.senior_most_member_of_the_national_commission_must_perform_t": {
+   "concept_id": "obligation.senior_most_member_of_the_national_commission_must_perform_t",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "conditions",
+     "type": "missing",
+     "card_value": "office of President is vacant or President is unable to perform duties",
+     "source_value": "When the office of President of the National Commission is vacant or a person occupying such office is, by reason of absence or otherwise, unable to perform the duties of his office",
+     "note": "The card does not fully capture the conditions specified in the Act."
+    },
+    {
+     "field": "limitations",
+     "type": "wrong",
+     "card_value": "where a retired Judge of a High Court or a person who has been a Judicial Member is a member of the National Commission",
+     "source_value": "Provided that where a retired Judge of a High Court or a person who has been a Judicial Member is a member of the National Commission, such member or where the number of such members is more than one, the senior-most person amongst such members, shall preside over the National Commission in the absence of President of that Commission",
+     "note": "The card misinterprets the provision as a limitation rather than an exception to the general rule."
+    }
+   ]
+  },
+  "obligation.state_commission_may_declare_unfair_terms_of_contract_null_a": {
+   "concept_id": "obligation.state_commission_may_declare_unfair_terms_of_contract_null_a",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.state_commission_may_transfer_any_complaint_pending_before_a": {
+   "concept_id": "obligation.state_commission_may_transfer_any_complaint_pending_before_a",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.state_commission_must_authenticate_goods_sampled": {
+   "concept_id": "obligation.state_commission_must_authenticate_goods_sampled",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "what",
+     "type": "wrong",
+     "card_value": "must authenticate goods sampled",
+     "source_value": "the manner of authentication of goods sampled by the State Commission and the District Commission under clause (c) of sub-section (2) of section 38",
+     "note": "The card incorrectly states that the State Commission 'must authenticate goods sampled', while the source text actually discusses the rules that may provide for the manner of authentication."
+    }
+   ]
+  },
+  "obligation.state_commission_must_dispose_of_complaints": {
+   "concept_id": "obligation.state_commission_must_dispose_of_complaints",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.state_commission_must_entertain_complaints_where_the_value_o": {
+   "concept_id": "obligation.state_commission_must_entertain_complaints_where_the_value_o",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.state_commission_must_furnish_information_to_the_state_gover": {
+   "concept_id": "obligation.state_commission_must_furnish_information_to_the_state_gover",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.state_commission_or_national_commission_must_hear_appeal_exp": {
+   "concept_id": "obligation.state_commission_or_national_commission_must_hear_appeal_exp",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.state_commission_or_national_commission_must_impose_costs_fo": {
+   "concept_id": "obligation.state_commission_or_national_commission_must_impose_costs_fo",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.state_commission_or_national_commission_must_make_orders_on_": {
+   "concept_id": "obligation.state_commission_or_national_commission_must_make_orders_on_",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.state_commission_or_national_commission_must_not_grant_adjou": {
+   "concept_id": "obligation.state_commission_or_national_commission_must_not_grant_adjou",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.state_commission_or_national_commission_must_record_reasons_": {
+   "concept_id": "obligation.state_commission_or_national_commission_must_record_reasons_",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.state_commission_shall_furnish_any_information_including_pen": {
+   "concept_id": "obligation.state_commission_shall_furnish_any_information_including_pen",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.state_commission_shall_have_administrative_control": {
+   "concept_id": "obligation.state_commission_shall_have_administrative_control",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.state_commission_shall_review_any_of_the_order_passed_by_it": {
+   "concept_id": "obligation.state_commission_shall_review_any_of_the_order_passed_by_it",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.state_council_render_advice_on_promotion_and_protection_of_c": {
+   "concept_id": "obligation.state_council_render_advice_on_promotion_and_protection_of_c",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.state_council_shall_meet": {
+   "concept_id": "obligation.state_council_shall_meet",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.state_council_shall_observe_prescribed_procedure_in_regard_t": {
+   "concept_id": "obligation.state_council_shall_observe_prescribed_procedure_in_regard_t",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.state_government_make_rules_to_provide_for_salaries_and_allo": {
+   "concept_id": "obligation.state_government_make_rules_to_provide_for_salaries_and_allo",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "content.who",
+     "type": "wrong",
+     "card_value": "State Government",
+     "source_value": "State Government (for District Commission) and State Government (for State Commission)",
+     "note": "The card should reflect that the State Government makes rules for both District and State Commissions, not just one."
+    }
+   ]
+  },
+  "obligation.state_government_may_direct_any_other_district_commission_or": {
+   "concept_id": "obligation.state_government_may_direct_any_other_district_commission_or",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "content.what",
+     "type": "wrong",
+     "card_value": "may direct any other District Commission or the President or a member of any other District Commission to exercise jurisdiction or powers",
+     "source_value": "may direct any other District Commission to exercise the jurisdiction or the President or a member of any other District Commission to exercise the powers and discharge the functions",
+     "note": "The card should reflect the correct actions that the State Government may direct."
+    }
+   ]
+  },
+  "obligation.state_government_must_consult_central_government": {
+   "concept_id": "obligation.state_government_must_consult_central_government",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "content.what",
+     "type": "wrong",
+     "card_value": "must consult Central Government",
+     "source_value": "shall consist of not less than four or not more than such number of members as may be prescribed in consultation with the Central Government",
+     "note": "The card should reflect that the consultation is for prescribing the number of members, not a general requirement for the State Government to consult the Central Government."
+    }
+   ]
+  },
+  "obligation.state_government_must_consult_state_commission": {
+   "concept_id": "obligation.state_government_must_consult_state_commission",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.state_government_must_notify_in_official_gazette": {
+   "concept_id": "obligation.state_government_must_notify_in_official_gazette",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.state_government_must_prescribe_interests_for_non_official_m": {
+   "concept_id": "obligation.state_government_must_prescribe_interests_for_non_official_m",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.state_government_shall_establish_a_district_consumer_dispute": {
+   "concept_id": "obligation.state_government_shall_establish_a_district_consumer_dispute",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.state_government_shall_establish_a_district_consumer_protect": {
+   "concept_id": "obligation.state_government_shall_establish_a_district_consumer_protect",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.state_government_shall_establish_a_state_consumer_disputes_r": {
+   "concept_id": "obligation.state_government_shall_establish_a_state_consumer_disputes_r",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.state_government_shall_establish_a_state_consumer_protection": {
+   "concept_id": "obligation.state_government_shall_establish_a_state_consumer_protection",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.state_government_shall_lay_rules_before_the_state_legislatur": {
+   "concept_id": "obligation.state_government_shall_lay_rules_before_the_state_legislatur",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.state_governments_must_conform_to_model_rules": {
+   "concept_id": "obligation.state_governments_must_conform_to_model_rules",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.the_other_member_must_give_his_opinion_on_such_point_or_poin": {
+   "concept_id": "obligation.the_other_member_must_give_his_opinion_on_such_point_or_poin",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.trader_must_discontinue_or_modify_advertisement_as_directed": {
+   "concept_id": "obligation.trader_must_discontinue_or_modify_advertisement_as_directed",
+   "verdict": "OK",
+   "issues": []
+  },
+  "obligation.trader_must_supply_goods_or_services_within_the_agreed_perio": {
+   "concept_id": "obligation.trader_must_supply_goods_or_services_within_the_agreed_perio",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "description",
+     "type": "hallucination_risk",
+     "card_value": "A trader must supply goods or services within the agreed period to avoid delay that may lead to a rise in price",
+     "source_value": "delay beyond the period agreed to by a trader in supply of such goods or in providing the services which has led or is likely to lead to rise in the price",
+     "note": "The card implies a mandatory obligation, while the Act describes a 'restrictive trade practice' without explicitly stating an obligation."
+    }
+   ]
+  }
+ },
+ "rights": {
+  "right.right_to_access_to_variety_of_goods": {
+   "concept_id": "right.right_to_access_to_variety_of_goods",
+   "verdict": "OK",
+   "issues": []
+  },
+  "right.right_to_appeal": {
+   "concept_id": "right.right_to_appeal",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "conditions",
+     "type": "hallucination_risk",
+     "card_value": "the case involves a substantial question of law",
+     "source_value": "the National Commission is satisfied that the case involves a substantial question of law",
+     "note": "The card's wording could mislead about who decides on the substantial question of law"
+    },
+    {
+     "field": "limitations",
+     "type": "hallucination_risk",
+     "card_value": "no appeal shall be entertained unless fifty per cent of the amount ordered to be paid has been deposited",
+     "source_value": "no appeal by a person, who is required to pay any amount in terms of an order of the State Commission, shall be entertained by the National Commission unless the appellant has deposited fifty per cent. of that amount",
+     "note": "The card simplifies but slightly misrepresents the condition for entertaining an appeal"
+    },
+    {
+     "field": "exceptions",
+     "type": "hallucination_risk",
+     "card_value": "Save as otherwise expressly provided under this Act or by any other law for the time being in force",
+     "source_value": "Save as otherwise expressly provided under this Act or by any other law for the time being in force",
+     "note": "This is more of a general legal caveat than an exception specific to the right to appeal"
+    }
+   ]
+  },
+  "right.right_to_be_heard": {
+   "concept_id": "right.right_to_be_heard",
+   "verdict": "OK",
+   "issues": []
+  },
+  "right.right_to_compensation": {
+   "concept_id": "right.right_to_compensation",
+   "verdict": "OK",
+   "issues": []
+  },
+  "right.right_to_consumer_awareness": {
+   "concept_id": "right.right_to_consumer_awareness",
+   "verdict": "OK",
+   "issues": []
+  },
+  "right.right_to_demand_production_of_documents": {
+   "concept_id": "right.right_to_demand_production_of_documents",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "limitations",
+     "type": "wrong",
+     "card_value": "in connection with the audit of the Government accounts",
+     "source_value": "in connection with the audit of the Government accounts and, in particular, shall have the right to demand the production of books, accounts, connected vouchers and other documents and papers and to inspect any of the offices of the Central Authority",
+     "note": "The card's limitation is incomplete and misleading as it doesn't include the specific rights mentioned in the Act."
+    }
+   ]
+  },
+  "right.right_to_expedient_disposal_of_complaint": {
+   "concept_id": "right.right_to_expedient_disposal_of_complaint",
+   "verdict": "OK"
+  },
+  "right.right_to_expedient_hearing_of_appeal": {
+   "concept_id": "right.right_to_expedient_hearing_of_appeal",
+   "verdict": "OK"
+  },
+  "right.right_to_fair_contract_terms": {
+   "concept_id": "right.right_to_fair_contract_terms",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "exceptions",
+     "type": "hallucination_risk",
+     "card_value": "requiring manifestly excessive security deposits, imposing any penalty on the consumer for the breach of contract, refusing to accept early repayment of debts, entitling a party to the contract to terminate such contract unilaterally without reasonable cause, permitting or has the effect of permitting one party to assign the contract to the detriment of the other party who is a consumer without his consent, imposing on the consumer any unreasonable charge obligation or condition",
+     "source_value": "unfair contract terms as defined in the Act",
+     "note": "The exceptions listed in the card are actually examples of unfair contract terms, not exceptions to the right to fair contract terms."
+    }
+   ]
+  },
+  "right.right_to_file_a_late_complaint": {
+   "concept_id": "right.right_to_file_a_late_complaint",
+   "verdict": "OK"
+  },
+  "right.right_to_file_complaint": {
+   "concept_id": "right.right_to_file_complaint",
+   "verdict": "OK",
+   "issues": []
+  },
+  "right.right_to_information": {
+   "concept_id": "right.right_to_information",
+   "verdict": "OK",
+   "issues": []
+  },
+  "right.right_to_non_variation_of_service_terms": {
+   "concept_id": "right.right_to_non_variation_of_service_terms",
+   "verdict": "OK",
+   "issues": []
+  },
+  "right.right_to_protection": {
+   "concept_id": "right.right_to_protection",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "conditions",
+     "type": "missing",
+     "card_value": "Not specified in the Act",
+     "source_value": "promotion and protection of the consumers’ rights under this Act",
+     "note": "The Act does specify the condition for protection of consumers' rights"
+    }
+   ]
+  },
+  "right.right_to_protection_against_hazardous_goods": {
+   "concept_id": "right.right_to_protection_against_hazardous_goods",
+   "verdict": "OK",
+   "issues": []
+  },
+  "right.right_to_protection_from_unfair_contract_terms": {
+   "concept_id": "right.right_to_protection_from_unfair_contract_terms",
+   "verdict": "OK",
+   "issues": []
+  },
+  "right.right_to_redressal": {
+   "concept_id": "right.right_to_redressal",
+   "verdict": "OK",
+   "issues": []
+  },
+  "right.right_to_refund": {
+   "concept_id": "right.right_to_refund",
+   "verdict": "OK",
+   "issues": []
+  },
+  "right.right_to_reimbursement": {
+   "concept_id": "right.right_to_reimbursement",
+   "verdict": "OK",
+   "issues": []
+  },
+  "right.right_to_relief": {
+   "concept_id": "right.right_to_relief",
+   "verdict": "OK",
+   "issues": []
+  },
+  "right.right_to_replacement": {
+   "concept_id": "right.right_to_replacement",
+   "verdict": "OK",
+   "issues": []
+  },
+  "right.right_to_return_of_seized_or_produced_documents": {
+   "concept_id": "right.right_to_return_of_seized_or_produced_documents",
+   "verdict": "OK",
+   "issues": []
+  },
+  "right.right_to_review": {
+   "concept_id": "right.right_to_review",
+   "verdict": "OK",
+   "issues": []
+  },
+  "right.right_to_safety": {
+   "concept_id": "right.right_to_safety",
+   "verdict": "OK",
+   "issues": []
+  }
+ },
+ "exceptions": {
+  "exception.a_bench_may_be_constituted_by_the_president_with_one_or_more": {
+   "concept_id": "exception.a_bench_may_be_constituted_by_the_president_with_one_or_more",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.a_complaint_may_be_entertained_after_the_period_specified_in": {
+   "concept_id": "exception.a_complaint_may_be_entertained_after_the_period_specified_in",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.a_complaint_shall_not_be_rejected_unless_an_opportunity_of_b": {
+   "concept_id": "exception.a_complaint_shall_not_be_rejected_unless_an_opportunity_of_b",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.adjournment_may_be_granted_if_sufficient_cause_is_shown": {
+   "concept_id": "exception.adjournment_may_be_granted_if_sufficient_cause_is_shown",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.an_appeal_may_lie_before_a_court_as_provided_in_sub_section_": {
+   "concept_id": "exception.an_appeal_may_lie_before_a_court_as_provided_in_sub_section_",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "exception",
+     "type": "wrong",
+     "card_value": "An appeal may lie before a court as provided in sub-section (1)",
+     "source_value": "Except as provided in sub-section (1), no appeal shall lie before any court",
+     "note": "The card inverts the meaning of the source text."
+    }
+   ]
+  },
+  "exception.analysis_or_tests_shall_apply_mutatis_mutandis": {
+   "concept_id": "exception.analysis_or_tests_shall_apply_mutatis_mutandis",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "general_rule",
+     "type": "hallucination_risk",
+     "card_value": "In the case of articles subject to speedy or natural decay, the Director-General or such other officer may dispose of the article in such manner as may be prescribed, without referring it for analysis or test",
+     "source_value": "No such provision in the given source",
+     "note": "The card introduces a non-existent general rule"
+    }
+   ]
+  },
+  "exception.central_government_may_prescribe_a_different_value": {
+   "concept_id": "exception.central_government_may_prescribe_a_different_value",
+   "verdict": "OK"
+  },
+  "exception.does_not_apply_if_the_central_government_otherwise_expressly": {
+   "concept_id": "exception.does_not_apply_if_the_central_government_otherwise_expressly",
+   "verdict": "OK"
+  },
+  "exception.does_not_apply_to_persons_who_commit_the_same_or_similar_off": {
+   "concept_id": "exception.does_not_apply_to_persons_who_commit_the_same_or_similar_off",
+   "verdict": "OK"
+  },
+  "exception.does_not_apply_without_permission_of_the_district_commission": {
+   "concept_id": "exception.does_not_apply_without_permission_of_the_district_commission",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "general_rule",
+     "type": "hallucination_risk",
+     "card_value": "A complaint can be instituted in a District Commission where any of the opposite parties resides or carries on business",
+     "source_value": "More specific conditions are given in the source",
+     "note": "The card simplifies the conditions for instituting a complaint"
+    }
+   ]
+  },
+  "exception.does_not_apply_without_permission_of_the_state_commission_in": {
+   "concept_id": "exception.does_not_apply_without_permission_of_the_state_commission_in",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "exception",
+     "type": "wrong",
+     "card_value": "Does not apply without permission of the State Commission in case of actual and voluntary residence or business of opposite party",
+     "source_value": "the permission of the State Commission is given in case any of the opposite parties, where there are more than one, at the time of the institution of the complaint, actually and voluntarily resides, or carries on business or has a branch office or personally works for gain",
+     "note": "The card misrepresents the condition for requiring State Commission permission"
+    }
+   ]
+  },
+  "exception.does_not_include_a_laboratory_or_an_organisation_that_is_not": {
+   "concept_id": "exception.does_not_include_a_laboratory_or_an_organisation_that_is_not",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "exception",
+     "type": "wrong",
+     "card_value": "Does not include a laboratory or an organisation that is not recognised by a State Government",
+     "source_value": "recognised by a State Government, subject to such guidelines as may be issued by the Central Government in this behalf",
+     "note": "The card incorrectly implies that recognition by a State Government is the only condition, omitting recognition by the Central Government and other conditions"
+    }
+   ]
+  },
+  "exception.does_not_include_a_person_who_acts_only_in_a_financial_capac": {
+   "concept_id": "exception.does_not_include_a_person_who_acts_only_in_a_financial_capac",
+   "verdict": "OK"
+  },
+  "exception.does_not_include_a_person_who_leases_a_product_without_havin": {
+   "concept_id": "exception.does_not_include_a_person_who_leases_a_product_without_havin",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "conditions",
+     "type": "hallucination_risk",
+     "card_value": "acts only in a financial capacity with respect to the sale of the product, is not a manufacturer, wholesaler, distributor, retailer, direct seller or an electronic service provider",
+     "source_value": "a person who— (I) acts only in a financial capacity with respect to the sale of the product; (II) is not a manufacturer, wholesaler, distributor, retailer, direct seller or an electronic service provider; (III) leases a product, without having a reasonable opportunity to inspect and discover defects in the product",
+     "note": "The card lists conditions out of order and could mislead about the relationship between them"
+    }
+   ]
+  },
+  "exception.does_not_include_a_person_who_obtains_goods_for_resale_or_co": {
+   "concept_id": "exception.does_not_include_a_person_who_obtains_goods_for_resale_or_co",
+   "verdict": "OK"
+  },
+  "exception.does_not_include_a_person_who_obtains_goods_for_resale_or_fo": {
+   "concept_id": "exception.does_not_include_a_person_who_obtains_goods_for_resale_or_fo",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.does_not_include_a_provider_of_professional_services_in_any_": {
+   "concept_id": "exception.does_not_include_a_provider_of_professional_services_in_any_",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.does_not_include_harm_caused_to_a_product_itself_or_any_dama": {
+   "concept_id": "exception.does_not_include_harm_caused_to_a_product_itself_or_any_dama",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.does_not_include_human_tissues_blood_blood_products_and_orga": {
+   "concept_id": "exception.does_not_include_human_tissues_blood_blood_products_and_orga",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.does_not_include_the_rendering_of_any_service_free_of_charge": {
+   "concept_id": "exception.does_not_include_the_rendering_of_any_service_free_of_charge",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.endorser_is_not_liable_to_a_penalty_if_he_has_exercised_due_": {
+   "concept_id": "exception.endorser_is_not_liable_to_a_penalty_if_he_has_exercised_due_",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.except_on_a_complaint_filed_by_the_central_authority_or_any_": {
+   "concept_id": "exception.except_on_a_complaint_filed_by_the_central_authority_or_any_",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.except_such_contest_lottery_game_of_chance_or_skill_as_may_b": {
+   "concept_id": "exception.except_such_contest_lottery_game_of_chance_or_skill_as_may_b",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.except_the_state_of_jammu_and_kashmir": {
+   "concept_id": "exception.except_the_state_of_jammu_and_kashmir",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "conditions",
+     "type": "missing",
+     "card_value": "Not specified in the Act",
+     "source_value": "except the State of Jammu and Kashmir",
+     "note": "The Act does specify the exception"
+    }
+   ]
+  },
+  "exception.if_the_product_was_misused_altered_or_modified_at_the_time_o": {
+   "concept_id": "exception.if_the_product_was_misused_altered_or_modified_at_the_time_o",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.may_entertain_an_appeal_after_the_expiry_of_the_said_period_": {
+   "concept_id": "exception.may_entertain_an_appeal_after_the_expiry_of_the_said_period_",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.no_act_or_proceeding_of_the_central_authority_shall_be_inval": {
+   "concept_id": "exception.no_act_or_proceeding_of_the_central_authority_shall_be_inval",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.no_adjournment_shall_ordinarily_be_granted": {
+   "concept_id": "exception.no_adjournment_shall_ordinarily_be_granted",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.no_appeal_from_order_under_section_81_1_pursuant_to_mediatio": {
+   "concept_id": "exception.no_appeal_from_order_under_section_81_1_pursuant_to_mediatio",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.no_appeal_unless_50_of_amount_deposited": {
+   "concept_id": "exception.no_appeal_unless_50_of_amount_deposited",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.no_proceedings_after_compounding_of_offence": {
+   "concept_id": "exception.no_proceedings_after_compounding_of_offence",
+   "verdict": "OK",
+   "conditions": [
+    {
+     "field": "general_rule",
+     "type": "correct",
+     "card_value": "Any offence punishable under sections 88 and 89 may, either before or after the institution of the prosecution, be compounded on payment of such amount as may be prescribed, subject to the leave of the court where a complaint has been filed under section 92 and to the maximum amount of the fine imposable",
+     "source_value": "Any offence punishable under sections 88 and 89 may, either before or after the institution of the prosecution, be compounded on payment of such amount as may be prescribed, subject to the leave of the court where a complaint has been filed under section 92 and to the maximum amount of the fine imposable",
+     "note": "The card correctly states the general rule for compounding an offence."
+    }
+   ]
+  },
+  "exception.no_such_order_shall_be_made_after_the_expiry_of_a_period_of_": {
+   "concept_id": "exception.no_such_order_shall_be_made_after_the_expiry_of_a_period_of_",
+   "verdict": "OK",
+   "conditions": [
+    {
+     "field": "general_rule",
+     "type": "correct",
+     "card_value": "The Central Government may make provisions to remove difficulties in giving effect to the provisions of this Act",
+     "source_value": "The Central Government may make provisions to remove difficulties in giving effect to the provisions of this Act",
+     "note": "The card correctly states the general rule for making orders to remove difficulties."
+    }
+   ]
+  },
+  "exception.notice_is_considered_served_even_if_acknowledgment_is_lost_m": {
+   "concept_id": "exception.notice_is_considered_served_even_if_acknowledgment_is_lost_m",
+   "verdict": "OK",
+   "conditions": [
+    {
+     "field": "general_rule",
+     "type": "correct",
+     "card_value": "Notice is considered served when acknowledgment is received or when notice was properly addressed, pre-paid and duly sent by registered post acknowledgment due, even if acknowledgment is lost or not received",
+     "source_value": "Notice is considered served when acknowledgment is received or when notice was properly addressed, pre-paid and duly sent by registered post acknowledgment due, even if acknowledgment is lost or not received",
+     "note": "The card correctly states the general rule for notice being considered served."
+    }
+   ]
+  },
+  "exception.proceedings_not_to_be_called_in_question_on_natural_justice_grounds": {
+   "concept_id": "exception.proceedings_not_to_be_called_in_question_on_natural_justice_grounds",
+   "verdict": "OK",
+   "conditions": [
+    {
+     "field": "general_rule",
+     "type": "correct",
+     "card_value": "Proceedings before the District Commission shall be conducted in accordance with the procedure laid down in sub-sections (1) and (2) of section 38",
+     "source_value": "Proceedings before the District Commission shall be conducted in accordance with the procedure laid down in sub-sections (1) and (2) of section 38",
+     "note": "The card correctly states the general rule for proceedings before the District Commission."
+    }
+   ]
+  },
+  "exception.product_manufacturer_not_liable_if_complainant_under_influen": {
+   "concept_id": "exception.product_manufacturer_not_liable_if_complainant_under_influen",
+   "verdict": "FLAG",
+   "conditions": [
+    {
+     "field": "general_rule",
+     "type": "wrong",
+     "card_value": "Product manufacturer not liable if complainant under influence of alcohol or prescription drug",
+     "source_value": "Product manufacturer not liable if complainant under influence of alcohol or prescription drug",
+     "note": "The card incorrectly states the exception for product manufacturer not being liable if the complainant was under the influence of alcohol or prescription drug."
+    }
+   ]
+  },
+  "exception.product_manufacturer_not_liable_if_necessary_warnings_given_": {
+   "concept_id": "exception.product_manufacturer_not_liable_if_necessary_warnings_given_",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.product_manufacturer_not_liable_if_product_meant_for_use_und": {
+   "concept_id": "exception.product_manufacturer_not_liable_if_product_meant_for_use_und",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.product_manufacturer_not_liable_if_product_purchased_by_empl": {
+   "concept_id": "exception.product_manufacturer_not_liable_if_product_purchased_by_empl",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.provided_that_the_central_government_may_frame_model_rules": {
+   "concept_id": "exception.provided_that_the_central_government_may_frame_model_rules",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "general_rule",
+     "type": "wrong",
+     "card_value": "The State Governments may, by notification, make rules for carrying out the provisions of this Act",
+     "source_value": "The State Governments may, by notification, make rules for carrying out the provisions of this Act: ",
+     "note": "missing part of the sentence"
+    }
+   ]
+  },
+  "exception.provided_that_the_opinion_shall_be_given_within_a_period_of_": {
+   "concept_id": "exception.provided_that_the_opinion_shall_be_given_within_a_period_of_",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.repeal_of_the_consumer_protection_act_1986": {
+   "concept_id": "exception.repeal_of_the_consumer_protection_act_1986",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.save_as_otherwise_expressly_provided_under_this_act_or_by_an": {
+   "concept_id": "exception.save_as_otherwise_expressly_provided_under_this_act_or_by_an",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.save_as_otherwise_provided": {
+   "concept_id": "exception.save_as_otherwise_provided",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "conditions",
+     "type": "wrong",
+     "card_value": "Save as otherwise provided, the offences under sub-section (1) shall be tried summarily by the District Commission or the State Commission or the National Commission, as the case may be",
+     "source_value": "as the case may be",
+     "note": "The card includes the general rule in the conditions field"
+    }
+   ]
+  },
+  "exception.shall_also_be_signed_by_the_other_member": {
+   "concept_id": "exception.shall_also_be_signed_by_the_other_member",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.shall_be_deemed_to_have_been_done_or_taken_under_the_corresp": {
+   "concept_id": "exception.shall_be_deemed_to_have_been_done_or_taken_under_the_corresp",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.shall_be_eligible_subject_to_such_conditions_as_may_be_speci": {
+   "concept_id": "exception.shall_be_eligible_subject_to_such_conditions_as_may_be_speci",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.shall_not_admit_a_complaint_unless_it_is_filed_within_two_ye": {
+   "concept_id": "exception.shall_not_admit_a_complaint_unless_it_is_filed_within_two_ye",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.shall_not_be_liable_for_failure_to_instruct_or_warn_about_a_": {
+   "concept_id": "exception.shall_not_be_liable_for_failure_to_instruct_or_warn_about_a_",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.shall_not_derogate_from_the_provisions_of_any_other_law_for_": {
+   "concept_id": "exception.shall_not_derogate_from_the_provisions_of_any_other_law_for_",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.state_commission_may_entertain_appeal_after_45_days": {
+   "concept_id": "exception.state_commission_may_entertain_appeal_after_45_days",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.subject_to_the_general_control_supervision_and_direction_of_": {
+   "concept_id": "exception.subject_to_the_general_control_supervision_and_direction_of_",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.subject_to_the_modification_that_every_reference_therein_to_": {
+   "concept_id": "exception.subject_to_the_modification_that_every_reference_therein_to_",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.subject_to_the_modification_that_every_reference_to_the_decr": {
+   "concept_id": "exception.subject_to_the_modification_that_every_reference_to_the_decr",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "conditions",
+     "type": "wrong",
+     "card_value": "as far as may be applicable",
+     "source_value": "as far as may be",
+     "note": "inaccurate representation of the source text"
+    }
+   ]
+  },
+  "exception.such_defence_is_not_available_if_the_person_had_previous_kno": {
+   "concept_id": "exception.such_defence_is_not_available_if_the_person_had_previous_kno",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.the_central_authority_may_impose_a_higher_penalty_for_subseq": {
+   "concept_id": "exception.the_central_authority_may_impose_a_higher_penalty_for_subseq",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "general_rule",
+     "type": "missing",
+     "card_value": "ten lakh rupees",
+     "source_value": "ten lakh rupees for false or misleading advertisement by a manufacturer or an endorser",
+     "note": "missing context for the penalty amount"
+    },
+    {
+     "field": "exception",
+     "type": "hallucination_risk",
+     "card_value": "The Central Authority may impose a higher penalty for subsequent contraventions",
+     "source_value": "the Central Authority may, for every subsequent contravention by a manufacturer or endorser, impose a penalty, which may extend to fifty lakh rupees",
+     "note": "inaccurate representation of the penalty for subsequent contraventions"
+    }
+   ]
+  },
+  "exception.the_central_authority_may_prohibit_such_endorser_from_making": {
+   "concept_id": "exception.the_central_authority_may_prohibit_such_endorser_from_making",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.the_central_authority_shall_be_given_an_opportunity_to_expre": {
+   "concept_id": "exception.the_central_authority_shall_be_given_an_opportunity_to_expre",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.the_central_authority_shall_give_the_person_an_opportunity_o": {
+   "concept_id": "exception.the_central_authority_shall_give_the_person_an_opportunity_o",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.the_central_government_can_prescribe_a_different_value": {
+   "concept_id": "exception.the_central_government_can_prescribe_a_different_value",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.the_central_government_may_establish_regional_benches_of_the": {
+   "concept_id": "exception.the_central_government_may_establish_regional_benches_of_the",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.the_central_government_may_prescribe_a_different_value_as_it": {
+   "concept_id": "exception.the_central_government_may_prescribe_a_different_value_as_it",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.the_chief_commissioner_may_delegate_such_powers_to_any_commi": {
+   "concept_id": "exception.the_chief_commissioner_may_delegate_such_powers_to_any_commi",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.the_complaint_under_this_sub_section_may_be_filed_electronic": {
+   "concept_id": "exception.the_complaint_under_this_sub_section_may_be_filed_electronic",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.the_district_commission_may_allow_hearing_or_examination_of_": {
+   "concept_id": "exception.the_district_commission_may_allow_hearing_or_examination_of_",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.the_mention_of_particular_matters_in_sub_section_2_shall_not": {
+   "concept_id": "exception.the_mention_of_particular_matters_in_sub_section_2_shall_not",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.the_minimum_amount_of_sum_so_payable_shall_not_be_less_than_": {
+   "concept_id": "exception.the_minimum_amount_of_sum_so_payable_shall_not_be_less_than_",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.the_other_member_shall_give_his_opinion_on_such_point_or_poi": {
+   "concept_id": "exception.the_other_member_shall_give_his_opinion_on_such_point_or_poi",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.the_president_and_every_other_member_appointed_immediately_b": {
+   "concept_id": "exception.the_president_and_every_other_member_appointed_immediately_b",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.the_president_and_members_shall_hold_office_for_a_term_not_e": {
+   "concept_id": "exception.the_president_and_members_shall_hold_office_for_a_term_not_e",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "exception",
+     "type": "wrong",
+     "card_value": "The President and members shall hold office for a term not exceeding five years and be eligible for re-appointment",
+     "source_value": "the President and members of the National Commission shall hold office for such term as specified in the rules made by the Central Government but not exceeding five years from the date on which he enters upon his office and shall be eligible for re-appointment",
+     "note": "The card does not accurately reflect the source text, which states that the term is specified in the rules made by the Central Government."
+    }
+   ]
+  },
+  "exception.the_state_government_may_establish_more_than_one_district_co": {
+   "concept_id": "exception.the_state_government_may_establish_more_than_one_district_co",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.the_state_government_may_establish_regional_benches_of_the_s": {
+   "concept_id": "exception.the_state_government_may_establish_regional_benches_of_the_s",
+   "verdict": "OK",
+   "issues": []
+  },
+  "exception.unless_a_retired_judge_of_a_high_court_or_a_person_who_has_b": {
+   "concept_id": "exception.unless_a_retired_judge_of_a_high_court_or_a_person_who_has_b",
+   "verdict": "OK",
+   "issues": []
+  }
+ },
+ "evidence": {
+  "evidence.accounts_audit_report": {
+   "concept_id": "evidence.accounts_audit_report",
+   "verdict": "OK",
+   "issues": []
+  },
+  "evidence.accounts_records": {
+   "concept_id": "evidence.accounts_records",
+   "verdict": "OK",
+   "issues": []
+  },
+  "evidence.acknowledgment_receipt": {
+   "concept_id": "evidence.acknowledgment_receipt",
+   "verdict": "OK",
+   "issues": []
+  },
+  "evidence.affidavit": {
+   "concept_id": "evidence.affidavit",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "mandatory",
+     "type": "wrong",
+     "card_value": "true",
+     "source_value": "not explicitly stated as mandatory",
+     "note": "The Act does not explicitly state that an affidavit is mandatory, but rather that complaints shall be heard on the basis of affidavit and documentary evidence."
+    }
+   ]
+  },
+  "evidence.affidavits": {
+   "concept_id": "evidence.affidavits",
+   "verdict": "OK",
+   "issues": []
+  },
+  "evidence.books_accounts_connected_vouchers_other_documents_and_papers": {
+   "concept_id": "evidence.books_accounts_connected_vouchers_other_documents_and_papers",
+   "verdict": "OK",
+   "issues": []
+  },
+  "evidence.contract": {
+   "concept_id": "evidence.contract",
+   "verdict": "OK",
+   "issues": []
+  },
+  "evidence.copies_of_documents": {
+   "concept_id": "evidence.copies_of_documents",
+   "verdict": "OK",
+   "issues": []
+  },
+  "evidence.copies_of_documents_records_or_articles_extracts_therefrom": {
+   "concept_id": "evidence.copies_of_documents_records_or_articles_extracts_therefrom",
+   "verdict": "OK",
+   "issues": []
+  },
+  "evidence.deposit_receipt": {
+   "concept_id": "evidence.deposit_receipt",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "required_documents",
+     "type": "missing",
+     "card_value": "Not specified in the Act",
+     "source_value": "deposit receipt of 50% of the amount",
+     "note": "The Act specifies that 50% of the amount must be deposited to entertain an appeal."
+    }
+   ]
+  },
+  "evidence.design_specifications_testing_records": {
+   "concept_id": "evidence.design_specifications_testing_records",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "required_documents",
+     "type": "hallucination_risk",
+     "card_value": "Design specifications, Testing records",
+     "source_value": "None specified",
+     "note": "The Act does not specify these documents for design defect evidence"
+    }
+   ]
+  },
+  "evidence.document_material_object": {
+   "concept_id": "evidence.document_material_object",
+   "verdict": "OK",
+   "issues": []
+  },
+  "evidence.document_record": {
+   "concept_id": "evidence.document_record",
+   "verdict": "OK",
+   "issues": []
+  },
+  "evidence.document_record_article_evidence": {
+   "concept_id": "evidence.document_record_article_evidence",
+   "verdict": "OK",
+   "issues": []
+  },
+  "evidence.documentary_evidence": {
+   "concept_id": "evidence.documentary_evidence",
+   "verdict": "OK",
+   "issues": []
+  },
+  "evidence.documents_showing_control_over_designing_testing_manufacturi": {
+   "concept_id": "evidence.documents_showing_control_over_designing_testing_manufacturi",
+   "verdict": "OK",
+   "issues": []
+  },
+  "evidence.english_translation_of_judgments": {
+   "concept_id": "evidence.english_translation_of_judgments",
+   "verdict": "OK",
+   "issues": []
+  },
+  "evidence.evidence": {
+   "concept_id": "evidence.evidence",
+   "verdict": "OK",
+   "issues": []
+  },
+  "evidence.evidence_of_manufacturing_process_quality_control_records": {
+   "concept_id": "evidence.evidence_of_manufacturing_process_quality_control_records",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "required_documents",
+     "type": "hallucination_risk",
+     "card_value": "Evidence of manufacturing process, Quality control records",
+     "source_value": "the product contains a manufacturing defect",
+     "note": "The Act does not specify the required documents for proof of manufacturing defect."
+    }
+   ]
+  },
+  "evidence.express_warranty_documents": {
+   "concept_id": "evidence.express_warranty_documents",
+   "verdict": "OK",
+   "issues": []
+  },
+  "evidence.information": {
+   "concept_id": "evidence.information",
+   "verdict": "OK",
+   "issues": []
+  },
+  "evidence.information_documents_records": {
+   "concept_id": "evidence.information_documents_records",
+   "verdict": "OK",
+   "issues": []
+  },
+  "evidence.inquiry_report": {
+   "concept_id": "evidence.inquiry_report",
+   "verdict": "OK",
+   "issues": []
+  },
+  "evidence.maintenance_records_inspection_records_assembly_records": {
+   "concept_id": "evidence.maintenance_records_inspection_records_assembly_records",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "purpose",
+     "type": "wrong",
+     "card_value": "Not specified in the Act",
+     "source_value": "to establish the seller's reasonable care",
+     "note": "The Act does specify the purpose of these records."
+    },
+    {
+     "field": "required_documents",
+     "type": "hallucination_risk",
+     "card_value": "Maintenance records, Inspection records, Assembly records",
+     "source_value": "evidence of reasonable care in assembling, inspecting or maintaining the product",
+     "note": "The card lists specific records, but the Act only mentions the purpose of the records, not specific types."
+    }
+   ]
+  },
+  "evidence.manufacturer_s_records_identification_documents": {
+   "concept_id": "evidence.manufacturer_s_records_identification_documents",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "required_documents",
+     "type": "hallucination_risk",
+     "card_value": "Manufacturer's records, Identification documents",
+     "source_value": "identity of product manufacturer",
+     "note": "The Act does not specify the type of documents required to establish the identity of the product manufacturer."
+    },
+    {
+     "field": "purpose",
+     "type": "wrong",
+     "card_value": "Not specified in the Act",
+     "source_value": "to establish the identity of the product manufacturer",
+     "note": "The Act does specify the purpose of establishing the identity of the product manufacturer."
+    }
+   ]
+  },
+  "evidence.manufacturing_specifications_production_records": {
+   "concept_id": "evidence.manufacturing_specifications_production_records",
+   "verdict": "OK",
+   "issues": []
+  },
+  "evidence.memorandum_of_appeal": {
+   "concept_id": "evidence.memorandum_of_appeal",
+   "verdict": "OK",
+   "issues": []
+  },
+  "evidence.notice_or_process_records_service_records": {
+   "concept_id": "evidence.notice_or_process_records_service_records",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "purpose",
+     "type": "missing",
+     "card_value": "Not specified in the Act",
+     "source_value": "to establish the service of notice or process",
+     "note": "The Act does specify the purpose of service records in the context of product liability."
+    }
+   ]
+  },
+  "evidence.periodical_returns": {
+   "concept_id": "evidence.periodical_returns",
+   "verdict": "OK",
+   "issues": []
+  },
+  "evidence.prescription_from_a_medical_practitioner": {
+   "concept_id": "evidence.prescription_from_a_medical_practitioner",
+   "verdict": "OK",
+   "issues": []
+  },
+  "evidence.product_manual_warning_labels": {
+   "concept_id": "evidence.product_manual_warning_labels",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "content.required_documents",
+     "type": "wrong",
+     "card_value": "[\"Product manual\", \"Warning labels\"]",
+     "source_value": "adequate instructions of correct usage to prevent any harm or any warning regarding improper or incorrect usage",
+     "note": "The Act does not explicitly mention 'warning labels' as a required document."
+    }
+   ]
+  },
+  "evidence.quarterly_report": {
+   "concept_id": "evidence.quarterly_report",
+   "verdict": "OK"
+  },
+  "evidence.record_of_proceeding": {
+   "concept_id": "evidence.record_of_proceeding",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "content.purpose",
+     "type": "wrong",
+     "card_value": "To be maintained by every consumer mediation cell",
+     "source_value": "Every consumer mediation cell shall maintain—... record of proceeding;",
+     "note": "The card's purpose is not entirely accurate, as the record of proceeding is one of the items to be maintained, not the purpose itself."
+    }
+   ]
+  },
+  "evidence.records_of_alteration_or_modification": {
+   "concept_id": "evidence.records_of_alteration_or_modification",
+   "verdict": "OK"
+  },
+  "evidence.records_of_business_transactions_publication_records": {
+   "concept_id": "evidence.records_of_business_transactions_publication_records",
+   "verdict": "OK"
+  },
+  "evidence.registered_post_acknowledgment_due": {
+   "concept_id": "evidence.registered_post_acknowledgment_due",
+   "verdict": "OK",
+   "issues": []
+  },
+  "evidence.report_from_laboratory": {
+   "concept_id": "evidence.report_from_laboratory",
+   "verdict": "OK",
+   "issues": []
+  },
+  "evidence.report_of_analysis_or_test": {
+   "concept_id": "evidence.report_of_analysis_or_test",
+   "verdict": "OK",
+   "issues": []
+  },
+  "evidence.sales_records_invoice_receipt": {
+   "concept_id": "evidence.sales_records_invoice_receipt",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "purpose",
+     "type": "missing",
+     "card_value": "Not specified in the Act",
+     "source_value": "to establish the sale of the product by the seller is not mentioned in the provided Act text, but the card implies it is for a specific purpose related to product liability",
+     "note": "The Act does not specify the purpose of sales records, invoice, or receipt in the provided text."
+    }
+   ]
+  },
+  "evidence.sample_of_goods": {
+   "concept_id": "evidence.sample_of_goods",
+   "verdict": "OK",
+   "issues": []
+  },
+  "evidence.settlement_agreement_settlement_report": {
+   "concept_id": "evidence.settlement_agreement_settlement_report",
+   "verdict": "OK",
+   "issues": []
+  },
+  "evidence.sufficient_cause": {
+   "concept_id": "evidence.sufficient_cause",
+   "verdict": "OK",
+   "issues": []
+  },
+  "evidence.test_results_records_of_testing": {
+   "concept_id": "evidence.test_results_records_of_testing",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "title",
+     "type": "wrong",
+     "card_value": "Proof of warranty or guarantee",
+     "source_value": "unfair trade practice",
+     "note": "The title does not match the concept of unfair trade practice in the Act"
+    },
+    {
+     "field": "description",
+     "type": "wrong",
+     "card_value": "based on an adequate or proper test",
+     "source_value": "gives to the public any warranty or guarantee of the performance, efficacy or length of life of a product or of any goods that is not based on an adequate or proper test thereof",
+     "note": "The description is partially correct but does not fully capture the essence of the Act"
+    },
+    {
+     "field": "required_documents",
+     "type": "missing",
+     "card_value": "Not specified in the Act",
+     "source_value": "the burden of proof of such defence shall lie on the person raising such defence",
+     "note": "The Act implies that documents related to the defence of adequate or proper test may be required"
+    }
+   ]
+  },
+  "evidence.warning_or_instruction_records_documentation_of_warnings_or_": {
+   "concept_id": "evidence.warning_or_instruction_records_documentation_of_warnings_or_",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "title",
+     "type": "wrong",
+     "card_value": "Proof of warnings or instructions",
+     "source_value": "he did not pass on the warnings or instructions of the product manufacturer regarding the dangers involved or proper usage of the product while selling such product",
+     "note": "The title does not specifically mention the product seller's liability"
+    },
+    {
+     "field": "description",
+     "type": "wrong",
+     "card_value": "To establish the seller's passing on of warnings or instructions",
+     "source_value": "he did not pass on the warnings or instructions of the product manufacturer regarding the dangers involved or proper usage of the product while selling such product",
+     "note": "The description is partially correct but does not fully capture the essence of the Act"
+    }
+   ]
+  },
+  "evidence.warnings_or_instructions_provided_to_employer_warnings_or_in": {
+   "concept_id": "evidence.warnings_or_instructions_provided_to_employer_warnings_or_in",
+   "verdict": "OK",
+   "issues": []
+  },
+  "evidence.warranty": {
+   "concept_id": "evidence.warranty",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "content",
+     "type": "hallucination_risk",
+     "card_value": "To establish the express warranty",
+     "source_value": "the service did not conform to express warranty or the terms and conditions of the contract",
+     "note": "card implies a standalone concept of express warranty, while the Act mentions it as part of product liability action"
+    }
+   ]
+  },
+  "evidence.warranty_documents_sales_agreement": {
+   "concept_id": "evidence.warranty_documents_sales_agreement",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "content",
+     "type": "hallucination_risk",
+     "card_value": "To prove the product does not conform to the express warranty",
+     "source_value": "the product does not conform to the express warranty",
+     "note": "card implies a specific procedure for proof, while the Act only states the condition for product liability"
+    }
+   ]
+  },
+  "evidence.written_agreement": {
+   "concept_id": "evidence.written_agreement",
+   "verdict": "OK"
+  },
+  "evidence.written_complaint": {
+   "concept_id": "evidence.written_complaint",
+   "verdict": "OK"
+  },
+  "evidence.written_consent": {
+   "concept_id": "evidence.written_consent",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "content",
+     "type": "wrong",
+     "card_value": "To settle the dispute by mediation",
+     "source_value": "have their dispute settled by mediation in accordance with the provisions of Chapter V",
+     "note": "card oversimplifies the purpose of written consent"
+    }
+   ]
+  },
+  "evidence.written_explanation": {
+   "concept_id": "evidence.written_explanation",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "description",
+     "type": "wrong",
+     "card_value": "To explain the reason for not filing the appeal within 45 days",
+     "source_value": "if it is satisfied that there was sufficient cause for not filing it within that period",
+     "note": "The card implies a specific time limit for filing an appeal, but the Act does not explicitly state that the written explanation is for not filing within 45 days."
+    },
+    {
+     "field": "mandatory",
+     "type": "wrong",
+     "card_value": "false",
+     "source_value": "the State Commission may entertain an appeal after the expiry of the said period of forty-five days, if it is satisfied that there was sufficient cause for not filing it within that period",
+     "note": "The Act implies that providing a sufficient cause is mandatory for the appeal to be entertained after the time limit."
+    }
+   ]
+  },
+  "evidence.written_objections": {
+   "concept_id": "evidence.written_objections",
+   "verdict": "OK",
+   "issues": []
+  },
+  "evidence.written_record": {
+   "concept_id": "evidence.written_record",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "title",
+     "type": "wrong",
+     "card_value": "Reasons for adjournment",
+     "source_value": "the reasons for grant of adjournment have been recorded in writing by the Commission",
+     "note": "The card title is partially correct but the Act specifically mentions 'reasons for grant of adjournment'."
+    },
+    {
+     "field": "required_documents",
+     "type": "hallucination_risk",
+     "card_value": "Written record",
+     "source_value": "the reasons for grant of adjournment have been recorded in writing by the Commission",
+     "note": "The Act does not explicitly mention 'written record' as a required document."
+    }
+   ]
+  },
+  "evidence.written_record_of_reasons": {
+   "concept_id": "evidence.written_record_of_reasons",
+   "verdict": "OK",
+   "issues": []
+  }
+ },
+ "jurisdiction": {
+  "jurisdiction.district_collector_within_his_jurisdiction": {
+   "concept_id": "jurisdiction.district_collector_within_his_jurisdiction",
+   "verdict": "OK",
+   "issues": []
+  },
+  "jurisdiction.district_commission_other_value_of_goods_and_services": {
+   "concept_id": "jurisdiction.district_commission_other_value_of_goods_and_services",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "pecuniary",
+     "type": "hallucination_risk",
+     "card_value": "other value of goods and services",
+     "source_value": "the other value of goods and services in respect of which the District Commission shall have jurisdiction to entertain complaints",
+     "note": "The card's wording could mislead about the specific context of 'other value'."
+    }
+   ]
+  },
+  "jurisdiction.district_commission_state_commission_national_commission_not_specified_not_speci": {
+   "concept_id": "jurisdiction.district_commission_state_commission_national_commission_not_specified_not_speci",
+   "verdict": "OK",
+   "issues": []
+  },
+  "jurisdiction.district_commission_state_commission_national_commission_supreme_court_no_pecuni": {
+   "concept_id": "jurisdiction.district_commission_state_commission_national_commission_supreme_court_no_pecuni",
+   "verdict": "OK",
+   "issues": []
+  },
+  "jurisdiction.district_commission_that_district": {
+   "concept_id": "jurisdiction.district_commission_that_district",
+   "verdict": "OK",
+   "issues": []
+  },
+  "jurisdiction.district_commission_up_to_one_crore_rupees_where_the_opposite_party_resides_or_c": {
+   "concept_id": "jurisdiction.district_commission_up_to_one_crore_rupees_where_the_opposite_party_resides_or_c",
+   "verdict": "OK",
+   "issues": []
+  },
+  "jurisdiction.district_commission_within_the_local_limits_of_the_jurisdiction_where_the_opposi": {
+   "concept_id": "jurisdiction.district_commission_within_the_local_limits_of_the_jurisdiction_where_the_opposi",
+   "verdict": "OK",
+   "issues": []
+  },
+  "jurisdiction.national_commission_benches": {
+   "concept_id": "jurisdiction.national_commission_benches",
+   "verdict": "OK",
+   "issues": []
+  },
+  "jurisdiction.national_commission_exceeds_ten_crore_rupees_no_territorial_limits_mentioned": {
+   "concept_id": "jurisdiction.national_commission_exceeds_ten_crore_rupees_no_territorial_limits_mentioned",
+   "verdict": "OK",
+   "issues": []
+  },
+  "jurisdiction.national_commission_national_capital_region_and_other_notified_places": {
+   "concept_id": "jurisdiction.national_commission_national_capital_region_and_other_notified_places",
+   "verdict": "OK",
+   "issues": []
+  },
+  "jurisdiction.national_commission_other_value_of_goods_and_services": {
+   "concept_id": "jurisdiction.national_commission_other_value_of_goods_and_services",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "content.pecuniary",
+     "type": "hallucination_risk",
+     "card_value": "other value of goods and services",
+     "source_value": "the other value of goods and services in respect of which the National Commission shall have jurisdiction under the proviso to sub-clause (i) of clause (a) of sub-section (1) of section 58",
+     "note": "The card does not accurately represent the source text, which refers to a specific section and proviso."
+    }
+   ]
+  },
+  "jurisdiction.state_commission_bench_no_pecuniary_limits_mentioned_no_specific_territorial_lim": {
+   "concept_id": "jurisdiction.state_commission_bench_no_pecuniary_limits_mentioned_no_specific_territorial_lim",
+   "verdict": "OK",
+   "issues": []
+  },
+  "jurisdiction.state_commission_exceeds_rupees_one_crore_but_does_not_exceed_rupees_ten_crore_w": {
+   "concept_id": "jurisdiction.state_commission_exceeds_rupees_one_crore_but_does_not_exceed_rupees_ten_crore_w",
+   "verdict": "OK",
+   "issues": []
+  },
+  "jurisdiction.state_commission_other_value_of_goods_and_services": {
+   "concept_id": "jurisdiction.state_commission_other_value_of_goods_and_services",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "content.pecuniary",
+     "type": "hallucination_risk",
+     "card_value": "other value of goods and services",
+     "source_value": "the other value of goods and services in respect of which the State Commission shall have jurisdiction under the proviso to sub-clause (i) of clause (a) of sub-section (1) of section 47",
+     "note": "The card does not accurately represent the source text, which refers to a specific section and proviso."
+    }
+   ]
+  },
+  "jurisdiction.state_commission_state_capital_and_other_notified_places": {
+   "concept_id": "jurisdiction.state_commission_state_capital_and_other_notified_places",
+   "verdict": "OK",
+   "issues": []
+  },
+  "jurisdiction.state_commission_where_the_opposite_party_resides_carries_on_business_has_a_bran": {
+   "concept_id": "jurisdiction.state_commission_where_the_opposite_party_resides_carries_on_business_has_a_bran",
+   "verdict": "OK",
+   "issues": []
+  },
+  "jurisdiction.state_commission_within_its_jurisdiction": {
+   "concept_id": "jurisdiction.state_commission_within_its_jurisdiction",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "conditions",
+     "type": "hallucination_risk",
+     "card_value": "Within its jurisdiction",
+     "source_value": "administrative control over all the District Commissions within its jurisdiction",
+     "note": "The card's condition seems to misrepresent the source's intent, which is about administrative control, not territorial jurisdiction conditions"
+    }
+   ]
+  },
+  "jurisdiction.the_consumer_protection_act_2019_the_whole_of_india_except_the_state_of_jammu_an": {
+   "concept_id": "jurisdiction.the_consumer_protection_act_2019_the_whole_of_india_except_the_state_of_jammu_an",
+   "verdict": "OK",
+   "issues": []
+  }
+ },
+ "authorities": {
+  "authority.additional_director_general": {
+   "concept_id": "authority.additional_director_general",
+   "verdict": "OK",
+   "issues": []
+  },
+  "authority.assistant_director": {
+   "concept_id": "authority.assistant_director",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "role",
+     "type": "missing",
+     "card_value": "Not specified in the Act",
+     "source_value": "Assists in investigations",
+     "note": "The Act does not explicitly state the role of Assistant Director, but it can be inferred from the context of the Additional Director-General's role."
+    }
+   ]
+  },
+  "authority.bench": {
+   "concept_id": "authority.bench",
+   "verdict": "OK",
+   "issues": []
+  },
+  "authority.central_authority": {
+   "concept_id": "authority.central_authority",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "powers",
+     "type": "hallucination_risk",
+     "card_value": "a long list of powers",
+     "source_value": "the Act lists various powers, but not all are explicitly stated as powers of the Central Authority",
+     "note": "Some powers listed may be inferred or implied, but not directly stated in the Act."
+    }
+   ]
+  },
+  "authority.central_consumer_protection_authority": {
+   "concept_id": "authority.central_consumer_protection_authority",
+   "verdict": "OK",
+   "issues": []
+  },
+  "authority.central_consumer_protection_council": {
+   "concept_id": "authority.central_consumer_protection_council",
+   "verdict": "OK",
+   "issues": []
+  },
+  "authority.central_council": {
+   "concept_id": "authority.central_council",
+   "verdict": "OK",
+   "issues": []
+  },
+  "authority.central_government": {
+   "concept_id": "authority.central_government",
+   "verdict": "OK",
+   "issues": []
+  },
+  "authority.chief_commissioner": {
+   "concept_id": "authority.chief_commissioner",
+   "verdict": "OK",
+   "issues": []
+  },
+  "authority.commission": {
+   "concept_id": "authority.commission",
+   "verdict": "OK",
+   "issues": []
+  },
+  "authority.commissioner": {
+   "concept_id": "authority.commissioner",
+   "verdict": "OK",
+   "issues": []
+  },
+  "authority.commissioner_of_a_regional_office": {
+   "concept_id": "authority.commissioner_of_a_regional_office",
+   "verdict": "OK",
+   "issues": []
+  },
+  "authority.commissioner_of_regional_office": {
+   "concept_id": "authority.commissioner_of_regional_office",
+   "verdict": "OK",
+   "issues": []
+  },
+  "authority.comptroller_and_auditor_general_of_india": {
+   "concept_id": "authority.comptroller_and_auditor_general_of_india",
+   "verdict": "OK",
+   "issues": []
+  },
+  "authority.consumer_mediation_cell": {
+   "concept_id": "authority.consumer_mediation_cell",
+   "verdict": "OK",
+   "issues": []
+  },
+  "authority.court": {
+   "concept_id": "authority.court",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "powers",
+     "type": "hallucination_risk",
+     "card_value": "granting leave for compounding of offences",
+     "source_value": "the court may, in case of first conviction, suspend any licence issued to the person referred to in that sub-section, under any law for the time being in force, for a period up to two years, and in case of second or subsequent conviction, cancel the licence",
+     "note": "The card mentions 'granting leave for compounding of offences' which is not a direct power of the court in the provided source text, although the court does have a role in compounding offences as per section 96."
+    }
+   ]
+  },
+  "authority.deputy_director": {
+   "concept_id": "authority.deputy_director",
+   "verdict": "OK",
+   "issues": []
+  },
+  "authority.director": {
+   "concept_id": "authority.director",
+   "verdict": "OK",
+   "issues": []
+  },
+  "authority.director_general": {
+   "concept_id": "authority.director_general",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "powers",
+     "type": "hallucination_risk",
+     "card_value": "Conducting inquiries or investigations, Submitting reports",
+     "source_value": "The Director-General may delegate all or any of his powers to the Additional Director-General or Director, Joint Director or Deputy Director or Assistant Director, as the case may be, while conducting inquiries or investigations under this Act.",
+     "note": "The card mentions 'Submitting reports' which is not explicitly mentioned in the source text as a power of the Director-General, although section 15(5) mentions that inquiries or investigations made by the Director-General shall be submitted to the Central Authority."
+    }
+   ]
+  },
+  "authority.district_collector": {
+   "concept_id": "authority.district_collector",
+   "verdict": "OK",
+   "issues": []
+  },
+  "authority.district_commission": {
+   "concept_id": "authority.district_commission",
+   "verdict": "OK",
+   "issues": []
+  },
+  "authority.district_commissions": {
+   "concept_id": "authority.district_commissions",
+   "verdict": "OK",
+   "issues": []
+  },
+  "authority.district_council": {
+   "concept_id": "authority.district_council",
+   "verdict": "OK",
+   "issues": []
+  },
+  "authority.investigation_wing": {
+   "concept_id": "authority.investigation_wing",
+   "verdict": "OK",
+   "issues": []
+  },
+  "authority.joint_director": {
+   "concept_id": "authority.joint_director",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "role",
+     "type": "missing",
+     "card_value": "Not specified in the Act",
+     "source_value": "Assists in investigations",
+     "note": "The Act does not explicitly specify the role of the Joint Director, but it can be inferred that they assist in investigations under the direction of the Director-General."
+    }
+   ]
+  },
+  "authority.monitoring_cell": {
+   "concept_id": "authority.monitoring_cell",
+   "verdict": "OK",
+   "issues": []
+  },
+  "authority.national_commission": {
+   "concept_id": "authority.national_commission",
+   "verdict": "OK",
+   "issues": []
+  },
+  "authority.national_consumer_disputes_redressal_commission": {
+   "concept_id": "authority.national_consumer_disputes_redressal_commission",
+   "verdict": "OK",
+   "issues": []
+  },
+  "authority.parliament": {
+   "concept_id": "authority.parliament",
+   "verdict": "OK",
+   "issues": []
+  },
+  "authority.president": {
+   "concept_id": "authority.president",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "jurisdiction",
+     "type": "missing",
+     "card_value": "Not specified in the Act",
+     "source_value": "National Commission or State Commission",
+     "note": "The Act specifies the jurisdiction for the President of the National Commission or State Commission, but it is not mentioned in the card."
+    }
+   ]
+  },
+  "authority.regulator": {
+   "concept_id": "authority.regulator",
+   "verdict": "OK",
+   "issues": []
+  },
+  "authority.selection_committee": {
+   "concept_id": "authority.selection_committee",
+   "verdict": "OK",
+   "issues": []
+  },
+  "authority.state_commission": {
+   "concept_id": "authority.state_commission",
+   "verdict": "OK",
+   "issues": []
+  },
+  "authority.state_commissions": {
+   "concept_id": "authority.state_commissions",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "powers",
+     "type": "missing",
+     "card_value": "Not specified in the Act",
+     "source_value": "oversee the functioning of the State Commissions from the administrative point of view",
+     "note": "The Act does specify the powers of the monitoring cell"
+    }
+   ]
+  },
+  "authority.state_council": {
+   "concept_id": "authority.state_council",
+   "verdict": "OK",
+   "issues": []
+  },
+  "authority.state_government": {
+   "concept_id": "authority.state_government",
+   "verdict": "FLAG",
+   "issues": [
+    {
+     "field": "powers",
+     "type": "hallucination_risk",
+     "card_value": "directs another District Commission to exercise jurisdiction",
+     "source_value": "If, at any time, there is a vacancy in the office of the President or member of a District Commission, the State Government may, by notification, direct— (a) any other District Commission specified in that notification to exercise the jurisdiction in respect of that district also;",
+     "note": "The card mentions 'directs another District Commission to exercise jurisdiction' which is partially correct but the actual source text mentions it in the context of vacancy in the office of the President or member of a District Commission"
+    },
+    {
+     "field": "powers",
+     "type": "hallucination_risk",
+     "card_value": "directs President or member of another District Commission to exercise powers and discharge functions",
+     "source_value": "If, at any time, there is a vacancy in the office of the President or member of a District Commission, the State Government may, by notification, direct— (b) the President or a member of any other District Commission specified in that notification to exercise the powers and discharge the functions of the President or member of that District Commission also;",
+     "note": "The card mentions 'directs President or member of another District Commission to exercise powers and discharge functions' which is partially correct but the actual source text mentions it in the context of vacancy in the office of the President or member of a District Commission"
+    },
+    {
+     "field": "powers",
+     "type": "hallucination_risk",
+     "card_value": "receive information",
+     "source_value": "The State Commission shall furnish, periodically or as and when required to the State Government any information including pendency of cases in such form and manner as may be prescribed;",
+     "note": "The card mentions 'receive information' but the actual source text mentions that the State Commission shall furnish information to the State Government"
+    },
+    {
+     "field": "powers",
+     "type": "hallucination_risk",
+     "card_value": "establish consumer mediation cells",
+     "source_value": "The State Government shall establish, by notification, a consumer mediation cell to be attached to each of the District Commissions and the State Commissions of that State.",
+     "note": "The card mentions 'establish consumer mediation cells' but the actual source text mentions that the State Government shall establish consumer mediation cells"
+    }
+   ]
+  },
+  "authority.state_governments": {
+   "concept_id": "authority.state_governments",
+   "verdict": "OK",
+   "issues": []
+  },
+  "authority.supreme_court": {
+   "concept_id": "authority.supreme_court",
+   "verdict": "OK",
+   "issues": []
+  }
+ }
+}
