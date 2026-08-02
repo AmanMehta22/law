@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://legal-dataset.in/schema/v2.json",
+  "$id": "https://legal-dataset.in/schema/v2.schema.json",
   "title": "V2 Knowledge Card (Universal Envelope)",
   "description": "Every V2 knowledge card follows one envelope. Only content changes by concept_type. Search + metadata are identical across all types.",
   "type": "object",
