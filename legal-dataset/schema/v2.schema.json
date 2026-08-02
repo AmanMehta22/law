@@ -1,0 +1,372 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://legal-dataset.in/schema/v2.json",
+  "title": "V2 Knowledge Card (Universal Envelope)",
+  "description": "Every V2 knowledge card follows one envelope. Only content changes by concept_type. Search + metadata are identical across all types.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "concept_id",
+    "concept_type",
+    "title",
+    "description",
+    "content",
+    "derived_from",
+    "related_concepts",
+    "search",
+    "metadata"
+  ],
+  "properties": {
+    "concept_id": {
+      "type": "string",
+      "pattern": "^[a-z]+\\.([a-z0-9_]+\\.[a-z0-9_]+|[a-z0-9_]+)$",
+      "description": "Stable identifier, e.g. definition.consumer, procedure.complaint, right.refund.",
+      "examples": ["definition.consumer", "procedure.complaint"]
+    },
+    "concept_type": {
+      "type": "string",
+      "enum": [
+        "definition", "right", "obligation", "procedure", "authority",
+        "jurisdiction", "remedy", "penalty", "timeline", "evidence",
+        "exception", "offence", "example", "intent", "alias", "relationship"
+      ]
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "description": {
+      "type": "string",
+      "minLength": 1
+    },
+    "content": {
+      "type": "object",
+      "description": "Type-specific payload. Validated against the matching *Card schema below."
+    },
+    "derived_from": {
+      "type": "array",
+      "description": "V1 node ids this card was extracted from.",
+      "items": { "type": "string" },
+      "examples": [["CPA2019-CH1-S2-7"]]
+    },
+    "related_concepts": {
+      "type": "array",
+      "items": { "type": "string" },
+      "examples": [["rights.refund"]]
+    },
+    "search": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["keywords", "aliases", "user_queries"],
+      "properties": {
+        "keywords": { "type": "array", "items": { "type": "string" } },
+        "aliases": { "type": "array", "items": { "type": "string" } },
+        "user_queries": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["jurisdiction", "act", "language", "review_status", "confidence", "created_by", "reviewed_by", "version"],
+      "properties": {
+        "jurisdiction": { "type": "string" },
+        "act": { "type": "string" },
+        "language": { "type": "string" },
+        "review_status": { "type": "string", "enum": ["draft", "reviewed", "approved"] },
+        "confidence": { "type": "number", "minimum": 0, "maximum": 1 },
+        "created_by": { "type": "string", "examples": ["DefinitionAgent"] },
+        "reviewed_by": { "type": ["string", "null"] },
+        "version": { "type": "integer", "minimum": 1 }
+      }
+    }
+  },
+  "allOf": [
+    {
+      "if": { "properties": { "concept_type": { "const": "definition" } } },
+      "then": {
+        "properties": {
+          "content": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["term", "legal_definition", "plain_language", "examples", "non_examples"],
+            "properties": {
+              "term": { "type": "string" },
+              "legal_definition": { "type": "string" },
+              "plain_language": { "type": "string" },
+              "examples": { "type": "array", "items": { "type": "string" } },
+              "non_examples": { "type": "array", "items": { "type": "string" } }
+            }
+          }
+        }
+      }
+    },
+    {
+      "if": { "properties": { "concept_type": { "const": "right" } } },
+      "then": {
+        "properties": {
+          "content": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["right", "conditions", "limitations", "exceptions"],
+            "properties": {
+              "right": { "type": "string" },
+              "conditions": { "type": "array", "items": { "type": "string" } },
+              "limitations": { "type": "array", "items": { "type": "string" } },
+              "exceptions": { "type": "array", "items": { "type": "string" } }
+            }
+          }
+        }
+      }
+    },
+    {
+      "if": { "properties": { "concept_type": { "const": "obligation" } } },
+      "then": {
+        "properties": {
+          "content": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["who", "what", "conditions", "limitations"],
+            "properties": {
+              "who": { "type": "string" },
+              "what": { "type": "string" },
+              "conditions": { "type": "array", "items": { "type": "string" } },
+              "limitations": { "type": "array", "items": { "type": "string" } }
+            }
+          }
+        }
+      }
+    },
+    {
+      "if": { "properties": { "concept_type": { "const": "procedure" } } },
+      "then": {
+        "properties": {
+          "content": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["steps", "authority", "documents"],
+            "properties": {
+              "steps": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "required": ["order", "step"],
+                  "properties": {
+                    "order": { "type": "integer", "minimum": 1 },
+                    "step": { "type": "string" }
+                  }
+                }
+              },
+              "authority": { "type": "string" },
+              "documents": { "type": "array", "items": { "type": "string" } }
+            }
+          }
+        }
+      }
+    },
+    {
+      "if": { "properties": { "concept_type": { "const": "authority" } } },
+      "then": {
+        "properties": {
+          "content": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["name", "role", "powers", "jurisdiction"],
+            "properties": {
+              "name": { "type": "string" },
+              "role": { "type": "string" },
+              "powers": { "type": "array", "items": { "type": "string" } },
+              "jurisdiction": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+    {
+      "if": { "properties": { "concept_type": { "const": "jurisdiction" } } },
+      "then": {
+        "properties": {
+          "content": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["authority", "territorial", "pecuniary", "conditions"],
+            "properties": {
+              "authority": { "type": "string" },
+              "territorial": { "type": "string" },
+              "pecuniary": { "type": "string" },
+              "conditions": { "type": "array", "items": { "type": "string" } }
+            }
+          }
+        }
+      }
+    },
+    {
+      "if": { "properties": { "concept_type": { "const": "remedy" } } },
+      "then": {
+        "properties": {
+          "content": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["remedy", "available_when", "conditions", "limitations"],
+            "properties": {
+              "remedy": { "type": "string" },
+              "available_when": { "type": "string" },
+              "conditions": { "type": "array", "items": { "type": "string" } },
+              "limitations": { "type": "array", "items": { "type": "string" } }
+            }
+          }
+        }
+      }
+    },
+    {
+      "if": { "properties": { "concept_type": { "const": "penalty" } } },
+      "then": {
+        "properties": {
+          "content": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["offence", "punishment", "minimum", "maximum", "applicable_section"],
+            "properties": {
+              "offence": { "type": "string" },
+              "punishment": { "type": "string" },
+              "minimum": { "type": ["string", "null"] },
+              "maximum": { "type": ["string", "null"] },
+              "applicable_section": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+    {
+      "if": { "properties": { "concept_type": { "const": "timeline" } } },
+      "then": {
+        "properties": {
+          "content": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["duration", "trigger", "exceptions"],
+            "properties": {
+              "duration": { "type": "string" },
+              "trigger": { "type": "string" },
+              "exceptions": { "type": "array", "items": { "type": "string" } }
+            }
+          }
+        }
+      }
+    },
+    {
+      "if": { "properties": { "concept_type": { "const": "evidence" } } },
+      "then": {
+        "properties": {
+          "content": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["required_documents", "purpose", "mandatory"],
+            "properties": {
+              "required_documents": { "type": "array", "items": { "type": "string" } },
+              "purpose": { "type": "string" },
+              "mandatory": { "type": "boolean" }
+            }
+          }
+        }
+      }
+    },
+    {
+      "if": { "properties": { "concept_type": { "const": "exception" } } },
+      "then": {
+        "properties": {
+          "content": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["general_rule", "exception", "conditions"],
+            "properties": {
+              "general_rule": { "type": "string" },
+              "exception": { "type": "string" },
+              "conditions": { "type": "array", "items": { "type": "string" } }
+            }
+          }
+        }
+      }
+    },
+    {
+      "if": { "properties": { "concept_type": { "const": "offence" } } },
+      "then": {
+        "properties": {
+          "content": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["offence", "punishment", "applicable_section"],
+            "properties": {
+              "offence": { "type": "string" },
+              "punishment": { "type": "string" },
+              "applicable_section": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+    {
+      "if": { "properties": { "concept_type": { "const": "example" } } },
+      "then": {
+        "properties": {
+          "content": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["scenario", "outcome"],
+            "properties": {
+              "scenario": { "type": "string" },
+              "outcome": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+    {
+      "if": { "properties": { "concept_type": { "const": "intent" } } },
+      "then": {
+        "properties": {
+          "content": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["queries"],
+            "properties": {
+              "queries": { "type": "array", "items": { "type": "string" } }
+            }
+          }
+        }
+      }
+    },
+    {
+      "if": { "properties": { "concept_type": { "const": "alias" } } },
+      "then": {
+        "properties": {
+          "content": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["aliases"],
+            "properties": {
+              "aliases": { "type": "array", "items": { "type": "string" } }
+            }
+          }
+        }
+      }
+    },
+    {
+      "if": { "properties": { "concept_type": { "const": "relationship" } } },
+      "then": {
+        "properties": {
+          "content": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["source", "relationship", "target"],
+            "properties": {
+              "source": { "type": "string" },
+              "relationship": { "type": "string" },
+              "target": { "type": "string" }
+            }
+          }
+        }
+      }
+    }
+  ]
+}
