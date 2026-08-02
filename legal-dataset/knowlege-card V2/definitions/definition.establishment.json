@@ -19,24 +19,46 @@
   "derived_from": [
     "CPA2019-CH1-S2-19"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.establishment",
+    "intent.district_commission_references_establishment",
+    "intent.establishment",
+    "intent.establishment_2",
+    "intent.mediation_references_establishment",
+    "relationship.alias_district_commission_references_alias_establishment",
+    "relationship.alias_mediation_references_alias_establishment"
+  ],
   "search": {
     "keywords": [
       "establishment",
       "business",
       "commercial activity",
       "trade",
-      "profession"
+      "profession",
+      "definition",
+      "consumer",
+      "protection",
+      "act",
+      "includes",
+      "advertising",
+      "agency"
     ],
     "aliases": [
       "organization",
       "company",
-      "firm"
+      "firm",
+      "Business Establishment",
+      "Company",
+      "Institution",
+      "Organization"
     ],
     "user_queries": [
       "What is an establishment under the Consumer Protection Act?",
       "What types of businesses are considered establishments?",
-      "Is a public utility an establishment?"
+      "Is a public utility an establishment?",
+      "What is district commission references establishment?",
+      "How does district commission references establishment work?",
+      "Can you explain district commission references establishment?"
     ]
   },
   "metadata": {

@@ -19,21 +19,40 @@
   "derived_from": [
     "CPA2019-CH1-S2-16"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.e_commerce",
+    "intent.e_commerce",
+    "intent.e_commerce_2"
+  ],
   "search": {
     "keywords": [
       "e-commerce",
       "online shopping",
-      "digital marketplace"
+      "digital marketplace",
+      "commerce",
+      "definition",
+      "consumer",
+      "protection",
+      "act",
+      "buying",
+      "selling",
+      "goods",
+      "services"
     ],
     "aliases": [
       "online commerce",
-      "electronic commerce"
+      "electronic commerce",
+      "Digital Trade",
+      "Electronic Commerce",
+      "Internet Retailing",
+      "Online Shopping"
     ],
     "user_queries": [
       "What is e-commerce?",
       "What does e-commerce mean?",
-      "Is online shopping considered e-commerce?"
+      "Is online shopping considered e-commerce?",
+      "How does e-commerce work?",
+      "Can you explain e-commerce?"
     ]
   },
   "metadata": {

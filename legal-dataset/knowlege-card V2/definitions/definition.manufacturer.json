@@ -19,24 +19,42 @@
   "derived_from": [
     "CPA2019-CH1-S2-24"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.manufacturer",
+    "intent.manufacturer",
+    "intent.manufacturer_2"
+  ],
   "search": {
     "keywords": [
       "manufacturer",
       "goods",
       "production",
       "assembly",
-      "labeling"
+      "labeling",
+      "definition",
+      "consumer",
+      "protection",
+      "act",
+      "person",
+      "who",
+      "makes"
     ],
     "aliases": [
       "maker",
       "producer",
-      "assembler"
+      "assembler",
+      "Creator of Goods",
+      "Maker",
+      "Producer",
+      "Supplier"
     ],
     "user_queries": [
       "What is a manufacturer?",
       "Who is considered a manufacturer under the law?",
-      "What does it mean to be a manufacturer?"
+      "What does it mean to be a manufacturer?",
+      "What is manufacturer?",
+      "How does manufacturer work?",
+      "Can you explain manufacturer?"
     ]
   },
   "metadata": {

@@ -19,21 +19,41 @@
   "derived_from": [
     "CPA2019-CH1-S2-17"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.electronic_service_provider",
+    "intent.electronic_service_provider",
+    "intent.electronic_service_provider_2"
+  ],
   "search": {
     "keywords": [
       "electronic service provider",
       "online marketplace",
-      "e-commerce platform"
+      "e-commerce platform",
+      "electronic",
+      "service",
+      "provider",
+      "definition",
+      "consumer",
+      "protection",
+      "act",
+      "person",
+      "who"
     ],
     "aliases": [
       "online service provider",
-      "e-service provider"
+      "e-service provider",
+      "Digital Service Provider",
+      "E-Service Provider",
+      "Internet Service Provider",
+      "Online Service Provider"
     ],
     "user_queries": [
       "What is an electronic service provider?",
       "Who is considered an electronic service provider under the Consumer Protection Act?",
-      "What does electronic service provider mean in the context of online shopping?"
+      "What does electronic service provider mean in the context of online shopping?",
+      "What is electronic service provider?",
+      "How does electronic service provider work?",
+      "Can you explain electronic service provider?"
     ]
   },
   "metadata": {

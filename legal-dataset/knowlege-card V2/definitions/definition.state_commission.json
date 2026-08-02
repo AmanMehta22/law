@@ -19,21 +19,43 @@
   "derived_from": [
     "CPA2019-CH1-S2-44"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.state_commission",
+    "authority.state_commission",
+    "intent.state_commission",
+    "intent.state_commission_2",
+    "intent.state_commission_3"
+  ],
   "search": {
     "keywords": [
       "State Commission",
       "consumer disputes",
-      "redressal commission"
+      "redressal commission",
+      "state",
+      "commission",
+      "definition",
+      "consumer",
+      "protection",
+      "act",
+      "disputes",
+      "redressal",
+      "established"
     ],
     "aliases": [
       "State Consumer Commission",
-      "SCDRC"
+      "SCDRC",
+      "Commission of the State",
+      "State Consumer Disputes Redressal Commission",
+      "State Consumer Forum",
+      "State Tribunal"
     ],
     "user_queries": [
       "What is the State Commission for consumer protection",
       "How to file a complaint with the State Commission",
-      "What does the State Commission do"
+      "What does the State Commission do",
+      "What is acknowledgment?",
+      "How does acknowledgment work?",
+      "Can you explain acknowledgment?"
     ]
   },
   "metadata": {

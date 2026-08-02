@@ -19,22 +19,42 @@
   "derived_from": [
     "CPA2019-CH1-S2-8"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.consumer_dispute",
+    "intent.consumer_dispute",
+    "intent.consumer_dispute_2"
+  ],
   "search": {
     "keywords": [
       "consumer dispute",
       "complaint",
       "allegations",
-      "denial"
+      "denial",
+      "consumer",
+      "dispute",
+      "definition",
+      "protection",
+      "act",
+      "where",
+      "person",
+      "against"
     ],
     "aliases": [
       "consumer complaint dispute",
-      "disputed consumer claim"
+      "disputed consumer claim",
+      "Conflict",
+      "Consumer Complaint",
+      "Dispute",
+      "Grievance",
+      "Issue"
     ],
     "user_queries": [
       "what is a consumer dispute",
       "how is a consumer dispute defined",
-      "what happens when a consumer disputes a complaint"
+      "what happens when a consumer disputes a complaint",
+      "What is consumer dispute?",
+      "How does consumer dispute work?",
+      "Can you explain consumer dispute?"
     ]
   },
   "metadata": {

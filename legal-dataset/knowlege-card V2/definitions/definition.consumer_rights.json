@@ -19,21 +19,45 @@
   "derived_from": [
     "CPA2019-CH1-S2-9"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.consumer_rights",
+    "alias.redressal_against_unfair_trade_practice",
+    "alias.right_to_access_to_variety_of_goods",
+    "alias.right_to_be_heard",
+    "alias.right_to_consumer_awareness",
+    "alias.right_to_information",
+    "alias.right_to_protection_against_hazardous_goods"
+  ],
   "search": {
     "keywords": [
       "consumer protection",
       "consumer rights",
-      "unfair trade practices"
+      "unfair trade practices",
+      "consumer",
+      "rights",
+      "consumers",
+      "protection",
+      "act",
+      "right",
+      "protected",
+      "against",
+      "marketing"
     ],
     "aliases": [
       "customer rights",
-      "consumer interests"
+      "consumer interests",
+      "Buyer Rights",
+      "Consumer Protection",
+      "Consumer Welfare",
+      "Customer Rights"
     ],
     "user_queries": [
       "What are my rights as a consumer?",
       "How do I protect myself from unfair trade practices?",
-      "What can I do if I'm sold a defective product?"
+      "What can I do if I'm sold a defective product?",
+      "What is consumer rights?",
+      "How does consumer rights work?",
+      "Can you explain consumer rights?"
     ]
   },
   "metadata": {

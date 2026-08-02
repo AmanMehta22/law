@@ -19,21 +19,42 @@
   "derived_from": [
     "CPA2019-CH1-S2-12"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.design_of_a_product",
+    "intent.design_of_a_product",
+    "intent.design_of_a_product_2"
+  ],
   "search": {
     "keywords": [
       "product design",
       "intended characteristics",
-      "material characteristics"
+      "material characteristics",
+      "design",
+      "product",
+      "definition",
+      "relation",
+      "intended",
+      "known",
+      "physical",
+      "material",
+      "characteristics"
     ],
     "aliases": [
       "product specification",
-      "product features"
+      "product features",
+      "Architecture",
+      "Blueprint",
+      "Engineering Design",
+      "Manufacturing Design",
+      "Product Design"
     ],
     "user_queries": [
       "What is meant by design of a product?",
       "What are the characteristics of a product design?",
-      "How is design defined in consumer protection law?"
+      "How is design defined in consumer protection law?",
+      "What is design of a product?",
+      "How does design of a product work?",
+      "Can you explain design of a product?"
     ]
   },
   "metadata": {

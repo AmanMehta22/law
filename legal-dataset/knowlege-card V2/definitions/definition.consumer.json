@@ -19,23 +19,44 @@
   "derived_from": [
     "CPA2019-CH1-S2-7"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.consumer",
+    "exception.does_not_include_a_person_who_obtains_goods_for_resale_or_fo",
+    "intent.consumer",
+    "intent.consumer_2",
+    "intent.consumer_excludes_commercial_purpose_2"
+  ],
   "search": {
     "keywords": [
       "consumer",
       "goods",
       "services",
       "consideration",
-      "commercial purpose"
+      "commercial purpose",
+      "definition",
+      "means",
+      "person",
+      "who",
+      "buys",
+      "which",
+      "has"
     ],
     "aliases": [
       "customer",
-      "buyer"
+      "buyer",
+      "Buyer",
+      "Client",
+      "Customer",
+      "End User",
+      "Purchaser"
     ],
     "user_queries": [
       "What is a consumer?",
       "What is the definition of a consumer?",
-      "What is the meaning of a consumer in the Consumer Protection Act, 2019?"
+      "What is the meaning of a consumer in the Consumer Protection Act, 2019?",
+      "What is consumer?",
+      "How does consumer work?",
+      "Can you explain consumer?"
     ]
   },
   "metadata": {

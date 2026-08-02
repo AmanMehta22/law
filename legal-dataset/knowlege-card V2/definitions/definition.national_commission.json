@@ -19,21 +19,45 @@
   "derived_from": [
     "CPA2019-CH1-S2-29"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.national_commission",
+    "alias.national_consumer_disputes_redressal_commission",
+    "authority.national_consumer_disputes_redressal_commission",
+    "intent.national_commission",
+    "intent.national_commission_3",
+    "intent.national_commission_references_national_consumer_disputes_redressal_commission",
+    "intent.national_consumer_disputes_redressal_commission"
+  ],
   "search": {
     "keywords": [
       "National Commission",
       "consumer disputes",
-      "redressal commission"
+      "redressal commission",
+      "national",
+      "commission",
+      "definition",
+      "consumer",
+      "protection",
+      "act",
+      "disputes",
+      "redressal",
+      "established"
     ],
     "aliases": [
       "National Consumer Commission",
-      "NCDRC"
+      "NCDRC",
+      "Central Commission",
+      "Central Consumer Protection Council",
+      "National Consumer Disputes Redressal Commission",
+      "National Consumer Protection Agency"
     ],
     "user_queries": [
       "What is the National Commission for consumers?",
       "How do I file a complaint with the National Commission?",
-      "What is the role of the National Commission in consumer protection?"
+      "What is the role of the National Commission in consumer protection?",
+      "What is acknowledgment?",
+      "How does acknowledgment work?",
+      "Can you explain acknowledgment?"
     ]
   },
   "metadata": {

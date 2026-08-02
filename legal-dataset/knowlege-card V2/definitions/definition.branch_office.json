@@ -19,21 +19,41 @@
   "derived_from": [
     "CPA2019-CH1-S2-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.branch_office",
+    "intent.branch_office",
+    "intent.branch_office_2"
+  ],
   "search": {
     "keywords": [
       "branch office",
       "establishment",
-      "head office"
+      "head office",
+      "branch",
+      "office",
+      "definition",
+      "consumer",
+      "protection",
+      "act",
+      "place",
+      "work",
+      "described"
     ],
     "aliases": [
       "satellite office",
-      "regional office"
+      "regional office",
+      "Local Office",
+      "Regional Office",
+      "Satellite Office",
+      "Subsidiary Office"
     ],
     "user_queries": [
       "What is a branch office?",
       "What constitutes a branch office under CPA?",
-      "How is a branch office defined?"
+      "How is a branch office defined?",
+      "What is branch office?",
+      "How does branch office work?",
+      "Can you explain branch office?"
     ]
   },
   "metadata": {

@@ -19,21 +19,41 @@
   "derived_from": [
     "CPA2019-CH1-S2-18"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.endorsement",
+    "intent.endorsement",
+    "intent.endorsement_2"
+  ],
   "search": {
     "keywords": [
       "endorsement",
       "advertisement",
-      "consumer protection"
+      "consumer protection",
+      "definition",
+      "consumer",
+      "protection",
+      "act",
+      "message",
+      "verbal",
+      "statement",
+      "demonstration",
+      "depiction"
     ],
     "aliases": [
       "testimonial",
-      "recommendation"
+      "recommendation",
+      "Approval",
+      "Celebrity Endorsement",
+      "Recommendation",
+      "Testimonial"
     ],
     "user_queries": [
       "What is an endorsement in advertising",
       "How does endorsement affect consumer behavior",
-      "What constitutes an endorsement under the Consumer Protection Act"
+      "What constitutes an endorsement under the Consumer Protection Act",
+      "What is endorsement?",
+      "How does endorsement work?",
+      "Can you explain endorsement?"
     ]
   },
   "metadata": {

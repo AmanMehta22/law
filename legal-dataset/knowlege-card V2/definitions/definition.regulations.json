@@ -19,23 +19,47 @@
   "derived_from": [
     "CPA2019-CH1-S2-39"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.national_commission",
+    "alias.regulations",
+    "authority.central_authority",
+    "authority.national_commission",
+    "intent.central_authority",
+    "intent.central_authority_2"
+  ],
   "search": {
     "keywords": [
       "regulations",
       "National Commission",
       "Central Authority",
-      "consumer protection"
+      "consumer protection",
+      "definition",
+      "consumer",
+      "protection",
+      "act",
+      "made",
+      "national",
+      "commission",
+      "case"
     ],
     "aliases": [
       "rules",
       "guidelines",
-      "norms"
+      "norms",
+      "Codes",
+      "Guidelines",
+      "Laws",
+      "Rules",
+      "Standards"
     ],
     "user_queries": [
       "What are regulations under CPA?",
       "What does regulations mean in consumer law?",
-      "What kind of rules are made by the National Commission?"
+      "What kind of rules are made by the National Commission?",
+      "What is central authority?",
+      "How does central authority work?",
+      "Can you explain central authority?"
     ]
   },
   "metadata": {

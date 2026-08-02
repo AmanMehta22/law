@@ -19,21 +19,47 @@
   "derived_from": [
     "CPA2019-CH1-S2-14"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.director_general",
+    "authority.director_general",
+    "intent.director_general",
+    "intent.director_general_2",
+    "intent.director_general_3",
+    "intent.director_general_references_central_government",
+    "relationship.alias_director_general_references_alias_central_government"
+  ],
   "search": {
     "keywords": [
       "Director-General",
       "Consumer Protection",
-      "Section 15"
+      "Section 15",
+      "director",
+      "general",
+      "definition",
+      "consumer",
+      "protection",
+      "act",
+      "appointed",
+      "sub",
+      "section"
     ],
     "aliases": [
       "Main Official",
-      "Chief Director"
+      "Chief Director",
+      "DG",
+      "Director General of Consumer Affairs",
+      "Head of Consumer Protection"
     ],
     "user_queries": [
       "What is a Director-General?",
       "Who is the Director-General under the Consumer Protection Act?",
-      "What does the Director-General do?"
+      "What does the Director-General do?",
+      "What is director-general?",
+      "How does director-general work?",
+      "Can you explain director-general?",
+      "What is additional director-general?",
+      "How does additional director-general work?",
+      "Can you explain additional director-general?"
     ]
   },
   "metadata": {

@@ -19,23 +19,42 @@
   "derived_from": [
     "CPA2019-CH1-S2-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.advertisement",
+    "intent.advertisement",
+    "intent.advertisement_2"
+  ],
   "search": {
     "keywords": [
       "advertisement",
       "publicity",
       "promotion",
-      "endorsement"
+      "endorsement",
+      "definition",
+      "consumer",
+      "protection",
+      "act",
+      "audio",
+      "visual",
+      "representation"
     ],
     "aliases": [
       "ad",
       "promo",
-      "publicity material"
+      "publicity material",
+      "Ad",
+      "Commercial",
+      "Marketing",
+      "Promotion",
+      "Publicity"
     ],
     "user_queries": [
       "What is an advertisement under the Consumer Protection Act",
       "What constitutes an advertisement",
-      "How is advertisement defined in the CPA 2019"
+      "How is advertisement defined in the CPA 2019",
+      "What is advertisement?",
+      "How does advertisement work?",
+      "Can you explain advertisement?"
     ]
   },
   "metadata": {

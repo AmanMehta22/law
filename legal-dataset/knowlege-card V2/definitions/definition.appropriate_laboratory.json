@@ -19,21 +19,45 @@
   "derived_from": [
     "CPA2019-CH1-S2-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appropriate_laboratory",
+    "alias.central_government",
+    "alias.state_government",
+    "authority.central_government",
+    "authority.state_government",
+    "exception.does_not_include_a_laboratory_or_an_organisation_that_is_not",
+    "intent.appropriate_laboratory"
+  ],
   "search": {
     "keywords": [
       "appropriate laboratory",
       "lab testing",
-      "government recognised lab"
+      "government recognised lab",
+      "appropriate",
+      "laboratory",
+      "definition",
+      "consumer",
+      "protection",
+      "act",
+      "organisation",
+      "recognised",
+      "central"
     ],
     "aliases": [
       "approved lab",
-      "recognised lab"
+      "recognised lab",
+      "Accredited Lab",
+      "Certification Lab",
+      "Recognized Lab",
+      "Testing Lab"
     ],
     "user_queries": [
       "What is an appropriate laboratory?",
       "How is a lab recognised by the government?",
-      "What kind of labs can test goods for defects?"
+      "What kind of labs can test goods for defects?",
+      "What is appropriate laboratory?",
+      "How does appropriate laboratory work?",
+      "Can you explain appropriate laboratory?"
     ]
   },
   "metadata": {

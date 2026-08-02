@@ -7,13 +7,21 @@
     "term": "product manufacturer",
     "legal_definition": "a person who— (i) makes any product or parts thereof; or (ii) assembles parts thereof made by others; or (iii) puts or causes to be put his own mark on any products made by any other person; or (iv) makes a product and sells, distributes, leases, installs, prepares, packages, labels, markets, repairs, maintains such product or is otherwise involved in placing such product for commercial purpose; or (v) designs, produces, fabricates, constructs or re-manufacters any product before its sale; or (vi) being a product seller of a product, is also a manufacturer of such product;",
     "plain_language": "A product manufacturer is a person who makes, assembles, or designs a product before its sale, or who sells, distributes, or repairs a product for commercial purposes.",
-    "examples": [],
-    "non_examples": []
+    "examples": [
+      "Not specified in the Act"
+    ],
+    "non_examples": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-36"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.product_manufacturer",
+    "intent.product_manufacturer",
+    "intent.product_manufacturer_2"
+  ],
   "search": {
     "keywords": [
       "product manufacturer",
@@ -24,17 +32,28 @@
       "product production",
       "product distribution",
       "product repair",
-      "product maintenance"
+      "product maintenance",
+      "product",
+      "manufacturer",
+      "person"
     ],
     "aliases": [
       "product maker",
       "product seller",
-      "manufacturer"
+      "manufacturer",
+      "Article Producer",
+      "Commodity Producer",
+      "Goods Manufacturer",
+      "Item Creator",
+      "Merchandise Maker"
     ],
     "user_queries": [
       "What is a product manufacturer?",
       "What does a product manufacturer do?",
-      "What is the role of a product manufacturer?"
+      "What is the role of a product manufacturer?",
+      "What is product manufacturer?",
+      "How does product manufacturer work?",
+      "Can you explain product manufacturer?"
     ]
   },
   "metadata": {

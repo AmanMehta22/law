@@ -19,21 +19,41 @@
   "derived_from": [
     "CPA2019-CH1-S2-20"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.express_warranty",
+    "intent.express_warranty",
+    "intent.express_warranty_2"
+  ],
   "search": {
     "keywords": [
       "express warranty",
       "product warranty",
-      "consumer protection"
+      "consumer protection",
+      "express",
+      "warranty",
+      "definition",
+      "consumer",
+      "protection",
+      "act",
+      "material",
+      "statement",
+      "affirmation"
     ],
     "aliases": [
       "warranty",
-      "product guarantee"
+      "product guarantee",
+      "Clear Promise",
+      "Explicit Warranty",
+      "Stated Warranty",
+      "Written Guarantee"
     ],
     "user_queries": [
       "What is an express warranty?",
       "What does express warranty mean?",
-      "Is a sample a warranty?"
+      "Is a sample a warranty?",
+      "What is express warranty?",
+      "How does express warranty work?",
+      "Can you explain express warranty?"
     ]
   },
   "metadata": {

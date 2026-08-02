@@ -19,21 +19,46 @@
   "derived_from": [
     "CPA2019-CH1-S2-15"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "authority.district_commission",
+    "intent.district_commission",
+    "intent.district_commission_2",
+    "intent.district_commission_3"
+  ],
   "search": {
     "keywords": [
       "District Commission",
       "consumer disputes",
-      "redressal commission"
+      "redressal commission",
+      "district",
+      "commission",
+      "definition",
+      "consumer",
+      "protection",
+      "act",
+      "disputes",
+      "redressal",
+      "established"
     ],
     "aliases": [
       "District Consumer Court",
-      "Local Consumer Forum"
+      "Local Consumer Forum",
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "Local Consumer Court"
     ],
     "user_queries": [
       "What is a District Commission?",
       "How to file a complaint in District Commission?",
-      "What is the role of District Commission in consumer protection?"
+      "What is the role of District Commission in consumer protection?",
+      "What is district commission?",
+      "How does district commission work?",
+      "Can you explain district commission?",
+      "What is acknowledgment?",
+      "How does acknowledgment work?",
+      "Can you explain acknowledgment?"
     ]
   },
   "metadata": {

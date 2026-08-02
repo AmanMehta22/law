@@ -19,21 +19,45 @@
   "derived_from": [
     "CPA2019-CH1-S2-6"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.allegation_in_writing",
+    "alias.complaint_under_consumer_protection_act_2019",
+    "alias.relief",
+    "alias.right_to_relief",
+    "evidence.written_complaint",
+    "intent.allegation_in_writing",
+    "intent.allegation_in_writing_2"
+  ],
   "search": {
     "keywords": [
       "complaint",
       "consumer protection",
-      "unfair trade practice"
+      "unfair trade practice",
+      "consumer",
+      "protection",
+      "act",
+      "definition",
+      "per",
+      "allegation",
+      "writing",
+      "made",
+      "complainant"
     ],
     "aliases": [
       "grievance",
-      "allegation"
+      "allegation",
+      "CPA Complaint",
+      "Consumer Complaint",
+      "Consumer Protection Claim",
+      "Section 35 Complaint"
     ],
     "user_queries": [
       "How do I file a complaint under the Consumer Protection Act?",
       "What is considered a complaint under the CPA?",
-      "Can I file a complaint for a defective product?"
+      "Can I file a complaint for a defective product?",
+      "What is allegation in writing?",
+      "How does allegation in writing work?",
+      "Can you explain allegation in writing?"
     ]
   },
   "metadata": {

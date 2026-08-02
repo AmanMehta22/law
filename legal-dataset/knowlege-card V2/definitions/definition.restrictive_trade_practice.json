@@ -19,21 +19,43 @@
   "derived_from": [
     "CPA2019-CH1-S2-41"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.restrictive_trade_practice",
+    "alias.trader_must_supply_goods_or_services_within_agreed_period",
+    "intent.restrictive_trade_practice",
+    "intent.restrictive_trade_practice_2",
+    "intent.trader_must_supply_goods_or_services_within_agreed_period",
+    "intent.trader_must_supply_goods_or_services_within_agreed_period_2"
+  ],
   "search": {
     "keywords": [
       "restrictive trade practice",
       "unfair business practice",
-      "consumer protection"
+      "consumer protection",
+      "restrictive",
+      "trade",
+      "practice",
+      "manipulates",
+      "price",
+      "delivery",
+      "conditions",
+      "supply",
+      "flow"
     ],
     "aliases": [
       "anti-competitive practice",
-      "unfair trade practice"
+      "unfair trade practice",
+      "Anti-Competitive Practice",
+      "Monopolistic Practice",
+      "Unfair Business Practice"
     ],
     "user_queries": [
       "What is a restrictive trade practice?",
       "What are examples of unfair business practices?",
-      "How does the Consumer Protection Act regulate trade practices?"
+      "How does the Consumer Protection Act regulate trade practices?",
+      "What is restrictive trade practice?",
+      "How does restrictive trade practice work?",
+      "Can you explain restrictive trade practice?"
     ]
   },
   "metadata": {

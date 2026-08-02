@@ -19,23 +19,46 @@
   "derived_from": [
     "CPA2019-CH1-S2-34"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.compensation_for_harm_caused",
+    "alias.product_liability",
+    "alias.product_manufacturer_or_seller_must_compensate_for_harm",
+    "intent.compensation_for_harm_caused",
+    "intent.compensation_for_harm_caused_3",
+    "intent.product_liability",
+    "intent.product_liability_2"
+  ],
   "search": {
     "keywords": [
       "product liability",
       "consumer protection",
       "defective product",
       "product manufacturer",
-      "product seller"
+      "product seller",
+      "product",
+      "liability",
+      "responsibility",
+      "manufacturer",
+      "seller",
+      "compensate",
+      "harm"
     ],
     "aliases": [
       "product responsibility",
-      "manufacturer liability"
+      "manufacturer liability",
+      "Defective Product Liability",
+      "Goods Liability",
+      "Manufacturer Liability",
+      "Product Responsibility",
+      "Strict Liability"
     ],
     "user_queries": [
       "What is product liability?",
       "Can I sue a company for a defective product?",
-      "What happens if a product causes harm to a consumer?"
+      "What happens if a product causes harm to a consumer?",
+      "What is compensation for harm caused?",
+      "How does compensation for harm caused work?",
+      "Can you explain compensation for harm caused?"
     ]
   },
   "metadata": {

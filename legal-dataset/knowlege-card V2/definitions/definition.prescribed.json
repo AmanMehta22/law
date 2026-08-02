@@ -19,24 +19,47 @@
   "derived_from": [
     "CPA2019-CH1-S2-32"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.prescribed",
+    "alias.state_government",
+    "authority.central_government",
+    "authority.state_government",
+    "intent.central_government",
+    "intent.central_government_2"
+  ],
   "search": {
     "keywords": [
       "prescribed",
       "Central Government",
       "State Government",
       "rules",
-      "regulations"
+      "regulations",
+      "definition",
+      "consumer",
+      "protection",
+      "act",
+      "made",
+      "central",
+      "government"
     ],
     "aliases": [
       "officially stated",
       "mandated",
-      "required by law"
+      "required by law",
+      "Mandated",
+      "Regulated",
+      "Required",
+      "Specified",
+      "Stipulated"
     ],
     "user_queries": [
       "What does prescribed mean in consumer law?",
       "What is the meaning of prescribed in the Consumer Protection Act?",
-      "How is prescribed defined under Indian law?"
+      "How is prescribed defined under Indian law?",
+      "What is prescribed?",
+      "How does prescribed work?",
+      "Can you explain prescribed?"
     ]
   },
   "metadata": {

@@ -20,23 +20,43 @@
   "derived_from": [
     "CPA2019-CH1-S2-31"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.definition_of_person",
+    "intent.definition_of_person",
+    "intent.definition_of_person_2"
+  ],
   "search": {
     "keywords": [
       "person",
       "individual",
       "business",
-      "organization"
+      "organization",
+      "definition",
+      "legal",
+      "consumer",
+      "protection",
+      "act",
+      "firm",
+      "whether",
+      "registered"
     ],
     "aliases": [
       "individual",
       "entity",
-      "party"
+      "party",
+      "Entity",
+      "Individual",
+      "Legal Person",
+      "Natural Person",
+      "Organization"
     ],
     "user_queries": [
       "What is a person under the Consumer Protection Act?",
       "Who is considered a person in law?",
-      "What kinds of entities are considered persons?"
+      "What kinds of entities are considered persons?",
+      "What is definition of person?",
+      "How does definition of person work?",
+      "Can you explain definition of person?"
     ]
   },
   "metadata": {

@@ -19,22 +19,43 @@
   "derived_from": [
     "CPA2019-CH1-S2-10"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.defect",
+    "intent.defect",
+    "intent.defect_2"
+  ],
   "search": {
     "keywords": [
       "defect",
       "product flaw",
-      "quality issue"
+      "quality issue",
+      "definition",
+      "consumer",
+      "protection",
+      "act",
+      "fault",
+      "imperfection",
+      "shortcoming",
+      "quality",
+      "quantity"
     ],
     "aliases": [
       "flaw",
       "fault",
-      "imperfection"
+      "imperfection",
+      "Deficiency",
+      "Fault",
+      "Flaw",
+      "Imperfection",
+      "Shortcoming"
     ],
     "user_queries": [
       "what is a defect in a product",
       "what makes a product defective",
-      "how to identify a defect in goods"
+      "how to identify a defect in goods",
+      "What is defect?",
+      "How does defect work?",
+      "Can you explain defect?"
     ]
   },
   "metadata": {

@@ -19,21 +19,41 @@
   "derived_from": [
     "CPA2019-CH1-S2-38"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.product_service_provider",
+    "intent.product_service_provider",
+    "intent.product_service_provider_2"
+  ],
   "search": {
     "keywords": [
       "product service provider",
       "service provider",
-      "product services"
+      "product services",
+      "product",
+      "service",
+      "provider",
+      "definition",
+      "consumer",
+      "protection",
+      "act",
+      "person",
+      "who"
     ],
     "aliases": [
       "service provider",
-      "product maintainer"
+      "product maintainer",
+      "Distributor",
+      "Manufacturer",
+      "Service Provider",
+      "Supplier"
     ],
     "user_queries": [
       "What is a product service provider?",
       "Who is considered a product service provider?",
-      "What services are included in product service provider?"
+      "What services are included in product service provider?",
+      "What is product service provider?",
+      "How does product service provider work?",
+      "Can you explain product service provider?"
     ]
   },
   "metadata": {

@@ -19,24 +19,43 @@
   "derived_from": [
     "CPA2019-CH1-S2-45"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.trader",
+    "intent.trader",
+    "intent.trader_2"
+  ],
   "search": {
     "keywords": [
       "trader",
       "seller",
       "distributor",
       "manufacturer",
-      "packer"
+      "packer",
+      "definition",
+      "consumer",
+      "protection",
+      "act",
+      "person",
+      "who",
+      "sells"
     ],
     "aliases": [
       "seller",
       "vendor",
-      "supplier"
+      "supplier",
+      "Businessman",
+      "Dealer",
+      "Merchant",
+      "Seller",
+      "Supplier"
     ],
     "user_queries": [
       "What is a trader under the Consumer Protection Act?",
       "Who is considered a trader in India?",
-      "What does trader mean in consumer law?"
+      "What does trader mean in consumer law?",
+      "What is trader?",
+      "How does trader work?",
+      "Can you explain trader?"
     ]
   },
   "metadata": {

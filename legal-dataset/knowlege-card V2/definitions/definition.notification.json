@@ -19,21 +19,42 @@
   "derived_from": [
     "CPA2019-CH1-S2-30"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.notification",
+    "intent.notification",
+    "intent.notification_2"
+  ],
   "search": {
     "keywords": [
       "official gazette",
       "government notification",
-      "public notice"
+      "public notice",
+      "notification",
+      "definition",
+      "consumer",
+      "protection",
+      "act",
+      "published",
+      "official",
+      "gazette",
+      "term"
     ],
     "aliases": [
       "official announcement",
-      "public notification"
+      "public notification",
+      "Announcement",
+      "Gazette Notification",
+      "Official Notice",
+      "Public Notice",
+      "Regulatory Notice"
     ],
     "user_queries": [
       "What is a notification in the Consumer Protection Act",
       "How is a notification published",
-      "What is meant by notification in law"
+      "What is meant by notification in law",
+      "What is notification?",
+      "How does notification work?",
+      "Can you explain notification?"
     ]
   },
   "metadata": {

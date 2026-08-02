@@ -19,21 +19,46 @@
   "derived_from": [
     "CPA2019-CH1-S2-35"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.compensation_for_harm_caused",
+    "alias.district_commission",
+    "alias.filing_a_product_liability_action",
+    "alias.national_commission",
+    "alias.product_liability_action",
+    "alias.right_to_compensation",
+    "alias.state_commission"
+  ],
   "search": {
     "keywords": [
       "product liability",
       "consumer complaint",
-      "compensation claim"
+      "compensation claim",
+      "product",
+      "liability",
+      "action",
+      "definition",
+      "consumer",
+      "protection",
+      "act",
+      "complaint",
+      "filed"
     ],
     "aliases": [
       "product liability claim",
-      "consumer protection complaint"
+      "consumer protection complaint",
+      "Defective Product Action",
+      "Manufacturer Liability Action",
+      "Product Liability Case",
+      "Product Liability Claim",
+      "Product Liability Lawsuit"
     ],
     "user_queries": [
       "What is product liability action?",
       "How to file a product liability complaint?",
-      "What is the process for claiming compensation for product harm?"
+      "What is the process for claiming compensation for product harm?",
+      "What is filing a product liability action?",
+      "How does filing a product liability action work?",
+      "Can you explain filing a product liability action?"
     ]
   },
   "metadata": {

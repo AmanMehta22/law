@@ -19,22 +19,47 @@
   "derived_from": [
     "CPA2019-CH1-S2-37"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.product_seller",
+    "exception.does_not_include_a_person_who_acts_only_in_a_financial_capac",
+    "exception.does_not_include_a_person_who_leases_a_product_without_havin",
+    "exception.does_not_include_a_provider_of_professional_services_in_any_",
+    "intent.financial_capacity",
+    "intent.leasing_a_product",
+    "intent.product_seller"
+  ],
   "search": {
     "keywords": [
       "product seller",
       "consumer protection",
-      "commercial purpose"
+      "commercial purpose",
+      "product",
+      "seller",
+      "definition",
+      "consumer",
+      "protection",
+      "act",
+      "person",
+      "who",
+      "course"
     ],
     "aliases": [
       "seller",
       "vendor",
-      "supplier"
+      "supplier",
+      "Merchant",
+      "Retailer",
+      "Supplier",
+      "Vendor",
+      "Wholesaler"
     ],
     "user_queries": [
       "What is a product seller?",
       "Who is considered a product seller under the Consumer Protection Act?",
-      "What businesses are included in the definition of product seller?"
+      "What businesses are included in the definition of product seller?",
+      "What is financial capacity?",
+      "How does financial capacity work?",
+      "Can you explain financial capacity?"
     ]
   },
   "metadata": {

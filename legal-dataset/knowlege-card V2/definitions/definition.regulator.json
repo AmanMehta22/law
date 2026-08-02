@@ -19,21 +19,45 @@
   "derived_from": [
     "CPA2019-CH1-S2-40"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.regulator",
+    "authority.regulator",
+    "intent.regulator",
+    "intent.regulator_2",
+    "intent.regulator_3"
+  ],
   "search": {
     "keywords": [
       "regulator",
       "authority",
-      "government body"
+      "government body",
+      "definition",
+      "consumer",
+      "protection",
+      "act",
+      "body",
+      "established",
+      "other",
+      "law"
     ],
     "aliases": [
       "authority",
-      "regulatory body"
+      "regulatory body",
+      "Authority",
+      "Enforcement Agency",
+      "Oversight Body",
+      "Watchdog"
     ],
     "user_queries": [
       "What is a regulator in consumer protection?",
       "Who is considered a regulator under the law?",
-      "What is the definition of a regulator?"
+      "What is the definition of a regulator?",
+      "What is regulator?",
+      "How does regulator work?",
+      "Can you explain regulator?",
+      "What is central authority must refer matter to regulator?",
+      "How does central authority must refer matter to regulator work?",
+      "Can you explain central authority must refer matter to regulator?"
     ]
   },
   "metadata": {

@@ -19,21 +19,41 @@
   "derived_from": [
     "CPA2019-CH1-S2-13"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.direct_selling",
+    "intent.direct_selling",
+    "intent.direct_selling_2"
+  ],
   "search": {
     "keywords": [
       "direct sales",
       "network marketing",
-      "door-to-door sales"
+      "door-to-door sales",
+      "direct",
+      "selling",
+      "definition",
+      "consumer",
+      "protection",
+      "act",
+      "marketing",
+      "distribution",
+      "sale"
     ],
     "aliases": [
       "multi-level marketing",
-      "network selling"
+      "network selling",
+      "Door-to-Door Sales",
+      "Multi-Level Marketing",
+      "Network Marketing",
+      "Person-to-Person Sales"
     ],
     "user_queries": [
       "What is direct selling",
       "How does direct selling work",
-      "Is direct selling legal in India"
+      "Is direct selling legal in India",
+      "What is direct selling?",
+      "How does direct selling work?",
+      "Can you explain direct selling?"
     ]
   },
   "metadata": {

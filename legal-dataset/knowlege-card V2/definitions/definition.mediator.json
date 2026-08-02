@@ -19,21 +19,42 @@
   "derived_from": [
     "CPA2019-CH1-S2-26"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.mediator",
+    "intent.mediator",
+    "intent.mediator_2"
+  ],
   "search": {
     "keywords": [
       "mediator",
       "dispute resolution",
-      "consumer protection"
+      "consumer protection",
+      "definition",
+      "consumer",
+      "protection",
+      "act",
+      "referred",
+      "section",
+      "person",
+      "who",
+      "helps"
     ],
     "aliases": [
       "neutral third-party",
-      "facilitator"
+      "facilitator",
+      "Arbitrator",
+      "Dispute Resolver",
+      "Mediation Expert",
+      "Mediation Officer",
+      "Neutral Third Party"
     ],
     "user_queries": [
       "What is a mediator in consumer protection?",
       "How does a mediator help resolve disputes?",
-      "What is the role of a mediator in the Consumer Protection Act?"
+      "What is the role of a mediator in the Consumer Protection Act?",
+      "What is mediator?",
+      "How does mediator work?",
+      "Can you explain mediator?"
     ]
   },
   "metadata": {

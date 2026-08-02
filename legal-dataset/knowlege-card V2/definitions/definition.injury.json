@@ -19,22 +19,41 @@
   "derived_from": [
     "CPA2019-CH1-S2-23"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.injury",
+    "intent.injury",
+    "intent.injury_2"
+  ],
   "search": {
     "keywords": [
       "injury",
       "harm",
       "damage",
-      "illegal harm"
+      "illegal harm",
+      "definition",
+      "consumer",
+      "protection",
+      "act",
+      "whatever",
+      "illegally",
+      "caused",
+      "person"
     ],
     "aliases": [
       "harm",
-      "damage"
+      "damage",
+      "Damage",
+      "Harm",
+      "Physical or Mental Harm",
+      "Trauma"
     ],
     "user_queries": [
       "what is injury under consumer protection act",
       "what constitutes injury in consumer law",
-      "what is meant by injury in legal terms"
+      "what is meant by injury in legal terms",
+      "What is injury?",
+      "How does injury work?",
+      "Can you explain injury?"
     ]
   },
   "metadata": {

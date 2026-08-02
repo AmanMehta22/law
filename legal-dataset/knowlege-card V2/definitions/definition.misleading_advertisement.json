@@ -19,21 +19,45 @@
   "derived_from": [
     "CPA2019-CH1-S2-28"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.misleading_advertisement",
+    "intent.misleading_advertisement",
+    "intent.misleading_advertisement_2"
+  ],
   "search": {
     "keywords": [
       "misleading advertisement",
       "false advertising",
-      "consumer protection"
+      "consumer protection",
+      "misleading",
+      "advertisement",
+      "definition",
+      "consumer",
+      "protection",
+      "act",
+      "which",
+      "falsely",
+      "describes"
     ],
     "aliases": [
       "deceptive advertising",
-      "false ad"
+      "false ad",
+      "Deceptive Advertising",
+      "False Ad",
+      "Fraudulent Claim",
+      "Misleading Promo",
+      "Untrue Advertisement"
     ],
     "user_queries": [
       "What is a misleading ad?",
       "How to identify false advertising?",
-      "What constitutes deceptive advertising?"
+      "What constitutes deceptive advertising?",
+      "What is misleading advertisement?",
+      "How does misleading advertisement work?",
+      "Can you explain misleading advertisement?",
+      "What is central authority references misleading advertisement?",
+      "How does central authority references misleading advertisement work?",
+      "Can you explain central authority references misleading advertisement?"
     ]
   },
   "metadata": {

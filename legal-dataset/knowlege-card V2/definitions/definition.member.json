@@ -19,22 +19,46 @@
   "derived_from": [
     "CPA2019-CH1-S2-27"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.member",
+    "alias.national_commission",
+    "alias.state_commission",
+    "authority.district_commission",
+    "authority.national_commission",
+    "authority.state_commission"
+  ],
   "search": {
     "keywords": [
       "member",
       "National Commission",
       "State Commission",
-      "District Commission"
+      "District Commission",
+      "definition",
+      "consumer",
+      "protection",
+      "act",
+      "includes",
+      "president",
+      "national",
+      "commission"
     ],
     "aliases": [
       "commission member",
-      "president"
+      "president",
+      "Board Member",
+      "Commission Member",
+      "Committee Member",
+      "Panel Member",
+      "Representative"
     ],
     "user_queries": [
       "What is a member of the National Commission?",
       "Who is considered a member under the Consumer Protection Act?",
-      "What does member mean in the context of consumer protection?"
+      "What does member mean in the context of consumer protection?",
+      "What is district commission?",
+      "How does district commission work?",
+      "Can you explain district commission?"
     ]
   },
   "metadata": {

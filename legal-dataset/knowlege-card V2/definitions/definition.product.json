@@ -19,22 +19,44 @@
   "derived_from": [
     "CPA2019-CH1-S2-33"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.product_definition",
+    "exception.does_not_include_human_tissues_blood_blood_products_and_orga",
+    "intent.exclusion_of_human_tissues_blood_blood_products_and_organs",
+    "intent.product_definition",
+    "intent.product_definition_2"
+  ],
   "search": {
     "keywords": [
       "product",
       "goods",
       "trade",
-      "commerce"
+      "commerce",
+      "definition",
+      "consumer",
+      "protection",
+      "act",
+      "article",
+      "substance",
+      "raw",
+      "material"
     ],
     "aliases": [
       "good",
-      "commodity"
+      "commodity",
+      "Article Definition",
+      "Commodity Definition",
+      "Goods Definition",
+      "Item Definition",
+      "Merchandise Definition"
     ],
     "user_queries": [
       "What is a product under the Consumer Protection Act?",
       "What is considered a product in India?",
-      "What does product mean in consumer law?"
+      "What does product mean in consumer law?",
+      "What is exclusion of human tissues, blood, blood products and organs?",
+      "How does exclusion of human tissues, blood, blood products and organs work?",
+      "Can you explain exclusion of human tissues, blood, blood products and organs?"
     ]
   },
   "metadata": {

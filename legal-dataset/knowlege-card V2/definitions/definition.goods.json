@@ -19,22 +19,41 @@
   "derived_from": [
     "CPA2019-CH1-S2-21"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.goods",
+    "intent.goods",
+    "intent.goods_2"
+  ],
   "search": {
     "keywords": [
       "goods",
       "movable property",
       "food",
-      "consumer goods"
+      "consumer goods",
+      "definition",
+      "consumer",
+      "protection",
+      "act",
+      "means",
+      "every",
+      "kind",
+      "movable"
     ],
     "aliases": [
       "products",
-      "commodities"
+      "commodities",
+      "Commodities",
+      "Items",
+      "Merchandise",
+      "Products"
     ],
     "user_queries": [
       "what are goods under consumer protection act",
       "definition of goods in CPA 2019",
-      "meaning of goods in law"
+      "meaning of goods in law",
+      "What is goods?",
+      "How does goods work?",
+      "Can you explain goods?"
     ]
   },
   "metadata": {

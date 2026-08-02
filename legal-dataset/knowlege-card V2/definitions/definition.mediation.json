@@ -19,21 +19,44 @@
   "derived_from": [
     "CPA2019-CH1-S2-25"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.mediation",
+    "intent.mediation",
+    "intent.mediation_2"
+  ],
   "search": {
     "keywords": [
       "mediation",
       "consumer disputes",
-      "alternative dispute resolution"
+      "alternative dispute resolution",
+      "definition",
+      "consumer",
+      "protection",
+      "act",
+      "process",
+      "which",
+      "mediator",
+      "mediates",
+      "disputes"
     ],
     "aliases": [
       "alternative dispute resolution",
-      "ADR"
+      "ADR",
+      "Alternative Dispute Resolution",
+      "Dispute Mediation",
+      "Mediation Process",
+      "Negotiation"
     ],
     "user_queries": [
       "what is mediation in consumer law",
       "how does mediation work in consumer disputes",
-      "what is the purpose of mediation in consumer protection"
+      "what is the purpose of mediation in consumer protection",
+      "What is mediation?",
+      "How does mediation work?",
+      "Can you explain mediation?",
+      "What is district commission references mediation?",
+      "How does district commission references mediation work?",
+      "Can you explain district commission references mediation?"
     ]
   },
   "metadata": {

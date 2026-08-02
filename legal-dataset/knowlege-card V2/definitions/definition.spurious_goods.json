@@ -19,21 +19,41 @@
   "derived_from": [
     "CPA2019-CH1-S2-43"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.spurious_goods",
+    "intent.spurious_goods",
+    "intent.spurious_goods_2"
+  ],
   "search": {
     "keywords": [
       "spurious goods",
       "counterfeit products",
-      "fake goods"
+      "fake goods",
+      "spurious",
+      "goods",
+      "definition",
+      "consumer",
+      "protection",
+      "act",
+      "such",
+      "which",
+      "falsely"
     ],
     "aliases": [
       "fake goods",
-      "counterfeit products"
+      "counterfeit products",
+      "Counterfeit Goods",
+      "Fake Products",
+      "Pirated Items",
+      "Unauthentic Merchandise"
     ],
     "user_queries": [
       "What are spurious goods?",
       "What is meant by spurious goods?",
-      "How are spurious goods defined under the Consumer Protection Act?"
+      "How are spurious goods defined under the Consumer Protection Act?",
+      "What is spurious goods?",
+      "How does spurious goods work?",
+      "Can you explain spurious goods?"
     ]
   },
   "metadata": {

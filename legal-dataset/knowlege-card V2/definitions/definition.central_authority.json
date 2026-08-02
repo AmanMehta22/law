@@ -19,21 +19,47 @@
   "derived_from": [
     "CPA2019-CH1-S2-4"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_consumer_protection_authority",
+    "authority.central_consumer_protection_authority",
+    "intent.central_authority",
+    "intent.central_authority_3",
+    "intent.central_consumer_protection_authority",
+    "intent.central_consumer_protection_authority_2"
+  ],
   "search": {
     "keywords": [
       "Central Authority",
       "Consumer Protection",
-      "Central Consumer Protection Authority"
+      "Central Consumer Protection Authority",
+      "central",
+      "authority",
+      "definition",
+      "consumer",
+      "protection",
+      "act",
+      "established",
+      "section",
+      "government"
     ],
     "aliases": [
       "CCPA",
-      "Central Agency"
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
     ],
     "user_queries": [
       "What is the Central Authority under the Consumer Protection Act",
       "Who is responsible for enforcing consumer protection laws in India",
-      "What is the role of the Central Consumer Protection Authority"
+      "What is the role of the Central Consumer Protection Authority",
+      "What is accounts and audit reports?",
+      "How does accounts and audit reports work?",
+      "Can you explain accounts and audit reports?"
     ]
   },
   "metadata": {
