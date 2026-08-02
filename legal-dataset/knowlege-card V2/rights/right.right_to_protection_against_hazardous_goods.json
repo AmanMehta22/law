@@ -5,24 +5,54 @@
   "description": "right to be protected against the marketing of goods, products or services which are hazardous to life and property",
   "content": {
     "right": "Protection",
-    "conditions": [],
-    "limitations": [],
-    "exceptions": []
+    "conditions": [
+      "the marketing of goods, products or services which are hazardous to life and property"
+    ],
+    "limitations": [
+      "Not specified in the Act"
+    ],
+    "exceptions": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-9"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.consumer_rights",
+    "alias.redressal_against_unfair_trade_practice",
+    "alias.right_to_access_to_variety_of_goods",
+    "alias.right_to_be_heard",
+    "alias.right_to_consumer_awareness",
+    "alias.right_to_information",
+    "alias.right_to_protection_against_hazardous_goods"
+  ],
   "search": {
     "keywords": [
       "hazardous goods",
-      "life and property"
+      "life and property",
+      "right",
+      "protection",
+      "against",
+      "hazardous",
+      "goods",
+      "protected",
+      "marketing",
+      "products",
+      "services",
+      "which"
     ],
     "aliases": [
-      "right to safety"
+      "right to safety",
+      "consumer protection from hazardous goods",
+      "protection from hazardous goods",
+      "right to protection from hazardous goods"
     ],
     "user_queries": [
-      "what are my rights against hazardous products"
+      "what are my rights against hazardous products",
+      "What is consumer rights?",
+      "How does consumer rights work?",
+      "Can you explain consumer rights?"
     ]
   },
   "metadata": {

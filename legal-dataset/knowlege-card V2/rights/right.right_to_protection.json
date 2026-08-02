@@ -5,24 +5,47 @@
   "description": "protection of consumers' rights",
   "content": {
     "right": "Protection",
-    "conditions": [],
-    "limitations": [],
-    "exceptions": []
+    "conditions": [
+      "Not specified in the Act"
+    ],
+    "limitations": [
+      "Not specified in the Act"
+    ],
+    "exceptions": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH2-S5"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_council",
+    "alias.central_council_must_render_advice",
+    "alias.right_to_protection",
+    "authority.central_council",
+    "intent.central_council",
+    "intent.central_council_2",
+    "intent.central_council_must_render_advice"
+  ],
   "search": {
     "keywords": [
       "consumers' rights",
-      "protection"
+      "protection",
+      "right",
+      "consumers",
+      "rights"
     ],
     "aliases": [
-      "right to protection of consumers' rights"
+      "right to protection of consumers' rights",
+      "consumer protection",
+      "protection rights",
+      "right protection"
     ],
     "user_queries": [
-      "What are my rights as a consumer?"
+      "What are my rights as a consumer?",
+      "What is central council must render advice?",
+      "How does central council must render advice work?",
+      "Can you explain central council must render advice?"
     ]
   },
   "metadata": {

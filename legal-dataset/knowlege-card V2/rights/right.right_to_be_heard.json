@@ -10,8 +10,15 @@
       "the report made by the appropriate laboratory is disputed by any of the parties",
       "complaint admitted by the District Commission under sub-section (2) of section 36"
     ],
-    "limitations": [],
-    "exceptions": []
+    "limitations": [
+      "the admissibility of the complaint shall ordinarily be decided within twenty-one days from the date on which the complaint was filed",
+      "a period of thirty days or such extended period not exceeding fifteen days as may be granted by it",
+      "a period of forty-five days of the receipt of the reference or within such extended period as may be granted by it"
+    ],
+    "exceptions": [
+      "where the complaint alleges a defect in the goods which cannot be determined without proper analysis or test of the goods",
+      "if the opposite party on receipt of a complaint referred to him under clause (a) denies or disputes the allegations contained in the complaint, or omits or fails to take any action to represent his case within the time given by the District Commission"
+    ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-9",
@@ -20,7 +27,15 @@
     "CPA2019-CH4-S38-2",
     "CPA2019-CH4-S38-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.consumer_rights",
+    "alias.redressal_against_unfair_trade_practice",
+    "alias.right_to_access_to_variety_of_goods",
+    "alias.right_to_be_heard",
+    "alias.right_to_consumer_awareness",
+    "alias.right_to_information",
+    "alias.right_to_protection_against_hazardous_goods"
+  ],
   "search": {
     "keywords": [
       "consumer interests",
@@ -30,21 +45,31 @@
       "be heard",
       "right to be heard",
       "consumer dispute",
-      "District Commission"
+      "District Commission",
+      "right",
+      "heard",
+      "assured",
+      "consumer"
     ],
     "aliases": [
       "right to voice",
       "right to a hearing",
       "right to a fair hearing",
       "right to present case",
-      "right to representation"
+      "right to representation",
+      "hearing rights",
+      "right to express opinion",
+      "right to speak"
     ],
     "user_queries": [
       "how can I make my complaint heard",
       "right to speak before order is passed",
       "right to present case",
       "can I dispute the lab report",
-      "can I present my case to the District Commission"
+      "can I present my case to the District Commission",
+      "What is admissibility decision time limit?",
+      "How does admissibility decision time limit work?",
+      "Can you explain admissibility decision time limit?"
     ]
   },
   "metadata": {

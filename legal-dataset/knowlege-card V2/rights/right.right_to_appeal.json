@@ -23,7 +23,13 @@
       "no appeal by a person, who is required to pay any amount in terms of an order of the State Commission, shall be entertained by the National Commission unless the appellant has deposited fifty per cent. of that amount in the manner as may be prescribed",
       "no appeal shall be entertained unless fifty per cent of the amount ordered to be paid has been deposited"
     ],
-    "exceptions": []
+    "exceptions": [
+      "where the Central Government deems it necessary so to do, it may prescribe such other value, as it deems fit",
+      "order passed ex parte by the State Commission",
+      "unless it is satisfied that there was sufficient cause for not filing it within that period",
+      "unless the appellant has deposited fifty per cent. of that amount in the manner as may be prescribed",
+      "Save as otherwise expressly provided under this Act or by any other law for the time being in force"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S24",
@@ -37,7 +43,15 @@
     "CPA2019-CH4-S73-1",
     "CPA2019-CH4-S73-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_time_limit",
+    "alias.central_authority",
+    "alias.filing_an_appeal",
+    "alias.national_commission",
+    "alias.right_to_appeal",
+    "authority.central_authority",
+    "authority.national_commission"
+  ],
   "search": {
     "keywords": [
       "appeal",
@@ -48,14 +62,20 @@
       "substantial question of law",
       "ex parte",
       "Supreme Court",
-      "order"
+      "order",
+      "right",
+      "against",
+      "passed"
     ],
     "aliases": [
       "right to challenge",
       "right to contest",
       "right to challenge an order",
       "right to review",
-      "right to be heard"
+      "right to be heard",
+      "appeal process",
+      "appeal rights",
+      "complaint appeal"
     ],
     "user_queries": [
       "how to appeal against Central Authority order",

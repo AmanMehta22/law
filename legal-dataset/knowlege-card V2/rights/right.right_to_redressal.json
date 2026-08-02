@@ -5,24 +5,53 @@
   "description": "right to seek redressal against unfair trade practice or restrictive trade practices or unscrupulous exploitation of consumers",
   "content": {
     "right": "Redressal",
-    "conditions": [],
-    "limitations": [],
-    "exceptions": []
+    "conditions": [
+      "Not specified in the Act"
+    ],
+    "limitations": [
+      "Not specified in the Act"
+    ],
+    "exceptions": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-9"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.consumer_rights",
+    "alias.redressal_against_unfair_trade_practice",
+    "alias.right_to_access_to_variety_of_goods",
+    "alias.right_to_be_heard",
+    "alias.right_to_consumer_awareness",
+    "alias.right_to_information",
+    "alias.right_to_protection_against_hazardous_goods"
+  ],
   "search": {
     "keywords": [
       "unfair trade practices",
-      "redressal"
+      "redressal",
+      "right",
+      "seek",
+      "against",
+      "unfair",
+      "trade",
+      "practice",
+      "restrictive",
+      "practices",
+      "unscrupulous"
     ],
     "aliases": [
-      "right to compensation"
+      "right to compensation",
+      "consumer redressal",
+      "redressal rights",
+      "right to redressal"
     ],
     "user_queries": [
-      "what can I do against unfair trade practices"
+      "what can I do against unfair trade practices",
+      "What is right to redressal?",
+      "How does right to redressal work?",
+      "Can you explain right to redressal?"
     ]
   },
   "metadata": {

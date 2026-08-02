@@ -8,23 +8,52 @@
     "conditions": [
       "wherever possible"
     ],
-    "limitations": [],
-    "exceptions": []
+    "limitations": [
+      "wherever possible"
+    ],
+    "exceptions": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-9"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.consumer_rights",
+    "alias.redressal_against_unfair_trade_practice",
+    "alias.right_to_access_to_variety_of_goods",
+    "alias.right_to_be_heard",
+    "alias.right_to_consumer_awareness",
+    "alias.right_to_information",
+    "alias.right_to_protection_against_hazardous_goods"
+  ],
   "search": {
     "keywords": [
       "competitive prices",
-      "variety of goods"
+      "variety of goods",
+      "right",
+      "access",
+      "variety",
+      "goods",
+      "assured",
+      "products",
+      "services",
+      "competitive",
+      "prices",
+      "wherever"
     ],
     "aliases": [
-      "right to choice"
+      "right to choice",
+      "Access to Diverse Products",
+      "Freedom of Choice",
+      "Right to Choose",
+      "Variety of Options"
     ],
     "user_queries": [
-      "can I get different options for a product"
+      "can I get different options for a product",
+      "What is consumer rights?",
+      "How does consumer rights work?",
+      "Can you explain consumer rights?"
     ]
   },
   "metadata": {

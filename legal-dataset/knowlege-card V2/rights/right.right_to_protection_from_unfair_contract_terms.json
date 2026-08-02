@@ -5,26 +5,57 @@
   "description": "right to have unfair contract terms declared null and void",
   "content": {
     "right": "Protection from Unfair Contract Terms",
-    "conditions": [],
-    "limitations": [],
-    "exceptions": []
+    "conditions": [
+      "the terms of contract is unfair to any consumer"
+    ],
+    "limitations": [
+      "Without prejudice to the provisions of sub-section (1)",
+      "Without prejudice to sub-section (1)"
+    ],
+    "exceptions": [
+      "Without prejudice to the provisions of sub-section (1)",
+      "Without prejudice to sub-section (1)"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S49-2",
     "CPA2019-CH4-S59-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.declaration_of_unfair_contract_terms_as_null_and_void",
+    "alias.right_to_protection_from_unfair_contract_terms",
+    "alias.state_commission",
+    "alias.state_commission_may_declare_unfair_contract_terms_null_and_void",
+    "authority.state_commission",
+    "intent.declaration_of_unfair_contract_terms_as_null_and_void",
+    "intent.declaration_of_unfair_contract_terms_as_null_and_void_2"
+  ],
   "search": {
     "keywords": [
       "unfair contract terms",
-      "null and void"
+      "null and void",
+      "right",
+      "protection",
+      "unfair",
+      "contract",
+      "terms",
+      "have",
+      "declared",
+      "null",
+      "void"
     ],
     "aliases": [
-      "right to fair contract terms"
+      "right to fair contract terms",
+      "consumer protection from unfair contracts",
+      "protection from unfair terms",
+      "right to protection from unfair contract terms"
     ],
     "user_queries": [
       "can a consumer challenge unfair contract terms",
-      "can a contract be declared null and void if it is unfair"
+      "can a contract be declared null and void if it is unfair",
+      "What is declaration of contract terms as null and void?",
+      "How does declaration of contract terms as null and void work?",
+      "Can you explain declaration of contract terms as null and void?"
     ]
   },
   "metadata": {

@@ -8,26 +8,57 @@
     "conditions": [
       "after appointment"
     ],
-    "limitations": [],
-    "exceptions": []
+    "limitations": [
+      "to his disadvantage"
+    ],
+    "exceptions": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S55-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.national_commission",
+    "alias.right_to_non_variation_of_service_terms",
+    "authority.national_commission",
+    "intent.national_commission",
+    "intent.national_commission_2",
+    "intent.right_to_non_variation_of_service_terms",
+    "intent.right_to_non_variation_of_service_terms_2"
+  ],
   "search": {
     "keywords": [
       "non-variation",
       "service terms",
-      "appointment"
+      "appointment",
+      "right",
+      "non",
+      "variation",
+      "service",
+      "terms",
+      "conditions",
+      "including",
+      "salary",
+      "allowances"
     ],
     "aliases": [
       "job security",
-      "terms of service"
+      "terms of service",
+      "consistent service rights",
+      "no change in service conditions",
+      "stable service terms",
+      "unmodified service agreement"
     ],
     "user_queries": [
       "can my salary be reduced after appointment",
-      "are my benefits protected after joining"
+      "are my benefits protected after joining",
+      "What is right to non-variation of service terms?",
+      "How does right to non-variation of service terms work?",
+      "Can you explain right to non-variation of service terms?",
+      "What is protection of service terms for a commission member?",
+      "How does protection of service terms for a commission member work?",
+      "Can you explain protection of service terms for a commission member?"
     ]
   },
   "metadata": {

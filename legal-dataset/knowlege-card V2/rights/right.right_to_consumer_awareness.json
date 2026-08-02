@@ -2,27 +2,51 @@
   "concept_id": "right.right_to_consumer_awareness",
   "concept_type": "right",
   "title": "Right to Consumer Awareness",
-  "description": "right to consumer awareness",
+  "description": "Right: Consumer Awareness. Conditions: wherever possible. Limitations: as the case may be",
   "content": {
     "right": "Consumer Awareness",
-    "conditions": [],
-    "limitations": [],
-    "exceptions": []
+    "conditions": [
+      "wherever possible"
+    ],
+    "limitations": [
+      "as the case may be"
+    ],
+    "exceptions": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-9"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.consumer_rights",
+    "alias.redressal_against_unfair_trade_practice",
+    "alias.right_to_access_to_variety_of_goods",
+    "alias.right_to_be_heard",
+    "alias.right_to_consumer_awareness",
+    "alias.right_to_information",
+    "alias.right_to_protection_against_hazardous_goods"
+  ],
   "search": {
     "keywords": [
       "consumer awareness",
-      "education"
+      "education",
+      "right",
+      "consumer",
+      "awareness"
     ],
     "aliases": [
-      "right to education"
+      "right to education",
+      "awareness rights",
+      "consumer education rights",
+      "consumer information rights",
+      "right to know"
     ],
     "user_queries": [
-      "how can I learn about consumer rights"
+      "how can I learn about consumer rights",
+      "What is consumer rights?",
+      "How does consumer rights work?",
+      "Can you explain consumer rights?"
     ]
   },
   "metadata": {

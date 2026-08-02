@@ -22,8 +22,12 @@
       "product manufacturer is unknown or cannot be served",
       "product seller has failed to exercise reasonable care"
     ],
-    "limitations": [],
-    "exceptions": []
+    "limitations": [
+      "Not specified in the Act"
+    ],
+    "exceptions": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-35",
@@ -33,7 +37,15 @@
     "CPA2019-CH6-S84-1",
     "CPA2019-CH6-S86"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.compensation_for_harm_caused",
+    "alias.district_commission",
+    "alias.filing_a_product_liability_action",
+    "alias.national_commission",
+    "alias.product_liability_action",
+    "alias.right_to_compensation",
+    "alias.state_commission"
+  ],
   "search": {
     "keywords": [
       "product liability action",
@@ -44,14 +56,20 @@
       "injury",
       "product liability",
       "compensation claim",
-      "defective product"
+      "defective product",
+      "right",
+      "claiming",
+      "caused"
     ],
     "aliases": [
       "right to claim damages",
       "right to damages",
       "right to reparation",
       "right to remedy",
-      "right to redress"
+      "right to redress",
+      "compensation rights",
+      "refund rights",
+      "reimbursement rights"
     ],
     "user_queries": [
       "how to claim compensation for harm",
@@ -60,7 +78,10 @@
       "can I sue for a defective product",
       "can I claim compensation for a defective product?",
       "can I get compensation for product harm",
-      "what are my rights if a product causes harm"
+      "what are my rights if a product causes harm",
+      "What is damages?",
+      "How does damages work?",
+      "Can you explain damages?"
     ]
   },
   "metadata": {

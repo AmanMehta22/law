@@ -9,27 +9,54 @@
       "relating to violation of consumer rights or unfair trade practices or false or misleading advertisements",
       "prejudicial to the interests of consumers as a class"
     ],
-    "limitations": [],
-    "exceptions": []
+    "limitations": [
+      "Not specified in the Act"
+    ],
+    "exceptions": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S17"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.commissioner_of_regional_office",
+    "alias.district_collector",
+    "alias.right_to_file_complaint",
+    "authority.central_authority",
+    "authority.commissioner_of_regional_office",
+    "authority.district_collector"
+  ],
   "search": {
     "keywords": [
       "complaint",
       "consumer rights",
       "unfair trade practices",
-      "false or misleading advertisements"
+      "false or misleading advertisements",
+      "right",
+      "file",
+      "against",
+      "violation",
+      "consumer",
+      "rights",
+      "unfair",
+      "trade"
     ],
     "aliases": [
       "right to complaint",
-      "right to report"
+      "right to report",
+      "complaint filing rights",
+      "filing a grievance",
+      "right to complain",
+      "submitting a complaint"
     ],
     "user_queries": [
       "how to file a complaint against unfair trade practices",
-      "how to report false advertisements"
+      "how to report false advertisements",
+      "What is filing complaint against misleading advertisements?",
+      "How does filing complaint against misleading advertisements work?",
+      "Can you explain filing complaint against misleading advertisements?"
     ]
   },
   "metadata": {

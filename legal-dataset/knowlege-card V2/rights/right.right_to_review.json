@@ -9,30 +9,58 @@
       "error apparent on the face of the record",
       "application made within thirty days of the order"
     ],
-    "limitations": [],
-    "exceptions": []
+    "limitations": [
+      "thirty days of the order",
+      "error apparent on the face of the record"
+    ],
+    "exceptions": [
+      "thirty days of the order",
+      "error apparent on the face of the record"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S50",
     "CPA2019-CH4-S60"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_time_limit",
+    "alias.review_of_order",
+    "alias.right_to_review",
+    "alias.state_commission",
+    "authority.state_commission",
+    "intent.appeal_time_limit",
+    "intent.appeal_time_limit_2"
+  ],
   "search": {
     "keywords": [
       "review",
       "order",
       "State Commission",
-      "National Commission"
+      "National Commission",
+      "right",
+      "have",
+      "reviewed",
+      "state",
+      "commission",
+      "error",
+      "apparent",
+      "face"
     ],
     "aliases": [
       "right to appeal",
       "right to re-examine",
-      "right to reconsideration"
+      "right to reconsideration",
+      "consumer review",
+      "review rights",
+      "right to review"
     ],
     "user_queries": [
       "can I appeal this order",
       "how to review a decision",
-      "can I review an order passed by the National Commission"
+      "can I review an order passed by the National Commission",
+      "What is national commission must review order?",
+      "How does national commission must review order work?",
+      "Can you explain national commission must review order?"
     ]
   },
   "metadata": {

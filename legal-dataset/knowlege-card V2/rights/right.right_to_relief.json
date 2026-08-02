@@ -8,23 +8,47 @@
     "conditions": [
       "making a complaint in writing"
     ],
-    "limitations": [],
-    "exceptions": []
+    "limitations": [
+      "Not specified in the Act"
+    ],
+    "exceptions": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-6"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.allegation_in_writing",
+    "alias.complaint_under_consumer_protection_act_2019",
+    "alias.relief",
+    "alias.right_to_relief",
+    "definition.complaint",
+    "evidence.written_complaint",
+    "intent.allegation_in_writing"
+  ],
   "search": {
     "keywords": [
       "complaint",
-      "relief"
+      "relief",
+      "right",
+      "obtaining",
+      "provided",
+      "act",
+      "making",
+      "writing"
     ],
     "aliases": [
-      "right to redress"
+      "right to redress",
+      "consumer relief",
+      "relief rights",
+      "right to relief"
     ],
     "user_queries": [
-      "how to file a complaint"
+      "how to file a complaint",
+      "What is allegation in writing?",
+      "How does allegation in writing work?",
+      "Can you explain allegation in writing?"
     ]
   },
   "metadata": {

@@ -9,25 +9,51 @@
       "defective goods or services",
       "price or charges paid by the consumer"
     ],
-    "limitations": [],
-    "exceptions": []
+    "limitations": [
+      "Not specified in the Act"
+    ],
+    "exceptions": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S39-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.minimum_amount_of_sum_payable",
+    "alias.right_to_compensation",
+    "alias.right_to_refund",
+    "alias.right_to_replacement",
+    "alias.right_to_safety",
+    "authority.district_commission"
+  ],
   "search": {
     "keywords": [
       "refund",
       "return of price",
-      "defective goods"
+      "defective goods",
+      "right",
+      "receive",
+      "price",
+      "charges",
+      "paid",
+      "defective",
+      "goods",
+      "services",
+      "consumer"
     ],
     "aliases": [
       "right to return",
-      "right to reimbursement"
+      "right to reimbursement",
+      "consumer refund",
+      "refund rights",
+      "right to refund"
     ],
     "user_queries": [
-      "how to get refund for defective product?"
+      "how to get refund for defective product?",
+      "What is the punishment for cost of corrective advertisement?",
+      "What happens if I commit cost of corrective advertisement?"
     ]
   },
   "metadata": {

@@ -5,24 +5,54 @@
   "description": "The right to have an appeal heard as expeditiously as possible",
   "content": {
     "right": "Expedient Hearing of Appeal",
-    "conditions": [],
-    "limitations": [],
-    "exceptions": []
+    "conditions": [
+      "sufficient cause is shown",
+      "reasons for grant of adjournment have been recorded in writing"
+    ],
+    "limitations": [
+      "ninety days from the date of its admission"
+    ],
+    "exceptions": [
+      "in the event of an appeal being disposed of after the period so specified"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S52"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.adjournment_exception",
+    "alias.appeal_hearing",
+    "alias.national_commission",
+    "alias.right_to_expedient_hearing_of_appeal",
+    "alias.state_commission",
+    "authority.national_commission",
+    "authority.state_commission"
+  ],
   "search": {
     "keywords": [
       "expeditious hearing",
-      "appeal disposal"
+      "appeal disposal",
+      "right",
+      "expedient",
+      "hearing",
+      "appeal",
+      "have",
+      "heard",
+      "expeditiously",
+      "possible"
     ],
     "aliases": [
-      "right to speedy appeal"
+      "right to speedy appeal",
+      "expedited appeal hearing",
+      "fast appeal hearing",
+      "quick appeal process",
+      "swift appeal resolution"
     ],
     "user_queries": [
-      "how long will my appeal take"
+      "how long will my appeal take",
+      "What is adjournment exception?",
+      "How does adjournment exception work?",
+      "Can you explain adjournment exception?"
     ]
   },
   "metadata": {

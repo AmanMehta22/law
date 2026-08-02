@@ -8,24 +8,51 @@
     "conditions": [
       "after copies thereof or extracts therefrom certified by that person have been taken"
     ],
-    "limitations": [],
-    "exceptions": []
+    "limitations": [
+      "within a period of twenty days of the date of such seizure or production"
+    ],
+    "exceptions": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S22-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.return_of_seized_documents",
+    "alias.return_of_seized_or_produced_documents_records_or_articles",
+    "alias.right_to_return_of_seized_or_produced_documents",
+    "evidence.copies_of_documents_records_or_articles_extracts_therefrom",
+    "intent.copies_of_documents_records_or_articles",
+    "intent.mediation_references_return_of_seized_documents",
+    "intent.return_of_seized_documents"
+  ],
   "search": {
     "keywords": [
       "seized documents",
       "produced documents",
-      "return of documents"
+      "return of documents",
+      "right",
+      "return",
+      "seized",
+      "produced",
+      "documents",
+      "days",
+      "after",
+      "copies",
+      "thereof"
     ],
     "aliases": [
-      "right to retrieval of documents"
+      "right to retrieval of documents",
+      "consumer document return",
+      "document return rights",
+      "right to return of seized or produced documents"
     ],
     "user_queries": [
-      "What happens to documents seized under the Consumer Protection Act?"
+      "What happens to documents seized under the Consumer Protection Act?",
+      "What is copies of documents, records or articles?",
+      "How does copies of documents, records or articles work?",
+      "Can you explain copies of documents, records or articles?"
     ]
   },
   "metadata": {

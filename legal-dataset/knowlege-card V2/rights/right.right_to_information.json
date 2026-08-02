@@ -5,25 +5,50 @@
   "description": "right to relevant information about a service",
   "content": {
     "right": "Information",
-    "conditions": [],
-    "limitations": [],
-    "exceptions": []
+    "conditions": [
+      "so as to protect the consumer against unfair trade practices"
+    ],
+    "limitations": [
+      "wherever possible"
+    ],
+    "exceptions": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-11",
     "CPA2019-CH1-S2-9"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.deficiency",
+    "alias.right_to_information",
+    "definition.deficiency",
+    "intent.deficiency",
+    "intent.deficiency_2",
+    "intent.deficiency_defines_right_to_information",
+    "intent.right_to_information"
+  ],
   "search": {
     "keywords": [
       "product information",
-      "quality and price"
+      "quality and price",
+      "right",
+      "information",
+      "relevant",
+      "about",
+      "service"
     ],
     "aliases": [
-      "right to know"
+      "right to know",
+      "disclosure rights",
+      "information access rights",
+      "transparency rights"
     ],
     "user_queries": [
-      "what information should I get about a product"
+      "what information should I get about a product",
+      "What is requesting information about a mobile plan?",
+      "How does requesting information about a mobile plan work?",
+      "Can you explain requesting information about a mobile plan?"
     ]
   },
   "metadata": {

@@ -5,26 +5,51 @@
   "description": "right to be protected from hazardous or unsafe goods and services",
   "content": {
     "right": "Safety",
-    "conditions": [],
-    "limitations": [],
-    "exceptions": []
+    "conditions": [
+      "the goods complained against suffer from any of the defects specified in the complaint or that any of the allegations contained in the complaint about the services or any unfair trade practices, or claims for compensation under product liability are proved"
+    ],
+    "limitations": [
+      "Not specified in the Act"
+    ],
+    "exceptions": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S39-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.minimum_amount_of_sum_payable",
+    "alias.right_to_compensation",
+    "alias.right_to_refund",
+    "alias.right_to_replacement",
+    "alias.right_to_safety",
+    "authority.district_commission"
+  ],
   "search": {
     "keywords": [
       "safety",
       "hazardous goods",
-      "unsafe services"
+      "unsafe services",
+      "right",
+      "protected",
+      "hazardous",
+      "unsafe",
+      "goods",
+      "services"
     ],
     "aliases": [
       "right to protection",
-      "right to security"
+      "right to security",
+      "consumer safety",
+      "right to safety",
+      "safety rights"
     ],
     "user_queries": [
-      "are there any laws to protect me from hazardous products?"
+      "are there any laws to protect me from hazardous products?",
+      "What is the punishment for cost of corrective advertisement?",
+      "What happens if I commit cost of corrective advertisement?"
     ]
   },
   "metadata": {

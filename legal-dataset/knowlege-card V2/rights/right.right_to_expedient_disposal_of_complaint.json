@@ -13,22 +13,51 @@
       "three months",
       "five months"
     ],
-    "exceptions": []
+    "exceptions": [
+      "no adjournment shall ordinarily be granted by the District Commission unless sufficient cause is shown",
+      "the District Commission shall make such orders as to the costs occasioned by the adjournment as may be specified by regulations",
+      "the District Commission shall record in writing, the reasons for the same at the time of disposing of the said complaint"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-7"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.adjournment_exception",
+    "alias.complaint_disposal",
+    "alias.district_commission",
+    "alias.district_commission_must_dispose_of_complaint_within_a_period",
+    "alias.district_commission_must_make_orders_for_costs_of_adjournment",
+    "alias.district_commission_must_not_grant_adjournment_without_sufficient_cause",
+    "alias.district_commission_must_record_reasons_for_adjournment"
+  ],
   "search": {
     "keywords": [
       "expeditious disposal",
-      "complaint disposal"
+      "complaint disposal",
+      "right",
+      "expedient",
+      "disposal",
+      "complaint",
+      "disposed",
+      "expeditiously",
+      "possible",
+      "does",
+      "require",
+      "analysis"
     ],
     "aliases": [
-      "right to speedy disposal"
+      "right to speedy disposal",
+      "expedited complaint process",
+      "fast complaint resolution",
+      "quick complaint disposal",
+      "swift complaint handling"
     ],
     "user_queries": [
-      "how long will my complaint take to resolve"
+      "how long will my complaint take to resolve",
+      "What is right to expedient disposal of complaint?",
+      "How does right to expedient disposal of complaint work?",
+      "Can you explain right to expedient disposal of complaint?"
     ]
   },
   "metadata": {
