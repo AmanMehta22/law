@@ -14,9 +14,35 @@
     "penalty.making_false_or_misleading_advertisement"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "prohibition",
+      "endorsement",
+      "false",
+      "misleading",
+      "advertisement",
+      "illustrative",
+      "example",
+      "penalty",
+      "making",
+      "celebrity"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority",
+      "ban on endorsement for false ads",
+      "bar on false advertisement endorsement"
+    ],
+    "user_queries": [
+      "What is prohibition from endorsement for false or misleading advertisement?",
+      "How does prohibition from endorsement for false or misleading advertisement work?",
+      "Can you explain prohibition from endorsement for false or misleading advertisement?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

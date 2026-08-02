@@ -14,9 +14,31 @@
     "definition.consumer_rights"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "consumer",
+      "rights",
+      "illustrative",
+      "example",
+      "definition",
+      "buys",
+      "product",
+      "hazardous",
+      "life",
+      "property"
+    ],
+    "aliases": [
+      "customer rights",
+      "consumer interests",
+      "Buyer Rights",
+      "Consumer Protection",
+      "Consumer Welfare",
+      "Customer Rights"
+    ],
+    "user_queries": [
+      "What is consumer rights?",
+      "How does consumer rights work?",
+      "Can you explain consumer rights?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

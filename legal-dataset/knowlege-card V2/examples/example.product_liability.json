@@ -14,9 +14,32 @@
     "definition.product_liability"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "product",
+      "liability",
+      "illustrative",
+      "example",
+      "definition",
+      "consumer",
+      "purchases",
+      "defective",
+      "laptop",
+      "well"
+    ],
+    "aliases": [
+      "product responsibility",
+      "manufacturer liability",
+      "Defective Product Liability",
+      "Goods Liability",
+      "Manufacturer Liability",
+      "Product Responsibility",
+      "Strict Liability"
+    ],
+    "user_queries": [
+      "What is product liability?",
+      "How does product liability work?",
+      "Can you explain product liability?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

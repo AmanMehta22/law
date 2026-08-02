@@ -14,9 +14,31 @@
     "definition.goods"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "goods",
+      "illustrative",
+      "example",
+      "definition",
+      "refrigerator",
+      "purchased",
+      "store",
+      "considered",
+      "consumer",
+      "protection"
+    ],
+    "aliases": [
+      "products",
+      "commodities",
+      "Commodities",
+      "Items",
+      "Merchandise",
+      "Products"
+    ],
+    "user_queries": [
+      "What is goods?",
+      "How does goods work?",
+      "Can you explain goods?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

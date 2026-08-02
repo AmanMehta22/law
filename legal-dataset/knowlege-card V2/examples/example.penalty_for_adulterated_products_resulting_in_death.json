@@ -14,9 +14,26 @@
     "penalty.manufacturing_storing_selling_distributing_or_importing_adul"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "penalty",
+      "adulterated",
+      "products",
+      "resulting",
+      "death",
+      "illustrative",
+      "example",
+      "manufacturing",
+      "storing",
+      "selling"
+    ],
+    "aliases": [
+      "penalty for adulterated products resulting in death"
+    ],
+    "user_queries": [
+      "What is penalty for adulterated products resulting in death?",
+      "How does penalty for adulterated products resulting in death work?",
+      "Can you explain penalty for adulterated products resulting in death?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

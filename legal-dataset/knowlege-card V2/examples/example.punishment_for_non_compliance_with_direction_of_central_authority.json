@@ -14,9 +14,35 @@
     "penalty.failing_to_comply_with_direction_of_central_authority"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "punishment",
+      "non",
+      "compliance",
+      "direction",
+      "central",
+      "authority",
+      "illustrative",
+      "example",
+      "penalty",
+      "failing"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority",
+      "consequences of non-compliance with central government",
+      "fine for non-compliance with central authority"
+    ],
+    "user_queries": [
+      "What is punishment for non-compliance with direction of central authority?",
+      "How does punishment for non-compliance with direction of central authority work?",
+      "Can you explain punishment for non-compliance with direction of central authority?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

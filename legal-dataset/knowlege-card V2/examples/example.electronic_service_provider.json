@@ -14,9 +14,31 @@
     "definition.electronic_service_provider"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "electronic",
+      "service",
+      "provider",
+      "illustrative",
+      "example",
+      "definition",
+      "online",
+      "marketplace",
+      "shopeasy",
+      "allows"
+    ],
+    "aliases": [
+      "online service provider",
+      "e-service provider",
+      "Digital Service Provider",
+      "E-Service Provider",
+      "Internet Service Provider",
+      "Online Service Provider"
+    ],
+    "user_queries": [
+      "What is electronic service provider?",
+      "How does electronic service provider work?",
+      "Can you explain electronic service provider?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

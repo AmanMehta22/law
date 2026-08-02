@@ -14,9 +14,26 @@
     "right.right_to_information"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "requesting",
+      "information",
+      "about",
+      "mobile",
+      "plan",
+      "illustrative",
+      "example",
+      "right",
+      "consumer",
+      "priya"
+    ],
+    "aliases": [
+      "right to know"
+    ],
+    "user_queries": [
+      "What is requesting information about a mobile plan?",
+      "How does requesting information about a mobile plan work?",
+      "Can you explain requesting information about a mobile plan?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

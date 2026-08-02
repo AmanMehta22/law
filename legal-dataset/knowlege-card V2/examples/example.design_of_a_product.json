@@ -14,9 +14,32 @@
     "definition.design"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "design",
+      "product",
+      "illustrative",
+      "example",
+      "definition",
+      "company",
+      "manufactures",
+      "line",
+      "baby",
+      "strollers"
+    ],
+    "aliases": [
+      "product specification",
+      "product features",
+      "Architecture",
+      "Blueprint",
+      "Engineering Design",
+      "Manufacturing Design",
+      "Product Design"
+    ],
+    "user_queries": [
+      "What is design of a product?",
+      "How does design of a product work?",
+      "Can you explain design of a product?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

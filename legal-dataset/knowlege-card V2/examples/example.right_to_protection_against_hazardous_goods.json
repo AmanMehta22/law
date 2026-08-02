@@ -14,9 +14,29 @@
     "right.right_to_protection_against_hazardous_goods"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "right",
+      "protection",
+      "against",
+      "hazardous",
+      "goods",
+      "illustrative",
+      "example",
+      "company",
+      "markets",
+      "children"
+    ],
+    "aliases": [
+      "right to safety",
+      "consumer protection from hazardous goods",
+      "protection from hazardous goods",
+      "right to protection from hazardous goods"
+    ],
+    "user_queries": [
+      "What is right to protection against hazardous goods?",
+      "How does right to protection against hazardous goods work?",
+      "Can you explain right to protection against hazardous goods?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

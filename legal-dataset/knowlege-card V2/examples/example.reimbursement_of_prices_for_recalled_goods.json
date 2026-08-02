@@ -14,9 +14,26 @@
     "remedy.reimbursement_of_prices"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "reimbursement",
+      "prices",
+      "recalled",
+      "goods",
+      "illustrative",
+      "example",
+      "remedy",
+      "company",
+      "recalls",
+      "batch"
+    ],
+    "aliases": [
+      "price reimbursement"
+    ],
+    "user_queries": [
+      "What is reimbursement of prices for recalled goods?",
+      "How does reimbursement of prices for recalled goods work?",
+      "Can you explain reimbursement of prices for recalled goods?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

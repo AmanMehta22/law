@@ -14,9 +14,32 @@
     "definition.manufacturer"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "manufacturer",
+      "illustrative",
+      "example",
+      "definition",
+      "company",
+      "greencycle",
+      "designs",
+      "assembles",
+      "bicycles",
+      "using"
+    ],
+    "aliases": [
+      "maker",
+      "producer",
+      "assembler",
+      "Creator of Goods",
+      "Maker",
+      "Producer",
+      "Supplier"
+    ],
+    "user_queries": [
+      "What is manufacturer?",
+      "How does manufacturer work?",
+      "Can you explain manufacturer?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

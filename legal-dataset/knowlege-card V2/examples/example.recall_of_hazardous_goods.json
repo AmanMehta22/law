@@ -14,9 +14,26 @@
     "remedy.recall_of_goods_or_withdrawal_of_services"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "recall",
+      "hazardous",
+      "goods",
+      "illustrative",
+      "example",
+      "remedy",
+      "withdrawal",
+      "services",
+      "manufacturer",
+      "electric"
+    ],
+    "aliases": [
+      "product recall"
+    ],
+    "user_queries": [
+      "What is recall of hazardous goods?",
+      "How does recall of hazardous goods work?",
+      "Can you explain recall of hazardous goods?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

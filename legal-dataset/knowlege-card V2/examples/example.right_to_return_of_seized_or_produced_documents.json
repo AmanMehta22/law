@@ -14,9 +14,29 @@
     "right.right_to_return_of_seized_or_produced_documents"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "right",
+      "return",
+      "seized",
+      "produced",
+      "documents",
+      "illustrative",
+      "example",
+      "customer",
+      "were",
+      "regulatory"
+    ],
+    "aliases": [
+      "right to retrieval of documents",
+      "consumer document return",
+      "document return rights",
+      "right to return of seized or produced documents"
+    ],
+    "user_queries": [
+      "What is right to return of seized or produced documents?",
+      "How does right to return of seized or produced documents work?",
+      "Can you explain right to return of seized or produced documents?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -14,9 +14,35 @@
     "penalty.first_conviction"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "penalty",
+      "first",
+      "conviction",
+      "illustrative",
+      "example",
+      "manufacturer",
+      "def",
+      "manufacturing",
+      "convicted",
+      "time"
+    ],
+    "aliases": [
+      "Bench",
+      "Judiciary",
+      "Law Court",
+      "Tribunal",
+      "judicial body",
+      "tribunal",
+      "first conviction punishment",
+      "first-time offender penalty",
+      "initial conviction fine",
+      "penalty for first-time offense"
+    ],
+    "user_queries": [
+      "What is penalty for first conviction?",
+      "How does penalty for first conviction work?",
+      "Can you explain penalty for first conviction?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

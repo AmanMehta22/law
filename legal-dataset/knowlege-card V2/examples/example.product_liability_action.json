@@ -14,9 +14,32 @@
     "definition.product_liability_action"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "product",
+      "liability",
+      "action",
+      "illustrative",
+      "example",
+      "definition",
+      "person",
+      "files",
+      "complaint",
+      "before"
+    ],
+    "aliases": [
+      "product liability claim",
+      "consumer protection complaint",
+      "Defective Product Action",
+      "Manufacturer Liability Action",
+      "Product Liability Case",
+      "Product Liability Claim",
+      "Product Liability Lawsuit"
+    ],
+    "user_queries": [
+      "What is product liability action?",
+      "How does product liability action work?",
+      "Can you explain product liability action?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

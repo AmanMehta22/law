@@ -14,9 +14,29 @@
     "penalty.offences_under_clauses_c_and_d"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "offences",
+      "clauses",
+      "illustrative",
+      "example",
+      "penalty",
+      "businessman",
+      "accused",
+      "manufacturing",
+      "selling",
+      "counterfeit"
+    ],
+    "aliases": [
+      "breaches under clauses c and d",
+      "crimes under clauses c and d",
+      "offenses under section c and d",
+      "violations of clauses c and d"
+    ],
+    "user_queries": [
+      "What is offences under clauses (c) and (d)?",
+      "How does offences under clauses (c) and (d) work?",
+      "Can you explain offences under clauses (c) and (d)?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

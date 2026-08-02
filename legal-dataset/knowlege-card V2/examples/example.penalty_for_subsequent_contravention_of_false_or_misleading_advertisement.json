@@ -14,9 +14,35 @@
     "penalty.subsequent_contravention_of_publishing_false_or_misleading_a"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "penalty",
+      "subsequent",
+      "contravention",
+      "false",
+      "misleading",
+      "advertisement",
+      "illustrative",
+      "example",
+      "publishing",
+      "company"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority",
+      "multiple false advertisement penalty",
+      "repeat false ad penalty"
+    ],
+    "user_queries": [
+      "What is penalty for subsequent contravention of false or misleading advertisement?",
+      "How does penalty for subsequent contravention of false or misleading advertisement work?",
+      "Can you explain penalty for subsequent contravention of false or misleading advertisement?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

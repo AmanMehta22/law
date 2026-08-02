@@ -14,9 +14,27 @@
     "remedy.redressal"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "unfair",
+      "trade",
+      "practice",
+      "redressal",
+      "illustrative",
+      "example",
+      "remedy",
+      "consumer",
+      "purchases",
+      "product"
+    ],
+    "aliases": [
+      "redressal",
+      "relief"
+    ],
+    "user_queries": [
+      "What is unfair trade practice redressal?",
+      "How does unfair trade practice redressal work?",
+      "Can you explain unfair trade practice redressal?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

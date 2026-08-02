@@ -14,9 +14,30 @@
     "right.right_to_consumer_awareness"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "right",
+      "consumer",
+      "awareness",
+      "illustrative",
+      "example",
+      "mrs",
+      "sharma",
+      "purchases",
+      "new",
+      "smartphone"
+    ],
+    "aliases": [
+      "right to education",
+      "awareness rights",
+      "consumer education rights",
+      "consumer information rights",
+      "right to know"
+    ],
+    "user_queries": [
+      "What is right to consumer awareness?",
+      "How does right to consumer awareness work?",
+      "Can you explain right to consumer awareness?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

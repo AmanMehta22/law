@@ -14,9 +14,31 @@
     "definition.injury"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "injury",
+      "illustrative",
+      "example",
+      "definition",
+      "customer",
+      "slips",
+      "wet",
+      "floor",
+      "supermarket",
+      "due"
+    ],
+    "aliases": [
+      "harm",
+      "damage",
+      "Damage",
+      "Harm",
+      "Physical or Mental Harm",
+      "Trauma"
+    ],
+    "user_queries": [
+      "What is injury?",
+      "How does injury work?",
+      "Can you explain injury?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

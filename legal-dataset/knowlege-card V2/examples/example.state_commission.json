@@ -14,9 +14,31 @@
     "definition.state_commission"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "state",
+      "commission",
+      "illustrative",
+      "example",
+      "definition",
+      "consumer",
+      "bought",
+      "defective",
+      "product",
+      "wanted"
+    ],
+    "aliases": [
+      "State Consumer Commission",
+      "SCDRC",
+      "Commission of the State",
+      "State Consumer Disputes Redressal Commission",
+      "State Consumer Forum",
+      "State Tribunal"
+    ],
+    "user_queries": [
+      "What is state commission?",
+      "How does state commission work?",
+      "Can you explain state commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

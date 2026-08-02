@@ -14,9 +14,33 @@
     "definition.central_authority"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "central",
+      "authority",
+      "illustrative",
+      "example",
+      "definition",
+      "consumer",
+      "protection",
+      "receives",
+      "complaint",
+      "about"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is central authority?",
+      "How does central authority work?",
+      "Can you explain central authority?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

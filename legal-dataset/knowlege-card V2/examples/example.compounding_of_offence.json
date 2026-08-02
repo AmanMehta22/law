@@ -14,9 +14,35 @@
     "penalty.offence_under_sub_section_1"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "compounding",
+      "offence",
+      "illustrative",
+      "example",
+      "penalty",
+      "sub",
+      "section",
+      "company",
+      "sold",
+      "expired"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority",
+      "compromise on penalty",
+      "offence compounding"
+    ],
+    "user_queries": [
+      "What is compounding of offence?",
+      "How does compounding of offence work?",
+      "Can you explain compounding of offence?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

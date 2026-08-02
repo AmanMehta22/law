@@ -14,9 +14,33 @@
     "definition.regulations"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "regulations",
+      "illustrative",
+      "example",
+      "definition",
+      "national",
+      "commission",
+      "makes",
+      "rules",
+      "consumer",
+      "complaint"
+    ],
+    "aliases": [
+      "rules",
+      "guidelines",
+      "norms",
+      "Codes",
+      "Guidelines",
+      "Laws",
+      "Rules",
+      "Standards"
+    ],
+    "user_queries": [
+      "What is regulations?",
+      "How does regulations work?",
+      "Can you explain regulations?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

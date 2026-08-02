@@ -14,9 +14,31 @@
     "definition.harm"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "harm",
+      "product",
+      "liability",
+      "illustrative",
+      "example",
+      "definition",
+      "consumer",
+      "purchases",
+      "defective",
+      "electric"
+    ],
+    "aliases": [
+      "injury",
+      "damage",
+      "Damage",
+      "Injury from Product",
+      "Loss",
+      "Product-Related Harm"
+    ],
+    "user_queries": [
+      "What is harm in product liability?",
+      "How does harm in product liability work?",
+      "Can you explain harm in product liability?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

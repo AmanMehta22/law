@@ -14,9 +14,31 @@
     "definition.endorsement"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "endorsement",
+      "illustrative",
+      "example",
+      "definition",
+      "popular",
+      "fitness",
+      "influencer",
+      "ramesh",
+      "posts",
+      "picture"
+    ],
+    "aliases": [
+      "testimonial",
+      "recommendation",
+      "Approval",
+      "Celebrity Endorsement",
+      "Recommendation",
+      "Testimonial"
+    ],
+    "user_queries": [
+      "What is endorsement?",
+      "How does endorsement work?",
+      "Can you explain endorsement?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

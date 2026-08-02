@@ -14,9 +14,33 @@
     "right.right_to_appeal"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "right",
+      "appeal",
+      "illustrative",
+      "example",
+      "rahul",
+      "consumer",
+      "received",
+      "order",
+      "state",
+      "commission"
+    ],
+    "aliases": [
+      "right to challenge",
+      "right to contest",
+      "right to challenge an order",
+      "right to review",
+      "right to be heard",
+      "appeal process",
+      "appeal rights",
+      "complaint appeal"
+    ],
+    "user_queries": [
+      "What is right to appeal?",
+      "How does right to appeal work?",
+      "Can you explain right to appeal?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

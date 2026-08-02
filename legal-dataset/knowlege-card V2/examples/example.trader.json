@@ -14,9 +14,33 @@
     "definition.trader"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "trader",
+      "illustrative",
+      "example",
+      "definition",
+      "company",
+      "manufactures",
+      "sells",
+      "electronics",
+      "was",
+      "found"
+    ],
+    "aliases": [
+      "seller",
+      "vendor",
+      "supplier",
+      "Businessman",
+      "Dealer",
+      "Merchant",
+      "Seller",
+      "Supplier"
+    ],
+    "user_queries": [
+      "What is trader?",
+      "How does trader work?",
+      "Can you explain trader?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

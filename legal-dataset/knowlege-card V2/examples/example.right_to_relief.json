@@ -14,9 +14,29 @@
     "right.right_to_relief"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "right",
+      "relief",
+      "illustrative",
+      "example",
+      "customer",
+      "purchased",
+      "faulty",
+      "laptop",
+      "requested",
+      "refund"
+    ],
+    "aliases": [
+      "right to redress",
+      "consumer relief",
+      "relief rights",
+      "right to relief"
+    ],
+    "user_queries": [
+      "What is right to relief?",
+      "How does right to relief work?",
+      "Can you explain right to relief?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

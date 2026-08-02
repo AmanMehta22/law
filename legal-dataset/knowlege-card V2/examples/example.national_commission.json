@@ -14,9 +14,31 @@
     "definition.national_commission"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "national",
+      "commission",
+      "illustrative",
+      "example",
+      "definition",
+      "consumer",
+      "purchases",
+      "defective",
+      "smartphone",
+      "after"
+    ],
+    "aliases": [
+      "National Consumer Commission",
+      "NCDRC",
+      "Central Commission",
+      "Central Consumer Protection Council",
+      "National Consumer Disputes Redressal Commission",
+      "National Consumer Protection Agency"
+    ],
+    "user_queries": [
+      "What is national commission?",
+      "How does national commission work?",
+      "Can you explain national commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

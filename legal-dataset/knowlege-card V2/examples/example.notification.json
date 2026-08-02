@@ -14,9 +14,32 @@
     "definition.notification"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "notification",
+      "illustrative",
+      "example",
+      "definition",
+      "ministry",
+      "consumer",
+      "affairs",
+      "publishes",
+      "official",
+      "gazette"
+    ],
+    "aliases": [
+      "official announcement",
+      "public notification",
+      "Announcement",
+      "Gazette Notification",
+      "Official Notice",
+      "Public Notice",
+      "Regulatory Notice"
+    ],
+    "user_queries": [
+      "What is notification?",
+      "How does notification work?",
+      "Can you explain notification?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

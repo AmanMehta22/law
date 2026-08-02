@@ -14,9 +14,26 @@
     "remedy.return_of_seized_or_produced_documents_records_or_articles"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "return",
+      "seized",
+      "produced",
+      "documents",
+      "records",
+      "articles",
+      "illustrative",
+      "example",
+      "remedy",
+      "company"
+    ],
+    "aliases": [
+      "restoration of seized documents"
+    ],
+    "user_queries": [
+      "What is return of seized or produced documents, records or articles?",
+      "How does return of seized or produced documents, records or articles work?",
+      "Can you explain return of seized or produced documents, records or articles?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

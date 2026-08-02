@@ -14,9 +14,30 @@
     "right.right_to_refund"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "right",
+      "refund",
+      "illustrative",
+      "example",
+      "sharma",
+      "bought",
+      "defective",
+      "air",
+      "conditioner",
+      "retail"
+    ],
+    "aliases": [
+      "right to return",
+      "right to reimbursement",
+      "consumer refund",
+      "refund rights",
+      "right to refund"
+    ],
+    "user_queries": [
+      "What is right to refund?",
+      "How does right to refund work?",
+      "Can you explain right to refund?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

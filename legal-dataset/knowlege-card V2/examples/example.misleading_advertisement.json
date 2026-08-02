@@ -14,9 +14,32 @@
     "definition.misleading_advertisement"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "misleading",
+      "advertisement",
+      "illustrative",
+      "example",
+      "definition",
+      "company",
+      "advertises",
+      "new",
+      "energy",
+      "drink"
+    ],
+    "aliases": [
+      "deceptive advertising",
+      "false ad",
+      "Deceptive Advertising",
+      "False Ad",
+      "Fraudulent Claim",
+      "Misleading Promo",
+      "Untrue Advertisement"
+    ],
+    "user_queries": [
+      "What is misleading advertisement?",
+      "How does misleading advertisement work?",
+      "Can you explain misleading advertisement?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

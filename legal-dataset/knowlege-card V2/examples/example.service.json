@@ -14,9 +14,32 @@
     "definition.service"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "service",
+      "illustrative",
+      "example",
+      "definition",
+      "hotel",
+      "xyz",
+      "provides",
+      "lodging",
+      "its",
+      "customers"
+    ],
+    "aliases": [
+      "facility",
+      "provision",
+      "Commodity",
+      "Facility",
+      "Offering",
+      "Provision",
+      "Utility"
+    ],
+    "user_queries": [
+      "What is service?",
+      "How does service work?",
+      "Can you explain service?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

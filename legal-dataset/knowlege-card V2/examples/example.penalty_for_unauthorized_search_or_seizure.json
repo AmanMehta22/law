@@ -14,9 +14,26 @@
     "penalty.searching_or_seizing_without_reasonable_grounds"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "penalty",
+      "unauthorized",
+      "search",
+      "seizure",
+      "illustrative",
+      "example",
+      "searching",
+      "seizing",
+      "without",
+      "reasonable"
+    ],
+    "aliases": [
+      "penalty for misconduct"
+    ],
+    "user_queries": [
+      "What is penalty for unauthorized search or seizure?",
+      "How does penalty for unauthorized search or seizure work?",
+      "Can you explain penalty for unauthorized search or seizure?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -14,9 +14,31 @@
     "definition.product_service_provider"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "product",
+      "service",
+      "provider",
+      "illustrative",
+      "example",
+      "definition",
+      "company",
+      "repairs",
+      "mobile",
+      "phones"
+    ],
+    "aliases": [
+      "service provider",
+      "product maintainer",
+      "Distributor",
+      "Manufacturer",
+      "Service Provider",
+      "Supplier"
+    ],
+    "user_queries": [
+      "What is product service provider?",
+      "How does product service provider work?",
+      "Can you explain product service provider?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

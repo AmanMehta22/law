@@ -14,9 +14,35 @@
     "penalty.punitive_damages"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "punitive",
+      "damages",
+      "illustrative",
+      "example",
+      "penalty",
+      "company",
+      "was",
+      "found",
+      "guilty",
+      "violating"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum",
+      "exemplary damages",
+      "punishment damages",
+      "retributory damages",
+      "vindictive damages"
+    ],
+    "user_queries": [
+      "What is punitive damages?",
+      "How does punitive damages work?",
+      "Can you explain punitive damages?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

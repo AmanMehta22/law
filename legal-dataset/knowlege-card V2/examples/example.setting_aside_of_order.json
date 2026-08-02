@@ -14,9 +14,26 @@
     "remedy.setting_aside_of_order"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "setting",
+      "aside",
+      "order",
+      "illustrative",
+      "example",
+      "remedy",
+      "consumer",
+      "receives",
+      "parte",
+      "national"
+    ],
+    "aliases": [
+      "vacating an order"
+    ],
+    "user_queries": [
+      "What is setting aside of order?",
+      "How does setting aside of order work?",
+      "Can you explain setting aside of order?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

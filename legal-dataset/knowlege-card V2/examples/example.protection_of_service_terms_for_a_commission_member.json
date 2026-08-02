@@ -14,9 +14,27 @@
     "right.right_to_non_variation_of_service_terms"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "protection",
+      "service",
+      "terms",
+      "commission",
+      "member",
+      "illustrative",
+      "example",
+      "right",
+      "non",
+      "variation"
+    ],
+    "aliases": [
+      "job security",
+      "terms of service"
+    ],
+    "user_queries": [
+      "What is protection of service terms for a commission member?",
+      "How does protection of service terms for a commission member work?",
+      "Can you explain protection of service terms for a commission member?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

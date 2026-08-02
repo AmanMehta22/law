@@ -14,9 +14,31 @@
     "definition.regulator"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "regulator",
+      "illustrative",
+      "example",
+      "definition",
+      "reserve",
+      "bank",
+      "india",
+      "oversees",
+      "banking",
+      "financial"
+    ],
+    "aliases": [
+      "authority",
+      "regulatory body",
+      "Authority",
+      "Enforcement Agency",
+      "Oversight Body",
+      "Watchdog"
+    ],
+    "user_queries": [
+      "What is regulator?",
+      "How does regulator work?",
+      "Can you explain regulator?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

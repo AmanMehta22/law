@@ -14,9 +14,33 @@
     "definition.defect"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "defect",
+      "illustrative",
+      "example",
+      "definition",
+      "consumer",
+      "purchases",
+      "bottle",
+      "juice",
+      "past",
+      "its"
+    ],
+    "aliases": [
+      "flaw",
+      "fault",
+      "imperfection",
+      "Deficiency",
+      "Fault",
+      "Flaw",
+      "Imperfection",
+      "Shortcoming"
+    ],
+    "user_queries": [
+      "What is defect?",
+      "How does defect work?",
+      "Can you explain defect?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

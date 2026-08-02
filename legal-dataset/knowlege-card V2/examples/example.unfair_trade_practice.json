@@ -14,9 +14,30 @@
     "definition.unfair_trade_practice"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "unfair",
+      "trade",
+      "practice",
+      "illustrative",
+      "example",
+      "definition",
+      "company",
+      "abc",
+      "ltd",
+      "advertises"
+    ],
+    "aliases": [
+      "deceptive business practice",
+      "false advertising",
+      "Deceptive Practice",
+      "Fraudulent Practice",
+      "Unscrupulous Business Practice"
+    ],
+    "user_queries": [
+      "What is unfair trade practice?",
+      "How does unfair trade practice work?",
+      "Can you explain unfair trade practice?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

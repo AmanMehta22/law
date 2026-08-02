@@ -14,9 +14,35 @@
     "penalty.subsequent_publishing_of_false_or_misleading_advertisement"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "penalty",
+      "subsequent",
+      "false",
+      "misleading",
+      "advertisement",
+      "illustrative",
+      "example",
+      "publishing",
+      "endorser",
+      "who"
+    ],
+    "aliases": [
+      "Deceptive Advertising",
+      "False Ad",
+      "Fraudulent Claim",
+      "Misleading Promo",
+      "Untrue Advertisement",
+      "deceptive advertising",
+      "false ad",
+      "repeat misleading ad fine",
+      "second false ad penalty",
+      "subsequent deceptive advertising penalty"
+    ],
+    "user_queries": [
+      "What is penalty for subsequent false or misleading advertisement?",
+      "How does penalty for subsequent false or misleading advertisement work?",
+      "Can you explain penalty for subsequent false or misleading advertisement?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

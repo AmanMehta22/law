@@ -14,9 +14,29 @@
     "right.right_to_redressal"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "right",
+      "redressal",
+      "illustrative",
+      "example",
+      "consumer",
+      "kumar",
+      "purchased",
+      "mobile",
+      "phone",
+      "was"
+    ],
+    "aliases": [
+      "right to compensation",
+      "consumer redressal",
+      "redressal rights",
+      "right to redressal"
+    ],
+    "user_queries": [
+      "What is right to redressal?",
+      "How does right to redressal work?",
+      "Can you explain right to redressal?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

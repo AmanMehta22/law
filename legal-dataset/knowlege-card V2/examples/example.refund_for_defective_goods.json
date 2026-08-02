@@ -14,9 +14,27 @@
     "remedy.refund"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "refund",
+      "defective",
+      "goods",
+      "illustrative",
+      "example",
+      "remedy",
+      "customer",
+      "buys",
+      "smartphone",
+      "stops"
+    ],
+    "aliases": [
+      "promotion",
+      "sale"
+    ],
+    "user_queries": [
+      "What is refund for defective goods?",
+      "How does refund for defective goods work?",
+      "Can you explain refund for defective goods?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -14,9 +14,31 @@
     "definition.direct_selling"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "direct",
+      "selling",
+      "illustrative",
+      "example",
+      "definition",
+      "company",
+      "called",
+      "beautyhub",
+      "sells",
+      "its"
+    ],
+    "aliases": [
+      "multi-level marketing",
+      "network selling",
+      "Door-to-Door Sales",
+      "Multi-Level Marketing",
+      "Network Marketing",
+      "Person-to-Person Sales"
+    ],
+    "user_queries": [
+      "What is direct selling?",
+      "How does direct selling work?",
+      "Can you explain direct selling?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

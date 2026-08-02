@@ -14,9 +14,31 @@
     "right.right_to_review"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "right",
+      "review",
+      "illustrative",
+      "example",
+      "consumer",
+      "kumar",
+      "purchased",
+      "defective",
+      "refrigerator",
+      "local"
+    ],
+    "aliases": [
+      "right to appeal",
+      "right to re-examine",
+      "right to reconsideration",
+      "consumer review",
+      "review rights",
+      "right to review"
+    ],
+    "user_queries": [
+      "What is right to review?",
+      "How does right to review work?",
+      "Can you explain right to review?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -14,9 +14,26 @@
     "remedy.relief"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "relief",
+      "illustrative",
+      "example",
+      "remedy",
+      "consumer",
+      "files",
+      "complaint",
+      "national",
+      "commission",
+      "seeking"
+    ],
+    "aliases": [
+      "redress"
+    ],
+    "user_queries": [
+      "What is relief?",
+      "How does relief work?",
+      "Can you explain relief?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

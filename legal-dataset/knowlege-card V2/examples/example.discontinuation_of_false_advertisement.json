@@ -14,9 +14,26 @@
     "remedy.discontinuation_of_unfair_practice"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "discontinuation",
+      "false",
+      "advertisement",
+      "illustrative",
+      "example",
+      "remedy",
+      "unfair",
+      "practice",
+      "company",
+      "advertises"
+    ],
+    "aliases": [
+      "withdrawal of advertisement"
+    ],
+    "user_queries": [
+      "What is discontinuation of false advertisement?",
+      "How does discontinuation of false advertisement work?",
+      "Can you explain discontinuation of false advertisement?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

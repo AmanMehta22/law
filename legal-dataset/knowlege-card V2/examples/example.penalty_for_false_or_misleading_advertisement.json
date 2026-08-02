@@ -14,9 +14,35 @@
     "penalty.publishing_false_or_misleading_advertisement"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "penalty",
+      "false",
+      "misleading",
+      "advertisement",
+      "illustrative",
+      "example",
+      "publishing",
+      "company",
+      "published",
+      "claiming"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority",
+      "advertisement misconduct penalty",
+      "deceptive advertising penalty"
+    ],
+    "user_queries": [
+      "What is penalty for false or misleading advertisement?",
+      "How does penalty for false or misleading advertisement work?",
+      "Can you explain penalty for false or misleading advertisement?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

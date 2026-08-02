@@ -14,9 +14,29 @@
     "right.right_to_reimbursement"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "right",
+      "reimbursement",
+      "illustrative",
+      "example",
+      "group",
+      "consumers",
+      "were",
+      "found",
+      "have",
+      "been"
+    ],
+    "aliases": [
+      "right to refund",
+      "consumer reimbursement",
+      "reimbursement rights",
+      "right to reimbursement"
+    ],
+    "user_queries": [
+      "What is right to reimbursement?",
+      "How does right to reimbursement work?",
+      "Can you explain right to reimbursement?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

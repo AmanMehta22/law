@@ -14,9 +14,26 @@
     "penalty.manufacturing_storing_selling_distributing_or_importing_prod"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "adulterated",
+      "food",
+      "product",
+      "illustrative",
+      "example",
+      "penalty",
+      "manufacturing",
+      "storing",
+      "selling",
+      "distributing"
+    ],
+    "aliases": [
+      "penalty for adulterated products"
+    ],
+    "user_queries": [
+      "What is adulterated food product?",
+      "How does adulterated food product work?",
+      "Can you explain adulterated food product?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

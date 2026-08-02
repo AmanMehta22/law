@@ -14,9 +14,33 @@
     "definition.deficiency"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "deficiency",
+      "illustrative",
+      "example",
+      "definition",
+      "customer",
+      "books",
+      "hotel",
+      "room",
+      "advertised",
+      "having"
+    ],
+    "aliases": [
+      "shortcoming",
+      "fault",
+      "inadequacy",
+      "Flaw",
+      "Imperfection",
+      "Inadequacy",
+      "Lack",
+      "Shortcoming"
+    ],
+    "user_queries": [
+      "What is deficiency?",
+      "How does deficiency work?",
+      "Can you explain deficiency?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

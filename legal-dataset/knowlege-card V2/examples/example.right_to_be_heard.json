@@ -14,9 +14,33 @@
     "right.right_to_be_heard"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "right",
+      "heard",
+      "illustrative",
+      "example",
+      "sonia",
+      "consumer",
+      "filed",
+      "complaint",
+      "district",
+      "commission"
+    ],
+    "aliases": [
+      "right to voice",
+      "right to a hearing",
+      "right to a fair hearing",
+      "right to present case",
+      "right to representation",
+      "hearing rights",
+      "right to express opinion",
+      "right to speak"
+    ],
+    "user_queries": [
+      "What is right to be heard?",
+      "How does right to be heard work?",
+      "Can you explain right to be heard?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

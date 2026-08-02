@@ -14,9 +14,26 @@
     "penalty.publishing_misleading_advertisement"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "penalty",
+      "misleading",
+      "advertisement",
+      "illustrative",
+      "example",
+      "publishing",
+      "manufacturer",
+      "published",
+      "claiming",
+      "their"
+    ],
+    "aliases": [
+      "fine for misleading ad"
+    ],
+    "user_queries": [
+      "What is penalty for misleading advertisement?",
+      "How does penalty for misleading advertisement work?",
+      "Can you explain penalty for misleading advertisement?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

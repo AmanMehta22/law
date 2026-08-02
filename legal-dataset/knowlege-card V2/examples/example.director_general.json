@@ -14,9 +14,30 @@
     "definition.director_general"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "director",
+      "general",
+      "illustrative",
+      "example",
+      "definition",
+      "government",
+      "appoints",
+      "sharma",
+      "sub",
+      "section"
+    ],
+    "aliases": [
+      "Main Official",
+      "Chief Director",
+      "DG",
+      "Director General of Consumer Affairs",
+      "Head of Consumer Protection"
+    ],
+    "user_queries": [
+      "What is director-general?",
+      "How does director-general work?",
+      "Can you explain director-general?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

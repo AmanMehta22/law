@@ -14,9 +14,31 @@
     "penalty.negligence"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "negligent",
+      "service",
+      "illustrative",
+      "example",
+      "penalty",
+      "negligence",
+      "consumer",
+      "purchases",
+      "product",
+      "retailer"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is negligent service?",
+      "How does negligent service work?",
+      "Can you explain negligent service?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

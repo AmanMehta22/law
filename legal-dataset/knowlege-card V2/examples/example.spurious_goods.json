@@ -14,9 +14,31 @@
     "definition.spurious_goods"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "spurious",
+      "goods",
+      "illustrative",
+      "example",
+      "definition",
+      "customer",
+      "bought",
+      "luxury",
+      "watch",
+      "was"
+    ],
+    "aliases": [
+      "fake goods",
+      "counterfeit products",
+      "Counterfeit Goods",
+      "Fake Products",
+      "Pirated Items",
+      "Unauthentic Merchandise"
+    ],
+    "user_queries": [
+      "What is spurious goods?",
+      "How does spurious goods work?",
+      "Can you explain spurious goods?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

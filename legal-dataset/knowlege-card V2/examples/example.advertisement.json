@@ -14,9 +14,33 @@
     "definition.advertisement"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "advertisement",
+      "illustrative",
+      "example",
+      "definition",
+      "company",
+      "greentech",
+      "launches",
+      "new",
+      "eco",
+      "friendly"
+    ],
+    "aliases": [
+      "ad",
+      "promo",
+      "publicity material",
+      "Ad",
+      "Commercial",
+      "Marketing",
+      "Promotion",
+      "Publicity"
+    ],
+    "user_queries": [
+      "What is advertisement?",
+      "How does advertisement work?",
+      "Can you explain advertisement?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

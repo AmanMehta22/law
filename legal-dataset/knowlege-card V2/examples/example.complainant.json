@@ -14,9 +14,31 @@
     "definition.complainant"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "complainant",
+      "illustrative",
+      "example",
+      "definition",
+      "rahul",
+      "consumer",
+      "purchases",
+      "defective",
+      "smartphone",
+      "retailer"
+    ],
+    "aliases": [
+      "plaintiff",
+      "claimant",
+      "Appellant",
+      "Claimant",
+      "Consumer",
+      "Plaintiff"
+    ],
+    "user_queries": [
+      "What is complainant?",
+      "How does complainant work?",
+      "Can you explain complainant?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -14,9 +14,32 @@
     "definition.mediator"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "mediator",
+      "illustrative",
+      "example",
+      "definition",
+      "neutral",
+      "third",
+      "party",
+      "expert",
+      "helped",
+      "consumer"
+    ],
+    "aliases": [
+      "neutral third-party",
+      "facilitator",
+      "Arbitrator",
+      "Dispute Resolver",
+      "Mediation Expert",
+      "Mediation Officer",
+      "Neutral Third Party"
+    ],
+    "user_queries": [
+      "What is mediator?",
+      "How does mediator work?",
+      "Can you explain mediator?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

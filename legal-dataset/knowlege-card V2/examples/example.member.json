@@ -14,9 +14,32 @@
     "definition.member"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "member",
+      "illustrative",
+      "example",
+      "definition",
+      "president",
+      "national",
+      "commission",
+      "person",
+      "serving",
+      "state"
+    ],
+    "aliases": [
+      "commission member",
+      "president",
+      "Board Member",
+      "Commission Member",
+      "Committee Member",
+      "Panel Member",
+      "Representative"
+    ],
+    "user_queries": [
+      "What is member?",
+      "How does member work?",
+      "Can you explain member?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -14,9 +14,33 @@
     "definition.product_manufacturer"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "product",
+      "manufacturer",
+      "illustrative",
+      "example",
+      "definition",
+      "company",
+      "greencycle",
+      "designs",
+      "assembles",
+      "bicycles"
+    ],
+    "aliases": [
+      "product maker",
+      "product seller",
+      "manufacturer",
+      "Article Producer",
+      "Commodity Producer",
+      "Goods Manufacturer",
+      "Item Creator",
+      "Merchandise Maker"
+    ],
+    "user_queries": [
+      "What is product manufacturer?",
+      "How does product manufacturer work?",
+      "Can you explain product manufacturer?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

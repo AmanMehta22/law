@@ -14,9 +14,30 @@
     "right.right_to_access_to_variety_of_goods"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "right",
+      "access",
+      "variety",
+      "goods",
+      "illustrative",
+      "example",
+      "small",
+      "town",
+      "there",
+      "only"
+    ],
+    "aliases": [
+      "right to choice",
+      "Access to Diverse Products",
+      "Freedom of Choice",
+      "Right to Choose",
+      "Variety of Options"
+    ],
+    "user_queries": [
+      "What is right to access to variety of goods?",
+      "How does right to access to variety of goods work?",
+      "Can you explain right to access to variety of goods?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

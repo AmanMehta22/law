@@ -14,9 +14,31 @@
     "definition.complaint"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "complaint",
+      "consumer",
+      "protection",
+      "act",
+      "illustrative",
+      "example",
+      "definition",
+      "priya",
+      "files",
+      "forum"
+    ],
+    "aliases": [
+      "grievance",
+      "allegation",
+      "CPA Complaint",
+      "Consumer Complaint",
+      "Consumer Protection Claim",
+      "Section 35 Complaint"
+    ],
+    "user_queries": [
+      "What is complaint under consumer protection act, 2019?",
+      "How does complaint under consumer protection act, 2019 work?",
+      "Can you explain complaint under consumer protection act, 2019?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

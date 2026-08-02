@@ -14,9 +14,29 @@
     "right.right_to_protection"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "right",
+      "protection",
+      "illustrative",
+      "example",
+      "consumer",
+      "purchases",
+      "defective",
+      "smartphone",
+      "explodes",
+      "due"
+    ],
+    "aliases": [
+      "right to protection of consumers' rights",
+      "consumer protection",
+      "protection rights",
+      "right protection"
+    ],
+    "user_queries": [
+      "What is right to protection?",
+      "How does right to protection work?",
+      "Can you explain right to protection?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

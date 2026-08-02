@@ -14,9 +14,33 @@
     "definition.person"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "definition",
+      "person",
+      "illustrative",
+      "example",
+      "local",
+      "cooperative",
+      "society",
+      "green",
+      "earth",
+      "purchases"
+    ],
+    "aliases": [
+      "individual",
+      "entity",
+      "party",
+      "Entity",
+      "Individual",
+      "Legal Person",
+      "Natural Person",
+      "Organization"
+    ],
+    "user_queries": [
+      "What is definition of person?",
+      "How does definition of person work?",
+      "Can you explain definition of person?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

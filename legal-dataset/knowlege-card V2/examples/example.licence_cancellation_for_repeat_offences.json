@@ -14,9 +14,31 @@
     "penalty.second_or_subsequent_conviction"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "licence",
+      "cancellation",
+      "repeat",
+      "offences",
+      "illustrative",
+      "example",
+      "penalty",
+      "second",
+      "subsequent",
+      "conviction"
+    ],
+    "aliases": [
+      "Bench",
+      "Judiciary",
+      "Law Court",
+      "Tribunal",
+      "judicial body",
+      "tribunal"
+    ],
+    "user_queries": [
+      "What is licence cancellation for repeat offences?",
+      "How does licence cancellation for repeat offences work?",
+      "Can you explain licence cancellation for repeat offences?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

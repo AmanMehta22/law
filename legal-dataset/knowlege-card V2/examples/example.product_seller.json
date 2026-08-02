@@ -14,9 +14,33 @@
     "definition.product_seller"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "product",
+      "seller",
+      "illustrative",
+      "example",
+      "definition",
+      "company",
+      "manufactures",
+      "sells",
+      "electronics",
+      "considered"
+    ],
+    "aliases": [
+      "seller",
+      "vendor",
+      "supplier",
+      "Merchant",
+      "Retailer",
+      "Supplier",
+      "Vendor",
+      "Wholesaler"
+    ],
+    "user_queries": [
+      "What is product seller?",
+      "How does product seller work?",
+      "Can you explain product seller?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

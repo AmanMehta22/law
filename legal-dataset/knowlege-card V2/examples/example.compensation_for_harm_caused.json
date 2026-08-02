@@ -14,9 +14,27 @@
     "remedy.compensation"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "compensation",
+      "harm",
+      "caused",
+      "illustrative",
+      "example",
+      "remedy",
+      "consumer",
+      "jain",
+      "bought",
+      "new"
+    ],
+    "aliases": [
+      "damages",
+      "reparation"
+    ],
+    "user_queries": [
+      "What is compensation for harm caused?",
+      "How does compensation for harm caused work?",
+      "Can you explain compensation for harm caused?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -14,9 +14,30 @@
     "definition.restrictive_trade_practice"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "restrictive",
+      "trade",
+      "practice",
+      "illustrative",
+      "example",
+      "definition",
+      "company",
+      "abc",
+      "inc",
+      "has"
+    ],
+    "aliases": [
+      "anti-competitive practice",
+      "unfair trade practice",
+      "Anti-Competitive Practice",
+      "Monopolistic Practice",
+      "Unfair Business Practice"
+    ],
+    "user_queries": [
+      "What is restrictive trade practice?",
+      "How does restrictive trade practice work?",
+      "Can you explain restrictive trade practice?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

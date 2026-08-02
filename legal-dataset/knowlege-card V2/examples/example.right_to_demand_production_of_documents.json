@@ -14,9 +14,30 @@
     "right.right_to_demand_production_of_documents"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "right",
+      "demand",
+      "production",
+      "documents",
+      "illustrative",
+      "example",
+      "consumer",
+      "kumar",
+      "files",
+      "complaint"
+    ],
+    "aliases": [
+      "right to access documents",
+      "document production rights",
+      "document request rights",
+      "information disclosure rights",
+      "right to evidence"
+    ],
+    "user_queries": [
+      "What is right to demand production of documents?",
+      "How does right to demand production of documents work?",
+      "Can you explain right to demand production of documents?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

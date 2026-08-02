@@ -14,9 +14,33 @@
     "remedy.damages"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "damages",
+      "defective",
+      "product",
+      "illustrative",
+      "example",
+      "remedy",
+      "rahul",
+      "purchased",
+      "smartphone",
+      "retail"
+    ],
+    "aliases": [
+      "compensation rights",
+      "refund rights",
+      "reimbursement rights",
+      "right to claim damages",
+      "right to damages",
+      "right to redress",
+      "right to remedy",
+      "right to reparation"
+    ],
+    "user_queries": [
+      "What is damages for defective product?",
+      "How does damages for defective product work?",
+      "Can you explain damages for defective product?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

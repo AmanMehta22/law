@@ -14,9 +14,33 @@
     "definition.prescribed"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "prescribed",
+      "illustrative",
+      "example",
+      "definition",
+      "central",
+      "government",
+      "prescribes",
+      "set",
+      "rules",
+      "commerce"
+    ],
+    "aliases": [
+      "officially stated",
+      "mandated",
+      "required by law",
+      "Mandated",
+      "Regulated",
+      "Required",
+      "Specified",
+      "Stipulated"
+    ],
+    "user_queries": [
+      "What is prescribed?",
+      "How does prescribed work?",
+      "Can you explain prescribed?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

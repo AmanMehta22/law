@@ -14,9 +14,31 @@
     "definition.appropriate_laboratory"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "appropriate",
+      "laboratory",
+      "illustrative",
+      "example",
+      "definition",
+      "state",
+      "government",
+      "maharashtra",
+      "recognizes",
+      "safefood"
+    ],
+    "aliases": [
+      "approved lab",
+      "recognised lab",
+      "Accredited Lab",
+      "Certification Lab",
+      "Recognized Lab",
+      "Testing Lab"
+    ],
+    "user_queries": [
+      "What is appropriate laboratory?",
+      "How does appropriate laboratory work?",
+      "Can you explain appropriate laboratory?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

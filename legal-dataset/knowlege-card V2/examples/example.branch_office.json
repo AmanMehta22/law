@@ -14,9 +14,31 @@
     "definition.branch_office"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "branch",
+      "office",
+      "illustrative",
+      "example",
+      "definition",
+      "techcorp",
+      "multinational",
+      "technology",
+      "company",
+      "has"
+    ],
+    "aliases": [
+      "satellite office",
+      "regional office",
+      "Local Office",
+      "Regional Office",
+      "Satellite Office",
+      "Subsidiary Office"
+    ],
+    "user_queries": [
+      "What is branch office?",
+      "How does branch office work?",
+      "Can you explain branch office?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

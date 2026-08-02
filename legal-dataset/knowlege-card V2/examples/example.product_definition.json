@@ -14,9 +14,32 @@
     "definition.product"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "product",
+      "definition",
+      "illustrative",
+      "example",
+      "pharmaceutical",
+      "company",
+      "medcare",
+      "manufactures",
+      "sells",
+      "new"
+    ],
+    "aliases": [
+      "good",
+      "commodity",
+      "Article Definition",
+      "Commodity Definition",
+      "Goods Definition",
+      "Item Definition",
+      "Merchandise Definition"
+    ],
+    "user_queries": [
+      "What is product definition?",
+      "How does product definition work?",
+      "Can you explain product definition?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

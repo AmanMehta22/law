@@ -14,9 +14,31 @@
     "definition.district_commission"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "district",
+      "commission",
+      "illustrative",
+      "example",
+      "definition",
+      "consumer",
+      "kumar",
+      "purchases",
+      "defective",
+      "refrigerator"
+    ],
+    "aliases": [
+      "District Consumer Court",
+      "Local Consumer Forum",
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "Local Consumer Court"
+    ],
+    "user_queries": [
+      "What is district commission?",
+      "How does district commission work?",
+      "Can you explain district commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

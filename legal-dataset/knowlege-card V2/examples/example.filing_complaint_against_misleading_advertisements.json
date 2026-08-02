@@ -14,9 +14,27 @@
     "right.right_to_file_complaint"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "filing",
+      "complaint",
+      "against",
+      "misleading",
+      "advertisements",
+      "illustrative",
+      "example",
+      "right",
+      "file",
+      "consumer"
+    ],
+    "aliases": [
+      "right to complaint",
+      "right to report"
+    ],
+    "user_queries": [
+      "What is filing complaint against misleading advertisements?",
+      "How does filing complaint against misleading advertisements work?",
+      "Can you explain filing complaint against misleading advertisements?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

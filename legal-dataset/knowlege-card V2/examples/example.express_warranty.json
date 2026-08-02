@@ -14,9 +14,31 @@
     "definition.express_warranty"
   ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "express",
+      "warranty",
+      "illustrative",
+      "example",
+      "definition",
+      "company",
+      "advertises",
+      "their",
+      "product",
+      "durable"
+    ],
+    "aliases": [
+      "warranty",
+      "product guarantee",
+      "Clear Promise",
+      "Explicit Warranty",
+      "Stated Warranty",
+      "Written Guarantee"
+    ],
+    "user_queries": [
+      "What is express warranty?",
+      "How does express warranty work?",
+      "Can you explain express warranty?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",
