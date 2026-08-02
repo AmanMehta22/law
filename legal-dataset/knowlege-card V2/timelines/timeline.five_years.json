@@ -6,17 +6,52 @@
   "content": {
     "duration": "five years",
     "trigger": "from the date on which he enters upon his office",
-    "exceptions": []
+    "exceptions": [
+      "attaining the age of seventy years in the case of the President",
+      "attaining the age of sixty-seven years in the case of any other member"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S55-1",
     "CPA2019-CH5-S75-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.national_commission",
+    "alias.term_of_office_of_president_and_members",
+    "authority.central_government",
+    "authority.national_commission",
+    "exception.the_president_and_members_shall_hold_office_for_a_term_not_e",
+    "intent.central_government"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "term",
+      "office",
+      "maximum",
+      "president",
+      "members",
+      "national",
+      "commission",
+      "five",
+      "years",
+      "date"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government",
+      "office duration",
+      "period of service",
+      "tenure",
+      "term length"
+    ],
+    "user_queries": [
+      "What is term of office?",
+      "How does term of office work?",
+      "Can you explain term of office?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

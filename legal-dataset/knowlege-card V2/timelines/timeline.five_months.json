@@ -2,20 +2,52 @@
   "concept_id": "timeline.five_months",
   "concept_type": "timeline",
   "title": "Complaint disposal time limit with analysis or testing",
-  "description": "Complaint disposal time limit with analysis or testing",
+  "description": "Duration: five months. Trigger: from the date of receipt of notice by opposite party. Exceptions: complaint does not require analysis or testing of commodities",
   "content": {
     "duration": "five months",
     "trigger": "from the date of receipt of notice by opposite party",
-    "exceptions": []
+    "exceptions": [
+      "complaint does not require analysis or testing of commodities"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-7"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.adjournment_exception",
+    "alias.complaint_disposal",
+    "alias.district_commission",
+    "alias.district_commission_must_dispose_of_complaint_within_a_period",
+    "alias.district_commission_must_make_orders_for_costs_of_adjournment",
+    "alias.district_commission_must_not_grant_adjournment_without_sufficient_cause",
+    "alias.district_commission_must_record_reasons_for_adjournment"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "complaint",
+      "disposal",
+      "time",
+      "limit",
+      "analysis",
+      "testing",
+      "five",
+      "months",
+      "date",
+      "receipt"
+    ],
+    "aliases": [
+      "delay",
+      "postponement",
+      "analysis based complaint resolution time",
+      "complaint disposal period with lab testing",
+      "complaint resolution timeline with investigation",
+      "testing based complaint disposal timeframe"
+    ],
+    "user_queries": [
+      "What is complaint disposal time limit with analysis or testing?",
+      "How does complaint disposal time limit with analysis or testing work?",
+      "Can you explain complaint disposal time limit with analysis or testing?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

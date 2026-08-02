@@ -2,20 +2,52 @@
   "concept_id": "timeline.three_months",
   "concept_type": "timeline",
   "title": "Complaint disposal time limit without analysis or testing",
-  "description": "Complaint disposal time limit without analysis or testing",
+  "description": "Duration: three months. Trigger: from the date of receipt of notice by opposite party. Exceptions: complaints requiring analysis or testing of commodities",
   "content": {
     "duration": "three months",
     "trigger": "from the date of receipt of notice by opposite party",
-    "exceptions": []
+    "exceptions": [
+      "complaints requiring analysis or testing of commodities"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S38-7"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.adjournment_exception",
+    "alias.complaint_disposal",
+    "alias.district_commission",
+    "alias.district_commission_must_dispose_of_complaint_within_a_period",
+    "alias.district_commission_must_make_orders_for_costs_of_adjournment",
+    "alias.district_commission_must_not_grant_adjournment_without_sufficient_cause",
+    "alias.district_commission_must_record_reasons_for_adjournment"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "complaint",
+      "disposal",
+      "time",
+      "limit",
+      "without",
+      "analysis",
+      "testing",
+      "three",
+      "months",
+      "date"
+    ],
+    "aliases": [
+      "delay",
+      "postponement",
+      "complaint disposal period without lab testing",
+      "complaint resolution time without analysis",
+      "complaint resolution timeframe without investigation",
+      "straightforward complaint disposal timeline"
+    ],
+    "user_queries": [
+      "What is complaint disposal time limit without analysis or testing?",
+      "How does complaint disposal time limit without analysis or testing work?",
+      "Can you explain complaint disposal time limit without analysis or testing?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

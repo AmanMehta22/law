@@ -6,24 +6,51 @@
   "content": {
     "duration": "three years",
     "trigger": "from the order",
-    "exceptions": []
+    "exceptions": [
+      "first offence",
+      "offence committed after the expiry of a period of three years from the date on which the offence was previously compounded"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S21-3",
     "CPA2019-CH8-S96-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_authority_must_consider_prohibition",
+    "alias.minimum_meetings_per_year",
+    "alias.prohibition_period_for_subsequent_contravention",
+    "alias.subsequent_contravention",
+    "authority.central_authority",
+    "exception.the_central_authority_may_prohibit_such_endorser_from_making"
+  ],
   "search": {
     "keywords": [
       "repeat offence",
-      "compounded offence"
+      "compounded offence",
+      "prohibition",
+      "period",
+      "subsequent",
+      "contravention",
+      "which",
+      "endorser",
+      "prohibited",
+      "making",
+      "endorsement",
+      "three"
     ],
     "aliases": [
       "subsequent offence",
       "similar offence"
     ],
     "user_queries": [
-      "time limit for repeat offence"
+      "time limit for repeat offence",
+      "What is repeat offence within three years?",
+      "How does repeat offence within three years work?",
+      "Can you explain repeat offence within three years?",
+      "What is central authority must consider prohibition?",
+      "How does central authority must consider prohibition work?",
+      "Can you explain central authority must consider prohibition?"
     ]
   },
   "metadata": {

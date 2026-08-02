@@ -6,16 +6,51 @@
   "content": {
     "duration": "two months",
     "trigger": "from the date of such reference",
-    "exceptions": []
+    "exceptions": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S58-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.president",
+    "alias.resolution_of_differing_opinions",
+    "alias.time_limit_for_president_s_opinion",
+    "authority.president",
+    "exception.provided_that_the_opinion_shall_be_given_within_a_period_of_",
+    "intent.president",
+    "intent.president_2"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "reference",
+      "opinion",
+      "time",
+      "limit",
+      "president",
+      "other",
+      "member",
+      "give",
+      "referred",
+      "point"
+    ],
+    "aliases": [
+      "Chairperson",
+      "Chief of Commission",
+      "Commission President",
+      "Head of Commission",
+      "Leader of the Commission",
+      "expert reference timeframe",
+      "reference opinion deadline",
+      "reference opinion submission period",
+      "timeframe for reference opinion"
+    ],
+    "user_queries": [
+      "What is reference opinion time limit?",
+      "How does reference opinion time limit work?",
+      "Can you explain reference opinion time limit?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

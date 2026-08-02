@@ -6,22 +6,45 @@
   "content": {
     "duration": "one year",
     "trigger": "every year",
-    "exceptions": []
+    "exceptions": [
+      "where the Central Authority deems it necessary"
+    ]
   },
   "derived_from": [
     "CPA2019-CH2-S6-3",
     "CPA2019-CH3-S21-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.minimum_meetings_per_year",
+    "alias.state_council",
+    "alias.state_council_meeting_obligation",
+    "authority.state_council",
+    "intent.minimum_meetings_per_year",
+    "intent.minimum_meetings_per_year_2",
+    "intent.state_council"
+  ],
   "search": {
     "keywords": [
-      "meeting frequency"
+      "meeting frequency",
+      "minimum",
+      "meetings",
+      "per",
+      "year",
+      "state",
+      "council",
+      "meet",
+      "least",
+      "twice",
+      "one"
     ],
     "aliases": [
       "annual meetings"
     ],
     "user_queries": [
-      "how often does the State Council meet"
+      "how often does the State Council meet",
+      "What is central authority must consider prohibition?",
+      "How does central authority must consider prohibition work?",
+      "Can you explain central authority must consider prohibition?"
     ]
   },
   "metadata": {

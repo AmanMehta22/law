@@ -6,16 +6,46 @@
   "content": {
     "duration": "every year",
     "trigger": "from the date of the order",
-    "exceptions": []
+    "exceptions": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH2-S4-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_council",
+    "alias.central_council_must_meet_annually",
+    "authority.central_council",
+    "intent.central_council",
+    "intent.central_council_2",
+    "intent.central_council_must_meet_annually",
+    "intent.central_council_must_meet_annually_2"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "meeting",
+      "time",
+      "limit",
+      "every",
+      "year",
+      "date",
+      "order"
+    ],
+    "aliases": [
+      "Central Consumer Council",
+      "Consumer Council",
+      "National Council",
+      "conference time frame",
+      "gathering timeline",
+      "hearing schedule",
+      "meeting deadline"
+    ],
+    "user_queries": [
+      "What is meeting time limit?",
+      "How does meeting time limit work?",
+      "Can you explain meeting time limit?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -15,11 +15,40 @@
     "CPA2019-CH4-S38-2",
     "CPA2019-CH4-S41"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.admissibility_decision_time_limit",
+    "alias.appeal_time_limit",
+    "alias.complaint_handling",
+    "alias.district_commission",
+    "alias.right_to_be_heard",
+    "authority.district_commission",
+    "evidence.report_from_laboratory"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "laboratory",
+      "report",
+      "time",
+      "limit",
+      "its",
+      "findings",
+      "district",
+      "commission",
+      "forty",
+      "five"
+    ],
+    "aliases": [
+      "complaint admission",
+      "lab report deadline",
+      "lab result timeline",
+      "laboratory testing timeframe",
+      "reporting period for lab tests"
+    ],
+    "user_queries": [
+      "What is laboratory report time limit?",
+      "How does laboratory report time limit work?",
+      "Can you explain laboratory report time limit?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

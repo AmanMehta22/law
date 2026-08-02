@@ -6,16 +6,47 @@
   "content": {
     "duration": "the period so specified",
     "trigger": "from the date of the order",
-    "exceptions": []
+    "exceptions": [
+      "the District Commission decides the issue of admissibility of the complaint within the period so specified"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S36-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "authority.district_commission",
+    "intent.admissibility_of_the_complaint",
+    "intent.district_commission",
+    "intent.district_commission_2",
+    "intent.district_commission_must_decide_on_admissibility_within_a_period"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "admissibility",
+      "complaint",
+      "period",
+      "specified",
+      "date",
+      "order"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum",
+      "admissibility criteria",
+      "complaint acceptability",
+      "complaint eligibility",
+      "complaint validity"
+    ],
+    "user_queries": [
+      "What is admissibility of the complaint?",
+      "How does admissibility of the complaint work?",
+      "Can you explain admissibility of the complaint?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

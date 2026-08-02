@@ -6,16 +6,48 @@
   "content": {
     "duration": "a period",
     "trigger": "after selling goods or rendering services",
-    "exceptions": []
+    "exceptions": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-47"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.contest_lottery_game_of_chance_or_skill_exception",
+    "alias.proof_of_warranty_or_guarantee",
+    "alias.unfair_trade_practice",
+    "definition.unfair_trade_practice",
+    "evidence.test_results_records_of_testing",
+    "exception.except_such_contest_lottery_game_of_chance_or_skill_as_may_b",
+    "intent.contest_lottery_game_of_chance_or_skill_exception"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "refund",
+      "time",
+      "limit",
+      "consideration",
+      "period",
+      "stipulated",
+      "bill",
+      "cash",
+      "memo",
+      "receipt"
+    ],
+    "aliases": [
+      "promotion",
+      "sale",
+      "money back timeline",
+      "refund deadline",
+      "reimbursement period",
+      "return time frame"
+    ],
+    "user_queries": [
+      "What is refund time limit?",
+      "How does refund time limit work?",
+      "Can you explain refund time limit?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

@@ -6,24 +6,44 @@
   "content": {
     "duration": "twenty-one days",
     "trigger": "from the date on which the complaint was filed",
-    "exceptions": []
+    "exceptions": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S36-2",
     "CPA2019-CH4-S38-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.admissibility_decision_time_limit",
+    "alias.complaint_admissibility_procedure",
+    "alias.district_commission_must_decide_admissibility_within_21_days",
+    "alias.district_commission_must_give_opportunity_of_being_heard",
+    "alias.right_to_be_heard",
+    "exception.a_complaint_shall_not_be_rejected_unless_an_opportunity_of_b",
+    "intent.admissibility_decision_time_limit"
+  ],
   "search": {
     "keywords": [
       "admissibility",
       "complaint",
-      "decision"
+      "decision",
+      "time",
+      "limit",
+      "twenty",
+      "one",
+      "days",
+      "date",
+      "which"
     ],
     "aliases": [
       "complaint admission"
     ],
     "user_queries": [
-      "time limit for complaint admissibility decision"
+      "time limit for complaint admissibility decision",
+      "What is admissibility decision time limit?",
+      "How does admissibility decision time limit work?",
+      "Can you explain admissibility decision time limit?"
     ]
   },
   "metadata": {

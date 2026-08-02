@@ -6,24 +6,48 @@
   "content": {
     "duration": "two years",
     "trigger": "from the date on which the cause of action has arisen",
-    "exceptions": []
+    "exceptions": [
+      "difficulty in giving effect to the provisions of this Act",
+      "no such order shall be made after the expiry of a period of two years from the commencement of this Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S69-1",
     "CPA2019-CH8-S106"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.complaint_filing",
+    "alias.complaint_filing_time_limit",
+    "alias.district_commission",
+    "alias.national_commission",
+    "alias.state_commission",
+    "alias.time_limit_for_filing_complaint",
+    "authority.district_commission"
+  ],
   "search": {
     "keywords": [
       "complaint filing",
-      "time limit"
+      "time limit",
+      "complaint",
+      "filing",
+      "time",
+      "limit",
+      "deadline",
+      "two",
+      "years",
+      "date",
+      "which",
+      "cause"
     ],
     "aliases": [
       "complaint deadline"
     ],
     "user_queries": [
       "complaint time limit",
-      "filing deadline"
+      "filing deadline",
+      "What is central government must make provisions to remove difficulties?",
+      "How does central government must make provisions to remove difficulties work?",
+      "Can you explain central government must make provisions to remove difficulties?"
     ]
   },
   "metadata": {

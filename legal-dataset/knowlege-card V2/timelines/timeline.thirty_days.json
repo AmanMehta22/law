@@ -26,7 +26,15 @@
     "CPA2019-CH4-S73-3",
     "CPA2019-CH8-S105-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_time_limit",
+    "alias.central_authority",
+    "alias.filing_an_appeal",
+    "alias.national_commission",
+    "alias.right_to_appeal",
+    "authority.central_authority",
+    "authority.national_commission"
+  ],
   "search": {
     "keywords": [
       "appeal",
@@ -36,7 +44,11 @@
       "review",
       "application",
       "time limit",
-      "thirty days"
+      "thirty days",
+      "time",
+      "limit",
+      "filing",
+      "national"
     ],
     "aliases": [
       "time limit for appeal",
@@ -51,7 +63,12 @@
       "How long does the opposite party have to respond?",
       "What is the time limit for the opposite party to reply?",
       "time limit to apply for review",
-      "What is the time limit for filing an appeal under this section?"
+      "What is the time limit for filing an appeal under this section?",
+      "What is laying of rules and regulations before parliament?",
+      "How does laying of rules and regulations before parliament work?",
+      "Can you explain laying of rules and regulations before parliament?",
+      "What is acknowledgment?",
+      "How does acknowledgment work?"
     ]
   },
   "metadata": {

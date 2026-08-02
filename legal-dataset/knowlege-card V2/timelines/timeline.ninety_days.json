@@ -6,16 +6,48 @@
   "content": {
     "duration": "ninety days",
     "trigger": "from the date of its admission",
-    "exceptions": []
+    "exceptions": [
+      "sufficient cause is shown"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S52"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.adjournment_exception",
+    "alias.appeal_hearing",
+    "alias.national_commission",
+    "alias.right_to_expedient_hearing_of_appeal",
+    "alias.state_commission",
+    "authority.national_commission",
+    "authority.state_commission"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "appeal",
+      "disposal",
+      "time",
+      "limit",
+      "dispose",
+      "ninety",
+      "days",
+      "date",
+      "its",
+      "admission"
+    ],
+    "aliases": [
+      "delay",
+      "postponement",
+      "appeal decision timeline",
+      "appeal disposal deadline",
+      "appeal hearing period",
+      "appeal resolution timeframe"
+    ],
+    "user_queries": [
+      "What is appeal disposal time limit?",
+      "How does appeal disposal time limit work?",
+      "Can you explain appeal disposal time limit?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

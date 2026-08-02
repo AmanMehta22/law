@@ -6,17 +6,51 @@
   "content": {
     "duration": "up to two years",
     "trigger": "in case of first conviction",
-    "exceptions": []
+    "exceptions": [
+      "second or subsequent conviction"
+    ]
   },
   "derived_from": [
     "CPA2019-CH7-S90-3",
     "CPA2019-CH7-S91-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.court",
+    "authority.court",
+    "intent.court",
+    "intent.court_2",
+    "intent.licence_suspension_period",
+    "intent.penalty_for_first_conviction_2",
+    "intent.penalty_for_subsequent_conviction"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "licence",
+      "suspension",
+      "period",
+      "first",
+      "conviction",
+      "two",
+      "years",
+      "case"
+    ],
+    "aliases": [
+      "Bench",
+      "Judiciary",
+      "Law Court",
+      "Tribunal",
+      "judicial body",
+      "tribunal",
+      "licence suspension deadline",
+      "licence suspension timeframe",
+      "period of licence suspension",
+      "suspension duration"
+    ],
+    "user_queries": [
+      "What is licence suspension period?",
+      "How does licence suspension period work?",
+      "Can you explain licence suspension period?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",
