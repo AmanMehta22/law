@@ -12,37 +12,39 @@ state tracked).
 ## 1. Overview
 
 ```
- India Code / Gazette text
+
+  India Code / Gazette text
         │
         ▼
- V1  legal-node V1/  (276 section nodes, verbatim official_text)
+ V1  acts/consumer-protection-act-2019/v1-statute/  (276 section nodes, verbatim official_text)
         │  split + normalize + cross-reference
         ▼
- V2  knowlege-card V2/  (4,147 knowledge cards, 16 concept folders)
+ V2  acts/consumer-protection-act-2019/v2-knowledge-cards/  (4,147 knowledge cards, 16 concept folders)
         │  schema-validate, coverage check
         ▼
 Review  pass 1 (LLM) → 621 reviewed / 3,526 draft
-        │  _review_state.json  (review status machine)
+        │  review-state.json  (review status machine)
         ▼
 Audit   pass 2 (LLM) → 124 adjudications → 98 CONFIRM / 26 FALSE_POSITIVE
-        │  docs/_llama_audit.json + _llama_audit_adjudicated.json
+        │  llm-audit.json + llm-audit-adjudicated.json
         ▼
 Manual adjudication → apply_fixes.py (23 fixes + 1 derived_from append)
         │  backups, review-state reconciliation
         ▼
-Merge   dataset/final/  knowledge_cards_v2.{json,jsonl} + search_augmentation.json
+Merge   acts/consumer-protection-act-2019/final/  v2-knowledge-cards.{json,jsonl} + search-augmentation.json
         │  G1–G8 gates + G-Deep check
         ▼
-Docs    docs/progress.md  +  docs/project-flow.md (this file)
+Docs    review/progress.md  +  review/project-flow.md (this file)
 ```
 
 ---
 
-## 2. Phase 1 — V1 statute layer (`legal-node V1/`)
+## 2. Phase 1 — V1 statute layer
+  (`acts/consumer-protection-act-2019/v1-statute/`)
 
 - Parse the Consumer Protection Act, 2019 into structured section nodes.
-- **Files:** `sections_v1f/` — **276 nodes** (sections, subsections,
-  definitions).
+- **Files:** `sections/` (`v1-statute/sections/`) — **276 nodes** (sections,
+  subsections, definitions).
 - Every node stores `official_text` verbatim, with `id`
   (e.g. `CPA2019-CH4-S41`), `path`, `chapter_number`, `section_number`,
   `subsection_number`, `citations`, `metadata` (+ SHA-256 `checksum` of
@@ -51,15 +53,16 @@ Docs    docs/progress.md  +  docs/project-flow.md (this file)
   **0 content changes** in all chapters (I–VIII, plus 47 definitions);
   flagged diffs were extraction artifacts (broken words, margin bleed,
   spaced hyphens, page-number leakage).
-- **Merged V1:** `dataset/final/Consumer_Protection_Act_2019.json` /
+- **Merged V1:** `acts/consumer-protection-act-2019/final/v1-statute.json` /
   `.jsonl` — 276 nodes.
 
-## 3. Phase 2 — V2 knowledge cards (knowlege-card V2/)
+## 3. Phase 2 — V2 knowledge cards
+  (`acts/consumer-protection-act-2019/v2-knowledge-cards/`)
 
 Cards generated from V1 (per-category agents):
 `PenaltyAgent`, `ObligationAgent`, `TimelineAgent`, etc.
 
-| concept_type | Folder | Files |
+| concept_type | Folder (within tier-a/b/c) | Files |
 |---|---|---|
 | alias | `aliases/` | 591 |
 | authority | `authorities/` | 38 |
@@ -79,9 +82,9 @@ Cards generated from V1 (per-category agents):
 | timeline | `timelines/` | 20 |
 | **Total** | | **4,147** |
 
-Card schema: `v2Schema.json`. Each card has `concept_id`, `concept_type`,
-`title`, `description`, `content`, `derived_from` (links to V1 node ids),
-`search` (keywords/aliases/queries), `metadata` (jurisdiction, act,
+Card schema: `schema/v2.schema.json`. Each card has `concept_id`,
+`concept_type`, `title`, `description`, `content`, `derived_from` (links to V1
+node ids), `search` (keywords/aliases/queries), `metadata` (jurisdiction, act,
 `review_status`, `confidence`, `reviewed_by`, `version`).
 
 **Coverage gate:** every one of the 276 V1 nodes is referenced by ≥ 1 card's
@@ -102,15 +105,16 @@ Card schema: `v2Schema.json`. Each card has `concept_id`, `concept_type`,
   (search-support artifacts, out of scope).
 - **Output:** total 621 `reviewed`, 3,526 `draft`, 46 flag-for-human
   advisories; auto-fix audit fixed/reverted 9 cards (verified against the
-  Act). State machine: `docs/_review_state.json`.
+  Act). State machine: `review-state.json`.
 
 ## 5. Phase 4 — Audit, pass 2 (LLM, second check)
 
 - Ran the same reviewer over the 621 reviewed cards.
 - **621 verdicts → 124 field-level adjudications → 98 CONFIRM / 26
   FALSE_POSITIVE**.
-- Telemetry: `docs/_llama_audit.json` (raw) +
-  `docs/_llama_audit_adjudicated.json` (decisions, per `concept_id`).
+- Telemetry: `acts/consumer-protection-act-2019/review/llm-audit.json` (raw) +
+  `acts/consumer-protection-act-2019/review/llm-audit-adjudicated.json`
+  (decisions, per `concept_id`).
 - **Key finding:** adjudicator is self-contradictory. It CONFIRMS flags whose
   own reason text admits the card is correct
   (e.g. `remedy.setting_aside_of_order`, `evidence.affidavit`,
@@ -176,32 +180,34 @@ Constraints honored:
 
 ### Review-state reconciliation
 
-- `docs/_review_state.json`: `needs_human_review` 84 → **73** field entries /
+- `acts/consumer-protection-act-2019/review/review-state.json`:
+  `needs_human_review` 84 → **73** field entries /
   **39** distinct cards; `fixed` 9 → **33**; `passed`/`processed` 281 each.
 
 ## 7. Phase 5 — Final merges
 
 Regenerated by `phase4_merge.py`:
 
-- `dataset/final/knowledge_cards_v2.json` — **4,147 cards** (sorted by
-  `concept_id`).
-- `dataset/final/knowledge_cards_v2.jsonl` — **4,147 lines**.
-- `dataset/final/search_augmentation.json` — **533 concept entries**
-  (intents + aliases folded per base concept).
+- `acts/consumer-protection-act-2019/final/v2-knowledge-cards.json` —
+  **4,147 cards** (sorted by `concept_id`).
+- `acts/consumer-protection-act-2019/final/v2-knowledge-cards.jsonl` —
+  **4,147 lines**.
+- `acts/consumer-protection-act-2019/final/search-augmentation.json` —
+  **533 concept entries** (intents + aliases folded per base concept).
 
 Pre-change backups for every edited card:
-`%TEMP%\opencode\pre_fix_backup\` (see `docs/` script notes).
+`%TEMP%\opencode\pre_fix_backup\` (see the review notes).
 
 ## 8. Acceptance gates
 
 | Gate | Description | Result |
 |---|---|---|
-| G1 | V2 cards validate against schema; V1 nodes against `v1f.json` | PASS (4,147 / 276, 0 invalid) |
+| G1 | V2 cards validate against schema; V1 nodes against `schema/v1.schema.json` | PASS (4,147 / 276, 0 invalid) |
 | G2 | V1 checksum = SHA-256(`official_text`) | PASS (0 missing, 0 mismatch) |
 | G3 | Unique `concept_id` across all V2 cards | PASS (0 duplicates) |
 | G4 | No orphan `derived_from` / `related_concepts` refs | PASS (0) |
 | G5 | Every V1 node referenced by ≥ 1 card `derived_from` | PASS (0 uncovered) |
-| G6 | `dataset/final` merges present and consistent (json == jsonl == 4,147) | PASS |
+| G6 | `acts/consumer-protection-act-2019/final` merges present and consistent (json == jsonl == 4,147) | PASS |
 | G7 | Tier A cards 100% `reviewed` | PASS (195/195) |
 | G8 | `review_status` vocabulary = {draft, reviewed} only | PASS |
 | Deep | G-Deep integrity scan (id, required fields, content non-empty, derived_from transitive resolution, augmentation key uniqueness, outbound refs) | PASS (0 issues) |
@@ -212,20 +218,25 @@ Pre-change backups for every edited card:
 
 - 4,147 V2 cards; 276 V1 nodes; 621 `reviewed`; 3,526 `draft`.
 - **39 distinct cards** (73 field-level entries) remain flagged for human
-  review (see `docs/_review_state.json`); none were auto-modified.
+  review (see `acts/consumer-protection-act-2019/review/review-state.json`);
+  none were auto-modified.
 - Merged artifacts regenerated and consistent.
 
 ---
 
 ## 10. Pointers
 
-- Live tracker / state machine: `docs/_review_state.json`.
-- Review runtimes / audit dumps: `docs/_llama_audit.json`,
-  `docs/_llama_audit_adjudicated.json`.
+- Live tracker / state machine:
+  `acts/consumer-protection-act-2019/review/review-state.json`.
+- Review runtimes / audit dumps:
+  `acts/consumer-protection-act-2019/review/llm-audit.json`,
+  `acts/consumer-protection-act-2019/review/llm-audit-adjudicated.json`.
 - Card/section rules: `docs/dataset-guidelines.md`, `docs/json-rules.md`,
   `docs/naming-convention.md`.
-- Source law text (verbatim): `legal-node V1/`.
-- Knowledge graph: `knowlege-card V2/`.
-- Final pairs: `dataset/final/`.
+- Source law text (verbatim):
+  `acts/consumer-protection-act-2019/v1-statute/`.
+- Knowledge graph:
+  `acts/consumer-protection-act-2019/v2-knowledge-cards/`.
+- Final pairs: `acts/consumer-protection-act-2019/final/`.
 
 *Last updated: 2026-08-02.*

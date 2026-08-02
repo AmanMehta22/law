@@ -5,9 +5,11 @@ Format: `- [x]` done, `- [ ]` pending.
 
 Two layers are tracked:
 
-1. **V1 nodes** (`legal-node V1/sections_v1f/`, 276 files) — the verbatim statute.
-2. **V2 knowledge cards** (`knowlege-card V2/`, 4,147 cards in 16 concept
-   folders) — built from V1, with a review-status tracker below.
+1. **V1 nodes** (`acts/consumer-protection-act-2019/v1-statute/sections/`,
+   276 files) — the verbatim statute.
+2. **V2 knowledge cards**
+   (`acts/consumer-protection-act-2019/v2-knowledge-cards/`, 4,147 cards in 16
+   concept folders) — built from V1, with a review-status tracker below.
 
 ---
 
@@ -266,13 +268,14 @@ Two layers are tracked:
 
 - [x] All sections complete (Chapters I–VIII: 229 files)
 - [x] All definitions complete (47)
-- [x] Merged into `dataset/final/Consumer_Protection_Act_2019.json` — **exists**
-      (list of 276 V1 nodes, verified 2026-08-02)
-- [x] JSONL export `dataset/final/Consumer_Protection_Act_2019.jsonl` (276 lines)
+- [x] Merged into `acts/consumer-protection-act-2019/final/v1-statute.json`
+      — **exists** (list of 276 V1 nodes, verified 2026-08-02)
+- [x] JSONL export `acts/consumer-protection-act-2019/final/v1-statute.jsonl`
+      (276 lines)
 
 ---
 
-# V2 Knowledge Cards (knowlege-card V2/)
+# V2 Knowledge Cards (`acts/consumer-protection-act-2019/v2-knowledge-cards/`)
 
 ## Category counts (real, snapshot as of 2026-08-02)
 
@@ -296,8 +299,8 @@ Two layers are tracked:
 | timeline | `timelines/` | 20 |
 | **Total** | | **4,147** |
 
-All cards validate against `knowlege-card V2/v2Schema.json`. Full coverage:
-every one of the 276 V1 nodes is referenced by at least one card's
+All cards validate against `schema/v2.schema.json`. Full coverage: every one
+of the 276 V1 nodes is referenced by at least one card's
 `derived_from` (verified 2026-08-02).
 
 ## V2 Review-Status Tracker
@@ -332,7 +335,8 @@ This table is updated as content review progresses.
 ### Needs human review
 
 **39 distinct cards** carry advisory flags from the automated review (a human
-should eyeball them before production use). Detail from `docs/_review_state.json`
+should eyeball them before production use). Detail from
+`acts/consumer-protection-act-2019/review/review-state.json`
 (`needs_human_review`, 73 field-level entries). None were modified
 automatically.
 
@@ -383,7 +387,7 @@ automatically.
 
 Reviewer: `v2-review-llm-70b-2026-08-02` (meta-llama/llama-3.3-70b-instruct,
 temperature 0, strict pass/fail on objective facts, FAIR paraphrase bias).
-State: `docs/_review_state.json`.
+State: `acts/consumer-protection-act-2019/review/review-state.json`.
 
 - **Tier A (100%)** — penalties (20), offences (9), procedures (98),
   timelines (20), definitions (48) = **195 cards reviewed**.
@@ -417,7 +421,8 @@ State: `docs/_review_state.json`.
 - Ran `meta-llama/llama-3.3-70b-instruct` (temp 0) over the 621 reviewed cards:
   **621 verdicts → 124 adjudications → 98 CONFIRM / 26 FALSE_POSITIVE**.
 - Every CONFIRM flag was manually triaged against the V1 `official_text`
-  (`docs/_llama_audit.json`, `docs/_llama_audit_adjudicated.json`).
+  (`acts/consumer-protection-act-2019/review/llm-audit.json`,
+  `acts/consumer-protection-act-2019/review/llm-audit-adjudicated.json`).
 - **Key finding:** the adjudicator is self-contradictory — it CONFIRMed flags
   whose own `reason` text admits the card is correct (e.g.
   `remedy.setting_aside_of_order`, `evidence.affidavit`, `exception.except_the
@@ -457,29 +462,37 @@ Script: `apply_fixes.py`. Pre-change backups: `pre_fix_backup/`.
   consumer); flagged entries reversed (user decision).
 - **No legal content rewritten**; only metadata-aligning field values sourced
   from the Act, plus the derived_from append.
-- Merges regenerated: `dataset/final/knowledge_cards_v2.json` (4,147) and
-  `_v2.jsonl` (4,147), `search_augmentation.json` (533) — G-deep PASS (0
-  issues; json==jsonl; unique ids; transitive `derived_from` resolution).
+- Merges regenerated:
+  `acts/consumer-protection-act-2019/final/v2-knowledge-cards.json` (4,147)
+  and `_v2.jsonl` (4,147),
+  `acts/consumer-protection-act-2019/final/search-augmentation.json` (533) —
+  G-deep PASS (0 issues; json==jsonl; unique ids; transitive
+  `derived_from` resolution).
 
 ### V2 Merging (final)
 
-- [x] V2 merge → `dataset/final/knowledge_cards_v2.json` (4,147 cards) / `knowledge_cards_v2.jsonl` (4,147 lines)
-- [x] Search augmentation → `dataset/final/search_augmentation.json` (533 concept entries)
+- [x] V2 merge →
+      `acts/consumer-protection-act-2019/final/v2-knowledge-cards.json`
+      (4,147 cards) / `v2-knowledge-cards.jsonl` (4,147 lines)
+- [x] Search augmentation →
+      `acts/consumer-protection-act-2019/final/search-augmentation.json`
+      (533 concept entries)
 - [x] Updated 2026-08-02
 
 ### Phase 5 — final acceptance gates (2026-08-02)
 
 | Gate | Result |
 |---|---|
-| G1  All V2 cards validate against `v2Schema.json`; all V1 nodes against `v1f.json` | PASS (4,147 / 276, 0 invalid) |
+| G1  All V2 cards validate against `schema/v2.schema.json`; all V1 nodes against `schema/v1.schema.json` | PASS (4,147 / 276, 0 invalid) |
 | G2  V1 checksum = SHA-256(`official_text`) | PASS (0 missing, 0 mismatched) |
 | G3  Unique `concept_id` across all V2 cards | PASS (0 dups) |
 | G4  No orphan `derived_from` / `related_concepts` refs | PASS (0) |
 | G5  Every V1 node referenced by ≥1 card's `derived_from` | PASS (0 uncovered) |
-| G6  `dataset/final` merges present and consistent (json == jsonl == 4,147) | PASS |
+| G6  `acts/consumer-protection-act-2019/final` merges present and consistent (json == jsonl == 4,147) | PASS |
 | G7  Tier A (penalty/offence/procedure/timeline/definition) 100% `reviewed` | PASS (195/195) |
 | G8  `review_status` vocabulary = {draft, reviewed} only | PASS |
 
 **Result: all 8 gates pass** — V2 content layer is ready to hand off, pending the
 39 human-review advisories listed above (73 field-level entries, see
-`docs/_review_state.json`) and the eventual Tier C review.
+`acts/consumer-protection-act-2019/review/review-state.json`) and the eventual
+Tier C review.
