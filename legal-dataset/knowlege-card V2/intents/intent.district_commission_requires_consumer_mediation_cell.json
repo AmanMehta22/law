@@ -12,12 +12,9 @@
   },
   "derived_from": [
     "CPA2019-CH5-S74-4",
-    "CPA2019-CH8-S103-2",
-    "relationship.alias_district_commission_requires_alias_consumer_mediation_cell"
+    "CPA2019-CH8-S103-2"
   ],
-  "related_concepts": [
-    "relationship.alias_district_commission_requires_alias_consumer_mediation_cell"
-  ],
+  "related_concepts": [],
   "search": {
     "keywords": [
       "questions",

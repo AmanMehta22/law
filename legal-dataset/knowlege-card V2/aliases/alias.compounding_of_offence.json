@@ -19,13 +19,10 @@
     "procedure.compounding_of_offence"
   ],
   "related_concepts": [
-    "alias.court",
     "authority.court",
-    "intent.compounding_of_offence",
-    "intent.compounding_of_offence_3",
-    "intent.compounding_of_offence_5",
-    "intent.compounding_of_offence_handled_by_court",
-    "intent.court"
+    "penalty.offence_punishable_under_sections_88_and_89",
+    "procedure.compounding_of_offence",
+    "relationship.procedure_compounding_of_offence_handled_by_authority_court"
   ],
   "search": {
     "keywords": [

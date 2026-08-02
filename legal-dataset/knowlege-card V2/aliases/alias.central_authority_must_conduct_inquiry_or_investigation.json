@@ -16,13 +16,9 @@
     "obligation.central_authority_shall_conduct_inquiry_or_investigation"
   ],
   "related_concepts": [
-    "alias.central_authority",
-    "alias.director_general",
-    "alias.investigation_wing",
     "authority.central_authority",
     "authority.director_general",
-    "authority.investigation_wing",
-    "intent.central_authority"
+    "authority.investigation_wing"
   ],
   "search": {
     "keywords": [

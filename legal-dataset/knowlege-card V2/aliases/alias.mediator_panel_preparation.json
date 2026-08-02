@@ -17,13 +17,11 @@
     "procedure.mediator_panel_preparation"
   ],
   "related_concepts": [
-    "alias.consumer_mediation_cell",
-    "alias.district_commission",
-    "alias.national_commission",
-    "alias.selection_committee",
-    "alias.state_commission",
     "authority.consumer_mediation_cell",
-    "authority.district_commission"
+    "authority.district_commission",
+    "authority.national_commission",
+    "authority.selection_committee",
+    "authority.state_commission"
   ],
   "search": {
     "keywords": [

@@ -14,13 +14,10 @@
     "CPA2019-CH4-S51-2"
   ],
   "related_concepts": [
-    "alias.appeal_to_national_commission",
-    "alias.filing_an_appeal_to_the_national_commission",
-    "alias.national_commission_must_hear_appeal",
-    "alias.right_to_appeal",
-    "intent.appeal_to_national_commission",
-    "intent.appeal_to_national_commission_2",
-    "intent.appeal_to_national_commission_limits_right_to_appeal"
+    "procedure.filing_an_appeal_to_the_national_commission",
+    "obligation.national_commission_must_hear_appeal",
+    "right.right_to_appeal",
+    "relationship.exception_save_as_otherwise_expressly_provided_under_this_act_or_by_an"
   ],
   "search": {
     "keywords": [

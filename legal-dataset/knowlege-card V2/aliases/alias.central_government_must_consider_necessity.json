@@ -13,13 +13,8 @@
     "obligation.central_government_must_consider_necessity"
   ],
   "related_concepts": [
-    "alias.central_authority",
-    "alias.central_government",
     "authority.central_authority",
-    "authority.central_government",
-    "intent.central_authority",
-    "intent.central_authority_2",
-    "intent.central_government"
+    "authority.central_government"
   ],
   "search": {
     "keywords": [

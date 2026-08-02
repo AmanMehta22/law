@@ -19,13 +19,8 @@
     "CPA2019-CH4-S44"
   ],
   "related_concepts": [
-    "alias.district_commission",
-    "alias.state_government",
-    "alias.state_government_must_make_rules_for_salaries_and_allowances",
     "authority.district_commission",
-    "authority.state_government",
-    "intent.district_commission",
-    "intent.district_commission_2"
+    "authority.state_government"
   ],
   "search": {
     "keywords": [

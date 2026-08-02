@@ -18,13 +18,9 @@
     "CPA2019-CH8-S102-1"
   ],
   "related_concepts": [
-    "alias.central_government",
-    "alias.state_governments",
     "authority.central_government",
     "authority.state_governments",
-    "exception.provided_that_the_central_government_may_frame_model_rules",
-    "intent.central_government",
-    "intent.central_government_2"
+    "exception.provided_that_the_central_government_may_frame_model_rules"
   ],
   "search": {
     "keywords": [

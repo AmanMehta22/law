@@ -19,10 +19,10 @@
     "CPA2019-CH4-S38-9",
     "CPA2019-CH4-S47-1",
     "CPA2019-CH8-S101-2",
-    "relationship.alias_mediation_references_alias_district_commission"
+    "relationship.mediation_references_district_commission"
   ],
   "related_concepts": [
-    "relationship.alias_mediation_references_alias_district_commission"
+    "relationship.mediation_references_district_commission"
   ],
   "search": {
     "keywords": [

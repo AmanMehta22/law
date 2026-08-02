@@ -16,13 +16,9 @@
     "authority.state_governments"
   ],
   "related_concepts": [
-    "alias.central_government",
     "authority.central_government",
     "authority.state_governments",
-    "exception.provided_that_the_central_government_may_frame_model_rules",
-    "intent.central_government",
-    "intent.central_government_2",
-    "intent.state_governments"
+    "exception.provided_that_the_central_government_may_frame_model_rules"
   ],
   "search": {
     "keywords": [

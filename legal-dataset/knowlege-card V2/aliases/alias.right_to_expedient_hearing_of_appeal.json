@@ -17,10 +17,8 @@
     "right.right_to_expedient_hearing_of_appeal"
   ],
   "related_concepts": [
-    "alias.adjournment_exception",
-    "alias.appeal_hearing",
-    "alias.national_commission",
-    "alias.state_commission",
+    "exception.adjournment_may_be_granted_if_sufficient_cause_is_shown",
+    "procedure.appeal_hearing",
     "authority.national_commission",
     "authority.state_commission",
     "evidence.written_record_of_reasons"

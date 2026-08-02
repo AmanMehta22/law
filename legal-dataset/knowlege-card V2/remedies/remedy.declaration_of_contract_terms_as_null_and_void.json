@@ -17,13 +17,9 @@
     "CPA2019-CH4-S59-2"
   ],
   "related_concepts": [
-    "alias.declaration_of_contract_terms_as_null_and_void",
-    "alias.national_commission",
-    "alias.national_commission_may_declare_unfair_contract_terms_null_and_void",
-    "alias.right_to_protection_from_unfair_contract_terms",
     "authority.national_commission",
-    "intent.declaration_of_contract_terms_as_null_and_void",
-    "intent.declaration_of_contract_terms_as_null_and_void_2"
+    "obligation.national_commission_may_declare_terms_of_contract_null_and_v",
+    "right.right_to_protection_from_unfair_contract_terms"
   ],
   "search": {
     "keywords": [

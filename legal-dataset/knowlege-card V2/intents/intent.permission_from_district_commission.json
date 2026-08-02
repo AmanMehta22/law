@@ -16,7 +16,7 @@
     "alias.permission_from_district_commission"
   ],
   "related_concepts": [
-    "alias.permission_from_district_commission"
+    "exception.does_not_apply_without_permission_of_the_district_commission"
   ],
   "search": {
     "keywords": [

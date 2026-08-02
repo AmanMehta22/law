@@ -14,13 +14,9 @@
     "obligation.central_government_shall_establish_a_consumer_mediation_cell"
   ],
   "related_concepts": [
-    "alias.central_government",
-    "alias.consumer_mediation_cell",
-    "alias.national_commission",
     "authority.central_government",
     "authority.consumer_mediation_cell",
-    "authority.national_commission",
-    "intent.central_government"
+    "authority.national_commission"
   ],
   "search": {
     "keywords": [

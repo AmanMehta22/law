@@ -17,13 +17,10 @@
     "right.right_to_protection_from_unfair_contract_terms"
   ],
   "related_concepts": [
-    "alias.declaration_of_unfair_contract_terms_as_null_and_void",
-    "alias.state_commission",
-    "alias.state_commission_may_declare_unfair_contract_terms_null_and_void",
+    "remedy.declaration_of_unfair_contract_terms_as_null_and_void",
     "authority.state_commission",
-    "intent.declaration_of_unfair_contract_terms_as_null_and_void",
-    "intent.declaration_of_unfair_contract_terms_as_null_and_void_2",
-    "intent.right_to_protection_from_unfair_contract_terms"
+    "obligation.state_commission_may_declare_unfair_terms_of_contract_null_a",
+    "right.right_to_protection_from_unfair_contract_terms"
   ],
   "search": {
     "keywords": [

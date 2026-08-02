@@ -14,13 +14,9 @@
     "CPA2019-CH3-S21-2"
   ],
   "related_concepts": [
-    "alias.central_authority",
-    "alias.central_authority_may_impose_penalty",
-    "alias.subsequent_contravention_penalty",
     "authority.central_authority",
-    "exception.the_central_authority_may_impose_a_higher_penalty_for_subseq",
-    "intent.central_authority",
-    "intent.central_authority_2"
+    "obligation.central_authority_may_impose_penalty",
+    "exception.the_central_authority_may_impose_a_higher_penalty_for_subseq"
   ],
   "search": {
     "keywords": [

@@ -13,13 +13,12 @@
     "remedy.reimbursement_of_prices"
   ],
   "related_concepts": [
-    "alias.central_authority",
-    "alias.discontinuation_of_unfair_practices",
-    "alias.investigation_and_order_passing",
-    "alias.opportunity_of_being_heard",
-    "alias.recall_of_goods_or_withdrawal_of_services",
-    "alias.right_to_reimbursement",
-    "authority.central_authority"
+    "authority.central_authority",
+    "remedy.discontinuation_of_unfair_practices",
+    "procedure.investigation_and_order_passing",
+    "exception.the_central_authority_shall_give_the_person_an_opportunity_o",
+    "remedy.recall_of_goods_or_withdrawal_of_services",
+    "right.right_to_reimbursement"
   ],
   "search": {
     "keywords": [

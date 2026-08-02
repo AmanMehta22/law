@@ -13,9 +13,7 @@
   "derived_from": [
     "alias.report_from_laboratory"
   ],
-  "related_concepts": [
-    "alias.report_from_laboratory"
-  ],
+  "related_concepts": [],
   "search": {
     "keywords": [
       "questions",

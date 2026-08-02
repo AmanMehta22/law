@@ -22,12 +22,10 @@
   ],
   "related_concepts": [
     "definition.misleading_advertisement",
-    "intent.misleading_advertisement",
-    "intent.misleading_advertisement_2",
-    "intent.central_authority_references_misleading_advertisement",
-    "intent.court_references_misleading_advertisement",
-    "intent.misleading_advertisement_4",
-    "intent.penalty_for_false_or_misleading_advertisement_2"
+    "relationship.central_authority_references_misleading_advertisement",
+    "relationship.court_references_misleading_advertisement",
+    "offence.a_manufacturer_or_service_provider_who_causes_a_false_or_misleading_advertisemen",
+    "penalty.publishing_false_or_misleading_advertisement"
   ],
   "search": {
     "keywords": [

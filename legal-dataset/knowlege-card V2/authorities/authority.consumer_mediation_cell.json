@@ -29,10 +29,6 @@
     "CPA2019-CH8-S103-2"
   ],
   "related_concepts": [
-    "alias.consumer_mediation_cell",
-    "alias.district_commissions",
-    "alias.state_commissions",
-    "alias.state_government",
     "authority.district_commissions",
     "authority.state_commissions",
     "authority.state_government"

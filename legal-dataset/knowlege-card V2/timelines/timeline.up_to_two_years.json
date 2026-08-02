@@ -15,13 +15,8 @@
     "CPA2019-CH7-S91-3"
   ],
   "related_concepts": [
-    "alias.court",
     "authority.court",
-    "intent.court",
-    "intent.court_2",
-    "intent.licence_suspension_period",
-    "intent.penalty_for_first_conviction_2",
-    "intent.penalty_for_subsequent_conviction"
+    "penalty.first_conviction"
   ],
   "search": {
     "keywords": [

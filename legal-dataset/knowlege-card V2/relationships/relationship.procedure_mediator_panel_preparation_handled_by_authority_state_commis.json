@@ -12,13 +12,12 @@
     "CPA2019-CH5-S75-1"
   ],
   "related_concepts": [
-    "alias.consumer_mediation_cell",
-    "alias.district_commission",
-    "alias.mediator_panel_preparation",
-    "alias.national_commission",
-    "alias.selection_committee",
-    "alias.state_commission",
-    "authority.consumer_mediation_cell"
+    "authority.consumer_mediation_cell",
+    "authority.district_commission",
+    "procedure.mediator_panel_preparation",
+    "authority.national_commission",
+    "authority.selection_committee",
+    "authority.state_commission"
   ],
   "search": {
     "keywords": [

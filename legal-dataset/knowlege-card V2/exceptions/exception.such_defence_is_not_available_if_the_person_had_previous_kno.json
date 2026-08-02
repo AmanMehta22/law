@@ -14,13 +14,9 @@
     "CPA2019-CH3-S21-6"
   ],
   "related_concepts": [
-    "alias.central_authority",
-    "alias.defence_not_available_with_previous_knowledge",
-    "alias.person_must_prove_publication_in_ordinary_course_of_business",
-    "alias.proof_of_publication_in_ordinary_course_of_business",
     "authority.central_authority",
-    "evidence.records_of_business_transactions_publication_records",
-    "intent.central_authority"
+    "obligation.person_must_prove_publication_in_ordinary_course_of_business",
+    "evidence.records_of_business_transactions_publication_records"
   ],
   "search": {
     "keywords": [

@@ -12,12 +12,11 @@
     "CPA2019-CH4-S38-2"
   ],
   "related_concepts": [
-    "alias.admissibility_decision_time_limit",
-    "alias.appeal_time_limit",
-    "alias.complaint_handling",
-    "alias.district_commission",
-    "alias.right_to_be_heard",
+    "timeline.twenty_one_days",
+    "timeline.thirty_days",
+    "procedure.complaint_handling",
     "authority.district_commission",
+    "right.right_to_be_heard",
     "evidence.report_from_laboratory"
   ],
   "search": {

@@ -12,13 +12,10 @@
     "CPA2019-CH3-S26-3"
   ],
   "related_concepts": [
-    "alias.audit_of_central_authority_accounts",
-    "alias.comptroller_and_auditor_general_of_india",
-    "alias.right_to_demand_production_of_documents",
+    "procedure.audit_of_central_authority_accounts",
     "authority.comptroller_and_auditor_general_of_india",
-    "evidence.books_accounts_connected_vouchers_other_documents_and_papers",
-    "intent.audit_documents",
-    "intent.audit_of_central_authority_accounts"
+    "right.right_to_demand_production_of_documents",
+    "evidence.books_accounts_connected_vouchers_other_documents_and_papers"
   ],
   "search": {
     "keywords": [

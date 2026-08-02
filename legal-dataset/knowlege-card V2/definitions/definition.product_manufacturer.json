@@ -17,11 +17,7 @@
   "derived_from": [
     "CPA2019-CH1-S2-36"
   ],
-  "related_concepts": [
-    "alias.product_manufacturer",
-    "intent.product_manufacturer",
-    "intent.product_manufacturer_2"
-  ],
+  "related_concepts": [],
   "search": {
     "keywords": [
       "product manufacturer",

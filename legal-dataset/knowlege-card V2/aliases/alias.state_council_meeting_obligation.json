@@ -13,13 +13,8 @@
     "obligation.state_council_shall_meet"
   ],
   "related_concepts": [
-    "alias.minimum_meetings_per_year",
-    "alias.state_council",
-    "authority.state_council",
-    "intent.minimum_meetings_per_year",
-    "intent.minimum_meetings_per_year_2",
-    "intent.state_council",
-    "intent.state_council_2"
+    "timeline.one_year",
+    "authority.state_council"
   ],
   "search": {
     "keywords": [

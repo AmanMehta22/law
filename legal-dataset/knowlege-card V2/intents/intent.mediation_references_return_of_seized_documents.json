@@ -13,10 +13,10 @@
   "derived_from": [
     "CPA2019-CH3-S22-3",
     "CPA2019-CH8-S101-2",
-    "relationship.alias_mediation_references_alias_return_of_seized_documents"
+    "relationship.mediation_references_person_seizing_the_documents_must_return_seized_documents"
   ],
   "related_concepts": [
-    "relationship.alias_mediation_references_alias_return_of_seized_documents"
+    "relationship.mediation_references_person_seizing_the_documents_must_return_seized_documents"
   ],
   "search": {
     "keywords": [

@@ -15,9 +15,7 @@
   "derived_from": [
     "alias.control_and_supervision_exception"
   ],
-  "related_concepts": [
-    "alias.control_and_supervision_exception"
-  ],
+  "related_concepts": [],
   "search": {
     "keywords": [
       "questions",

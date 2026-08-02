@@ -12,13 +12,10 @@
     "CPA2019-CH4-S51-5"
   ],
   "related_concepts": [
-    "alias.filing_an_appeal_to_the_national_commission",
-    "alias.national_commission",
-    "alias.right_to_appeal",
-    "alias.state_commission",
+    "procedure.filing_an_appeal_to_the_national_commission",
     "authority.national_commission",
-    "authority.state_commission",
-    "intent.filing_an_appeal_to_the_national_commission"
+    "right.right_to_appeal",
+    "authority.state_commission"
   ],
   "search": {
     "keywords": [

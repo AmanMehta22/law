@@ -15,9 +15,7 @@
   "derived_from": [
     "alias.evidence"
   ],
-  "related_concepts": [
-    "alias.evidence"
-  ],
+  "related_concepts": [],
   "search": {
     "keywords": [
       "questions",

@@ -26,11 +26,7 @@
   "derived_from": [
     "CPA2019-CH4-S65-4"
   ],
-  "related_concepts": [
-    "alias.deemed_service_of_notices",
-    "intent.deemed_service_of_notices",
-    "intent.deemed_service_of_notices_2"
-  ],
+  "related_concepts": [],
   "search": {
     "keywords": [
       "notice",

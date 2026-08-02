@@ -20,9 +20,7 @@
     "definition.person"
   ],
   "related_concepts": [
-    "definition.person",
-    "intent.definition_of_person",
-    "intent.definition_of_person_2"
+    "definition.person"
   ],
   "search": {
     "keywords": [

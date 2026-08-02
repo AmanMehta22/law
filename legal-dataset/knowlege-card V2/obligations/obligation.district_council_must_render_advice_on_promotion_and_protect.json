@@ -17,11 +17,7 @@
     "CPA2019-CH2-S9"
   ],
   "related_concepts": [
-    "alias.district_council",
-    "authority.district_council",
-    "intent.district_council",
-    "intent.district_council_2",
-    "intent.district_council_must_render_advice"
+    "authority.district_council"
   ],
   "search": {
     "keywords": [

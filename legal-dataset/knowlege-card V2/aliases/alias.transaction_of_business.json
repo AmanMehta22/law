@@ -17,13 +17,12 @@
     "procedure.transaction_of_business"
   ],
   "related_concepts": [
-    "alias.central_authority",
-    "alias.central_authority_must_receive_inquiry_or_investigation_report",
-    "alias.director_general",
-    "alias.engaging_experts_and_professionals",
-    "alias.mediation_time_limit",
-    "alias.submission_of_inquiries_or_investigation",
-    "authority.central_authority"
+    "authority.central_authority",
+    "obligation.director_general_shall_submit_inquiries_or_investigation_mad",
+    "authority.director_general",
+    "procedure.engaging_experts_and_professionals",
+    "timeline.not_specified",
+    "procedure.submission_of_inquiries_or_investigation"
   ],
   "search": {
     "keywords": [

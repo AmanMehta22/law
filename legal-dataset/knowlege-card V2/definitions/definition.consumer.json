@@ -20,11 +20,8 @@
     "CPA2019-CH1-S2-7"
   ],
   "related_concepts": [
-    "alias.consumer",
     "exception.does_not_include_a_person_who_obtains_goods_for_resale_or_fo",
-    "intent.consumer",
-    "intent.consumer_2",
-    "intent.consumer_excludes_commercial_purpose_2"
+    "exception.does_not_include_a_person_who_obtains_goods_for_resale_or_co"
   ],
   "search": {
     "keywords": [

@@ -17,13 +17,8 @@
     "CPA2019-CH8-S103-1"
   ],
   "related_concepts": [
-    "alias.central_government",
-    "alias.national_commission",
     "authority.central_government",
-    "authority.national_commission",
-    "intent.central_government",
-    "intent.central_government_2",
-    "intent.national_commission"
+    "authority.national_commission"
   ],
   "search": {
     "keywords": [

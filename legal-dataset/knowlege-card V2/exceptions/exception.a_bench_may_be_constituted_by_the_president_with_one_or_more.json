@@ -14,13 +14,8 @@
     "CPA2019-CH4-S58-2"
   ],
   "related_concepts": [
-    "alias.national_commission",
     "authority.national_commission",
-    "intent.bench_constitution",
-    "intent.jurisdiction_of_national_commission_benches",
-    "intent.national_commission",
-    "intent.national_commission_2",
-    "intent.president_must_constitute_bench_2"
+    "obligation.president_must_constitute_a_bench"
   ],
   "search": {
     "keywords": [

@@ -19,11 +19,7 @@
   "derived_from": [
     "CPA2019-CH1-S2-8"
   ],
-  "related_concepts": [
-    "alias.consumer_dispute",
-    "intent.consumer_dispute",
-    "intent.consumer_dispute_2"
-  ],
+  "related_concepts": [],
   "search": {
     "keywords": [
       "consumer dispute",

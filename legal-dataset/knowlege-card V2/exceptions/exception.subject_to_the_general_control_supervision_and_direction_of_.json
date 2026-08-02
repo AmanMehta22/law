@@ -14,13 +14,12 @@
     "CPA2019-CH3-S15-3"
   ],
   "related_concepts": [
-    "alias.additional_director_general",
-    "alias.assistant_director",
-    "alias.deputy_director",
-    "alias.director",
-    "alias.director_general",
-    "alias.joint_director",
-    "authority.additional_director_general"
+    "authority.additional_director_general",
+    "authority.assistant_director",
+    "authority.deputy_director",
+    "authority.director",
+    "authority.director_general",
+    "authority.joint_director"
   ],
   "search": {
     "keywords": [

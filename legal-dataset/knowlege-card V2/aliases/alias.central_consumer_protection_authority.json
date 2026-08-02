@@ -16,13 +16,9 @@
     "authority.central_consumer_protection_authority"
   ],
   "related_concepts": [
-    "alias.central_authority",
+    "authority.central_authority",
     "authority.central_consumer_protection_authority",
-    "definition.central_authority",
-    "intent.central_authority",
-    "intent.central_authority_3",
-    "intent.central_consumer_protection_authority",
-    "intent.central_consumer_protection_authority_2"
+    "definition.central_authority"
   ],
   "search": {
     "keywords": [

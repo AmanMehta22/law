@@ -14,13 +14,13 @@
     "obligation.state_commission_must_authenticate_goods_sampled"
   ],
   "related_concepts": [
-    "alias.consumer_mediation_cell",
-    "alias.district_commission",
-    "alias.district_council",
-    "alias.government_must_make_rules",
-    "alias.state_commission",
-    "alias.state_commission_must_furnish_information",
-    "alias.state_council"
+    "authority.consumer_mediation_cell",
+    "authority.district_commission",
+    "authority.district_council",
+    "obligation.government_must_make_rules",
+    "authority.state_commission",
+    "obligation.state_commission_must_furnish_information_to_the_state_gover",
+    "authority.state_council"
   ],
   "search": {
     "keywords": [

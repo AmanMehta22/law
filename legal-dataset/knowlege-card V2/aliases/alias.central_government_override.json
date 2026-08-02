@@ -15,13 +15,9 @@
     "exception.the_central_government_can_prescribe_a_different_value"
   ],
   "related_concepts": [
-    "alias.central_government",
-    "alias.district_commission",
     "authority.central_government",
     "authority.district_commission",
-    "exception.central_government_may_prescribe_a_different_value",
-    "intent.central_government",
-    "intent.central_government_2"
+    "exception.central_government_may_prescribe_a_different_value"
   ],
   "search": {
     "keywords": [

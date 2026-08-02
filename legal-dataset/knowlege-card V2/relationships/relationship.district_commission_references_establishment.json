@@ -1,0 +1,52 @@
+{
+  "concept_id": "relationship.district_commission_references_establishment",
+  "concept_type": "relationship",
+  "title": "District Commission references Establishment",
+  "description": "Relationship: District Commission -references-> Establishment",
+  "content": {
+    "source": "authority.district_commission",
+    "relationship": "references",
+    "target": "definition.establishment"
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-19",
+    "CPA2019-CH8-S102-2"
+  ],
+  "related_concepts": [
+    "definition.establishment",
+    "relationship.mediation_references_establishment"
+  ],
+  "search": {
+    "keywords": [
+      "district",
+      "commission",
+      "references",
+      "establishment",
+      "alias"
+    ],
+    "aliases": [
+      "Business Establishment",
+      "Company",
+      "Institution",
+      "Organization",
+      "company",
+      "firm",
+      "organization"
+    ],
+    "user_queries": [
+      "What is district commission references establishment?",
+      "How does district commission references establishment work?",
+      "Can you explain district commission references establishment?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

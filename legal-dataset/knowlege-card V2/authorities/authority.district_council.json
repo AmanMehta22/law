@@ -19,13 +19,7 @@
     "CPA2019-CH8-S102-2"
   ],
   "related_concepts": [
-    "alias.district_council",
-    "intent.district_commission_references_district_council",
-    "intent.district_council",
-    "intent.district_council_2",
-    "intent.district_council_composition",
-    "relationship.alias_district_commission_references_alias_district_council",
-    "intent.district_council_must_meet_regularly"
+    "relationship.district_commission_references_district_council"
   ],
   "search": {
     "keywords": [

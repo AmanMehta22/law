@@ -13,13 +13,12 @@
     "jurisdiction.district_commission_state_commission_national_commission_supreme_court_no_pecuni"
   ],
   "related_concepts": [
-    "alias.district_commission",
-    "alias.filing_an_appeal",
-    "alias.national_commission",
-    "alias.right_to_appeal",
-    "alias.state_commission",
-    "alias.supreme_court",
-    "authority.district_commission"
+    "authority.district_commission",
+    "procedure.filing_an_appeal",
+    "authority.national_commission",
+    "right.right_to_appeal",
+    "authority.state_commission",
+    "authority.supreme_court"
   ],
   "search": {
     "keywords": [

@@ -14,13 +14,10 @@
     "obligation.the_other_member_must_give_his_opinion_on_such_point_or_poin"
   ],
   "related_concepts": [
-    "alias.district_commission",
-    "alias.resolving_difference_of_opinion",
     "authority.district_commission",
+    "procedure.resolving_difference_of_opinion",
     "exception.the_other_member_shall_give_his_opinion_on_such_point_or_poi",
-    "intent.district_commission",
-    "intent.district_commission_2",
-    "intent.member_must_give_opinion_within_a_month"
+    "obligation.the_other_member_must_give_his_opinion_on_such_point_or_poin"
   ],
   "search": {
     "keywords": [

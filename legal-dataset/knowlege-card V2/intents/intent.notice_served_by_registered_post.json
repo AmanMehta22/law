@@ -18,7 +18,7 @@
     "alias.notice_served_by_registered_post"
   ],
   "related_concepts": [
-    "alias.notice_served_by_registered_post"
+    "exception.notice_is_considered_served_even_if_acknowledgment_is_lost_m"
   ],
   "search": {
     "keywords": [

@@ -15,13 +15,11 @@
     "exception.state_commission_may_entertain_appeal_after_45_days"
   ],
   "related_concepts": [
-    "alias.deposit_for_appeal",
-    "alias.filing_an_appeal_to_the_state_commission",
-    "alias.no_appeal_from_mediated_settlement",
-    "alias.proof_of_sufficient_cause",
-    "evidence.deposit_receipt",
+    "exception.no_appeal_unless_50_of_amount_deposited",
+    "procedure.filing_an_appeal_to_the_state_commission",
+    "exception.no_appeal_from_order_under_section_81_1_pursuant_to_mediatio",
     "evidence.written_explanation",
-    "exception.no_appeal_from_order_under_section_81_1_pursuant_to_mediatio"
+    "evidence.deposit_receipt"
   ],
   "search": {
     "keywords": [

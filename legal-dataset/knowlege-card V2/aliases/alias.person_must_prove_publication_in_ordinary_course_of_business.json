@@ -13,13 +13,9 @@
     "obligation.person_must_prove_publication_in_ordinary_course_of_business"
   ],
   "related_concepts": [
-    "alias.central_authority",
-    "alias.defence_not_available_with_previous_knowledge",
-    "alias.proof_of_publication_in_ordinary_course_of_business",
     "authority.central_authority",
-    "evidence.records_of_business_transactions_publication_records",
     "exception.such_defence_is_not_available_if_the_person_had_previous_kno",
-    "intent.central_authority"
+    "evidence.records_of_business_transactions_publication_records"
   ],
   "search": {
     "keywords": [

@@ -13,13 +13,13 @@
     "obligation.authority_must_provide_for_re_empanelment_of_mediators"
   ],
   "related_concepts": [
-    "alias.adjournment_cost_imposition_by_district_commission",
-    "alias.adjournment_cost_imposition_by_state_or_national_commission",
-    "alias.authority_must_set_qualifications_and_experience_for_empanelment_as_mediator",
-    "alias.conduct_of_mediation",
-    "alias.consumer_mediation_cell",
-    "alias.consumer_mediation_cell_must_maintain_information",
-    "alias.consumer_mediation_cell_must_submit_quarterly_report"
+    "procedure.adjournment_cost_imposition_by_district_commission",
+    "procedure.adjournment_cost_imposition_by_state_or_national_commission",
+    "obligation.authority_must_set_qualifications_and_experience_for_empanel",
+    "procedure.conduct_of_mediation",
+    "authority.consumer_mediation_cell",
+    "obligation.consumer_mediation_cell_must_maintain_information",
+    "obligation.consumer_mediation_cell_must_submit_quarterly_report"
   ],
   "search": {
     "keywords": [

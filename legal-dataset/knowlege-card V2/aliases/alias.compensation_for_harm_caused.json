@@ -18,13 +18,9 @@
     "remedy.compensation"
   ],
   "related_concepts": [
-    "alias.product_liability",
-    "alias.product_manufacturer_or_seller_must_compensate_for_harm",
     "definition.product_liability",
-    "intent.compensation_for_harm_caused",
-    "intent.compensation_for_harm_caused_3",
-    "intent.product_liability",
-    "intent.product_liability_2"
+    "obligation.product_manufacturer_or_product_seller_must_compensate_for_h",
+    "remedy.compensation"
   ],
   "search": {
     "keywords": [

@@ -15,13 +15,11 @@
     "exception.product_manufacturer_not_liable_if_product_meant_for_use_und"
   ],
   "related_concepts": [
-    "alias.complainant_under_influence_exception",
-    "alias.component_or_material_sale_exception",
-    "alias.employer_purchase_exception",
-    "evidence.prescription_from_a_medical_practitioner",
-    "evidence.warnings_or_instructions_provided_to_employer_warnings_or_in",
     "exception.product_manufacturer_not_liable_if_complainant_under_influen",
-    "exception.product_manufacturer_not_liable_if_necessary_warnings_given_"
+    "exception.product_manufacturer_not_liable_if_necessary_warnings_given_",
+    "exception.product_manufacturer_not_liable_if_product_purchased_by_empl",
+    "evidence.prescription_from_a_medical_practitioner",
+    "evidence.warnings_or_instructions_provided_to_employer_warnings_or_in"
   ],
   "search": {
     "keywords": [

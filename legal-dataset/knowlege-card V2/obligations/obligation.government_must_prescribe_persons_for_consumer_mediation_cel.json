@@ -17,13 +17,7 @@
     "CPA2019-CH5-S74-3"
   ],
   "related_concepts": [
-    "alias.consumer_mediation_cell",
-    "alias.government_must_prescribe_persons_for_consumer_mediation_cell",
-    "authority.consumer_mediation_cell",
-    "intent.consumer_mediation_cell",
-    "intent.consumer_mediation_cell_2",
-    "intent.district_commission_references_consumer_mediation_cell",
-    "intent.government_must_prescribe_persons_for_consumer_mediation_cell"
+    "authority.consumer_mediation_cell"
   ],
   "search": {
     "keywords": [

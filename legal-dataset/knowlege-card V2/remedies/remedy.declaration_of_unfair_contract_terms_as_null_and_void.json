@@ -17,13 +17,9 @@
     "CPA2019-CH4-S49-2"
   ],
   "related_concepts": [
-    "alias.declaration_of_unfair_contract_terms_as_null_and_void",
-    "alias.right_to_protection_from_unfair_contract_terms",
-    "alias.state_commission",
-    "alias.state_commission_may_declare_unfair_contract_terms_null_and_void",
+    "right.right_to_protection_from_unfair_contract_terms",
     "authority.state_commission",
-    "intent.declaration_of_unfair_contract_terms_as_null_and_void",
-    "intent.declaration_of_unfair_contract_terms_as_null_and_void_2"
+    "obligation.state_commission_may_declare_unfair_terms_of_contract_null_a"
   ],
   "search": {
     "keywords": [

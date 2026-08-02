@@ -18,13 +18,13 @@
     "jurisdiction.state_commission_other_value_of_goods_and_services"
   ],
   "related_concepts": [
-    "alias.calling_for_records_and_passing_orders",
-    "alias.central_government",
-    "alias.central_government_override",
-    "alias.district_commission",
-    "alias.filing_appeals_with_the_state_commission",
-    "alias.filing_complaints_with_the_state_commission",
-    "alias.right_to_appeal"
+    "procedure.calling_for_records_and_passing_orders",
+    "authority.central_government",
+    "exception.central_government_may_prescribe_a_different_value",
+    "authority.district_commission",
+    "procedure.filing_appeals_with_the_state_commission",
+    "procedure.filing_complaints_with_the_state_commission",
+    "right.right_to_appeal"
   ],
   "search": {
     "keywords": [

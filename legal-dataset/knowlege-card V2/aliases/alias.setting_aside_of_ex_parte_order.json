@@ -13,13 +13,8 @@
     "remedy.setting_aside_of_order"
   ],
   "related_concepts": [
-    "alias.national_commission",
-    "alias.setting_aside_an_ex_parte_order",
     "authority.national_commission",
-    "intent.national_commission",
-    "intent.national_commission_2",
-    "intent.setting_aside_an_ex_parte_order",
-    "intent.setting_aside_an_ex_parte_order_2"
+    "procedure.setting_aside_an_ex_parte_order"
   ],
   "search": {
     "keywords": [

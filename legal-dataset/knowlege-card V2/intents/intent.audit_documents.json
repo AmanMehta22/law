@@ -15,9 +15,7 @@
   "derived_from": [
     "alias.audit_documents"
   ],
-  "related_concepts": [
-    "alias.audit_documents"
-  ],
+  "related_concepts": [],
   "search": {
     "keywords": [
       "questions",

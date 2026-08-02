@@ -13,10 +13,10 @@
   "derived_from": [
     "CPA2019-CH4-S47-1",
     "CPA2019-CH4-S51-1",
-    "relationship.alias_national_commission_references_alias_district_commission"
+    "relationship.national_commission_references_district_commission"
   ],
   "related_concepts": [
-    "relationship.alias_national_commission_references_alias_district_commission"
+    "relationship.national_commission_references_district_commission"
   ],
   "search": {
     "keywords": [

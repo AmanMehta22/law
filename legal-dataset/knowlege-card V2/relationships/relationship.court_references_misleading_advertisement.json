@@ -1,0 +1,54 @@
+{
+  "concept_id": "relationship.court_references_misleading_advertisement",
+  "concept_type": "relationship",
+  "title": "Court references Misleading Advertisement",
+  "description": "Relationship: Court -references-> Misleading Advertisement",
+  "content": {
+    "source": "authority.court",
+    "relationship": "references",
+    "target": "definition.misleading_advertisement"
+  },
+  "derived_from": [
+    "CPA2019-CH7-S89",
+    "CPA2019-CH8-S96-1"
+  ],
+  "related_concepts": [
+    "definition.misleading_advertisement",
+    "offence.a_manufacturer_or_service_provider_who_causes_a_false_or_misleading_advertisemen",
+    "penalty.publishing_false_or_misleading_advertisement",
+    "relationship.penalty_publishing_false_or_misleading_advertisement_applies_to_offenc"
+  ],
+  "search": {
+    "keywords": [
+      "court",
+      "references",
+      "misleading",
+      "advertisement",
+      "alias"
+    ],
+    "aliases": [
+      "Deceptive Advertising",
+      "False Ad",
+      "Fraudulent Claim",
+      "Misleading Promo",
+      "Untrue Advertisement",
+      "deceptive advertising",
+      "false ad"
+    ],
+    "user_queries": [
+      "What is court references misleading advertisement?",
+      "How does court references misleading advertisement work?",
+      "Can you explain court references misleading advertisement?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -18,13 +18,8 @@
     "CPA2019-CH1-S1-3"
   ],
   "related_concepts": [
-    "alias.central_government",
     "authority.central_government",
-    "intent.central_government",
-    "intent.central_government_2",
-    "intent.central_government_must_appoint_date_of_coming_into_force",
-    "intent.district_commission_references_central_government",
-    "relationship.alias_district_commission_references_alias_central_government"
+    "relationship.district_commission_references_central_government"
   ],
   "search": {
     "keywords": [

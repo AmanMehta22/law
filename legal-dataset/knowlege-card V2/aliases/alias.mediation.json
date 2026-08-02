@@ -24,12 +24,10 @@
   ],
   "related_concepts": [
     "definition.mediation",
-    "intent.mediation",
-    "intent.mediation_2",
-    "alias.consumer_mediation_cell",
-    "alias.district_commission",
-    "alias.national_commission",
-    "alias.state_commission"
+    "authority.consumer_mediation_cell",
+    "authority.district_commission",
+    "authority.national_commission",
+    "authority.state_commission"
   ],
   "search": {
     "keywords": [

@@ -18,13 +18,9 @@
     "authority.central_council"
   ],
   "related_concepts": [
-    "alias.central_government_must_prescribe_interests",
+    "obligation.central_government_must_prescribe_interests",
     "authority.central_council",
-    "intent.central_council",
-    "intent.central_council_2",
-    "intent.central_government_must_prescribe_interests",
-    "intent.central_government_must_prescribe_interests_2",
-    "intent.mediation_references_central_council"
+    "relationship.mediation_references_central_council"
   ],
   "search": {
     "keywords": [

@@ -14,12 +14,9 @@
   },
   "derived_from": [
     "CPA2019-CH4-S35-2",
-    "CPA2019-CH8-S101-2",
-    "relationship.alias_mediation_references_intent_complainant_must_pay_fee"
+    "CPA2019-CH8-S101-2"
   ],
-  "related_concepts": [
-    "relationship.alias_mediation_references_intent_complainant_must_pay_fee"
-  ],
+  "related_concepts": [],
   "search": {
     "keywords": [
       "questions",

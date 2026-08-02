@@ -16,13 +16,9 @@
     "CPA2019-CH4-S53-1"
   ],
   "related_concepts": [
-    "alias.national_commission",
-    "alias.national_consumer_disputes_redressal_commission",
+    "authority.national_commission",
     "definition.national_commission",
-    "intent.national_commission",
-    "intent.national_commission_3",
-    "intent.national_commission_references_national_consumer_disputes_redressal_commission",
-    "intent.national_consumer_disputes_redressal_commission"
+    "relationship.national_commission_references_national_consumer_disputes_redressal_commission"
   ],
   "search": {
     "keywords": [

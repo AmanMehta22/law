@@ -18,13 +18,12 @@
     "procedure.investigation"
   ],
   "related_concepts": [
-    "alias.central_authority",
-    "alias.central_authority_must_cause_investigation",
-    "alias.central_government",
-    "alias.director_general",
-    "alias.district_collector",
-    "alias.preliminary_inquiry",
-    "authority.central_authority"
+    "authority.central_authority",
+    "obligation.central_authority_must_cause_investigation_to_be_made",
+    "authority.central_government",
+    "authority.director_general",
+    "authority.district_collector",
+    "procedure.preliminary_inquiry"
   ],
   "search": {
     "keywords": [

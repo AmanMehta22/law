@@ -17,13 +17,8 @@
     "CPA2019-CH5-S74-1"
   ],
   "related_concepts": [
-    "alias.monitoring_cell",
-    "alias.national_commission",
-    "alias.state_commissions",
     "authority.monitoring_cell",
-    "authority.national_commission",
-    "intent.monitoring_cell",
-    "intent.monitoring_cell_2"
+    "authority.national_commission"
   ],
   "search": {
     "keywords": [

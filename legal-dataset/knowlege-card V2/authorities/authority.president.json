@@ -19,13 +19,9 @@
     "CPA2019-CH4-S58-3"
   ],
   "related_concepts": [
-    "alias.bench",
-    "alias.president",
-    "alias.state_commission",
     "authority.bench",
     "authority.state_commission",
-    "exception.does_not_include_a_person_who_obtains_goods_for_resale_or_co",
-    "intent.bench"
+    "exception.does_not_include_a_person_who_obtains_goods_for_resale_or_co"
   ],
   "search": {
     "keywords": [

@@ -15,9 +15,7 @@
   "derived_from": [
     "alias.sample_of_goods"
   ],
-  "related_concepts": [
-    "alias.sample_of_goods"
-  ],
+  "related_concepts": [],
   "search": {
     "keywords": [
       "questions",

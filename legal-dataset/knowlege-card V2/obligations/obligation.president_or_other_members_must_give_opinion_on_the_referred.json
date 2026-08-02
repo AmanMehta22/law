@@ -17,13 +17,8 @@
     "CPA2019-CH4-S47-3"
   ],
   "related_concepts": [
-    "alias.president",
-    "alias.president_or_other_members_must_give_opinion_within_a_month",
-    "alias.resolution_of_differing_opinions",
     "authority.president",
-    "intent.opinion_time_limit",
-    "intent.president",
-    "intent.president_2"
+    "procedure.resolution_of_differing_opinions"
   ],
   "search": {
     "keywords": [

@@ -17,13 +17,9 @@
     "CPA2019-CH4-S38-4"
   ],
   "related_concepts": [
-    "alias.district_commission",
-    "alias.information_requirement",
     "authority.district_commission",
-    "evidence.information_documents_records",
-    "intent.district_commission",
-    "intent.district_commission_2",
-    "intent.electronic_service_provider_must_provide_information"
+    "procedure.information_requirement",
+    "evidence.information_documents_records"
   ],
   "search": {
     "keywords": [

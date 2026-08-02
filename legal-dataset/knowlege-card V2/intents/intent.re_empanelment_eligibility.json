@@ -13,9 +13,7 @@
   "derived_from": [
     "alias.re_empanelment_eligibility"
   ],
-  "related_concepts": [
-    "alias.re_empanelment_eligibility"
-  ],
+  "related_concepts": [],
   "search": {
     "keywords": [
       "questions",

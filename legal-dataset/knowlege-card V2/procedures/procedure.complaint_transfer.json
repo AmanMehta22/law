@@ -24,13 +24,10 @@
     "CPA2019-CH4-S62"
   ],
   "related_concepts": [
-    "alias.complaint_transfer",
-    "alias.district_commission",
-    "alias.national_commission",
-    "alias.national_commission_must_consider_transfer_of_complaint",
-    "alias.state_commission",
     "authority.district_commission",
-    "authority.national_commission"
+    "authority.national_commission",
+    "obligation.national_commission_may_transfer_any_complaint",
+    "authority.state_commission"
   ],
   "search": {
     "keywords": [

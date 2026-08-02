@@ -24,13 +24,10 @@
     "authority.consumer_mediation_cell"
   ],
   "related_concepts": [
-    "alias.district_commissions",
-    "alias.state_commissions",
-    "alias.state_government",
-    "authority.consumer_mediation_cell",
     "authority.district_commissions",
     "authority.state_commissions",
-    "authority.state_government"
+    "authority.state_government",
+    "authority.consumer_mediation_cell"
   ],
   "search": {
     "keywords": [

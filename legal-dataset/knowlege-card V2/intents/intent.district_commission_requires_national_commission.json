@@ -12,12 +12,9 @@
   },
   "derived_from": [
     "CPA2019-CH4-S52",
-    "CPA2019-CH8-S103-2",
-    "relationship.alias_district_commission_requires_alias_national_commission"
+    "CPA2019-CH8-S103-2"
   ],
-  "related_concepts": [
-    "relationship.alias_district_commission_requires_alias_national_commission"
-  ],
+  "related_concepts": [],
   "search": {
     "keywords": [
       "questions",

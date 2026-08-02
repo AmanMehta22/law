@@ -12,13 +12,9 @@
     "CPA2019-CH2-S4-2"
   ],
   "related_concepts": [
-    "alias.central_council",
-    "alias.central_council_must_observe_prescribed_procedure",
-    "alias.meeting_of_central_council",
     "authority.central_council",
-    "intent.central_council",
-    "intent.central_council_2",
-    "intent.central_council_must_observe_prescribed_procedure"
+    "obligation.central_council_shall_observe_prescribed_procedure",
+    "procedure.meeting_of_central_council"
   ],
   "search": {
     "keywords": [

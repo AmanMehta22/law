@@ -17,13 +17,9 @@
     "CPA2019-CH4-S34-1"
   ],
   "related_concepts": [
-    "alias.central_government",
-    "alias.central_government_override",
-    "alias.district_commission",
     "authority.central_government",
-    "authority.district_commission",
     "exception.central_government_may_prescribe_a_different_value",
-    "intent.central_government"
+    "authority.district_commission"
   ],
   "search": {
     "keywords": [

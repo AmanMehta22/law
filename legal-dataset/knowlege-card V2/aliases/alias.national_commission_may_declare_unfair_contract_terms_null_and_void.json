@@ -13,13 +13,9 @@
     "obligation.national_commission_may_declare_terms_of_contract_null_and_v"
   ],
   "related_concepts": [
-    "alias.declaration_of_contract_terms_as_null_and_void",
-    "alias.national_commission",
-    "alias.right_to_protection_from_unfair_contract_terms",
+    "remedy.declaration_of_contract_terms_as_null_and_void",
     "authority.national_commission",
-    "intent.declaration_of_contract_terms_as_null_and_void",
-    "intent.declaration_of_contract_terms_as_null_and_void_2",
-    "intent.national_commission"
+    "right.right_to_protection_from_unfair_contract_terms"
   ],
   "search": {
     "keywords": [

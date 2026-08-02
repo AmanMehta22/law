@@ -19,12 +19,10 @@
     "CPA2019-CH4-S51-1"
   ],
   "related_concepts": [
-    "alias.appeal_time_limit",
-    "alias.national_commission",
-    "alias.proof_of_sufficient_cause",
-    "alias.right_to_appeal",
-    "alias.state_commission",
+    "timeline.thirty_days",
     "authority.national_commission",
+    "evidence.written_explanation",
+    "right.right_to_appeal",
     "authority.state_commission"
   ],
   "search": {

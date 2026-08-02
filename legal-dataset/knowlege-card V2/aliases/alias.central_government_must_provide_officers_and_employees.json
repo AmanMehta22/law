@@ -14,13 +14,9 @@
     "obligation.central_government_shall_provide_officers_and_other_employee"
   ],
   "related_concepts": [
-    "alias.central_government",
-    "alias.national_commission",
     "authority.central_government",
     "authority.national_commission",
-    "intent.central_government",
-    "intent.central_government_2",
-    "intent.central_government_must_provide_officers_and_employees"
+    "obligation.central_government_shall_provide_officers_and_other_employee"
   ],
   "search": {
     "keywords": [

@@ -18,12 +18,10 @@
     "CPA2019-CH4-S52"
   ],
   "related_concepts": [
-    "alias.adjournment_exception",
-    "alias.appeal_hearing",
-    "alias.national_commission",
-    "alias.right_to_expedient_hearing_of_appeal",
-    "alias.state_commission",
+    "exception.adjournment_may_be_granted_if_sufficient_cause_is_shown",
+    "procedure.appeal_hearing",
     "authority.national_commission",
+    "right.right_to_expedient_hearing_of_appeal",
     "authority.state_commission"
   ],
   "search": {

@@ -12,13 +12,8 @@
     "CPA2019-CH3-S22-4"
   ],
   "related_concepts": [
-    "alias.director_general",
-    "alias.disposal_of_seized_articles_subject_to_decay",
     "authority.director_general",
-    "intent.director_general",
-    "intent.director_general_2",
-    "intent.director_general_or_officer_must_dispose_of_seized_articles",
-    "intent.disposal_of_seized_articles_subject_to_decay"
+    "procedure.disposal_of_seized_articles_subject_to_decay"
   ],
   "search": {
     "keywords": [

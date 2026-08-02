@@ -13,10 +13,10 @@
   "derived_from": [
     "CPA2019-CH8-S101-2",
     "CPA2019-CH8-S96-1",
-    "relationship.alias_mediation_references_alias_court"
+    "relationship.mediation_references_court"
   ],
   "related_concepts": [
-    "relationship.alias_mediation_references_alias_court"
+    "relationship.mediation_references_court"
   ],
   "search": {
     "keywords": [

@@ -17,13 +17,9 @@
     "procedure.partial_settlement_and_continued_hearing"
   ],
   "related_concepts": [
-    "alias.district_commission",
-    "alias.national_commission",
-    "alias.state_commission",
     "authority.district_commission",
     "authority.national_commission",
-    "authority.state_commission",
-    "intent.district_commission"
+    "authority.state_commission"
   ],
   "search": {
     "keywords": [

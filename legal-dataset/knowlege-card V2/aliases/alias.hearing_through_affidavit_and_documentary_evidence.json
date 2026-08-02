@@ -14,13 +14,11 @@
     "exception.the_district_commission_may_allow_hearing_or_examination_of_"
   ],
   "related_concepts": [
-    "alias.complaint_filing",
-    "alias.district_commission",
+    "procedure.complaint_filing",
     "authority.district_commission",
     "evidence.affidavit",
     "evidence.documentary_evidence",
-    "exception.the_district_commission_may_allow_hearing_or_examination_of_",
-    "intent.affidavit"
+    "exception.the_district_commission_may_allow_hearing_or_examination_of_"
   ],
   "search": {
     "keywords": [

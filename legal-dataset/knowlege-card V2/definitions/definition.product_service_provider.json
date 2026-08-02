@@ -18,11 +18,7 @@
   "derived_from": [
     "CPA2019-CH1-S2-38"
   ],
-  "related_concepts": [
-    "alias.product_service_provider",
-    "intent.product_service_provider",
-    "intent.product_service_provider_2"
-  ],
+  "related_concepts": [],
   "search": {
     "keywords": [
       "product service provider",

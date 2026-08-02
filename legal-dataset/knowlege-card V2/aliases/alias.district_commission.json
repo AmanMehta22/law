@@ -85,11 +85,8 @@
   "related_concepts": [
     "authority.district_commission",
     "definition.district_commission",
-    "intent.district_commission",
-    "intent.district_commission_2",
-    "intent.district_commission_3",
-    "alias.member",
-    "alias.national_commission"
+    "definition.member",
+    "authority.national_commission"
   ],
   "search": {
     "keywords": [

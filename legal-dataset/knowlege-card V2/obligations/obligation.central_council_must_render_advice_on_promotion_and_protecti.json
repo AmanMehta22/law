@@ -17,13 +17,8 @@
     "CPA2019-CH2-S5"
   ],
   "related_concepts": [
-    "alias.central_council",
-    "alias.central_council_must_render_advice",
-    "alias.right_to_protection",
     "authority.central_council",
-    "intent.central_council",
-    "intent.central_council_2",
-    "intent.central_council_must_render_advice"
+    "right.right_to_protection"
   ],
   "search": {
     "keywords": [

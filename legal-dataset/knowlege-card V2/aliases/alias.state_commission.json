@@ -71,13 +71,10 @@
     "definition.state_commission"
   ],
   "related_concepts": [
-    "alias.district_commission",
-    "alias.member",
-    "alias.national_commission",
     "authority.district_commission",
+    "definition.member",
     "authority.national_commission",
-    "authority.state_commission",
-    "definition.member"
+    "authority.state_commission"
   ],
   "search": {
     "keywords": [

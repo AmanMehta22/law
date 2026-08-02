@@ -17,12 +17,7 @@
     "CPA2019-CH4-S36-3"
   ],
   "related_concepts": [
-    "alias.district_commission",
     "authority.district_commission",
-    "intent.admissibility_of_the_complaint",
-    "intent.district_commission",
-    "intent.district_commission_2",
-    "intent.district_commission_must_decide_on_admissibility_within_a_period",
     "timeline.the_period_so_specified"
   ],
   "search": {

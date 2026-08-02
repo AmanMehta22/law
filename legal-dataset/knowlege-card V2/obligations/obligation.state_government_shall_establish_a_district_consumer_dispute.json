@@ -18,13 +18,8 @@
     "CPA2019-CH4-S28-1"
   ],
   "related_concepts": [
-    "alias.district_commission",
     "authority.district_commission",
-    "exception.the_state_government_may_establish_more_than_one_district_co",
-    "intent.district_commission",
-    "intent.district_commission_2",
-    "intent.multiple_district_commissions",
-    "intent.state_government_must_establish_district_commission"
+    "exception.the_state_government_may_establish_more_than_one_district_co"
   ],
   "search": {
     "keywords": [

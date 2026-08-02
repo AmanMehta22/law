@@ -18,13 +18,8 @@
     "CPA2019-CH2-S5"
   ],
   "related_concepts": [
-    "alias.central_council",
-    "alias.central_government_must_prescribe_interests",
-    "intent.central_council",
-    "intent.central_council_2",
-    "intent.central_government_must_prescribe_interests",
-    "intent.central_government_must_prescribe_interests_2",
-    "intent.mediation_references_central_council"
+    "obligation.central_government_must_prescribe_interests",
+    "relationship.mediation_references_central_council"
   ],
   "search": {
     "keywords": [

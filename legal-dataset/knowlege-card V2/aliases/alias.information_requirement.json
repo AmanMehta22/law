@@ -16,13 +16,8 @@
     "procedure.information_requirement"
   ],
   "related_concepts": [
-    "alias.district_commission",
     "authority.district_commission",
-    "evidence.information_documents_records",
-    "intent.district_commission",
-    "intent.district_commission_2",
-    "intent.electronic_service_provider_must_provide_information",
-    "intent.information_documents_or_records"
+    "evidence.information_documents_records"
   ],
   "search": {
     "keywords": [

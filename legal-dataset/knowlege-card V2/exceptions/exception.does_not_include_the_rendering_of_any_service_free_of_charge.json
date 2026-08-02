@@ -15,13 +15,7 @@
     "CPA2019-CH1-S2-42"
   ],
   "related_concepts": [
-    "alias.service",
-    "alias.service_excludes_free_of_charge_or_personal_service",
-    "definition.service",
-    "intent.service",
-    "intent.service_2",
-    "intent.service_excludes_free_of_charge_or_personal_service",
-    "intent.service_excludes_free_of_charge_or_personal_service_2"
+    "definition.service"
   ],
   "search": {
     "keywords": [

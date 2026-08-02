@@ -17,13 +17,8 @@
     "procedure.disposal_of_seized_articles_subject_to_decay"
   ],
   "related_concepts": [
-    "alias.director_general",
     "authority.director_general",
-    "intent.director_general",
-    "intent.director_general_2",
-    "intent.director_general_or_officer_must_dispose_of_seized_articles",
-    "intent.disposal_of_seized_articles_subject_to_decay",
-    "intent.disposal_of_seized_articles_subject_to_decay_2"
+    "procedure.disposal_of_seized_articles_subject_to_decay"
   ],
   "search": {
     "keywords": [

@@ -17,13 +17,9 @@
     "procedure.transaction_of_state_council_business"
   ],
   "related_concepts": [
-    "alias.state_council",
     "authority.state_council",
-    "intent.district_commission_references_state_council",
-    "intent.state_council",
-    "intent.state_council_2",
-    "intent.state_council_meeting_procedure",
-    "intent.transaction_of_state_council_business"
+    "relationship.district_commission_references_state_council",
+    "procedure.transaction_of_state_council_business"
   ],
   "search": {
     "keywords": [

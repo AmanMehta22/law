@@ -17,10 +17,10 @@
     "CPA2019-CH3-S26-1",
     "CPA2019-CH3-S27-1",
     "CPA2019-CH8-S101-2",
-    "relationship.alias_mediation_references_alias_central_authority"
+    "relationship.mediation_references_central_authority"
   ],
   "related_concepts": [
-    "relationship.alias_mediation_references_alias_central_authority"
+    "relationship.mediation_references_central_authority"
   ],
   "search": {
     "keywords": [

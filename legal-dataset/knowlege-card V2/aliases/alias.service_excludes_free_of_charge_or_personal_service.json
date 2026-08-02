@@ -13,13 +13,8 @@
     "exception.does_not_include_the_rendering_of_any_service_free_of_charge"
   ],
   "related_concepts": [
-    "alias.service",
     "definition.service",
-    "exception.does_not_include_the_rendering_of_any_service_free_of_charge",
-    "intent.service",
-    "intent.service_2",
-    "intent.service_excludes_free_of_charge_or_personal_service",
-    "intent.service_excludes_free_of_charge_or_personal_service_2"
+    "exception.does_not_include_the_rendering_of_any_service_free_of_charge"
   ],
   "search": {
     "keywords": [

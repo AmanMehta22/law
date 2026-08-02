@@ -14,13 +14,10 @@
     "CPA2019-CH1-S2-7"
   ],
   "related_concepts": [
-    "alias.district_commission",
-    "alias.district_commission_may_direct_parties_to_consider_mediation",
-    "alias.mediation_direction",
     "authority.district_commission",
-    "evidence.written_consent",
-    "intent.consent_in_writing",
-    "intent.consumer_excludes_commercial_purpose"
+    "obligation.district_commission_may_direct_parties_to_give_in_writing_co",
+    "procedure.mediation_direction",
+    "evidence.written_consent"
   ],
   "search": {
     "keywords": [

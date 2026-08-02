@@ -20,9 +20,7 @@
     "definition.product_manufacturer"
   ],
   "related_concepts": [
-    "definition.product_manufacturer",
-    "intent.product_manufacturer",
-    "intent.product_manufacturer_2"
+    "definition.product_manufacturer"
   ],
   "search": {
     "keywords": [

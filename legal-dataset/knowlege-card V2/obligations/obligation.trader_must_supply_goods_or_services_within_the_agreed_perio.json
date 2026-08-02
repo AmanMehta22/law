@@ -17,13 +17,7 @@
     "CPA2019-CH1-S2-41"
   ],
   "related_concepts": [
-    "alias.restrictive_trade_practice",
-    "alias.trader_must_supply_goods_or_services_within_agreed_period",
-    "definition.restrictive_trade_practice",
-    "intent.restrictive_trade_practice",
-    "intent.restrictive_trade_practice_2",
-    "intent.trader_must_supply_goods_or_services_within_agreed_period",
-    "intent.trader_must_supply_goods_or_services_within_agreed_period_2"
+    "definition.restrictive_trade_practice"
   ],
   "search": {
     "keywords": [

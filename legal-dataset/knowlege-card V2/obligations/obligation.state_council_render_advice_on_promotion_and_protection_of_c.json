@@ -17,13 +17,7 @@
     "CPA2019-CH2-S7"
   ],
   "related_concepts": [
-    "alias.state_council",
-    "alias.state_council_must_render_advice",
-    "authority.state_council",
-    "intent.state_council",
-    "intent.state_council_2",
-    "intent.state_council_must_render_advice",
-    "intent.state_council_must_render_advice_2"
+    "authority.state_council"
   ],
   "search": {
     "keywords": [

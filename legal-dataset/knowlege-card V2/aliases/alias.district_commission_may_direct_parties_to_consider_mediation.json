@@ -13,13 +13,10 @@
     "obligation.district_commission_may_direct_parties_to_give_in_writing_co"
   ],
   "related_concepts": [
-    "alias.district_commission",
-    "alias.mediation_direction",
     "authority.district_commission",
+    "procedure.mediation_direction",
     "evidence.written_consent",
-    "exception.does_not_include_a_person_who_obtains_goods_for_resale_or_co",
-    "intent.consent_in_writing",
-    "intent.consumer_excludes_commercial_purpose"
+    "exception.does_not_include_a_person_who_obtains_goods_for_resale_or_co"
   ],
   "search": {
     "keywords": [

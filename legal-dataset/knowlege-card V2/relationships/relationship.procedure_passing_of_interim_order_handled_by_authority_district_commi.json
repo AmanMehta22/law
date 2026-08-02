@@ -12,13 +12,9 @@
     "CPA2019-CH4-S38-8"
   ],
   "related_concepts": [
-    "alias.district_commission",
-    "alias.district_commission_must_pass_interim_order",
-    "alias.passing_of_interim_order",
     "authority.district_commission",
-    "intent.district_commission",
-    "intent.district_commission_2",
-    "intent.district_commission_must_pass_interim_order"
+    "obligation.district_commission_may_pass_interim_order",
+    "procedure.passing_of_interim_order"
   ],
   "search": {
     "keywords": [

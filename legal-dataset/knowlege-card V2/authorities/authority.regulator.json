@@ -16,13 +16,9 @@
     "CPA2019-CH3-S19-2"
   ],
   "related_concepts": [
-    "alias.regulator",
     "definition.regulator",
-    "intent.regulator",
-    "intent.regulator_2",
-    "intent.regulator_3",
-    "alias.central_authority",
-    "alias.central_authority_must_refer_matter_to_regulator"
+    "authority.central_authority",
+    "obligation.central_authority_may_refer_the_matter_to_the_concerned_regu"
   ],
   "search": {
     "keywords": [

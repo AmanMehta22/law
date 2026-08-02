@@ -17,12 +17,8 @@
     "definition.restrictive_trade_practice"
   ],
   "related_concepts": [
-    "alias.trader_must_supply_goods_or_services_within_agreed_period",
-    "definition.restrictive_trade_practice",
-    "intent.restrictive_trade_practice",
-    "intent.restrictive_trade_practice_2",
-    "intent.trader_must_supply_goods_or_services_within_agreed_period",
-    "intent.trader_must_supply_goods_or_services_within_agreed_period_2"
+    "obligation.trader_must_supply_goods_or_services_within_the_agreed_perio",
+    "definition.restrictive_trade_practice"
   ],
   "search": {
     "keywords": [

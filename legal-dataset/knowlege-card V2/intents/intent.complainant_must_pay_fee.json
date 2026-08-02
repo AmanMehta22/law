@@ -15,9 +15,7 @@
   "derived_from": [
     "alias.complainant_must_pay_fee"
   ],
-  "related_concepts": [
-    "alias.complainant_must_pay_fee"
-  ],
+  "related_concepts": [],
   "search": {
     "keywords": [
       "questions",

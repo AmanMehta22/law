@@ -15,9 +15,7 @@
   "derived_from": [
     "alias.commission_must_enforce_order"
   ],
-  "related_concepts": [
-    "alias.commission_must_enforce_order"
-  ],
+  "related_concepts": [],
   "search": {
     "keywords": [
       "questions",

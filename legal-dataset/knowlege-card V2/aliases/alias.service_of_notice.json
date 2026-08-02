@@ -20,12 +20,9 @@
     "procedure.service_of_notice"
   ],
   "related_concepts": [
-    "alias.district_commission",
-    "alias.national_commission",
-    "alias.serving_notices",
-    "alias.state_commission",
     "authority.district_commission",
     "authority.national_commission",
+    "obligation.party_serving_the_notice_must_serve_notices_by_registered_po",
     "authority.state_commission"
   ],
   "search": {

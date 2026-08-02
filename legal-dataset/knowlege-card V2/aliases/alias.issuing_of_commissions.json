@@ -16,13 +16,13 @@
     "procedure.issuing_of_commissions"
   ],
   "related_concepts": [
-    "alias.central_government",
-    "alias.discovery_and_production_of_evidence",
-    "alias.district_commission",
-    "alias.district_commission_must_exercise_powers",
-    "alias.receiving_evidence_on_affidavits",
-    "alias.requisitioning_of_report",
-    "alias.summoning_and_enforcing_attendance"
+    "authority.central_government",
+    "procedure.discovery_and_production_of_evidence",
+    "authority.district_commission",
+    "obligation.district_commission_shall_have_the_same_powers_as_are_vested",
+    "procedure.receiving_evidence_on_affidavits",
+    "procedure.requisitioning_of_report",
+    "procedure.summoning_and_enforcing_attendance"
   ],
   "search": {
     "keywords": [

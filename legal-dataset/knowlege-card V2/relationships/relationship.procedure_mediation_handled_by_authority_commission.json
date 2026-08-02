@@ -15,13 +15,11 @@
     "CPA2019-CH8-S101-2"
   ],
   "related_concepts": [
-    "alias.consumer_mediation_cell",
-    "alias.district_commission",
-    "alias.mediation",
-    "alias.national_commission",
-    "alias.state_commission",
     "authority.consumer_mediation_cell",
-    "authority.district_commission"
+    "authority.district_commission",
+    "definition.mediation",
+    "authority.national_commission",
+    "authority.state_commission"
   ],
   "search": {
     "keywords": [

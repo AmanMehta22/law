@@ -18,11 +18,7 @@
   "derived_from": [
     "CPA2019-CH3-S22-2"
   ],
-  "related_concepts": [
-    "alias.search_and_seizure",
-    "intent.search_and_seizure",
-    "intent.search_and_seizure_2"
-  ],
+  "related_concepts": [],
   "search": {
     "keywords": [
       "search",

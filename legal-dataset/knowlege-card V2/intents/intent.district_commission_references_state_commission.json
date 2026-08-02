@@ -18,10 +18,10 @@
     "CPA2019-CH4-S46-3",
     "CPA2019-CH4-S70-5",
     "CPA2019-CH8-S102-2",
-    "relationship.alias_district_commission_references_alias_state_commission"
+    "relationship.district_commission_references_state_commission"
   ],
   "related_concepts": [
-    "relationship.alias_district_commission_references_alias_state_commission"
+    "relationship.district_commission_references_state_commission"
   ],
   "search": {
     "keywords": [

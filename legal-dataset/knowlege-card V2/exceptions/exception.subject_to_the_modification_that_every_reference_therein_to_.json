@@ -14,13 +14,9 @@
     "CPA2019-CH4-S38-11"
   ],
   "related_concepts": [
-    "alias.district_commission",
-    "alias.representative_proceeding",
     "authority.district_commission",
-    "intent.application_of_order_i_rule_8",
-    "intent.district_commission",
-    "intent.district_commission_2",
-    "intent.district_commission_references_central_authority"
+    "procedure.representative_proceeding",
+    "relationship.district_commission_references_central_authority"
   ],
   "search": {
     "keywords": [

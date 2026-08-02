@@ -17,13 +17,10 @@
     "procedure.appointment_of_president_and_members_of_the_state_commission"
   ],
   "related_concepts": [
-    "alias.central_government",
-    "alias.central_government_must_make_rules_for_state_commission_appointments",
-    "alias.state_commission",
     "authority.central_government",
+    "obligation.central_government_make_rules_for_appointment_of_president_a",
     "authority.state_commission",
-    "intent.appointment_of_president_and_members_of_the_state_commission",
-    "intent.appointment_of_president_and_members_of_the_state_commission_2"
+    "procedure.appointment_of_president_and_members_of_the_state_commission"
   ],
   "search": {
     "keywords": [

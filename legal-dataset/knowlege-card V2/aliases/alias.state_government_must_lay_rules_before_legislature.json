@@ -13,12 +13,8 @@
     "obligation.state_government_shall_lay_rules_before_the_state_legislatur"
   ],
   "related_concepts": [
-    "alias.state_government",
     "authority.state_government",
-    "intent.state_government",
-    "intent.state_government_2",
-    "intent.state_government_must_lay_rules_before_legislature",
-    "intent.state_government_must_lay_rules_before_legislature_2"
+    "obligation.state_government_shall_lay_rules_before_the_state_legislatur"
   ],
   "search": {
     "keywords": [

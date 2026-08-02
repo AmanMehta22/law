@@ -17,13 +17,9 @@
     "procedure.mediation_referral"
   ],
   "related_concepts": [
-    "alias.district_commission",
-    "alias.district_commission_must_refer_matter_for_mediation",
     "authority.district_commission",
-    "evidence.written_consent",
-    "intent.consent_in_writing",
-    "intent.district_commission",
-    "intent.district_commission_2"
+    "obligation.district_commission_must_refer_matter_for_mediation",
+    "evidence.written_consent"
   ],
   "search": {
     "keywords": [

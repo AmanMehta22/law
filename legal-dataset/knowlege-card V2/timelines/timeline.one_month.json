@@ -15,13 +15,10 @@
     "CPA2019-CH4-S47-3"
   ],
   "related_concepts": [
-    "alias.district_commission",
-    "alias.member_must_give_opinion_within_a_month",
-    "alias.resolving_difference_of_opinion",
     "authority.district_commission",
-    "exception.the_other_member_shall_give_his_opinion_on_such_point_or_poi",
-    "intent.district_commission",
-    "intent.district_commission_2"
+    "obligation.the_other_member_must_give_his_opinion_on_such_point_or_poin",
+    "procedure.resolving_difference_of_opinion",
+    "exception.the_other_member_shall_give_his_opinion_on_such_point_or_poi"
   ],
   "search": {
     "keywords": [

@@ -15,9 +15,7 @@
   "derived_from": [
     "alias.accounts_and_audit_reports"
   ],
-  "related_concepts": [
-    "alias.accounts_and_audit_reports"
-  ],
+  "related_concepts": [],
   "search": {
     "keywords": [
       "questions",

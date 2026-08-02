@@ -18,13 +18,8 @@
     "CPA2019-CH8-S94"
   ],
   "related_concepts": [
-    "alias.central_government",
     "authority.central_government",
-    "intent.central_government",
-    "intent.central_government_2",
-    "intent.central_government_may_take_measures",
-    "intent.mediation_references_central_government",
-    "relationship.alias_mediation_references_alias_central_government"
+    "relationship.mediation_references_central_government"
   ],
   "search": {
     "keywords": [

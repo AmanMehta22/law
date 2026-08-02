@@ -14,10 +14,10 @@
     "CPA2019-CH2-S3-2",
     "CPA2019-CH2-S4-2",
     "CPA2019-CH8-S101-2",
-    "relationship.alias_mediation_references_alias_central_council"
+    "relationship.mediation_references_central_council"
   ],
   "related_concepts": [
-    "relationship.alias_mediation_references_alias_central_council"
+    "relationship.mediation_references_central_council"
   ],
   "search": {
     "keywords": [

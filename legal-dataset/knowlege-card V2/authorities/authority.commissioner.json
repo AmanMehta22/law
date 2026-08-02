@@ -18,13 +18,10 @@
     "CPA2019-CH8-S98"
   ],
   "related_concepts": [
-    "alias.central_authority",
-    "alias.chief_commissioner",
-    "alias.chief_commissioner_must_exercise_general_superintendence",
-    "alias.commissioner",
-    "alias.delegation_of_powers",
     "authority.central_authority",
-    "authority.chief_commissioner"
+    "authority.chief_commissioner",
+    "obligation.chief_commissioner_shall_have_powers_of_general_superintende",
+    "exception.the_chief_commissioner_may_delegate_such_powers_to_any_commi"
   ],
   "search": {
     "keywords": [

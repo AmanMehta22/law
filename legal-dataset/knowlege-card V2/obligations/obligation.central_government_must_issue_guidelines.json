@@ -17,12 +17,9 @@
     "CPA2019-CH1-S2-2"
   ],
   "related_concepts": [
-    "alias.appropriate_laboratory",
-    "alias.central_government",
-    "alias.state_government",
+    "definition.appropriate_laboratory",
     "authority.central_government",
     "authority.state_government",
-    "definition.appropriate_laboratory",
     "exception.does_not_include_a_laboratory_or_an_organisation_that_is_not"
   ],
   "search": {

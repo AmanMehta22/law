@@ -19,13 +19,9 @@
     "CPA2019-CH4-S55-1"
   ],
   "related_concepts": [
-    "alias.central_government",
-    "alias.national_commission",
-    "alias.term_of_office_of_president_and_members",
     "authority.central_government",
     "authority.national_commission",
-    "exception.the_president_and_members_shall_hold_office_for_a_term_not_e",
-    "intent.central_government"
+    "exception.the_president_and_members_shall_hold_office_for_a_term_not_e"
   ],
   "search": {
     "keywords": [

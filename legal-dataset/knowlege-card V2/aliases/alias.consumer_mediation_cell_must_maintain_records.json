@@ -14,13 +14,9 @@
     "obligation.consumer_mediation_cell_must_maintain_a_list_of_empanelled_m"
   ],
   "related_concepts": [
-    "alias.consumer_mediation_cell",
     "authority.consumer_mediation_cell",
     "evidence.record_of_proceeding",
-    "intent.consumer_mediation_cell",
-    "intent.consumer_mediation_cell_2",
-    "intent.consumer_mediation_cell_must_maintain_records",
-    "intent.consumer_mediation_cell_must_maintain_records_2"
+    "obligation.consumer_mediation_cell_must_maintain_a_list_of_empanelled_m"
   ],
   "search": {
     "keywords": [

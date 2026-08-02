@@ -19,13 +19,8 @@
     "CPA2019-CH1-S2-39"
   ],
   "related_concepts": [
-    "alias.central_authority",
-    "alias.national_commission",
-    "alias.regulations",
     "authority.central_authority",
-    "authority.national_commission",
-    "intent.central_authority",
-    "intent.central_authority_2"
+    "authority.national_commission"
   ],
   "search": {
     "keywords": [

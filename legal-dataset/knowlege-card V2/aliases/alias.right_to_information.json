@@ -17,13 +17,9 @@
     "right.right_to_information"
   ],
   "related_concepts": [
-    "alias.deficiency",
     "definition.deficiency",
-    "intent.deficiency",
-    "intent.deficiency_2",
-    "intent.deficiency_defines_right_to_information",
-    "intent.right_to_information",
-    "intent.right_to_information_2"
+    "relationship.definition_deficiency_defines_right_right_to_information",
+    "right.right_to_information"
   ],
   "search": {
     "keywords": [

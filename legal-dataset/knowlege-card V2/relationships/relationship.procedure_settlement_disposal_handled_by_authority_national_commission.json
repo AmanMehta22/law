@@ -12,13 +12,11 @@
     "CPA2019-CH5-S81-1"
   ],
   "related_concepts": [
-    "alias.commission_must_pass_order_and_dispose_of_matter",
-    "alias.district_commission",
-    "alias.national_commission",
-    "alias.settlement_disposal",
-    "alias.state_commission",
+    "obligation.district_commission_or_state_commission_or_national_commissi",
     "authority.district_commission",
-    "authority.national_commission"
+    "authority.national_commission",
+    "procedure.settlement_disposal",
+    "authority.state_commission"
   ],
   "search": {
     "keywords": [

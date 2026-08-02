@@ -14,12 +14,8 @@
     "obligation.central_government_must_consult"
   ],
   "related_concepts": [
-    "alias.district_commission",
     "authority.district_commission",
-    "intent.central_government_must_consult",
-    "intent.central_government_must_consult_2",
-    "intent.district_commission",
-    "intent.district_commission_2"
+    "obligation.central_government_must_consult"
   ],
   "search": {
     "keywords": [

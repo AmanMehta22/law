@@ -18,13 +18,8 @@
     "CPA2019-CH4-S39-4"
   ],
   "related_concepts": [
-    "alias.district_commission",
     "authority.district_commission",
-    "exception.shall_also_be_signed_by_the_other_member",
-    "intent.district_commission",
-    "intent.district_commission_2",
-    "intent.district_commission_president_and_member_must_sign_order",
-    "intent.district_commission_references_central_government"
+    "exception.shall_also_be_signed_by_the_other_member"
   ],
   "search": {
     "keywords": [

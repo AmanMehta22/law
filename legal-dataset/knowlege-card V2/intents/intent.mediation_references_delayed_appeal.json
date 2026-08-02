@@ -13,10 +13,10 @@
   "derived_from": [
     "CPA2019-CH4-S41",
     "CPA2019-CH8-S101-2",
-    "relationship.alias_mediation_references_alias_delayed_appeal"
+    "relationship.mediation_references_may_entertain_an_appeal_after_the_expiry_of_the_said_period_"
   ],
   "related_concepts": [
-    "relationship.alias_mediation_references_alias_delayed_appeal"
+    "relationship.mediation_references_may_entertain_an_appeal_after_the_expiry_of_the_said_period_"
   ],
   "search": {
     "keywords": [

@@ -19,10 +19,6 @@
     "CPA2019-CH1-S2-27"
   ],
   "related_concepts": [
-    "alias.district_commission",
-    "alias.member",
-    "alias.national_commission",
-    "alias.state_commission",
     "authority.district_commission",
     "authority.national_commission",
     "authority.state_commission"

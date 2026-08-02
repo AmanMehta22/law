@@ -20,13 +20,9 @@
     "definition.prescribed"
   ],
   "related_concepts": [
-    "alias.central_government",
-    "alias.state_government",
     "authority.central_government",
     "authority.state_government",
-    "definition.prescribed",
-    "intent.central_government",
-    "intent.central_government_2"
+    "definition.prescribed"
   ],
   "search": {
     "keywords": [

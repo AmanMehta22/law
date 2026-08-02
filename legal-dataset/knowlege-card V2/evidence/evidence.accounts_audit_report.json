@@ -15,13 +15,9 @@
     "CPA2019-CH3-S26-4"
   ],
   "related_concepts": [
-    "alias.central_authority",
-    "alias.central_government",
-    "alias.comptroller_and_auditor_general_of_india",
     "authority.central_authority",
     "authority.central_government",
-    "authority.comptroller_and_auditor_general_of_india",
-    "intent.accounts_and_audit_reports"
+    "authority.comptroller_and_auditor_general_of_india"
   ],
   "search": {
     "keywords": [

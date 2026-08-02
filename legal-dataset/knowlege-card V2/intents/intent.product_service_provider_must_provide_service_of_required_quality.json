@@ -18,7 +18,7 @@
     "alias.product_service_provider_must_provide_service_of_required_quality"
   ],
   "related_concepts": [
-    "alias.product_service_provider_must_provide_service_of_required_quality"
+    "obligation.product_service_provider_must_provide_service_of_quality_req"
   ],
   "search": {
     "keywords": [

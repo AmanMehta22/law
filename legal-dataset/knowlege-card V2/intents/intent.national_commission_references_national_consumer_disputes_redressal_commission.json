@@ -13,10 +13,10 @@
   "derived_from": [
     "CPA2019-CH1-S2-29",
     "CPA2019-CH4-S53-1",
-    "relationship.alias_national_commission_references_alias_national_consumer_disputes_"
+    "relationship.national_commission_references_national_consumer_disputes_redressal_commission"
   ],
   "related_concepts": [
-    "relationship.alias_national_commission_references_alias_national_consumer_disputes_"
+    "relationship.national_commission_references_national_consumer_disputes_redressal_commission"
   ],
   "search": {
     "keywords": [

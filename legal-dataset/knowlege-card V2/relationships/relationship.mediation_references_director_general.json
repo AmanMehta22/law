@@ -1,0 +1,50 @@
+{
+  "concept_id": "relationship.mediation_references_director_general",
+  "concept_type": "relationship",
+  "title": "Mediation references Director-General",
+  "description": "Relationship: Mediation -references-> Director-General",
+  "content": {
+    "source": "definition.mediation",
+    "relationship": "references",
+    "target": "authority.director_general"
+  },
+  "derived_from": [
+    "CPA2019-CH3-S22-4",
+    "CPA2019-CH8-S101-2"
+  ],
+  "related_concepts": [
+    "authority.director_general",
+    "procedure.disposal_of_seized_articles_subject_to_decay"
+  ],
+  "search": {
+    "keywords": [
+      "mediation",
+      "references",
+      "director",
+      "general",
+      "alias"
+    ],
+    "aliases": [
+      "Chief Director",
+      "DG",
+      "Director General of Consumer Affairs",
+      "Head of Consumer Protection",
+      "Main Official"
+    ],
+    "user_queries": [
+      "What is mediation references director-general?",
+      "How does mediation references director-general work?",
+      "Can you explain mediation references director-general?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

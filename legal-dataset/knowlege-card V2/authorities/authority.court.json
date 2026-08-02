@@ -22,13 +22,10 @@
     "CPA2019-CH8-S96-1"
   ],
   "related_concepts": [
-    "alias.court",
-    "alias.district_commission",
-    "alias.enforcement_of_order",
-    "alias.national_commission",
-    "alias.state_commission",
     "authority.district_commission",
-    "authority.national_commission"
+    "procedure.enforcement_of_order",
+    "authority.national_commission",
+    "authority.state_commission"
   ],
   "search": {
     "keywords": [

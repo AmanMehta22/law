@@ -15,9 +15,7 @@
   "derived_from": [
     "alias.acknowledgment_due"
   ],
-  "related_concepts": [
-    "alias.acknowledgment_due"
-  ],
+  "related_concepts": [],
   "search": {
     "keywords": [
       "questions",

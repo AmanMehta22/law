@@ -13,9 +13,7 @@
   "derived_from": [
     "alias.proof_of_prescription"
   ],
-  "related_concepts": [
-    "alias.proof_of_prescription"
-  ],
+  "related_concepts": [],
   "search": {
     "keywords": [
       "questions",

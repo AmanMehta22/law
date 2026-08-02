@@ -13,9 +13,7 @@
   "derived_from": [
     "alias.settlement_report"
   ],
-  "related_concepts": [
-    "alias.settlement_report"
-  ],
+  "related_concepts": [],
   "search": {
     "keywords": [
       "questions",

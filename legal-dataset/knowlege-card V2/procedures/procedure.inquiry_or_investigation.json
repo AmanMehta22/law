@@ -35,13 +35,10 @@
     "CPA2019-CH3-S18-2"
   ],
   "related_concepts": [
-    "alias.central_authority",
-    "alias.commissioner_of_a_regional_office",
-    "alias.district_collector",
-    "alias.district_collector_must_inquire_and_report",
-    "alias.inquiry_or_investigation",
     "authority.central_authority",
-    "authority.commissioner_of_a_regional_office"
+    "authority.commissioner_of_a_regional_office",
+    "authority.district_collector",
+    "obligation.district_collector_inquire_into_or_investigate_complaints_an"
   ],
   "search": {
     "keywords": [

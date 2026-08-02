@@ -14,13 +14,10 @@
     "CPA2019-CH4-S73-2"
   ],
   "related_concepts": [
-    "alias.appeal_exception",
-    "alias.court",
-    "alias.district_commission",
-    "alias.national_commission",
-    "alias.state_commission",
     "authority.court",
-    "authority.district_commission"
+    "authority.district_commission",
+    "authority.national_commission",
+    "authority.state_commission"
   ],
   "search": {
     "keywords": [

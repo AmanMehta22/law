@@ -63,13 +63,9 @@
     "definition.central_authority"
   ],
   "related_concepts": [
-    "alias.national_commission",
-    "alias.regulations",
-    "authority.central_authority",
     "authority.national_commission",
     "definition.regulations",
-    "intent.central_authority",
-    "intent.central_authority_2"
+    "authority.central_authority"
   ],
   "search": {
     "keywords": [

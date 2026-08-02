@@ -15,10 +15,10 @@
   "derived_from": [
     "CPA2019-CH1-S2-19",
     "CPA2019-CH8-S102-2",
-    "relationship.alias_district_commission_references_alias_establishment"
+    "relationship.district_commission_references_establishment"
   ],
   "related_concepts": [
-    "relationship.alias_district_commission_references_alias_establishment"
+    "relationship.district_commission_references_establishment"
   ],
   "search": {
     "keywords": [

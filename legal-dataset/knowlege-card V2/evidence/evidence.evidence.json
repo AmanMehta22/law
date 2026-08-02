@@ -14,13 +14,13 @@
     "CPA2019-CH4-S38-3"
   ],
   "related_concepts": [
-    "alias.appeal_time_limit",
-    "alias.complaint_handling_by_district_commission",
-    "alias.district_commission",
-    "alias.district_commission_must_decide_complaint_on_merits",
-    "alias.district_commission_must_direct_opposite_party_to_respond",
-    "alias.district_commission_must_refer_complaint",
-    "alias.district_commission_must_settle_consumer_dispute"
+    "timeline.thirty_days",
+    "procedure.complaint_handling_by_district_commission",
+    "authority.district_commission",
+    "obligation.district_commission_must_decide_the_complaint_on_merits",
+    "obligation.district_commission_must_direct_the_opposite_party_to_give_t",
+    "obligation.district_commission_must_refer_a_copy_of_the_complaint_to_th",
+    "obligation.district_commission_must_settle_the_consumer_dispute"
   ],
   "search": {
     "keywords": [

@@ -20,11 +20,7 @@
     "CPA2019-CH1-S2-33"
   ],
   "related_concepts": [
-    "alias.product_definition",
-    "exception.does_not_include_human_tissues_blood_blood_products_and_orga",
-    "intent.exclusion_of_human_tissues_blood_blood_products_and_organs",
-    "intent.product_definition",
-    "intent.product_definition_2"
+    "exception.does_not_include_human_tissues_blood_blood_products_and_orga"
   ],
   "search": {
     "keywords": [

@@ -19,10 +19,10 @@
     "CPA2019-CH4-S67",
     "CPA2019-CH4-S70-4",
     "CPA2019-CH8-S101-2",
-    "relationship.alias_mediation_references_alias_national_commission"
+    "relationship.mediation_references_national_commission"
   ],
   "related_concepts": [
-    "relationship.alias_mediation_references_alias_national_commission"
+    "relationship.mediation_references_national_commission"
   ],
   "search": {
     "keywords": [

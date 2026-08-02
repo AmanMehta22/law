@@ -17,13 +17,10 @@
     "authority.commission"
   ],
   "related_concepts": [
-    "alias.mediation_settlement_reporting",
-    "alias.mediator_must_prepare_and_forward_settlement_report",
+    "procedure.mediation_settlement_reporting",
+    "obligation.mediator_must_prepare_a_settlement_report_and_forward_the_si",
     "authority.commission",
-    "evidence.settlement_agreement_settlement_report",
-    "intent.commission",
-    "intent.commission_2",
-    "intent.mediation_settlement_reporting"
+    "evidence.settlement_agreement_settlement_report"
   ],
   "search": {
     "keywords": [

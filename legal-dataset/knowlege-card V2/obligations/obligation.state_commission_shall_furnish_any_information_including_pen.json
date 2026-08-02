@@ -17,13 +17,10 @@
     "CPA2019-CH4-S70-5"
   ],
   "related_concepts": [
-    "alias.state_commission",
-    "alias.state_commission_must_furnish_information",
-    "alias.state_government",
     "authority.state_commission",
+    "obligation.state_commission_must_furnish_information_to_the_state_gover",
     "authority.state_government",
-    "evidence.information",
-    "intent.district_commission_references_state_commission"
+    "evidence.information"
   ],
   "search": {
     "keywords": [

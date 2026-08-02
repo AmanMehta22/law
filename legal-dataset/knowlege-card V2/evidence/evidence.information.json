@@ -15,11 +15,8 @@
     "CPA2019-CH4-S70-5"
   ],
   "related_concepts": [
-    "alias.central_government",
-    "alias.national_and_state_commissions_must_furnish_information",
-    "alias.national_commission",
-    "alias.state_commissions",
     "authority.central_government",
+    "obligation.national_commission_and_the_state_commissions_shall_furnish_",
     "authority.national_commission",
     "authority.state_commissions"
   ],

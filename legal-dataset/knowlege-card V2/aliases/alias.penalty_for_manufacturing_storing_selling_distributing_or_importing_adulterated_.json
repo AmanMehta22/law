@@ -13,13 +13,9 @@
     "penalty.manufacturing_storing_selling_distributing_or_importing_prod"
   ],
   "related_concepts": [
-    "alias.penalty_for_adulterated_products_resulting_in_death",
-    "intent.manufacturing_storing_selling_distributing_or_importing_adulterated_products",
-    "intent.penalty_for_adulterated_products_resulting_in_death",
-    "intent.penalty_for_adulterated_products_resulting_in_death_3",
-    "intent.penalty_for_adulterated_products_resulting_in_death_applies_to_manufacturing_sto",
-    "intent.penalty_for_manufacturing_storing_selling_distributing_or_importing_adulterated_",
-    "intent.penalty_for_manufacturing_storing_selling_distributing_or_importing_adulter_2"
+    "penalty.manufacturing_storing_selling_distributing_or_importing_adul",
+    "relationship.penalty_manufacturing_storing_selling_distributing_or_importing_adul_a",
+    "penalty.manufacturing_storing_selling_distributing_or_importing_prod"
   ],
   "search": {
     "keywords": [

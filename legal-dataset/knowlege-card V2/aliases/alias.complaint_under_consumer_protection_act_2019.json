@@ -18,13 +18,10 @@
     "definition.complaint"
   ],
   "related_concepts": [
-    "alias.allegation_in_writing",
-    "alias.relief",
-    "alias.right_to_relief",
-    "definition.complaint",
     "evidence.written_complaint",
-    "intent.allegation_in_writing",
-    "intent.allegation_in_writing_2"
+    "remedy.relief",
+    "right.right_to_relief",
+    "definition.complaint"
   ],
   "search": {
     "keywords": [

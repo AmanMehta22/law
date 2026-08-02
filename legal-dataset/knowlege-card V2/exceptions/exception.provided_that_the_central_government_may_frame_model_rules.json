@@ -14,13 +14,8 @@
     "CPA2019-CH8-S102-1"
   ],
   "related_concepts": [
-    "alias.central_government",
-    "alias.state_governments",
     "authority.central_government",
-    "authority.state_governments",
-    "intent.central_government",
-    "intent.central_government_2",
-    "intent.state_governments"
+    "authority.state_governments"
   ],
   "search": {
     "keywords": [

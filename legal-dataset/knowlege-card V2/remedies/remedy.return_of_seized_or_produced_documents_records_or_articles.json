@@ -18,13 +18,9 @@
     "CPA2019-CH3-S22-3"
   ],
   "related_concepts": [
-    "alias.return_of_seized_documents",
-    "alias.return_of_seized_or_produced_documents_records_or_articles",
-    "alias.right_to_return_of_seized_or_produced_documents",
-    "evidence.copies_of_documents_records_or_articles_extracts_therefrom",
-    "intent.copies_of_documents_records_or_articles",
-    "intent.mediation_references_return_of_seized_documents",
-    "intent.return_of_seized_documents"
+    "obligation.person_seizing_the_documents_must_return_seized_documents",
+    "right.right_to_return_of_seized_or_produced_documents",
+    "evidence.copies_of_documents_records_or_articles_extracts_therefrom"
   ],
   "search": {
     "keywords": [

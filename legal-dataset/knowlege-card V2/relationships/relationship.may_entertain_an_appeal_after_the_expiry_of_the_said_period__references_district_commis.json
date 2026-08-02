@@ -1,0 +1,51 @@
+{
+  "concept_id": "relationship.may_entertain_an_appeal_after_the_expiry_of_the_said_period__references_district_commis",
+  "concept_type": "relationship",
+  "title": "Delayed Appeal references District Commission",
+  "description": "Relationship: Delayed Appeal -references-> District Commission",
+  "content": {
+    "source": "exception.may_entertain_an_appeal_after_the_expiry_of_the_said_period_",
+    "relationship": "references",
+    "target": "authority.district_commission"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S41",
+    "CPA2019-CH5-S81-1"
+  ],
+  "related_concepts": [
+    "exception.may_entertain_an_appeal_after_the_expiry_of_the_said_period_",
+    "exception.no_appeal_unless_50_of_amount_deposited",
+    "procedure.filing_an_appeal_to_the_state_commission",
+    "exception.no_appeal_from_order_under_section_81_1_pursuant_to_mediatio",
+    "evidence.written_explanation",
+    "evidence.deposit_receipt"
+  ],
+  "search": {
+    "keywords": [
+      "delayed",
+      "appeal",
+      "references",
+      "district",
+      "commission",
+      "alias"
+    ],
+    "aliases": [
+      "late appeal"
+    ],
+    "user_queries": [
+      "What is delayed appeal references district commission?",
+      "How does delayed appeal references district commission work?",
+      "Can you explain delayed appeal references district commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

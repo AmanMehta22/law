@@ -20,13 +20,9 @@
     "CPA2019-CH1-S2-37"
   ],
   "related_concepts": [
-    "alias.product_seller",
     "exception.does_not_include_a_person_who_acts_only_in_a_financial_capac",
     "exception.does_not_include_a_person_who_leases_a_product_without_havin",
-    "exception.does_not_include_a_provider_of_professional_services_in_any_",
-    "intent.financial_capacity",
-    "intent.leasing_a_product",
-    "intent.product_seller"
+    "exception.does_not_include_a_provider_of_professional_services_in_any_"
   ],
   "search": {
     "keywords": [

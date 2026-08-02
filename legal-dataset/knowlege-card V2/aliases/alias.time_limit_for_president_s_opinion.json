@@ -13,13 +13,9 @@
     "exception.provided_that_the_opinion_shall_be_given_within_a_period_of_"
   ],
   "related_concepts": [
-    "alias.president",
-    "alias.resolution_of_differing_opinions",
     "authority.president",
-    "exception.provided_that_the_opinion_shall_be_given_within_a_period_of_",
-    "intent.president",
-    "intent.president_2",
-    "intent.reference_opinion_time_limit"
+    "procedure.resolution_of_differing_opinions",
+    "exception.provided_that_the_opinion_shall_be_given_within_a_period_of_"
   ],
   "search": {
     "keywords": [

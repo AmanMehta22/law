@@ -18,13 +18,9 @@
     "CPA2019-CH4-S40"
   ],
   "related_concepts": [
-    "alias.appeal_time_limit",
-    "alias.district_commission",
-    "alias.district_commission_must_review_order",
-    "alias.review_of_order",
+    "timeline.thirty_days",
     "authority.district_commission",
-    "intent.appeal_time_limit",
-    "intent.appeal_time_limit_2"
+    "procedure.review_of_order"
   ],
   "search": {
     "keywords": [

@@ -13,12 +13,11 @@
     "exception.no_appeal_from_order_under_section_81_1_pursuant_to_mediatio"
   ],
   "related_concepts": [
-    "alias.delayed_appeal",
-    "alias.deposit_for_appeal",
-    "alias.filing_an_appeal_to_the_state_commission",
-    "alias.proof_of_sufficient_cause",
-    "evidence.deposit_receipt",
+    "exception.may_entertain_an_appeal_after_the_expiry_of_the_said_period_",
+    "exception.no_appeal_unless_50_of_amount_deposited",
+    "procedure.filing_an_appeal_to_the_state_commission",
     "evidence.written_explanation",
+    "evidence.deposit_receipt",
     "exception.no_appeal_from_order_under_section_81_1_pursuant_to_mediatio"
   ],
   "search": {

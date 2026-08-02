@@ -18,9 +18,7 @@
     "definition.product_service_provider"
   ],
   "related_concepts": [
-    "definition.product_service_provider",
-    "intent.product_service_provider",
-    "intent.product_service_provider_2"
+    "definition.product_service_provider"
   ],
   "search": {
     "keywords": [

@@ -20,13 +20,9 @@
     "CPA2019-CH3-S26-4"
   ],
   "related_concepts": [
-    "alias.central_authority",
-    "alias.central_authority_must_maintain_accounts_and_records",
-    "alias.comptroller_and_auditor_general_of_india",
     "authority.central_authority",
-    "evidence.accounts_records",
-    "intent.accounts_and_records",
-    "intent.central_authority"
+    "obligation.central_authority_must_maintain_proper_accounts_and_other_re",
+    "evidence.accounts_records"
   ],
   "search": {
     "keywords": [

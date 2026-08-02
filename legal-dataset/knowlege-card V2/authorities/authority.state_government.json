@@ -41,13 +41,9 @@
     "CPA2019-CH8-S105-2"
   ],
   "related_concepts": [
-    "alias.appropriate_laboratory",
-    "alias.central_government",
-    "alias.state_government",
-    "authority.central_government",
     "definition.appropriate_laboratory",
-    "exception.does_not_include_a_laboratory_or_an_organisation_that_is_not",
-    "intent.appropriate_laboratory"
+    "authority.central_government",
+    "exception.does_not_include_a_laboratory_or_an_organisation_that_is_not"
   ],
   "search": {
     "keywords": [

@@ -18,11 +18,7 @@
   "derived_from": [
     "CPA2019-CH1-S2-21"
   ],
-  "related_concepts": [
-    "alias.goods",
-    "intent.goods",
-    "intent.goods_2"
-  ],
+  "related_concepts": [],
   "search": {
     "keywords": [
       "goods",

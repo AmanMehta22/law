@@ -13,13 +13,10 @@
     "exception.an_appeal_may_lie_before_a_court_as_provided_in_sub_section_"
   ],
   "related_concepts": [
-    "alias.court",
-    "alias.district_commission",
-    "alias.national_commission",
-    "alias.state_commission",
     "authority.court",
     "authority.district_commission",
-    "authority.national_commission"
+    "authority.national_commission",
+    "authority.state_commission"
   ],
   "search": {
     "keywords": [

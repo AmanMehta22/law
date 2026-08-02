@@ -14,13 +14,9 @@
     "obligation.central_authority_may_refer_the_matter_to_the_concerned_regu"
   ],
   "related_concepts": [
-    "alias.central_authority",
-    "alias.referral_to_regulator",
-    "alias.regulator",
     "authority.central_authority",
-    "authority.regulator",
-    "intent.central_authority",
-    "intent.central_authority_2"
+    "procedure.referral_to_regulator",
+    "authority.regulator"
   ],
   "search": {
     "keywords": [

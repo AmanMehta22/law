@@ -14,13 +14,10 @@
     "obligation.president_and_members_of_the_district_commission_must_conduc"
   ],
   "related_concepts": [
-    "alias.conduct_of_proceeding_before_district_commission",
-    "alias.district_commission",
+    "procedure.conduct_of_proceeding_before_district_commission",
     "authority.district_commission",
-    "intent.conduct_of_proceeding_before_district_commission",
-    "intent.conduct_of_proceeding_before_district_commission_2",
-    "intent.conduct_of_proceeding_before_district_commission_handled_by_commission",
-    "intent.conduct_of_proceeding_before_district_commission_handled_by_district_commission"
+    "relationship.procedure_conduct_of_proceeding_before_district_commission_handled_by_",
+    "relationship.procedure_conduct_of_proceeding_before_district_commission_handled_by__2"
   ],
   "search": {
     "keywords": [

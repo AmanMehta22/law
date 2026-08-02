@@ -19,13 +19,9 @@
     "CPA2019-CH4-S37-2"
   ],
   "related_concepts": [
-    "alias.district_commission",
-    "alias.district_commission_must_refer_matter_for_mediation",
-    "alias.mediation_referral",
     "authority.district_commission",
-    "evidence.written_consent",
-    "intent.consent_in_writing",
-    "intent.district_commission"
+    "procedure.mediation_referral",
+    "evidence.written_consent"
   ],
   "search": {
     "keywords": [

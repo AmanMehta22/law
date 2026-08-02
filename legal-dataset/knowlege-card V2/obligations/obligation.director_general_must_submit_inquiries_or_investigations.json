@@ -17,13 +17,8 @@
     "CPA2019-CH3-S15-5"
   ],
   "related_concepts": [
-    "alias.central_authority",
-    "alias.director_general",
-    "alias.director_general_must_submit_inquiries_or_investigations",
     "authority.central_authority",
-    "authority.director_general",
-    "intent.central_authority",
-    "intent.central_authority_2"
+    "authority.director_general"
   ],
   "search": {
     "keywords": [

@@ -13,10 +13,10 @@
   "derived_from": [
     "CPA2019-CH3-S19-1",
     "CPA2019-CH3-S22-1",
-    "relationship.alias_director_general_references_alias_central_authority"
+    "relationship.director_general_references_central_authority"
   ],
   "related_concepts": [
-    "relationship.alias_director_general_references_alias_central_authority"
+    "relationship.director_general_references_central_authority"
   ],
   "search": {
     "keywords": [

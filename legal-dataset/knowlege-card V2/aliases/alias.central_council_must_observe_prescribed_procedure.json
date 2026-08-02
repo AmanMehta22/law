@@ -14,13 +14,9 @@
     "obligation.central_council_shall_observe_prescribed_procedure"
   ],
   "related_concepts": [
-    "alias.central_council",
-    "alias.meeting_of_central_council",
     "authority.central_council",
-    "intent.central_council",
-    "intent.central_council_2",
-    "intent.central_council_must_observe_prescribed_procedure",
-    "intent.central_council_must_observe_prescribed_procedure_2"
+    "procedure.meeting_of_central_council",
+    "obligation.central_council_shall_observe_prescribed_procedure"
   ],
   "search": {
     "keywords": [

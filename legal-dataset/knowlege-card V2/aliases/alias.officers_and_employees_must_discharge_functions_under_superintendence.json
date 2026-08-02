@@ -18,13 +18,9 @@
     "obligation.officers_and_other_employees_of_the_state_commission_dischar"
   ],
   "related_concepts": [
-    "alias.district_commission",
     "authority.district_commission",
-    "intent.district_commission",
-    "intent.district_commission_2",
-    "intent.officers_and_employees_must_discharge_functions_under_superintendence",
-    "intent.officers_and_employees_must_discharge_functions_under_superintendence_2",
-    "alias.state_commission"
+    "obligation.officers_and_other_employees_of_the_district_commission_disc",
+    "authority.state_commission"
   ],
   "search": {
     "keywords": [

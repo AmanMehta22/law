@@ -19,11 +19,7 @@
   "derived_from": [
     "CPA2019-CH1-S2-26"
   ],
-  "related_concepts": [
-    "alias.mediator",
-    "intent.mediator",
-    "intent.mediator_2"
-  ],
+  "related_concepts": [],
   "search": {
     "keywords": [
       "mediator",

@@ -14,13 +14,8 @@
     "CPA2019-CH1-S2-47"
   ],
   "related_concepts": [
-    "alias.contest_lottery_game_of_chance_or_skill_exception",
-    "alias.proof_of_warranty_or_guarantee",
-    "alias.unfair_trade_practice",
-    "definition.unfair_trade_practice",
     "exception.except_such_contest_lottery_game_of_chance_or_skill_as_may_b",
-    "intent.contest_lottery_game_of_chance_or_skill_exception",
-    "intent.contest_lottery_game_of_chance_or_skill_exception_2"
+    "definition.unfair_trade_practice"
   ],
   "search": {
     "keywords": [

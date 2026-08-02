@@ -15,13 +15,8 @@
     "CPA2019-CH4-S70-2"
   ],
   "related_concepts": [
-    "alias.monitoring_cell",
-    "alias.national_commission",
-    "alias.state_commissions",
     "authority.national_commission",
-    "authority.state_commissions",
-    "intent.monitoring_cell",
-    "intent.monitoring_cell_2"
+    "authority.state_commissions"
   ],
   "search": {
     "keywords": [

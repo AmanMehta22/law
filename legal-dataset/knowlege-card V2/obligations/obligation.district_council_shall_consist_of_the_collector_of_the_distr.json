@@ -17,13 +17,8 @@
     "CPA2019-CH2-S8-2"
   ],
   "related_concepts": [
-    "alias.district_council",
     "authority.district_council",
-    "intent.district_commission_references_district_council",
-    "intent.district_council",
-    "intent.district_council_2",
-    "intent.district_council_composition",
-    "relationship.alias_district_commission_references_alias_district_council"
+    "relationship.district_commission_references_district_council"
   ],
   "search": {
     "keywords": [

@@ -18,13 +18,9 @@
     "CPA2019-CH4-S34-2"
   ],
   "related_concepts": [
-    "alias.complaint_filing",
-    "alias.district_commission",
-    "alias.permission_from_district_commission",
+    "procedure.complaint_filing",
     "authority.district_commission",
-    "exception.does_not_apply_without_permission_of_the_district_commission",
-    "intent.complaint_filing",
-    "intent.complaint_filing_2"
+    "exception.does_not_apply_without_permission_of_the_district_commission"
   ],
   "search": {
     "keywords": [

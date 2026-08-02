@@ -16,13 +16,12 @@
     "CPA2019-CH4-S65-3"
   ],
   "related_concepts": [
-    "alias.acknowledgment",
-    "alias.appeal_time_limit",
-    "alias.district_commission",
-    "alias.national_commission",
-    "alias.notice_served_by_registered_post",
-    "alias.service_of_notice",
-    "alias.state_commission"
+    "evidence.acknowledgment_receipt",
+    "timeline.thirty_days",
+    "authority.district_commission",
+    "authority.national_commission",
+    "procedure.service_of_notice",
+    "authority.state_commission"
   ],
   "search": {
     "keywords": [

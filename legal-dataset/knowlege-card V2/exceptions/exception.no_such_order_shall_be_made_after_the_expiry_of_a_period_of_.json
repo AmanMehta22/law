@@ -14,13 +14,9 @@
     "CPA2019-CH8-S106"
   ],
   "related_concepts": [
-    "alias.central_government",
-    "alias.central_government_must_make_provisions_to_remove_difficulties",
-    "alias.complaint_filing_time_limit",
-    "alias.time_limit_for_removing_difficulty",
     "authority.central_government",
-    "intent.central_government",
-    "intent.central_government_2"
+    "obligation.central_government_may_make_provisions_to_remove_difficultie",
+    "timeline.two_years"
   ],
   "search": {
     "keywords": [

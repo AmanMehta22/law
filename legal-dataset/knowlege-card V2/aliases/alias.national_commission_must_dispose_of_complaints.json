@@ -13,12 +13,8 @@
     "obligation.national_commission_must_dispose_of_complaints"
   ],
   "related_concepts": [
-    "alias.national_commission",
     "authority.national_commission",
-    "intent.national_commission",
-    "intent.national_commission_2",
-    "intent.national_commission_must_dispose_of_complaints",
-    "intent.national_commission_must_dispose_of_complaints_2"
+    "obligation.national_commission_must_dispose_of_complaints"
   ],
   "search": {
     "keywords": [

@@ -14,13 +14,8 @@
     "CPA2019-CH4-S39-4"
   ],
   "related_concepts": [
-    "alias.district_commission",
     "authority.district_commission",
-    "intent.district_commission",
-    "intent.district_commission_2",
-    "intent.district_commission_president_and_member_must_sign_order",
-    "intent.district_commission_references_central_government",
-    "intent.other_member_of_district_commission_must_sign_order_in_case_of_majority_opinion"
+    "relationship.district_commission_references_central_government"
   ],
   "search": {
     "keywords": [

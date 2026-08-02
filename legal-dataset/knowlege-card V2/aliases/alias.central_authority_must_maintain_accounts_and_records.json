@@ -14,13 +14,9 @@
     "obligation.central_authority_must_maintain_proper_accounts_and_other_re"
   ],
   "related_concepts": [
-    "alias.central_authority",
-    "alias.comptroller_and_auditor_general_of_india",
     "authority.central_authority",
     "authority.comptroller_and_auditor_general_of_india",
-    "evidence.accounts_records",
-    "intent.accounts_and_records",
-    "intent.central_authority"
+    "evidence.accounts_records"
   ],
   "search": {
     "keywords": [

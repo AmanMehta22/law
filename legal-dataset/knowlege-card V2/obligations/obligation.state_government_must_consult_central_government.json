@@ -18,13 +18,8 @@
     "CPA2019-CH4-S42-3"
   ],
   "related_concepts": [
-    "alias.central_government",
-    "alias.state_commission",
-    "alias.state_government_must_consult_central_government",
     "authority.central_government",
-    "authority.state_commission",
-    "intent.central_government",
-    "intent.central_government_2"
+    "authority.state_commission"
   ],
   "search": {
     "keywords": [

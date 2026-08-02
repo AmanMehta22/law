@@ -17,13 +17,8 @@
     "CPA2019-CH4-S42-2"
   ],
   "related_concepts": [
-    "alias.regional_benches_establishment",
-    "exception.the_state_government_may_establish_regional_benches_of_the_s",
-    "intent.regional_benches_establishment",
-    "intent.regional_benches_establishment_3",
-    "intent.state_government_must_consult_state_commission",
-    "intent.state_government_must_notify_in_official_gazette",
-    "intent.territorial_jurisdiction_of_state_commission"
+    "exception.the_central_government_may_establish_regional_benches_of_the",
+    "exception.the_state_government_may_establish_regional_benches_of_the_s"
   ],
   "search": {
     "keywords": [

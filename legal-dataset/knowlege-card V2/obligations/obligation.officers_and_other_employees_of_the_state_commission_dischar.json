@@ -17,13 +17,8 @@
     "CPA2019-CH4-S46-2"
   ],
   "related_concepts": [
-    "alias.officers_and_employees_must_discharge_functions_under_superintendence",
-    "alias.state_commission",
-    "authority.state_commission",
-    "intent.officers_and_employees_must_discharge_functions_under_superintendence",
-    "intent.officers_and_employees_must_discharge_functions_under_superintendence_4",
-    "intent.state_commission",
-    "intent.state_commission_2"
+    "obligation.officers_and_other_employees_of_the_district_commission_disc",
+    "authority.state_commission"
   ],
   "search": {
     "keywords": [

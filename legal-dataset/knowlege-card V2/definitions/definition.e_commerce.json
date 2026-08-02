@@ -19,11 +19,7 @@
   "derived_from": [
     "CPA2019-CH1-S2-16"
   ],
-  "related_concepts": [
-    "alias.e_commerce",
-    "intent.e_commerce",
-    "intent.e_commerce_2"
-  ],
+  "related_concepts": [],
   "search": {
     "keywords": [
       "e-commerce",

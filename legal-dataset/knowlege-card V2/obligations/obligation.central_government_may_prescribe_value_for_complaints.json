@@ -17,13 +17,13 @@
     "CPA2019-CH4-S58-1"
   ],
   "related_concepts": [
-    "alias.central_authority",
-    "alias.central_government",
-    "alias.filing_of_complaints_and_appeals_with_the_national_commission",
-    "alias.national_commission",
-    "alias.review_of_state_commission_decisions",
-    "alias.right_to_appeal",
-    "alias.state_commission"
+    "authority.central_authority",
+    "authority.central_government",
+    "procedure.filing_of_complaints_and_appeals_with_the_national_commissio",
+    "authority.national_commission",
+    "procedure.review_of_state_commission_decisions",
+    "right.right_to_appeal",
+    "authority.state_commission"
   ],
   "search": {
     "keywords": [

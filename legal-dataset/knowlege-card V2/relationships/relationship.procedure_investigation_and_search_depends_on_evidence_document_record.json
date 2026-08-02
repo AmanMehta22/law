@@ -12,13 +12,10 @@
     "CPA2019-CH3-S22-1"
   ],
   "related_concepts": [
-    "alias.director_general",
-    "alias.district_collector",
-    "alias.investigation_and_search",
     "authority.director_general",
     "authority.district_collector",
-    "evidence.document_record_article_evidence",
-    "intent.director_general"
+    "procedure.investigation_and_search",
+    "evidence.document_record_article_evidence"
   ],
   "search": {
     "keywords": [

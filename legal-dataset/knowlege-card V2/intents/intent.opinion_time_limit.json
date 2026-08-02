@@ -15,9 +15,7 @@
   "derived_from": [
     "alias.opinion_time_limit"
   ],
-  "related_concepts": [
-    "alias.opinion_time_limit"
-  ],
+  "related_concepts": [],
   "search": {
     "keywords": [
       "questions",

@@ -13,10 +13,10 @@
   "derived_from": [
     "CPA2019-CH3-S20",
     "CPA2019-CH3-S24",
-    "relationship.alias_national_commission_references_alias_central_authority"
+    "relationship.national_commission_references_central_authority"
   ],
   "related_concepts": [
-    "relationship.alias_national_commission_references_alias_central_authority"
+    "relationship.national_commission_references_central_authority"
   ],
   "search": {
     "keywords": [

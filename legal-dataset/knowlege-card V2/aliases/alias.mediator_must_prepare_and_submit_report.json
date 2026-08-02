@@ -13,13 +13,8 @@
     "obligation.mediator_shall_prepare_his_report_and_submit_the_same_to_the"
   ],
   "related_concepts": [
-    "alias.commission",
-    "alias.mediation_procedure",
     "authority.commission",
-    "intent.commission",
-    "intent.commission_2",
-    "intent.mediation_procedure",
-    "intent.mediation_procedure_2"
+    "procedure.mediation_procedure"
   ],
   "search": {
     "keywords": [

@@ -13,10 +13,10 @@
   "derived_from": [
     "CPA2019-CH4-S36-2",
     "CPA2019-CH4-S38-3",
-    "relationship.alias_district_commission_references_alias_right_to_be_heard"
+    "relationship.district_commission_references_right_to_be_heard"
   ],
   "related_concepts": [
-    "relationship.alias_district_commission_references_alias_right_to_be_heard"
+    "relationship.district_commission_references_right_to_be_heard"
   ],
   "search": {
     "keywords": [

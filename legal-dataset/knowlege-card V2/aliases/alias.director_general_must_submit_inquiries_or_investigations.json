@@ -14,13 +14,8 @@
     "obligation.director_general_must_submit_inquiries_or_investigations"
   ],
   "related_concepts": [
-    "alias.central_authority",
-    "alias.director_general",
     "authority.central_authority",
-    "authority.director_general",
-    "intent.central_authority",
-    "intent.central_authority_2",
-    "intent.director_general"
+    "authority.director_general"
   ],
   "search": {
     "keywords": [

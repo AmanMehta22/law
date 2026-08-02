@@ -13,13 +13,12 @@
     "obligation.director_general_shall_submit_inquiries_or_investigation_mad"
   ],
   "related_concepts": [
-    "alias.central_authority",
-    "alias.director_general",
-    "alias.engaging_experts_and_professionals",
-    "alias.mediation_time_limit",
-    "alias.submission_of_inquiries_or_investigation",
-    "alias.transaction_of_business",
-    "authority.central_authority"
+    "authority.central_authority",
+    "authority.director_general",
+    "procedure.engaging_experts_and_professionals",
+    "timeline.not_specified",
+    "procedure.submission_of_inquiries_or_investigation",
+    "procedure.transaction_of_business"
   ],
   "search": {
     "keywords": [

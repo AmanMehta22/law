@@ -18,13 +18,8 @@
     "CPA2019-CH5-S80-3"
   ],
   "related_concepts": [
-    "alias.commission",
-    "alias.mediation_procedure",
-    "alias.mediator_must_prepare_and_submit_report",
     "authority.commission",
-    "intent.commission",
-    "intent.commission_2",
-    "intent.mediation_procedure"
+    "procedure.mediation_procedure"
   ],
   "search": {
     "keywords": [

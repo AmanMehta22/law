@@ -24,13 +24,12 @@
     "CPA2019-CH3-S18-2"
   ],
   "related_concepts": [
-    "alias.advising_on_consumer_welfare_measures",
-    "alias.awareness_on_consumer_rights",
-    "alias.central_authority",
-    "alias.central_government",
-    "alias.cooperation_with_non_governmental_organisations",
-    "alias.district_commission",
-    "alias.filing_complaints"
+    "procedure.awareness_on_consumer_rights",
+    "authority.central_authority",
+    "authority.central_government",
+    "procedure.cooperation_with_non_governmental_organisations",
+    "authority.district_commission",
+    "procedure.filing_complaints"
   ],
   "search": {
     "keywords": [

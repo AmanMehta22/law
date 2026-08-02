@@ -13,9 +13,7 @@
   "derived_from": [
     "alias.complaint_by_central_authority_or_authorised_officer"
   ],
-  "related_concepts": [
-    "alias.complaint_by_central_authority_or_authorised_officer"
-  ],
+  "related_concepts": [],
   "search": {
     "keywords": [
       "questions",

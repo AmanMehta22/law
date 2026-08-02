@@ -15,13 +15,9 @@
     "CPA2019-CH5-S80-2"
   ],
   "related_concepts": [
-    "alias.commission",
-    "alias.mediation_settlement_reporting",
-    "alias.mediator_must_prepare_and_forward_settlement_report",
     "authority.commission",
-    "intent.commission",
-    "intent.commission_2",
-    "intent.mediation_settlement_reporting"
+    "procedure.mediation_settlement_reporting",
+    "obligation.mediator_must_prepare_a_settlement_report_and_forward_the_si"
   ],
   "search": {
     "keywords": [

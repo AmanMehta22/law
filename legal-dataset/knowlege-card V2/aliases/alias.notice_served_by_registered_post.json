@@ -13,13 +13,12 @@
     "exception.notice_is_considered_served_even_if_acknowledgment_is_lost_m"
   ],
   "related_concepts": [
-    "alias.acknowledgment",
-    "alias.appeal_time_limit",
-    "alias.district_commission",
-    "alias.national_commission",
-    "alias.service_of_notice",
-    "alias.state_commission",
-    "authority.district_commission"
+    "evidence.acknowledgment_receipt",
+    "timeline.thirty_days",
+    "authority.district_commission",
+    "authority.national_commission",
+    "procedure.service_of_notice",
+    "authority.state_commission"
   ],
   "search": {
     "keywords": [

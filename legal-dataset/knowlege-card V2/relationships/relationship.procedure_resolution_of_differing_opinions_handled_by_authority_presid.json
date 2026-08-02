@@ -13,13 +13,9 @@
     "CPA2019-CH4-S58-3"
   ],
   "related_concepts": [
-    "alias.president",
-    "alias.president_or_other_members_must_give_opinion_within_a_month",
-    "alias.resolution_of_differing_opinions",
     "authority.president",
-    "intent.opinion_time_limit",
-    "intent.president",
-    "intent.president_2"
+    "obligation.president_or_other_members_must_give_opinion_on_the_referred",
+    "procedure.resolution_of_differing_opinions"
   ],
   "search": {
     "keywords": [

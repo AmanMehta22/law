@@ -13,10 +13,10 @@
   "derived_from": [
     "CPA2019-CH3-S22-4",
     "CPA2019-CH8-S101-2",
-    "relationship.alias_mediation_references_alias_director_general"
+    "relationship.mediation_references_director_general"
   ],
   "related_concepts": [
-    "relationship.alias_mediation_references_alias_director_general"
+    "relationship.mediation_references_director_general"
   ],
   "search": {
     "keywords": [

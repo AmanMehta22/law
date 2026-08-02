@@ -12,13 +12,10 @@
     "CPA2019-CH4-S36-1"
   ],
   "related_concepts": [
-    "alias.conduct_of_proceeding_before_district_commission",
-    "alias.district_commission",
-    "alias.president_and_members_must_conduct_proceedings",
+    "procedure.conduct_of_proceeding_before_district_commission",
     "authority.district_commission",
-    "intent.conduct_of_proceeding_before_district_commission",
-    "intent.conduct_of_proceeding_before_district_commission_2",
-    "intent.conduct_of_proceeding_before_district_commission_handled_by_commission"
+    "obligation.president_and_members_of_the_district_commission_must_conduc",
+    "relationship.procedure_conduct_of_proceeding_before_district_commission_handled_by_"
   ],
   "search": {
     "keywords": [

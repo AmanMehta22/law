@@ -20,11 +20,7 @@
     "CPA2019-CH1-S2-15"
   ],
   "related_concepts": [
-    "alias.district_commission",
-    "authority.district_commission",
-    "intent.district_commission",
-    "intent.district_commission_2",
-    "intent.district_commission_3"
+    "authority.district_commission"
   ],
   "search": {
     "keywords": [

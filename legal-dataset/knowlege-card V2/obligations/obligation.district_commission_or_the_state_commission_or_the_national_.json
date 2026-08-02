@@ -17,13 +17,10 @@
     "CPA2019-CH5-S81-3"
   ],
   "related_concepts": [
-    "alias.commission_must_hear_consumer_dispute",
-    "alias.district_commission",
-    "alias.hearing_of_consumer_dispute",
-    "alias.national_commission",
-    "alias.state_commission",
     "authority.district_commission",
-    "authority.national_commission"
+    "procedure.hearing_of_consumer_dispute",
+    "authority.national_commission",
+    "authority.state_commission"
   ],
   "search": {
     "keywords": [

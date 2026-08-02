@@ -14,13 +14,9 @@
     "CPA2019-CH8-S96-1"
   ],
   "related_concepts": [
-    "alias.compounding_of_offence",
-    "alias.court",
     "authority.court",
-    "intent.compounding_of_offence",
-    "intent.compounding_of_offence_3",
-    "intent.compounding_of_offence_5",
-    "intent.compounding_of_offence_handled_by_court"
+    "procedure.compounding_of_offence",
+    "relationship.procedure_compounding_of_offence_handled_by_authority_court"
   ],
   "search": {
     "keywords": [

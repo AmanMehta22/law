@@ -1,0 +1,56 @@
+{
+  "concept_id": "relationship.mediation_references_district_commission",
+  "concept_type": "relationship",
+  "title": "Mediation references District Commission",
+  "description": "Relationship: Mediation -references-> District Commission",
+  "content": {
+    "source": "definition.mediation",
+    "relationship": "references",
+    "target": "authority.district_commission"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S29",
+    "CPA2019-CH4-S34-1",
+    "CPA2019-CH4-S35-1",
+    "CPA2019-CH4-S37-1",
+    "CPA2019-CH4-S38-2",
+    "CPA2019-CH4-S38-9",
+    "CPA2019-CH4-S47-1",
+    "CPA2019-CH8-S101-2"
+  ],
+  "related_concepts": [
+    "authority.central_government",
+    "obligation.central_government_make_rules_for_district_commission_appoin",
+    "authority.district_commission"
+  ],
+  "search": {
+    "keywords": [
+      "mediation",
+      "references",
+      "district",
+      "commission",
+      "alias"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government"
+    ],
+    "user_queries": [
+      "What is mediation references district commission?",
+      "How does mediation references district commission work?",
+      "Can you explain mediation references district commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

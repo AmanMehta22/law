@@ -16,13 +16,10 @@
     "obligation.state_commission_shall_furnish_any_information_including_pen"
   ],
   "related_concepts": [
-    "alias.state_commission",
-    "alias.state_government",
     "authority.state_commission",
     "authority.state_government",
     "evidence.information",
-    "intent.district_commission_references_state_commission",
-    "intent.information"
+    "relationship.district_commission_references_state_commission"
   ],
   "search": {
     "keywords": [

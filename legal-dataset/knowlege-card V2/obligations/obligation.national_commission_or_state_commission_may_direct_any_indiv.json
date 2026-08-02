@@ -17,13 +17,9 @@
     "CPA2019-CH4-S66"
   ],
   "related_concepts": [
-    "alias.assistance_direction",
-    "alias.national_commission",
-    "alias.national_or_state_commission_may_direct_assistance",
-    "alias.state_commission",
+    "procedure.assistance_direction",
     "authority.national_commission",
-    "authority.state_commission",
-    "intent.assistance_direction"
+    "authority.state_commission"
   ],
   "search": {
     "keywords": [

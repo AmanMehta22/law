@@ -21,13 +21,12 @@
     "CPA2019-CH4-S38-7"
   ],
   "related_concepts": [
-    "alias.adjournment_exception",
-    "alias.complaint_disposal",
-    "alias.district_commission",
-    "alias.district_commission_must_dispose_of_complaint_within_a_period",
-    "alias.district_commission_must_make_orders_for_costs_of_adjournment",
-    "alias.district_commission_must_not_grant_adjournment_without_sufficient_cause",
-    "alias.district_commission_must_record_reasons_for_adjournment"
+    "exception.adjournment_may_be_granted_if_sufficient_cause_is_shown",
+    "procedure.complaint_disposal",
+    "authority.district_commission",
+    "obligation.district_commission_must_make_orders_as_to_the_costs_occasio",
+    "obligation.district_commission_must_not_grant_adjournment_without_suffi",
+    "obligation.district_commission_must_record_reasons_for_adjournment_in_w"
   ],
   "search": {
     "keywords": [

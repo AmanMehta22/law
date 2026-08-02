@@ -12,13 +12,9 @@
     "CPA2019-CH4-S38-1"
   ],
   "related_concepts": [
-    "alias.complaint_proceeding",
-    "alias.district_commission",
+    "procedure.complaint_proceeding",
     "authority.district_commission",
-    "intent.complaint_proceeding",
-    "intent.complaint_proceeding_2",
-    "intent.complaint_proceeding_handled_by_commission",
-    "intent.complaint_proceeding_handled_by_district_commission"
+    "relationship.procedure_complaint_proceeding_handled_by_authority_commission"
   ],
   "search": {
     "keywords": [

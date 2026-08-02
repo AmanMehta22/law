@@ -17,13 +17,10 @@
     "CPA2019-CH3-S14-2"
   ],
   "related_concepts": [
-    "alias.central_authority",
-    "alias.chief_commissioner",
-    "alias.chief_commissioner_must_exercise_general_superintendence",
-    "alias.commissioner",
-    "alias.delegation_of_powers",
     "authority.central_authority",
-    "authority.chief_commissioner"
+    "authority.chief_commissioner",
+    "authority.commissioner",
+    "exception.the_chief_commissioner_may_delegate_such_powers_to_any_commi"
   ],
   "search": {
     "keywords": [

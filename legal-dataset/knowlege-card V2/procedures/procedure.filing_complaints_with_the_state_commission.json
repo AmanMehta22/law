@@ -22,13 +22,12 @@
     "CPA2019-CH4-S47-1"
   ],
   "related_concepts": [
-    "alias.calling_for_records_and_passing_orders",
-    "alias.central_government",
-    "alias.central_government_override",
-    "alias.district_commission",
-    "alias.filing_appeals_with_the_state_commission",
-    "alias.filing_complaints_with_the_state_commission",
-    "alias.pecuniary_jurisdiction_of_state_commission"
+    "procedure.calling_for_records_and_passing_orders",
+    "authority.central_government",
+    "exception.central_government_may_prescribe_a_different_value",
+    "authority.district_commission",
+    "procedure.filing_appeals_with_the_state_commission",
+    "jurisdiction.state_commission_exceeds_rupees_one_crore_but_does_not_exceed_rupees_ten_crore_w"
   ],
   "search": {
     "keywords": [

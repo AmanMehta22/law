@@ -13,13 +13,8 @@
     "penalty.publishing_misleading_advertisement"
   ],
   "related_concepts": [
-    "alias.central_authority",
-    "alias.central_authority_may_impose_penalty",
     "authority.central_authority",
-    "intent.central_authority",
-    "intent.central_authority_2",
-    "intent.central_authority_may_impose_penalty",
-    "intent.central_authority_may_impose_penalty_2"
+    "obligation.central_authority_may_impose_penalty"
   ],
   "search": {
     "keywords": [

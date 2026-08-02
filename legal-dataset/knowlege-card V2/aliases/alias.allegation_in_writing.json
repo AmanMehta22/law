@@ -13,13 +13,10 @@
     "evidence.written_complaint"
   ],
   "related_concepts": [
-    "alias.complaint_under_consumer_protection_act_2019",
-    "alias.relief",
-    "alias.right_to_relief",
     "definition.complaint",
-    "evidence.written_complaint",
-    "intent.allegation_in_writing",
-    "intent.allegation_in_writing_2"
+    "remedy.relief",
+    "right.right_to_relief",
+    "evidence.written_complaint"
   ],
   "search": {
     "keywords": [

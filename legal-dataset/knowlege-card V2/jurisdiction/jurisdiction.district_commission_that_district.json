@@ -15,13 +15,9 @@
     "CPA2019-CH4-S32"
   ],
   "related_concepts": [
-    "alias.district_commission",
-    "alias.state_government",
-    "alias.state_government_must_direct_in_case_of_vacancy",
     "authority.district_commission",
     "authority.state_government",
-    "intent.district_commission",
-    "intent.district_commission_2"
+    "obligation.state_government_may_direct_any_other_district_commission_or"
   ],
   "search": {
     "keywords": [

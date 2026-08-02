@@ -13,10 +13,7 @@
     "obligation.national_commission_may_transfer_any_complaint"
   ],
   "related_concepts": [
-    "alias.complaint_transfer",
-    "alias.district_commission",
-    "alias.national_commission",
-    "alias.state_commission",
+    "procedure.complaint_transfer",
     "authority.district_commission",
     "authority.national_commission",
     "authority.state_commission"

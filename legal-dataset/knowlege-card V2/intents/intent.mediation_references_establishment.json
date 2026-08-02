@@ -15,10 +15,10 @@
   "derived_from": [
     "CPA2019-CH1-S2-19",
     "CPA2019-CH8-S101-2",
-    "relationship.alias_mediation_references_alias_establishment"
+    "relationship.mediation_references_establishment"
   ],
   "related_concepts": [
-    "relationship.alias_mediation_references_alias_establishment"
+    "relationship.mediation_references_establishment"
   ],
   "search": {
     "keywords": [

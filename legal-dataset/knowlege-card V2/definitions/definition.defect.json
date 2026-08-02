@@ -18,11 +18,7 @@
   "derived_from": [
     "CPA2019-CH1-S2-10"
   ],
-  "related_concepts": [
-    "alias.defect",
-    "intent.defect",
-    "intent.defect_2"
-  ],
+  "related_concepts": [],
   "search": {
     "keywords": [
       "defect",

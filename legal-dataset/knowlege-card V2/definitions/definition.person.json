@@ -20,11 +20,7 @@
   "derived_from": [
     "CPA2019-CH1-S2-31"
   ],
-  "related_concepts": [
-    "alias.definition_of_person",
-    "intent.definition_of_person",
-    "intent.definition_of_person_2"
-  ],
+  "related_concepts": [],
   "search": {
     "keywords": [
       "person",

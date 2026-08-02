@@ -48,13 +48,10 @@
     "CPA2019-CH4-S73-3"
   ],
   "related_concepts": [
-    "alias.appeal_time_limit",
-    "alias.central_authority",
-    "alias.filing_an_appeal",
-    "alias.national_commission",
-    "alias.right_to_appeal",
+    "timeline.thirty_days",
     "authority.central_authority",
-    "authority.national_commission"
+    "authority.national_commission",
+    "right.right_to_appeal"
   ],
   "search": {
     "keywords": [

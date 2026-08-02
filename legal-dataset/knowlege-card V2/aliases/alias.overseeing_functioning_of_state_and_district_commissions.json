@@ -23,13 +23,13 @@
     "procedure.overseeing_functioning_of_state_and_district_commissions"
   ],
   "related_concepts": [
-    "alias.central_government",
-    "alias.district_commission",
-    "alias.investigation_into_allegations_against_state_commission_members",
-    "alias.issuance_of_instructions_for_uniform_procedure",
-    "alias.monitoring_performance_of_state_commissions",
-    "alias.national_commission",
-    "alias.national_commission_must_investigate_allegations_against_state_commission_member"
+    "authority.central_government",
+    "authority.district_commission",
+    "procedure.investigation_into_allegations_against_state_commission_memb",
+    "procedure.issuance_of_instructions_for_uniform_procedure",
+    "procedure.monitoring_performance_of_state_commissions",
+    "authority.national_commission",
+    "obligation.national_commission_shall_investigate_into_any_allegations_a"
   ],
   "search": {
     "keywords": [

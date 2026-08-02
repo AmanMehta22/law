@@ -16,13 +16,12 @@
     "procedure.filing_of_complaint_after_specified_period"
   ],
   "related_concepts": [
-    "alias.complainant_must_satisfy_the_commission",
-    "alias.complaint_filing_time_limit_exception",
-    "alias.district_commission",
-    "alias.national_commission",
-    "alias.right_to_file_a_late_complaint",
-    "alias.state_commission",
-    "authority.district_commission"
+    "obligation.complainant_must_satisfy_the_commission_that_he_had_sufficie",
+    "exception.a_complaint_may_be_entertained_after_the_period_specified_in",
+    "authority.district_commission",
+    "authority.national_commission",
+    "right.right_to_file_a_late_complaint",
+    "authority.state_commission"
   ],
   "search": {
     "keywords": [

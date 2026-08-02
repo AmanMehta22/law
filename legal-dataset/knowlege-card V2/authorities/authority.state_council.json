@@ -21,13 +21,8 @@
     "CPA2019-CH8-S102-2"
   ],
   "related_concepts": [
-    "alias.state_council",
-    "alias.state_government",
-    "alias.state_government_must_establish_state_council",
     "authority.state_government",
-    "intent.state_council",
-    "intent.state_council_2",
-    "intent.state_government"
+    "obligation.state_government_shall_establish_a_state_consumer_protection"
   ],
   "search": {
     "keywords": [

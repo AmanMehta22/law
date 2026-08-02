@@ -12,13 +12,10 @@
     "CPA2019-CH3-S19-3"
   ],
   "related_concepts": [
-    "alias.central_authority",
-    "alias.director_general",
-    "alias.district_collector",
-    "alias.investigation",
     "authority.central_authority",
     "authority.director_general",
-    "authority.district_collector"
+    "authority.district_collector",
+    "procedure.investigation"
   ],
   "search": {
     "keywords": [

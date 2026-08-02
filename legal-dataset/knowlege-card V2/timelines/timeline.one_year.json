@@ -15,13 +15,8 @@
     "CPA2019-CH3-S21-3"
   ],
   "related_concepts": [
-    "alias.minimum_meetings_per_year",
-    "alias.state_council",
-    "alias.state_council_meeting_obligation",
     "authority.state_council",
-    "intent.minimum_meetings_per_year",
-    "intent.minimum_meetings_per_year_2",
-    "intent.state_council"
+    "obligation.state_council_shall_meet"
   ],
   "search": {
     "keywords": [

@@ -19,13 +19,9 @@
     "right.right_to_review"
   ],
   "related_concepts": [
-    "alias.appeal_time_limit",
-    "alias.review_of_order",
-    "alias.state_commission",
-    "authority.state_commission",
-    "intent.appeal_time_limit",
-    "intent.appeal_time_limit_2",
-    "intent.review_of_order"
+    "timeline.thirty_days",
+    "procedure.review_of_order",
+    "authority.state_commission"
   ],
   "search": {
     "keywords": [

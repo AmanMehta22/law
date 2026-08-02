@@ -17,13 +17,8 @@
     "CPA2019-CH2-S6-1"
   ],
   "related_concepts": [
-    "alias.state_council",
-    "alias.state_government",
-    "alias.state_government_must_establish_state_council",
     "authority.state_council",
-    "authority.state_government",
-    "intent.state_council",
-    "intent.state_council_2"
+    "authority.state_government"
   ],
   "search": {
     "keywords": [

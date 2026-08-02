@@ -17,13 +17,7 @@
     "CPA2019-CH4-S49-1"
   ],
   "related_concepts": [
-    "alias.state_commission",
-    "alias.state_commission_must_dispose_of_complaints",
-    "authority.state_commission",
-    "intent.state_commission",
-    "intent.state_commission_2",
-    "intent.state_commission_must_dispose_of_complaints",
-    "intent.state_commission_must_dispose_of_complaints_2"
+    "authority.state_commission"
   ],
   "search": {
     "keywords": [

@@ -13,13 +13,13 @@
     "remedy.discontinuation_of_unfair_practice"
   ],
   "related_concepts": [
-    "alias.advertiser_must_discontinue_or_modify_advertisement",
-    "alias.central_authority_must_investigate_and_issue_directions",
-    "alias.endorser_must_discontinue_or_modify_advertisement",
-    "alias.issuance_of_directions_to_discontinue_or_modify_advertisement",
-    "alias.manufacturer_must_discontinue_or_modify_advertisement",
-    "alias.publisher_must_discontinue_or_modify_advertisement",
-    "alias.trader_must_discontinue_or_modify_advertisement"
+    "obligation.advertiser_must_discontinue_or_modify_advertisement_as_direc",
+    "obligation.central_authority_may_issue_directions_to_discontinue_or_mod",
+    "obligation.endorser_must_discontinue_or_modify_advertisement_as_directe",
+    "procedure.issuance_of_directions_to_discontinue_or_modify_advertisemen",
+    "obligation.manufacturer_must_discontinue_or_modify_advertisement_as_dir",
+    "obligation.publisher_must_discontinue_or_modify_advertisement_as_direct",
+    "obligation.trader_must_discontinue_or_modify_advertisement_as_directed"
   ],
   "search": {
     "keywords": [

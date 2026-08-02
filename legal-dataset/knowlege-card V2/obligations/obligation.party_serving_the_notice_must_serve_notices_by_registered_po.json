@@ -20,13 +20,10 @@
     "CPA2019-CH4-S65-1"
   ],
   "related_concepts": [
-    "alias.district_commission",
-    "alias.national_commission",
-    "alias.service_of_notice",
-    "alias.serving_notices",
-    "alias.state_commission",
     "authority.district_commission",
-    "authority.national_commission"
+    "authority.national_commission",
+    "procedure.service_of_notice",
+    "authority.state_commission"
   ],
   "search": {
     "keywords": [

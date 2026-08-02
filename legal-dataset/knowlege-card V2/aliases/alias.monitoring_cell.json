@@ -15,13 +15,9 @@
     "authority.monitoring_cell"
   ],
   "related_concepts": [
-    "alias.national_commission",
-    "alias.state_commissions",
-    "authority.monitoring_cell",
     "authority.national_commission",
     "authority.state_commissions",
-    "intent.monitoring_cell",
-    "intent.monitoring_cell_2"
+    "authority.monitoring_cell"
   ],
   "search": {
     "keywords": [

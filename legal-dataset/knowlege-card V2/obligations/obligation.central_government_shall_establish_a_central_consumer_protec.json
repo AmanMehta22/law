@@ -19,13 +19,8 @@
     "CPA2019-CH3-S10-1"
   ],
   "related_concepts": [
-    "alias.central_consumer_protection_authority",
-    "alias.central_government",
-    "alias.central_government_must_establish_central_authority",
     "authority.central_consumer_protection_authority",
-    "authority.central_government",
-    "intent.central_consumer_protection_authority",
-    "intent.central_consumer_protection_authority_2"
+    "authority.central_government"
   ],
   "search": {
     "keywords": [

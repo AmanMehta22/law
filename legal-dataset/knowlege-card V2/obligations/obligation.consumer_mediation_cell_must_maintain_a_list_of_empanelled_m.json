@@ -17,13 +17,8 @@
     "CPA2019-CH5-S74-4"
   ],
   "related_concepts": [
-    "alias.consumer_mediation_cell",
-    "alias.consumer_mediation_cell_must_maintain_records",
     "authority.consumer_mediation_cell",
-    "evidence.record_of_proceeding",
-    "intent.consumer_mediation_cell",
-    "intent.consumer_mediation_cell_2",
-    "intent.consumer_mediation_cell_must_maintain_records"
+    "evidence.record_of_proceeding"
   ],
   "search": {
     "keywords": [

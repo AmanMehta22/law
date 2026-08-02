@@ -16,13 +16,13 @@
     "procedure.cooperation_with_non_governmental_organisations"
   ],
   "related_concepts": [
-    "alias.advising_on_consumer_welfare_measures",
-    "alias.awareness_on_consumer_rights",
-    "alias.central_authority",
-    "alias.central_government",
-    "alias.district_commission",
-    "alias.filing_complaints",
-    "alias.inquiry_or_investigation"
+    "procedure.advising_on_consumer_welfare_measures",
+    "procedure.awareness_on_consumer_rights",
+    "authority.central_authority",
+    "authority.central_government",
+    "authority.district_commission",
+    "procedure.filing_complaints",
+    "procedure.inquiry_or_investigation"
   ],
   "search": {
     "keywords": [

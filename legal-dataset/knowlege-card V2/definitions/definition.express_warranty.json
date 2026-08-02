@@ -19,11 +19,7 @@
   "derived_from": [
     "CPA2019-CH1-S2-20"
   ],
-  "related_concepts": [
-    "alias.express_warranty",
-    "intent.express_warranty",
-    "intent.express_warranty_2"
-  ],
+  "related_concepts": [],
   "search": {
     "keywords": [
       "express warranty",

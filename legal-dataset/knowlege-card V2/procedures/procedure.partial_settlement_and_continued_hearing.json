@@ -23,10 +23,6 @@
     "CPA2019-CH5-S81-2"
   ],
   "related_concepts": [
-    "alias.district_commission",
-    "alias.national_commission",
-    "alias.partial_settlement_and_continued_hearing",
-    "alias.state_commission",
     "authority.district_commission",
     "authority.national_commission",
     "authority.state_commission"

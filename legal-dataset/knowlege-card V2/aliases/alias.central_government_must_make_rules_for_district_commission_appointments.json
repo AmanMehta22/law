@@ -16,13 +16,9 @@
     "obligation.central_government_make_rules_for_district_commission_appoin"
   ],
   "related_concepts": [
-    "alias.central_government",
-    "alias.district_commission",
     "authority.central_government",
     "authority.district_commission",
-    "intent.central_government",
-    "intent.central_government_2",
-    "intent.central_government_must_make_rules_for_district_commission_appointments"
+    "obligation.central_government_make_rules_for_district_commission_appoin"
   ],
   "search": {
     "keywords": [

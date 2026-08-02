@@ -17,13 +17,12 @@
     "CPA2019-CH3-S15-2"
   ],
   "related_concepts": [
-    "alias.additional_director_general",
-    "alias.assistant_director",
-    "alias.central_government",
-    "alias.central_government_must_appoint_officers_in_a_prescribed_manner",
-    "alias.deputy_director",
-    "alias.director",
-    "alias.director_general"
+    "authority.additional_director_general",
+    "authority.assistant_director",
+    "authority.central_government",
+    "authority.deputy_director",
+    "authority.director",
+    "authority.director_general"
   ],
   "search": {
     "keywords": [

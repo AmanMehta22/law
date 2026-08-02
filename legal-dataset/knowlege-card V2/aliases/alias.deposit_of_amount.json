@@ -16,13 +16,13 @@
     "procedure.deposit_of_amount"
   ],
   "related_concepts": [
-    "alias.appeal_to_national_commission",
-    "alias.appeal_to_state_commission",
-    "alias.authentication_of_goods",
-    "alias.filing_complaint",
-    "alias.furnishing_information",
-    "alias.government_must_make_rules",
-    "alias.mediation"
+    "exception.save_as_otherwise_expressly_provided_under_this_act_or_by_an",
+    "procedure.appeal_to_state_commission",
+    "procedure.authentication_of_goods",
+    "procedure.filing_complaint",
+    "procedure.furnishing_information",
+    "obligation.government_must_make_rules",
+    "definition.mediation"
   ],
   "search": {
     "keywords": [

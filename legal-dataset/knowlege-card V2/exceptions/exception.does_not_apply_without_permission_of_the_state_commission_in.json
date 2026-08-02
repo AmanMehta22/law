@@ -14,13 +14,9 @@
     "CPA2019-CH4-S47-4"
   ],
   "related_concepts": [
-    "alias.complaint_filing",
-    "alias.permission_from_state_commission",
-    "alias.state_commission",
+    "procedure.complaint_filing",
     "authority.state_commission",
-    "intent.complaint_filing",
-    "intent.complaint_filing_2",
-    "intent.complaint_filing_handled_by_commission"
+    "relationship.procedure_complaint_filing_handled_by_authority_commission"
   ],
   "search": {
     "keywords": [

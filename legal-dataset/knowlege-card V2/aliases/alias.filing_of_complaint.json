@@ -16,13 +16,9 @@
     "procedure.filing_of_complaint"
   ],
   "related_concepts": [
-    "alias.central_authority",
     "authority.central_authority",
     "exception.except_on_a_complaint_filed_by_the_central_authority_or_any_",
-    "intent.central_authority",
-    "intent.central_authority_2",
-    "intent.central_authority_must_file_a_complaint",
-    "intent.central_authority_references_misleading_advertisement"
+    "relationship.central_authority_references_misleading_advertisement"
   ],
   "search": {
     "keywords": [

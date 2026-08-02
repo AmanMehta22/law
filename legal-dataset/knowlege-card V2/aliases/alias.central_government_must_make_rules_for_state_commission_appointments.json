@@ -16,13 +16,9 @@
     "obligation.central_government_make_rules_for_appointment_of_president_a"
   ],
   "related_concepts": [
-    "alias.appointment_of_president_and_members_of_the_state_commission",
-    "alias.central_government",
-    "alias.state_commission",
+    "procedure.appointment_of_president_and_members_of_the_state_commission",
     "authority.central_government",
-    "authority.state_commission",
-    "intent.appointment_of_president_and_members_of_the_state_commission",
-    "intent.appointment_of_president_and_members_of_the_state_commission_2"
+    "authority.state_commission"
   ],
   "search": {
     "keywords": [

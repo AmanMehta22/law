@@ -15,9 +15,7 @@
   "derived_from": [
     "alias.regulator_must_specify_conditions"
   ],
-  "related_concepts": [
-    "alias.regulator_must_specify_conditions"
-  ],
+  "related_concepts": [],
   "search": {
     "keywords": [
       "questions",

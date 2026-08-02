@@ -17,13 +17,9 @@
     "procedure.mediation_procedure"
   ],
   "related_concepts": [
-    "alias.commission",
-    "alias.mediator_must_prepare_and_submit_report",
     "authority.commission",
-    "intent.commission",
-    "intent.commission_2",
-    "intent.mediation_procedure",
-    "intent.mediation_procedure_2"
+    "obligation.mediator_shall_prepare_his_report_and_submit_the_same_to_the",
+    "procedure.mediation_procedure"
   ],
   "search": {
     "keywords": [

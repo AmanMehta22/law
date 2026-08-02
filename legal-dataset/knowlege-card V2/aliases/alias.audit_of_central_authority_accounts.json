@@ -18,13 +18,10 @@
     "procedure.audit_of_central_authority_accounts"
   ],
   "related_concepts": [
-    "alias.comptroller_and_auditor_general_of_india",
-    "alias.right_to_demand_production_of_documents",
     "authority.comptroller_and_auditor_general_of_india",
+    "right.right_to_demand_production_of_documents",
     "evidence.books_accounts_connected_vouchers_other_documents_and_papers",
-    "intent.audit_documents",
-    "intent.audit_of_central_authority_accounts",
-    "intent.audit_of_central_authority_accounts_2"
+    "procedure.audit_of_central_authority_accounts"
   ],
   "search": {
     "keywords": [

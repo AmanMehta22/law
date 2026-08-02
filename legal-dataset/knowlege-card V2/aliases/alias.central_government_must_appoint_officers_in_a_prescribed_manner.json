@@ -14,13 +14,13 @@
     "obligation.central_government_must_appoint_director_general_and_other_o"
   ],
   "related_concepts": [
-    "alias.additional_director_general",
-    "alias.assistant_director",
-    "alias.central_government",
-    "alias.deputy_director",
-    "alias.director",
-    "alias.director_general",
-    "alias.joint_director"
+    "authority.additional_director_general",
+    "authority.assistant_director",
+    "authority.central_government",
+    "authority.deputy_director",
+    "authority.director",
+    "authority.director_general",
+    "authority.joint_director"
   ],
   "search": {
     "keywords": [

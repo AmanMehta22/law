@@ -17,13 +17,7 @@
     "CPA2019-CH4-S42-1"
   ],
   "related_concepts": [
-    "alias.state_commission",
-    "alias.state_government_must_establish_state_commission",
-    "authority.state_commission",
-    "intent.state_commission",
-    "intent.state_commission_2",
-    "intent.state_government_must_establish_state_commission",
-    "intent.state_government_must_establish_state_commission_2"
+    "authority.state_commission"
   ],
   "search": {
     "keywords": [

@@ -17,9 +17,6 @@
     "procedure.trial_of_offences"
   ],
   "related_concepts": [
-    "alias.district_commission",
-    "alias.national_commission",
-    "alias.state_commission",
     "authority.district_commission",
     "authority.national_commission",
     "authority.state_commission",

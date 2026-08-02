@@ -13,11 +13,8 @@
     "obligation.mediator_nominated_by_the_commission_shall_have_regard_to_th"
   ],
   "related_concepts": [
-    "alias.district_commission",
-    "alias.mediation",
-    "alias.national_commission",
-    "alias.state_commission",
     "authority.district_commission",
+    "definition.mediation",
     "authority.national_commission",
     "authority.state_commission"
   ],

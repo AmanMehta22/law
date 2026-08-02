@@ -17,13 +17,10 @@
     "procedure.enforcement_of_order"
   ],
   "related_concepts": [
-    "alias.court",
-    "alias.district_commission",
-    "alias.national_commission",
-    "alias.state_commission",
     "authority.court",
     "authority.district_commission",
-    "authority.national_commission"
+    "authority.national_commission",
+    "authority.state_commission"
   ],
   "search": {
     "keywords": [

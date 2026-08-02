@@ -15,9 +15,7 @@
   "derived_from": [
     "alias.state_commission_must_review_order_on_application"
   ],
-  "related_concepts": [
-    "alias.state_commission_must_review_order_on_application"
-  ],
+  "related_concepts": [],
   "search": {
     "keywords": [
       "questions",

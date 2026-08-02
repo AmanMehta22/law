@@ -15,13 +15,9 @@
     "obligation.mediator_must_disclose_personal_professional_or_financial_in"
   ],
   "related_concepts": [
-    "alias.mediator_must_disclose_circumstances_affecting_independence_or_impartiality",
-    "alias.mediator_must_disclose_other_facts_specified_by_regulations",
-    "intent.district_commission_references_mediator_must_disclose_circumstances_affecting_in",
-    "intent.mediator_must_disclose_circumstances_affecting_independence_or_impartiality",
-    "intent.mediator_must_disclose_circumstances_affecting_independence_or_impartiality_2",
-    "intent.mediator_must_disclose_other_facts_specified_by_regulations",
-    "intent.mediator_must_disclose_other_facts_specified_by_regulations_2"
+    "obligation.mediator_must_disclose_circumstances_which_may_give_rise_to_",
+    "obligation.mediator_must_disclose_such_other_facts_as_may_be_specified_",
+    "relationship.district_commission_references_mediator_must_disclose_circumstances_which_may_give_rise"
   ],
   "search": {
     "keywords": [

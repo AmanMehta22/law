@@ -16,13 +16,10 @@
     "obligation.national_commission_shall_review_any_of_the_order_passed_by_"
   ],
   "related_concepts": [
-    "alias.appeal_time_limit",
-    "alias.national_commission",
-    "alias.review_of_order",
-    "alias.right_to_review",
+    "timeline.thirty_days",
     "authority.national_commission",
-    "intent.appeal_time_limit",
-    "intent.appeal_time_limit_2"
+    "procedure.review_of_order",
+    "right.right_to_review"
   ],
   "search": {
     "keywords": [

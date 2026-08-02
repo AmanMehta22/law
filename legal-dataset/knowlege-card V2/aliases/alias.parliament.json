@@ -16,12 +16,8 @@
     "authority.parliament"
   ],
   "related_concepts": [
-    "alias.government_must_lay_annual_report_before_parliament",
-    "authority.parliament",
-    "intent.government_must_lay_annual_report_before_parliament",
-    "intent.government_must_lay_annual_report_before_parliament_2",
-    "intent.parliament",
-    "intent.parliament_2"
+    "obligation.government_must_lay_a_copy_of_the_annual_report_before_each_",
+    "authority.parliament"
   ],
   "search": {
     "keywords": [

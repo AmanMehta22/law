@@ -19,11 +19,7 @@
     "CPA2019-CH1-S2-40"
   ],
   "related_concepts": [
-    "alias.regulator",
-    "authority.regulator",
-    "intent.regulator",
-    "intent.regulator_2",
-    "intent.regulator_3"
+    "authority.regulator"
   ],
   "search": {
     "keywords": [

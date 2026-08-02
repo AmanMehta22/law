@@ -15,11 +15,8 @@
     "obligation.district_commission_or_the_state_commission_or_the_national_"
   ],
   "related_concepts": [
-    "alias.district_commission",
-    "alias.hearing_of_consumer_dispute",
-    "alias.national_commission",
-    "alias.state_commission",
     "authority.district_commission",
+    "procedure.hearing_of_consumer_dispute",
     "authority.national_commission",
     "authority.state_commission"
   ],

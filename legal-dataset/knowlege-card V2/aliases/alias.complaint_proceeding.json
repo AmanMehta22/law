@@ -16,13 +16,10 @@
     "procedure.complaint_proceeding"
   ],
   "related_concepts": [
-    "alias.district_commission",
     "authority.district_commission",
-    "intent.complaint_proceeding",
-    "intent.complaint_proceeding_2",
-    "intent.complaint_proceeding_handled_by_commission",
-    "intent.complaint_proceeding_handled_by_district_commission",
-    "intent.district_commission"
+    "procedure.complaint_proceeding",
+    "relationship.procedure_complaint_proceeding_handled_by_authority_commission",
+    "relationship.procedure_complaint_proceeding_handled_by_authority_district_commissio"
   ],
   "search": {
     "keywords": [

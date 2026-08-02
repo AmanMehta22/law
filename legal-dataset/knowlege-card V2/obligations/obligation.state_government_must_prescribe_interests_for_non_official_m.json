@@ -17,13 +17,9 @@
     "CPA2019-CH2-S6-2"
   ],
   "related_concepts": [
-    "alias.central_government",
-    "alias.state_council",
-    "alias.state_government",
     "authority.central_government",
     "authority.state_council",
-    "authority.state_government",
-    "intent.central_government"
+    "authority.state_government"
   ],
   "search": {
     "keywords": [

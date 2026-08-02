@@ -14,13 +14,12 @@
     "CPA2019-CH4-S73-3"
   ],
   "related_concepts": [
-    "alias.appeal_time_limit",
-    "alias.delayed_appeal",
-    "alias.district_commission",
-    "alias.filing_an_appeal",
-    "alias.national_commission",
-    "alias.right_to_appeal",
-    "alias.state_commission"
+    "timeline.thirty_days",
+    "authority.district_commission",
+    "procedure.filing_an_appeal",
+    "authority.national_commission",
+    "right.right_to_appeal",
+    "authority.state_commission"
   ],
   "search": {
     "keywords": [

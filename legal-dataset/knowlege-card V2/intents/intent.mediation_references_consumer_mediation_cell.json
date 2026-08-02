@@ -13,10 +13,10 @@
   "derived_from": [
     "CPA2019-CH5-S74-3",
     "CPA2019-CH8-S101-2",
-    "relationship.alias_mediation_references_alias_consumer_mediation_cell"
+    "relationship.mediation_references_consumer_mediation_cell"
   ],
   "related_concepts": [
-    "relationship.alias_mediation_references_alias_consumer_mediation_cell"
+    "relationship.mediation_references_consumer_mediation_cell"
   ],
   "search": {
     "keywords": [

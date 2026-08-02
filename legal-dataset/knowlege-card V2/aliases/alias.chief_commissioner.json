@@ -17,13 +17,10 @@
     "authority.chief_commissioner"
   ],
   "related_concepts": [
-    "alias.central_authority",
-    "alias.central_government",
-    "alias.central_government_must_appoint_commissioners",
     "authority.central_authority",
     "authority.central_government",
-    "authority.chief_commissioner",
-    "intent.central_authority"
+    "obligation.central_government_must_appoint_commissioners",
+    "authority.chief_commissioner"
   ],
   "search": {
     "keywords": [

@@ -14,13 +14,13 @@
     "remedy.redressal"
   ],
   "related_concepts": [
-    "alias.consumer_rights",
-    "alias.right_to_access_to_variety_of_goods",
-    "alias.right_to_be_heard",
-    "alias.right_to_consumer_awareness",
-    "alias.right_to_information",
-    "alias.right_to_protection_against_hazardous_goods",
-    "alias.right_to_redressal"
+    "definition.consumer_rights",
+    "right.right_to_access_to_variety_of_goods",
+    "right.right_to_be_heard",
+    "right.right_to_consumer_awareness",
+    "right.right_to_information",
+    "right.right_to_protection_against_hazardous_goods",
+    "right.right_to_redressal"
   ],
   "search": {
     "keywords": [

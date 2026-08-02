@@ -13,13 +13,8 @@
     "obligation.state_government_may_direct_any_other_district_commission_or"
   ],
   "related_concepts": [
-    "alias.district_commission",
-    "alias.state_government",
     "authority.district_commission",
-    "authority.state_government",
-    "intent.district_commission",
-    "intent.district_commission_2",
-    "intent.state_government"
+    "authority.state_government"
   ],
   "search": {
     "keywords": [

@@ -12,13 +12,10 @@
     "CPA2019-CH4-S50"
   ],
   "related_concepts": [
-    "alias.appeal_time_limit",
-    "alias.review_of_order",
-    "alias.right_to_review",
-    "alias.state_commission",
-    "authority.state_commission",
-    "intent.appeal_time_limit",
-    "intent.appeal_time_limit_2"
+    "timeline.thirty_days",
+    "procedure.review_of_order",
+    "right.right_to_review",
+    "authority.state_commission"
   ],
   "search": {
     "keywords": [

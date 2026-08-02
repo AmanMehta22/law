@@ -16,13 +16,10 @@
     "obligation.central_authority_ensure_that_no_person_takes_part_in_the_pu"
   ],
   "related_concepts": [
-    "alias.central_authority",
-    "alias.central_authority_must_prevent_false_or_misleading_advertisements_of_goods_or_se",
-    "alias.central_authority_must_prevent_unfair_trade_practices",
-    "alias.central_authority_must_protect_consumer_rights",
     "authority.central_authority",
-    "intent.central_authority",
-    "intent.central_authority_2"
+    "obligation.central_authority_ensure_that_no_false_or_misleading_adverti",
+    "obligation.central_authority_prevent_unfair_trade_practices",
+    "obligation.central_authority_protect_promote_and_enforce_the_rights_of_"
   ],
   "search": {
     "keywords": [

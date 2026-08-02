@@ -90,13 +90,9 @@
     "CPA2019-CH8-S98"
   ],
   "related_concepts": [
-    "alias.district_commission",
-    "alias.member",
-    "alias.national_commission",
-    "alias.state_commission",
     "authority.district_commission",
-    "authority.national_commission",
-    "definition.member"
+    "definition.member",
+    "authority.national_commission"
   ],
   "search": {
     "keywords": [

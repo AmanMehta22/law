@@ -13,10 +13,10 @@
   "derived_from": [
     "CPA2019-CH4-S41",
     "CPA2019-CH8-S102-2",
-    "relationship.alias_district_commission_references_alias_delayed_appeal"
+    "relationship.district_commission_references_may_entertain_an_appeal_after_the_expiry_of_the_said_per"
   ],
   "related_concepts": [
-    "relationship.alias_district_commission_references_alias_delayed_appeal"
+    "relationship.district_commission_references_may_entertain_an_appeal_after_the_expiry_of_the_said_per"
   ],
   "search": {
     "keywords": [

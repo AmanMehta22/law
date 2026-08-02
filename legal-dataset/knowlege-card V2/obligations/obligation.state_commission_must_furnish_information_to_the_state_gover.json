@@ -18,13 +18,12 @@
     "CPA2019-CH8-S102-2"
   ],
   "related_concepts": [
-    "alias.consumer_mediation_cell",
-    "alias.district_commission",
-    "alias.district_council",
-    "alias.government_must_make_rules",
-    "alias.state_commission",
-    "alias.state_commission_must_authenticate_goods",
-    "alias.state_commission_must_furnish_information"
+    "authority.consumer_mediation_cell",
+    "authority.district_commission",
+    "authority.district_council",
+    "obligation.government_must_make_rules",
+    "authority.state_commission",
+    "obligation.state_commission_must_authenticate_goods_sampled"
   ],
   "search": {
     "keywords": [

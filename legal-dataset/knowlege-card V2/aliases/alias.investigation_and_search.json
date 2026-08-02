@@ -16,13 +16,9 @@
     "procedure.investigation_and_search"
   ],
   "related_concepts": [
-    "alias.director_general",
-    "alias.district_collector",
     "authority.director_general",
     "authority.district_collector",
-    "evidence.document_record_article_evidence",
-    "intent.director_general",
-    "intent.director_general_2"
+    "evidence.document_record_article_evidence"
   ],
   "search": {
     "keywords": [

@@ -18,11 +18,7 @@
   "derived_from": [
     "CPA2019-CH1-S2-23"
   ],
-  "related_concepts": [
-    "alias.injury",
-    "intent.injury",
-    "intent.injury_2"
-  ],
+  "related_concepts": [],
   "search": {
     "keywords": [
       "injury",

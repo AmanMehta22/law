@@ -13,13 +13,11 @@
     "CPA2019-CH4-S65-3"
   ],
   "related_concepts": [
-    "alias.district_commission",
-    "alias.national_commission",
-    "alias.service_of_notice",
-    "alias.serving_notices",
-    "alias.state_commission",
     "authority.district_commission",
-    "authority.national_commission"
+    "authority.national_commission",
+    "procedure.service_of_notice",
+    "obligation.party_serving_the_notice_must_serve_notices_by_registered_po",
+    "authority.state_commission"
   ],
   "search": {
     "keywords": [

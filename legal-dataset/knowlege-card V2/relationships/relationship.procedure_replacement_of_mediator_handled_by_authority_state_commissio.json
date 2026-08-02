@@ -12,13 +12,10 @@
     "CPA2019-CH5-S78"
   ],
   "related_concepts": [
-    "alias.replacement_of_mediator",
-    "intent.replacement_of_mediator",
-    "intent.replacement_of_mediator_2",
-    "intent.replacement_of_mediator_handled_by_commission",
-    "intent.replacement_of_mediator_handled_by_district_commission",
-    "intent.replacement_of_mediator_handled_by_national_commission",
-    "intent.replacement_of_mediator_handled_by_state_commission"
+    "procedure.replacement_of_mediator",
+    "relationship.procedure_replacement_of_mediator_handled_by_authority_commission",
+    "relationship.procedure_replacement_of_mediator_handled_by_authority_district_commis",
+    "relationship.procedure_replacement_of_mediator_handled_by_authority_national_commis"
   ],
   "search": {
     "keywords": [

@@ -14,13 +14,9 @@
     "obligation.district_commission_shall_function_in_district_headquarters"
   ],
   "related_concepts": [
-    "alias.district_commission",
-    "alias.state_commission",
-    "alias.state_government",
     "authority.district_commission",
     "authority.state_commission",
-    "authority.state_government",
-    "intent.district_commission"
+    "authority.state_government"
   ],
   "search": {
     "keywords": [

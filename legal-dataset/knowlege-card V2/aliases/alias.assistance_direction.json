@@ -16,13 +16,10 @@
     "procedure.assistance_direction"
   ],
   "related_concepts": [
-    "alias.national_commission",
-    "alias.national_or_state_commission_may_direct_assistance",
-    "alias.state_commission",
     "authority.national_commission",
+    "obligation.national_commission_or_state_commission_may_direct_any_indiv",
     "authority.state_commission",
-    "intent.assistance_direction",
-    "intent.assistance_direction_2"
+    "procedure.assistance_direction"
   ],
   "search": {
     "keywords": [

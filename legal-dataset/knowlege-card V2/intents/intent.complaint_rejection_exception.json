@@ -13,9 +13,7 @@
   "derived_from": [
     "alias.complaint_rejection_exception"
   ],
-  "related_concepts": [
-    "alias.complaint_rejection_exception"
-  ],
+  "related_concepts": [],
   "search": {
     "keywords": [
       "questions",

@@ -13,13 +13,9 @@
     "obligation.central_government_may_exempt_goods_and_services_by_notifica"
   ],
   "related_concepts": [
-    "alias.central_government",
     "authority.central_government",
     "exception.does_not_apply_if_the_central_government_otherwise_expressly",
-    "intent.central_government",
-    "intent.central_government_2",
-    "intent.central_government_must_consider_exceptions",
-    "intent.central_government_must_consider_exceptions_2"
+    "obligation.central_government_may_exempt_goods_and_services_by_notifica"
   ],
   "search": {
     "keywords": [

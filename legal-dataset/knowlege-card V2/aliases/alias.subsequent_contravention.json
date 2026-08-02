@@ -13,13 +13,11 @@
     "exception.the_central_authority_may_prohibit_such_endorser_from_making"
   ],
   "related_concepts": [
-    "alias.central_authority",
-    "alias.central_authority_must_consider_prohibition",
-    "alias.minimum_meetings_per_year",
-    "alias.prohibition_period_for_subsequent_contravention",
     "authority.central_authority",
-    "exception.the_central_authority_may_prohibit_such_endorser_from_making",
-    "intent.central_authority"
+    "obligation.central_authority_may_prohibit_endorser_of_false_or_misleadi",
+    "timeline.one_year",
+    "timeline.three_years",
+    "exception.the_central_authority_may_prohibit_such_endorser_from_making"
   ],
   "search": {
     "keywords": [

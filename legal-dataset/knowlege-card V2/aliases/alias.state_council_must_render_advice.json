@@ -14,12 +14,8 @@
     "obligation.state_council_render_advice_on_promotion_and_protection_of_c"
   ],
   "related_concepts": [
-    "alias.state_council",
     "authority.state_council",
-    "intent.state_council",
-    "intent.state_council_2",
-    "intent.state_council_must_render_advice",
-    "intent.state_council_must_render_advice_2"
+    "obligation.state_council_render_advice_on_promotion_and_protection_of_c"
   ],
   "search": {
     "keywords": [

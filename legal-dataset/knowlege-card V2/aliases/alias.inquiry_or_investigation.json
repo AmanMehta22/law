@@ -17,13 +17,10 @@
     "procedure.inquiry_or_investigation"
   ],
   "related_concepts": [
-    "alias.central_authority",
-    "alias.commissioner_of_a_regional_office",
-    "alias.district_collector",
-    "alias.district_collector_must_inquire_and_report",
     "authority.central_authority",
     "authority.commissioner_of_a_regional_office",
-    "authority.district_collector"
+    "authority.district_collector",
+    "obligation.district_collector_inquire_into_or_investigate_complaints_an"
   ],
   "search": {
     "keywords": [

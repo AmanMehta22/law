@@ -12,13 +12,9 @@
     "CPA2019-CH5-S80-1"
   ],
   "related_concepts": [
-    "alias.mediation_agreement",
-    "alias.parties_must_reduce_agreement_to_writing",
-    "evidence.written_agreement",
-    "intent.agreement_in_writing",
-    "intent.mediation_agreement",
-    "intent.mediation_agreement_2",
-    "intent.mediation_agreement_depends_on_agreement_in_writing"
+    "procedure.mediation_agreement",
+    "obligation.parties_to_a_consumer_dispute_or_their_authorised_representa",
+    "evidence.written_agreement"
   ],
   "search": {
     "keywords": [

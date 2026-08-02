@@ -16,10 +16,10 @@
     "CPA2019-CH2-S8-2",
     "CPA2019-CH2-S8-4",
     "CPA2019-CH8-S102-2",
-    "relationship.alias_district_commission_references_alias_district_council"
+    "relationship.district_commission_references_district_council"
   ],
   "related_concepts": [
-    "relationship.alias_district_commission_references_alias_district_council"
+    "relationship.district_commission_references_district_council"
   ],
   "search": {
     "keywords": [

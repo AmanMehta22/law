@@ -16,10 +16,10 @@
     "CPA2019-CH3-S15-2",
     "CPA2019-CH8-S101-2",
     "CPA2019-CH8-S94",
-    "relationship.alias_mediation_references_alias_central_government"
+    "relationship.mediation_references_central_government"
   ],
   "related_concepts": [
-    "relationship.alias_mediation_references_alias_central_government"
+    "relationship.mediation_references_central_government"
   ],
   "search": {
     "keywords": [

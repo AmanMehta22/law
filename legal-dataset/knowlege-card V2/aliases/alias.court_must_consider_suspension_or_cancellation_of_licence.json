@@ -13,13 +13,8 @@
     "obligation.court_may_suspend_or_cancel_licence"
   ],
   "related_concepts": [
-    "alias.court",
     "authority.court",
-    "intent.court",
-    "intent.court_2",
-    "intent.court_must_consider_suspension_or_cancellation_of_licence",
-    "intent.court_must_consider_suspension_or_cancellation_of_licence_2",
-    "intent.licence_suspension_period"
+    "obligation.court_may_suspend_or_cancel_licence"
   ],
   "search": {
     "keywords": [

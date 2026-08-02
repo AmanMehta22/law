@@ -20,11 +20,7 @@
     "CPA2019-CH1-S2-44"
   ],
   "related_concepts": [
-    "alias.state_commission",
-    "authority.state_commission",
-    "intent.state_commission",
-    "intent.state_commission_2",
-    "intent.state_commission_3"
+    "authority.state_commission"
   ],
   "search": {
     "keywords": [

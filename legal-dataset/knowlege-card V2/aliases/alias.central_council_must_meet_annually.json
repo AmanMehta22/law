@@ -13,13 +13,8 @@
     "obligation.central_council_must_meet_at_least_once_a_year"
   ],
   "related_concepts": [
-    "alias.central_council",
     "authority.central_council",
-    "intent.central_council",
-    "intent.central_council_2",
-    "intent.central_council_must_meet_annually",
-    "intent.central_council_must_meet_annually_2",
-    "intent.meeting_time_limit"
+    "obligation.central_council_must_meet_at_least_once_a_year"
   ],
   "search": {
     "keywords": [

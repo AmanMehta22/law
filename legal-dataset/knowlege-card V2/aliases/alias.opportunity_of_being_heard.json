@@ -14,13 +14,12 @@
     "exception.the_central_authority_shall_give_the_person_an_opportunity_o"
   ],
   "related_concepts": [
-    "alias.central_authority",
-    "alias.discontinuation_of_unfair_practices",
-    "alias.investigation_and_order_passing",
-    "alias.recall_of_goods_or_withdrawal_of_services",
-    "alias.reimbursement_of_prices",
-    "alias.right_to_reimbursement",
-    "authority.central_authority"
+    "authority.central_authority",
+    "remedy.discontinuation_of_unfair_practices",
+    "procedure.investigation_and_order_passing",
+    "remedy.recall_of_goods_or_withdrawal_of_services",
+    "remedy.reimbursement_of_prices",
+    "right.right_to_reimbursement"
   ],
   "search": {
     "keywords": [

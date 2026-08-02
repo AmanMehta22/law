@@ -18,12 +18,11 @@
     "authority.supreme_court"
   ],
   "related_concepts": [
-    "alias.appeal_time_limit",
-    "alias.filing_an_appeal_to_the_supreme_court",
-    "alias.national_commission",
-    "alias.proof_of_sufficient_cause",
-    "alias.right_to_appeal",
+    "timeline.thirty_days",
+    "procedure.filing_an_appeal_to_the_supreme_court",
     "authority.national_commission",
+    "evidence.written_explanation",
+    "right.right_to_appeal",
     "authority.supreme_court"
   ],
   "search": {

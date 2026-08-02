@@ -27,13 +27,9 @@
     "CPA2019-CH3-S19-2"
   ],
   "related_concepts": [
-    "alias.central_authority",
-    "alias.central_authority_must_refer_matter_to_regulator",
-    "alias.referral_to_regulator",
-    "alias.regulator",
     "authority.central_authority",
-    "authority.regulator",
-    "intent.central_authority"
+    "obligation.central_authority_may_refer_the_matter_to_the_concerned_regu",
+    "authority.regulator"
   ],
   "search": {
     "keywords": [

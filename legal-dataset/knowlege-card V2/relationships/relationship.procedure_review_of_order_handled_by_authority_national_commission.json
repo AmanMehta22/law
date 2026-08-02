@@ -12,13 +12,11 @@
     "CPA2019-CH4-S60"
   ],
   "related_concepts": [
-    "alias.appeal_time_limit",
-    "alias.national_commission",
-    "alias.national_commission_must_review_order",
-    "alias.review_of_order",
-    "alias.right_to_review",
+    "timeline.thirty_days",
     "authority.national_commission",
-    "intent.appeal_time_limit"
+    "obligation.national_commission_shall_review_any_of_the_order_passed_by_",
+    "procedure.review_of_order",
+    "right.right_to_review"
   ],
   "search": {
     "keywords": [

@@ -20,13 +20,9 @@
     "authority.state_council"
   ],
   "related_concepts": [
-    "alias.state_government",
-    "alias.state_government_must_establish_state_council",
-    "authority.state_council",
     "authority.state_government",
-    "intent.state_council",
-    "intent.state_council_2",
-    "intent.state_government"
+    "obligation.state_government_shall_establish_a_state_consumer_protection",
+    "authority.state_council"
   ],
   "search": {
     "keywords": [

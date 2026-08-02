@@ -16,13 +16,10 @@
     "CPA2019-CH4-S72-3"
   ],
   "related_concepts": [
-    "alias.district_commission",
-    "alias.national_commission",
-    "alias.state_commission",
-    "alias.trial_of_offences",
     "authority.district_commission",
     "authority.national_commission",
-    "authority.state_commission"
+    "authority.state_commission",
+    "procedure.trial_of_offences"
   ],
   "search": {
     "keywords": [

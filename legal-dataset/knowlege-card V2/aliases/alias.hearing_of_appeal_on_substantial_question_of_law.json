@@ -16,13 +16,11 @@
     "procedure.hearing_of_appeal_on_substantial_question_of_law"
   ],
   "related_concepts": [
-    "alias.national_commission",
-    "alias.national_commission_must_formulate_and_hear_appeal_on_substantial_question_of_la",
-    "alias.right_to_appeal",
     "authority.national_commission",
-    "intent.hearing_of_appeal_on_substantial_question_of_law",
-    "intent.hearing_of_appeal_on_substantial_question_of_law_2",
-    "intent.hearing_of_appeal_on_substantial_question_of_law_enables_right_to_appeal"
+    "obligation.national_commission_must_formulate_and_hear_appeal_on_substa",
+    "right.right_to_appeal",
+    "procedure.hearing_of_appeal_on_substantial_question_of_law",
+    "relationship.procedure_hearing_of_appeal_on_substantial_question_of_law_enables_rig"
   ],
   "search": {
     "keywords": [

@@ -12,13 +12,11 @@
     "CPA2019-CH4-S37-1"
   ],
   "related_concepts": [
-    "alias.district_commission",
-    "alias.district_commission_may_direct_parties_to_consider_mediation",
-    "alias.mediation_direction",
     "authority.district_commission",
+    "obligation.district_commission_may_direct_parties_to_give_in_writing_co",
+    "procedure.mediation_direction",
     "evidence.written_consent",
-    "exception.does_not_include_a_person_who_obtains_goods_for_resale_or_co",
-    "intent.consent_in_writing"
+    "exception.does_not_include_a_person_who_obtains_goods_for_resale_or_co"
   ],
   "search": {
     "keywords": [

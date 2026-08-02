@@ -14,13 +14,9 @@
     "obligation.central_government_may_make_provisions_to_remove_difficultie"
   ],
   "related_concepts": [
-    "alias.central_government",
-    "alias.complaint_filing_time_limit",
-    "alias.time_limit_for_removing_difficulty",
     "authority.central_government",
-    "exception.no_such_order_shall_be_made_after_the_expiry_of_a_period_of_",
-    "intent.central_government",
-    "intent.central_government_2"
+    "timeline.two_years",
+    "exception.no_such_order_shall_be_made_after_the_expiry_of_a_period_of_"
   ],
   "search": {
     "keywords": [

@@ -38,13 +38,12 @@
     "CPA2019-CH6-S86"
   ],
   "related_concepts": [
-    "alias.compensation_for_harm_caused",
-    "alias.district_commission",
-    "alias.filing_a_product_liability_action",
-    "alias.national_commission",
-    "alias.product_liability_action",
-    "alias.right_to_compensation",
-    "alias.state_commission"
+    "remedy.compensation",
+    "authority.district_commission",
+    "procedure.filing_a_product_liability_action",
+    "authority.national_commission",
+    "definition.product_liability_action",
+    "authority.state_commission"
   ],
   "search": {
     "keywords": [

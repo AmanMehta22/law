@@ -15,12 +15,8 @@
     "CPA2019-CH4-S70-3"
   ],
   "related_concepts": [
-    "alias.district_commission",
     "authority.district_commission",
-    "intent.district_commission",
-    "intent.district_commission_2",
-    "intent.state_commission_s_administrative_control",
-    "intent.territorial_jurisdiction_of_state_commission_3"
+    "jurisdiction.state_commission_where_the_opposite_party_resides_carries_on_business_has_a_bran"
   ],
   "search": {
     "keywords": [

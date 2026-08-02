@@ -13,13 +13,9 @@
     "penalty.searching_or_seizing_without_reasonable_grounds"
   ],
   "related_concepts": [
-    "alias.director_general",
     "authority.director_general",
-    "intent.director_general",
-    "intent.director_general_2",
-    "intent.penalty_for_unauthorized_search_or_seizure",
-    "intent.penalty_for_unauthorized_search_or_seizure_3",
-    "intent.penalty_for_unauthorized_search_or_seizure_applies_to_unlawful_search_or_seizure"
+    "penalty.searching_or_seizing_without_reasonable_grounds",
+    "relationship.penalty_searching_or_seizing_without_reasonable_grounds_applies_to_off"
   ],
   "search": {
     "keywords": [

@@ -14,13 +14,8 @@
     "CPA2019-CH7-S90-1"
   ],
   "related_concepts": [
-    "alias.penalty_for_adulterated_products_resulting_in_death",
-    "alias.penalty_for_manufacturing_storing_selling_distributing_or_importing_adulterated_",
-    "intent.manufacturing_storing_selling_distributing_or_importing_adulterated_products",
-    "intent.penalty_for_adulterated_products_resulting_in_death",
-    "intent.penalty_for_adulterated_products_resulting_in_death_3",
-    "intent.penalty_for_adulterated_products_resulting_in_death_applies_to_manufacturing_sto",
-    "intent.penalty_for_manufacturing_storing_selling_distributing_or_importing_adulterated_"
+    "penalty.manufacturing_storing_selling_distributing_or_importing_adul",
+    "relationship.penalty_manufacturing_storing_selling_distributing_or_importing_adul_a"
   ],
   "search": {
     "keywords": [

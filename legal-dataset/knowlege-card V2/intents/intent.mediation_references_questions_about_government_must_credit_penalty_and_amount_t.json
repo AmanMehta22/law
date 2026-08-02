@@ -14,12 +14,9 @@
   },
   "derived_from": [
     "CPA2019-CH8-S101-2",
-    "CPA2019-CH8-S97",
-    "relationship.alias_mediation_references_intent_government_must_credit_penalty_and_a"
+    "CPA2019-CH8-S97"
   ],
-  "related_concepts": [
-    "relationship.alias_mediation_references_intent_government_must_credit_penalty_and_a"
-  ],
+  "related_concepts": [],
   "search": {
     "keywords": [
       "questions",

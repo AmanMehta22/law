@@ -15,13 +15,9 @@
     "obligation.government_must_prescribe_salaries_and_allowances"
   ],
   "related_concepts": [
-    "alias.central_authority",
     "authority.central_authority",
-    "intent.central_authority",
-    "intent.central_authority_2",
-    "intent.government_must_prescribe_salaries_and_allowances",
-    "intent.government_must_prescribe_salaries_and_allowances_2",
-    "intent.mediation_references_central_authority"
+    "obligation.government_must_prescribe_salaries_and_allowances",
+    "relationship.mediation_references_central_authority"
   ],
   "search": {
     "keywords": [

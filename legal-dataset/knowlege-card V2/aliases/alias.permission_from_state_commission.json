@@ -13,13 +13,10 @@
     "exception.does_not_apply_without_permission_of_the_state_commission_in"
   ],
   "related_concepts": [
-    "alias.complaint_filing",
-    "alias.state_commission",
+    "procedure.complaint_filing",
     "authority.state_commission",
     "exception.does_not_apply_without_permission_of_the_state_commission_in",
-    "intent.complaint_filing",
-    "intent.complaint_filing_2",
-    "intent.complaint_filing_handled_by_commission"
+    "relationship.procedure_complaint_filing_handled_by_authority_commission"
   ],
   "search": {
     "keywords": [

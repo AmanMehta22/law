@@ -27,13 +27,10 @@
     "CPA2019-CH8-S105-1"
   ],
   "related_concepts": [
-    "alias.appeal_time_limit",
-    "alias.central_authority",
-    "alias.filing_an_appeal",
-    "alias.national_commission",
-    "alias.right_to_appeal",
     "authority.central_authority",
-    "authority.national_commission"
+    "procedure.filing_an_appeal",
+    "authority.national_commission",
+    "right.right_to_appeal"
   ],
   "search": {
     "keywords": [

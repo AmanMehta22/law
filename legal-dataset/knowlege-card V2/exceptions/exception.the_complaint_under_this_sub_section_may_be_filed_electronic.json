@@ -14,13 +14,11 @@
     "CPA2019-CH4-S35-1"
   ],
   "related_concepts": [
-    "alias.central_authority",
-    "alias.central_government",
-    "alias.complaint_filing",
-    "alias.district_commission",
-    "alias.state_government",
     "authority.central_authority",
-    "authority.central_government"
+    "authority.central_government",
+    "procedure.complaint_filing",
+    "authority.district_commission",
+    "authority.state_government"
   ],
   "search": {
     "keywords": [

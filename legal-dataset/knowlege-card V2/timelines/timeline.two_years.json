@@ -16,13 +16,11 @@
     "CPA2019-CH8-S106"
   ],
   "related_concepts": [
-    "alias.complaint_filing",
-    "alias.complaint_filing_time_limit",
-    "alias.district_commission",
-    "alias.national_commission",
-    "alias.state_commission",
-    "alias.time_limit_for_filing_complaint",
-    "authority.district_commission"
+    "procedure.complaint_filing",
+    "authority.district_commission",
+    "authority.national_commission",
+    "authority.state_commission",
+    "exception.shall_not_admit_a_complaint_unless_it_is_filed_within_two_ye"
   ],
   "search": {
     "keywords": [

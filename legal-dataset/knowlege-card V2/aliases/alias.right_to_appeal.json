@@ -29,13 +29,10 @@
     "right.right_to_appeal"
   ],
   "related_concepts": [
-    "alias.appeal_time_limit",
-    "alias.central_authority",
-    "alias.filing_an_appeal",
-    "alias.national_commission",
+    "timeline.thirty_days",
     "authority.central_authority",
-    "authority.national_commission",
-    "intent.appeal_time_limit"
+    "procedure.filing_an_appeal",
+    "authority.national_commission"
   ],
   "search": {
     "keywords": [

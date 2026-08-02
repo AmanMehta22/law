@@ -18,13 +18,9 @@
     "CPA2019-CH4-S47-4"
   ],
   "related_concepts": [
-    "alias.complaint_filing",
-    "alias.permission_from_state_commission",
-    "alias.state_commission",
-    "authority.state_commission",
+    "procedure.complaint_filing",
     "exception.does_not_apply_without_permission_of_the_state_commission_in",
-    "intent.complaint_filing",
-    "intent.complaint_filing_2"
+    "authority.state_commission"
   ],
   "search": {
     "keywords": [

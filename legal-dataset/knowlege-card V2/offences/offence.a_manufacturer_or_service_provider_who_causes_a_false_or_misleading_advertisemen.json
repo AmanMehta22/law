@@ -12,13 +12,9 @@
     "CPA2019-CH7-S89"
   ],
   "related_concepts": [
-    "alias.misleading_advertisement",
-    "intent.central_authority_references_misleading_advertisement",
-    "intent.court_references_misleading_advertisement",
-    "intent.misleading_advertisement",
-    "intent.misleading_advertisement_4",
-    "intent.penalty_for_false_or_misleading_advertisement_2",
-    "intent.penalty_for_false_or_misleading_advertisement_applies_to_misleading_advertisemen"
+    "definition.misleading_advertisement",
+    "penalty.publishing_false_or_misleading_advertisement",
+    "relationship.penalty_publishing_false_or_misleading_advertisement_applies_to_offenc"
   ],
   "search": {
     "keywords": [

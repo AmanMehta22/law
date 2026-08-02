@@ -14,13 +14,8 @@
     "obligation.state_commission_may_transfer_any_complaint_pending_before_a"
   ],
   "related_concepts": [
-    "alias.district_commission",
-    "alias.state_commission",
     "authority.district_commission",
-    "authority.state_commission",
-    "intent.district_commission",
-    "intent.district_commission_2",
-    "intent.state_commission"
+    "authority.state_commission"
   ],
   "search": {
     "keywords": [

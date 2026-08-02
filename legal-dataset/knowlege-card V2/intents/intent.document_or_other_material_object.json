@@ -15,9 +15,7 @@
   "derived_from": [
     "alias.document_or_other_material_object"
   ],
-  "related_concepts": [
-    "alias.document_or_other_material_object"
-  ],
+  "related_concepts": [],
   "search": {
     "keywords": [
       "questions",

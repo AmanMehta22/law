@@ -13,13 +13,11 @@
     "obligation.district_commission_must_decide_on_admissibility_of_complain"
   ],
   "related_concepts": [
-    "alias.admissibility_decision_time_limit",
-    "alias.complaint_admissibility_procedure",
-    "alias.district_commission_must_give_opportunity_of_being_heard",
-    "alias.right_to_be_heard",
-    "exception.a_complaint_shall_not_be_rejected_unless_an_opportunity_of_b",
-    "intent.admissibility_decision_time_limit",
-    "intent.admissibility_decision_time_limit_2"
+    "timeline.twenty_one_days",
+    "procedure.complaint_admissibility_procedure",
+    "obligation.district_commission_must_give_opportunity_of_being_heard_to_",
+    "right.right_to_be_heard",
+    "exception.a_complaint_shall_not_be_rejected_unless_an_opportunity_of_b"
   ],
   "search": {
     "keywords": [

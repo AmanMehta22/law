@@ -18,13 +18,8 @@
     "procedure.resolution_of_differing_opinions"
   ],
   "related_concepts": [
-    "alias.president",
-    "alias.president_or_other_members_must_give_opinion_within_a_month",
     "authority.president",
-    "intent.opinion_time_limit",
-    "intent.president",
-    "intent.president_2",
-    "intent.president_or_other_members_must_give_opinion_within_a_month"
+    "obligation.president_or_other_members_must_give_opinion_on_the_referred"
   ],
   "search": {
     "keywords": [

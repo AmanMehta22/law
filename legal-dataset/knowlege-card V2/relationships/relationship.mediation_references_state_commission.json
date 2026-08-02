@@ -1,0 +1,52 @@
+{
+  "concept_id": "relationship.mediation_references_state_commission",
+  "concept_type": "relationship",
+  "title": "Mediation references State Commission",
+  "description": "Relationship: Mediation -references-> State Commission",
+  "content": {
+    "source": "definition.mediation",
+    "relationship": "references",
+    "target": "authority.state_commission"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S43",
+    "CPA2019-CH8-S101-2"
+  ],
+  "related_concepts": [
+    "procedure.appointment_of_president_and_members_of_the_state_commission",
+    "authority.central_government",
+    "obligation.central_government_make_rules_for_appointment_of_president_a",
+    "authority.state_commission"
+  ],
+  "search": {
+    "keywords": [
+      "mediation",
+      "references",
+      "state",
+      "commission",
+      "alias"
+    ],
+    "aliases": [
+      "president and members of the state commission",
+      "state commission",
+      "state commission appointment",
+      "state commission members",
+      "state commission president"
+    ],
+    "user_queries": [
+      "What is mediation references state commission?",
+      "How does mediation references state commission work?",
+      "Can you explain mediation references state commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

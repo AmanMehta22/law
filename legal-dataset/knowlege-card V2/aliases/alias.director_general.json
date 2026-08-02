@@ -32,11 +32,7 @@
   "related_concepts": [
     "authority.director_general",
     "definition.director_general",
-    "intent.director_general",
-    "intent.director_general_2",
-    "intent.director_general_3",
-    "intent.director_general_references_central_government",
-    "relationship.alias_director_general_references_alias_central_government"
+    "relationship.director_general_references_central_government"
   ],
   "search": {
     "keywords": [

@@ -18,7 +18,7 @@
     "alias.deposit_for_appeal"
   ],
   "related_concepts": [
-    "alias.deposit_for_appeal"
+    "exception.no_appeal_unless_50_of_amount_deposited"
   ],
   "search": {
     "keywords": [

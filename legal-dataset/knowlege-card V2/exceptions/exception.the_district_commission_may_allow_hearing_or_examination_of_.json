@@ -16,13 +16,10 @@
     "CPA2019-CH4-S38-6"
   ],
   "related_concepts": [
-    "alias.complaint_filing",
-    "alias.district_commission",
-    "alias.hearing_through_affidavit_and_documentary_evidence",
+    "procedure.complaint_filing",
     "authority.district_commission",
     "evidence.affidavit",
-    "evidence.documentary_evidence",
-    "intent.affidavit"
+    "evidence.documentary_evidence"
   ],
   "search": {
     "keywords": [

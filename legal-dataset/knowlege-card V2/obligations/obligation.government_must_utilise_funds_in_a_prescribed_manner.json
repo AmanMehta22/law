@@ -16,11 +16,7 @@
   "derived_from": [
     "CPA2019-CH4-S39-2"
   ],
-  "related_concepts": [
-    "intent.government_must_utilise_funds",
-    "intent.mediation_references_questions_about_government_must_utilise_funds",
-    "relationship.alias_mediation_references_intent_government_must_utilise_funds"
-  ],
+  "related_concepts": [],
   "search": {
     "keywords": [
       "government",

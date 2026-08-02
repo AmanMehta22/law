@@ -20,11 +20,10 @@
     "CPA2019-CH6-S85"
   ],
   "related_concepts": [
-    "alias.compensation_for_harm_caused",
-    "alias.product_service_provider_must_conform_to_express_warranty_or_contract_terms",
-    "alias.product_service_provider_must_issue_adequate_instructions_or_warnings",
-    "alias.product_service_provider_must_not_withhold_information",
-    "alias.product_service_provider_must_provide_service_of_required_quality",
+    "remedy.compensation",
+    "obligation.product_service_provider_must_conform_to_express_warranty_or",
+    "obligation.product_service_provider_must_issue_adequate_instructions_or",
+    "obligation.product_service_provider_must_not_withhold_information",
     "evidence.contract",
     "evidence.warranty"
   ],

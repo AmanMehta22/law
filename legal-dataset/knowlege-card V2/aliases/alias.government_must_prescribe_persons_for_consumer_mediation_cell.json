@@ -14,13 +14,9 @@
     "obligation.government_must_prescribe_persons_for_consumer_mediation_cel"
   ],
   "related_concepts": [
-    "alias.consumer_mediation_cell",
     "authority.consumer_mediation_cell",
-    "intent.consumer_mediation_cell",
-    "intent.consumer_mediation_cell_2",
-    "intent.district_commission_references_consumer_mediation_cell",
-    "intent.government_must_prescribe_persons_for_consumer_mediation_cell",
-    "intent.government_must_prescribe_persons_for_consumer_mediation_cell_2"
+    "relationship.district_commission_references_consumer_mediation_cell",
+    "obligation.government_must_prescribe_persons_for_consumer_mediation_cel"
   ],
   "search": {
     "keywords": [

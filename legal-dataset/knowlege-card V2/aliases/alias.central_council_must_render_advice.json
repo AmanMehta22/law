@@ -13,13 +13,9 @@
     "obligation.central_council_must_render_advice_on_promotion_and_protecti"
   ],
   "related_concepts": [
-    "alias.central_council",
-    "alias.right_to_protection",
     "authority.central_council",
-    "intent.central_council",
-    "intent.central_council_2",
-    "intent.central_council_must_render_advice",
-    "intent.central_council_must_render_advice_2"
+    "right.right_to_protection",
+    "obligation.central_council_must_render_advice_on_promotion_and_protecti"
   ],
   "search": {
     "keywords": [

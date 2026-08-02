@@ -14,11 +14,7 @@
   "derived_from": [
     "CPA2019-CH3-S22-5"
   ],
-  "related_concepts": [
-    "alias.analysis_or_tests_shall_apply_mutatis_mutandis",
-    "intent.analysis_or_tests_shall_apply_mutatis_mutandis",
-    "intent.analysis_or_tests_shall_apply_mutatis_mutandis_2"
-  ],
+  "related_concepts": [],
   "search": {
     "keywords": [
       "perishable articles",

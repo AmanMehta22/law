@@ -20,13 +20,9 @@
     "definition.regulations"
   ],
   "related_concepts": [
-    "alias.central_authority",
-    "alias.national_commission",
     "authority.central_authority",
     "authority.national_commission",
-    "definition.regulations",
-    "intent.central_authority",
-    "intent.central_authority_2"
+    "definition.regulations"
   ],
   "search": {
     "keywords": [

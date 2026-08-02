@@ -17,10 +17,10 @@
     "CPA2019-CH2-S6-2",
     "CPA2019-CH4-S39-4",
     "CPA2019-CH8-S102-2",
-    "relationship.alias_district_commission_references_alias_central_government"
+    "relationship.district_commission_references_central_government"
   ],
   "related_concepts": [
-    "relationship.alias_district_commission_references_alias_central_government"
+    "relationship.district_commission_references_central_government"
   ],
   "search": {
     "keywords": [

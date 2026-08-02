@@ -19,13 +19,12 @@
     "definition.product_liability_action"
   ],
   "related_concepts": [
-    "alias.compensation_for_harm_caused",
-    "alias.district_commission",
-    "alias.filing_a_product_liability_action",
-    "alias.national_commission",
-    "alias.right_to_compensation",
-    "alias.state_commission",
-    "authority.district_commission"
+    "remedy.compensation",
+    "authority.district_commission",
+    "procedure.filing_a_product_liability_action",
+    "authority.national_commission",
+    "right.right_to_compensation",
+    "authority.state_commission"
   ],
   "search": {
     "keywords": [

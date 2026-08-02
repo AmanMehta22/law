@@ -20,13 +20,8 @@
     "CPA2019-CH1-S2-9"
   ],
   "related_concepts": [
-    "alias.deficiency",
-    "alias.right_to_information",
     "definition.deficiency",
-    "intent.deficiency",
-    "intent.deficiency_2",
-    "intent.deficiency_defines_right_to_information",
-    "intent.right_to_information"
+    "relationship.definition_deficiency_defines_right_right_to_information"
   ],
   "search": {
     "keywords": [

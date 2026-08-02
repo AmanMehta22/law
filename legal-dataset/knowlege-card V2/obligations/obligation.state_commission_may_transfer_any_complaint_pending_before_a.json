@@ -18,13 +18,8 @@
     "CPA2019-CH4-S48"
   ],
   "related_concepts": [
-    "alias.district_commission",
-    "alias.state_commission",
-    "alias.state_commission_must_transfer_complaint",
     "authority.district_commission",
-    "authority.state_commission",
-    "intent.district_commission",
-    "intent.district_commission_2"
+    "authority.state_commission"
   ],
   "search": {
     "keywords": [

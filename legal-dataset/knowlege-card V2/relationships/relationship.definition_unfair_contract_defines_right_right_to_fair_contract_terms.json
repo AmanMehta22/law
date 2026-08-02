@@ -12,13 +12,13 @@
     "CPA2019-CH1-S2-46"
   ],
   "related_concepts": [
-    "alias.party_to_the_contract_must_accept_early_repayment_of_debts",
-    "alias.party_to_the_contract_must_not_assign_contract_unilaterally_without_consumer_con",
-    "alias.party_to_the_contract_must_not_impose_disproportionate_penalties",
-    "alias.party_to_the_contract_must_not_impose_unreasonable_charges_or_conditions",
-    "alias.party_to_the_contract_must_not_require_excessive_security_deposits",
-    "alias.party_to_the_contract_must_not_terminate_contract_unilaterally_without_reasonabl",
-    "alias.right_to_fair_contract_terms"
+    "obligation.party_to_the_contract_must_accept_early_repayment_of_debts",
+    "obligation.party_to_the_contract_must_not_assign_contract_without_consu",
+    "obligation.party_to_the_contract_must_not_impose_disproportionate_penal",
+    "obligation.party_to_the_contract_must_not_impose_unreasonable_charges_o",
+    "obligation.party_to_the_contract_must_not_require_excessive_security_de",
+    "obligation.party_to_the_contract_must_not_terminate_contract_unilateral",
+    "right.right_to_fair_contract_terms"
   ],
   "search": {
     "keywords": [

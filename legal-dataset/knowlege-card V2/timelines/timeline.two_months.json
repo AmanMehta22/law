@@ -14,13 +14,9 @@
     "CPA2019-CH4-S58-3"
   ],
   "related_concepts": [
-    "alias.president",
-    "alias.resolution_of_differing_opinions",
-    "alias.time_limit_for_president_s_opinion",
     "authority.president",
-    "exception.provided_that_the_opinion_shall_be_given_within_a_period_of_",
-    "intent.president",
-    "intent.president_2"
+    "procedure.resolution_of_differing_opinions",
+    "exception.provided_that_the_opinion_shall_be_given_within_a_period_of_"
   ],
   "search": {
     "keywords": [

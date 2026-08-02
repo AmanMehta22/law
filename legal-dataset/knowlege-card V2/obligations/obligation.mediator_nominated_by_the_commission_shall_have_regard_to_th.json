@@ -17,13 +17,10 @@
     "CPA2019-CH5-S79-2"
   ],
   "related_concepts": [
-    "alias.district_commission",
-    "alias.mediation",
-    "alias.mediator_must_consider_relevant_factors",
-    "alias.national_commission",
-    "alias.state_commission",
     "authority.district_commission",
-    "authority.national_commission"
+    "definition.mediation",
+    "authority.national_commission",
+    "authority.state_commission"
   ],
   "search": {
     "keywords": [

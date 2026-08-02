@@ -14,10 +14,10 @@
     "CPA2019-CH7-S88",
     "CPA2019-CH7-S92",
     "CPA2019-CH8-S96-1",
-    "relationship.alias_court_references_alias_central_authority"
+    "relationship.court_references_central_authority"
   ],
   "related_concepts": [
-    "relationship.alias_court_references_alias_central_authority"
+    "relationship.court_references_central_authority"
   ],
   "search": {
     "keywords": [

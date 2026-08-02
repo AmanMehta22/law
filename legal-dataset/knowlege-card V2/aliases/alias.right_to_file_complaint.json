@@ -18,13 +18,9 @@
     "right.right_to_file_complaint"
   ],
   "related_concepts": [
-    "alias.central_authority",
-    "alias.commissioner_of_regional_office",
-    "alias.district_collector",
     "authority.central_authority",
     "authority.commissioner_of_regional_office",
-    "authority.district_collector",
-    "intent.central_authority"
+    "authority.district_collector"
   ],
   "search": {
     "keywords": [

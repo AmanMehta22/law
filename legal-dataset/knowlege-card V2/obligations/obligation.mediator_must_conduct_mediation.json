@@ -34,13 +34,10 @@
     "CPA2019-CH5-S79-3"
   ],
   "related_concepts": [
-    "alias.mediation",
-    "intent.district_commission_references_mediation",
-    "intent.district_commission_requires_mediation",
-    "intent.mediation",
-    "intent.mediation_4",
-    "intent.mediation_handled_by_commission",
-    "intent.mediation_handled_by_district_commission"
+    "definition.mediation",
+    "procedure.mediation",
+    "relationship.procedure_mediation_handled_by_authority_commission",
+    "relationship.procedure_mediation_handled_by_authority_district_commission"
   ],
   "search": {
     "keywords": [

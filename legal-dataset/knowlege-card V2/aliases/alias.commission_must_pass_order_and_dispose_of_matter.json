@@ -14,12 +14,9 @@
     "obligation.district_commission_or_state_commission_or_national_commissi"
   ],
   "related_concepts": [
-    "alias.district_commission",
-    "alias.national_commission",
-    "alias.settlement_disposal",
-    "alias.state_commission",
     "authority.district_commission",
     "authority.national_commission",
+    "procedure.settlement_disposal",
     "authority.state_commission"
   ],
   "search": {
