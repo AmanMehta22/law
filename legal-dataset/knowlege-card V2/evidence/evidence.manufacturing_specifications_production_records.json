@@ -5,11 +5,11 @@
   "description": "To establish deviation from manufacturing specifications",
   "content": {
     "required_documents": [
-      "Manufacturing specifications",
-      "Production records"
+      "manufacturing specifications",
+      "production records"
     ],
     "purpose": "To prove deviation from manufacturing specifications",
-    "mandatory": true
+    "mandatory": false
   },
   "derived_from": [
     "CPA2019-CH6-S84-1"

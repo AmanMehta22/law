@@ -7,10 +7,6 @@
     "steps": [
       {
         "order": 1,
-        "step": "Submission of affidavits"
-      },
-      {
-        "order": 2,
         "step": "Receiving of evidence on affidavits"
       }
     ],

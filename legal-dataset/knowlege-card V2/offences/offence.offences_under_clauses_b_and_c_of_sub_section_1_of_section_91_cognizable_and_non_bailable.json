@@ -1,0 +1,52 @@
+{
+  "concept_id": "offence.offences_under_clauses_b_and_c_of_sub_section_1_of_section_91_cognizable_and_non_bailable",
+  "concept_type": "offence",
+  "title": "Cognizable and Non-Bailable Offences under Section 91(2)",
+  "description": "The offences under clauses (b) and (c) of sub-section (1) of section 91 are cognizable and non-bailable",
+  "content": {
+    "offence": "Manufactures for sale or stores or sells or distributes or imports any spurious goods causing injury resulting in grievous hurt to the consumer (clause (b)) or resulting in the death of a consumer (clause (c))",
+    "punishment": "Cognizable and non-bailable; clause (b): imprisonment which may extend to seven years and fine which may extend to five lakh rupees; clause (c): imprisonment which shall not be less than seven years but may extend to imprisonment for life and fine which shall not be less than ten lakh rupees",
+    "applicable_section": "Section 91(2)"
+  },
+  "derived_from": [
+    "CPA2019-CH7-S91-2"
+  ],
+  "related_concepts": [
+    "alias.offences_under_clauses_b_and_c_of_sub_section_1_of_section_91_cognizable_and_non_bailable",
+    "intent.offences_under_clauses_b_and_c_of_sub_section_1_of_section_91_cognizable_and_non_bailable",
+    "intent.offences_under_clauses_b_and_c_of_sub_section_1_of_section_91_cognizable_and_non_bailable_2"
+  ],
+  "search": {
+    "keywords": [
+      "Spurious Goods",
+      "Consumer Protection",
+      "Punishment"
+    ],
+    "aliases": [
+      "Spurious Products",
+      "Counterfeit Goods",
+      "Fake Products",
+      "Manufacturing Fake Goods",
+      "Selling Counterfeit Products",
+      "Distributing Spurious Items",
+      "Importing Fake Goods"
+    ],
+    "user_queries": [
+      "What is the punishment for selling spurious goods that cause injury to a consumer?",
+      "Can a person be imprisoned for manufacturing spurious goods?",
+      "What is the fine for storing spurious goods that result in grievous hurt to a consumer?",
+      "Is importing spurious goods a cognizable offence?",
+      "What is the term of imprisonment for distributing spurious goods that cause death to a consumer?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "OffenceAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

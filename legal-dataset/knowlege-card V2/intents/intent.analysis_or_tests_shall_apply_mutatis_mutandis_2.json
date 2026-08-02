@@ -1,0 +1,57 @@
+{
+  "concept_id": "intent.analysis_or_tests_shall_apply_mutatis_mutandis_2",
+  "concept_type": "intent",
+  "title": "Questions about Exception for Articles Subject to Speedy or Natural Decay",
+  "description": "Natural language queries a user may ask about: ",
+  "content": {
+    "queries": [
+      "What is the role of the Director-General in disposing of perishable articles?",
+      "How do the provisions of Section 22 apply to articles that are subject to speedy or natural decay?",
+      "What are the consequences of not disposing of perishable articles in a timely manner?",
+      "Can the disposal of perishable articles be done without following the prescribed manner?",
+      "What are the responsibilities of the officer in charge of disposing of perishable articles?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S22-5",
+    "exception.analysis_or_tests_shall_apply_mutatis_mutandis",
+    "alias.analysis_or_tests_shall_apply_mutatis_mutandis"
+  ],
+  "related_concepts": [
+    "alias.analysis_or_tests_shall_apply_mutatis_mutandis"
+  ],
+  "search": {
+    "keywords": [
+      "perishable articles",
+      "disposal",
+      "speedy decay",
+      "natural decay"
+    ],
+    "aliases": [
+      "Perishable Goods",
+      "Decaying Articles",
+      "Speedy Decay",
+      "Natural Decay",
+      "Disposal of Perishable Items",
+      "Provisions for Perishable Articles",
+      "Article Disposal"
+    ],
+    "user_queries": [
+      "What happens to articles that are subject to speedy or natural decay?",
+      "How are perishable articles disposed of under the Consumer Protection Act?",
+      "What is the procedure for disposing of articles that are prone to decay?",
+      "Can the Director-General dispose of articles that are subject to speedy or natural decay?",
+      "What are the provisions for disposal of perishable articles under the Act?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

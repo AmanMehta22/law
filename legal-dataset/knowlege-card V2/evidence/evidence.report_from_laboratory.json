@@ -8,7 +8,7 @@
       "Report from laboratory"
     ],
     "purpose": "to find out whether such goods suffer from any defect alleged in the complaint",
-    "mandatory": true
+    "mandatory": false
   },
   "derived_from": [
     "CPA2019-CH4-S38-2"

@@ -9,7 +9,7 @@
       "Quality control records"
     ],
     "purpose": "To prove the product contains a manufacturing defect",
-    "mandatory": true
+    "mandatory": false
   },
   "derived_from": [
     "CPA2019-CH6-S84-1"

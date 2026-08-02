@@ -8,7 +8,7 @@
       "Warranty"
     ],
     "purpose": "To establish the express warranty",
-    "mandatory": true
+    "mandatory": false
   },
   "derived_from": [
     "CPA2019-CH6-S85"

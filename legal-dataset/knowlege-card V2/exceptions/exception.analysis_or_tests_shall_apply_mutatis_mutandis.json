@@ -1,0 +1,56 @@
+{
+  "concept_id": "exception.analysis_or_tests_shall_apply_mutatis_mutandis",
+  "concept_type": "exception",
+  "title": "Analysis or Tests Exception",
+  "description": "In the case of articles other than those subject to speedy or natural decay, the provisions of clause (c) of sub-section (2) of section 38 apply mutatis mutandis to analysis or tests",
+  "content": {
+    "general_rule": "In the case of articles subject to speedy or natural decay, the Director-General or such other officer may dispose of the article in such manner as may be prescribed, without referring it for analysis or test",
+    "exception": "In the case of articles other than the articles subject to speedy or natural decay, the provisions contained in clause (c) of sub-section (2) of section 38 shall mutatis mutandis apply in relation to analysis or tests",
+    "conditions": [
+      "the articles are other than those subject to speedy or natural decay",
+      "the provisions of clause (c) of sub-section (2) of section 38 (sealing samples and sending them to the appropriate laboratory for analysis or test) apply mutatis mutandis"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH3-S22-5"
+  ],
+  "related_concepts": [
+    "alias.analysis_or_tests_shall_apply_mutatis_mutandis",
+    "intent.analysis_or_tests_shall_apply_mutatis_mutandis",
+    "intent.analysis_or_tests_shall_apply_mutatis_mutandis_2"
+  ],
+  "search": {
+    "keywords": [
+      "perishable articles",
+      "disposal",
+      "speedy decay",
+      "natural decay"
+    ],
+    "aliases": [
+      "Perishable Goods",
+      "Decaying Articles",
+      "Speedy Decay",
+      "Natural Decay",
+      "Disposal of Perishable Items",
+      "Provisions for Perishable Articles",
+      "Article Disposal"
+    ],
+    "user_queries": [
+      "What happens to articles that are subject to speedy or natural decay?",
+      "How are perishable articles disposed of under the Consumer Protection Act?",
+      "What is the procedure for disposing of articles that are prone to decay?",
+      "Can the Director-General dispose of articles that are subject to speedy or natural decay?",
+      "What are the provisions for disposal of perishable articles under the Act?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

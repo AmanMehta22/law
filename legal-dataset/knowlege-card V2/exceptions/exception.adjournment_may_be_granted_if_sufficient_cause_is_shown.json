@@ -4,7 +4,7 @@
   "title": "Adjournment Exception",
   "description": "Adjournment not granted unless sufficient cause is shown",
   "content": {
-    "general_rule": "No adjournment shall be granted by the District Commission",
+    "general_rule": "No adjournment shall ordinarily be granted by the District Commission unless sufficient cause is shown and the reasons for grant of adjournment have been recorded in writing by the Commission",
     "exception": "Adjournment may be granted if sufficient cause is shown",
     "conditions": [
       "sufficient cause is shown",

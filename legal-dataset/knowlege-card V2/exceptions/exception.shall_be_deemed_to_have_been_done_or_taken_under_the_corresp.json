@@ -4,7 +4,7 @@
   "title": "Action taken under repealed Act",
   "description": "Action taken under repealed Act deemed done under this Act",
   "content": {
-    "general_rule": "Anything done or any action taken under the repealed Act is repealed",
+    "general_rule": "Anything done or any action taken under the repealed Act shall, in so far as it is not inconsistent with the provisions of this Act, be deemed to have been done or taken under the corresponding provisions of this Act",
     "exception": "Shall be deemed to have been done or taken under the corresponding provisions of this Act",
     "conditions": [
       "in so far as it is not inconsistent with the provisions of this Act"

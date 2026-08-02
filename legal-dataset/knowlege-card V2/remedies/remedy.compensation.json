@@ -5,7 +5,7 @@
   "description": "...",
   "content": {
     "remedy": "Compensation",
-    "available_when": "...",
+    "available_when": "when harm is caused to a consumer by a defective product manufactured or sold or by deficiency in services relating thereto",
     "conditions": [
       "the product is defective",
       "the product was manufactured by a product manufacturer or serviced by a product service provider or sold by a product seller",

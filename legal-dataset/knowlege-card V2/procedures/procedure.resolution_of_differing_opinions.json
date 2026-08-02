@@ -22,12 +22,8 @@
         "step": "Point or points are decided according to the opinion of the majority of the members who have heard the case, including those who first heard it"
       },
       {
-        "order": 3,
-        "step": "President either hears the point or points himself or refers the case for hearing by one or more other members"
-      },
-      {
-        "order": 4,
-        "step": "President or other member gives opinion on the point or points so referred within two months from the date of reference"
+        "order": 5,
+        "step": "President or other member gives opinion on the point or points so referred within a period of one month or two months from the date of such reference"
       }
     ],
     "authority": "President",

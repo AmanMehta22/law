@@ -7,22 +7,21 @@
     "steps": [
       {
         "order": 1,
-        "step": "furnishing information"
+        "step": "The National Commission and the State Commissions shall furnish to the Central Government periodically or as and when required, any information including the pendency of cases in such form and manner as may be prescribed"
+      },
+      {
+        "order": 2,
+        "step": "The State Commission shall furnish, periodically or as and when required to the State Government any information including pendency of cases in such form and manner as may be prescribed"
       }
     ],
-    "authority": "National Commission and State Commission",
+    "authority": "The National Commission, the State Commissions, the Central Government and the State Government",
     "documents": [
-      "bill",
-      "cash memo",
-      "receipt",
-      "copies or extracts of document, record or article",
-      "annual statement of accounts",
-      "annual report",
-      "other reports and returns"
+      "Not specified in the Act"
     ]
   },
   "derived_from": [
-    "CPA2019-CH8-S101-2"
+    "CPA2019-CH4-S70-4",
+    "CPA2019-CH4-S70-5"
   ],
   "related_concepts": [
     "alias.appeal_to_national_commission",

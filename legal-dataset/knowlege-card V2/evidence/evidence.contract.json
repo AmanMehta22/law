@@ -5,10 +5,10 @@
   "description": "To establish the terms and conditions of the contract",
   "content": {
     "required_documents": [
-      "Contract"
+      "Not specified in the Act"
     ],
     "purpose": "To establish the terms and conditions of the contract",
-    "mandatory": true
+    "mandatory": false
   },
   "derived_from": [
     "CPA2019-CH6-S85"

@@ -7,30 +7,14 @@
     "steps": [
       {
         "order": 1,
-        "step": "The District Commission identifies an error apparent on the face of the record or receives an application from a party within thirty days of the order"
+        "step": "The Commission identifies an error apparent on the face of the record or receives an application from a party within thirty days of the order"
       },
       {
         "order": 2,
-        "step": "The District Commission reviews the order"
-      },
-      {
-        "order": 1,
-        "step": "State Commission identifies error apparent on the face of the record or receives an application from a party within thirty days of the order"
-      },
-      {
-        "order": 2,
-        "step": "State Commission reviews the order"
-      },
-      {
-        "order": 1,
-        "step": "Error apparent on the face of the record is identified"
-      },
-      {
-        "order": 2,
-        "step": "Application made by any of the parties within thirty days of the order, or the National Commission acts on its own motion"
+        "step": "The Commission reviews the order"
       }
     ],
-    "authority": "District Commission",
+    "authority": "The District Commission, the State Commission, or the National Commission",
     "documents": [
       "application made by any of the parties",
       "error apparent on the face of the record"

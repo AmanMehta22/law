@@ -4,7 +4,7 @@
   "title": "Notice served by registered post",
   "description": "Declaration of notice served despite lack of acknowledgment",
   "content": {
-    "general_rule": "Notice is considered served when acknowledgment is received",
+    "general_rule": "Notice is considered served when acknowledgment is received or when notice was properly addressed, pre-paid and duly sent by registered post acknowledgment due, even if acknowledgment is lost or not received",
     "exception": "Notice is considered served even if acknowledgment is lost, misplaced or not received within 30 days",
     "conditions": [
       "notice was properly addressed",

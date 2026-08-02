@@ -7,15 +7,51 @@
     "steps": [
       {
         "order": 1,
-        "step": "Identify areas of research"
+        "step": "inquire or cause an inquiry or investigation to be made into violations of consumer rights or unfair trade practices, either suo motu or on a complaint received or on the directions from the Central Government"
       },
       {
         "order": 2,
-        "step": "Conduct research"
+        "step": "file complaints before the District Commission, the State Commission or the National Commission, as the case may be, under this Act"
       },
       {
         "order": 3,
-        "step": "Promote research findings"
+        "step": "intervene in any proceedings before the District Commission or the State Commission or the National Commission, as the case may be, in respect of any allegation of violation of consumer rights or unfair trade practices"
+      },
+      {
+        "order": 4,
+        "step": "review the matters relating to, and the factors inhibiting enjoyment of, consumer rights, including safeguards provided for the protection of consumers under any other law for the time being in force and recommend appropriate remedial measures for their effective implementation"
+      },
+      {
+        "order": 5,
+        "step": "recommend adoption of international covenants and best international practices on consumer rights to ensure effective enforcement of consumer rights"
+      },
+      {
+        "order": 6,
+        "step": "undertake and promote research in the field of consumer rights"
+      },
+      {
+        "order": 7,
+        "step": "spread and promote awareness on consumer rights"
+      },
+      {
+        "order": 8,
+        "step": "encourage non-Governmental organisations and other institutions working in the field of consumer rights to co-operate and work with consumer protection agencies"
+      },
+      {
+        "order": 9,
+        "step": "mandate the use of unique and universal goods identifiers in such goods, as may be necessary, to prevent unfair trade practices and to protect consumers’ interest"
+      },
+      {
+        "order": 10,
+        "step": "issue safety notices to alert consumers against dangerous or hazardous or unsafe goods or services"
+      },
+      {
+        "order": 11,
+        "step": "advise the Ministries and Departments of the Central and State Governments on consumer welfare measures"
+      },
+      {
+        "order": 12,
+        "step": "issue necessary guidelines to prevent unfair trade practices and protect consumers’ interest"
       }
     ],
     "authority": "Central Authority",

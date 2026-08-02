@@ -4,17 +4,14 @@
   "title": "Consumer excludes commercial purpose",
   "description": "...",
   "content": {
-    "general_rule": "At the first hearing of the complaint after its admission, or at any later stage, if it appears to the District Commission that there exists elements of a settlement which may be acceptable to the parties",
-    "exception": "Does not include a person who obtains goods for resale or commercial purpose",
+    "general_rule": "A person who buys any goods for a consideration or hires or avails of any service for a consideration",
+    "exception": "A person who obtains goods for resale or for any commercial purpose, or avails of a service for any commercial purpose",
     "conditions": [
-      "except in such cases as may be prescribed",
-      "The senior-most member shall preside over the Bench"
+      "except when such goods are bought and used exclusively for the purpose of earning livelihood by means of self-employment"
     ]
   },
   "derived_from": [
-    "CPA2019-CH4-S37-1",
-    "CPA2019-CH4-S38-12",
-    "CPA2019-CH4-S47-2"
+    "CPA2019-CH1-S2-7"
   ],
   "related_concepts": [
     "alias.district_commission",

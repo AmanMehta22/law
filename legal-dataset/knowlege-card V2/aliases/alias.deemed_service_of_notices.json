@@ -1,0 +1,61 @@
+{
+  "concept_id": "alias.deemed_service_of_notices",
+  "concept_type": "alias",
+  "title": "Service of Notices",
+  "description": "Alternative names and search aliases for: ",
+  "content": {
+    "aliases": [
+      "Notice Service",
+      "Serving Notices",
+      "Address for Notice",
+      "Notice Address",
+      "Service of Notice",
+      "Notice Delivery",
+      "Sufficient Service"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S65-4",
+    "procedure.deemed_service_of_notices"
+  ],
+  "related_concepts": [
+    "procedure.deemed_service_of_notices",
+    "intent.deemed_service_of_notices",
+    "intent.deemed_service_of_notices_2"
+  ],
+  "search": {
+    "keywords": [
+      "notice",
+      "service",
+      "opposite party",
+      "complainant",
+      "address"
+    ],
+    "aliases": [
+      "Notice Service",
+      "Serving Notices",
+      "Address for Notice",
+      "Notice Address",
+      "Service of Notice",
+      "Notice Delivery",
+      "Sufficient Service"
+    ],
+    "user_queries": [
+      "How are notices served on opposite parties?",
+      "What is the procedure for serving notices to complainants?",
+      "Where should notices be addressed for opposite parties?",
+      "Can notices be served at any address?",
+      "What is the effect of serving a notice at the specified address?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "AliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -11,7 +11,7 @@
       "evidence"
     ],
     "purpose": "to investigate consumer rights violation or unfair trade practice",
-    "mandatory": true
+    "mandatory": false
   },
   "derived_from": [
     "CPA2019-CH3-S22-1"

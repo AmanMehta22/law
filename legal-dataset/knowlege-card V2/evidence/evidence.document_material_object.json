@@ -9,7 +9,7 @@
       "material object"
     ],
     "purpose": "as evidence",
-    "mandatory": true
+    "mandatory": false
   },
   "derived_from": [
     "CPA2019-CH4-S38-9"

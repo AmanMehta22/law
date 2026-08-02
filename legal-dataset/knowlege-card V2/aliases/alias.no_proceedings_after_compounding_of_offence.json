@@ -1,0 +1,59 @@
+{
+  "concept_id": "alias.no_proceedings_after_compounding_of_offence",
+  "concept_type": "alias",
+  "title": "Compounding of Offences",
+  "description": "Alternative names and search aliases for: ",
+  "content": {
+    "aliases": [
+      "Compounding of crimes",
+      "Settling of offences",
+      "Withdrawal of prosecution",
+      "Payment of fine in lieu of prosecution",
+      "Compromise on offences",
+      "Out-of-court settlement",
+      "Discontinuance of proceedings"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S96-4",
+    "exception.no_proceedings_after_compounding_of_offence"
+  ],
+  "related_concepts": [
+    "exception.no_proceedings_after_compounding_of_offence",
+    "intent.no_proceedings_after_compounding_of_offence",
+    "intent.no_proceedings_after_compounding_of_offence_2"
+  ],
+  "search": {
+    "keywords": [
+      "compounding of offences",
+      "prosecution",
+      "fine"
+    ],
+    "aliases": [
+      "Compounding of crimes",
+      "Settling of offences",
+      "Withdrawal of prosecution",
+      "Payment of fine in lieu of prosecution",
+      "Compromise on offences",
+      "Out-of-court settlement",
+      "Discontinuance of proceedings"
+    ],
+    "user_queries": [
+      "Can an offence under section 88 be compounded after prosecution has started?",
+      "What is the condition for compounding an offence under section 89?",
+      "Can a complaint be filed under section 92 without leave of the court?",
+      "What is the maximum amount that can be imposed as a fine for a compounded offence?",
+      "Can an offence be compounded without payment of a prescribed amount?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "AliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

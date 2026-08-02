@@ -1,0 +1,56 @@
+{
+  "concept_id": "intent.offences_under_clauses_b_and_c_of_sub_section_1_of_section_91_cognizable_and_non_bailable",
+  "concept_type": "intent",
+  "title": "Questions about Offence of Manufacturing, Storing, Selling, Distributing or Importing Spurious Goods",
+  "description": "Natural language queries a user may ask about: ",
+  "content": {
+    "queries": [
+      "What is the punishment for selling spurious goods that cause injury to a consumer?",
+      "Can a person be imprisoned for manufacturing spurious goods?",
+      "What is the fine for storing spurious goods that result in grievous hurt to a consumer?",
+      "Is importing spurious goods a cognizable offence?",
+      "What is the term of imprisonment for distributing spurious goods that cause death to a consumer?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH7-S91-2",
+    "offence.offences_under_clauses_b_and_c_of_sub_section_1_of_section_91_cognizable_and_non_bailable",
+    "alias.offences_under_clauses_b_and_c_of_sub_section_1_of_section_91_cognizable_and_non_bailable"
+  ],
+  "related_concepts": [
+    "alias.offences_under_clauses_b_and_c_of_sub_section_1_of_section_91_cognizable_and_non_bailable"
+  ],
+  "search": {
+    "keywords": [
+      "Spurious Goods",
+      "Consumer Protection",
+      "Punishment"
+    ],
+    "aliases": [
+      "Spurious Products",
+      "Counterfeit Goods",
+      "Fake Products",
+      "Manufacturing Fake Goods",
+      "Selling Counterfeit Products",
+      "Distributing Spurious Items",
+      "Importing Fake Goods"
+    ],
+    "user_queries": [
+      "What is the punishment for selling spurious goods that cause injury to a consumer?",
+      "Can a person be imprisoned for manufacturing spurious goods?",
+      "What is the fine for storing spurious goods that result in grievous hurt to a consumer?",
+      "Is importing spurious goods a cognizable offence?",
+      "What is the term of imprisonment for distributing spurious goods that cause death to a consumer?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

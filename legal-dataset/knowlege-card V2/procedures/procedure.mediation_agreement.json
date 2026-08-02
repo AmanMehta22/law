@@ -7,7 +7,11 @@
     "steps": [
       {
         "order": 1,
-        "step": "..."
+        "step": "The terms of the agreement are reduced to writing"
+      },
+      {
+        "order": 2,
+        "step": "The written agreement is signed by the parties to the dispute or their authorised representatives"
       }
     ],
     "authority": "Mediation",

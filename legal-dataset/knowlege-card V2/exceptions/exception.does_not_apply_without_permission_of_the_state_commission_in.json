@@ -4,8 +4,8 @@
   "title": "Permission from State Commission",
   "description": "Institution of complaint in State Commission",
   "content": {
-    "general_rule": "A complaint shall be instituted in a State Commission within the limits of whose jurisdiction the opposite party or each of the opposite parties resides or carries on business",
-    "exception": "Does not apply without permission of the State Commission in case of voluntary residence or business of opposite party",
+    "general_rule": "A complaint shall be instituted in a State Commission within the limits of whose jurisdiction the opposite party or each of the opposite parties resides or carries on business or has a branch office or personally works for gain",
+    "exception": "Does not apply without permission of the State Commission in case of actual and voluntary residence or business of opposite party",
     "conditions": [
       "permission of the State Commission is given"
     ]

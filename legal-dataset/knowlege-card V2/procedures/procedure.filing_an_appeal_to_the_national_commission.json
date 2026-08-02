@@ -7,23 +7,15 @@
     "steps": [
       {
         "order": 1,
-        "step": "Order passed in appeal by a State Commission"
+        "step": "An order passed in appeal by any State Commission"
       },
       {
         "order": 2,
-        "step": "National Commission is satisfied that the case involves a substantial question of law"
+        "step": "The National Commission is satisfied that the case involves a substantial question of law"
       },
       {
         "order": 3,
-        "step": "Filing an appeal to the National Commission"
-      },
-      {
-        "order": 1,
-        "step": "Obtaining an ex parte order from the State Commission"
-      },
-      {
-        "order": 2,
-        "step": "Filing an appeal to the National Commission"
+        "step": "An order passed ex parte by the State Commission"
       }
     ],
     "authority": "National Commission",

@@ -4,7 +4,7 @@
   "title": "Product Liability Exception",
   "description": "Exception to product liability action",
   "content": {
-    "general_rule": "A product liability action can be brought against the product seller",
+    "general_rule": "A product liability action cannot be brought against the product seller if, at the time of harm, the product was misused, altered, or modified",
     "exception": "if the product was misused, altered, or modified at the time of harm",
     "conditions": [
       "the product was misused",

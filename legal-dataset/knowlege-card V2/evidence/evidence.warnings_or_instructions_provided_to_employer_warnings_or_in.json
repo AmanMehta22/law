@@ -10,7 +10,7 @@
       "Warnings or instructions provided to expert or class of experts"
     ],
     "purpose": "To establish that the product manufacturer had provided adequate warnings or instructions",
-    "mandatory": true
+    "mandatory": false
   },
   "derived_from": [
     "CPA2019-CH6-S87-2"

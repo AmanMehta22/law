@@ -1,0 +1,54 @@
+{
+  "concept_id": "intent.consumer_protection_act_2019",
+  "concept_type": "intent",
+  "title": "Questions about Consumer Protection Act, 2019",
+  "description": "Natural language queries a user may ask about: ",
+  "content": {
+    "queries": [
+      "What is the Consumer Protection Act, 2019?",
+      "What is the name of this Act?",
+      "What is the title of this Act?",
+      "What is the Consumer Protection Act, 2019 called?",
+      "What is the name of the Act?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S1-1",
+    "definition.consumer_protection_act_2019",
+    "alias.consumer_protection_act_2019"
+  ],
+  "related_concepts": [
+    "alias.consumer_protection_act_2019"
+  ],
+  "search": {
+    "keywords": [
+      "Consumer Protection Act",
+      "2019"
+    ],
+    "aliases": [
+      "Consumer Protection Act, 2019",
+      "CPA2019",
+      "The Consumer Protection Act, 2019",
+      "Consumer Protection Act, 2019",
+      "CPA2019",
+      "The Consumer Protection Act, 2019"
+    ],
+    "user_queries": [
+      "What is the Consumer Protection Act, 2019?",
+      "What is the name of this Act?",
+      "What is the title of this Act?",
+      "What is the Consumer Protection Act, 2019 called?",
+      "What is the name of the Act?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

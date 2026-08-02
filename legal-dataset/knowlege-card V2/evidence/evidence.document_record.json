@@ -9,7 +9,7 @@
       "record"
     ],
     "purpose": "For the purposes of investigation under sub-section (1)",
-    "mandatory": true
+    "mandatory": false
   },
   "derived_from": [
     "CPA2019-CH3-S19-3"

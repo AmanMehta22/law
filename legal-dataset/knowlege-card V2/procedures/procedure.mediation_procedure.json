@@ -7,19 +7,15 @@
     "steps": [
       {
         "order": 1,
-        "step": "Mediation between parties"
+        "step": "No agreement is reached between the parties within the specified time or the mediator is of the opinion that settlement is not possible"
       },
       {
         "order": 2,
-        "step": "Mediator's opinion on possibility of settlement"
+        "step": "The mediator shall prepare his report accordingly"
       },
       {
         "order": 3,
-        "step": "Preparation of mediator's report if settlement is not possible or no agreement is reached within specified time"
-      },
-      {
-        "order": 4,
-        "step": "Submission of mediator's report to the concerned Commission"
+        "step": "The mediator shall submit the report to the concerned Commission"
       }
     ],
     "authority": "Mediator",

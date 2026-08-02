@@ -9,7 +9,7 @@
       "Publication records"
     ],
     "purpose": "To prove that the person had published or arranged for the publication of the advertisement in the ordinary course of his business",
-    "mandatory": true
+    "mandatory": false
   },
   "derived_from": [
     "CPA2019-CH3-S21-6"

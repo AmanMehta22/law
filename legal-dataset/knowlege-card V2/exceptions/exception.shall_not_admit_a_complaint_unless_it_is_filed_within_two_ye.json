@@ -4,7 +4,7 @@
   "title": "Time limit for filing complaint",
   "description": "Complaint filing time limit exception",
   "content": {
-    "general_rule": "The District Commission, the State Commission or the National Commission shall admit a complaint",
+    "general_rule": "The District Commission, the State Commission or the National Commission shall not admit a complaint unless it is filed within two years from the date on which the cause of action has arisen.",
     "exception": "shall not admit a complaint unless it is filed within two years from the date on which the cause of action has arisen",
     "conditions": [
       "it is filed within two years from the date on which the cause of action has arisen"

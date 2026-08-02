@@ -5,7 +5,7 @@
   "description": "refund the consideration within the period stipulated in the bill or cash memo or receipt or in the absence of such stipulation, within a period",
   "content": {
     "duration": "a period",
-    "trigger": "after selling goods or rendering services",
+    "trigger": "Not specified in the Act",
     "exceptions": [
       "Not specified in the Act"
     ]

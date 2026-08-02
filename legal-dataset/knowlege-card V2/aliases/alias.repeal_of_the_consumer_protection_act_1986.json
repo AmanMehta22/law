@@ -1,0 +1,59 @@
+{
+  "concept_id": "alias.repeal_of_the_consumer_protection_act_1986",
+  "concept_type": "alias",
+  "title": "Repeal of the Consumer Protection Act, 1986",
+  "description": "Alternative names and search aliases for: ",
+  "content": {
+    "aliases": [
+      "Repeal of CPA 1986",
+      "Saving clause for CPA 1986 actions",
+      "Effect of repeal on previous actions",
+      "Relationship between old and new Act",
+      "Repeal and saving clause",
+      "CPA 1986 repeal and its implications",
+      "Repeal of old consumer protection act"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH8-S107-1",
+    "exception.repeal_of_the_consumer_protection_act_1986"
+  ],
+  "related_concepts": [
+    "exception.repeal_of_the_consumer_protection_act_1986",
+    "intent.repeal_of_the_consumer_protection_act_1986",
+    "intent.repeal_of_the_consumer_protection_act_1986_2"
+  ],
+  "search": {
+    "keywords": [
+      "repeal",
+      "saving clause",
+      "Consumer Protection Act, 1986"
+    ],
+    "aliases": [
+      "Repeal of CPA 1986",
+      "Saving clause for CPA 1986 actions",
+      "Effect of repeal on previous actions",
+      "Relationship between old and new Act",
+      "Repeal and saving clause",
+      "CPA 1986 repeal and its implications",
+      "Repeal of old consumer protection act"
+    ],
+    "user_queries": [
+      "What happens to actions taken under the Consumer Protection Act, 1986 after its repeal?",
+      "Is the Consumer Protection Act, 1986 still in force?",
+      "What is the effect of the repeal of the Consumer Protection Act, 1986 on previous actions?",
+      "Can actions taken under the repealed Act be challenged?",
+      "How does the repeal of the Consumer Protection Act, 1986 affect existing cases?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "AliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

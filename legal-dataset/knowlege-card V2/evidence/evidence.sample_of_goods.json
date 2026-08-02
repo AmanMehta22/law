@@ -8,7 +8,7 @@
       "Sample of goods"
     ],
     "purpose": "to determine whether such goods suffer from any defect alleged in the complaint",
-    "mandatory": true
+    "mandatory": false
   },
   "derived_from": [
     "CPA2019-CH4-S38-2"

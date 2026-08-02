@@ -8,7 +8,7 @@
       "Inquiry report"
     ],
     "purpose": "investigating into any allegations against the President and members of a State Commission",
-    "mandatory": true
+    "mandatory": false
   },
   "derived_from": [
     "CPA2019-CH4-S70-1"

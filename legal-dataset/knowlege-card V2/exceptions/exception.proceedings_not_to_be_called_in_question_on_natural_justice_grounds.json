@@ -1,0 +1,54 @@
+{
+  "concept_id": "exception.proceedings_not_to_be_called_in_question_on_natural_justice_grounds",
+  "concept_type": "exception",
+  "title": "Natural Justice Bar Exception",
+  "description": "Proceedings complying with the procedure laid down in sub-sections (1) and (2) of section 38 cannot be called in question in any court on natural justice grounds",
+  "content": {
+    "general_rule": "Proceedings before the District Commission shall be conducted in accordance with the procedure laid down in sub-sections (1) and (2) of section 38",
+    "exception": "No proceedings complying with the procedure laid down in sub-sections (1) and (2) shall be called in question in any court on the ground that the principles of natural justice have not been complied with",
+    "conditions": [
+      "the proceedings comply with the procedure laid down in sub-sections (1) and (2) of section 38"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-5"
+  ],
+  "related_concepts": [
+    "alias.proceedings_not_to_be_called_in_question_on_natural_justice_grounds",
+    "intent.proceedings_not_to_be_called_in_question_on_natural_justice_grounds",
+    "intent.proceedings_not_to_be_called_in_question_on_natural_justice_grounds_2"
+  ],
+  "search": {
+    "keywords": [
+      "Consumer Protection Act",
+      "Proceedings",
+      "Natural Justice"
+    ],
+    "aliases": [
+      "Proceedings Exception",
+      "Natural Justice Exception",
+      "Section 38 Exception",
+      "Consumer Dispute Settlement",
+      "District Commission Proceedings",
+      "Laboratory Analysis",
+      "Goods Testing"
+    ],
+    "user_queries": [
+      "What happens if a complaint is admitted by the District Commission?",
+      "How does the District Commission proceed with a complaint?",
+      "What is the role of the District Commission in settling a consumer dispute?",
+      "Can a complaint be referred to a laboratory for analysis or test?",
+      "What is the procedure for obtaining a sample of goods for analysis or test?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "ExceptionAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

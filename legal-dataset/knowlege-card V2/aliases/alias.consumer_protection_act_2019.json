@@ -1,0 +1,56 @@
+{
+  "concept_id": "alias.consumer_protection_act_2019",
+  "concept_type": "alias",
+  "title": "Consumer Protection Act, 2019",
+  "description": "Alternative names and search aliases for: ",
+  "content": {
+    "aliases": [
+      "Consumer Protection Act, 2019",
+      "CPA2019",
+      "The Consumer Protection Act, 2019",
+      "Consumer Protection Act, 2019",
+      "CPA2019",
+      "The Consumer Protection Act, 2019"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH1-S1-1",
+    "definition.consumer_protection_act_2019"
+  ],
+  "related_concepts": [
+    "definition.consumer_protection_act_2019",
+    "intent.consumer_protection_act_2019",
+    "intent.consumer_protection_act_2019_2"
+  ],
+  "search": {
+    "keywords": [
+      "Consumer Protection Act",
+      "2019"
+    ],
+    "aliases": [
+      "Consumer Protection Act, 2019",
+      "CPA2019",
+      "The Consumer Protection Act, 2019",
+      "Consumer Protection Act, 2019",
+      "CPA2019",
+      "The Consumer Protection Act, 2019"
+    ],
+    "user_queries": [
+      "What is the Consumer Protection Act, 2019?",
+      "What is the name of this Act?",
+      "What is the title of this Act?",
+      "What is the Consumer Protection Act, 2019 called?",
+      "What is the name of the Act?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "AliasAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

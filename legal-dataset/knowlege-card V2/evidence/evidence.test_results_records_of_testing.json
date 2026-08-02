@@ -5,11 +5,10 @@
   "description": "based on an adequate or proper test",
   "content": {
     "required_documents": [
-      "Test results",
-      "Records of testing"
+      "Not specified in the Act"
     ],
     "purpose": "To establish that the warranty or guarantee is based on adequate or proper test",
-    "mandatory": true
+    "mandatory": false
   },
   "derived_from": [
     "CPA2019-CH1-S2-47"

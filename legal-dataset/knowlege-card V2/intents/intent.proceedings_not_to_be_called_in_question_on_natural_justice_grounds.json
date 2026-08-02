@@ -1,0 +1,56 @@
+{
+  "concept_id": "intent.proceedings_not_to_be_called_in_question_on_natural_justice_grounds",
+  "concept_type": "intent",
+  "title": "Questions about Exception to Questioning of Proceedings",
+  "description": "Natural language queries a user may ask about: ",
+  "content": {
+    "queries": [
+      "What happens if a complaint is admitted by the District Commission?",
+      "How does the District Commission proceed with a complaint?",
+      "What is the role of the District Commission in settling a consumer dispute?",
+      "Can a complaint be referred to a laboratory for analysis or test?",
+      "What is the procedure for obtaining a sample of goods for analysis or test?"
+    ]
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-5",
+    "exception.proceedings_not_to_be_called_in_question_on_natural_justice_grounds",
+    "alias.proceedings_not_to_be_called_in_question_on_natural_justice_grounds"
+  ],
+  "related_concepts": [
+    "alias.proceedings_not_to_be_called_in_question_on_natural_justice_grounds"
+  ],
+  "search": {
+    "keywords": [
+      "Consumer Protection Act",
+      "Proceedings",
+      "Natural Justice"
+    ],
+    "aliases": [
+      "Proceedings Exception",
+      "Natural Justice Exception",
+      "Section 38 Exception",
+      "Consumer Dispute Settlement",
+      "District Commission Proceedings",
+      "Laboratory Analysis",
+      "Goods Testing"
+    ],
+    "user_queries": [
+      "What happens if a complaint is admitted by the District Commission?",
+      "How does the District Commission proceed with a complaint?",
+      "What is the role of the District Commission in settling a consumer dispute?",
+      "Can a complaint be referred to a laboratory for analysis or test?",
+      "What is the procedure for obtaining a sample of goods for analysis or test?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "IntentAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}
