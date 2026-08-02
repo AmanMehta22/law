@@ -1,0 +1,59 @@
+{
+  "concept_id": "relationship.alias_district_commission_references_alias_central_authority",
+  "concept_type": "relationship",
+  "title": "District Commission references Central Authority",
+  "description": "District Commission --references--> Central Authority",
+  "content": {
+    "source": "alias.district_commission",
+    "relationship": "references",
+    "target": "alias.central_authority"
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-5",
+    "CPA2019-CH4-S38-11"
+  ],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.complainant",
+    "alias.state_government",
+    "authority.central_authority",
+    "authority.central_government",
+    "authority.state_government"
+  ],
+  "search": {
+    "keywords": [
+      "district",
+      "commission",
+      "references",
+      "central",
+      "authority",
+      "alias"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is district commission references central authority?",
+      "How does district commission references central authority work?",
+      "Can you explain district commission references central authority?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

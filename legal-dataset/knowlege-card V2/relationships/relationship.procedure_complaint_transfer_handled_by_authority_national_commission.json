@@ -1,0 +1,55 @@
+{
+  "concept_id": "relationship.procedure_complaint_transfer_handled_by_authority_national_commission",
+  "concept_type": "relationship",
+  "title": "Complaint transfer handled by National Commission",
+  "description": "Complaint transfer --handled_by--> National Commission",
+  "content": {
+    "source": "procedure.complaint_transfer",
+    "relationship": "handled_by",
+    "target": "authority.national_commission"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S62"
+  ],
+  "related_concepts": [
+    "alias.complaint_transfer",
+    "alias.district_commission",
+    "alias.national_commission",
+    "alias.national_commission_must_consider_transfer_of_complaint",
+    "alias.state_commission",
+    "authority.district_commission",
+    "authority.national_commission"
+  ],
+  "search": {
+    "keywords": [
+      "complaint",
+      "transfer",
+      "handled",
+      "national",
+      "commission",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "complaint redirection",
+      "complaint relocation",
+      "transfer of case",
+      "transfer of complaint"
+    ],
+    "user_queries": [
+      "What is complaint transfer handled by national commission?",
+      "How does complaint transfer handled by national commission work?",
+      "Can you explain complaint transfer handled by national commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

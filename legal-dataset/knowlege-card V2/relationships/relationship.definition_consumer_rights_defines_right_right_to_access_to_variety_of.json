@@ -1,0 +1,58 @@
+{
+  "concept_id": "relationship.definition_consumer_rights_defines_right_right_to_access_to_variety_of",
+  "concept_type": "relationship",
+  "title": "Consumer Rights defines Right to Access to Variety of Goods",
+  "description": "Consumer Rights --defines--> Right to Access to Variety of Goods",
+  "content": {
+    "source": "definition.consumer_rights",
+    "relationship": "defines",
+    "target": "right.right_to_access_to_variety_of_goods"
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-9"
+  ],
+  "related_concepts": [
+    "alias.consumer_rights",
+    "alias.redressal_against_unfair_trade_practice",
+    "alias.right_to_access_to_variety_of_goods",
+    "alias.right_to_be_heard",
+    "alias.right_to_consumer_awareness",
+    "alias.right_to_information",
+    "alias.right_to_protection_against_hazardous_goods"
+  ],
+  "search": {
+    "keywords": [
+      "consumer",
+      "rights",
+      "defines",
+      "right",
+      "access",
+      "variety",
+      "goods",
+      "definition"
+    ],
+    "aliases": [
+      "Buyer Rights",
+      "Consumer Protection",
+      "Consumer Welfare",
+      "Customer Rights",
+      "consumer interests",
+      "customer rights"
+    ],
+    "user_queries": [
+      "What is consumer rights defines right to access to variety of goods?",
+      "How does consumer rights defines right to access to variety of goods work?",
+      "Can you explain consumer rights defines right to access to variety of goods?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

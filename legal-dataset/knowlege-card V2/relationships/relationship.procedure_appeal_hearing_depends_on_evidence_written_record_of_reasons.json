@@ -1,0 +1,56 @@
+{
+  "concept_id": "relationship.procedure_appeal_hearing_depends_on_evidence_written_record_of_reasons",
+  "concept_type": "relationship",
+  "title": "Appeal Hearing depends on Reasons for grant of adjournment",
+  "description": "Appeal Hearing --depends_on--> Reasons for grant of adjournment",
+  "content": {
+    "source": "procedure.appeal_hearing",
+    "relationship": "depends_on",
+    "target": "evidence.written_record_of_reasons"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S52"
+  ],
+  "related_concepts": [
+    "alias.adjournment_exception",
+    "alias.appeal_hearing",
+    "alias.national_commission",
+    "alias.right_to_expedient_hearing_of_appeal",
+    "alias.state_commission",
+    "authority.national_commission",
+    "authority.state_commission"
+  ],
+  "search": {
+    "keywords": [
+      "appeal",
+      "hearing",
+      "depends",
+      "reasons",
+      "grant",
+      "adjournment",
+      "procedure",
+      "evidence",
+      "written",
+      "record"
+    ],
+    "aliases": [
+      "delay",
+      "postponement"
+    ],
+    "user_queries": [
+      "What is appeal hearing depends on reasons for grant of adjournment?",
+      "How does appeal hearing depends on reasons for grant of adjournment work?",
+      "Can you explain appeal hearing depends on reasons for grant of adjournment?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

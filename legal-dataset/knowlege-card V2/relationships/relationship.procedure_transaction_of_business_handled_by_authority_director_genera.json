@@ -1,0 +1,59 @@
+{
+  "concept_id": "relationship.procedure_transaction_of_business_handled_by_authority_director_genera",
+  "concept_type": "relationship",
+  "title": "Transaction of business handled by Director-General",
+  "description": "Transaction of business --handled_by--> Director-General",
+  "content": {
+    "source": "procedure.transaction_of_business",
+    "relationship": "handled_by",
+    "target": "authority.director_general"
+  },
+  "derived_from": [
+    "CPA2019-CH8-S104-2"
+  ],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_authority_must_receive_inquiry_or_investigation_report",
+    "alias.director_general",
+    "alias.engaging_experts_and_professionals",
+    "alias.mediation_time_limit",
+    "alias.submission_of_inquiries_or_investigation",
+    "alias.transaction_of_business"
+  ],
+  "search": {
+    "keywords": [
+      "transaction",
+      "business",
+      "handled",
+      "director",
+      "general",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is transaction of business handled by director-general?",
+      "How does transaction of business handled by director-general work?",
+      "Can you explain transaction of business handled by director-general?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

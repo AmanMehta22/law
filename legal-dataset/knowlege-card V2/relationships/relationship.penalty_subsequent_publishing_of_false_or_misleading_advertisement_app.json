@@ -1,0 +1,61 @@
+{
+  "concept_id": "relationship.penalty_subsequent_publishing_of_false_or_misleading_advertisement_app",
+  "concept_type": "relationship",
+  "title": "Penalty for subsequent false or misleading advertisement applies to Misleading advertisement",
+  "description": "Penalty for subsequent false or misleading advertisement --applies_to--> Misleading advertisement",
+  "content": {
+    "source": "penalty.subsequent_publishing_of_false_or_misleading_advertisement",
+    "relationship": "applies_to",
+    "target": "offence.a_manufacturer_or_service_provider_who_causes_a_false_or_misleading_advertisemen"
+  },
+  "derived_from": [
+    "CPA2019-CH7-S89"
+  ],
+  "related_concepts": [
+    "alias.misleading_advertisement",
+    "intent.central_authority_references_misleading_advertisement",
+    "intent.court_references_misleading_advertisement",
+    "intent.misleading_advertisement",
+    "intent.misleading_advertisement_4",
+    "intent.penalty_for_false_or_misleading_advertisement_2",
+    "intent.penalty_for_false_or_misleading_advertisement_applies_to_misleading_advertisemen"
+  ],
+  "search": {
+    "keywords": [
+      "penalty",
+      "subsequent",
+      "false",
+      "misleading",
+      "advertisement",
+      "applies",
+      "publishing",
+      "offence",
+      "manufacturer",
+      "service"
+    ],
+    "aliases": [
+      "Deceptive Advertising",
+      "False Ad",
+      "Fraudulent Claim",
+      "Misleading Promo",
+      "Untrue Advertisement",
+      "deceptive advertising",
+      "false ad"
+    ],
+    "user_queries": [
+      "What is penalty for subsequent false or misleading advertisement applies to misleading advertisement?",
+      "How does penalty for subsequent false or misleading advertisement applies to misleading advertisement work?",
+      "Can you explain penalty for subsequent false or misleading advertisement applies to misleading advertisement?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

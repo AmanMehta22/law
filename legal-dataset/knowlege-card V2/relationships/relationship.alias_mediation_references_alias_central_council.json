@@ -1,0 +1,54 @@
+{
+  "concept_id": "relationship.alias_mediation_references_alias_central_council",
+  "concept_type": "relationship",
+  "title": "Mediation references Central Council",
+  "description": "Mediation --references--> Central Council",
+  "content": {
+    "source": "alias.mediation",
+    "relationship": "references",
+    "target": "alias.central_council"
+  },
+  "derived_from": [
+    "CPA2019-CH2-S3-2",
+    "CPA2019-CH2-S4-2",
+    "CPA2019-CH8-S101-2"
+  ],
+  "related_concepts": [
+    "alias.central_council",
+    "alias.central_government_must_prescribe_interests",
+    "authority.central_council",
+    "intent.central_council",
+    "intent.central_council_2",
+    "intent.central_government_must_prescribe_interests",
+    "intent.central_government_must_prescribe_interests_2"
+  ],
+  "search": {
+    "keywords": [
+      "mediation",
+      "references",
+      "central",
+      "council",
+      "alias"
+    ],
+    "aliases": [
+      "Central Consumer Council",
+      "Consumer Council",
+      "National Council"
+    ],
+    "user_queries": [
+      "What is mediation references central council?",
+      "How does mediation references central council work?",
+      "Can you explain mediation references central council?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

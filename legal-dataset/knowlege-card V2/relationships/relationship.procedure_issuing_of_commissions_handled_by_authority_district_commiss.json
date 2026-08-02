@@ -1,0 +1,55 @@
+{
+  "concept_id": "relationship.procedure_issuing_of_commissions_handled_by_authority_district_commiss",
+  "concept_type": "relationship",
+  "title": "Issuing of commissions handled by District Commission",
+  "description": "Issuing of commissions --handled_by--> District Commission",
+  "content": {
+    "source": "procedure.issuing_of_commissions",
+    "relationship": "handled_by",
+    "target": "authority.district_commission"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-9"
+  ],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.discovery_and_production_of_evidence",
+    "alias.district_commission",
+    "alias.district_commission_must_exercise_powers",
+    "alias.issuing_of_commissions",
+    "alias.receiving_evidence_on_affidavits",
+    "alias.requisitioning_of_report"
+  ],
+  "search": {
+    "keywords": [
+      "issuing",
+      "commissions",
+      "handled",
+      "district",
+      "commission",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government"
+    ],
+    "user_queries": [
+      "What is issuing of commissions handled by district commission?",
+      "How does issuing of commissions handled by district commission work?",
+      "Can you explain issuing of commissions handled by district commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

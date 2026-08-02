@@ -1,0 +1,60 @@
+{
+  "concept_id": "relationship.procedure_review_of_state_commission_decisions_handled_by_authority_na",
+  "concept_type": "relationship",
+  "title": "Review of State Commission decisions handled by National Commission",
+  "description": "Review of State Commission decisions --handled_by--> National Commission",
+  "content": {
+    "source": "procedure.review_of_state_commission_decisions",
+    "relationship": "handled_by",
+    "target": "authority.national_commission"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S58-1"
+  ],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.filing_of_complaints_and_appeals_with_the_national_commission",
+    "alias.national_commission",
+    "alias.review_of_state_commission_decisions",
+    "alias.right_to_appeal",
+    "alias.state_commission"
+  ],
+  "search": {
+    "keywords": [
+      "review",
+      "state",
+      "commission",
+      "decisions",
+      "handled",
+      "national",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is review of state commission decisions handled by national commission?",
+      "How does review of state commission decisions handled by national commission work?",
+      "Can you explain review of state commission decisions handled by national commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

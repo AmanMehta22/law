@@ -1,0 +1,52 @@
+{
+  "concept_id": "relationship.procedure_complaint_disposal_enables_right_right_to_expedient_disposal",
+  "concept_type": "relationship",
+  "title": "Complaint disposal enables Right to Expedient Disposal of Complaint",
+  "description": "Complaint disposal --enables--> Right to Expedient Disposal of Complaint",
+  "content": {
+    "source": "procedure.complaint_disposal",
+    "relationship": "enables",
+    "target": "right.right_to_expedient_disposal_of_complaint"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-7"
+  ],
+  "related_concepts": [
+    "alias.adjournment_exception",
+    "alias.complaint_disposal",
+    "alias.district_commission",
+    "alias.district_commission_must_dispose_of_complaint_within_a_period",
+    "alias.district_commission_must_make_orders_for_costs_of_adjournment",
+    "alias.district_commission_must_not_grant_adjournment_without_sufficient_cause",
+    "alias.district_commission_must_record_reasons_for_adjournment"
+  ],
+  "search": {
+    "keywords": [
+      "complaint",
+      "disposal",
+      "enables",
+      "right",
+      "expedient",
+      "procedure"
+    ],
+    "aliases": [
+      "delay",
+      "postponement"
+    ],
+    "user_queries": [
+      "What is complaint disposal enables right to expedient disposal of complaint?",
+      "How does complaint disposal enables right to expedient disposal of complaint work?",
+      "Can you explain complaint disposal enables right to expedient disposal of complaint?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

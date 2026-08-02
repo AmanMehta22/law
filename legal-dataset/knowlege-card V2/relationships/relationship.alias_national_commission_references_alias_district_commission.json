@@ -1,0 +1,53 @@
+{
+  "concept_id": "relationship.alias_national_commission_references_alias_district_commission",
+  "concept_type": "relationship",
+  "title": "National Commission references District Commission",
+  "description": "National Commission --references--> District Commission",
+  "content": {
+    "source": "alias.national_commission",
+    "relationship": "references",
+    "target": "alias.district_commission"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S47-1",
+    "CPA2019-CH4-S51-1"
+  ],
+  "related_concepts": [
+    "alias.calling_for_records_and_passing_orders",
+    "alias.central_government",
+    "alias.central_government_override",
+    "alias.district_commission",
+    "alias.filing_appeals_with_the_state_commission",
+    "alias.filing_complaints_with_the_state_commission",
+    "alias.pecuniary_jurisdiction_of_state_commission"
+  ],
+  "search": {
+    "keywords": [
+      "national",
+      "commission",
+      "references",
+      "district",
+      "alias"
+    ],
+    "aliases": [
+      "calling for records",
+      "calling for records and passing orders",
+      "records and orders"
+    ],
+    "user_queries": [
+      "What is national commission references district commission?",
+      "How does national commission references district commission work?",
+      "Can you explain national commission references district commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

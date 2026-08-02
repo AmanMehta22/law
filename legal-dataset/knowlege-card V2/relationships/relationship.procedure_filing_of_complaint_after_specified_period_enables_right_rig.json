@@ -1,0 +1,56 @@
+{
+  "concept_id": "relationship.procedure_filing_of_complaint_after_specified_period_enables_right_rig",
+  "concept_type": "relationship",
+  "title": "Filing of complaint after specified period enables Right to File a Late Complaint",
+  "description": "Filing of complaint after specified period --enables--> Right to File a Late Complaint",
+  "content": {
+    "source": "procedure.filing_of_complaint_after_specified_period",
+    "relationship": "enables",
+    "target": "right.right_to_file_a_late_complaint"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S69-2"
+  ],
+  "related_concepts": [
+    "alias.complainant_must_satisfy_the_commission",
+    "alias.complaint_filing_time_limit_exception",
+    "alias.district_commission",
+    "alias.filing_of_complaint_after_specified_period",
+    "alias.national_commission",
+    "alias.right_to_file_a_late_complaint",
+    "alias.state_commission"
+  ],
+  "search": {
+    "keywords": [
+      "filing",
+      "complaint",
+      "after",
+      "specified",
+      "period",
+      "enables",
+      "right",
+      "file",
+      "late",
+      "procedure"
+    ],
+    "aliases": [
+      "applicant",
+      "consumer"
+    ],
+    "user_queries": [
+      "What is filing of complaint after specified period enables right to file a late complaint?",
+      "How does filing of complaint after specified period enables right to file a late complaint work?",
+      "Can you explain filing of complaint after specified period enables right to file a late complaint?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

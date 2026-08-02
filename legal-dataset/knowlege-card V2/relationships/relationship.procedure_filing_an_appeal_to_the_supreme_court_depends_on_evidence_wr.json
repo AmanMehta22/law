@@ -1,0 +1,60 @@
+{
+  "concept_id": "relationship.procedure_filing_an_appeal_to_the_supreme_court_depends_on_evidence_wr",
+  "concept_type": "relationship",
+  "title": "Filing an appeal to the Supreme Court depends on Proof of sufficient cause",
+  "description": "Filing an appeal to the Supreme Court --depends_on--> Proof of sufficient cause",
+  "content": {
+    "source": "procedure.filing_an_appeal_to_the_supreme_court",
+    "relationship": "depends_on",
+    "target": "evidence.written_explanation"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S67"
+  ],
+  "related_concepts": [
+    "alias.appeal_time_limit",
+    "alias.filing_an_appeal_to_the_supreme_court",
+    "alias.national_commission",
+    "alias.proof_of_sufficient_cause",
+    "alias.right_to_appeal",
+    "alias.supreme_court",
+    "authority.national_commission"
+  ],
+  "search": {
+    "keywords": [
+      "filing",
+      "appeal",
+      "supreme",
+      "court",
+      "depends",
+      "proof",
+      "sufficient",
+      "cause",
+      "procedure",
+      "evidence"
+    ],
+    "aliases": [
+      "appeal deadline",
+      "filing appeal",
+      "opposite party response",
+      "time limit for appeal",
+      "time limit for application",
+      "time to respond"
+    ],
+    "user_queries": [
+      "What is filing an appeal to the supreme court depends on proof of sufficient cause?",
+      "How does filing an appeal to the supreme court depends on proof of sufficient cause work?",
+      "Can you explain filing an appeal to the supreme court depends on proof of sufficient cause?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

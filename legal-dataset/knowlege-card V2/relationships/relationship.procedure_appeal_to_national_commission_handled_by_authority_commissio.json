@@ -1,0 +1,55 @@
+{
+  "concept_id": "relationship.procedure_appeal_to_national_commission_handled_by_authority_commissio",
+  "concept_type": "relationship",
+  "title": "Appeal to National Commission handled by Commission",
+  "description": "Appeal to National Commission --handled_by--> Commission",
+  "content": {
+    "source": "procedure.appeal_to_national_commission",
+    "relationship": "handled_by",
+    "target": "authority.commission"
+  },
+  "derived_from": [
+    "CPA2019-CH8-S101-2"
+  ],
+  "related_concepts": [
+    "alias.appeal_to_national_commission",
+    "alias.appeal_to_state_commission",
+    "alias.authentication_of_goods",
+    "alias.deposit_of_amount",
+    "alias.filing_complaint",
+    "alias.furnishing_information",
+    "alias.government_must_make_rules"
+  ],
+  "search": {
+    "keywords": [
+      "appeal",
+      "national",
+      "commission",
+      "handled",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "appeal to national commission",
+      "appeal to national consumer commission",
+      "national appeal",
+      "national commission",
+      "national commission appeal"
+    ],
+    "user_queries": [
+      "What is appeal to national commission handled by commission?",
+      "How does appeal to national commission handled by commission work?",
+      "Can you explain appeal to national commission handled by commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

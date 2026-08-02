@@ -1,0 +1,56 @@
+{
+  "concept_id": "relationship.procedure_investigation_and_search_handled_by_authority_director_gener",
+  "concept_type": "relationship",
+  "title": "Investigation and Search handled by Director-General",
+  "description": "Investigation and Search --handled_by--> Director-General",
+  "content": {
+    "source": "procedure.investigation_and_search",
+    "relationship": "handled_by",
+    "target": "authority.director_general"
+  },
+  "derived_from": [
+    "CPA2019-CH3-S22-1"
+  ],
+  "related_concepts": [
+    "alias.director_general",
+    "alias.district_collector",
+    "alias.investigation_and_search",
+    "authority.director_general",
+    "authority.district_collector",
+    "evidence.document_record_article_evidence",
+    "intent.director_general"
+  ],
+  "search": {
+    "keywords": [
+      "investigation",
+      "search",
+      "handled",
+      "director",
+      "general",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "Chief Director",
+      "DG",
+      "Director General of Consumer Affairs",
+      "Head of Consumer Protection",
+      "Main Official"
+    ],
+    "user_queries": [
+      "What is investigation and search handled by director-general?",
+      "How does investigation and search handled by director-general work?",
+      "Can you explain investigation and search handled by director-general?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

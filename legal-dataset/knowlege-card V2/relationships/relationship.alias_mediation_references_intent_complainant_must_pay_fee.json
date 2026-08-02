@@ -1,0 +1,59 @@
+{
+  "concept_id": "relationship.alias_mediation_references_intent_complainant_must_pay_fee",
+  "concept_type": "relationship",
+  "title": "Mediation references Questions about Complainant must pay fee",
+  "description": "Mediation --references--> Questions about Complainant must pay fee",
+  "content": {
+    "source": "alias.mediation",
+    "relationship": "references",
+    "target": "intent.complainant_must_pay_fee"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S35-2",
+    "CPA2019-CH8-S101-2"
+  ],
+  "related_concepts": [
+    "intent.complainant_must_pay_fee",
+    "intent.mediation_references_questions_about_complainant_must_pay_fee",
+    "alias.appeal_to_national_commission",
+    "alias.appeal_to_state_commission",
+    "alias.authentication_of_goods",
+    "alias.deposit_of_amount",
+    "alias.filing_complaint"
+  ],
+  "search": {
+    "keywords": [
+      "mediation",
+      "references",
+      "questions",
+      "about",
+      "complainant",
+      "pay",
+      "fee",
+      "alias",
+      "intent"
+    ],
+    "aliases": [
+      "appeal to national commission",
+      "appeal to national consumer commission",
+      "national appeal",
+      "national commission",
+      "national commission appeal"
+    ],
+    "user_queries": [
+      "What is complainant must pay fee?",
+      "How does complainant must pay fee work?",
+      "Can you explain complainant must pay fee?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

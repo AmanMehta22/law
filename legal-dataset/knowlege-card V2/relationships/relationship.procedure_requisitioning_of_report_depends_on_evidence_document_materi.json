@@ -1,0 +1,57 @@
+{
+  "concept_id": "relationship.procedure_requisitioning_of_report_depends_on_evidence_document_materi",
+  "concept_type": "relationship",
+  "title": "Requisitioning of report depends on Document or other material object",
+  "description": "Requisitioning of report --depends_on--> Document or other material object",
+  "content": {
+    "source": "procedure.requisitioning_of_report",
+    "relationship": "depends_on",
+    "target": "evidence.document_material_object"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-9"
+  ],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.discovery_and_production_of_evidence",
+    "alias.district_commission",
+    "alias.district_commission_must_exercise_powers",
+    "alias.issuing_of_commissions",
+    "alias.receiving_evidence_on_affidavits",
+    "alias.requisitioning_of_report"
+  ],
+  "search": {
+    "keywords": [
+      "requisitioning",
+      "report",
+      "depends",
+      "document",
+      "other",
+      "material",
+      "object",
+      "procedure",
+      "evidence"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government"
+    ],
+    "user_queries": [
+      "What is requisitioning of report depends on document or other material object?",
+      "How does requisitioning of report depends on document or other material object work?",
+      "Can you explain requisitioning of report depends on document or other material object?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "concept_id": "relationship.procedure_meeting_of_district_council_handled_by_authority_district_co",
+  "concept_type": "relationship",
+  "title": "Meeting of District Council handled by District Council",
+  "description": "Meeting of District Council --handled_by--> District Council",
+  "content": {
+    "source": "procedure.meeting_of_district_council",
+    "relationship": "handled_by",
+    "target": "authority.district_council"
+  },
+  "derived_from": [
+    "CPA2019-CH2-S8-4"
+  ],
+  "related_concepts": [
+    "alias.district_council",
+    "alias.district_council_must_meet_and_observe_procedure",
+    "alias.meeting_of_district_council",
+    "authority.district_council",
+    "intent.district_commission_references_district_council",
+    "intent.district_council",
+    "intent.district_council_2"
+  ],
+  "search": {
+    "keywords": [
+      "meeting",
+      "district",
+      "council",
+      "handled",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "District Board",
+      "Local Council",
+      "Municipal Council"
+    ],
+    "user_queries": [
+      "What is meeting of district council handled by district council?",
+      "How does meeting of district council handled by district council work?",
+      "Can you explain meeting of district council handled by district council?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

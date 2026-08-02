@@ -1,0 +1,58 @@
+{
+  "concept_id": "relationship.procedure_investigation_handled_by_authority_central_government",
+  "concept_type": "relationship",
+  "title": "Investigation handled by Central Government",
+  "description": "Investigation --handled_by--> Central Government",
+  "content": {
+    "source": "procedure.investigation",
+    "relationship": "handled_by",
+    "target": "authority.central_government"
+  },
+  "derived_from": [
+    "CPA2019-CH3-S19-1"
+  ],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_authority_must_cause_investigation",
+    "alias.central_government",
+    "alias.director_general",
+    "alias.district_collector",
+    "alias.investigation",
+    "alias.preliminary_inquiry"
+  ],
+  "search": {
+    "keywords": [
+      "investigation",
+      "handled",
+      "central",
+      "government",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is investigation handled by central government?",
+      "How does investigation handled by central government work?",
+      "Can you explain investigation handled by central government?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

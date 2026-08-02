@@ -1,0 +1,56 @@
+{
+  "concept_id": "relationship.procedure_filing_an_appeal_handled_by_authority_central_authority",
+  "concept_type": "relationship",
+  "title": "Filing an appeal handled by Central Authority",
+  "description": "Filing an appeal --handled_by--> Central Authority",
+  "content": {
+    "source": "procedure.filing_an_appeal",
+    "relationship": "handled_by",
+    "target": "authority.central_authority"
+  },
+  "derived_from": [
+    "CPA2019-CH3-S24"
+  ],
+  "related_concepts": [
+    "alias.appeal_time_limit",
+    "alias.central_authority",
+    "alias.filing_an_appeal",
+    "alias.national_commission",
+    "alias.right_to_appeal",
+    "authority.central_authority",
+    "authority.national_commission"
+  ],
+  "search": {
+    "keywords": [
+      "filing",
+      "appeal",
+      "handled",
+      "central",
+      "authority",
+      "procedure"
+    ],
+    "aliases": [
+      "appeal deadline",
+      "filing appeal",
+      "opposite party response",
+      "time limit for appeal",
+      "time limit for application",
+      "time to respond"
+    ],
+    "user_queries": [
+      "What is filing an appeal handled by central authority?",
+      "How does filing an appeal handled by central authority work?",
+      "Can you explain filing an appeal handled by central authority?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

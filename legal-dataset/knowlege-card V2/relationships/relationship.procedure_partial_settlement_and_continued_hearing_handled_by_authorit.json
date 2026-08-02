@@ -1,0 +1,58 @@
+{
+  "concept_id": "relationship.procedure_partial_settlement_and_continued_hearing_handled_by_authorit",
+  "concept_type": "relationship",
+  "title": "Partial Settlement and Continued Hearing handled by Commission",
+  "description": "Partial Settlement and Continued Hearing --handled_by--> Commission",
+  "content": {
+    "source": "procedure.partial_settlement_and_continued_hearing",
+    "relationship": "handled_by",
+    "target": "authority.commission"
+  },
+  "derived_from": [
+    "CPA2019-CH5-S81-2"
+  ],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.national_commission",
+    "alias.partial_settlement_and_continued_hearing",
+    "alias.state_commission",
+    "authority.district_commission",
+    "authority.national_commission",
+    "authority.state_commission"
+  ],
+  "search": {
+    "keywords": [
+      "partial",
+      "settlement",
+      "continued",
+      "hearing",
+      "handled",
+      "commission",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is partial settlement and continued hearing handled by commission?",
+      "How does partial settlement and continued hearing handled by commission work?",
+      "Can you explain partial settlement and continued hearing handled by commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

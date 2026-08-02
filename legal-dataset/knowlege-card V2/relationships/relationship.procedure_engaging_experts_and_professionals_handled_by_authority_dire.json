@@ -1,0 +1,60 @@
+{
+  "concept_id": "relationship.procedure_engaging_experts_and_professionals_handled_by_authority_dire",
+  "concept_type": "relationship",
+  "title": "Engaging experts and professionals handled by Director-General",
+  "description": "Engaging experts and professionals --handled_by--> Director-General",
+  "content": {
+    "source": "procedure.engaging_experts_and_professionals",
+    "relationship": "handled_by",
+    "target": "authority.director_general"
+  },
+  "derived_from": [
+    "CPA2019-CH8-S104-2"
+  ],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_authority_must_receive_inquiry_or_investigation_report",
+    "alias.director_general",
+    "alias.engaging_experts_and_professionals",
+    "alias.mediation_time_limit",
+    "alias.submission_of_inquiries_or_investigation",
+    "alias.transaction_of_business"
+  ],
+  "search": {
+    "keywords": [
+      "engaging",
+      "experts",
+      "professionals",
+      "handled",
+      "director",
+      "general",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is engaging experts and professionals handled by director-general?",
+      "How does engaging experts and professionals handled by director-general work?",
+      "Can you explain engaging experts and professionals handled by director-general?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

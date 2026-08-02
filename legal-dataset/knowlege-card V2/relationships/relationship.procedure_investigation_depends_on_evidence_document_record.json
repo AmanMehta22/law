@@ -1,0 +1,58 @@
+{
+  "concept_id": "relationship.procedure_investigation_depends_on_evidence_document_record",
+  "concept_type": "relationship",
+  "title": "Investigation depends on Document or record",
+  "description": "Investigation --depends_on--> Document or record",
+  "content": {
+    "source": "procedure.investigation",
+    "relationship": "depends_on",
+    "target": "evidence.document_record"
+  },
+  "derived_from": [
+    "CPA2019-CH3-S19-3"
+  ],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.director_general",
+    "alias.district_collector",
+    "alias.investigation",
+    "authority.central_authority",
+    "authority.director_general",
+    "authority.district_collector"
+  ],
+  "search": {
+    "keywords": [
+      "investigation",
+      "depends",
+      "document",
+      "record",
+      "procedure",
+      "evidence"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is investigation depends on document or record?",
+      "How does investigation depends on document or record work?",
+      "Can you explain investigation depends on document or record?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

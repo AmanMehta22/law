@@ -1,0 +1,56 @@
+{
+  "concept_id": "relationship.procedure_complaint_filing_handled_by_authority_state_commission",
+  "concept_type": "relationship",
+  "title": "Complaint filing handled by State Commission",
+  "description": "Complaint filing --handled_by--> State Commission",
+  "content": {
+    "source": "procedure.complaint_filing",
+    "relationship": "handled_by",
+    "target": "authority.state_commission"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S47-4",
+    "CPA2019-CH4-S69-1"
+  ],
+  "related_concepts": [
+    "alias.complaint_filing",
+    "alias.permission_from_state_commission",
+    "alias.state_commission",
+    "authority.state_commission",
+    "exception.does_not_apply_without_permission_of_the_state_commission_in",
+    "intent.complaint_filing",
+    "intent.complaint_filing_2"
+  ],
+  "search": {
+    "keywords": [
+      "complaint",
+      "filing",
+      "handled",
+      "state",
+      "commission",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "complaint lodging",
+      "complaint registration",
+      "filing a complaint",
+      "submitting a complaint"
+    ],
+    "user_queries": [
+      "What is complaint filing handled by state commission?",
+      "How does complaint filing handled by state commission work?",
+      "Can you explain complaint filing handled by state commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

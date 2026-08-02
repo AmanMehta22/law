@@ -1,0 +1,54 @@
+{
+  "concept_id": "relationship.alias_district_commission_references_alias_state_council",
+  "concept_type": "relationship",
+  "title": "District Commission references State Council",
+  "description": "District Commission --references--> State Council",
+  "content": {
+    "source": "alias.district_commission",
+    "relationship": "references",
+    "target": "alias.state_council"
+  },
+  "derived_from": [
+    "CPA2019-CH2-S6-4",
+    "CPA2019-CH8-S102-2"
+  ],
+  "related_concepts": [
+    "alias.state_council",
+    "alias.transaction_of_state_council_business",
+    "authority.state_council",
+    "intent.district_commission_references_state_council",
+    "intent.state_council",
+    "intent.state_council_2",
+    "intent.state_council_meeting_procedure"
+  ],
+  "search": {
+    "keywords": [
+      "district",
+      "commission",
+      "references",
+      "state",
+      "council",
+      "alias"
+    ],
+    "aliases": [
+      "State Advisory Council",
+      "State Consumer Council",
+      "State Consumer Protection Council"
+    ],
+    "user_queries": [
+      "What is district commission references state council?",
+      "How does district commission references state council work?",
+      "Can you explain district commission references state council?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

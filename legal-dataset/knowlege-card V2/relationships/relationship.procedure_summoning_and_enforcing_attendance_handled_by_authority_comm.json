@@ -1,0 +1,55 @@
+{
+  "concept_id": "relationship.procedure_summoning_and_enforcing_attendance_handled_by_authority_comm",
+  "concept_type": "relationship",
+  "title": "Summoning and enforcing attendance handled by Commission",
+  "description": "Summoning and enforcing attendance --handled_by--> Commission",
+  "content": {
+    "source": "procedure.summoning_and_enforcing_attendance",
+    "relationship": "handled_by",
+    "target": "authority.commission"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-9"
+  ],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.discovery_and_production_of_evidence",
+    "alias.district_commission",
+    "alias.district_commission_must_exercise_powers",
+    "alias.issuing_of_commissions",
+    "alias.receiving_evidence_on_affidavits",
+    "alias.requisitioning_of_report"
+  ],
+  "search": {
+    "keywords": [
+      "summoning",
+      "enforcing",
+      "attendance",
+      "handled",
+      "commission",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government"
+    ],
+    "user_queries": [
+      "What is summoning and enforcing attendance handled by commission?",
+      "How does summoning and enforcing attendance handled by commission work?",
+      "Can you explain summoning and enforcing attendance handled by commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

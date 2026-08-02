@@ -1,0 +1,53 @@
+{
+  "concept_id": "relationship.definition_product_liability_action_defines_right_right_to_compensatio",
+  "concept_type": "relationship",
+  "title": "Product Liability Action defines Right to Compensation",
+  "description": "Product Liability Action --defines--> Right to Compensation",
+  "content": {
+    "source": "definition.product_liability_action",
+    "relationship": "defines",
+    "target": "right.right_to_compensation"
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-35"
+  ],
+  "related_concepts": [
+    "alias.compensation_for_harm_caused",
+    "alias.district_commission",
+    "alias.filing_a_product_liability_action",
+    "alias.national_commission",
+    "alias.product_liability_action",
+    "alias.right_to_compensation",
+    "alias.state_commission"
+  ],
+  "search": {
+    "keywords": [
+      "product",
+      "liability",
+      "action",
+      "defines",
+      "right",
+      "compensation",
+      "definition"
+    ],
+    "aliases": [
+      "damages",
+      "reparation"
+    ],
+    "user_queries": [
+      "What is product liability action defines right to compensation?",
+      "How does product liability action defines right to compensation work?",
+      "Can you explain product liability action defines right to compensation?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

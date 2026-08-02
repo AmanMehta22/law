@@ -1,0 +1,57 @@
+{
+  "concept_id": "relationship.procedure_adjournment_cost_imposition_by_district_commission_depends_o",
+  "concept_type": "relationship",
+  "title": "Adjournment cost imposition by District Commission depends on Quarterly report",
+  "description": "Adjournment cost imposition by District Commission --depends_on--> Quarterly report",
+  "content": {
+    "source": "procedure.adjournment_cost_imposition_by_district_commission",
+    "relationship": "depends_on",
+    "target": "evidence.quarterly_report"
+  },
+  "derived_from": [
+    "CPA2019-CH8-S103-2"
+  ],
+  "related_concepts": [
+    "alias.adjournment_cost_imposition_by_district_commission",
+    "alias.adjournment_cost_imposition_by_state_or_national_commission",
+    "alias.authority_must_provide_for_re_empanelment_of_mediators",
+    "alias.authority_must_set_qualifications_and_experience_for_empanelment_as_mediator",
+    "alias.conduct_of_mediation",
+    "alias.consumer_mediation_cell",
+    "alias.consumer_mediation_cell_must_maintain_information"
+  ],
+  "search": {
+    "keywords": [
+      "adjournment",
+      "cost",
+      "imposition",
+      "district",
+      "commission",
+      "depends",
+      "quarterly",
+      "report",
+      "procedure",
+      "evidence"
+    ],
+    "aliases": [
+      "adjournment cost",
+      "cost imposition by district commission",
+      "district commission cost"
+    ],
+    "user_queries": [
+      "What is adjournment cost imposition by district commission depends on quarterly report?",
+      "How does adjournment cost imposition by district commission depends on quarterly report work?",
+      "Can you explain adjournment cost imposition by district commission depends on quarterly report?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

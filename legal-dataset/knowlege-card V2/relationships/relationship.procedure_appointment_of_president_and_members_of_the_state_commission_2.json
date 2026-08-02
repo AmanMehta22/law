@@ -1,0 +1,57 @@
+{
+  "concept_id": "relationship.procedure_appointment_of_president_and_members_of_the_state_commission_2",
+  "concept_type": "relationship",
+  "title": "Appointment of President and members of the State Commission handled by State Commission",
+  "description": "Appointment of President and members of the State Commission --handled_by--> State Commission",
+  "content": {
+    "source": "procedure.appointment_of_president_and_members_of_the_state_commission",
+    "relationship": "handled_by",
+    "target": "authority.state_commission"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S43"
+  ],
+  "related_concepts": [
+    "alias.appointment_of_president_and_members_of_the_state_commission",
+    "alias.central_government",
+    "alias.central_government_must_make_rules_for_state_commission_appointments",
+    "alias.state_commission",
+    "authority.central_government",
+    "authority.state_commission",
+    "intent.appointment_of_president_and_members_of_the_state_commission"
+  ],
+  "search": {
+    "keywords": [
+      "appointment",
+      "president",
+      "members",
+      "state",
+      "commission",
+      "handled",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "president and members of the state commission",
+      "state commission",
+      "state commission appointment",
+      "state commission members",
+      "state commission president"
+    ],
+    "user_queries": [
+      "What is appointment of president and members of the state commission handled by state commission?",
+      "How does appointment of president and members of the state commission handled by state commission work?",
+      "Can you explain appointment of president and members of the state commission handled by state commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

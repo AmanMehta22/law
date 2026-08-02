@@ -1,0 +1,56 @@
+{
+  "concept_id": "relationship.procedure_trial_of_offences_handled_by_authority_commission",
+  "concept_type": "relationship",
+  "title": "Trial of offences handled by Commission",
+  "description": "Trial of offences --handled_by--> Commission",
+  "content": {
+    "source": "procedure.trial_of_offences",
+    "relationship": "handled_by",
+    "target": "authority.commission"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S72-3"
+  ],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.national_commission",
+    "alias.state_commission",
+    "alias.trial_of_offences",
+    "authority.district_commission",
+    "authority.national_commission",
+    "authority.state_commission"
+  ],
+  "search": {
+    "keywords": [
+      "trial",
+      "offences",
+      "handled",
+      "commission",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is trial of offences handled by commission?",
+      "How does trial of offences handled by commission work?",
+      "Can you explain trial of offences handled by commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

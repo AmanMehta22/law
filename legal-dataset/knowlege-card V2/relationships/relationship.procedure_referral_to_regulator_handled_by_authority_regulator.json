@@ -1,0 +1,57 @@
+{
+  "concept_id": "relationship.procedure_referral_to_regulator_handled_by_authority_regulator",
+  "concept_type": "relationship",
+  "title": "Referral to Regulator handled by Regulator",
+  "description": "Referral to Regulator --handled_by--> Regulator",
+  "content": {
+    "source": "procedure.referral_to_regulator",
+    "relationship": "handled_by",
+    "target": "authority.regulator"
+  },
+  "derived_from": [
+    "CPA2019-CH3-S19-2"
+  ],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_authority_must_refer_matter_to_regulator",
+    "alias.referral_to_regulator",
+    "alias.regulator",
+    "authority.central_authority",
+    "authority.regulator",
+    "intent.central_authority"
+  ],
+  "search": {
+    "keywords": [
+      "referral",
+      "regulator",
+      "handled",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is referral to regulator handled by regulator?",
+      "How does referral to regulator handled by regulator work?",
+      "Can you explain referral to regulator handled by regulator?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "concept_id": "relationship.procedure_replacement_of_mediator_handled_by_authority_commission",
+  "concept_type": "relationship",
+  "title": "Replacement of Mediator handled by Commission",
+  "description": "Replacement of Mediator --handled_by--> Commission",
+  "content": {
+    "source": "procedure.replacement_of_mediator",
+    "relationship": "handled_by",
+    "target": "authority.commission"
+  },
+  "derived_from": [
+    "CPA2019-CH5-S78"
+  ],
+  "related_concepts": [
+    "alias.replacement_of_mediator",
+    "intent.replacement_of_mediator",
+    "intent.replacement_of_mediator_2",
+    "intent.replacement_of_mediator_handled_by_commission",
+    "intent.replacement_of_mediator_handled_by_district_commission",
+    "intent.replacement_of_mediator_handled_by_national_commission",
+    "intent.replacement_of_mediator_handled_by_state_commission"
+  ],
+  "search": {
+    "keywords": [
+      "replacement",
+      "mediator",
+      "handled",
+      "commission",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "appointing a new mediator",
+      "change of mediator",
+      "mediator replacement process",
+      "mediator substitution",
+      "new mediator appointment"
+    ],
+    "user_queries": [
+      "What is replacement of mediator handled by commission?",
+      "How does replacement of mediator handled by commission work?",
+      "Can you explain replacement of mediator handled by commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

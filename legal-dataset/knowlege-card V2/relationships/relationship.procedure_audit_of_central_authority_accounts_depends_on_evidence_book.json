@@ -1,0 +1,60 @@
+{
+  "concept_id": "relationship.procedure_audit_of_central_authority_accounts_depends_on_evidence_book",
+  "concept_type": "relationship",
+  "title": "Audit of Central Authority accounts depends on Audit documents",
+  "description": "Audit of Central Authority accounts --depends_on--> Audit documents",
+  "content": {
+    "source": "procedure.audit_of_central_authority_accounts",
+    "relationship": "depends_on",
+    "target": "evidence.books_accounts_connected_vouchers_other_documents_and_papers"
+  },
+  "derived_from": [
+    "CPA2019-CH3-S26-3"
+  ],
+  "related_concepts": [
+    "alias.audit_of_central_authority_accounts",
+    "alias.comptroller_and_auditor_general_of_india",
+    "alias.right_to_demand_production_of_documents",
+    "authority.comptroller_and_auditor_general_of_india",
+    "evidence.books_accounts_connected_vouchers_other_documents_and_papers",
+    "intent.audit_documents",
+    "intent.audit_of_central_authority_accounts"
+  ],
+  "search": {
+    "keywords": [
+      "audit",
+      "central",
+      "authority",
+      "accounts",
+      "depends",
+      "documents",
+      "procedure",
+      "evidence",
+      "books",
+      "connected"
+    ],
+    "aliases": [
+      "account examination",
+      "audit of central authority",
+      "central authority",
+      "central authority accounts",
+      "central authority audit",
+      "financial inspection"
+    ],
+    "user_queries": [
+      "What is audit of central authority accounts depends on audit documents?",
+      "How does audit of central authority accounts depends on audit documents work?",
+      "Can you explain audit of central authority accounts depends on audit documents?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

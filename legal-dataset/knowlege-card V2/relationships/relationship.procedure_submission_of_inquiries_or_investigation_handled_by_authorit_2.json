@@ -1,0 +1,59 @@
+{
+  "concept_id": "relationship.procedure_submission_of_inquiries_or_investigation_handled_by_authorit_2",
+  "concept_type": "relationship",
+  "title": "Submission of inquiries or investigation handled by Director",
+  "description": "Submission of inquiries or investigation --handled_by--> Director",
+  "content": {
+    "source": "procedure.submission_of_inquiries_or_investigation",
+    "relationship": "handled_by",
+    "target": "authority.director"
+  },
+  "derived_from": [
+    "CPA2019-CH8-S104-2"
+  ],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_authority_must_receive_inquiry_or_investigation_report",
+    "alias.director_general",
+    "alias.engaging_experts_and_professionals",
+    "alias.mediation_time_limit",
+    "alias.submission_of_inquiries_or_investigation",
+    "alias.transaction_of_business"
+  ],
+  "search": {
+    "keywords": [
+      "submission",
+      "inquiries",
+      "investigation",
+      "handled",
+      "director",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is submission of inquiries or investigation handled by director?",
+      "How does submission of inquiries or investigation handled by director work?",
+      "Can you explain submission of inquiries or investigation handled by director?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

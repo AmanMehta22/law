@@ -1,0 +1,58 @@
+{
+  "concept_id": "relationship.alias_national_commission_references_alias_national_consumer_disputes_",
+  "concept_type": "relationship",
+  "title": "National Commission references National Consumer Disputes Redressal Commission",
+  "description": "National Commission --references--> National Consumer Disputes Redressal Commission",
+  "content": {
+    "source": "alias.national_commission",
+    "relationship": "references",
+    "target": "alias.national_consumer_disputes_redressal_commission"
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-29",
+    "CPA2019-CH4-S53-1"
+  ],
+  "related_concepts": [
+    "alias.national_commission",
+    "alias.national_consumer_disputes_redressal_commission",
+    "authority.national_consumer_disputes_redressal_commission",
+    "definition.national_commission",
+    "intent.national_commission",
+    "intent.national_commission_3",
+    "intent.national_commission_references_national_consumer_disputes_redressal_commission"
+  ],
+  "search": {
+    "keywords": [
+      "national",
+      "commission",
+      "references",
+      "consumer",
+      "disputes",
+      "redressal",
+      "alias"
+    ],
+    "aliases": [
+      "Central Commission",
+      "Central Consumer Protection Council",
+      "NCDRC",
+      "National Consumer Commission",
+      "National Consumer Disputes Redressal Commission",
+      "National Consumer Protection Agency"
+    ],
+    "user_queries": [
+      "What is national commission references national consumer disputes redressal commission?",
+      "How does national commission references national consumer disputes redressal commission work?",
+      "Can you explain national commission references national consumer disputes redressal commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

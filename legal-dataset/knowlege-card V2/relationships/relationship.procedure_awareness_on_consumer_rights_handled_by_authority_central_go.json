@@ -1,0 +1,57 @@
+{
+  "concept_id": "relationship.procedure_awareness_on_consumer_rights_handled_by_authority_central_go",
+  "concept_type": "relationship",
+  "title": "Awareness on Consumer Rights handled by Central Government",
+  "description": "Awareness on Consumer Rights --handled_by--> Central Government",
+  "content": {
+    "source": "procedure.awareness_on_consumer_rights",
+    "relationship": "handled_by",
+    "target": "authority.central_government"
+  },
+  "derived_from": [
+    "CPA2019-CH3-S18-2"
+  ],
+  "related_concepts": [
+    "alias.advising_on_consumer_welfare_measures",
+    "alias.awareness_on_consumer_rights",
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.cooperation_with_non_governmental_organisations",
+    "alias.district_commission",
+    "alias.filing_complaints"
+  ],
+  "search": {
+    "keywords": [
+      "awareness",
+      "consumer",
+      "rights",
+      "handled",
+      "central",
+      "government",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "advice on consumer welfare",
+      "advising on consumer welfare",
+      "consumer rights guidance",
+      "consumer welfare advice",
+      "consumer welfare measures"
+    ],
+    "user_queries": [
+      "What is awareness on consumer rights handled by central government?",
+      "How does awareness on consumer rights handled by central government work?",
+      "Can you explain awareness on consumer rights handled by central government?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

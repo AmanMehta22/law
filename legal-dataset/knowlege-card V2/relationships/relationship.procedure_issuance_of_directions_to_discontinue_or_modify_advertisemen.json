@@ -1,0 +1,56 @@
+{
+  "concept_id": "relationship.procedure_issuance_of_directions_to_discontinue_or_modify_advertisemen",
+  "concept_type": "relationship",
+  "title": "Issuance of directions to discontinue or modify advertisement handled by Central Authority",
+  "description": "Issuance of directions to discontinue or modify advertisement --handled_by--> Central Authority",
+  "content": {
+    "source": "procedure.issuance_of_directions_to_discontinue_or_modify_advertisemen",
+    "relationship": "handled_by",
+    "target": "authority.central_authority"
+  },
+  "derived_from": [
+    "CPA2019-CH3-S21-1"
+  ],
+  "related_concepts": [
+    "alias.advertiser_must_discontinue_or_modify_advertisement",
+    "alias.central_authority_must_investigate_and_issue_directions",
+    "alias.discontinuation_of_false_or_misleading_advertisement",
+    "alias.endorser_must_discontinue_or_modify_advertisement",
+    "alias.issuance_of_directions_to_discontinue_or_modify_advertisement",
+    "alias.manufacturer_must_discontinue_or_modify_advertisement",
+    "alias.publisher_must_discontinue_or_modify_advertisement"
+  ],
+  "search": {
+    "keywords": [
+      "issuance",
+      "directions",
+      "discontinue",
+      "modify",
+      "advertisement",
+      "handled",
+      "central",
+      "authority",
+      "procedure",
+      "advertisemen"
+    ],
+    "aliases": [
+      "endorser responsibilities",
+      "manufacturer duties"
+    ],
+    "user_queries": [
+      "What is issuance of directions to discontinue or modify advertisement handled by central authority?",
+      "How does issuance of directions to discontinue or modify advertisement handled by central authority work?",
+      "Can you explain issuance of directions to discontinue or modify advertisement handled by central authority?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

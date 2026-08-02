@@ -1,0 +1,58 @@
+{
+  "concept_id": "relationship.procedure_disposal_of_seized_articles_subject_to_decay_handled_by_auth",
+  "concept_type": "relationship",
+  "title": "Disposal of seized articles subject to decay handled by Director",
+  "description": "Disposal of seized articles subject to decay --handled_by--> Director",
+  "content": {
+    "source": "procedure.disposal_of_seized_articles_subject_to_decay",
+    "relationship": "handled_by",
+    "target": "authority.director"
+  },
+  "derived_from": [
+    "CPA2019-CH3-S22-4"
+  ],
+  "related_concepts": [
+    "alias.director_general",
+    "alias.disposal_of_seized_articles_subject_to_decay",
+    "authority.director_general",
+    "intent.director_general",
+    "intent.director_general_2",
+    "intent.director_general_or_officer_must_dispose_of_seized_articles",
+    "intent.disposal_of_seized_articles_subject_to_decay"
+  ],
+  "search": {
+    "keywords": [
+      "disposal",
+      "seized",
+      "articles",
+      "subject",
+      "decay",
+      "handled",
+      "director",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "Chief Director",
+      "DG",
+      "Director General of Consumer Affairs",
+      "Head of Consumer Protection",
+      "Main Official"
+    ],
+    "user_queries": [
+      "What is disposal of seized articles subject to decay handled by director?",
+      "How does disposal of seized articles subject to decay handled by director work?",
+      "Can you explain disposal of seized articles subject to decay handled by director?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

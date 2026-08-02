@@ -1,0 +1,55 @@
+{
+  "concept_id": "relationship.procedure_complaint_disposal_depends_on_evidence_written_record",
+  "concept_type": "relationship",
+  "title": "Complaint disposal depends on Reasons for adjournment",
+  "description": "Complaint disposal --depends_on--> Reasons for adjournment",
+  "content": {
+    "source": "procedure.complaint_disposal",
+    "relationship": "depends_on",
+    "target": "evidence.written_record"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-7"
+  ],
+  "related_concepts": [
+    "alias.adjournment_exception",
+    "alias.complaint_disposal",
+    "alias.district_commission",
+    "alias.district_commission_must_dispose_of_complaint_within_a_period",
+    "alias.district_commission_must_make_orders_for_costs_of_adjournment",
+    "alias.district_commission_must_not_grant_adjournment_without_sufficient_cause",
+    "alias.district_commission_must_record_reasons_for_adjournment"
+  ],
+  "search": {
+    "keywords": [
+      "complaint",
+      "disposal",
+      "depends",
+      "reasons",
+      "adjournment",
+      "procedure",
+      "evidence",
+      "written",
+      "record"
+    ],
+    "aliases": [
+      "delay",
+      "postponement"
+    ],
+    "user_queries": [
+      "What is complaint disposal depends on reasons for adjournment?",
+      "How does complaint disposal depends on reasons for adjournment work?",
+      "Can you explain complaint disposal depends on reasons for adjournment?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

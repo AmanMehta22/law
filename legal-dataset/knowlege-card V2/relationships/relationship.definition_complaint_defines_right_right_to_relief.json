@@ -1,0 +1,53 @@
+{
+  "concept_id": "relationship.definition_complaint_defines_right_right_to_relief",
+  "concept_type": "relationship",
+  "title": "Complaint under Consumer Protection Act, 2019 defines Right to Relief",
+  "description": "Complaint under Consumer Protection Act, 2019 --defines--> Right to Relief",
+  "content": {
+    "source": "definition.complaint",
+    "relationship": "defines",
+    "target": "right.right_to_relief"
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-6"
+  ],
+  "related_concepts": [
+    "alias.allegation_in_writing",
+    "alias.complaint_under_consumer_protection_act_2019",
+    "alias.relief",
+    "alias.right_to_relief",
+    "definition.complaint",
+    "evidence.written_complaint",
+    "intent.allegation_in_writing"
+  ],
+  "search": {
+    "keywords": [
+      "complaint",
+      "consumer",
+      "protection",
+      "act",
+      "defines",
+      "right",
+      "relief",
+      "definition"
+    ],
+    "aliases": [
+      "written complaint"
+    ],
+    "user_queries": [
+      "What is complaint under consumer protection act, 2019 defines right to relief?",
+      "How does complaint under consumer protection act, 2019 defines right to relief work?",
+      "Can you explain complaint under consumer protection act, 2019 defines right to relief?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

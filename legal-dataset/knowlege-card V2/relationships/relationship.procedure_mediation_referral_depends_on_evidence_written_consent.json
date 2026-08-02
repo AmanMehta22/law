@@ -1,0 +1,58 @@
+{
+  "concept_id": "relationship.procedure_mediation_referral_depends_on_evidence_written_consent",
+  "concept_type": "relationship",
+  "title": "Mediation Referral depends on Consent in writing",
+  "description": "Mediation Referral --depends_on--> Consent in writing",
+  "content": {
+    "source": "procedure.mediation_referral",
+    "relationship": "depends_on",
+    "target": "evidence.written_consent"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S37-2"
+  ],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.district_commission_must_refer_matter_for_mediation",
+    "alias.mediation_referral",
+    "authority.district_commission",
+    "evidence.written_consent",
+    "intent.consent_in_writing",
+    "intent.district_commission"
+  ],
+  "search": {
+    "keywords": [
+      "mediation",
+      "referral",
+      "depends",
+      "consent",
+      "writing",
+      "procedure",
+      "evidence",
+      "written"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is mediation referral depends on consent in writing?",
+      "How does mediation referral depends on consent in writing work?",
+      "Can you explain mediation referral depends on consent in writing?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "concept_id": "relationship.alias_district_commission_references_alias_district_council",
+  "concept_type": "relationship",
+  "title": "District Commission references District Council",
+  "description": "District Commission --references--> District Council",
+  "content": {
+    "source": "alias.district_commission",
+    "relationship": "references",
+    "target": "alias.district_council"
+  },
+  "derived_from": [
+    "CPA2019-CH2-S8-2",
+    "CPA2019-CH2-S8-4",
+    "CPA2019-CH8-S102-2"
+  ],
+  "related_concepts": [
+    "alias.district_council",
+    "authority.district_council",
+    "intent.district_commission_references_district_council",
+    "intent.district_council",
+    "intent.district_council_2",
+    "intent.district_council_composition",
+    "alias.district_council_must_meet_and_observe_procedure"
+  ],
+  "search": {
+    "keywords": [
+      "district",
+      "commission",
+      "references",
+      "council",
+      "alias"
+    ],
+    "aliases": [
+      "District Board",
+      "Local Council",
+      "Municipal Council"
+    ],
+    "user_queries": [
+      "What is district commission references district council?",
+      "How does district commission references district council work?",
+      "Can you explain district commission references district council?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

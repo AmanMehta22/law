@@ -1,0 +1,56 @@
+{
+  "concept_id": "relationship.procedure_receiving_evidence_on_affidavits_depends_on_evidence_report_",
+  "concept_type": "relationship",
+  "title": "Receiving evidence on affidavits depends on Report of analysis or test",
+  "description": "Receiving evidence on affidavits --depends_on--> Report of analysis or test",
+  "content": {
+    "source": "procedure.receiving_evidence_on_affidavits",
+    "relationship": "depends_on",
+    "target": "evidence.report_of_analysis_or_test"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-9"
+  ],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.discovery_and_production_of_evidence",
+    "alias.district_commission",
+    "alias.district_commission_must_exercise_powers",
+    "alias.issuing_of_commissions",
+    "alias.receiving_evidence_on_affidavits",
+    "alias.requisitioning_of_report"
+  ],
+  "search": {
+    "keywords": [
+      "receiving",
+      "evidence",
+      "affidavits",
+      "depends",
+      "report",
+      "analysis",
+      "test",
+      "procedure"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government"
+    ],
+    "user_queries": [
+      "What is receiving evidence on affidavits depends on report of analysis or test?",
+      "How does receiving evidence on affidavits depends on report of analysis or test work?",
+      "Can you explain receiving evidence on affidavits depends on report of analysis or test?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

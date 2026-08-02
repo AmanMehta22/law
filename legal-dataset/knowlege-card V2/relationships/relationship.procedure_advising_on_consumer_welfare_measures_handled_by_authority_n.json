@@ -1,0 +1,58 @@
+{
+  "concept_id": "relationship.procedure_advising_on_consumer_welfare_measures_handled_by_authority_n",
+  "concept_type": "relationship",
+  "title": "Advising on Consumer Welfare Measures handled by National Commission",
+  "description": "Advising on Consumer Welfare Measures --handled_by--> National Commission",
+  "content": {
+    "source": "procedure.advising_on_consumer_welfare_measures",
+    "relationship": "handled_by",
+    "target": "authority.national_commission"
+  },
+  "derived_from": [
+    "CPA2019-CH3-S18-2"
+  ],
+  "related_concepts": [
+    "alias.advising_on_consumer_welfare_measures",
+    "alias.awareness_on_consumer_rights",
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.cooperation_with_non_governmental_organisations",
+    "alias.district_commission",
+    "alias.filing_complaints"
+  ],
+  "search": {
+    "keywords": [
+      "advising",
+      "consumer",
+      "welfare",
+      "measures",
+      "handled",
+      "national",
+      "commission",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "advice on consumer welfare",
+      "advising on consumer welfare",
+      "consumer rights guidance",
+      "consumer welfare advice",
+      "consumer welfare measures"
+    ],
+    "user_queries": [
+      "What is advising on consumer welfare measures handled by national commission?",
+      "How does advising on consumer welfare measures handled by national commission work?",
+      "Can you explain advising on consumer welfare measures handled by national commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

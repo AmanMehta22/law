@@ -1,0 +1,55 @@
+{
+  "concept_id": "relationship.procedure_mediation_agreement_depends_on_evidence_written_agreement",
+  "concept_type": "relationship",
+  "title": "Mediation Agreement depends on Agreement in writing",
+  "description": "Mediation Agreement --depends_on--> Agreement in writing",
+  "content": {
+    "source": "procedure.mediation_agreement",
+    "relationship": "depends_on",
+    "target": "evidence.written_agreement"
+  },
+  "derived_from": [
+    "CPA2019-CH5-S80-1"
+  ],
+  "related_concepts": [
+    "alias.mediation_agreement",
+    "alias.parties_must_reduce_agreement_to_writing",
+    "evidence.written_agreement",
+    "intent.agreement_in_writing",
+    "intent.mediation_agreement",
+    "intent.mediation_agreement_2",
+    "intent.mediation_agreement_depends_on_agreement_in_writing"
+  ],
+  "search": {
+    "keywords": [
+      "mediation",
+      "agreement",
+      "depends",
+      "writing",
+      "procedure",
+      "evidence",
+      "written"
+    ],
+    "aliases": [
+      "Alternative Dispute Resolution",
+      "Dispute Resolution Agreement",
+      "Mediation Contract",
+      "Settlement Agreement"
+    ],
+    "user_queries": [
+      "What is mediation agreement depends on agreement in writing?",
+      "How does mediation agreement depends on agreement in writing work?",
+      "Can you explain mediation agreement depends on agreement in writing?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

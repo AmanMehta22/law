@@ -1,0 +1,57 @@
+{
+  "concept_id": "relationship.procedure_return_of_seized_documents_enables_right_right_to_return_of_",
+  "concept_type": "relationship",
+  "title": "Return of seized documents enables Right to Return of Seized or Produced Documents",
+  "description": "Return of seized documents --enables--> Right to Return of Seized or Produced Documents",
+  "content": {
+    "source": "procedure.return_of_seized_documents",
+    "relationship": "enables",
+    "target": "right.right_to_return_of_seized_or_produced_documents"
+  },
+  "derived_from": [
+    "CPA2019-CH3-S22-3"
+  ],
+  "related_concepts": [
+    "alias.return_of_seized_documents",
+    "alias.return_of_seized_or_produced_documents_records_or_articles",
+    "alias.right_to_return_of_seized_or_produced_documents",
+    "evidence.copies_of_documents_records_or_articles_extracts_therefrom",
+    "intent.copies_of_documents_records_or_articles",
+    "intent.mediation_references_return_of_seized_documents",
+    "intent.return_of_seized_documents"
+  ],
+  "search": {
+    "keywords": [
+      "return",
+      "seized",
+      "documents",
+      "enables",
+      "right",
+      "produced",
+      "procedure"
+    ],
+    "aliases": [
+      "document return",
+      "giving back seized files",
+      "release of seized papers",
+      "restoration of documents",
+      "restoring seized documents",
+      "return of confiscated documents"
+    ],
+    "user_queries": [
+      "What is return of seized documents enables right to return of seized or produced documents?",
+      "How does return of seized documents enables right to return of seized or produced documents work?",
+      "Can you explain return of seized documents enables right to return of seized or produced documents?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

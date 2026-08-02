@@ -1,0 +1,56 @@
+{
+  "concept_id": "relationship.procedure_mediation_settlement_reporting_depends_on_evidence_settlemen",
+  "concept_type": "relationship",
+  "title": "Mediation Settlement Reporting depends on Settlement Report",
+  "description": "Mediation Settlement Reporting --depends_on--> Settlement Report",
+  "content": {
+    "source": "procedure.mediation_settlement_reporting",
+    "relationship": "depends_on",
+    "target": "evidence.settlement_agreement_settlement_report"
+  },
+  "derived_from": [
+    "CPA2019-CH5-S80-2"
+  ],
+  "related_concepts": [
+    "alias.commission",
+    "alias.mediation_settlement_reporting",
+    "alias.mediator_must_prepare_and_forward_settlement_report",
+    "authority.commission",
+    "evidence.settlement_agreement_settlement_report",
+    "intent.commission",
+    "intent.commission_2"
+  ],
+  "search": {
+    "keywords": [
+      "mediation",
+      "settlement",
+      "reporting",
+      "depends",
+      "report",
+      "procedure",
+      "evidence",
+      "agreement"
+    ],
+    "aliases": [
+      "Consumer Commission",
+      "Consumer Court",
+      "Court",
+      "Tribunal"
+    ],
+    "user_queries": [
+      "What is mediation settlement reporting depends on settlement report?",
+      "How does mediation settlement reporting depends on settlement report work?",
+      "Can you explain mediation settlement reporting depends on settlement report?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

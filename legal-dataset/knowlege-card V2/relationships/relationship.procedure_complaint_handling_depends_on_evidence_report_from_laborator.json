@@ -1,0 +1,52 @@
+{
+  "concept_id": "relationship.procedure_complaint_handling_depends_on_evidence_report_from_laborator",
+  "concept_type": "relationship",
+  "title": "Complaint handling depends on Report from laboratory",
+  "description": "Complaint handling --depends_on--> Report from laboratory",
+  "content": {
+    "source": "procedure.complaint_handling",
+    "relationship": "depends_on",
+    "target": "evidence.report_from_laboratory"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-2"
+  ],
+  "related_concepts": [
+    "alias.admissibility_decision_time_limit",
+    "alias.appeal_time_limit",
+    "alias.complaint_handling",
+    "alias.district_commission",
+    "alias.right_to_be_heard",
+    "authority.district_commission",
+    "evidence.report_from_laboratory"
+  ],
+  "search": {
+    "keywords": [
+      "complaint",
+      "handling",
+      "depends",
+      "report",
+      "laboratory",
+      "procedure",
+      "evidence"
+    ],
+    "aliases": [
+      "complaint admission"
+    ],
+    "user_queries": [
+      "What is complaint handling depends on report from laboratory?",
+      "How does complaint handling depends on report from laboratory work?",
+      "Can you explain complaint handling depends on report from laboratory?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

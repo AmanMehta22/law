@@ -1,0 +1,55 @@
+{
+  "concept_id": "relationship.procedure_filing_an_appeal_to_the_state_commission_depends_on_evidence_2",
+  "concept_type": "relationship",
+  "title": "Filing an appeal to the State Commission depends on Proof of sufficient cause",
+  "description": "Filing an appeal to the State Commission --depends_on--> Proof of sufficient cause",
+  "content": {
+    "source": "procedure.filing_an_appeal_to_the_state_commission",
+    "relationship": "depends_on",
+    "target": "evidence.written_explanation"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S41"
+  ],
+  "related_concepts": [
+    "alias.delayed_appeal",
+    "alias.deposit_for_appeal",
+    "alias.filing_an_appeal_to_the_state_commission",
+    "alias.no_appeal_from_mediated_settlement",
+    "alias.proof_of_sufficient_cause",
+    "evidence.deposit_receipt",
+    "evidence.written_explanation"
+  ],
+  "search": {
+    "keywords": [
+      "filing",
+      "appeal",
+      "state",
+      "commission",
+      "depends",
+      "proof",
+      "sufficient",
+      "cause",
+      "procedure",
+      "evidence"
+    ],
+    "aliases": [
+      "late appeal"
+    ],
+    "user_queries": [
+      "What is filing an appeal to the state commission depends on proof of sufficient cause?",
+      "How does filing an appeal to the state commission depends on proof of sufficient cause work?",
+      "Can you explain filing an appeal to the state commission depends on proof of sufficient cause?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

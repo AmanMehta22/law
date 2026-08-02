@@ -1,0 +1,53 @@
+{
+  "concept_id": "relationship.procedure_meeting_of_central_council_handled_by_authority_central_coun",
+  "concept_type": "relationship",
+  "title": "Meeting of Central Council handled by Central Council",
+  "description": "Meeting of Central Council --handled_by--> Central Council",
+  "content": {
+    "source": "procedure.meeting_of_central_council",
+    "relationship": "handled_by",
+    "target": "authority.central_council"
+  },
+  "derived_from": [
+    "CPA2019-CH2-S4-2"
+  ],
+  "related_concepts": [
+    "alias.central_council",
+    "alias.central_council_must_observe_prescribed_procedure",
+    "alias.meeting_of_central_council",
+    "authority.central_council",
+    "intent.central_council",
+    "intent.central_council_2",
+    "intent.central_council_must_observe_prescribed_procedure"
+  ],
+  "search": {
+    "keywords": [
+      "meeting",
+      "central",
+      "council",
+      "handled",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "Central Consumer Council",
+      "Consumer Council",
+      "National Council"
+    ],
+    "user_queries": [
+      "What is meeting of central council handled by central council?",
+      "How does meeting of central council handled by central council work?",
+      "Can you explain meeting of central council handled by central council?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

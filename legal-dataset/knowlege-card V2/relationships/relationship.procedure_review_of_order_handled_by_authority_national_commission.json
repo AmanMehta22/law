@@ -1,0 +1,57 @@
+{
+  "concept_id": "relationship.procedure_review_of_order_handled_by_authority_national_commission",
+  "concept_type": "relationship",
+  "title": "Review of order handled by National Commission",
+  "description": "Review of order --handled_by--> National Commission",
+  "content": {
+    "source": "procedure.review_of_order",
+    "relationship": "handled_by",
+    "target": "authority.national_commission"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S60"
+  ],
+  "related_concepts": [
+    "alias.appeal_time_limit",
+    "alias.national_commission",
+    "alias.national_commission_must_review_order",
+    "alias.review_of_order",
+    "alias.right_to_review",
+    "authority.national_commission",
+    "intent.appeal_time_limit"
+  ],
+  "search": {
+    "keywords": [
+      "review",
+      "order",
+      "handled",
+      "national",
+      "commission",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "appeal deadline",
+      "filing appeal",
+      "opposite party response",
+      "time limit for appeal",
+      "time limit for application",
+      "time to respond"
+    ],
+    "user_queries": [
+      "What is review of order handled by national commission?",
+      "How does review of order handled by national commission work?",
+      "Can you explain review of order handled by national commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

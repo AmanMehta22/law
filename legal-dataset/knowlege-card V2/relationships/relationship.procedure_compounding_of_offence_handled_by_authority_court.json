@@ -1,0 +1,55 @@
+{
+  "concept_id": "relationship.procedure_compounding_of_offence_handled_by_authority_court",
+  "concept_type": "relationship",
+  "title": "Compounding of offence handled by Court",
+  "description": "Compounding of offence --handled_by--> Court",
+  "content": {
+    "source": "procedure.compounding_of_offence",
+    "relationship": "handled_by",
+    "target": "authority.court"
+  },
+  "derived_from": [
+    "CPA2019-CH8-S96-1",
+    "CPA2019-CH8-S96-2"
+  ],
+  "related_concepts": [
+    "alias.compounding_of_offence",
+    "alias.court",
+    "authority.court",
+    "intent.compounding_of_offence",
+    "intent.compounding_of_offence_3",
+    "intent.compounding_of_offence_5",
+    "intent.compounding_of_offence_handled_by_court"
+  ],
+  "search": {
+    "keywords": [
+      "compounding",
+      "offence",
+      "handled",
+      "court",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "compromise on penalty",
+      "offence compounding",
+      "penalty waiver",
+      "settlement of offence"
+    ],
+    "user_queries": [
+      "What is compounding of offence handled by court?",
+      "How does compounding of offence handled by court work?",
+      "Can you explain compounding of offence handled by court?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

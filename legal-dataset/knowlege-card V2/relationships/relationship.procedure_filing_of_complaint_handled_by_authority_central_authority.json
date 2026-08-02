@@ -1,0 +1,58 @@
+{
+  "concept_id": "relationship.procedure_filing_of_complaint_handled_by_authority_central_authority",
+  "concept_type": "relationship",
+  "title": "Filing of complaint handled by Central Authority",
+  "description": "Filing of complaint --handled_by--> Central Authority",
+  "content": {
+    "source": "procedure.filing_of_complaint",
+    "relationship": "handled_by",
+    "target": "authority.central_authority"
+  },
+  "derived_from": [
+    "CPA2019-CH7-S92"
+  ],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.filing_of_complaint",
+    "authority.central_authority",
+    "exception.except_on_a_complaint_filed_by_the_central_authority_or_any_",
+    "intent.central_authority",
+    "intent.central_authority_2",
+    "intent.central_authority_must_file_a_complaint"
+  ],
+  "search": {
+    "keywords": [
+      "filing",
+      "complaint",
+      "handled",
+      "central",
+      "authority",
+      "procedure"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is filing of complaint handled by central authority?",
+      "How does filing of complaint handled by central authority work?",
+      "Can you explain filing of complaint handled by central authority?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "concept_id": "relationship.procedure_complaint_handling_handled_by_authority_district_commission",
+  "concept_type": "relationship",
+  "title": "Complaint handling handled by District Commission",
+  "description": "Complaint handling --handled_by--> District Commission",
+  "content": {
+    "source": "procedure.complaint_handling",
+    "relationship": "handled_by",
+    "target": "authority.district_commission"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-2"
+  ],
+  "related_concepts": [
+    "alias.admissibility_decision_time_limit",
+    "alias.appeal_time_limit",
+    "alias.complaint_handling",
+    "alias.district_commission",
+    "alias.right_to_be_heard",
+    "authority.district_commission",
+    "evidence.report_from_laboratory"
+  ],
+  "search": {
+    "keywords": [
+      "complaint",
+      "handling",
+      "handled",
+      "district",
+      "commission",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "complaint admission"
+    ],
+    "user_queries": [
+      "What is complaint handling handled by district commission?",
+      "How does complaint handling handled by district commission work?",
+      "Can you explain complaint handling handled by district commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

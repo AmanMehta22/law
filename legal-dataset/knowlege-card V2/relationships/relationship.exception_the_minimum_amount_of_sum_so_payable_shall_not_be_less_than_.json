@@ -1,0 +1,60 @@
+{
+  "concept_id": "relationship.exception_the_minimum_amount_of_sum_so_payable_shall_not_be_less_than_",
+  "concept_type": "relationship",
+  "title": "Minimum amount of sum payable limits Right to Compensation",
+  "description": "Minimum amount of sum payable --limits--> Right to Compensation",
+  "content": {
+    "source": "exception.the_minimum_amount_of_sum_so_payable_shall_not_be_less_than_",
+    "relationship": "limits",
+    "target": "right.right_to_compensation"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S39-1"
+  ],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.minimum_amount_of_sum_payable",
+    "alias.right_to_compensation",
+    "alias.right_to_refund",
+    "alias.right_to_replacement",
+    "alias.right_to_safety",
+    "authority.district_commission"
+  ],
+  "search": {
+    "keywords": [
+      "minimum",
+      "amount",
+      "sum",
+      "payable",
+      "limits",
+      "right",
+      "compensation",
+      "exception",
+      "less",
+      "than"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is minimum amount of sum payable limits right to compensation?",
+      "How does minimum amount of sum payable limits right to compensation work?",
+      "Can you explain minimum amount of sum payable limits right to compensation?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

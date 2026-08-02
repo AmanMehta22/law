@@ -1,0 +1,52 @@
+{
+  "concept_id": "relationship.alias_district_commission_references_alias_national_commission",
+  "concept_type": "relationship",
+  "title": "District Commission references National Commission",
+  "description": "District Commission --references--> National Commission",
+  "content": {
+    "source": "alias.district_commission",
+    "relationship": "references",
+    "target": "alias.national_commission"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S52",
+    "CPA2019-CH8-S103-2"
+  ],
+  "related_concepts": [
+    "alias.adjournment_exception",
+    "alias.appeal_hearing",
+    "alias.national_commission",
+    "alias.right_to_expedient_hearing_of_appeal",
+    "alias.state_commission",
+    "authority.national_commission",
+    "authority.state_commission"
+  ],
+  "search": {
+    "keywords": [
+      "district",
+      "commission",
+      "references",
+      "national",
+      "alias"
+    ],
+    "aliases": [
+      "delay",
+      "postponement"
+    ],
+    "user_queries": [
+      "What is district commission references national commission?",
+      "How does district commission references national commission work?",
+      "Can you explain district commission references national commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

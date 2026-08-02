@@ -1,0 +1,55 @@
+{
+  "concept_id": "relationship.procedure_complaint_proceeding_handled_by_authority_district_commissio",
+  "concept_type": "relationship",
+  "title": "Complaint proceeding handled by District Commission",
+  "description": "Complaint proceeding --handled_by--> District Commission",
+  "content": {
+    "source": "procedure.complaint_proceeding",
+    "relationship": "handled_by",
+    "target": "authority.district_commission"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-1"
+  ],
+  "related_concepts": [
+    "alias.complaint_proceeding",
+    "alias.district_commission",
+    "authority.district_commission",
+    "intent.complaint_proceeding",
+    "intent.complaint_proceeding_2",
+    "intent.complaint_proceeding_handled_by_commission",
+    "intent.complaint_proceeding_handled_by_district_commission"
+  ],
+  "search": {
+    "keywords": [
+      "complaint",
+      "proceeding",
+      "handled",
+      "district",
+      "commission",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "complaint adjudication",
+      "complaint hearing",
+      "complaint proceedings",
+      "complaint trial"
+    ],
+    "user_queries": [
+      "What is complaint proceeding handled by district commission?",
+      "How does complaint proceeding handled by district commission work?",
+      "Can you explain complaint proceeding handled by district commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

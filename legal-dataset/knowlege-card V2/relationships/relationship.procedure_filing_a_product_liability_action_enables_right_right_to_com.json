@@ -1,0 +1,54 @@
+{
+  "concept_id": "relationship.procedure_filing_a_product_liability_action_enables_right_right_to_com",
+  "concept_type": "relationship",
+  "title": "Filing a product liability action enables Right to Compensation",
+  "description": "Filing a product liability action --enables--> Right to Compensation",
+  "content": {
+    "source": "procedure.filing_a_product_liability_action",
+    "relationship": "enables",
+    "target": "right.right_to_compensation"
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-35"
+  ],
+  "related_concepts": [
+    "alias.compensation_for_harm_caused",
+    "alias.district_commission",
+    "alias.filing_a_product_liability_action",
+    "alias.national_commission",
+    "alias.product_liability_action",
+    "alias.right_to_compensation",
+    "alias.state_commission"
+  ],
+  "search": {
+    "keywords": [
+      "filing",
+      "product",
+      "liability",
+      "action",
+      "enables",
+      "right",
+      "compensation",
+      "procedure"
+    ],
+    "aliases": [
+      "damages",
+      "reparation"
+    ],
+    "user_queries": [
+      "What is filing a product liability action enables right to compensation?",
+      "How does filing a product liability action enables right to compensation work?",
+      "Can you explain filing a product liability action enables right to compensation?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

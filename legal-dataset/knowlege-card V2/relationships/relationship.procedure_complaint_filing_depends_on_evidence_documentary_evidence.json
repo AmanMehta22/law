@@ -1,0 +1,54 @@
+{
+  "concept_id": "relationship.procedure_complaint_filing_depends_on_evidence_documentary_evidence",
+  "concept_type": "relationship",
+  "title": "Complaint filing depends on Documentary evidence",
+  "description": "Complaint filing --depends_on--> Documentary evidence",
+  "content": {
+    "source": "procedure.complaint_filing",
+    "relationship": "depends_on",
+    "target": "evidence.documentary_evidence"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-6"
+  ],
+  "related_concepts": [
+    "alias.complaint_filing",
+    "alias.district_commission",
+    "alias.hearing_through_affidavit_and_documentary_evidence",
+    "authority.district_commission",
+    "evidence.affidavit",
+    "evidence.documentary_evidence",
+    "exception.the_district_commission_may_allow_hearing_or_examination_of_"
+  ],
+  "search": {
+    "keywords": [
+      "complaint",
+      "filing",
+      "depends",
+      "documentary",
+      "evidence",
+      "procedure"
+    ],
+    "aliases": [
+      "complaint lodging",
+      "complaint registration",
+      "filing a complaint",
+      "submitting a complaint"
+    ],
+    "user_queries": [
+      "What is complaint filing depends on documentary evidence?",
+      "How does complaint filing depends on documentary evidence work?",
+      "Can you explain complaint filing depends on documentary evidence?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "concept_id": "relationship.procedure_filing_appeals_with_the_state_commission_appeal_of_procedure",
+  "concept_type": "relationship",
+  "title": "Filing appeals with the State Commission appeal of Calling for records and passing orders",
+  "description": "Filing appeals with the State Commission --appeal_of--> Calling for records and passing orders",
+  "content": {
+    "source": "procedure.filing_appeals_with_the_state_commission",
+    "relationship": "appeal_of",
+    "target": "procedure.calling_for_records_and_passing_orders"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S47-1"
+  ],
+  "related_concepts": [
+    "alias.calling_for_records_and_passing_orders",
+    "alias.central_government",
+    "alias.central_government_override",
+    "alias.district_commission",
+    "alias.filing_appeals_with_the_state_commission",
+    "alias.filing_complaints_with_the_state_commission",
+    "alias.pecuniary_jurisdiction_of_state_commission"
+  ],
+  "search": {
+    "keywords": [
+      "filing",
+      "appeals",
+      "state",
+      "commission",
+      "appeal",
+      "calling",
+      "records",
+      "passing",
+      "orders",
+      "procedure"
+    ],
+    "aliases": [
+      "calling for records",
+      "calling for records and passing orders",
+      "records and orders"
+    ],
+    "user_queries": [
+      "What is filing appeals with the state commission appeal of calling for records and passing orders?",
+      "How does filing appeals with the state commission appeal of calling for records and passing orders work?",
+      "Can you explain filing appeals with the state commission appeal of calling for records and passing orders?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

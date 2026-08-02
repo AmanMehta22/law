@@ -1,0 +1,54 @@
+{
+  "concept_id": "relationship.procedure_empanelment_of_mediators_handled_by_authority_district_commi",
+  "concept_type": "relationship",
+  "title": "Empanelment of mediators handled by District Commission",
+  "description": "Empanelment of mediators --handled_by--> District Commission",
+  "content": {
+    "source": "procedure.empanelment_of_mediators",
+    "relationship": "handled_by",
+    "target": "authority.district_commission"
+  },
+  "derived_from": [
+    "CPA2019-CH8-S103-2"
+  ],
+  "related_concepts": [
+    "alias.adjournment_cost_imposition_by_district_commission",
+    "alias.adjournment_cost_imposition_by_state_or_national_commission",
+    "alias.authority_must_provide_for_re_empanelment_of_mediators",
+    "alias.authority_must_set_qualifications_and_experience_for_empanelment_as_mediator",
+    "alias.conduct_of_mediation",
+    "alias.consumer_mediation_cell",
+    "alias.consumer_mediation_cell_must_maintain_information"
+  ],
+  "search": {
+    "keywords": [
+      "empanelment",
+      "mediators",
+      "handled",
+      "district",
+      "commission",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "adjournment cost",
+      "cost imposition by district commission",
+      "district commission cost"
+    ],
+    "user_queries": [
+      "What is empanelment of mediators handled by district commission?",
+      "How does empanelment of mediators handled by district commission work?",
+      "Can you explain empanelment of mediators handled by district commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

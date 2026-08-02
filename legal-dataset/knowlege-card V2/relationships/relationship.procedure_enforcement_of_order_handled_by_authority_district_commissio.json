@@ -1,0 +1,57 @@
+{
+  "concept_id": "relationship.procedure_enforcement_of_order_handled_by_authority_district_commissio",
+  "concept_type": "relationship",
+  "title": "Enforcement of Order handled by District Commission",
+  "description": "Enforcement of Order --handled_by--> District Commission",
+  "content": {
+    "source": "procedure.enforcement_of_order",
+    "relationship": "handled_by",
+    "target": "authority.district_commission"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S71"
+  ],
+  "related_concepts": [
+    "alias.court",
+    "alias.district_commission",
+    "alias.enforcement_of_order",
+    "alias.national_commission",
+    "alias.state_commission",
+    "authority.court",
+    "authority.district_commission"
+  ],
+  "search": {
+    "keywords": [
+      "enforcement",
+      "order",
+      "handled",
+      "district",
+      "commission",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "Bench",
+      "Judiciary",
+      "Law Court",
+      "Tribunal",
+      "judicial body",
+      "tribunal"
+    ],
+    "user_queries": [
+      "What is enforcement of order handled by district commission?",
+      "How does enforcement of order handled by district commission work?",
+      "Can you explain enforcement of order handled by district commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

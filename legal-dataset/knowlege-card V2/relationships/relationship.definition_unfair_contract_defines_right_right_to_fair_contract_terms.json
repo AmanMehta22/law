@@ -1,0 +1,52 @@
+{
+  "concept_id": "relationship.definition_unfair_contract_defines_right_right_to_fair_contract_terms",
+  "concept_type": "relationship",
+  "title": "Unfair Contract defines Right to Fair Contract Terms",
+  "description": "Unfair Contract --defines--> Right to Fair Contract Terms",
+  "content": {
+    "source": "definition.unfair_contract",
+    "relationship": "defines",
+    "target": "right.right_to_fair_contract_terms"
+  },
+  "derived_from": [
+    "CPA2019-CH1-S2-46"
+  ],
+  "related_concepts": [
+    "alias.party_to_the_contract_must_accept_early_repayment_of_debts",
+    "alias.party_to_the_contract_must_not_assign_contract_unilaterally_without_consumer_con",
+    "alias.party_to_the_contract_must_not_impose_disproportionate_penalties",
+    "alias.party_to_the_contract_must_not_impose_unreasonable_charges_or_conditions",
+    "alias.party_to_the_contract_must_not_require_excessive_security_deposits",
+    "alias.party_to_the_contract_must_not_terminate_contract_unilaterally_without_reasonabl",
+    "alias.right_to_fair_contract_terms"
+  ],
+  "search": {
+    "keywords": [
+      "unfair",
+      "contract",
+      "defines",
+      "right",
+      "fair",
+      "terms",
+      "definition"
+    ],
+    "aliases": [
+      "debt repayment"
+    ],
+    "user_queries": [
+      "What is unfair contract defines right to fair contract terms?",
+      "How does unfair contract defines right to fair contract terms work?",
+      "Can you explain unfair contract defines right to fair contract terms?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

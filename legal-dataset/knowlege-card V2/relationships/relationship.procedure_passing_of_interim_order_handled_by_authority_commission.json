@@ -1,0 +1,57 @@
+{
+  "concept_id": "relationship.procedure_passing_of_interim_order_handled_by_authority_commission",
+  "concept_type": "relationship",
+  "title": "Passing of Interim Order handled by Commission",
+  "description": "Passing of Interim Order --handled_by--> Commission",
+  "content": {
+    "source": "procedure.passing_of_interim_order",
+    "relationship": "handled_by",
+    "target": "authority.commission"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-8"
+  ],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.district_commission_must_pass_interim_order",
+    "alias.passing_of_interim_order",
+    "authority.district_commission",
+    "intent.district_commission",
+    "intent.district_commission_2",
+    "intent.district_commission_must_pass_interim_order"
+  ],
+  "search": {
+    "keywords": [
+      "passing",
+      "interim",
+      "order",
+      "handled",
+      "commission",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is passing of interim order handled by commission?",
+      "How does passing of interim order handled by commission work?",
+      "Can you explain passing of interim order handled by commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

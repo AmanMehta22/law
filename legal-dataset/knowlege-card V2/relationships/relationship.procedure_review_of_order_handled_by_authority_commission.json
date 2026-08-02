@@ -1,0 +1,58 @@
+{
+  "concept_id": "relationship.procedure_review_of_order_handled_by_authority_commission",
+  "concept_type": "relationship",
+  "title": "Review of order handled by Commission",
+  "description": "Review of order --handled_by--> Commission",
+  "content": {
+    "source": "procedure.review_of_order",
+    "relationship": "handled_by",
+    "target": "authority.commission"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S40",
+    "CPA2019-CH4-S50",
+    "CPA2019-CH4-S60"
+  ],
+  "related_concepts": [
+    "alias.appeal_time_limit",
+    "alias.district_commission",
+    "alias.district_commission_must_review_order",
+    "alias.review_of_order",
+    "authority.district_commission",
+    "intent.appeal_time_limit",
+    "intent.appeal_time_limit_2"
+  ],
+  "search": {
+    "keywords": [
+      "review",
+      "order",
+      "handled",
+      "commission",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "appeal deadline",
+      "filing appeal",
+      "opposite party response",
+      "time limit for appeal",
+      "time limit for application",
+      "time to respond"
+    ],
+    "user_queries": [
+      "What is review of order handled by commission?",
+      "How does review of order handled by commission work?",
+      "Can you explain review of order handled by commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

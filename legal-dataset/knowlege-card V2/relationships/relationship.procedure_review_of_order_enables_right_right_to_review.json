@@ -1,0 +1,56 @@
+{
+  "concept_id": "relationship.procedure_review_of_order_enables_right_right_to_review",
+  "concept_type": "relationship",
+  "title": "Review of order enables Right to Review",
+  "description": "Review of order --enables--> Right to Review",
+  "content": {
+    "source": "procedure.review_of_order",
+    "relationship": "enables",
+    "target": "right.right_to_review"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S50",
+    "CPA2019-CH4-S60"
+  ],
+  "related_concepts": [
+    "alias.appeal_time_limit",
+    "alias.review_of_order",
+    "alias.right_to_review",
+    "alias.state_commission",
+    "authority.state_commission",
+    "intent.appeal_time_limit",
+    "intent.appeal_time_limit_2"
+  ],
+  "search": {
+    "keywords": [
+      "review",
+      "order",
+      "enables",
+      "right",
+      "procedure"
+    ],
+    "aliases": [
+      "appeal deadline",
+      "filing appeal",
+      "opposite party response",
+      "time limit for appeal",
+      "time limit for application",
+      "time to respond"
+    ],
+    "user_queries": [
+      "What is review of order enables right to review?",
+      "How does review of order enables right to review work?",
+      "Can you explain review of order enables right to review?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

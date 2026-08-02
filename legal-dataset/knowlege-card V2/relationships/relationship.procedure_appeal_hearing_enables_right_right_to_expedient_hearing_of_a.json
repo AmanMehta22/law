@@ -1,0 +1,52 @@
+{
+  "concept_id": "relationship.procedure_appeal_hearing_enables_right_right_to_expedient_hearing_of_a",
+  "concept_type": "relationship",
+  "title": "Appeal Hearing enables Right to Expedient Hearing of Appeal",
+  "description": "Appeal Hearing --enables--> Right to Expedient Hearing of Appeal",
+  "content": {
+    "source": "procedure.appeal_hearing",
+    "relationship": "enables",
+    "target": "right.right_to_expedient_hearing_of_appeal"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S52"
+  ],
+  "related_concepts": [
+    "alias.adjournment_exception",
+    "alias.appeal_hearing",
+    "alias.national_commission",
+    "alias.right_to_expedient_hearing_of_appeal",
+    "alias.state_commission",
+    "authority.national_commission",
+    "authority.state_commission"
+  ],
+  "search": {
+    "keywords": [
+      "appeal",
+      "hearing",
+      "enables",
+      "right",
+      "expedient",
+      "procedure"
+    ],
+    "aliases": [
+      "delay",
+      "postponement"
+    ],
+    "user_queries": [
+      "What is appeal hearing enables right to expedient hearing of appeal?",
+      "How does appeal hearing enables right to expedient hearing of appeal work?",
+      "Can you explain appeal hearing enables right to expedient hearing of appeal?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

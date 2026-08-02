@@ -1,0 +1,55 @@
+{
+  "concept_id": "relationship.exception_no_adjournment_shall_ordinarily_be_granted_limits_right_righ",
+  "concept_type": "relationship",
+  "title": "Adjournment exception limits Right to Expedient Hearing of Appeal",
+  "description": "Adjournment exception --limits--> Right to Expedient Hearing of Appeal",
+  "content": {
+    "source": "exception.no_adjournment_shall_ordinarily_be_granted",
+    "relationship": "limits",
+    "target": "right.right_to_expedient_hearing_of_appeal"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S52"
+  ],
+  "related_concepts": [
+    "alias.adjournment_exception",
+    "alias.appeal_hearing",
+    "alias.national_commission",
+    "alias.right_to_expedient_hearing_of_appeal",
+    "alias.state_commission",
+    "authority.national_commission",
+    "authority.state_commission"
+  ],
+  "search": {
+    "keywords": [
+      "adjournment",
+      "exception",
+      "limits",
+      "right",
+      "expedient",
+      "hearing",
+      "appeal",
+      "ordinarily",
+      "granted"
+    ],
+    "aliases": [
+      "delay",
+      "postponement"
+    ],
+    "user_queries": [
+      "What is adjournment exception limits right to expedient hearing of appeal?",
+      "How does adjournment exception limits right to expedient hearing of appeal work?",
+      "Can you explain adjournment exception limits right to expedient hearing of appeal?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

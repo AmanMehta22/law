@@ -1,0 +1,57 @@
+{
+  "concept_id": "relationship.procedure_overseeing_functioning_of_state_and_district_commissions_han_5",
+  "concept_type": "relationship",
+  "title": "Overseeing functioning of State and District Commissions handled by State Commission",
+  "description": "Overseeing functioning of State and District Commissions --handled_by--> State Commission",
+  "content": {
+    "source": "procedure.overseeing_functioning_of_state_and_district_commissions",
+    "relationship": "handled_by",
+    "target": "authority.state_commission"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S70-1"
+  ],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.district_commission",
+    "alias.investigation_into_allegations_against_state_commission_members",
+    "alias.issuance_of_instructions_for_uniform_procedure",
+    "alias.monitoring_performance_of_state_commissions",
+    "alias.national_commission",
+    "alias.national_commission_must_investigate_allegations_against_state_commission_member"
+  ],
+  "search": {
+    "keywords": [
+      "overseeing",
+      "functioning",
+      "state",
+      "district",
+      "commissions",
+      "handled",
+      "commission",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government"
+    ],
+    "user_queries": [
+      "What is overseeing functioning of state and district commissions handled by state commission?",
+      "How does overseeing functioning of state and district commissions handled by state commission work?",
+      "Can you explain overseeing functioning of state and district commissions handled by state commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

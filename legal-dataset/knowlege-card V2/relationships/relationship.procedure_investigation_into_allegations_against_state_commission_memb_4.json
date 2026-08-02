@@ -1,0 +1,58 @@
+{
+  "concept_id": "relationship.procedure_investigation_into_allegations_against_state_commission_memb_4",
+  "concept_type": "relationship",
+  "title": "Investigation into allegations against State Commission members depends on Periodical returns",
+  "description": "Investigation into allegations against State Commission members --depends_on--> Periodical returns",
+  "content": {
+    "source": "procedure.investigation_into_allegations_against_state_commission_memb",
+    "relationship": "depends_on",
+    "target": "evidence.periodical_returns"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S70-1"
+  ],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.district_commission",
+    "alias.investigation_into_allegations_against_state_commission_members",
+    "alias.issuance_of_instructions_for_uniform_procedure",
+    "alias.monitoring_performance_of_state_commissions",
+    "alias.national_commission",
+    "alias.national_commission_must_investigate_allegations_against_state_commission_member"
+  ],
+  "search": {
+    "keywords": [
+      "investigation",
+      "into",
+      "allegations",
+      "against",
+      "state",
+      "commission",
+      "members",
+      "depends",
+      "periodical",
+      "returns"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government"
+    ],
+    "user_queries": [
+      "What is investigation into allegations against state commission members depends on periodical returns?",
+      "How does investigation into allegations against state commission members depends on periodical returns work?",
+      "Can you explain investigation into allegations against state commission members depends on periodical returns?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

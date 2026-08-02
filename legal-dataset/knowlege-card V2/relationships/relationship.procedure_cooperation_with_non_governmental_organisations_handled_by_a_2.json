@@ -1,0 +1,58 @@
+{
+  "concept_id": "relationship.procedure_cooperation_with_non_governmental_organisations_handled_by_a_2",
+  "concept_type": "relationship",
+  "title": "Cooperation with Non-Governmental Organisations handled by Central Government",
+  "description": "Cooperation with Non-Governmental Organisations --handled_by--> Central Government",
+  "content": {
+    "source": "procedure.cooperation_with_non_governmental_organisations",
+    "relationship": "handled_by",
+    "target": "authority.central_government"
+  },
+  "derived_from": [
+    "CPA2019-CH3-S18-2"
+  ],
+  "related_concepts": [
+    "alias.advising_on_consumer_welfare_measures",
+    "alias.awareness_on_consumer_rights",
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.cooperation_with_non_governmental_organisations",
+    "alias.district_commission",
+    "alias.filing_complaints"
+  ],
+  "search": {
+    "keywords": [
+      "cooperation",
+      "non",
+      "governmental",
+      "organisations",
+      "handled",
+      "central",
+      "government",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "advice on consumer welfare",
+      "advising on consumer welfare",
+      "consumer rights guidance",
+      "consumer welfare advice",
+      "consumer welfare measures"
+    ],
+    "user_queries": [
+      "What is cooperation with non-governmental organisations handled by central government?",
+      "How does cooperation with non-governmental organisations handled by central government work?",
+      "Can you explain cooperation with non-governmental organisations handled by central government?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

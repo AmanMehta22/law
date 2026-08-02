@@ -1,0 +1,58 @@
+{
+  "concept_id": "relationship.procedure_preliminary_inquiry_handled_by_authority_central_authority",
+  "concept_type": "relationship",
+  "title": "Preliminary Inquiry handled by Central Authority",
+  "description": "Preliminary Inquiry --handled_by--> Central Authority",
+  "content": {
+    "source": "procedure.preliminary_inquiry",
+    "relationship": "handled_by",
+    "target": "authority.central_authority"
+  },
+  "derived_from": [
+    "CPA2019-CH3-S19-1"
+  ],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_authority_must_cause_investigation",
+    "alias.central_government",
+    "alias.director_general",
+    "alias.district_collector",
+    "alias.investigation",
+    "alias.preliminary_inquiry"
+  ],
+  "search": {
+    "keywords": [
+      "preliminary",
+      "inquiry",
+      "handled",
+      "central",
+      "authority",
+      "procedure"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is preliminary inquiry handled by central authority?",
+      "How does preliminary inquiry handled by central authority work?",
+      "Can you explain preliminary inquiry handled by central authority?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

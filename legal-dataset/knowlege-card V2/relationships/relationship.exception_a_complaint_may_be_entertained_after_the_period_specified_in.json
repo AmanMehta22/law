@@ -1,0 +1,56 @@
+{
+  "concept_id": "relationship.exception_a_complaint_may_be_entertained_after_the_period_specified_in",
+  "concept_type": "relationship",
+  "title": "Complaint Filing Time Limit Exception limits Right to File a Late Complaint",
+  "description": "Complaint Filing Time Limit Exception --limits--> Right to File a Late Complaint",
+  "content": {
+    "source": "exception.a_complaint_may_be_entertained_after_the_period_specified_in",
+    "relationship": "limits",
+    "target": "right.right_to_file_a_late_complaint"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S69-2"
+  ],
+  "related_concepts": [
+    "alias.complainant_must_satisfy_the_commission",
+    "alias.complaint_filing_time_limit_exception",
+    "alias.district_commission",
+    "alias.filing_of_complaint_after_specified_period",
+    "alias.national_commission",
+    "alias.right_to_file_a_late_complaint",
+    "alias.state_commission"
+  ],
+  "search": {
+    "keywords": [
+      "complaint",
+      "filing",
+      "time",
+      "limit",
+      "exception",
+      "limits",
+      "right",
+      "file",
+      "late",
+      "entertained"
+    ],
+    "aliases": [
+      "applicant",
+      "consumer"
+    ],
+    "user_queries": [
+      "What is complaint filing time limit exception limits right to file a late complaint?",
+      "How does complaint filing time limit exception limits right to file a late complaint work?",
+      "Can you explain complaint filing time limit exception limits right to file a late complaint?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

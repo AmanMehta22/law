@@ -1,0 +1,57 @@
+{
+  "concept_id": "relationship.procedure_recommendation_of_international_covenants_handled_by_authori_3",
+  "concept_type": "relationship",
+  "title": "Recommendation of International Covenants handled by District Commission",
+  "description": "Recommendation of International Covenants --handled_by--> District Commission",
+  "content": {
+    "source": "procedure.recommendation_of_international_covenants",
+    "relationship": "handled_by",
+    "target": "authority.district_commission"
+  },
+  "derived_from": [
+    "CPA2019-CH3-S18-2"
+  ],
+  "related_concepts": [
+    "alias.advising_on_consumer_welfare_measures",
+    "alias.awareness_on_consumer_rights",
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.cooperation_with_non_governmental_organisations",
+    "alias.district_commission",
+    "alias.filing_complaints"
+  ],
+  "search": {
+    "keywords": [
+      "recommendation",
+      "international",
+      "covenants",
+      "handled",
+      "district",
+      "commission",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "advice on consumer welfare",
+      "advising on consumer welfare",
+      "consumer rights guidance",
+      "consumer welfare advice",
+      "consumer welfare measures"
+    ],
+    "user_queries": [
+      "What is recommendation of international covenants handled by district commission?",
+      "How does recommendation of international covenants handled by district commission work?",
+      "Can you explain recommendation of international covenants handled by district commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

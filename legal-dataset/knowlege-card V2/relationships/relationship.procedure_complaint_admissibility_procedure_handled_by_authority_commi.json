@@ -1,0 +1,51 @@
+{
+  "concept_id": "relationship.procedure_complaint_admissibility_procedure_handled_by_authority_commi",
+  "concept_type": "relationship",
+  "title": "Complaint Admissibility Procedure handled by Commission",
+  "description": "Complaint Admissibility Procedure --handled_by--> Commission",
+  "content": {
+    "source": "procedure.complaint_admissibility_procedure",
+    "relationship": "handled_by",
+    "target": "authority.commission"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S36-2"
+  ],
+  "related_concepts": [
+    "alias.admissibility_decision_time_limit",
+    "alias.complaint_admissibility_procedure",
+    "alias.district_commission_must_decide_admissibility_within_21_days",
+    "alias.district_commission_must_give_opportunity_of_being_heard",
+    "alias.right_to_be_heard",
+    "exception.a_complaint_shall_not_be_rejected_unless_an_opportunity_of_b",
+    "intent.admissibility_decision_time_limit"
+  ],
+  "search": {
+    "keywords": [
+      "complaint",
+      "admissibility",
+      "procedure",
+      "handled",
+      "commission",
+      "authority"
+    ],
+    "aliases": [
+      "complaint admission"
+    ],
+    "user_queries": [
+      "What is complaint admissibility procedure handled by commission?",
+      "How does complaint admissibility procedure handled by commission work?",
+      "Can you explain complaint admissibility procedure handled by commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

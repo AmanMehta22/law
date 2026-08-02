@@ -1,0 +1,58 @@
+{
+  "concept_id": "relationship.procedure_mandating_unique_goods_identifiers_handled_by_authority_stat_2",
+  "concept_type": "relationship",
+  "title": "Mandating Unique Goods Identifiers handled by State Government",
+  "description": "Mandating Unique Goods Identifiers --handled_by--> State Government",
+  "content": {
+    "source": "procedure.mandating_unique_goods_identifiers",
+    "relationship": "handled_by",
+    "target": "authority.state_government"
+  },
+  "derived_from": [
+    "CPA2019-CH3-S18-2"
+  ],
+  "related_concepts": [
+    "alias.advising_on_consumer_welfare_measures",
+    "alias.awareness_on_consumer_rights",
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.cooperation_with_non_governmental_organisations",
+    "alias.district_commission",
+    "alias.filing_complaints"
+  ],
+  "search": {
+    "keywords": [
+      "mandating",
+      "unique",
+      "goods",
+      "identifiers",
+      "handled",
+      "state",
+      "government",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "advice on consumer welfare",
+      "advising on consumer welfare",
+      "consumer rights guidance",
+      "consumer welfare advice",
+      "consumer welfare measures"
+    ],
+    "user_queries": [
+      "What is mandating unique goods identifiers handled by state government?",
+      "How does mandating unique goods identifiers handled by state government work?",
+      "Can you explain mandating unique goods identifiers handled by state government?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

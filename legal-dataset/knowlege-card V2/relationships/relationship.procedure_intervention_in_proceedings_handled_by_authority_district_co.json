@@ -1,0 +1,56 @@
+{
+  "concept_id": "relationship.procedure_intervention_in_proceedings_handled_by_authority_district_co",
+  "concept_type": "relationship",
+  "title": "Intervention in Proceedings handled by District Commission",
+  "description": "Intervention in Proceedings --handled_by--> District Commission",
+  "content": {
+    "source": "procedure.intervention_in_proceedings",
+    "relationship": "handled_by",
+    "target": "authority.district_commission"
+  },
+  "derived_from": [
+    "CPA2019-CH3-S18-2"
+  ],
+  "related_concepts": [
+    "alias.advising_on_consumer_welfare_measures",
+    "alias.awareness_on_consumer_rights",
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.cooperation_with_non_governmental_organisations",
+    "alias.district_commission",
+    "alias.filing_complaints"
+  ],
+  "search": {
+    "keywords": [
+      "intervention",
+      "proceedings",
+      "handled",
+      "district",
+      "commission",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "advice on consumer welfare",
+      "advising on consumer welfare",
+      "consumer rights guidance",
+      "consumer welfare advice",
+      "consumer welfare measures"
+    ],
+    "user_queries": [
+      "What is intervention in proceedings handled by district commission?",
+      "How does intervention in proceedings handled by district commission work?",
+      "Can you explain intervention in proceedings handled by district commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

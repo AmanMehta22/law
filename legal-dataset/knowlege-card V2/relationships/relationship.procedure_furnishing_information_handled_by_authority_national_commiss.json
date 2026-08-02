@@ -1,0 +1,56 @@
+{
+  "concept_id": "relationship.procedure_furnishing_information_handled_by_authority_national_commiss",
+  "concept_type": "relationship",
+  "title": "Furnishing information handled by National Commission",
+  "description": "Furnishing information --handled_by--> National Commission",
+  "content": {
+    "source": "procedure.furnishing_information",
+    "relationship": "handled_by",
+    "target": "authority.national_commission"
+  },
+  "derived_from": [
+    "CPA2019-CH8-S101-2"
+  ],
+  "related_concepts": [
+    "alias.appeal_to_national_commission",
+    "alias.appeal_to_state_commission",
+    "alias.authentication_of_goods",
+    "alias.deposit_of_amount",
+    "alias.filing_complaint",
+    "alias.furnishing_information",
+    "alias.government_must_make_rules"
+  ],
+  "search": {
+    "keywords": [
+      "furnishing",
+      "information",
+      "handled",
+      "national",
+      "commission",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "appeal to national commission",
+      "appeal to national consumer commission",
+      "national appeal",
+      "national commission",
+      "national commission appeal"
+    ],
+    "user_queries": [
+      "What is furnishing information handled by national commission?",
+      "How does furnishing information handled by national commission work?",
+      "Can you explain furnishing information handled by national commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

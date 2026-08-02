@@ -1,0 +1,56 @@
+{
+  "concept_id": "relationship.procedure_filing_of_complaint_after_specified_period_depends_on_eviden",
+  "concept_type": "relationship",
+  "title": "Filing of complaint after specified period depends on Sufficient cause",
+  "description": "Filing of complaint after specified period --depends_on--> Sufficient cause",
+  "content": {
+    "source": "procedure.filing_of_complaint_after_specified_period",
+    "relationship": "depends_on",
+    "target": "evidence.sufficient_cause"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S69-2"
+  ],
+  "related_concepts": [
+    "alias.complainant_must_satisfy_the_commission",
+    "alias.complaint_filing_time_limit_exception",
+    "alias.district_commission",
+    "alias.filing_of_complaint_after_specified_period",
+    "alias.national_commission",
+    "alias.right_to_file_a_late_complaint",
+    "alias.state_commission"
+  ],
+  "search": {
+    "keywords": [
+      "filing",
+      "complaint",
+      "after",
+      "specified",
+      "period",
+      "depends",
+      "sufficient",
+      "cause",
+      "procedure",
+      "evidence"
+    ],
+    "aliases": [
+      "applicant",
+      "consumer"
+    ],
+    "user_queries": [
+      "What is filing of complaint after specified period depends on sufficient cause?",
+      "How does filing of complaint after specified period depends on sufficient cause work?",
+      "Can you explain filing of complaint after specified period depends on sufficient cause?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "concept_id": "relationship.procedure_filing_an_appeal_to_the_state_commission_handled_by_authorit_2",
+  "concept_type": "relationship",
+  "title": "Filing an appeal to the State Commission handled by State Commission",
+  "description": "Filing an appeal to the State Commission --handled_by--> State Commission",
+  "content": {
+    "source": "procedure.filing_an_appeal_to_the_state_commission",
+    "relationship": "handled_by",
+    "target": "authority.state_commission"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S41"
+  ],
+  "related_concepts": [
+    "alias.delayed_appeal",
+    "alias.deposit_for_appeal",
+    "alias.filing_an_appeal_to_the_state_commission",
+    "alias.no_appeal_from_mediated_settlement",
+    "alias.proof_of_sufficient_cause",
+    "evidence.deposit_receipt",
+    "evidence.written_explanation"
+  ],
+  "search": {
+    "keywords": [
+      "filing",
+      "appeal",
+      "state",
+      "commission",
+      "handled",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "late appeal"
+    ],
+    "user_queries": [
+      "What is filing an appeal to the state commission handled by state commission?",
+      "How does filing an appeal to the state commission handled by state commission work?",
+      "Can you explain filing an appeal to the state commission handled by state commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "concept_id": "relationship.procedure_filing_an_appeal_to_the_national_commission_enables_right_ri",
+  "concept_type": "relationship",
+  "title": "Filing an appeal to the National Commission enables Right to Appeal",
+  "description": "Filing an appeal to the National Commission --enables--> Right to Appeal",
+  "content": {
+    "source": "procedure.filing_an_appeal_to_the_national_commission",
+    "relationship": "enables",
+    "target": "right.right_to_appeal"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S51-2",
+    "CPA2019-CH4-S51-5"
+  ],
+  "related_concepts": [
+    "alias.appeal_to_national_commission",
+    "alias.filing_an_appeal_to_the_national_commission",
+    "alias.national_commission_must_hear_appeal",
+    "alias.right_to_appeal",
+    "exception.save_as_otherwise_expressly_provided_under_this_act_or_by_an",
+    "intent.appeal_to_national_commission",
+    "intent.appeal_to_national_commission_2"
+  ],
+  "search": {
+    "keywords": [
+      "filing",
+      "appeal",
+      "national",
+      "commission",
+      "enables",
+      "right",
+      "procedure"
+    ],
+    "aliases": [
+      "appeal to national commission",
+      "appeal to national consumer commission",
+      "national appeal",
+      "national commission",
+      "national commission appeal"
+    ],
+    "user_queries": [
+      "What is filing an appeal to the national commission enables right to appeal?",
+      "How does filing an appeal to the national commission enables right to appeal work?",
+      "Can you explain filing an appeal to the national commission enables right to appeal?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

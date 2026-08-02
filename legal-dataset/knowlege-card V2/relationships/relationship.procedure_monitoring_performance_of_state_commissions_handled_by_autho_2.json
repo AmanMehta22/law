@@ -1,0 +1,56 @@
+{
+  "concept_id": "relationship.procedure_monitoring_performance_of_state_commissions_handled_by_autho_2",
+  "concept_type": "relationship",
+  "title": "Monitoring performance of State Commissions handled by Commission",
+  "description": "Monitoring performance of State Commissions --handled_by--> Commission",
+  "content": {
+    "source": "procedure.monitoring_performance_of_state_commissions",
+    "relationship": "handled_by",
+    "target": "authority.commission"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S70-1"
+  ],
+  "related_concepts": [
+    "alias.central_government",
+    "alias.district_commission",
+    "alias.investigation_into_allegations_against_state_commission_members",
+    "alias.issuance_of_instructions_for_uniform_procedure",
+    "alias.monitoring_performance_of_state_commissions",
+    "alias.national_commission",
+    "alias.national_commission_must_investigate_allegations_against_state_commission_member"
+  ],
+  "search": {
+    "keywords": [
+      "monitoring",
+      "performance",
+      "state",
+      "commissions",
+      "handled",
+      "commission",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "Central Govt",
+      "Federal Government",
+      "Govt of India",
+      "Union Government"
+    ],
+    "user_queries": [
+      "What is monitoring performance of state commissions handled by commission?",
+      "How does monitoring performance of state commissions handled by commission work?",
+      "Can you explain monitoring performance of state commissions handled by commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "concept_id": "relationship.procedure_filing_an_appeal_handled_by_authority_national_commission",
+  "concept_type": "relationship",
+  "title": "Filing an appeal handled by National Commission",
+  "description": "Filing an appeal --handled_by--> National Commission",
+  "content": {
+    "source": "procedure.filing_an_appeal",
+    "relationship": "handled_by",
+    "target": "authority.national_commission"
+  },
+  "derived_from": [
+    "CPA2019-CH3-S24",
+    "CPA2019-CH4-S73-1",
+    "CPA2019-CH4-S73-3"
+  ],
+  "related_concepts": [
+    "alias.appeal_time_limit",
+    "alias.central_authority",
+    "alias.filing_an_appeal",
+    "alias.national_commission",
+    "alias.right_to_appeal",
+    "authority.central_authority",
+    "authority.national_commission"
+  ],
+  "search": {
+    "keywords": [
+      "filing",
+      "appeal",
+      "handled",
+      "national",
+      "commission",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "appeal deadline",
+      "filing appeal",
+      "opposite party response",
+      "time limit for appeal",
+      "time limit for application",
+      "time to respond"
+    ],
+    "user_queries": [
+      "What is filing an appeal handled by national commission?",
+      "How does filing an appeal handled by national commission work?",
+      "Can you explain filing an appeal handled by national commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

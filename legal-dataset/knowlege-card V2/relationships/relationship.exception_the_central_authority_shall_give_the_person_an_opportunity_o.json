@@ -1,0 +1,62 @@
+{
+  "concept_id": "relationship.exception_the_central_authority_shall_give_the_person_an_opportunity_o",
+  "concept_type": "relationship",
+  "title": "Opportunity of being heard limits Discontinuation of unfair practices",
+  "description": "Opportunity of being heard --limits--> Discontinuation of unfair practices",
+  "content": {
+    "source": "exception.the_central_authority_shall_give_the_person_an_opportunity_o",
+    "relationship": "limits",
+    "target": "remedy.discontinuation_of_unfair_practices"
+  },
+  "derived_from": [
+    "CPA2019-CH3-S20"
+  ],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.discontinuation_of_unfair_practices",
+    "alias.investigation_and_order_passing",
+    "alias.opportunity_of_being_heard",
+    "alias.recall_of_goods_or_withdrawal_of_services",
+    "alias.reimbursement_of_prices",
+    "alias.right_to_reimbursement"
+  ],
+  "search": {
+    "keywords": [
+      "opportunity",
+      "being",
+      "heard",
+      "limits",
+      "discontinuation",
+      "unfair",
+      "practices",
+      "exception",
+      "central",
+      "authority"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is opportunity of being heard limits discontinuation of unfair practices?",
+      "How does opportunity of being heard limits discontinuation of unfair practices work?",
+      "Can you explain opportunity of being heard limits discontinuation of unfair practices?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

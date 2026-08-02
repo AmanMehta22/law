@@ -1,0 +1,62 @@
+{
+  "concept_id": "relationship.exception_the_central_government_may_prescribe_a_different_value_as_it",
+  "concept_type": "relationship",
+  "title": "Central Government discretion on value limits Right to Appeal",
+  "description": "Central Government discretion on value --limits--> Right to Appeal",
+  "content": {
+    "source": "exception.the_central_government_may_prescribe_a_different_value_as_it",
+    "relationship": "limits",
+    "target": "right.right_to_appeal"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S58-1"
+  ],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.filing_of_complaints_and_appeals_with_the_national_commission",
+    "alias.national_commission",
+    "alias.review_of_state_commission_decisions",
+    "alias.right_to_appeal",
+    "alias.state_commission"
+  ],
+  "search": {
+    "keywords": [
+      "central",
+      "government",
+      "discretion",
+      "value",
+      "limits",
+      "right",
+      "appeal",
+      "exception",
+      "prescribe",
+      "different"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is central government discretion on value limits right to appeal?",
+      "How does central government discretion on value limits right to appeal work?",
+      "Can you explain central government discretion on value limits right to appeal?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

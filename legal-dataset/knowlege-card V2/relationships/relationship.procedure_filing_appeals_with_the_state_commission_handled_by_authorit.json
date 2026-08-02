@@ -1,0 +1,56 @@
+{
+  "concept_id": "relationship.procedure_filing_appeals_with_the_state_commission_handled_by_authorit",
+  "concept_type": "relationship",
+  "title": "Filing appeals with the State Commission handled by Central Government",
+  "description": "Filing appeals with the State Commission --handled_by--> Central Government",
+  "content": {
+    "source": "procedure.filing_appeals_with_the_state_commission",
+    "relationship": "handled_by",
+    "target": "authority.central_government"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S47-1"
+  ],
+  "related_concepts": [
+    "alias.calling_for_records_and_passing_orders",
+    "alias.central_government",
+    "alias.central_government_override",
+    "alias.district_commission",
+    "alias.filing_appeals_with_the_state_commission",
+    "alias.filing_complaints_with_the_state_commission",
+    "alias.pecuniary_jurisdiction_of_state_commission"
+  ],
+  "search": {
+    "keywords": [
+      "filing",
+      "appeals",
+      "state",
+      "commission",
+      "handled",
+      "central",
+      "government",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "calling for records",
+      "calling for records and passing orders",
+      "records and orders"
+    ],
+    "user_queries": [
+      "What is filing appeals with the state commission handled by central government?",
+      "How does filing appeals with the state commission handled by central government work?",
+      "Can you explain filing appeals with the state commission handled by central government?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

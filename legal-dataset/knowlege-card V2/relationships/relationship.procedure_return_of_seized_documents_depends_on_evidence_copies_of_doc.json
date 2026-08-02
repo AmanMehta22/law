@@ -1,0 +1,60 @@
+{
+  "concept_id": "relationship.procedure_return_of_seized_documents_depends_on_evidence_copies_of_doc",
+  "concept_type": "relationship",
+  "title": "Return of seized documents depends on Copies of documents, records or articles",
+  "description": "Return of seized documents --depends_on--> Copies of documents, records or articles",
+  "content": {
+    "source": "procedure.return_of_seized_documents",
+    "relationship": "depends_on",
+    "target": "evidence.copies_of_documents_records_or_articles_extracts_therefrom"
+  },
+  "derived_from": [
+    "CPA2019-CH3-S22-3"
+  ],
+  "related_concepts": [
+    "alias.return_of_seized_documents",
+    "alias.return_of_seized_or_produced_documents_records_or_articles",
+    "alias.right_to_return_of_seized_or_produced_documents",
+    "evidence.copies_of_documents_records_or_articles_extracts_therefrom",
+    "intent.copies_of_documents_records_or_articles",
+    "intent.mediation_references_return_of_seized_documents",
+    "intent.return_of_seized_documents"
+  ],
+  "search": {
+    "keywords": [
+      "return",
+      "seized",
+      "documents",
+      "depends",
+      "copies",
+      "records",
+      "articles",
+      "procedure",
+      "evidence",
+      "extracts"
+    ],
+    "aliases": [
+      "document return",
+      "giving back seized files",
+      "release of seized papers",
+      "restoration of documents",
+      "restoring seized documents",
+      "return of confiscated documents"
+    ],
+    "user_queries": [
+      "What is return of seized documents depends on copies of documents, records or articles?",
+      "How does return of seized documents depends on copies of documents, records or articles work?",
+      "Can you explain return of seized documents depends on copies of documents, records or articles?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

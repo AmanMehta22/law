@@ -1,0 +1,58 @@
+{
+  "concept_id": "relationship.procedure_complaint_handling_by_district_commission_enables_right_righ",
+  "concept_type": "relationship",
+  "title": "Complaint handling by District Commission enables Right to be Heard",
+  "description": "Complaint handling by District Commission --enables--> Right to be Heard",
+  "content": {
+    "source": "procedure.complaint_handling_by_district_commission",
+    "relationship": "enables",
+    "target": "right.right_to_be_heard"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S38-3"
+  ],
+  "related_concepts": [
+    "alias.appeal_time_limit",
+    "alias.complaint_handling_by_district_commission",
+    "alias.district_commission",
+    "alias.district_commission_must_decide_complaint_on_merits",
+    "alias.district_commission_must_direct_opposite_party_to_respond",
+    "alias.district_commission_must_refer_complaint",
+    "alias.district_commission_must_settle_consumer_dispute"
+  ],
+  "search": {
+    "keywords": [
+      "complaint",
+      "handling",
+      "district",
+      "commission",
+      "enables",
+      "right",
+      "heard",
+      "procedure"
+    ],
+    "aliases": [
+      "appeal deadline",
+      "filing appeal",
+      "opposite party response",
+      "time limit for appeal",
+      "time limit for application",
+      "time to respond"
+    ],
+    "user_queries": [
+      "What is complaint handling by district commission enables right to be heard?",
+      "How does complaint handling by district commission enables right to be heard work?",
+      "Can you explain complaint handling by district commission enables right to be heard?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

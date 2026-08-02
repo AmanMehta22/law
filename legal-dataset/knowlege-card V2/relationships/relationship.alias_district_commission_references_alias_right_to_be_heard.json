@@ -1,0 +1,52 @@
+{
+  "concept_id": "relationship.alias_district_commission_references_alias_right_to_be_heard",
+  "concept_type": "relationship",
+  "title": "District Commission references Right to be Heard",
+  "description": "District Commission --references--> Right to be Heard",
+  "content": {
+    "source": "alias.district_commission",
+    "relationship": "references",
+    "target": "alias.right_to_be_heard"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S36-2",
+    "CPA2019-CH4-S38-3"
+  ],
+  "related_concepts": [
+    "alias.admissibility_decision_time_limit",
+    "alias.complaint_admissibility_procedure",
+    "alias.district_commission_must_decide_admissibility_within_21_days",
+    "alias.district_commission_must_give_opportunity_of_being_heard",
+    "alias.right_to_be_heard",
+    "exception.a_complaint_shall_not_be_rejected_unless_an_opportunity_of_b",
+    "intent.admissibility_decision_time_limit"
+  ],
+  "search": {
+    "keywords": [
+      "district",
+      "commission",
+      "references",
+      "right",
+      "heard",
+      "alias"
+    ],
+    "aliases": [
+      "complaint admission"
+    ],
+    "user_queries": [
+      "What is district commission references right to be heard?",
+      "How does district commission references right to be heard work?",
+      "Can you explain district commission references right to be heard?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

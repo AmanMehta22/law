@@ -1,0 +1,53 @@
+{
+  "concept_id": "relationship.procedure_settlement_disposal_handled_by_authority_state_commission",
+  "concept_type": "relationship",
+  "title": "Settlement Disposal handled by State Commission",
+  "description": "Settlement Disposal --handled_by--> State Commission",
+  "content": {
+    "source": "procedure.settlement_disposal",
+    "relationship": "handled_by",
+    "target": "authority.state_commission"
+  },
+  "derived_from": [
+    "CPA2019-CH5-S81-1"
+  ],
+  "related_concepts": [
+    "alias.commission_must_pass_order_and_dispose_of_matter",
+    "alias.district_commission",
+    "alias.national_commission",
+    "alias.settlement_disposal",
+    "alias.state_commission",
+    "authority.district_commission",
+    "authority.national_commission"
+  ],
+  "search": {
+    "keywords": [
+      "settlement",
+      "disposal",
+      "handled",
+      "state",
+      "commission",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "consumer complaint",
+      "dispute resolution"
+    ],
+    "user_queries": [
+      "What is settlement disposal handled by state commission?",
+      "How does settlement disposal handled by state commission work?",
+      "Can you explain settlement disposal handled by state commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

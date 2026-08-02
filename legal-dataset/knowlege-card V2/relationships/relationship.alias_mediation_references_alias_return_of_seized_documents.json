@@ -1,0 +1,57 @@
+{
+  "concept_id": "relationship.alias_mediation_references_alias_return_of_seized_documents",
+  "concept_type": "relationship",
+  "title": "Mediation references Return of seized documents",
+  "description": "Mediation --references--> Return of seized documents",
+  "content": {
+    "source": "alias.mediation",
+    "relationship": "references",
+    "target": "alias.return_of_seized_documents"
+  },
+  "derived_from": [
+    "CPA2019-CH3-S22-3",
+    "CPA2019-CH8-S101-2"
+  ],
+  "related_concepts": [
+    "alias.return_of_seized_documents",
+    "alias.return_of_seized_or_produced_documents_records_or_articles",
+    "alias.right_to_return_of_seized_or_produced_documents",
+    "evidence.copies_of_documents_records_or_articles_extracts_therefrom",
+    "intent.copies_of_documents_records_or_articles",
+    "intent.mediation_references_return_of_seized_documents",
+    "intent.return_of_seized_documents"
+  ],
+  "search": {
+    "keywords": [
+      "mediation",
+      "references",
+      "return",
+      "seized",
+      "documents",
+      "alias"
+    ],
+    "aliases": [
+      "document return",
+      "giving back seized files",
+      "release of seized papers",
+      "restoration of documents",
+      "restoring seized documents",
+      "return of confiscated documents"
+    ],
+    "user_queries": [
+      "What is mediation references return of seized documents?",
+      "How does mediation references return of seized documents work?",
+      "Can you explain mediation references return of seized documents?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

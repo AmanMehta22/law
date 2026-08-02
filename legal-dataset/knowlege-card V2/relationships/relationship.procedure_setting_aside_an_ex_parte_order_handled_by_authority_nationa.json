@@ -1,0 +1,59 @@
+{
+  "concept_id": "relationship.procedure_setting_aside_an_ex_parte_order_handled_by_authority_nationa",
+  "concept_type": "relationship",
+  "title": "Setting aside an ex parte order handled by National Commission",
+  "description": "Setting aside an ex parte order --handled_by--> National Commission",
+  "content": {
+    "source": "procedure.setting_aside_an_ex_parte_order",
+    "relationship": "handled_by",
+    "target": "authority.national_commission"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S61"
+  ],
+  "related_concepts": [
+    "alias.national_commission",
+    "alias.setting_aside_an_ex_parte_order",
+    "alias.setting_aside_of_ex_parte_order",
+    "authority.national_commission",
+    "intent.national_commission",
+    "intent.national_commission_2",
+    "intent.setting_aside_an_ex_parte_order"
+  ],
+  "search": {
+    "keywords": [
+      "setting",
+      "aside",
+      "parte",
+      "order",
+      "handled",
+      "national",
+      "commission",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "Central Commission",
+      "Central Consumer Protection Council",
+      "NCDRC",
+      "National Consumer Commission",
+      "National Consumer Disputes Redressal Commission",
+      "National Consumer Protection Agency"
+    ],
+    "user_queries": [
+      "What is setting aside an ex parte order handled by national commission?",
+      "How does setting aside an ex parte order handled by national commission work?",
+      "Can you explain setting aside an ex parte order handled by national commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

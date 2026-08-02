@@ -1,0 +1,57 @@
+{
+  "concept_id": "relationship.procedure_research_in_consumer_rights_handled_by_authority_national_co",
+  "concept_type": "relationship",
+  "title": "Research in Consumer Rights handled by National Commission",
+  "description": "Research in Consumer Rights --handled_by--> National Commission",
+  "content": {
+    "source": "procedure.research_in_consumer_rights",
+    "relationship": "handled_by",
+    "target": "authority.national_commission"
+  },
+  "derived_from": [
+    "CPA2019-CH3-S18-2"
+  ],
+  "related_concepts": [
+    "alias.advising_on_consumer_welfare_measures",
+    "alias.awareness_on_consumer_rights",
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.cooperation_with_non_governmental_organisations",
+    "alias.district_commission",
+    "alias.filing_complaints"
+  ],
+  "search": {
+    "keywords": [
+      "research",
+      "consumer",
+      "rights",
+      "handled",
+      "national",
+      "commission",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "advice on consumer welfare",
+      "advising on consumer welfare",
+      "consumer rights guidance",
+      "consumer welfare advice",
+      "consumer welfare measures"
+    ],
+    "user_queries": [
+      "What is research in consumer rights handled by national commission?",
+      "How does research in consumer rights handled by national commission work?",
+      "Can you explain research in consumer rights handled by national commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

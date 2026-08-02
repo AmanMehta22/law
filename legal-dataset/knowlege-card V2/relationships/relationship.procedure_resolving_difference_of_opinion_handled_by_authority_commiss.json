@@ -1,0 +1,57 @@
+{
+  "concept_id": "relationship.procedure_resolving_difference_of_opinion_handled_by_authority_commiss",
+  "concept_type": "relationship",
+  "title": "Resolving Difference of Opinion handled by Commission",
+  "description": "Resolving Difference of Opinion --handled_by--> Commission",
+  "content": {
+    "source": "procedure.resolving_difference_of_opinion",
+    "relationship": "handled_by",
+    "target": "authority.commission"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S39-3"
+  ],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.member_must_give_opinion_within_a_month",
+    "alias.resolving_difference_of_opinion",
+    "authority.district_commission",
+    "exception.the_other_member_shall_give_his_opinion_on_such_point_or_poi",
+    "intent.district_commission",
+    "intent.district_commission_2"
+  ],
+  "search": {
+    "keywords": [
+      "resolving",
+      "difference",
+      "opinion",
+      "handled",
+      "commission",
+      "procedure",
+      "authority"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum"
+    ],
+    "user_queries": [
+      "What is resolving difference of opinion handled by commission?",
+      "How does resolving difference of opinion handled by commission work?",
+      "Can you explain resolving difference of opinion handled by commission?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

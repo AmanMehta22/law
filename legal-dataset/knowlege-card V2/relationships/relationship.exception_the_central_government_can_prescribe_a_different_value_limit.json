@@ -1,0 +1,57 @@
+{
+  "concept_id": "relationship.exception_the_central_government_can_prescribe_a_different_value_limit",
+  "concept_type": "relationship",
+  "title": "Central Government override limits Right to Appeal",
+  "description": "Central Government override --limits--> Right to Appeal",
+  "content": {
+    "source": "exception.the_central_government_can_prescribe_a_different_value",
+    "relationship": "limits",
+    "target": "right.right_to_appeal"
+  },
+  "derived_from": [
+    "CPA2019-CH4-S47-1"
+  ],
+  "related_concepts": [
+    "alias.calling_for_records_and_passing_orders",
+    "alias.central_government",
+    "alias.central_government_override",
+    "alias.district_commission",
+    "alias.filing_appeals_with_the_state_commission",
+    "alias.filing_complaints_with_the_state_commission",
+    "alias.pecuniary_jurisdiction_of_state_commission"
+  ],
+  "search": {
+    "keywords": [
+      "central",
+      "government",
+      "override",
+      "limits",
+      "right",
+      "appeal",
+      "exception",
+      "can",
+      "prescribe",
+      "different"
+    ],
+    "aliases": [
+      "calling for records",
+      "calling for records and passing orders",
+      "records and orders"
+    ],
+    "user_queries": [
+      "What is central government override limits right to appeal?",
+      "How does central government override limits right to appeal work?",
+      "Can you explain central government override limits right to appeal?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "concept_id": "relationship.procedure_investigation_and_order_passing_handled_by_authority_central",
+  "concept_type": "relationship",
+  "title": "Investigation and Order Passing handled by Central Authority",
+  "description": "Investigation and Order Passing --handled_by--> Central Authority",
+  "content": {
+    "source": "procedure.investigation_and_order_passing",
+    "relationship": "handled_by",
+    "target": "authority.central_authority"
+  },
+  "derived_from": [
+    "CPA2019-CH3-S20"
+  ],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.discontinuation_of_unfair_practices",
+    "alias.investigation_and_order_passing",
+    "alias.opportunity_of_being_heard",
+    "alias.recall_of_goods_or_withdrawal_of_services",
+    "alias.reimbursement_of_prices",
+    "alias.right_to_reimbursement"
+  ],
+  "search": {
+    "keywords": [
+      "investigation",
+      "order",
+      "passing",
+      "handled",
+      "central",
+      "authority",
+      "procedure"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority"
+    ],
+    "user_queries": [
+      "What is investigation and order passing handled by central authority?",
+      "How does investigation and order passing handled by central authority work?",
+      "Can you explain investigation and order passing handled by central authority?"
+    ]
+  },
+  "metadata": {
+    "jurisdiction": "India",
+    "act": "Consumer Protection Act, 2019",
+    "language": "en",
+    "review_status": "draft",
+    "confidence": 0.0,
+    "created_by": "RelationshipAgent",
+    "reviewed_by": null,
+    "version": 1
+  }
+}
