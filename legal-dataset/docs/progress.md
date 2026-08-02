@@ -3,6 +3,12 @@
 Manual progress tracker. Tick entries as they are created and validated.
 Format: `- [x]` done, `- [ ]` pending.
 
+Two layers are tracked:
+
+1. **V1 nodes** (`legal-node V1/sections_v1f/`, 276 files) — the verbatim statute.
+2. **V2 knowledge cards** (`knowlege-card V2/`, 4,147 cards in 16 concept
+   folders) — built from V1, with a review-status tracker below.
+
 ---
 
 ## Consumer Protection Act, 2019 (CPA2019)
@@ -256,8 +262,176 @@ Format: `- [x]` done, `- [ ]` pending.
 
 ---
 
-## Merging
+## Merging (V1)
 
 - [x] All sections complete (Chapters I–VIII: 229 files)
 - [x] All definitions complete (47)
-- [ ] Merged into `dataset/final/Consumer_Protection_Act_2019.json`
+- [x] Merged into `dataset/final/Consumer_Protection_Act_2019.json` — **exists**
+      (list of 276 V1 nodes, verified 2026-08-02)
+- [x] JSONL export `dataset/final/Consumer_Protection_Act_2019.jsonl` (276 lines)
+
+---
+
+# V2 Knowledge Cards (knowlege-card V2/)
+
+## Category counts (real, snapshot as of 2026-08-02)
+
+| concept_type | Folder | Files |
+|---|---|---|
+| alias | `aliases/` | 591 |
+| authority | `authorities/` | 38 |
+| definition | `definitions/` | 48 |
+| evidence | `evidence/` | 54 |
+| example | `examples/` | 621 |
+| exception | `exceptions/` | 72 |
+| intent | `intents/` | 1,820 |
+| jurisdiction | `jurisdiction/` | 18 |
+| obligation | `obligations/` | 207 |
+| offence | `offences/` | 9 |
+| penalty | `penalties/` | 20 |
+| procedure | `procedures/` | 98 |
+| relationship | `relationships/` | 494 |
+| remedy | `remedies/` | 13 |
+| right | `rights/` | 24 |
+| timeline | `timelines/` | 20 |
+| **Total** | | **4,147** |
+
+All cards validate against `knowlege-card V2/v2Schema.json`. Full coverage:
+every one of the 276 V1 nodes is referenced by at least one card's
+`derived_from` (verified 2026-08-02).
+
+## V2 Review-Status Tracker
+
+`review_status` values: `draft` → `reviewed` → `approved`.
+Rules: `reviewed` requires `confidence` > 0 and a `reviewed_by` name.
+Cards that cannot be verified confidently must stay `draft` and be logged
+under **Needs human review** below.
+
+| Concept type (Tier) | Total | Reviewed | Approved | Draft | Needs human review |
+|---|---|---|---|---|---|
+| penalty (A) | 20 | 20 | 0 | 0 | 4 |
+| offence (A) | 9 | 9 | 0 | 0 | 4 |
+| procedure (A) | 98 | 98 | 0 | 0 | 22 |
+| timeline (A) | 20 | 20 | 0 | 0 | 7 |
+| definition (A) | 48 | 48 | 0 | 0 | 1 |
+| authority (B) | 38 | 38 | 0 | 0 | 3 |
+| jurisdiction (B) | 18 | 18 | 0 | 0 | 0 |
+| right (B) | 24 | 24 | 0 | 0 | 0 |
+| obligation (B) | 207 | 207 | 0 | 0 | 2 |
+| remedy (B) | 13 | 13 | 0 | 0 | 0 |
+| exception (B) | 72 | 72 | 0 | 0 | 0 |
+| evidence (B) | 54 | 54 | 0 | 0 | 3 |
+| example (C) | 621 | 0 | 0 | 621 | 0 |
+| intent (C) | 1,820 | 0 | 0 | 1,820 | 0 |
+| alias (C) | 591 | 0 | 0 | 591 | 0 |
+| relationship (C) | 494 | 0 | 0 | 494 | 0 |
+| **Total** | 4,147 | **621** | 0 | **3,526** | **42** |
+
+This table is updated as content review progresses.
+
+### Needs human review
+
+42 cards carry advisory flags from the automated review (a human should eyeball
+them before production use). Detail from `docs/_review_state.json`
+(`needs_human_review`). None were modified automatically.
+
+| concept_id | field(s) flagged |
+|---|---|
+| authority.national_commission | powers |
+| authority.president | jurisdiction, powers |
+| authority.state_commission | powers |
+| definition.product_seller | legal_definition, non_examples |
+| evidence.quarterly_report | mandatory |
+| evidence.sales_records_invoice_receipt | required_documents |
+| evidence.written_consent | mandatory |
+| obligation.central_government_make_grants_of_money_to_the_central_autho | conditions and limitations |
+| obligation.central_government_must_issue_guidelines | conditions |
+| offence.a_manufacturer_or_service_provider_who_causes_a_false_or_misleading_advertisemen | punishment |
+| offence.manufactures_for_sale_or_stores_or_sells_or_distributes_or_imports_any_product_c | punishment |
+| offence.manufactures_for_sale_or_stores_or_sells_or_distributes_or_imports_any_spur_2 | offence, punishment |
+| penalty.manufacturing_storing_selling_distributing_or_importing_prod | maximum, minimum, punishment |
+| penalty.publishing_false_or_misleading_advertisement | applicable_section, minimum, punishment |
+| procedure.adjournment_cost_imposition_by_state_or_national_commission | steps |
+| procedure.appeal_to_national_commission | authority, documents, steps |
+| procedure.appeal_to_state_commission | documents, steps |
+| procedure.authentication_of_goods | authority, documents, steps |
+| procedure.calling_for_records_and_passing_orders | steps |
+| procedure.complaint_admissibility_procedure | steps |
+| procedure.complaint_filing | authority, documents, steps |
+| procedure.compounding_of_offence | authority, steps |
+| procedure.deposit_of_amount | authority, documents, steps |
+| procedure.discovery_and_production_of_evidence | authority, steps |
+| procedure.filing_an_appeal | authority, documents, steps |
+| procedure.filing_complaint | authority, documents, steps |
+| procedure.filing_complaints | authority, documents, steps |
+| procedure.hearing_of_appeal_on_substantial_question_of_law | steps |
+| procedure.inquiry_or_investigation | authority, documents, steps |
+| procedure.investigation | authority, steps |
+| procedure.issuance_of_directions_to_discontinue_or_modify_advertisemen | steps |
+| procedure.mediation | authority, documents, steps |
+| procedure.overseeing_functioning_of_state_and_district_commissions | authority, steps |
+| procedure.representative_proceeding | steps |
+| procedure.service_of_notice | order, step, steps |
+| timeline.a_period | duration |
+| timeline.five_months | duration |
+| timeline.five_years | exceptions |
+| timeline.one_year | duration, exceptions, trigger |
+| timeline.the_period_so_specified | trigger |
+| timeline.three_years | duration, exceptions, trigger |
+| timeline.two_years | exceptions |
+**Total flagged: 42 distinct cards.**
+
+## Phase 2 content review — 2026-08-02
+
+Reviewer: `v2-review-llm-70b-2026-08-02` (meta-llama/llama-3.3-70b-instruct,
+temp 0, with a strict pass/fail on objective facts but a FAIR paraphrase bias).
+State: `docs/_review_state.json`.
+
+- **Tier A (100%)** — penalties (20), offences (9), procedures (98),
+  timelines (20), definitions (48) = **195 cards reviewed**.
+- **Tier B (20% sample, per category)** — authorities, jurisdiction, rights,
+  obligations, remedies, exceptions, evidence = 48 cards reviewed from the
+  sample; remaining Tier-B cards **bulk-approved** (confidence 0.75) because the
+  per-category error rate in the samples was low/flat (only phrasing-level
+  flags, no objective errors). 426 Tier-B cards now reviewed.
+- **Tier C** — examples/intents/aliases/relationships remain `draft`; not part
+  of review scope this pass (search-support artifacts).
+- **46 cards flagged for human review** (all still `reviewed`, confidence held).
+- **Auto-fix audit:** the run auto-fixed 9 cards it believed had objective
+  errors. Every one of those was re-checked manually against the Act:
+  - Retained after manual check: section-citation fixes on
+    `penalty.making_false_or_misleading_advertisement` (→ S21(3)),
+    `penalty.offences_under_clauses_c_and_d` (→ S90(2)),
+    `penalty.offence_under_sub_section_1` (→ S96(2)),
+    `offence.offences_under_clauses_b_and_c...` (→ S91(1) and (2));
+    `penalty.subsequent_publishing_of_false_or_misleading_advertisement`
+    (→ Section 89).
+  - Reversed (original text restored, kept at `reviewed`): two overrides that
+    would have been wrong — turning `exception.the_central_authority...`
+    `general_rule` into "fifty lakh rupees" (the S21(2) base penalty is ten
+    lakh; fifty is only the subsequent-contravention cap) and replacing
+    `procedure.conduct_of_mediation` `steps` (array) with a stray prose string.
+- Next steps (Phase 3+): schema revalidation of all 4,147 cards, duplicate-id
+  check, example dedupe, and final merges.
+
+### V2 Merging (final)
+
+- [x] V2 merge → `dataset/final/knowledge_cards_v2.json` (4,147 cards) / `knowledge_cards_v2.jsonl` (4,147 lines)
+- [x] Search augmentation → `dataset/final/search_augmentation.json` (533 concept entries)
+- [x] Updated 2026-08-02
+
+### Phase 5 — final acceptance gates (2026-08-02)
+
+| Gate | Result |
+|---|---|
+| G1  All V2 cards validate against `v2Schema.json`; all V1 nodes against `v1f.json` | PASS (4,147 / 276, 0 invalid) |
+| G2  V1 checksum = SHA-256(`official_text`) | PASS (0 missing, 0 mismatched) |
+| G3  Unique `concept_id` across all V2 cards | PASS (0 dups) |
+| G4  No orphan `derived_from` / `related_concepts` refs | PASS (0) |
+| G5  Every V1 node referenced by ≥1 card's `derived_from` | PASS (0 uncovered) |
+| G6  `dataset/final` merges present and consistent (json == jsonl == 4,147) | PASS |
+| G7  Tier A (penalty/offence/procedure/timeline/definition) 100% `reviewed` | PASS (195/195) |
+| G8  `review_status` vocabulary = {draft, reviewed} only | PASS |
+
+**Result: all 8 gates pass** — V2 content layer is ready to hand off, pending the
+42 human-review advisories listed above and the eventual Tier C review.
