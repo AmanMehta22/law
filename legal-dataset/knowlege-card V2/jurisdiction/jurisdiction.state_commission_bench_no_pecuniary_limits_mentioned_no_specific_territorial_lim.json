@@ -7,16 +7,49 @@
     "authority": "State Commission Bench",
     "territorial": "No specific territorial limits mentioned",
     "pecuniary": "No pecuniary limits mentioned",
-    "conditions": []
+    "conditions": [
+      "the President may deem fit",
+      "the senior-most member shall preside over the Bench"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S47-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.bench",
+    "alias.president",
+    "alias.state_commission",
+    "authority.bench",
+    "authority.president",
+    "authority.state_commission",
+    "exception.does_not_include_a_person_who_obtains_goods_for_resale_or_co"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "territorial",
+      "jurisdiction",
+      "state",
+      "commission",
+      "bench",
+      "exercise",
+      "powers",
+      "authority",
+      "specific",
+      "limits"
+    ],
+    "aliases": [
+      "Court Bench",
+      "Judicial Bench",
+      "Tribunal",
+      "state bench area of authority",
+      "state bench geographical area",
+      "state commission bench jurisdiction"
+    ],
+    "user_queries": [
+      "What is territorial jurisdiction of state commission bench?",
+      "How does territorial jurisdiction of state commission bench work?",
+      "Can you explain territorial jurisdiction of state commission bench?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

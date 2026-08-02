@@ -7,16 +7,49 @@
     "authority": "District Commission",
     "territorial": "that district",
     "pecuniary": "[]",
-    "conditions": []
+    "conditions": [
+      "vacancy in the office of the President or member of a District Commission"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S32"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.state_government",
+    "alias.state_government_must_direct_in_case_of_vacancy",
+    "authority.district_commission",
+    "authority.state_government",
+    "intent.district_commission",
+    "intent.district_commission_2"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "territorial",
+      "jurisdiction",
+      "district",
+      "commission",
+      "exercise",
+      "respect",
+      "also"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum",
+      "district commission authority area",
+      "district commission geographical area",
+      "district commission regional scope",
+      "territorial scope of district commission"
+    ],
+    "user_queries": [
+      "What is territorial jurisdiction of district commission?",
+      "How does territorial jurisdiction of district commission work?",
+      "Can you explain territorial jurisdiction of district commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

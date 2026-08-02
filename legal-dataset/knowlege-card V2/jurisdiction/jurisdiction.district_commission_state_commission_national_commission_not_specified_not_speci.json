@@ -7,16 +7,53 @@
     "authority": "District Commission, State Commission, National Commission",
     "territorial": "Not specified",
     "pecuniary": "Not specified",
-    "conditions": []
+    "conditions": [
+      "Save as otherwise provided",
+      "as the case may be"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S72-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.national_commission",
+    "alias.state_commission",
+    "alias.trial_of_offences",
+    "authority.district_commission",
+    "authority.national_commission",
+    "authority.state_commission"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "territorial",
+      "jurisdiction",
+      "district",
+      "state",
+      "national",
+      "commissions",
+      "trial",
+      "offences",
+      "sub",
+      "section"
+    ],
+    "aliases": [
+      "Consumer Forum District Level",
+      "DC",
+      "District Consumer Commission",
+      "District Consumer Court",
+      "Local Consumer Court",
+      "Local Consumer Forum",
+      "consumer forum jurisdiction",
+      "geographical scope of commissions",
+      "regional jurisdiction of district, state and national commissions",
+      "territorial authority of consumer commissions"
+    ],
+    "user_queries": [
+      "What is territorial jurisdiction of district, state and national commissions?",
+      "How does territorial jurisdiction of district, state and national commissions work?",
+      "Can you explain territorial jurisdiction of district, state and national commissions?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

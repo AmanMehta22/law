@@ -7,16 +7,52 @@
     "authority": "District Collector",
     "territorial": "within his jurisdiction",
     "pecuniary": "[]",
-    "conditions": []
+    "conditions": [
+      "on a complaint",
+      "on a reference made to him by the Central Authority or the Commissioner of a regional office"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S16"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.commissioner_of_a_regional_office",
+    "alias.district_collector",
+    "alias.district_collector_must_inquire_and_report",
+    "alias.inquiry_or_investigation",
+    "authority.central_authority",
+    "authority.commissioner_of_a_regional_office"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "territorial",
+      "jurisdiction",
+      "district",
+      "collector",
+      "inquire",
+      "into",
+      "investigate",
+      "complaints",
+      "his"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority",
+      "district collector authority area",
+      "district collector jurisdiction"
+    ],
+    "user_queries": [
+      "What is territorial jurisdiction of district collector?",
+      "How does territorial jurisdiction of district collector work?",
+      "Can you explain territorial jurisdiction of district collector?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

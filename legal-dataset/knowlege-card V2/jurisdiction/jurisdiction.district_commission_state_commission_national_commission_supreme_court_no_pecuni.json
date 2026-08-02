@@ -7,21 +7,45 @@
     "authority": "District Commission, State Commission, National Commission, Supreme Court",
     "territorial": "No specific territorial limits mentioned",
     "pecuniary": "No pecuniary limits mentioned",
-    "conditions": []
+    "conditions": [
+      "on facts",
+      "on law"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S73-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.district_commission",
+    "alias.filing_an_appeal",
+    "alias.national_commission",
+    "alias.right_to_appeal",
+    "alias.state_commission",
+    "alias.supreme_court",
+    "alias.territorial_jurisdiction_of_appellate_authorities"
+  ],
   "search": {
     "keywords": [
       "appeal",
-      "appellate authorities"
+      "appellate authorities",
+      "territorial",
+      "jurisdiction",
+      "appellate",
+      "authorities",
+      "lies",
+      "district",
+      "commission",
+      "state",
+      "national"
     ],
     "aliases": [
       "hierarchy of appeal"
     ],
-    "user_queries": []
+    "user_queries": [
+      "What is filing an appeal handled by district commission?",
+      "How does filing an appeal handled by district commission work?",
+      "Can you explain filing an appeal handled by district commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

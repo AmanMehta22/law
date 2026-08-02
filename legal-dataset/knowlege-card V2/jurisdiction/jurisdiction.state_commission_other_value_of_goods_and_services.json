@@ -5,7 +5,7 @@
   "description": "State Commission jurisdiction",
   "content": {
     "authority": "State Commission",
-    "territorial": "",
+    "territorial": "within the State",
     "pecuniary": "other value of goods and services",
     "conditions": [
       "Complaint value as prescribed"
@@ -14,11 +14,41 @@
   "derived_from": [
     "CPA2019-CH8-S101-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_to_national_commission",
+    "alias.appeal_to_state_commission",
+    "alias.authentication_of_goods",
+    "alias.deposit_of_amount",
+    "alias.filing_complaint",
+    "alias.furnishing_information",
+    "alias.government_must_make_rules"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "pecuniary",
+      "jurisdiction",
+      "state",
+      "commission",
+      "other",
+      "value",
+      "goods",
+      "services",
+      "complaint",
+      "prescribed"
+    ],
+    "aliases": [
+      "appeal to national commission",
+      "appeal to national consumer commission",
+      "national appeal",
+      "national commission",
+      "national commission appeal",
+      "State Consumer Commission"
+    ],
+    "user_queries": [
+      "What is calling for records and passing orders?",
+      "How does calling for records and passing orders work?",
+      "Can you explain calling for records and passing orders?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

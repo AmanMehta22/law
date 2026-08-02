@@ -6,17 +6,54 @@
   "content": {
     "authority": "District Commission",
     "territorial": "Within the local limits of the jurisdiction where the opposite party resides, carries on business, has a branch office, or personally works for gain, or where the cause of action arises, or where the complainant resides or personally works for gain",
-    "pecuniary": "",
-    "conditions": []
+    "pecuniary": "Not specified in the Act",
+    "conditions": [
+      "the opposite party or each of the opposite parties, where there are more than one, at the time of the institution of the complaint, ordinarily resides or carries on business or has a branch office or personally works for gain",
+      "any of the opposite parties, where there are more than one, at the time of the institution of the complaint, actually and voluntarily resides, or carries on business or has a branch office, or personally works for gain, provided that in such case the permission of the District Commission is given",
+      "the cause of action, wholly or in part, arises",
+      "the complainant resides or personally works for gain"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S34-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.complaint_filing",
+    "alias.district_commission",
+    "alias.permission_from_district_commission",
+    "authority.district_commission",
+    "exception.does_not_apply_without_permission_of_the_district_commission",
+    "intent.complaint_filing",
+    "intent.complaint_filing_2"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "territorial",
+      "jurisdiction",
+      "district",
+      "commission",
+      "complaint",
+      "institution",
+      "local",
+      "limits",
+      "where",
+      "opposite"
+    ],
+    "aliases": [
+      "complaint lodging",
+      "complaint registration",
+      "filing a complaint",
+      "submitting a complaint",
+      "district commission authority area",
+      "district commission geographical area",
+      "district commission regional scope",
+      "territorial scope of district commission"
+    ],
+    "user_queries": [
+      "What is territorial jurisdiction of district commission?",
+      "How does territorial jurisdiction of district commission work?",
+      "Can you explain territorial jurisdiction of district commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

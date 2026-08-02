@@ -7,16 +7,48 @@
     "authority": "State Commission",
     "territorial": "State capital and other notified places",
     "pecuniary": "[]",
-    "conditions": []
+    "conditions": [
+      "in consultation with the State Commission",
+      "by notification",
+      "as the State Government may deem fit"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S42-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.regional_benches_establishment",
+    "exception.the_state_government_may_establish_regional_benches_of_the_s",
+    "intent.regional_benches_establishment",
+    "intent.regional_benches_establishment_3",
+    "intent.state_government_must_consult_state_commission",
+    "intent.state_government_must_notify_in_official_gazette",
+    "intent.territorial_jurisdiction_of_state_commission"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "territorial",
+      "jurisdiction",
+      "state",
+      "commission",
+      "ordinary",
+      "functioning",
+      "additional",
+      "places",
+      "function",
+      "capital"
+    ],
+    "aliases": [
+      "State Consumer Commission",
+      "state commission area of authority",
+      "state commission geographical area",
+      "state commission jurisdiction"
+    ],
+    "user_queries": [
+      "What is regional benches establishment?",
+      "How does regional benches establishment work?",
+      "Can you explain regional benches establishment?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

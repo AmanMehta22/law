@@ -5,7 +5,7 @@
   "description": "National Commission jurisdiction",
   "content": {
     "authority": "National Commission",
-    "territorial": "",
+    "territorial": "National",
     "pecuniary": "other value of goods and services",
     "conditions": [
       "Complaint value as prescribed"
@@ -14,11 +14,44 @@
   "derived_from": [
     "CPA2019-CH8-S101-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_to_national_commission",
+    "alias.appeal_to_state_commission",
+    "alias.authentication_of_goods",
+    "alias.deposit_of_amount",
+    "alias.filing_complaint",
+    "alias.furnishing_information",
+    "alias.government_must_make_rules"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "pecuniary",
+      "jurisdiction",
+      "national",
+      "commission",
+      "other",
+      "value",
+      "goods",
+      "services",
+      "complaint",
+      "prescribed"
+    ],
+    "aliases": [
+      "appeal to national commission",
+      "appeal to national consumer commission",
+      "national appeal",
+      "national commission",
+      "national commission appeal",
+      "national commission financial limit",
+      "national commission monetary jurisdiction",
+      "national commission money threshold",
+      "pecuniary limit of national commission"
+    ],
+    "user_queries": [
+      "What is pecuniary jurisdiction of national commission?",
+      "How does pecuniary jurisdiction of national commission work?",
+      "Can you explain pecuniary jurisdiction of national commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

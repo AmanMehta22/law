@@ -7,16 +7,49 @@
     "authority": "National Commission Benches",
     "territorial": "[]",
     "pecuniary": "[]",
-    "conditions": []
+    "conditions": [
+      "the senior-most member of the Bench shall preside over the Bench"
+    ]
   },
   "derived_from": [
     "CPA2019-CH4-S58-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.national_commission",
+    "authority.national_commission",
+    "exception.a_bench_may_be_constituted_by_the_president_with_one_or_more",
+    "intent.bench_constitution",
+    "intent.jurisdiction_of_national_commission_benches",
+    "intent.national_commission",
+    "intent.national_commission_2"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "jurisdiction",
+      "national",
+      "commission",
+      "benches",
+      "exercise",
+      "powers",
+      "authority"
+    ],
+    "aliases": [
+      "Central Commission",
+      "Central Consumer Protection Council",
+      "NCDRC",
+      "National Consumer Commission",
+      "National Consumer Disputes Redressal Commission",
+      "National Consumer Protection Agency",
+      "national commission bench authority",
+      "national commission court jurisdiction",
+      "national commission tribunal scope",
+      "national consumer commission benches jurisdiction"
+    ],
+    "user_queries": [
+      "What is jurisdiction of national commission benches?",
+      "How does jurisdiction of national commission benches work?",
+      "Can you explain jurisdiction of national commission benches?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

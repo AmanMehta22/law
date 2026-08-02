@@ -5,7 +5,7 @@
   "description": "District Commission jurisdiction to entertain complaints",
   "content": {
     "authority": "District Commission",
-    "territorial": "",
+    "territorial": "district",
     "pecuniary": "other value of goods and services",
     "conditions": [
       "Complaint value as prescribed"
@@ -14,11 +14,44 @@
   "derived_from": [
     "CPA2019-CH8-S101-2"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.appeal_to_national_commission",
+    "alias.appeal_to_state_commission",
+    "alias.authentication_of_goods",
+    "alias.deposit_of_amount",
+    "alias.filing_complaint",
+    "alias.furnishing_information",
+    "alias.government_must_make_rules"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "pecuniary",
+      "jurisdiction",
+      "district",
+      "commission",
+      "entertain",
+      "complaints",
+      "other",
+      "value",
+      "goods",
+      "services"
+    ],
+    "aliases": [
+      "appeal to national commission",
+      "appeal to national consumer commission",
+      "national appeal",
+      "national commission",
+      "national commission appeal",
+      "district commission monetary limit",
+      "district commission money threshold",
+      "financial jurisdiction of district commission",
+      "pecuniary limit of district commission"
+    ],
+    "user_queries": [
+      "What is pecuniary jurisdiction of district commission?",
+      "How does pecuniary jurisdiction of district commission work?",
+      "Can you explain pecuniary jurisdiction of district commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

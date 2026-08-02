@@ -14,11 +14,45 @@
   "derived_from": [
     "CPA2019-CH4-S58-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.central_government",
+    "alias.filing_of_complaints_and_appeals_with_the_national_commission",
+    "alias.national_commission",
+    "alias.review_of_state_commission_decisions",
+    "alias.right_to_appeal",
+    "alias.state_commission"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "pecuniary",
+      "jurisdiction",
+      "national",
+      "commission",
+      "territorial",
+      "limits",
+      "mentioned",
+      "exceeds",
+      "ten",
+      "crore"
+    ],
+    "aliases": [
+      "CCPA",
+      "Central Agency",
+      "Central Authority",
+      "Central Consumer Protection Authority",
+      "Central Government Agency",
+      "Consumer Protection Agency",
+      "Federal Agency",
+      "National Authority",
+      "national commission financial limit",
+      "national commission monetary jurisdiction"
+    ],
+    "user_queries": [
+      "What is pecuniary jurisdiction of national commission?",
+      "How does pecuniary jurisdiction of national commission work?",
+      "Can you explain pecuniary jurisdiction of national commission?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",
