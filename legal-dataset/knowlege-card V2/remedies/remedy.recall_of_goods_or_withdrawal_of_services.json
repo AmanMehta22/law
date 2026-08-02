@@ -9,23 +9,44 @@
     "conditions": [
       "sufficient evidence to show violation of consumer rights or unfair trade practice"
     ],
-    "limitations": []
+    "limitations": [
+      "the order is passed after giving the person an opportunity of being heard"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S20"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.central_authority",
+    "alias.discontinuation_of_unfair_practices",
+    "alias.investigation_and_order_passing",
+    "alias.opportunity_of_being_heard",
+    "alias.recall_of_goods_or_withdrawal_of_services",
+    "alias.reimbursement_of_prices",
+    "alias.right_to_reimbursement"
+  ],
   "search": {
     "keywords": [
       "recall",
-      "withdrawal"
+      "withdrawal",
+      "goods",
+      "services",
+      "recalling",
+      "which",
+      "dangerous",
+      "hazardous",
+      "unsafe",
+      "there"
     ],
     "aliases": [
       "product recall"
     ],
     "user_queries": [
       "dangerous goods",
-      "unsafe services"
+      "unsafe services",
+      "What is central authority must give opportunity of being heard?",
+      "How does central authority must give opportunity of being heard work?",
+      "Can you explain central authority must give opportunity of being heard?"
     ]
   },
   "metadata": {

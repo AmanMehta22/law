@@ -19,7 +19,9 @@
       "product manufacturer is unknown or cannot be served",
       "product seller has failed to exercise reasonable care"
     ],
-    "limitations": []
+    "limitations": [
+      "Not specified in the Act"
+    ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-34",
@@ -28,14 +30,29 @@
     "CPA2019-CH6-S85",
     "CPA2019-CH6-S86"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.compensation_for_harm_caused",
+    "alias.product_liability",
+    "alias.product_manufacturer_or_seller_must_compensate_for_harm",
+    "definition.product_liability",
+    "intent.compensation_for_harm_caused",
+    "intent.compensation_for_harm_caused_3",
+    "intent.product_liability"
+  ],
   "search": {
     "keywords": [
       "compensation",
       "harm",
       "product liability",
       "defective product",
-      "harm caused"
+      "harm caused",
+      "caused",
+      "product",
+      "defective",
+      "was",
+      "manufactured",
+      "manufacturer",
+      "serviced"
     ],
     "aliases": [
       "damages",
@@ -45,7 +62,10 @@
       "what if a product hurts me",
       "what if the service provider is negligent",
       "can I get compensation for harm caused by a product",
-      "what if product seller is not manufacturer"
+      "what if product seller is not manufacturer",
+      "What is compensation for harm caused?",
+      "How does compensation for harm caused work?",
+      "Can you explain compensation for harm caused?"
     ]
   },
   "metadata": {

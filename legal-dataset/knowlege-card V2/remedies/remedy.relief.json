@@ -10,22 +10,45 @@
       "the complaint is in writing",
       "the complaint is made by a complainant"
     ],
-    "limitations": []
+    "limitations": [
+      "the complaint is about an unfair contract or unfair trade practice or a restrictive trade practice",
+      "the complaint is about defective goods",
+      "the complaint is about deficient services",
+      "the complaint is about excess price charged",
+      "the complaint is about hazardous goods or services",
+      "the complaint is about product liability action"
+    ]
   },
   "derived_from": [
     "CPA2019-CH1-S2-6"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.allegation_in_writing",
+    "alias.complaint_under_consumer_protection_act_2019",
+    "alias.relief",
+    "alias.right_to_relief",
+    "definition.complaint",
+    "evidence.written_complaint",
+    "intent.allegation_in_writing"
+  ],
   "search": {
     "keywords": [
       "relief",
-      "complaint"
+      "complaint",
+      "provided",
+      "act",
+      "made",
+      "writing",
+      "complainant"
     ],
     "aliases": [
       "redress"
     ],
     "user_queries": [
-      "what relief is available under the Consumer Protection Act"
+      "what relief is available under the Consumer Protection Act",
+      "What is allegation in writing?",
+      "How does allegation in writing work?",
+      "Can you explain allegation in writing?"
     ]
   },
   "metadata": {

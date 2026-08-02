@@ -6,23 +6,52 @@
   "content": {
     "remedy": "Discontinuation of unfair practice",
     "available_when": "The Central Authority is satisfied after investigation that any advertisement is false or misleading and is prejudicial to the interest of any consumer or is in contravention of consumer rights",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "The Central Authority is satisfied after investigation",
+      "advertisement is false or misleading",
+      "advertisement is prejudicial to the interest of any consumer",
+      "advertisement is in contravention of consumer rights"
+    ],
+    "limitations": [
+      "by order",
+      "within such time as may be specified in that order"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S21-1"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.advertiser_must_discontinue_or_modify_advertisement",
+    "alias.central_authority_must_investigate_and_issue_directions",
+    "alias.discontinuation_of_false_or_misleading_advertisement",
+    "alias.endorser_must_discontinue_or_modify_advertisement",
+    "alias.issuance_of_directions_to_discontinue_or_modify_advertisement",
+    "alias.manufacturer_must_discontinue_or_modify_advertisement",
+    "alias.publisher_must_discontinue_or_modify_advertisement"
+  ],
   "search": {
     "keywords": [
       "false advertisement",
-      "misleading advertisement"
+      "misleading advertisement",
+      "discontinuation",
+      "false",
+      "misleading",
+      "advertisement",
+      "prejudicial",
+      "consumer",
+      "interest",
+      "unfair",
+      "practice",
+      "central"
     ],
     "aliases": [
       "withdrawal of advertisement"
     ],
     "user_queries": [
-      "stop false ads"
+      "stop false ads",
+      "What is discontinuation of false advertisement?",
+      "How does discontinuation of false advertisement work?",
+      "Can you explain discontinuation of false advertisement?"
     ]
   },
   "metadata": {

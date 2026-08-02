@@ -6,17 +6,44 @@
   "content": {
     "remedy": "Damages",
     "available_when": "...",
-    "conditions": [],
-    "limitations": []
+    "conditions": [
+      "harm caused by a defective product"
+    ],
+    "limitations": [
+      "harm caused by a defective product"
+    ]
   },
   "derived_from": [
     "CPA2019-CH6-S83"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.right_to_compensation",
+    "intent.damages",
+    "intent.right_to_compensation",
+    "intent.right_to_compensation_3",
+    "right.right_to_compensation"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "damages"
+    ],
+    "aliases": [
+      "compensation rights",
+      "refund rights",
+      "reimbursement rights",
+      "right to claim damages",
+      "right to damages",
+      "right to redress",
+      "right to remedy",
+      "right to reparation",
+      "compensation",
+      "indemnity"
+    ],
+    "user_queries": [
+      "What is damages?",
+      "How does damages work?",
+      "Can you explain damages?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",

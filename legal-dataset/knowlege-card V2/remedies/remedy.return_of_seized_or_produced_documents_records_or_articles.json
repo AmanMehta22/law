@@ -10,23 +10,45 @@
       "copies or extracts have been certified",
       "within twenty days of the date of seizure or production"
     ],
-    "limitations": []
+    "limitations": [
+      "within twenty days of the date of seizure or production"
+    ]
   },
   "derived_from": [
     "CPA2019-CH3-S22-3"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.return_of_seized_documents",
+    "alias.return_of_seized_or_produced_documents_records_or_articles",
+    "alias.right_to_return_of_seized_or_produced_documents",
+    "evidence.copies_of_documents_records_or_articles_extracts_therefrom",
+    "intent.copies_of_documents_records_or_articles",
+    "intent.mediation_references_return_of_seized_documents",
+    "intent.return_of_seized_documents"
+  ],
   "search": {
     "keywords": [
       "return of documents",
       "return of records",
-      "return of articles"
+      "return of articles",
+      "return",
+      "seized",
+      "produced",
+      "documents",
+      "records",
+      "articles",
+      "after",
+      "copies",
+      "thereof"
     ],
     "aliases": [
       "restoration of seized documents"
     ],
     "user_queries": [
-      "what happens to seized documents"
+      "what happens to seized documents",
+      "What is copies of documents, records or articles?",
+      "How does copies of documents, records or articles work?",
+      "Can you explain copies of documents, records or articles?"
     ]
   },
   "metadata": {

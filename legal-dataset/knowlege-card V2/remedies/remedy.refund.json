@@ -18,11 +18,41 @@
   "derived_from": [
     "CPA2019-CH1-S2-47"
   ],
-  "related_concepts": [],
+  "related_concepts": [
+    "alias.contest_lottery_game_of_chance_or_skill_exception",
+    "alias.proof_of_warranty_or_guarantee",
+    "alias.unfair_trade_practice",
+    "definition.unfair_trade_practice",
+    "evidence.test_results_records_of_testing",
+    "exception.except_such_contest_lottery_game_of_chance_or_skill_as_may_b",
+    "intent.contest_lottery_game_of_chance_or_skill_exception"
+  ],
   "search": {
-    "keywords": [],
-    "aliases": [],
-    "user_queries": []
+    "keywords": [
+      "refund",
+      "consideration",
+      "paid",
+      "defective",
+      "goods",
+      "deficient",
+      "services",
+      "after",
+      "selling",
+      "rendering"
+    ],
+    "aliases": [
+      "promotion",
+      "sale",
+      "money back",
+      "refund of payment",
+      "reimbursement",
+      "return of consideration"
+    ],
+    "user_queries": [
+      "What is refund for defective goods?",
+      "How does refund for defective goods work?",
+      "Can you explain refund for defective goods?"
+    ]
   },
   "metadata": {
     "jurisdiction": "India",
