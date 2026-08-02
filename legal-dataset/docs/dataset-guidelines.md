@@ -31,13 +31,14 @@ When reading a subsection from the source PDF, classify it into one of the
 | `obligation` | A mandatory duty ("shall…") | `CPA2019-CH3-S13-1` |
 | `rule_making` | Rule-making / delegated legislation powers | `CPA2019-CH8-S101-1` |
 
-These are the 14 values **actually present** in `legal-node V1/sections_v1f/`.
+These are the 14 values **actually present** in
+`acts/consumer-protection-act-2019/v1-statute/sections/`.
 The schema enum also permits `evidence` (currently unused in V1).
 
 ## V2 (knowledge cards) classification
 
 Each V2 card carries a `concept_type` (one of 16). Content shape is enforced
-by type in `knowlege-card V2/v2Schema.json`.
+by type in `schema/v2.schema.json`.
 
 | concept_type | Content fields (schema-required) | When to use |
 |---|---|---|
@@ -96,12 +97,14 @@ When a whole section is referred to, use the whole-section id
 
 ## Progress
 
-After creating each entry, tick it off in `docs/progress.md`.
+After creating each entry, tick it off in
+`acts/consumer-protection-act-2019/review/progress.md`.
 
 ## Verification
 
-- V1: validate against `schema/v1f.json`; confirm `metadata.checksum` equals
+- V1: validate against `schema/v1.schema.json`; confirm
+  `metadata.checksum` equals
   the SHA-256 of `official_text`.
-- V2: validate against `knowlege-card V2/v2Schema.json` (0 errors);
+- V2: validate against `schema/v2.schema.json` (0 errors);
   confirm `derived_from` resolves; confirm `review_status` is
   `draft | reviewed | approved`.

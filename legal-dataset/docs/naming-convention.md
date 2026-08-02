@@ -1,12 +1,13 @@
 # Naming Convention
 
 Every JSON entry has a unique ID and a filename derived from that ID. There are
-two layers: **V1 nodes** (`legal-node V1/`) and **V2 knowledge cards**
-(`knowlege-card V2/`).
+two layers: **V1 nodes** (`acts/<domain>/v1-statute/`) and **V2 knowledge cards**
+(`acts/<domain>/v2-knowledge-cards/`).
 
 > Note: older docs referenced `dataset/sections/` and `dataset/definitions/`.
-> Those folders no longer exist — V1 nodes live in `legal-node V1/sections_v1f/`,
-> and V2 cards live in `knowlege-card V2/{concept_type}/`.
+> Those folders no longer exist — V1 nodes live in
+> `acts/consumer-protection-act-2019/v1-statute/sections/`, and V2 cards live in
+> `acts/<domain>/v2-knowledge-cards/{tier}/{concept_type}/`.
 
 ## V1 node ID structure
 
@@ -23,7 +24,7 @@ Example: `CPA2019-CH1-S2-10`
 | Section | `S` followed by the section number | `S2` |
 | Subsection | The subsection number, no parentheses | `10` |
 
-Regex (from `schema/v1f.json`): `^[A-Z0-9]+-CH[0-9]+-S[0-9]+(-[0-9]+)?$`
+Regex (from `schema/v1.schema.json`): `^[A-Z0-9]+-CH[0-9]+-S[0-9]+(-[0-9]+)?$`
 
 ### Citation chapter format
 
@@ -53,7 +54,7 @@ Every V2 card uses a `{concept_type}.{name}` id.
 {concept_type}.{name}
 ```
 
-Regex (from `knowlege-card V2/v2Schema.json`):
+Regex (from `schema/v2.schema.json`):
 `^[a-z]+\.([a-z0-9_]+\.[a-z0-9_]+|[a-z0-9_]+)$`
 (the whole id is lowercase letters/digits/underscores; the name may be
 one or two segments, e.g. `definition.consumer`)
