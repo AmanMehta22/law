@@ -5,12 +5,9 @@
   "description": "Natural language queries a user may ask about: Consumer excludes commercial purpose",
   "content": {
     "queries": [
-      "What is consumer excludes commercial purpose?",
-      "How does consumer excludes commercial purpose work?",
-      "Can you explain consumer excludes commercial purpose?",
-      "What is bench?",
-      "How does bench work?",
-      "Can you explain bench?"
+      "What does the exclusion of commercial purpose mean?",
+      "Who is not treated as a consumer under the Act?",
+      "When is a person buying for a commercial purpose not a consumer?"
     ]
   },
   "derived_from": [
@@ -44,15 +41,9 @@
       "Local Consumer Forum"
     ],
     "user_queries": [
-      "What is consumer excludes commercial purpose?",
-      "How does consumer excludes commercial purpose work?",
-      "Can you explain consumer excludes commercial purpose?",
-      "What is consumer?",
-      "How does consumer work?",
-      "Can you explain consumer?",
-      "What is bench?",
-      "How does bench work?",
-      "Can you explain bench?"
+      "What does the exclusion of commercial purpose mean?",
+      "Who is not treated as a consumer under the Act?",
+      "When is a person buying for a commercial purpose not a consumer?"
     ]
   },
   "metadata": {

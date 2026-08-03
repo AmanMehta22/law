@@ -529,3 +529,50 @@ Tier B was previously 20%-sampled + bulk-approved. This pass reviewed **all
 - All 4,147 cards revalidated (0 invalid); `final/v2-knowledge-cards.{json,jsonl}`
   regenerated and consistent (json == jsonl == 4,147). G7 now: Tier A 195/195
   + Tier B 426/426 `reviewed` (621 reviewed; 3,526 draft unchanged).
+
+### Phase 6 — Tier C full review (2026-08-04)
+
+All **3,526 Tier-C cards** (examples 621, intents 1,820, aliases 591,
+relationships 494) reviewed against their V1 `official_text` (reviewer
+`deep-review-tierc-2026-08-03`, 10 parallel slices, temp-0).
+
+| Category | Cards | Pass | Flag |
+|---|---|---|---|
+| examples | 621 | 607 | 14 |
+| intents | 1,820 | 1,431 | 389 |
+| aliases | 591 | 543 | 48 |
+| relationships | 494 | 338 | 156 |
+| **Total** | **3,526** | **2,919** | **607** |
+
+- **243 cards fixed** (source-backed only): 48 alias arrays (cross-concept,
+  foreign-jurisdiction, duplicate aliases removed), 152 intent query sets
+  (mechanical `"What is <sentence>?"` template artifacts replaced with
+  natural queries; mirrored into `search.user_queries`), 4 empty
+  `description` tails, 39 off-topic/templated query cards, 2 example fixes
+  (45-day -> 30-day appeal window per S73-3; rule-making actor corrected to
+  Central Government per S101-2).
+- **Advisories appended** to `review-state.json` `needs_human_review`
+  (now **333 field entries** / 285 distinct cards):
+  - 4 **V1 statute file defects** (out of scope for v2 cards; belong in
+    `v1-statute/sections/`): S38-1 silent truncation, S37-2 stray margin
+    note ("Manner in which complaint shall be made"), S101-2 stray
+    "Government" between clauses (f)-(g), S91-1 stray "importing" before
+    clause (b). G2 checksum gate will flag any fix applied there.
+  - 77 relationships: wrong-target assertions (`handled_by` retarget would
+    duplicate an existing correct sibling -> recommend DELETE/merge, e.g.
+    S18(2) functions are vested in the Central Authority alone).
+  - 56 relationships_a + 23 relationships_b: instruction-style advisories
+    (re-derive/drop).
+  - 6 examples chain-level source mismatches (50% appeal deposit is
+    statutory under S51(2)/S58(2) but cited via the S101-2 rule-making
+    chain; licence-cancellation scenario conflates UTP with criminal
+    repeat-conviction; joint-director appeal right not in S15).
+  - `intent.control_and_supervision_exception`: phantom concept (no such
+    exception in the Act) -> recommend DELETE.
+- **Not defects (review-input artifacts, verified):** 276 intent flags caused
+  by bundle truncation at 1,500 chars — all cited V1 files verified complete
+  (`[TRUNCATED]` marker does not exist in any V1 `official_text`); the
+  remaining 179 intents refs labelled `v2-card-unresolved` trace to
+  tier-c-only targets with no V1 root and are informational.
+- All 4,147 cards revalidated (0 invalid); `final/v2-knowledge-cards.{json,jsonl}`
+  regenerated and consistent (json == jsonl == 4,147).

@@ -5,10 +5,8 @@
   "description": "Natural language queries a user may ask about: Time Limit for Removing Difficulty",
   "content": {
     "queries": [
-      "What is the time limit for removing difficulties under the Consumer Protection Act?",
-      "What is central government must make provisions to remove difficulties?",
-      "How does central government must make provisions to remove difficulties work?",
-      "Can you explain central government must make provisions to remove difficulties?"
+      "What is the time limit for removing difficulties under the Act?",
+      "How are difficulties in implementing the Act removed?"
     ]
   },
   "derived_from": [
@@ -36,10 +34,8 @@
       "removing difficulty"
     ],
     "user_queries": [
-      "What is the time limit for removing difficulties under the Consumer Protection Act?",
-      "What is central government must make provisions to remove difficulties?",
-      "How does central government must make provisions to remove difficulties work?",
-      "Can you explain central government must make provisions to remove difficulties?"
+      "What is the time limit for removing difficulties under the Act?",
+      "How are difficulties in implementing the Act removed?"
     ]
   },
   "metadata": {

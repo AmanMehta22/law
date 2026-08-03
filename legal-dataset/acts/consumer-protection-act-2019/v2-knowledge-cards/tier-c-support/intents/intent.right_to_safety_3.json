@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Right to Safety",
   "content": {
     "queries": [
-      "are there any laws to protect me from hazardous products?",
-      "What is the punishment for cost of corrective advertisement?",
-      "What happens if I commit cost of corrective advertisement?"
+      "What remedies can a consumer get when goods or services are hazardous or defective?",
+      "Am I protected against goods that are hazardous to life and property?"
     ]
   },
   "derived_from": [
@@ -35,9 +34,8 @@
       "right to security"
     ],
     "user_queries": [
-      "are there any laws to protect me from hazardous products?",
-      "What is the punishment for cost of corrective advertisement?",
-      "What happens if I commit cost of corrective advertisement?"
+      "What remedies can a consumer get when goods or services are hazardous or defective?",
+      "Am I protected against goods that are hazardous to life and property?"
     ]
   },
   "metadata": {

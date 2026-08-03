@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: State Commission Must Dispose Of Complaints",
   "content": {
     "queries": [
-      "What is state commission must dispose of complaints?",
-      "How does state commission must dispose of complaints work?",
-      "Can you explain state commission must dispose of complaints?"
+      "What provisions apply to the disposal of complaints by the State Commission?",
+      "How does the State Commission dispose of complaints?"
     ]
   },
   "derived_from": [
@@ -35,10 +34,8 @@
       "State Commission complaints disposal"
     ],
     "user_queries": [
-      "How does State Commission handle complaints",
-      "What is state commission must dispose of complaints?",
-      "How does state commission must dispose of complaints work?",
-      "Can you explain state commission must dispose of complaints?"
+      "What provisions apply to the disposal of complaints by the State Commission?",
+      "How does the State Commission dispose of complaints?"
     ]
   },
   "metadata": {

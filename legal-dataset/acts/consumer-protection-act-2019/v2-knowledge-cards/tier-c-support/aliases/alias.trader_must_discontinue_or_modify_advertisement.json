@@ -5,9 +5,9 @@
   "description": "Alternative names and search aliases for: Trader Must Discontinue Or Modify Advertisement",
   "content": {
     "aliases": [
-      "endorser responsibilities",
-      "manufacturer duties",
-      "misleading ads"
+      "misleading ads",
+      "discontinue misleading advertisements",
+      "modify misleading advertisements"
     ]
   },
   "derived_from": [
@@ -37,8 +37,9 @@
       "responsibilities"
     ],
     "aliases": [
-      "endorser responsibilities",
-      "manufacturer duties"
+      "misleading ads",
+      "discontinue misleading advertisements",
+      "modify misleading advertisements"
     ],
     "user_queries": [
       "What is trader must discontinue or modify advertisement?",

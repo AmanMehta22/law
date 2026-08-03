@@ -5,12 +5,8 @@
   "description": "Natural language queries a user may ask about: Signature of order by members",
   "content": {
     "queries": [
-      "What is signature of order by members?",
-      "How does signature of order by members work?",
-      "Can you explain signature of order by members?",
-      "What is district commission president and member must sign order?",
-      "How does district commission president and member must sign order work?",
-      "Can you explain district commission president and member must sign order?"
+      "Who signs the orders of the District Commission?",
+      "How are orders of the District Commission signed?"
     ]
   },
   "derived_from": [
@@ -42,12 +38,8 @@
       "Local Consumer Forum"
     ],
     "user_queries": [
-      "What is signature of order by members?",
-      "How does signature of order by members work?",
-      "Can you explain signature of order by members?",
-      "What is district commission president and member must sign order?",
-      "How does district commission president and member must sign order work?",
-      "Can you explain district commission president and member must sign order?"
+      "Who signs the orders of the District Commission?",
+      "How are orders of the District Commission signed?"
     ]
   },
   "metadata": {

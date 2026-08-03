@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Receiving evidence on affidavits depends on Document or other material object",
   "content": {
     "queries": [
-      "What is receiving evidence on affidavits depends on document or other material object?",
-      "How does receiving evidence on affidavits depends on document or other material object work?",
-      "Can you explain receiving evidence on affidavits depends on document or other material object?"
+      "What does receiving evidence on affidavits depend on?",
+      "Can you explain what receiving evidence on affidavits depends on?"
     ]
   },
   "derived_from": [
@@ -37,9 +36,8 @@
       "Union Government"
     ],
     "user_queries": [
-      "What is receiving evidence on affidavits depends on document or other material object?",
-      "How does receiving evidence on affidavits depends on document or other material object work?",
-      "Can you explain receiving evidence on affidavits depends on document or other material object?"
+      "What does receiving evidence on affidavits depend on?",
+      "Can you explain what receiving evidence on affidavits depends on?"
     ]
   },
   "metadata": {

@@ -5,15 +5,8 @@
   "description": "Natural language queries a user may ask about: Regulator",
   "content": {
     "queries": [
-      "What is a regulator in consumer protection?",
-      "Who is considered a regulator under the law?",
-      "What is the definition of a regulator?",
-      "What is regulator?",
-      "How does regulator work?",
-      "Can you explain regulator?",
-      "What is central authority must refer matter to regulator?",
-      "How does central authority must refer matter to regulator work?",
-      "Can you explain central authority must refer matter to regulator?"
+      "When must the Central Authority refer a matter to a Regulator?",
+      "What happens when a matter falls within the jurisdiction of a Regulator?"
     ]
   },
   "derived_from": [
@@ -41,15 +34,8 @@
       "regulatory body"
     ],
     "user_queries": [
-      "What is regulator?",
-      "How does regulator work?",
-      "Can you explain regulator?",
-      "What is a regulator in consumer protection?",
-      "Who is considered a regulator under the law?",
-      "What is the definition of a regulator?",
-      "What is central authority must refer matter to regulator?",
-      "How does central authority must refer matter to regulator work?",
-      "Can you explain central authority must refer matter to regulator?"
+      "When must the Central Authority refer a matter to a Regulator?",
+      "What happens when a matter falls within the jurisdiction of a Regulator?"
     ]
   },
   "metadata": {

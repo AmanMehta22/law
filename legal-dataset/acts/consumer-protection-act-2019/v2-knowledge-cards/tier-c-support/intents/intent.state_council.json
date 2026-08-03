@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: State Council",
   "content": {
     "queries": [
-      "What is district commission references central government?",
-      "How does district commission references central government work?",
-      "Can you explain district commission references central government?"
+      "How is the State Consumer Protection Council established in each State?",
+      "Who establishes the State Consumer Protection Council in each State?"
     ]
   },
   "derived_from": [
@@ -42,12 +41,8 @@
       "State Consumer Protection Council"
     ],
     "user_queries": [
-      "What is district commission references state council?",
-      "How does district commission references state council work?",
-      "Can you explain district commission references state council?",
-      "What is district commission references central government?",
-      "How does district commission references central government work?",
-      "Can you explain district commission references central government?"
+      "How is the State Consumer Protection Council established in each State?",
+      "Who establishes the State Consumer Protection Council in each State?"
     ]
   },
   "metadata": {

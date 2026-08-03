@@ -2,7 +2,7 @@
   "concept_id": "intent.repeal_of_the_consumer_protection_act_1986_2",
   "concept_type": "intent",
   "title": "Questions about Repeal of the Consumer Protection Act, 1986",
-  "description": "Natural language queries a user may ask about: ",
+  "description": "Natural language queries a user may ask about: Repeal of the Consumer Protection Act, 1986",
   "content": {
     "queries": [
       "What is the relationship between the repealed Act and the new Act?",

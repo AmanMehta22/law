@@ -6,9 +6,7 @@
   "content": {
     "queries": [
       "What must a publisher do if their advertisement is found to be misleading?",
-      "What is advertiser must discontinue or modify advertisement?",
-      "How does advertiser must discontinue or modify advertisement work?",
-      "Can you explain advertiser must discontinue or modify advertisement?"
+      "Can the Central Authority order a misleading advertisement to be discontinued or modified?"
     ]
   },
   "derived_from": [
@@ -37,9 +35,7 @@
     ],
     "user_queries": [
       "What must a publisher do if their advertisement is found to be misleading?",
-      "What is advertiser must discontinue or modify advertisement?",
-      "How does advertiser must discontinue or modify advertisement work?",
-      "Can you explain advertiser must discontinue or modify advertisement?"
+      "Can the Central Authority order a misleading advertisement to be discontinued or modified?"
     ]
   },
   "metadata": {

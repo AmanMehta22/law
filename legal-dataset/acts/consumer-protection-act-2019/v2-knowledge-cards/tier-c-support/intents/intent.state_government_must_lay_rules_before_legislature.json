@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: State Government Must Lay Rules Before Legislature",
   "content": {
     "queries": [
-      "What is state government must lay rules before legislature?",
-      "How does state government must lay rules before legislature work?",
-      "Can you explain state government must lay rules before legislature?"
+      "What happens to rules made by the State Government under the Act?",
+      "When must State Government rules be laid before the State Legislature?"
     ]
   },
   "derived_from": [
@@ -35,10 +34,8 @@
       "laying of rules"
     ],
     "user_queries": [
-      "What are the obligations of State Government under the Act?",
-      "What is state government must lay rules before legislature?",
-      "How does state government must lay rules before legislature work?",
-      "Can you explain state government must lay rules before legislature?"
+      "What happens to rules made by the State Government under the Act?",
+      "When must State Government rules be laid before the State Legislature?"
     ]
   },
   "metadata": {

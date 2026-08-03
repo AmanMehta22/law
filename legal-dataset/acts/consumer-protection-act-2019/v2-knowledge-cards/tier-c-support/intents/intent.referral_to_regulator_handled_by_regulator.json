@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Referral to Regulator handled by Regulator",
   "content": {
     "queries": [
-      "What is referral to regulator handled by regulator?",
-      "How does referral to regulator handled by regulator work?",
-      "Can you explain referral to regulator handled by regulator?"
+      "How is referral to regulator handled by regulator?",
+      "Can you explain how referral to regulator is handled by regulator?"
     ]
   },
   "derived_from": [
@@ -41,9 +40,8 @@
       "National Authority"
     ],
     "user_queries": [
-      "What is referral to regulator handled by regulator?",
-      "How does referral to regulator handled by regulator work?",
-      "Can you explain referral to regulator handled by regulator?"
+      "How is referral to regulator handled by regulator?",
+      "Can you explain how referral to regulator is handled by regulator?"
     ]
   },
   "metadata": {

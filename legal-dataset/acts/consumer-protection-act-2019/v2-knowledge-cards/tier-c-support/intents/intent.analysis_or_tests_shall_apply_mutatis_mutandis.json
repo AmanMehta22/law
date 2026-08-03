@@ -2,7 +2,7 @@
   "concept_id": "intent.analysis_or_tests_shall_apply_mutatis_mutandis",
   "concept_type": "intent",
   "title": "Questions about Exception for Articles Subject to Speedy or Natural Decay",
-  "description": "Natural language queries a user may ask about: ",
+  "description": "Natural language queries a user may ask about: Exception for Articles Subject to Speedy or Natural Decay",
   "content": {
     "queries": [
       "What happens to articles that are subject to speedy or natural decay?",

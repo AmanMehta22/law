@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Transaction of business handled by Central Authority",
   "content": {
     "queries": [
-      "What is transaction of business handled by central authority?",
-      "How does transaction of business handled by central authority work?",
-      "Can you explain transaction of business handled by central authority?"
+      "How is transaction of business handled by central authority?",
+      "Can you explain how transaction of business is handled by central authority?"
     ]
   },
   "derived_from": [
@@ -41,9 +40,8 @@
       "National Authority"
     ],
     "user_queries": [
-      "What is transaction of business handled by central authority?",
-      "How does transaction of business handled by central authority work?",
-      "Can you explain transaction of business handled by central authority?"
+      "How is transaction of business handled by central authority?",
+      "Can you explain how transaction of business is handled by central authority?"
     ]
   },
   "metadata": {

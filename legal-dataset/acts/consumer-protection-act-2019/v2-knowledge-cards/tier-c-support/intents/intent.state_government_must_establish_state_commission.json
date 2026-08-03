@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: State Government Must Establish State Commission",
   "content": {
     "queries": [
-      "What is state government must establish state commission?",
-      "How does state government must establish state commission work?",
-      "Can you explain state government must establish state commission?"
+      "How is the State Commission established?",
+      "Who establishes the State Consumer Disputes Redressal Commission?"
     ]
   },
   "derived_from": [
@@ -35,10 +34,8 @@
       "State Consumer Disputes Redressal Commission"
     ],
     "user_queries": [
-      "What is the role of State Government in consumer protection?",
-      "What is state government must establish state commission?",
-      "How does state government must establish state commission work?",
-      "Can you explain state government must establish state commission?"
+      "How is the State Commission established?",
+      "Who establishes the State Consumer Disputes Redressal Commission?"
     ]
   },
   "metadata": {

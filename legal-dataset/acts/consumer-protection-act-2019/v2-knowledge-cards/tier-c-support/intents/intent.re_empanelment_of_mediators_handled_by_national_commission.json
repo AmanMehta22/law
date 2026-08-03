@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Re-empanelment of mediators handled by National Commission",
   "content": {
     "queries": [
-      "What is re-empanelment of mediators handled by national commission?",
-      "How does re-empanelment of mediators handled by national commission work?",
-      "Can you explain re-empanelment of mediators handled by national commission?"
+      "How is re empanelment of mediators handled by national commission?",
+      "Can you explain how re empanelment of mediators is handled by national commission?"
     ]
   },
   "derived_from": [
@@ -36,9 +35,8 @@
       "district commission cost"
     ],
     "user_queries": [
-      "What is re-empanelment of mediators handled by national commission?",
-      "How does re-empanelment of mediators handled by national commission work?",
-      "Can you explain re-empanelment of mediators handled by national commission?"
+      "How is re empanelment of mediators handled by national commission?",
+      "Can you explain how re empanelment of mediators is handled by national commission?"
     ]
   },
   "metadata": {

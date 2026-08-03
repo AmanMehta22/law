@@ -270,20 +270,33 @@ across 117 distinct cards.
 | G4 | No orphan `derived_from` / `related_concepts` refs | PASS (0) |
 | G5 | Every V1 node referenced by ≥ 1 card `derived_from` | PASS (0 uncovered) |
 | G6 | `acts/consumer-protection-act-2019/final` merges present and consistent (json == jsonl == 4,147) | PASS |
-| G7 | Tier A cards 100% `reviewed`; **Tier B fully reviewed (426/426)** | PASS (195/195; 426/426) |
+| G7 | Tier A cards 100% `reviewed`; Tier B fully reviewed (426/426) | PASS (195/195; 426/426) |
 | G8 | `review_status` vocabulary = {draft, reviewed} only | PASS |
 | Deep | G-Deep integrity scan (id, required fields, content non-empty, derived_from transitive resolution, augmentation key uniqueness, outbound refs) | PASS (0 issues) |
 
 **Result: all gates pass; deep check re-ran clean post-fix and post-regeneration.**
 
+Tier C (3,526 cards) full review completed 2026-08-04 (`deep-review-tierc-2026-08-03`,
+10 parallel slices): 2,919 pass / 607 flagged; **243 cards fixed** with
+source-backed corrections (alias arrays, intent query templates, empty
+descriptions, 2 examples). Advisories appended to `review-state.json`
+(now 333 field entries / 285 distinct cards), including 4 V1 statute file
+defects (S38-1 truncation; S37-2/S101-2/S91-1 margin-note injections — out of
+scope for v2 cards; G2 checksum gate guards the V1 layer) and 77 relationship
+cards whose wrong `handled_by` targets would duplicate existing correct
+siblings (recommended action: DELETE/merge). All gates re-verified clean after
+the Tier C fixes.
+
 ## 9. Final dataset state
 
 - 4,147 V2 cards; 276 V1 nodes; **621 `reviewed` (Tier A 195 + Tier B 426
-  fully reviewed)**; 3,526 `draft` (Tier C support artifacts).
-- **117 distinct cards** (165 field-level entries) remain flagged for human
+  fully reviewed)**; 3,526 `draft` (Tier C support artifacts, fully reviewed
+  this pass via `review/review-state.json`, metadata `review_status`
+  unchanged).
+- **285 distinct cards** (333 field-level entries) remain flagged for human
   review (see `acts/consumer-protection-act-2019/review/review-state.json`);
-  59 cards were auto-fixed with source-backed corrections this pass.
-  none were auto-modified.
+  243 Tier-C cards were auto-fixed with source-backed corrections this pass
+  (plus 59 Tier-B cards in the previous pass).
 - Merged artifacts regenerated and consistent.
 
 ---
@@ -303,4 +316,4 @@ across 117 distinct cards.
   `acts/consumer-protection-act-2019/v2-knowledge-cards/`.
 - Final pairs: `acts/consumer-protection-act-2019/final/`.
 
-*Last updated: 2026-08-03.*
+*Last updated: 2026-08-04.*

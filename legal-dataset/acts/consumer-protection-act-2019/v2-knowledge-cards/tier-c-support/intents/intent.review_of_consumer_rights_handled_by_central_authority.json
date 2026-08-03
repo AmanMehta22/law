@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Review of Consumer Rights handled by Central Authority",
   "content": {
     "queries": [
-      "What is review of consumer rights handled by central authority?",
-      "How does review of consumer rights handled by central authority work?",
-      "Can you explain review of consumer rights handled by central authority?"
+      "How is review of consumer rights handled by central authority?",
+      "Can you explain how review of consumer rights is handled by central authority?"
     ]
   },
   "derived_from": [
@@ -38,9 +37,8 @@
       "consumer welfare measures"
     ],
     "user_queries": [
-      "What is review of consumer rights handled by central authority?",
-      "How does review of consumer rights handled by central authority work?",
-      "Can you explain review of consumer rights handled by central authority?"
+      "How is review of consumer rights handled by central authority?",
+      "Can you explain how review of consumer rights is handled by central authority?"
     ]
   },
   "metadata": {

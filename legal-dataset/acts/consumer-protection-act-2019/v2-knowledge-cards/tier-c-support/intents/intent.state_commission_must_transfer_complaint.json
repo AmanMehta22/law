@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: State Commission Must Transfer Complaint",
   "content": {
     "queries": [
-      "What is state commission must transfer complaint?",
-      "How does state commission must transfer complaint work?",
-      "Can you explain state commission must transfer complaint?"
+      "Can the State Commission transfer a complaint from one District Commission to another?",
+      "On whose application can a complaint be transferred?"
     ]
   },
   "derived_from": [
@@ -36,10 +35,8 @@
       "redistribute case"
     ],
     "user_queries": [
-      "Can a complaint be transferred to another District Commission?",
-      "What is state commission must transfer complaint?",
-      "How does state commission must transfer complaint work?",
-      "Can you explain state commission must transfer complaint?"
+      "Can the State Commission transfer a complaint from one District Commission to another?",
+      "On whose application can a complaint be transferred?"
     ]
   },
   "metadata": {

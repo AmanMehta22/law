@@ -5,9 +5,9 @@
   "description": "Natural language queries a user may ask about: Mediator Must Consider Relevant Factors",
   "content": {
     "queries": [
-      "What is mediator must consider relevant factors?",
-      "How does mediator must consider relevant factors work?",
-      "Can you explain mediator must consider relevant factors?"
+      "What factors must a mediator consider?",
+      "Must a mediator take into account the interests of both parties?",
+      "What should a mediator consider while resolving a consumer dispute?"
     ]
   },
   "derived_from": [
@@ -35,10 +35,9 @@
       "arbitrator"
     ],
     "user_queries": [
-      "what are the mediator's obligations in consumer dispute mediation",
-      "What is mediator must consider relevant factors?",
-      "How does mediator must consider relevant factors work?",
-      "Can you explain mediator must consider relevant factors?"
+      "What factors must a mediator consider?",
+      "Must a mediator take into account the interests of both parties?",
+      "What should a mediator consider while resolving a consumer dispute?"
     ]
   },
   "metadata": {

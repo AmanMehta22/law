@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Transaction of State Council Business handled by State Council",
   "content": {
     "queries": [
-      "What is transaction of state council business handled by state council?",
-      "How does transaction of state council business handled by state council work?",
-      "Can you explain transaction of state council business handled by state council?"
+      "How is transaction of state council business handled by state council?",
+      "Can you explain how transaction of state council business is handled by state council?"
     ]
   },
   "derived_from": [
@@ -36,9 +35,8 @@
       "State Consumer Protection Council"
     ],
     "user_queries": [
-      "What is transaction of state council business handled by state council?",
-      "How does transaction of state council business handled by state council work?",
-      "Can you explain transaction of state council business handled by state council?"
+      "How is transaction of state council business handled by state council?",
+      "Can you explain how transaction of state council business is handled by state council?"
     ]
   },
   "metadata": {

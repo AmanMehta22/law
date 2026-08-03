@@ -5,9 +5,7 @@
   "description": "Natural language queries a user may ask about: Punishment for non-compliance with direction of Central Authority applies to Non-compliance with Central Authority direction",
   "content": {
     "queries": [
-      "What is punishment for non-compliance with direction of central authority applies to non-compliance with central authority direction?",
-      "How does punishment for non-compliance with direction of central authority applies to non-compliance with central authority direction work?",
-      "Can you explain punishment for non-compliance with direction of central authority applies to non-compliance with central authority direction?"
+      "What is the punishment for failing to comply with a direction of the Central Authority?"
     ]
   },
   "derived_from": [
@@ -41,9 +39,7 @@
       "National Authority"
     ],
     "user_queries": [
-      "What is punishment for non-compliance with direction of central authority applies to non-compliance with central authority direction?",
-      "How does punishment for non-compliance with direction of central authority applies to non-compliance with central authority direction work?",
-      "Can you explain punishment for non-compliance with direction of central authority applies to non-compliance with central authority direction?"
+      "What is the punishment for failing to comply with a direction of the Central Authority?"
     ]
   },
   "metadata": {

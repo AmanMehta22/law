@@ -5,9 +5,6 @@
   "description": "Natural language queries a user may ask about: Additional Director-General",
   "content": {
     "queries": [
-      "What is control and supervision exception?",
-      "How does control and supervision exception work?",
-      "Can you explain control and supervision exception?",
       "What is additional director-general?",
       "How does additional director-general work?",
       "Can you explain additional director-general?"
@@ -44,9 +41,6 @@
       "Supplemental Director-General"
     ],
     "user_queries": [
-      "What is control and supervision exception?",
-      "How does control and supervision exception work?",
-      "Can you explain control and supervision exception?",
       "What is additional director-general?",
       "How does additional director-general work?",
       "Can you explain additional director-general?"

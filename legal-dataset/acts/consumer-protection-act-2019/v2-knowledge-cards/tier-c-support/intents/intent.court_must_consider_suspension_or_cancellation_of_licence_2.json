@@ -5,10 +5,9 @@
   "description": "Natural language queries a user may ask about: Court must consider suspension or cancellation of licence",
   "content": {
     "queries": [
-      "what happens to licence after conviction",
-      "What is court must consider suspension or cancellation of licence?",
-      "How does court must consider suspension or cancellation of licence work?",
-      "Can you explain court must consider suspension or cancellation of licence?"
+      "What happens to licence after conviction",
+      "Can a court cancel a licence on a second conviction?",
+      "When does the court consider suspension or cancellation of a licence?"
     ]
   },
   "derived_from": [
@@ -35,10 +34,9 @@
       "court authority"
     ],
     "user_queries": [
-      "what happens to licence after conviction",
-      "What is court must consider suspension or cancellation of licence?",
-      "How does court must consider suspension or cancellation of licence work?",
-      "Can you explain court must consider suspension or cancellation of licence?"
+      "What happens to licence after conviction",
+      "Can a court cancel a licence on a second conviction?",
+      "When does the court consider suspension or cancellation of a licence?"
     ]
   },
   "metadata": {

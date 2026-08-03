@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Resolving Difference of Opinion handled by Commission",
   "content": {
     "queries": [
-      "What is resolving difference of opinion handled by commission?",
-      "How does resolving difference of opinion handled by commission work?",
-      "Can you explain resolving difference of opinion handled by commission?"
+      "How is resolving difference of opinion handled by commission?",
+      "Can you explain how resolving difference of opinion is handled by commission?"
     ]
   },
   "derived_from": [
@@ -39,9 +38,8 @@
       "Local Consumer Forum"
     ],
     "user_queries": [
-      "What is resolving difference of opinion handled by commission?",
-      "How does resolving difference of opinion handled by commission work?",
-      "Can you explain resolving difference of opinion handled by commission?"
+      "How is resolving difference of opinion handled by commission?",
+      "Can you explain how resolving difference of opinion is handled by commission?"
     ]
   },
   "metadata": {

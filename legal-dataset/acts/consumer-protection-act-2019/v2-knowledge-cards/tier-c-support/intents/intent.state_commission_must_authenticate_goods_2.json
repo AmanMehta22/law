@@ -5,10 +5,8 @@
   "description": "Natural language queries a user may ask about: State Commission must authenticate goods",
   "content": {
     "queries": [
-      "How are goods authenticated by the State Commission?",
-      "What is state commission must authenticate goods?",
-      "How does state commission must authenticate goods work?",
-      "Can you explain state commission must authenticate goods?"
+      "How are sampled goods authenticated by the State Commission?",
+      "What is the manner of authentication of goods?"
     ]
   },
   "derived_from": [
@@ -36,10 +34,8 @@
       "validation"
     ],
     "user_queries": [
-      "How are goods authenticated by the State Commission?",
-      "What is state commission must authenticate goods?",
-      "How does state commission must authenticate goods work?",
-      "Can you explain state commission must authenticate goods?"
+      "How are sampled goods authenticated by the State Commission?",
+      "What is the manner of authentication of goods?"
     ]
   },
   "metadata": {

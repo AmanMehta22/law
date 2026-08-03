@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Unfair Contract defines Right to Fair Contract Terms",
   "content": {
     "queries": [
-      "What is unfair contract defines right to fair contract terms?",
-      "How does unfair contract defines right to fair contract terms work?",
-      "Can you explain unfair contract defines right to fair contract terms?"
+      "How does unfair contract define right to fair contract terms?",
+      "Can you explain how unfair contract defines right to fair contract terms?"
     ]
   },
   "derived_from": [
@@ -34,9 +33,8 @@
       "debt repayment"
     ],
     "user_queries": [
-      "What is unfair contract defines right to fair contract terms?",
-      "How does unfair contract defines right to fair contract terms work?",
-      "Can you explain unfair contract defines right to fair contract terms?"
+      "How does unfair contract define right to fair contract terms?",
+      "Can you explain how unfair contract defines right to fair contract terms?"
     ]
   },
   "metadata": {

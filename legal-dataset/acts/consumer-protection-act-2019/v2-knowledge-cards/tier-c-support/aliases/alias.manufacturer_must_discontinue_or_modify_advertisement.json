@@ -5,9 +5,9 @@
   "description": "Alternative names and search aliases for: Manufacturer Must Discontinue Or Modify Advertisement",
   "content": {
     "aliases": [
-      "endorser responsibilities",
       "manufacturer duties",
-      "stop misleading ads"
+      "stop misleading ads",
+      "discontinue misleading advertisements"
     ]
   },
   "derived_from": [
@@ -37,8 +37,9 @@
       "duties"
     ],
     "aliases": [
-      "advertiser duties",
-      "publisher responsibilities"
+      "manufacturer duties",
+      "stop misleading ads",
+      "discontinue misleading advertisements"
     ],
     "user_queries": [
       "What is advertiser must discontinue or modify advertisement?",

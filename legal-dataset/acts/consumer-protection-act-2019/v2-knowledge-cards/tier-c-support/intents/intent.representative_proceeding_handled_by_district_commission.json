@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Representative proceeding handled by District Commission",
   "content": {
     "queries": [
-      "What is representative proceeding handled by district commission?",
-      "How does representative proceeding handled by district commission work?",
-      "Can you explain representative proceeding handled by district commission?"
+      "How is representative proceeding handled by district commission?",
+      "Can you explain how representative proceeding is handled by district commission?"
     ]
   },
   "derived_from": [
@@ -39,9 +38,8 @@
       "Local Consumer Forum"
     ],
     "user_queries": [
-      "What is representative proceeding handled by district commission?",
-      "How does representative proceeding handled by district commission work?",
-      "Can you explain representative proceeding handled by district commission?"
+      "How is representative proceeding handled by district commission?",
+      "Can you explain how representative proceeding is handled by district commission?"
     ]
   },
   "metadata": {

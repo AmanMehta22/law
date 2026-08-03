@@ -5,10 +5,9 @@
   "description": "Natural language queries a user may ask about: Government must lay annual report before Parliament",
   "content": {
     "queries": [
-      "government obligations",
-      "What is government must lay annual report before parliament?",
-      "How does government must lay annual report before parliament work?",
-      "Can you explain government must lay annual report before parliament?"
+      "What are the government's obligations regarding the annual report?",
+      "Must the Government lay the annual report before Parliament?",
+      "Where is the annual report of the Central Authority presented?"
     ]
   },
   "derived_from": [
@@ -35,10 +34,9 @@
       "laying of report"
     ],
     "user_queries": [
-      "government obligations",
-      "What is government must lay annual report before parliament?",
-      "How does government must lay annual report before parliament work?",
-      "Can you explain government must lay annual report before parliament?"
+      "What are the government's obligations regarding the annual report?",
+      "Must the Government lay the annual report before Parliament?",
+      "Where is the annual report of the Central Authority presented?"
     ]
   },
   "metadata": {

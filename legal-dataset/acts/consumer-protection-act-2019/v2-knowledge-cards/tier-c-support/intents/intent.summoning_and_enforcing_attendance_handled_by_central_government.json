@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Summoning and enforcing attendance handled by Central Government",
   "content": {
     "queries": [
-      "What is summoning and enforcing attendance handled by central government?",
-      "How does summoning and enforcing attendance handled by central government work?",
-      "Can you explain summoning and enforcing attendance handled by central government?"
+      "How is summoning and enforcing attendance handled by central government?",
+      "Can you explain how summoning and enforcing attendance is handled by central government?"
     ]
   },
   "derived_from": [
@@ -37,9 +36,8 @@
       "Union Government"
     ],
     "user_queries": [
-      "What is summoning and enforcing attendance handled by central government?",
-      "How does summoning and enforcing attendance handled by central government work?",
-      "Can you explain summoning and enforcing attendance handled by central government?"
+      "How is summoning and enforcing attendance handled by central government?",
+      "Can you explain how summoning and enforcing attendance is handled by central government?"
     ]
   },
   "metadata": {

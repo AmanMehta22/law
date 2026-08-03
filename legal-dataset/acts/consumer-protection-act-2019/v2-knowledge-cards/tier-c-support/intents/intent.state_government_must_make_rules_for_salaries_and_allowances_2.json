@@ -5,11 +5,8 @@
   "description": "Natural language queries a user may ask about: State Government must make rules for salaries and allowances",
   "content": {
     "queries": [
-      "What are the rules for salaries of District Commission members",
-      "What are the obligations of State Government regarding State Commission",
-      "What is state government must make rules for salaries and allowances?",
-      "How does state government must make rules for salaries and allowances work?",
-      "Can you explain state government must make rules for salaries and allowances?"
+      "What are the rules for salaries of District Commission members?",
+      "Who makes rules for the salaries and allowances of commission members?"
     ]
   },
   "derived_from": [
@@ -38,11 +35,8 @@
       "rules making"
     ],
     "user_queries": [
-      "What are the rules for salaries of District Commission members",
-      "What are the obligations of State Government regarding State Commission",
-      "What is state government must make rules for salaries and allowances?",
-      "How does state government must make rules for salaries and allowances work?",
-      "Can you explain state government must make rules for salaries and allowances?"
+      "What are the rules for salaries of District Commission members?",
+      "Who makes rules for the salaries and allowances of commission members?"
     ]
   },
   "metadata": {

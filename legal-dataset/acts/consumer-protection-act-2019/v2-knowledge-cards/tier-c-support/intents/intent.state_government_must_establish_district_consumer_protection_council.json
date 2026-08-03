@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: State Government Must Establish District Consumer Protection Council",
   "content": {
     "queries": [
-      "What is state government must establish district consumer protection council?",
-      "How does state government must establish district consumer protection council work?",
-      "Can you explain state government must establish district consumer protection council?"
+      "How is the District Consumer Protection Council established?",
+      "Who establishes the District Consumer Protection Council?"
     ]
   },
   "derived_from": [
@@ -35,10 +34,8 @@
       "District Council"
     ],
     "user_queries": [
-      "consumer protection council establishment",
-      "What is state government must establish district consumer protection council?",
-      "How does state government must establish district consumer protection council work?",
-      "Can you explain state government must establish district consumer protection council?"
+      "How is the District Consumer Protection Council established?",
+      "Who establishes the District Consumer Protection Council?"
     ]
   },
   "metadata": {

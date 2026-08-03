@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Receiving evidence on affidavits handled by District Commission",
   "content": {
     "queries": [
-      "What is receiving evidence on affidavits handled by district commission?",
-      "How does receiving evidence on affidavits handled by district commission work?",
-      "Can you explain receiving evidence on affidavits handled by district commission?"
+      "How is receiving evidence on affidavits handled by district commission?",
+      "Can you explain how receiving evidence on affidavits is handled by district commission?"
     ]
   },
   "derived_from": [
@@ -37,9 +36,8 @@
       "Union Government"
     ],
     "user_queries": [
-      "What is receiving evidence on affidavits handled by district commission?",
-      "How does receiving evidence on affidavits handled by district commission work?",
-      "Can you explain receiving evidence on affidavits handled by district commission?"
+      "How is receiving evidence on affidavits handled by district commission?",
+      "Can you explain how receiving evidence on affidavits is handled by district commission?"
     ]
   },
   "metadata": {

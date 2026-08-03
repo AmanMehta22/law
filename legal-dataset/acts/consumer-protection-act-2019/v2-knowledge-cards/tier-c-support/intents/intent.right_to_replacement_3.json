@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Right to Replacement",
   "content": {
     "queries": [
-      "can I replace defective product?",
-      "What is the punishment for cost of corrective advertisement?",
-      "What happens if I commit cost of corrective advertisement?"
+      "Can I get defective goods replaced?",
+      "What can the Commission order if the goods are defective?"
     ]
   },
   "derived_from": [
@@ -35,9 +34,8 @@
       "right to substitute"
     ],
     "user_queries": [
-      "can I replace defective product?",
-      "What is the punishment for cost of corrective advertisement?",
-      "What happens if I commit cost of corrective advertisement?"
+      "Can I get defective goods replaced?",
+      "What can the Commission order if the goods are defective?"
     ]
   },
   "metadata": {

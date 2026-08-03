@@ -5,11 +5,10 @@
   "description": "Natural language queries a user may ask about: Defence Not Available With Previous Knowledge",
   "content": {
     "queries": [
-      "What is defence not available with previous knowledge?",
-      "How does defence not available with previous knowledge work?",
-      "Can you explain defence not available with previous knowledge?",
       "What are the limitations of a defence not available with previous knowledge?",
-      "How does a defence not available with previous knowledge impact a contract's enforceability?"
+      "When is the defence of previous knowledge not available?",
+      "Can a product manufacturer rely on the consumer's previous knowledge as a defence?",
+      "Who cannot use the defence of prior knowledge under the Act?"
     ]
   },
   "derived_from": [
@@ -38,11 +37,10 @@
       "exception"
     ],
     "user_queries": [
-      "When is defence not available",
-      "What is the exception to the defence",
-      "What is defence not available with previous knowledge?",
-      "How does defence not available with previous knowledge work?",
-      "Can you explain defence not available with previous knowledge?"
+      "What are the limitations of a defence not available with previous knowledge?",
+      "When is the defence of previous knowledge not available?",
+      "Can a product manufacturer rely on the consumer's previous knowledge as a defence?",
+      "Who cannot use the defence of prior knowledge under the Act?"
     ]
   },
   "metadata": {

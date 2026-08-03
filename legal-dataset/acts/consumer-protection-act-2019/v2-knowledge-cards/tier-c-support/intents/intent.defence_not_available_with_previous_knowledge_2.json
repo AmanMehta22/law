@@ -7,9 +7,8 @@
     "queries": [
       "When is defence not available",
       "What is the exception to the defence",
-      "What is defence not available with previous knowledge?",
-      "How does defence not available with previous knowledge work?",
-      "Can you explain defence not available with previous knowledge?"
+      "What does the exception to the defence of previous knowledge provide?",
+      "When can a defendant not rely on the consumer's previous knowledge?"
     ]
   },
   "derived_from": [
@@ -39,9 +38,8 @@
     "user_queries": [
       "When is defence not available",
       "What is the exception to the defence",
-      "What is defence not available with previous knowledge?",
-      "How does defence not available with previous knowledge work?",
-      "Can you explain defence not available with previous knowledge?"
+      "What does the exception to the defence of previous knowledge provide?",
+      "When can a defendant not rely on the consumer's previous knowledge?"
     ]
   },
   "metadata": {

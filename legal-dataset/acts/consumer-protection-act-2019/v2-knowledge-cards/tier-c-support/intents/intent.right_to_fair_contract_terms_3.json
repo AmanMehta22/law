@@ -5,10 +5,8 @@
   "description": "Natural language queries a user may ask about: Right to Fair Contract Terms",
   "content": {
     "queries": [
-      "what are my rights as a consumer in a contract",
-      "What is party to the contract must accept early repayment of debts?",
-      "How does party to the contract must accept early repayment of debts work?",
-      "Can you explain party to the contract must accept early repayment of debts?"
+      "What rights do I have if a contract has unfair terms?",
+      "What makes a contract unfair?"
     ]
   },
   "derived_from": [
@@ -35,10 +33,8 @@
       "right to fair terms"
     ],
     "user_queries": [
-      "what are my rights as a consumer in a contract",
-      "What is party to the contract must accept early repayment of debts?",
-      "How does party to the contract must accept early repayment of debts work?",
-      "Can you explain party to the contract must accept early repayment of debts?"
+      "What rights do I have if a contract has unfair terms?",
+      "What makes a contract unfair?"
     ]
   },
   "metadata": {

@@ -6,9 +6,8 @@
   "content": {
     "queries": [
       "What are the obligations of an advertiser regarding false advertisements?",
-      "What is advertiser must discontinue or modify advertisement?",
-      "How does advertiser must discontinue or modify advertisement work?",
-      "Can you explain advertiser must discontinue or modify advertisement?"
+      "When must an advertiser discontinue or modify a misleading advertisement?",
+      "Can the Central Authority order an advertiser to stop issuing a misleading advertisement?"
     ]
   },
   "derived_from": [
@@ -37,9 +36,8 @@
     ],
     "user_queries": [
       "What are the obligations of an advertiser regarding false advertisements?",
-      "What is advertiser must discontinue or modify advertisement?",
-      "How does advertiser must discontinue or modify advertisement work?",
-      "Can you explain advertiser must discontinue or modify advertisement?"
+      "When must an advertiser discontinue or modify a misleading advertisement?",
+      "Can the Central Authority order an advertiser to stop issuing a misleading advertisement?"
     ]
   },
   "metadata": {

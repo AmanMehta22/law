@@ -5,10 +5,8 @@
   "description": "Alternative names and search aliases for: Partial Settlement and Continued Hearing",
   "content": {
     "aliases": [
-      "arbitration",
       "dispute resolution",
       "hearing",
-      "mediation",
       "partial settlement"
     ]
   },
@@ -35,10 +33,8 @@
       "dispute"
     ],
     "aliases": [
-      "arbitration",
       "dispute resolution",
       "hearing",
-      "mediation",
       "partial settlement"
     ],
     "user_queries": [

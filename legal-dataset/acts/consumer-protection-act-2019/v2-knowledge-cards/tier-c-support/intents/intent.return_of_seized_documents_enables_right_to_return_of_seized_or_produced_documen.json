@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Return of seized documents enables Right to Return of Seized or Produced Documents",
   "content": {
     "queries": [
-      "What is return of seized documents enables right to return of seized or produced documents?",
-      "How does return of seized documents enables right to return of seized or produced documents work?",
-      "Can you explain return of seized documents enables right to return of seized or produced documents?"
+      "How does return of seized documents enable right to return of seized or produced documen?",
+      "Can you explain how return of seized documents enables right to return of seized or produced documen?"
     ]
   },
   "derived_from": [
@@ -39,9 +38,8 @@
       "return of confiscated documents"
     ],
     "user_queries": [
-      "What is return of seized documents enables right to return of seized or produced documents?",
-      "How does return of seized documents enables right to return of seized or produced documents work?",
-      "Can you explain return of seized documents enables right to return of seized or produced documents?"
+      "How does return of seized documents enable right to return of seized or produced documen?",
+      "Can you explain how return of seized documents enables right to return of seized or produced documen?"
     ]
   },
   "metadata": {

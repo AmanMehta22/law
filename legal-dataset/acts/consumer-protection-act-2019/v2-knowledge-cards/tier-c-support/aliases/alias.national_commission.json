@@ -5,12 +5,8 @@
   "description": "Alternative names and search aliases for: National Commission",
   "content": {
     "aliases": [
-      "Central Commission",
-      "Central Consumer Protection Council",
       "NCDRC",
-      "National Consumer Commission",
-      "National Consumer Disputes Redressal Commission",
-      "National Consumer Protection Agency"
+      "National Consumer Disputes Redressal Commission"
     ]
   },
   "derived_from": [
@@ -93,12 +89,8 @@
       "council"
     ],
     "aliases": [
-      "Central Commission",
-      "Central Consumer Protection Council",
       "NCDRC",
-      "National Consumer Commission",
-      "National Consumer Disputes Redressal Commission",
-      "National Consumer Protection Agency"
+      "National Consumer Disputes Redressal Commission"
     ],
     "user_queries": [
       "What is acknowledgment?",

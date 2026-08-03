@@ -6,9 +6,7 @@
   "content": {
     "queries": [
       "What is the time limit for filing a complaint?",
-      "What is complaint filing handled by national commission?",
-      "How does complaint filing handled by national commission work?",
-      "Can you explain complaint filing handled by national commission?"
+      "Can a complaint be admitted after the time limit?"
     ]
   },
   "derived_from": [
@@ -36,9 +34,7 @@
     ],
     "user_queries": [
       "What is the time limit for filing a complaint?",
-      "What is complaint filing handled by national commission?",
-      "How does complaint filing handled by national commission work?",
-      "Can you explain complaint filing handled by national commission?"
+      "Can a complaint be admitted after the time limit?"
     ]
   },
   "metadata": {

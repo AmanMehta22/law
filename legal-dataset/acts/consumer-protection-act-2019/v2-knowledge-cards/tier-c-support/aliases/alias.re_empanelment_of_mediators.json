@@ -5,11 +5,8 @@
   "description": "Alternative names and search aliases for: Re-empanelment of mediators",
   "content": {
     "aliases": [
-      "dispute resolution",
-      "mediation",
-      "mediator",
-      "mediators",
-      "re-empanelment"
+      "mediator re-empanelment",
+      "re-appointment to mediator panel"
     ]
   },
   "derived_from": [
@@ -39,11 +36,8 @@
       "mediator"
     ],
     "aliases": [
-      "dispute resolution",
-      "mediation",
-      "mediator",
-      "mediators",
-      "re-empanelment"
+      "mediator re-empanelment",
+      "re-appointment to mediator panel"
     ],
     "user_queries": [
       "What is re-empanelment of mediators?",

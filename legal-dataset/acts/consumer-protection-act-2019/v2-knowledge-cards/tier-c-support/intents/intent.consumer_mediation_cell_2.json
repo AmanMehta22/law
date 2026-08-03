@@ -5,12 +5,10 @@
   "description": "Natural language queries a user may ask about: Consumer Mediation Cell",
   "content": {
     "queries": [
-      "What is central government must establish consumer mediation cell?",
-      "How does central government must establish consumer mediation cell work?",
-      "Can you explain central government must establish consumer mediation cell?",
-      "What is adjournment cost imposition by district commission?",
-      "How does adjournment cost imposition by district commission work?",
-      "Can you explain adjournment cost imposition by district commission?"
+      "What is a Consumer Mediation Cell?",
+      "Who establishes the Consumer Mediation Cell?",
+      "What is the role of a Consumer Mediation Cell?",
+      "How are consumer disputes referred to a Consumer Mediation Cell?"
     ]
   },
   "derived_from": [
@@ -45,12 +43,10 @@
       "Mediation Cell"
     ],
     "user_queries": [
-      "What is central government must establish consumer mediation cell?",
-      "How does central government must establish consumer mediation cell work?",
-      "Can you explain central government must establish consumer mediation cell?",
-      "What is adjournment cost imposition by district commission?",
-      "How does adjournment cost imposition by district commission work?",
-      "Can you explain adjournment cost imposition by district commission?"
+      "What is a Consumer Mediation Cell?",
+      "Who establishes the Consumer Mediation Cell?",
+      "What is the role of a Consumer Mediation Cell?",
+      "How are consumer disputes referred to a Consumer Mediation Cell?"
     ]
   },
   "metadata": {

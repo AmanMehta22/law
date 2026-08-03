@@ -5,10 +5,9 @@
   "description": "Natural language queries a user may ask about: Mediators must disclose facts",
   "content": {
     "queries": [
-      "what facts must be disclosed",
-      "What is mediators must disclose facts?",
-      "How does mediators must disclose facts work?",
-      "Can you explain mediators must disclose facts?"
+      "What facts must be disclosed",
+      "Are mediators required to disclose facts that may affect the mediation?",
+      "Must a mediator disclose any interest in the dispute?"
     ]
   },
   "derived_from": [
@@ -35,10 +34,9 @@
       "transparency requirements"
     ],
     "user_queries": [
-      "what facts must be disclosed",
-      "What is mediators must disclose facts?",
-      "How does mediators must disclose facts work?",
-      "Can you explain mediators must disclose facts?"
+      "What facts must be disclosed",
+      "Are mediators required to disclose facts that may affect the mediation?",
+      "Must a mediator disclose any interest in the dispute?"
     ]
   },
   "metadata": {

@@ -5,12 +5,8 @@
   "description": "Natural language queries a user may ask about: Re-empanelment eligibility",
   "content": {
     "queries": [
-      "What is re-empanelment eligibility?",
-      "How does re-empanelment eligibility work?",
-      "Can you explain re-empanelment eligibility?",
-      "What is district commission references questions about term of office?",
-      "How does district commission references questions about term of office work?",
-      "Can you explain district commission references questions about term of office?"
+      "How long is the panel of mediators valid?",
+      "Who is eligible to be considered for re-empanelment?"
     ]
   },
   "derived_from": [
@@ -40,12 +36,8 @@
       "re-selection criteria"
     ],
     "user_queries": [
-      "What is re-empanelment eligibility?",
-      "How does re-empanelment eligibility work?",
-      "Can you explain re-empanelment eligibility?",
-      "What is district commission references questions about term of office?",
-      "How does district commission references questions about term of office work?",
-      "Can you explain district commission references questions about term of office?"
+      "How long is the panel of mediators valid?",
+      "Who is eligible to be considered for re-empanelment?"
     ]
   },
   "metadata": {

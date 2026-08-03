@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Requisitioning of report handled by Commission",
   "content": {
     "queries": [
-      "What is requisitioning of report handled by commission?",
-      "How does requisitioning of report handled by commission work?",
-      "Can you explain requisitioning of report handled by commission?"
+      "How is requisitioning of report handled by commission?",
+      "Can you explain how requisitioning of report is handled by commission?"
     ]
   },
   "derived_from": [
@@ -37,9 +36,8 @@
       "Union Government"
     ],
     "user_queries": [
-      "What is requisitioning of report handled by commission?",
-      "How does requisitioning of report handled by commission work?",
-      "Can you explain requisitioning of report handled by commission?"
+      "How is requisitioning of report handled by commission?",
+      "Can you explain how requisitioning of report is handled by commission?"
     ]
   },
   "metadata": {

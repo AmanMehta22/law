@@ -5,12 +5,8 @@
   "description": "Natural language queries a user may ask about: Right to Review",
   "content": {
     "queries": [
-      "can I appeal this order",
-      "how to review a decision",
-      "can I review an order passed by the National Commission",
-      "What is national commission must review order?",
-      "How does national commission must review order work?",
-      "Can you explain national commission must review order?"
+      "Can a Commission review its own order?",
+      "When can a Commission review an order passed by it?"
     ]
   },
   "derived_from": [
@@ -40,12 +36,8 @@
       "right to reconsideration"
     ],
     "user_queries": [
-      "can I appeal this order",
-      "how to review a decision",
-      "can I review an order passed by the National Commission",
-      "What is national commission must review order?",
-      "How does national commission must review order work?",
-      "Can you explain national commission must review order?"
+      "Can a Commission review its own order?",
+      "When can a Commission review an order passed by it?"
     ]
   },
   "metadata": {

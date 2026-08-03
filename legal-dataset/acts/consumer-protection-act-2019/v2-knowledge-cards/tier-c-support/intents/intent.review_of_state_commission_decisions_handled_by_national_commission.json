@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Review of State Commission decisions handled by National Commission",
   "content": {
     "queries": [
-      "What is review of state commission decisions handled by national commission?",
-      "How does review of state commission decisions handled by national commission work?",
-      "Can you explain review of state commission decisions handled by national commission?"
+      "How is review of state commission decisions handled by national commission?",
+      "Can you explain how review of state commission decisions is handled by national commission?"
     ]
   },
   "derived_from": [
@@ -41,9 +40,8 @@
       "National Authority"
     ],
     "user_queries": [
-      "What is review of state commission decisions handled by national commission?",
-      "How does review of state commission decisions handled by national commission work?",
-      "Can you explain review of state commission decisions handled by national commission?"
+      "How is review of state commission decisions handled by national commission?",
+      "Can you explain how review of state commission decisions is handled by national commission?"
     ]
   },
   "metadata": {

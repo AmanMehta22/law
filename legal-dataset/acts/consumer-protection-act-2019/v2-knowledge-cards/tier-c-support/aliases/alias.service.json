@@ -5,13 +5,10 @@
   "description": "Alternative names and search aliases for: Service",
   "content": {
     "aliases": [
-      "Commodity",
       "Facility",
       "Offering",
       "Provision",
-      "Utility",
-      "facility",
-      "provision"
+      "Utility"
     ]
   },
   "derived_from": [
@@ -36,13 +33,10 @@
       "utility"
     ],
     "aliases": [
-      "Commodity",
       "Facility",
       "Offering",
       "Provision",
-      "Utility",
-      "facility",
-      "provision"
+      "Utility"
     ],
     "user_queries": [
       "What is service?",

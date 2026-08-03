@@ -5,12 +5,8 @@
   "description": "Alternative names and search aliases for: Product Service Provider",
   "content": {
     "aliases": [
-      "Distributor",
-      "Manufacturer",
       "Service Provider",
-      "Supplier",
-      "product maintainer",
-      "service provider"
+      "product maintainer"
     ]
   },
   "derived_from": [
@@ -34,12 +30,8 @@
       "supplier"
     ],
     "aliases": [
-      "Distributor",
-      "Manufacturer",
       "Service Provider",
-      "Supplier",
-      "product maintainer",
-      "service provider"
+      "product maintainer"
     ],
     "user_queries": [
       "What is product service provider?",

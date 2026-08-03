@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Review of Consumer Rights handled by District Commission",
   "content": {
     "queries": [
-      "What is review of consumer rights handled by district commission?",
-      "How does review of consumer rights handled by district commission work?",
-      "Can you explain review of consumer rights handled by district commission?"
+      "How is review of consumer rights handled by district commission?",
+      "Can you explain how review of consumer rights is handled by district commission?"
     ]
   },
   "derived_from": [
@@ -38,9 +37,8 @@
       "consumer welfare measures"
     ],
     "user_queries": [
-      "What is review of consumer rights handled by district commission?",
-      "How does review of consumer rights handled by district commission work?",
-      "Can you explain review of consumer rights handled by district commission?"
+      "How is review of consumer rights handled by district commission?",
+      "Can you explain how review of consumer rights is handled by district commission?"
     ]
   },
   "metadata": {

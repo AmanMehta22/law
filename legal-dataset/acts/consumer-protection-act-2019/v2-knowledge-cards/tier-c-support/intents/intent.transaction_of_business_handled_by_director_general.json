@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Transaction of business handled by Director-General",
   "content": {
     "queries": [
-      "What is transaction of business handled by director-general?",
-      "How does transaction of business handled by director-general work?",
-      "Can you explain transaction of business handled by director-general?"
+      "How is transaction of business handled by director general?",
+      "Can you explain how transaction of business is handled by director general?"
     ]
   },
   "derived_from": [
@@ -41,9 +40,8 @@
       "National Authority"
     ],
     "user_queries": [
-      "What is transaction of business handled by director-general?",
-      "How does transaction of business handled by director-general work?",
-      "Can you explain transaction of business handled by director-general?"
+      "How is transaction of business handled by director general?",
+      "Can you explain how transaction of business is handled by director general?"
     ]
   },
   "metadata": {

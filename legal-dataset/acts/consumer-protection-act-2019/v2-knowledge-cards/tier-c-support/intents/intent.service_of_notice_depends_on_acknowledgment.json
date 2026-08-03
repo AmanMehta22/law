@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Service of Notice depends on Acknowledgment",
   "content": {
     "queries": [
-      "What is service of notice depends on acknowledgment?",
-      "How does service of notice depends on acknowledgment work?",
-      "Can you explain service of notice depends on acknowledgment?"
+      "What does service of notice depend on?",
+      "Can you explain what service of notice depends on?"
     ]
   },
   "derived_from": [
@@ -34,9 +33,8 @@
       "proof of service"
     ],
     "user_queries": [
-      "What is service of notice depends on acknowledgment?",
-      "How does service of notice depends on acknowledgment work?",
-      "Can you explain service of notice depends on acknowledgment?"
+      "What does service of notice depend on?",
+      "Can you explain what service of notice depends on?"
     ]
   },
   "metadata": {

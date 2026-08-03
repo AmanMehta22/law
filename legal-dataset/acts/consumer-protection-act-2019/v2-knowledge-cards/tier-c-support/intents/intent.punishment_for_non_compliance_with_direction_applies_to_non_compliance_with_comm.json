@@ -5,9 +5,7 @@
   "description": "Natural language queries a user may ask about: Punishment for non-compliance with direction applies to Non-compliance with Commission orders",
   "content": {
     "queries": [
-      "What is punishment for non-compliance with direction applies to non-compliance with commission orders?",
-      "How does punishment for non-compliance with direction applies to non-compliance with commission orders work?",
-      "Can you explain punishment for non-compliance with direction applies to non-compliance with commission orders?"
+      "What is the punishment for failing to comply with an order of the District Commission, State Commission or National Commission?"
     ]
   },
   "derived_from": [
@@ -39,9 +37,7 @@
       "Local Consumer Forum"
     ],
     "user_queries": [
-      "What is punishment for non-compliance with direction applies to non-compliance with commission orders?",
-      "How does punishment for non-compliance with direction applies to non-compliance with commission orders work?",
-      "Can you explain punishment for non-compliance with direction applies to non-compliance with commission orders?"
+      "What is the punishment for failing to comply with an order of the District Commission, State Commission or National Commission?"
     ]
   },
   "metadata": {

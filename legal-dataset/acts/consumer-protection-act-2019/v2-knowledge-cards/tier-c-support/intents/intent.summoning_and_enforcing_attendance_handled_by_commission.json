@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Summoning and enforcing attendance handled by Commission",
   "content": {
     "queries": [
-      "What is summoning and enforcing attendance handled by commission?",
-      "How does summoning and enforcing attendance handled by commission work?",
-      "Can you explain summoning and enforcing attendance handled by commission?"
+      "How is summoning and enforcing attendance handled by commission?",
+      "Can you explain how summoning and enforcing attendance is handled by commission?"
     ]
   },
   "derived_from": [
@@ -37,9 +36,8 @@
       "Union Government"
     ],
     "user_queries": [
-      "What is summoning and enforcing attendance handled by commission?",
-      "How does summoning and enforcing attendance handled by commission work?",
-      "Can you explain summoning and enforcing attendance handled by commission?"
+      "How is summoning and enforcing attendance handled by commission?",
+      "Can you explain how summoning and enforcing attendance is handled by commission?"
     ]
   },
   "metadata": {

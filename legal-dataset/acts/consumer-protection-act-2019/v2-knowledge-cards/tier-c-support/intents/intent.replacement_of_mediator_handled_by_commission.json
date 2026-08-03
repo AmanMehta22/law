@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Replacement of Mediator handled by Commission",
   "content": {
     "queries": [
-      "What is replacement of mediator handled by commission?",
-      "How does replacement of mediator handled by commission work?",
-      "Can you explain replacement of mediator handled by commission?"
+      "How is replacement of mediator handled by commission?",
+      "Can you explain how replacement of mediator is handled by commission?"
     ]
   },
   "derived_from": [
@@ -38,9 +37,8 @@
       "new mediator appointment"
     ],
     "user_queries": [
-      "What is replacement of mediator handled by commission?",
-      "How does replacement of mediator handled by commission work?",
-      "Can you explain replacement of mediator handled by commission?"
+      "How is replacement of mediator handled by commission?",
+      "Can you explain how replacement of mediator is handled by commission?"
     ]
   },
   "metadata": {

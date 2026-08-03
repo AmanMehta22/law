@@ -6,9 +6,8 @@
   "content": {
     "queries": [
       "What are the obligations of a District Commission member in case of a disagreement?",
-      "What is member must give opinion within a month?",
-      "How does member must give opinion within a month work?",
-      "Can you explain member must give opinion within a month?"
+      "Within what time must a member give their opinion?",
+      "What happens when members of a Commission disagree on an order?"
     ]
   },
   "derived_from": [
@@ -37,9 +36,8 @@
     ],
     "user_queries": [
       "What are the obligations of a District Commission member in case of a disagreement?",
-      "What is member must give opinion within a month?",
-      "How does member must give opinion within a month work?",
-      "Can you explain member must give opinion within a month?"
+      "Within what time must a member give their opinion?",
+      "What happens when members of a Commission disagree on an order?"
     ]
   },
   "metadata": {

@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Review of order handled by State Commission",
   "content": {
     "queries": [
-      "What is review of order handled by state commission?",
-      "How does review of order handled by state commission work?",
-      "Can you explain review of order handled by state commission?"
+      "How is review of order handled by state commission?",
+      "Can you explain how review of order is handled by state commission?"
     ]
   },
   "derived_from": [
@@ -39,9 +38,8 @@
       "time to respond"
     ],
     "user_queries": [
-      "What is review of order handled by state commission?",
-      "How does review of order handled by state commission work?",
-      "Can you explain review of order handled by state commission?"
+      "How is review of order handled by state commission?",
+      "Can you explain how review of order is handled by state commission?"
     ]
   },
   "metadata": {

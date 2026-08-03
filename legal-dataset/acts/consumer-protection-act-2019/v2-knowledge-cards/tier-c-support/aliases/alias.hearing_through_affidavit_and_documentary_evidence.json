@@ -5,8 +5,8 @@
   "description": "Alternative names and search aliases for: Hearing Through Affidavit And Documentary Evidence",
   "content": {
     "aliases": [
-      "in-person hearing",
-      "video conference hearing"
+      "affidavit-based hearing",
+      "hearing on documentary evidence"
     ]
   },
   "derived_from": [
@@ -34,8 +34,8 @@
       "person"
     ],
     "aliases": [
-      "in-person hearing",
-      "video conference hearing"
+      "affidavit-based hearing",
+      "hearing on documentary evidence"
     ],
     "user_queries": [
       "What is affidavit?",

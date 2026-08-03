@@ -7,7 +7,6 @@
     "aliases": [
       "National Commission Review",
       "NCDRC Review Order",
-      "Central Commission Mandatory Review",
       "Mandatory Review by National Consumer Commission"
     ]
   },
@@ -35,8 +34,9 @@
       "reconsider"
     ],
     "aliases": [
-      "re-examine",
-      "reconsider"
+      "National Commission Review",
+      "NCDRC Review Order",
+      "Mandatory Review by National Consumer Commission"
     ],
     "user_queries": [
       "What is national commission must review order?",

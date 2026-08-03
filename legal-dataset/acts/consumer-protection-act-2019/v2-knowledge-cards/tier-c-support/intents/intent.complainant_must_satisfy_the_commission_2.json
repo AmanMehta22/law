@@ -5,11 +5,9 @@
   "description": "Natural language queries a user may ask about: Complainant must satisfy the Commission",
   "content": {
     "queries": [
-      "late complaint",
-      "delayed filing",
-      "What is complainant must satisfy the commission?",
-      "How does complainant must satisfy the commission work?",
-      "Can you explain complainant must satisfy the commission?"
+      "When can a complaint be filed after the limitation period?",
+      "What must a complainant prove to file a delayed complaint?",
+      "Can a complaint be admitted if the complainant satisfies the Commission about the delay?"
     ]
   },
   "derived_from": [
@@ -37,11 +35,9 @@
       "applicant"
     ],
     "user_queries": [
-      "late complaint",
-      "delayed filing",
-      "What is complainant must satisfy the commission?",
-      "How does complainant must satisfy the commission work?",
-      "Can you explain complainant must satisfy the commission?"
+      "When can a complaint be filed after the limitation period?",
+      "What must a complainant prove to file a delayed complaint?",
+      "Can a complaint be admitted if the complainant satisfies the Commission about the delay?"
     ]
   },
   "metadata": {

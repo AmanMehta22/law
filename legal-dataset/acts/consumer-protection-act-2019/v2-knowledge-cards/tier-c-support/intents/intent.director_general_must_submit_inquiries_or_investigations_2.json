@@ -6,9 +6,8 @@
   "content": {
     "queries": [
       "What are the duties of the Director-General?",
-      "What is director-general must submit inquiries or investigations?",
-      "How does director-general must submit inquiries or investigations work?",
-      "Can you explain director-general must submit inquiries or investigations?"
+      "To whom does the Director-General submit the reports of inquiries or investigations?",
+      "What reports must the Director-General furnish after an inquiry?"
     ]
   },
   "derived_from": [
@@ -37,9 +36,8 @@
     ],
     "user_queries": [
       "What are the duties of the Director-General?",
-      "What is director-general must submit inquiries or investigations?",
-      "How does director-general must submit inquiries or investigations work?",
-      "Can you explain director-general must submit inquiries or investigations?"
+      "To whom does the Director-General submit the reports of inquiries or investigations?",
+      "What reports must the Director-General furnish after an inquiry?"
     ]
   },
   "metadata": {

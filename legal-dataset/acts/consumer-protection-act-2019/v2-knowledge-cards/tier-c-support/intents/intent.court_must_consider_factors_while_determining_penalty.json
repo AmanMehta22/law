@@ -5,9 +5,9 @@
   "description": "Natural language queries a user may ask about: Court Must Consider Factors While Determining Penalty",
   "content": {
     "queries": [
-      "What is court must consider factors while determining penalty?",
-      "How does court must consider factors while determining penalty work?",
-      "Can you explain court must consider factors while determining penalty?"
+      "What factors must a court consider while determining the penalty?",
+      "How does a court decide the quantum of penalty under this section?",
+      "Does the court have to consider all the prescribed factors before imposing a penalty?"
     ]
   },
   "derived_from": [
@@ -35,10 +35,9 @@
       "court consideration while determining penalty"
     ],
     "user_queries": [
-      "what factors to consider while determining penalty under this section",
-      "What is court must consider factors while determining penalty?",
-      "How does court must consider factors while determining penalty work?",
-      "Can you explain court must consider factors while determining penalty?"
+      "What factors must a court consider while determining the penalty?",
+      "How does a court decide the quantum of penalty under this section?",
+      "Does the court have to consider all the prescribed factors before imposing a penalty?"
     ]
   },
   "metadata": {
