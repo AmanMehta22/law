@@ -1,4 +1,3 @@
-import { prisma } from "./database";
 export { env } from "./env";
 export { logger } from "./logger";
 export { prisma } from "./database";
