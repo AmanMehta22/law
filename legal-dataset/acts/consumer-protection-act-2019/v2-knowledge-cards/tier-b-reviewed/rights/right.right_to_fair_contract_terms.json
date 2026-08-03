@@ -7,8 +7,8 @@
     "right": "Fair Contract Terms",
     "conditions": [
       "requiring manifestly excessive security deposits",
-      "imposing any penalty on the consumer for the breach of contract",
-      "refusing to accept early repayment of debts",
+      "imposing any penalty on the consumer, for the breach of contract thereof which is wholly disproportionate to the loss occurred due to such breach to the other party to the contract",
+      "refusing to accept early repayment of debts on payment of applicable penalty",
       "entitling a party to the contract to terminate such contract unilaterally without reasonable cause",
       "permitting or has the effect of permitting one party to assign the contract to the detriment of the other party who is a consumer without his consent",
       "imposing on the consumer any unreasonable charge, obligation or condition"
@@ -63,7 +63,7 @@
     "review_status": "reviewed",
     "confidence": 0.75,
     "created_by": "RightsAgent",
-    "reviewed_by": "v2-review-llm-70b-2026-08-02 (bulk, 20% sample agreed)",
+    "reviewed_by": "deep-review-2026-08-03 (complete tier-b review)",
     "version": 1
   }
 }

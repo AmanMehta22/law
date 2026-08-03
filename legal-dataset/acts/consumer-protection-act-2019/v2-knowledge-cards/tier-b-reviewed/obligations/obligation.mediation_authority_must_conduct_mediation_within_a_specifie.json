@@ -4,22 +4,13 @@
   "title": "Mediation must be conducted within a specified time and manner",
   "description": "Regulations may provide for time within which, and the manner in which, mediation may be conducted",
   "content": {
-    "who": "Mediation authority",
+    "who": "Mediator",
     "what": "must conduct mediation within a specified time and manner",
     "conditions": [
       "under sub-section (3) of section 79"
     ],
     "limitations": [
-      "under sub-section (3) of section 79",
-      "the costs for adjournment to be imposed by the District Commission under the second proviso to sub-section (7) of section 38",
-      "the costs for adjournment to be imposed by the State Commission or the National Commission, as the case may be, under the second proviso to section 52",
-      "the maintenance of any other information by the consumer mediation cell under sub-section (4) of section 74",
-      "the manner of submission of quarterly report by consumer mediation cell to the District Commission, the State Commission or the National Commission under sub-section (5) of section 74",
-      "the qualifications and experience required for empanelment as mediator, the procedure for empanelment, the manner of training empanelled mediators, the fee payable to empanelled mediator, the terms and conditions for empanelment, the code of conduct for empanelled mediators, the grounds on which, and the manner in which, empanelled mediators shall be removed or empanelment shall be cancelled and the other matters relating thereto under sub-section (2) of section 75",
-      "the conditions for re-empanelment of mediators for another term under sub-section (3) of section 75",
-      "the other facts to be disclosed by mediators under clause (c) of section 77",
-      "the time within which, and the manner in which, mediation may be conducted under sub-section (3) of section 79",
-      "such other matter for which provision is to be, or may be, made by regulation"
+      "within such time and in such manner as may be specified by regulations"
     ]
   },
   "derived_from": [
@@ -66,7 +57,7 @@
     "review_status": "reviewed",
     "confidence": 0.75,
     "created_by": "ObligationAgent",
-    "reviewed_by": "v2-review-llm-70b-2026-08-02 (bulk, 20% sample agreed)",
+    "reviewed_by": "deep-review-2026-08-03 (complete tier-b review)",
     "version": 1
   }
 }

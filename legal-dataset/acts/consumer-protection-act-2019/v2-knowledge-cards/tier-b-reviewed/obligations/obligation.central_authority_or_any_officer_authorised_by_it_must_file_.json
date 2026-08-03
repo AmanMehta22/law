@@ -5,7 +5,7 @@
   "description": "...",
   "content": {
     "who": "Central Authority or any officer authorised by it",
-    "what": "must file a complaint",
+    "what": "may file a complaint (exclusive standing) in respect of offences under sections 88 and 89",
     "conditions": [
       "on a complaint filed by the Central Authority or any officer authorised by it"
     ],
@@ -55,7 +55,7 @@
     "review_status": "reviewed",
     "confidence": 1.0,
     "created_by": "ObligationAgent",
-    "reviewed_by": "v2-review-llm-70b-2026-08-02",
+    "reviewed_by": "deep-review-2026-08-03 (complete tier-b review)",
     "version": 1
   }
 }

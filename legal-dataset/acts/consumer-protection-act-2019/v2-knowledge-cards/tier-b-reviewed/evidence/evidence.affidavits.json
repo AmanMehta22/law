@@ -8,7 +8,7 @@
       "affidavits"
     ],
     "purpose": "receiving of evidence",
-    "mandatory": true
+    "mandatory": false
   },
   "derived_from": [
     "CPA2019-CH4-S38-9"
@@ -51,7 +51,7 @@
     "review_status": "reviewed",
     "confidence": 0.75,
     "created_by": "EvidenceAgent",
-    "reviewed_by": "v2-review-llm-70b-2026-08-02 (bulk, 20% sample agreed)",
+    "reviewed_by": "deep-review-2026-08-03 (complete tier-b review)",
     "version": 1
   }
 }

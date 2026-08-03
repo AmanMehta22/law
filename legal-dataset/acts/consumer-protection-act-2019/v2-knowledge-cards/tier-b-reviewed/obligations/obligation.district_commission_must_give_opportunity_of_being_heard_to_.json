@@ -10,7 +10,7 @@
       "before rejecting a complaint"
     ],
     "limitations": [
-      "ordinarily within twenty-one days from the date on which the complaint was filed"
+      "No time limit is specified for the opportunity of being heard; the 21-day period applies to deciding admissibility"
     ]
   },
   "derived_from": [
@@ -54,7 +54,7 @@
     "review_status": "reviewed",
     "confidence": 0.75,
     "created_by": "ObligationAgent",
-    "reviewed_by": "v2-review-llm-70b-2026-08-02 (bulk, 20% sample agreed)",
+    "reviewed_by": "deep-review-2026-08-03 (complete tier-b review)",
     "version": 1
   }
 }

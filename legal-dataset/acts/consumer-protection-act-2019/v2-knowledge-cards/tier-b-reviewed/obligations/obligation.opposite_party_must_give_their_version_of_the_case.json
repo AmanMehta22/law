@@ -8,7 +8,7 @@
     "what": "must give their version of the case",
     "conditions": [
       "complaint admitted under sub-section (2) of section 36",
-      "complaint relates to goods or services where procedure specified in sub-section (2) cannot be followed"
+      "complaint relates to goods in respect of which the procedure specified in sub-section (2) cannot be followed, or the complaint relates to any services"
     ],
     "limitations": [
       "period of thirty days or extended period not exceeding fifteen days"
@@ -58,7 +58,7 @@
     "review_status": "reviewed",
     "confidence": 1.0,
     "created_by": "ObligationAgent",
-    "reviewed_by": "v2-review-llm-70b-2026-08-02",
+    "reviewed_by": "deep-review-2026-08-03 (complete tier-b review)",
     "version": 1
   }
 }

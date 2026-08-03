@@ -5,7 +5,7 @@
   "description": "The Central Government is required to make rules for the service terms of the President and members of the National Commission",
   "content": {
     "who": "Central Government",
-    "what": "must make rules for qualifications, appointment, term of office, salaries and allowances, resignation, removal and other terms and conditions of service of the President and members of the National Commission",
+    "what": "may make rules for qualifications, appointment, term of office, salaries and allowances, resignation, removal and other terms and conditions of service of the President and members of the National Commission",
     "conditions": [
       "the President and members of the National Commission shall hold office for such term as specified in the rules made by the Central Government but not exceeding five years from the date on which he enters upon his office and shall be eligible for re-appointment"
     ],
@@ -58,7 +58,7 @@
     "review_status": "reviewed",
     "confidence": 0.75,
     "created_by": "ObligationAgent",
-    "reviewed_by": "v2-review-llm-70b-2026-08-02 (bulk, 20% sample agreed)",
+    "reviewed_by": "deep-review-2026-08-03 (complete tier-b review)",
     "version": 1
   }
 }

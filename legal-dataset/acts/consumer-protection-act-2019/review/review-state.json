@@ -437,6 +437,650 @@
    "field": "conditions",
    "problem": "invented legal content",
    "confidence": 0.8
+  },
+  {
+   "id": "authority.central_consumer_protection_authority",
+   "field": "content.jurisdiction",
+   "problem": "Claim 'the whole of India' is not supported by any cited source text. S2-4 (definition) and S10-1 (establishment) state only that the Central Authority regulates matters prejudicial to public/consumers' interests; no territorial scope is stated. S10-3 (headquarters in NCR Delhi, regional offices in India) and S1-2 (Act extends to whole of India) are not among the card's sources.",
+   "confidence": 0.35,
+   "source_based_fix_applied": false
+  },
+  {
+   "id": "authority.comptroller_and_auditor_general_of_india",
+   "field": "content.role",
+   "problem": "Role/description reversal: S26-1 provides that the Central Authority shall maintain accounts and prepare the annual statement of accounts 'in such form and manner as may be prescribed in consultation with the Comptroller and Auditor-General of India'. The form and manner are prescribed (by rules), with the CAG consulted; the CAG does not prescribe them, and the consultation is not 'with the Central Authority' - the parties are reversed.",
+   "confidence": 0.9,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "authority.comptroller_and_auditor_general_of_india",
+   "field": "content.powers[0]",
+   "problem": "Same reversal: power 'prescribe form and manner of annual statement of accounts' is not vested in the CAG by S26-1 (form/manner are 'prescribed' by the rule-maker, 'in consultation with the CAG'). S26-3/S26-4 vest audit rights and certification, not prescription.",
+   "confidence": 0.9,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "authority.court",
+   "field": "content.powers[0]",
+   "problem": "'hears appeals' is not a power conferred on a Court by any cited source. S73-2 expressly provides 'no appeal shall lie before any court, from any order of a District Commission or a State Commission or the National Commission' - appeals go to the State/National Commission or the Supreme Court (S73-1, S67), not to a court. The Court's actual powers in the cited sources are licence suspension/cancellation (S90-3, S91-3) and granting leave for compounding (S96-1).",
+   "confidence": 0.55,
+   "source_based_fix_applied": false
+  },
+  {
+   "id": "authority.district_commission",
+   "field": "content.powers[49]",
+   "problem": "Power 'cease and desist from issuing misleading advertisement' is not supported by the cited source text as bundled: the official_text of CPA2019-CH4-S39-1 in the bundle is truncated at clause (m) ('...to provide for adequate costs to partie...[TRUNCATED]') and contains no clause (n) 'to cease and desist from issuing any misleading advertisement'. The claim corresponds to the actual s.39(1)(n) of the Act but is unverifiable against the bundled source.",
+   "confidence": 0.3,
+   "source_based_fix_applied": false
+  },
+  {
+   "id": "authority.supreme_court",
+   "field": "content.jurisdiction",
+   "problem": "Claim 'whole of India' is not stated in any cited source: S67, S73-1 and S73-3 deal only with appellate jurisdiction over National Commission orders and the 30-day limitation period; none fixes the Supreme Court's territorial extent.",
+   "confidence": 0.3,
+   "source_based_fix_applied": false
+  },
+  {
+   "id": "evidence.accounts_records",
+   "field": "content.required_documents",
+   "problem": "Incomplete: source S26-1 also requires the Central Authority to 'prepare an annual statement of accounts in such form and manner as may be prescribed'; this statutorily required document is omitted from the list.",
+   "confidence": 0.5,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "evidence.affidavits",
+   "field": "content.mandatory",
+   "problem": "S38-9 only grants the District Commission the civil-court power of 'receiving of evidence on affidavits'; it does not make any affidavit compulsory. Sibling cards from the same sub-section (evidence.document_material_object, evidence.report_of_analysis_or_test) correctly use mandatory=false.",
+   "confidence": 0.6,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "evidence.deposit_receipt",
+   "field": "content.mandatory",
+   "problem": "Both sources make the 50% deposit a hard precondition within the card's own scope: 'no appeal by a person, who is required to pay any amount in terms of an order of the District Commission, shall be entertained by the State Commission unless the appellant has deposited fifty per cent. of that amount' (S41, second proviso; same in S67). Deposit (and hence deposit receipt) is compulsory, so mandatory should be true.",
+   "confidence": 0.8,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "evidence.design_specifications_testing_records",
+   "field": "content.required_documents",
+   "problem": "Invented documents: S84-1(b) states only that the manufacturer is liable if 'the product is defective in design' and names no documents. 'Design specifications' and 'Testing records' are unsupported by the source; per the repo convention (docs/dataset-guidelines.md rule 3) the value should be 'Not specified in the Act'.",
+   "confidence": 0.6,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "evidence.evidence_of_manufacturing_process_quality_control_records",
+   "field": "content.required_documents",
+   "problem": "Invented documents: S84-1(a) states liability for 'a manufacturing defect' but names no documents; 'Evidence of manufacturing process' and 'Quality control records' are unsupported by the source.",
+   "confidence": 0.6,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "evidence.manufacturing_specifications_production_records",
+   "field": "content.required_documents[1]",
+   "problem": "'production records' is not named in S84-1(c), which speaks only of 'a deviation from manufacturing specifications'; only 'manufacturing specifications' is supported by the source.",
+   "confidence": 0.6,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "evidence.product_manual_warning_labels",
+   "field": "content.mandatory",
+   "problem": "S84-1(e) is a liability condition (manufacturer liable if the product 'fails to contain adequate instructions of correct usage ... or any warning'); it does not make any document a compulsory filing, and the other four cards derived from S84-1 use mandatory=false.",
+   "confidence": 0.5,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "evidence.registered_post_acknowledgment_due",
+   "field": "content.mandatory",
+   "problem": "S65-1 makes service of notices compulsory but lists registered post acknowledgment due as only one of several alternative modes: notices 'shall be served by delivering or transmitting a copy thereof by registered post acknowledgment due ... by speed post or by such courier service ... or by any other mode of transmission of documents including electronic means'. RPAD itself is not compulsory, so mandatory=true overstates the source.",
+   "confidence": 0.6,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "evidence.sales_records_invoice_receipt",
+   "field": "content.required_documents[1],content.required_documents[2]",
+   "problem": "'Invoice' and 'Receipt' are not named or implied in S86, which states liability where 'the product has been sold by him' (clause (d)) but never mentions such documents; only 'Sales records' is a defensible paraphrase of the sale ground.",
+   "confidence": 0.55,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "evidence.warranty_documents_sales_agreement",
+   "field": "content.mandatory",
+   "problem": "S84-1(d) is a liability ground ('the product does not conform to the express warranty'); nothing in it makes documents compulsory, and the other four cards derived from S84-1 use mandatory=false.",
+   "confidence": 0.6,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "evidence.warranty_documents_sales_agreement",
+   "field": "content.required_documents[1]",
+   "problem": "'Sales agreement' is not named in S84-1; the source mentions only 'the express warranty'.",
+   "confidence": 0.55,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "exception.does_not_include_a_laboratory_or_an_organisation_that_is_not",
+   "field": "content.exception",
+   "problem": "S2(2) 'appropriate laboratory' is an inclusive definition (CG-recognised; or SG-recognised subject to CG guidelines; or established by/under any law and maintained, financed or aided by the CG or SG) with no 'does not include' limb. The exception 'does not include a laboratory or an organisation that is not recognised by a State Government' is unsupported and contradicts category (iii), which includes a laboratory established by law and maintained/financed/aided by government even without State Government recognition.",
+   "confidence": 0.7,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "exception.does_not_include_a_laboratory_or_an_organisation_that_is_not",
+   "field": "content.general_rule",
+   "problem": "General rule lists only categories (i) and (ii) of the 'appropriate laboratory' definition and omits category (iii) (laboratory established by/under law, maintained/financed/aided by government).",
+   "confidence": 0.5,
+   "source_based_fix_applied": false
+  },
+  {
+   "id": "exception.does_not_include_a_person_who_obtains_goods_for_resale_or_fo",
+   "field": "content.conditions",
+   "problem": "The conditions ('use is made with the approval of the person who buys such goods', 'services are availed of with the approval of the first mentioned person') belong to the inclusive limb of the S2(7) 'consumer' definition (users/beneficiaries of goods/services with approval of the buyer), not to the stated exception of a person who obtains goods for resale or for any commercial purpose. Conditions are misattributed to the exclusion.",
+   "confidence": 0.45,
+   "source_based_fix_applied": false
+  },
+  {
+   "id": "exception.endorser_is_not_liable_to_a_penalty_if_he_has_exercised_due_",
+   "field": "content.general_rule",
+   "problem": "general_rule restates the exception itself: S21(5) is the exemption provision ('No endorser shall be liable to a penalty under sub-sections (2) and (3) if he has exercised due diligence...'), so the general rule and exception are identical and no underlying general rule (endorser liability under sub-sections (2) and (3)) is stated; the card is circular.",
+   "confidence": 0.55,
+   "source_based_fix_applied": false
+  },
+  {
+   "id": "exception.no_appeal_from_order_under_section_81_1_pursuant_to_mediatio",
+   "field": "content.general_rule",
+   "problem": "general_rule states 'Not specified in the Act', but the same source (S41) specifies the general rule: 'Any person aggrieved by an order made by the District Commission may prefer an appeal against such order to the State Commission ... within a period of forty-five days'. The exception itself (no appeal from S81(1) mediation settlement orders) is accurate.",
+   "confidence": 0.5,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "exception.proceedings_not_to_be_called_in_question_on_natural_justice_grounds",
+   "field": "content.exception",
+   "problem": "Exception cites 'sub-sections (1) and (2)' of section 38, but S38(5) of the Act reads 'No proceedings complying with the procedure laid down in sub-sections (2) and (3) shall be called in question...'. The reference to '(1) and (2)' (which also appears in the card's bundled source text) is wrong relative to the statute.",
+   "confidence": 0.5,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "exception.product_manufacturer_not_liable_if_complainant_under_influen",
+   "field": "content.conditions",
+   "problem": "S87(2)(d) requires that the complainant, 'while using such product', was under the influence of alcohol or a non-prescribed prescription drug; the condition omits the 'while using such product' element of the defence.",
+   "confidence": 0.4,
+   "source_based_fix_applied": false
+  },
+  {
+   "id": "exception.product_manufacturer_not_liable_if_necessary_warnings_given_",
+   "field": "content.conditions",
+   "problem": "S87(2)(b) has a third cumulative element that is missing from both the exception and the conditions: 'but the harm was caused to the complainant by use of the end product in which such component or material was used'. As stated, the defence is incomplete.",
+   "confidence": 0.55,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "exception.product_manufacturer_not_liable_if_product_purchased_by_empl",
+   "field": "content.general_rule",
+   "problem": "general_rule states 'Not specified in the Act', but the general rule is stated in the preamble of the same S87(2) ('In any product liability action based on the failure to provide adequate warnings or instructions, the product manufacturer shall not be liable, if...') and is stated as the general rule in the sibling cards for S87(2)(b)/(c)/(d); the exception content itself is accurate.",
+   "confidence": 0.4,
+   "source_based_fix_applied": false
+  },
+  {
+   "id": "exception.shall_be_deemed_to_have_been_done_or_taken_under_the_corresp",
+   "field": "content.exception",
+   "problem": "exception is a fragment of the general_rule: both derive from the single sentence of S107(2), and the general_rule already states the deemed-done rule in full, so the card presents no distinct exception (the actual general rule, the repeal of the 1986 Act under S107(1), is not stated).",
+   "confidence": 0.4,
+   "source_based_fix_applied": false
+  },
+  {
+   "id": "exception.shall_not_admit_a_complaint_unless_it_is_filed_within_two_ye",
+   "field": "content.exception",
+   "problem": "S69(1) contains no proviso or carve-out; content.exception repeats content.general_rule verbatim ('shall not admit a complaint unless it is filed within two years from the date on which the cause of action has arisen'), so this card is mislabeled as an exception — no exception exists in the source.",
+   "confidence": 0.5,
+   "source_based_fix_applied": false
+  },
+  {
+   "id": "obligation.appellant_must_deposit_50_of_amount_ordered_by_state_commiss",
+   "field": "content.limitations",
+   "problem": "The 30-day period in S.51(1) attaches to preferring the appeal ('may prefer an appeal... within a period of thirty days'), not to the 50% deposit, for which the Act prescribes no deadline; the deposit is a precondition for the appeal being entertained. As phrased, the card imposes a time limit on the deposit that the statute does not contain.",
+   "confidence": 0.6,
+   "source_based_fix_applied": false
+  },
+  {
+   "id": "obligation.authority_must_provide_for_re_empanelment_of_mediators",
+   "field": "content.what",
+   "problem": "S.103(2)(f) confers a discretionary regulation-making power ('such regulations may make provisions for... the conditions for re-empanelment of mediators'), not a duty on the Authority to provide for re-empanelment; 'must' converts a 'may' power into an invented obligation.",
+   "confidence": 0.6,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "obligation.authority_must_set_qualifications_and_experience_for_empanel",
+   "field": "content.what",
+   "problem": "S.103(2)(e) confers a discretionary regulation-making power ('such regulations may make provisions for... the qualifications and experience required for empanelment as mediator'); 'must set' converts a 'may' power into an invented obligation.",
+   "confidence": 0.6,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "obligation.central_authority_ensure_that_no_person_takes_part_in_the_pu",
+   "field": "content.conditions",
+   "problem": "The condition 'the advertisement contravenes the provisions of this Act or the rules or regulations made thereunder' comes from clause (c) of S.18(1); clause (d) bars publication of 'any advertisement which is false or misleading' without that contravention requirement. Adding it as a condition narrows the obligation.",
+   "confidence": 0.45,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "obligation.central_authority_must_cause_investigation_to_be_made",
+   "field": "content.conditions",
+   "problem": "The prima facie trigger in S.19(1) also covers 'any false or misleading advertisement' ('a prima facie case of violation of consumer rights or any unfair trade practice or any false or misleading advertisement'); the card drops this third trigger, narrowing the condition for the duty to cause investigation.",
+   "confidence": 0.4,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "obligation.central_authority_must_make_regulations_not_inconsistent_wit",
+   "field": "content.what",
+   "problem": "S.104(1) is permissive ('The Central Authority may, with the previous approval of the Central Government, by notification, make regulations'); the card recasts a discretionary power as a mandatory duty ('must make regulations'), inventing an obligation.",
+   "confidence": 0.6,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "obligation.central_authority_must_obtain_previous_approval_of_the_centr",
+   "field": "content.what",
+   "problem": "S.104(1) says the Central Authority 'may, with the previous approval of the Central Government, by notification, make regulations'; the card turns the approval condition of a discretionary power into a standalone mandatory duty ('must obtain previous approval').",
+   "confidence": 0.6,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "obligation.central_authority_or_any_officer_authorised_by_it_must_file_",
+   "field": "content.what",
+   "problem": "S.92 imposes no duty to file complaints; it provides that no court shall take cognizance of offences under sections 88 and 89 'except on a complaint filed by the Central Authority or any officer authorised by it'. The card converts exclusive standing into an invented duty ('must file a complaint').",
+   "confidence": 0.5,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "obligation.central_authority_shall_conduct_inquiry_or_investigation",
+   "field": "content.who",
+   "problem": "S.15(1) obliges the Central Authority to have an Investigation Wing headed by a Director-General 'for the purpose of conducting inquiry or investigation under this Act as may be directed by the Central Authority'. The card assigns the conduct of the inquiry to the Central Authority itself, and the condition 'as directed by the Central Authority' is circular with who=Central Authority.",
+   "confidence": 0.6,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "obligation.central_government_central_authority_or_state_government_mus",
+   "field": "content.what",
+   "problem": "S.35(1)(d) gives the Central Government, the Central Authority and the State Government standing to FILE complaints with the District Commission ('may be filed with a District Commission by... (d) the Central Government, the Central Authority or the State Government'); it does not oblige them to 'allow filing of complaint'. Who/what are inverted.",
+   "confidence": 0.7,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "obligation.central_government_give_an_opportunity_to_express_views",
+   "field": "content.who",
+   "problem": "Under the proviso to S.99(1), the Central Authority 'shall, as far as practicable, be given an opportunity to express its views before any direction is given' - the opportunity is given BY the Central Government TO the Central Authority. The card's who=Central Authority inverts the direction of the obligation (title correctly says Central Government).",
+   "confidence": 0.7,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "obligation.central_government_make_grants_of_money_to_the_central_autho",
+   "field": "content.what",
+   "problem": "S.25 is permissive ('The Central Government may, after due appropriation made by Parliament by law in this behalf, make to the Central Authority grants'); the card converts a discretionary grant-making power into a duty ('must make grants').",
+   "confidence": 0.6,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "obligation.central_government_make_rules_for_appointment_of_president_a",
+   "field": "content.what",
+   "problem": "S.43 is permissive ('The Central Government may, by notification, make rules'); the card states 'must make rules for appointment of President and members of State Commission', converting a discretion into a duty.",
+   "confidence": 0.6,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "obligation.central_government_make_rules_for_district_commission_appoin",
+   "field": "content.what",
+   "problem": "S.29 is permissive ('The Central Government may, by notification, make rules'); the card states 'must make rules for District Commission appointments', converting a discretion into a duty.",
+   "confidence": 0.6,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "obligation.central_government_make_rules_for_the_qualifications_appoint",
+   "field": "content.what",
+   "problem": "S.11 is permissive ('The Central Government may, by notification, make rules'); the card states 'must make rules for the qualifications, appointment, and terms of service of the Chief Commissioner and Commissioners', converting a discretion into a duty.",
+   "confidence": 0.6,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "obligation.central_government_must_appoint_director_general_and_other_o",
+   "field": "content.what",
+   "problem": "S.15(2) is permissive ('The Central Government may appoint a Director-General and such number of Additional Director-General... as may be prescribed'); the card states 'must appoint Director-General and other officers', converting a discretion into a duty.",
+   "confidence": 0.6,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "obligation.central_government_must_consider_necessity",
+   "field": "content.what",
+   "problem": "S.23 grants a discretionary power ('The Central Government may, if it considers necessary, by notification, designate any statutory authority or body to exercise the powers and perform the functions of the Central Authority'); the card invents an obligation to 'consider necessity' and omits the actual power (designation of an authority to exercise the Central Authority's functions).",
+   "confidence": 0.7,
+   "source_based_fix_applied": false
+  },
+  {
+   "id": "obligation.central_government_must_consult",
+   "field": "content.who",
+   "problem": "S.28(2)(b) provides that the District Commission shall consist of 'not less than two and not more than such number of members as may be prescribed, in consultation with the Central Government' - the Central Government is the party consulted, not the consulting party. The card misattributes the consultation obligation to the Central Government.",
+   "confidence": 0.5,
+   "source_based_fix_applied": false
+  },
+  {
+   "id": "obligation.central_government_must_establish_regional_benches_by_notifi",
+   "field": "content.what",
+   "problem": "The proviso to S.53(2) is permissive ('the Central Government may, by notification, establish regional Benches of the National Commission, at such places, as it deems fit'); the card states 'must establish regional Benches by notification'. Also, the 'in consultation with the National Commission' condition attaches to notifying places of functioning in the main clause, not to establishing regional Benches.",
+   "confidence": 0.6,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "obligation.central_government_must_issue_guidelines",
+   "field": "content.what",
+   "problem": "The definition of 'appropriate laboratory' in S.2(1)(b) merely conditions State recognition on 'such guidelines as may be issued by the Central Government in this behalf'; it imposes no duty on the Central Government to issue guidelines. The card invents a 'must issue guidelines' obligation from a definitional clause.",
+   "confidence": 0.5,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "obligation.central_government_must_make_rules_for_qualifications_appoin",
+   "field": "content.what",
+   "problem": "S.55(1) is permissive ('The Central Government may, by notification, make rules'); the card states 'must make rules for qualifications, appointment, term of office... of the President and members of the National Commission', converting a discretion into a duty.",
+   "confidence": 0.6,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "obligation.central_government_must_notify_locations_in_official_gazette",
+   "field": "content.what",
+   "problem": "The main clause of S.53(2) is permissive ('perform its functions at such other places as the Central Government may in consultation with the National Commission notify in the Official Gazette'); the card recasts notification of locations as a mandatory duty ('must notify locations in Official Gazette').",
+   "confidence": 0.5,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "obligation.court_must_grant_leave_for_compounding_of_offence",
+   "field": "content.who",
+   "problem": "The proviso to S.96(1) forbids compounding 'without the leave of the court' - the obligation operates on the person compounding the offence; the court is not under a duty to 'grant leave'. The card invents a duty on the court.",
+   "confidence": 0.6,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "obligation.district_commission_must_consider_complaint_filed_on_behalf_",
+   "field": "content.who",
+   "problem": "S.35(1)(c) confers a right on 'one or more consumers, where there are numerous consumers having the same interest, with the permission of the District Commission' to file on behalf of all interested consumers; the card converts this into a duty on the District Commission to 'consider' such complaints.",
+   "confidence": 0.5,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "obligation.district_commission_must_give_opportunity_of_being_heard_to_",
+   "field": "content.limitations",
+   "problem": "The 'ordinarily within twenty-one days' period attaches to deciding admissibility (second proviso to S.36(2): 'the admissibility of the complaint shall ordinarily be decided within twenty-one days'), not to the requirement to give the complainant an opportunity of being heard before rejection; the limitation is misattached to the hearing requirement.",
+   "confidence": 0.5,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "obligation.district_commission_must_hear_complaints_based_on_affidavit_",
+   "field": "content.conditions",
+   "problem": "The duty to hear complaints on affidavit and documentary evidence (main clause of S.38(6)) is unconditional; 'on sufficient cause being shown' and 'after recording its reasons in writing' qualify only the proviso permitting in-person or video-conferencing hearings. As attached, the conditions wrongly make the affidavit-hearing duty conditional on sufficient cause being shown.",
+   "confidence": 0.5,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "obligation.district_commission_must_not_grant_adjournment_without_suffi",
+   "field": "content.what",
+   "problem": "The first proviso to S.38(7) says 'no adjournment shall ordinarily be granted by the District Commission unless sufficient cause is shown and the reasons for grant of adjournment have been recorded in writing'; the card drops 'ordinarily' (which preserves judicial discretion) and the recorded-reasons element, making the prohibition absolute.",
+   "confidence": 0.5,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "obligation.government_must_make_rules",
+   "field": "content.what",
+   "problem": "Converts permissive rule-making power into a mandatory obligation. Source text (S101-2/S102-2) states 'such rules may provide for...' (permissive 'may'); the Act grants the power to make rules, it does not require rules to be made.",
+   "confidence": 0.55,
+   "source_based_fix_applied": false
+  },
+  {
+   "id": "obligation.government_must_make_rules",
+   "field": "content.who",
+   "problem": "'Government' is ambiguous: the two derived_from sources concern different rule-makers (Central Government under S101, State Governments under S102).",
+   "confidence": 0.4,
+   "source_based_fix_applied": false
+  },
+  {
+   "id": "obligation.mediation_authority_must_conduct_mediation_within_a_specifie",
+   "field": "content.who",
+   "problem": "'Mediation authority' appears nowhere in the source. S103-2(h) only empowers regulations to prescribe 'the time within which, and the manner in which, mediation may be conducted under sub-section (3) of section 79'; the actual conduct duty under S79-3 falls on the Mediator ('The mediator so nominated shall conduct mediation...').",
+   "confidence": 0.6,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "obligation.mediation_authority_must_conduct_mediation_within_a_specifie",
+   "field": "content.limitations",
+   "problem": "Limitations dump the entire S103-2 items (a)-(i) list (costs for adjournment, quarterly reports, code of conduct, etc.), which are unrelated regulation subjects, not limitations on the mediation conduct duty.",
+   "confidence": 0.55,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "obligation.national_commission_must_call_for_records_and_pass_appropria",
+   "field": "content.limitations",
+   "problem": "Value thresholds ('exceeds rupees ten crore' / 'Central Government prescribed value') belong to clause (a)(i) (jurisdiction to entertain complaints), not to clause (b) (call for records and pass appropriate orders), which is not subject to any monetary threshold.",
+   "confidence": 0.65,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "obligation.national_commission_shall_investigate_into_any_allegations_a",
+   "field": "content.limitations",
+   "problem": "'Without interfering with their quasi-judicial freedom' attaches only to clause (d) of S70-1 (overseeing functioning); it does not qualify clause (b) (investigation of allegations against State Commission members).",
+   "confidence": 0.5,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "obligation.national_commission_shall_issue_instructions_regarding_adopt",
+   "field": "content.limitations",
+   "problem": "'Without interfering with their quasi-judicial freedom' attaches only to clause (d) of S70-1; it does not qualify clause (c) (issuance of instructions regarding uniform procedure).",
+   "confidence": 0.5,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "obligation.national_commission_shall_lay_down_adequate_standards",
+   "field": "content.limitations",
+   "problem": "'Without interfering with their quasi-judicial freedom' attaches only to clause (d) of S70-1 (overseeing functioning); it does not qualify the main clause duty to lay down adequate standards.",
+   "confidence": 0.5,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "obligation.national_commission_shall_monitor_performance_of_the_state_c",
+   "field": "content.limitations",
+   "problem": "'Without interfering with their quasi-judicial freedom' attaches only to clause (d) of S70-1; it does not qualify clause (a) (monitoring performance by calling for periodical returns).",
+   "confidence": 0.5,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "obligation.opposite_party_must_give_their_version_of_the_case",
+   "field": "content.conditions",
+   "problem": "Condition 2 distorts the trigger: under S38-3 the 'procedure specified in sub-section (2) cannot be followed' requirement applies only to complaints relating to goods; for service complaints the duty applies unconditionally ('or if the complaint relates to any services').",
+   "confidence": 0.45,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "obligation.party_to_the_contract_must_not_require_excessive_security_de",
+   "field": "content.limitations",
+   "problem": "Limitation 2 ('security deposits must not be wholly disproportionate to the loss occurred due to breach of contract') imports clause (ii) (penalty) language into clause (i) (security deposits); S2(46)(i) only forbids deposits that are 'manifestly excessive'.",
+   "confidence": 0.6,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "obligation.president_must_constitute_a_bench",
+   "field": "content.what",
+   "problem": "Source is permissive: 'a Bench may be constituted by the President with one or more members as the President may deem fit' (S47-2); card converts 'may' into mandatory 'must constitute a Bench'.",
+   "confidence": 0.55,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "obligation.president_of_the_national_commission_must_constitute_a_bench",
+   "field": "content.what",
+   "problem": "Source is permissive: 'a Bench may be constituted by the President with one or more members as he may deem fit' (S58-2); card converts 'may' into mandatory 'must constitute a Bench'.",
+   "confidence": 0.55,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "obligation.product_manufacturer_must_provide_adequate_instructions_and_",
+   "field": "content.conditions",
+   "problem": "Conditions list all of S84-1(a)-(e); grounds (a)-(d) (manufacturing defect, design defect, deviation from specifications, non-conformity to express warranty) are alternative liability grounds, not conditions for the (e)-derived duty to provide adequate instructions/warnings.",
+   "confidence": 0.5,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "obligation.product_seller_must_exercise_reasonable_care_in_assembling_i",
+   "field": "content.conditions",
+   "problem": "Conditions (a)-(d) are alternative liability grounds under S86, not conditions for exercising reasonable care under (e); the (e) ground's 'such failure was the proximate cause of the harm' element is dropped from the card.",
+   "confidence": 0.55,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "obligation.product_seller_must_exercise_reasonable_care_in_assembling_i",
+   "field": "content.who",
+   "problem": "S86 applies only to 'a product seller who is not a product manufacturer'; the card drops the 'not a product manufacturer' qualifier, broadening the who.",
+   "confidence": 0.5,
+   "source_based_fix_applied": false
+  },
+  {
+   "id": "obligation.product_seller_must_pass_on_warnings_or_instructions_of_the_",
+   "field": "content.conditions",
+   "problem": "The 'pass on warnings' duty derives from S86(e), but conditions are imported from clause (d) (product sold, manufacturer unknown / process not effectible) - a separate, alternative liability ground; the proximate-cause element of (e) is dropped.",
+   "confidence": 0.6,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "obligation.product_seller_must_pass_on_warnings_or_instructions_of_the_",
+   "field": "content.who",
+   "problem": "S86 applies only to 'a product seller who is not a product manufacturer'; qualifier dropped.",
+   "confidence": 0.5,
+   "source_based_fix_applied": false
+  },
+  {
+   "id": "obligation.product_service_provider_must_conform_to_express_warranty_or",
+   "field": "content.conditions",
+   "problem": "The what derives from S85(d) (service did not conform to express warranty or contract terms), but conditions import clause (a) (faulty/deficient service) - an alternative liability ground, not a condition for conforming to express warranty.",
+   "confidence": 0.5,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "obligation.state_government_must_notify_in_official_gazette",
+   "field": "content.what",
+   "problem": "Source is permissive: 'as the State Government may in consultation with the State Commission notify in the Official Gazette' (S42-2); card converts 'may' into mandatory 'must notify in Official Gazette'.",
+   "confidence": 0.5,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "remedy.discontinuation_of_unfair_practice",
+   "field": "content.remedy",
+   "problem": "Remedy is labelled 'Discontinuation of unfair practice', but the derived source CPA2019-CH3-S21-1 empowers the Central Authority to 'discontinue such advertisement or to modify the same in such manner and within such time as may be specified'; discontinuation of unfair practices belongs to s.20(c), a different card. The label misstates the remedy and omits the statutory 'or modify' alternative.",
+   "confidence": 0.8,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "remedy.redressal",
+   "field": "content.conditions",
+   "problem": "Condition 'wherever possible' is misattributed: the redressal right at s.2(9)(v) ('right to seek redressal against unfair trade practice or restrictive trade practices or unscrupulous exploitation of consumers') carries no such qualifier; 'wherever possible' appears only in clause (iii) of the same definition, which concerns access to a variety of goods/services at competitive prices.",
+   "confidence": 0.85,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "remedy.refund",
+   "field": "content",
+   "problem": "Unverifiable against the provided source: CPA2019-CH1-S2-47 official_text in the bundle is truncated (ends mid-clause (i) at 'a representation ') and contains none of the card's claims ('refund', 'bill or cash memo or receipt', 'within a period of thirty days', defective/deficient goods/services). The content does match the actual statute text of s.2(47)(viii) ('refusing, after selling goods or rendering services, to take back or withdraw defective goods ... and to refund the consideration thereof, if paid, within the period stipulated in the bill or cash memo or receipt or in the absence of such stipulation, within a period of thirty days'), but no source in the bundle supports it; the bundle source itself is defective (truncated), so the card cannot be verified.",
+   "confidence": 0.55,
+   "source_based_fix_applied": false
+  },
+  {
+   "id": "right.right_to_appeal",
+   "field": "content.exceptions[0]",
+   "problem": "'where the Central Government deems it necessary so to do, it may prescribe such other value, as it deems fit' is a proviso to the pecuniary jurisdiction limits of the State Commission (S47-1 / S58-1), i.e. it lets Government vary the monetary thresholds for jurisdiction; it is not an exception to the right to appeal and is misattributed to this right.",
+   "confidence": 0.6,
+   "source_based_fix_applied": false
+  },
+  {
+   "id": "right.right_to_appeal",
+   "field": "content.exceptions[1]",
+   "problem": "'order passed ex parte by the State Commission' duplicates conditions[7]. Under S51-5 the ex parte order is an additional category of appealable order ('An appeal may lie ... from an order passed ex parte by the State Commission'), not an exception to the appeal right; same item should not appear in both conditions and exceptions.",
+   "confidence": 0.45,
+   "source_based_fix_applied": false
+  },
+  {
+   "id": "right.right_to_compensation",
+   "field": "content.conditions[11]",
+   "problem": "Condition omits the operative element of S86(b): a non-manufacturer product seller is liable only if he 'has altered or modified the product and such alteration or modification was the substantial factor in causing the harm'. As stated, mere alteration/modification would trigger liability, overstating seller liability.",
+   "confidence": 0.5,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "right.right_to_compensation",
+   "field": "content.conditions[12]",
+   "problem": "Condition omits elements of S86(c): the express warranty must be independent of any express warranty made by a manufacturer, and the product must have failed to conform to it 'which caused the harm'. Abbreviation changes the legal meaning of the condition.",
+   "confidence": 0.45,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "right.right_to_consumer_awareness",
+   "field": "content.conditions[0]",
+   "problem": "'wherever possible' qualifies clause (iii) of S2-9 (access to a variety of goods at competitive prices), not clause (vi) 'the right to consumer awareness'. Invented qualifier attached to the wrong statutory clause.",
+   "confidence": 0.85,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "right.right_to_consumer_awareness",
+   "field": "content.limitations[0]",
+   "problem": "'as the case may be' appears in clause (ii) of S2-9 (right to be informed about quality, quantity, potency...), not in clause (vi) 'the right to consumer awareness'. Invented qualifier not supported by the source of this right.",
+   "confidence": 0.85,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "right.right_to_demand_production_of_documents",
+   "field": "content.limitations[0]",
+   "problem": "In S26-3, 'in connection with the audit of the Government accounts' defines the reference/extent of the CAG's rights ('shall have the same rights, privileges and authority ... as the CAG generally has, in connection with the audit of the Government accounts'); it is a scope reference, not a limitation on the right to demand production of documents.",
+   "confidence": 0.45,
+   "source_based_fix_applied": false
+  },
+  {
+   "id": "right.right_to_expedient_disposal_of_complaint",
+   "field": "content.exceptions[2]",
+   "problem": "Omits the operative trigger of the third proviso of S38-7: the District Commission must record reasons only 'in the event of a complaint being disposed of after the period so specified'; as stated, the recording duty appears unconditional.",
+   "confidence": 0.4,
+   "source_based_fix_applied": false
+  },
+  {
+   "id": "right.right_to_fair_contract_terms",
+   "field": "content.conditions[1]",
+   "problem": "Drops the 'wholly disproportionate to the loss' qualifier of S2-46(ii). As stated, any penalty for breach of contract would qualify as an unfair term; statute limits it to penalties a disproportionate to the loss occasioned by the breach.",
+   "confidence": 0.6,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "right.right_to_fair_contract_terms",
+   "field": "content.conditions[2]",
+   "problem": "Drops 'on payment of applicable penalty' from S2-46(iii): refusal to accept early repayment is an unfair term only where refusal occurs despite payment of the applicable penalty. Omission broadens the term's scope.",
+   "confidence": 0.6,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "right.right_to_information",
+   "field": "content.limitations[0]",
+   "problem": "'wherever possible' qualifies clause (iii) of S2-9 (right to be assured access to a variety of goods), not clause (ii) rights to be informed. The right to be informed about quality, quantity, potency, purity, standard and price carries no such limitation in the statute.",
+   "confidence": 0.8,
+   "source_based_fix_applied": true
+  },
+  {
+   "id": "right.right_to_protection",
+   "field": "content.right",
+   "problem": "S5 establishes only an object of the Central Council ('to render advice on promotion and protection of the consumers' rights under this Act'), not a consumer right; presenting a standalone 'Right to Protection' with no statutory conditions/limitations is unsupported by the source.",
+   "confidence": 0.5,
+   "source_based_fix_applied": false
+  },
+  {
+   "id": "right.right_to_protection_from_unfair_contract_terms",
+   "field": "content.limitations[0]",
+   "problem": "The identical 'Without prejudice to the provisions of sub-section (1)' phrase is listed in both limitations and exceptions (and the S59-2 variant 'Without prejudice to sub-section (1)' likewise). In S49-2/S59-2 the phrase states the power to declare unfair contract terms null and void is in addition to sub-section (1) remedies; it is neither a limitation of the power of exceptions/limitations on the right.",
+   "confidence": 0.5,
+   "source_based_fix_applied": false
+  },
+  {
+   "id": "right.right_to_review",
+   "field": "content.exceptions[0]",
+   "problem": "'error apparent an the face of the record' is the ground/condition for the review power in S50 and S60 (and is already in conditions[0] and limitations[1]); it is not an exception to the right to review. Same item duplicated across conditions, limitations and exceptions.",
+   "confidence": 0.6,
+   "source_based_fix_applied": false
   }
  ],
  "passed": [

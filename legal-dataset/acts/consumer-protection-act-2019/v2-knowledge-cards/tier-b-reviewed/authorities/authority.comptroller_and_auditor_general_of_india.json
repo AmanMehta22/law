@@ -5,9 +5,9 @@
   "description": "Prescribes form and manner of annual statement of accounts in consultation with the Central Authority",
   "content": {
     "name": "Comptroller and Auditor-General of India",
-    "role": "Prescribes form and manner of annual statement of accounts in consultation with the Central Authority",
+    "role": "Certifies and audits the accounts of the Central Authority; is consulted when the form and manner of the annual statement of accounts are prescribed",
     "powers": [
-      "prescribe form and manner of annual statement of accounts",
+      "audit the accounts of the Central Authority and demand production of books, accounts, vouchers and documents",
       "demand production of books, accounts, connected vouchers and other documents and papers",
       "inspect any of the offices of the Central Authority",
       "Certification of accounts"
@@ -62,7 +62,7 @@
     "review_status": "reviewed",
     "confidence": 0.75,
     "created_by": "AuthorityAgent",
-    "reviewed_by": "v2-review-llm-70b-2026-08-02 (bulk, 20% sample agreed)",
+    "reviewed_by": "deep-review-2026-08-03 (complete tier-b review)",
     "version": 1
   }
 }

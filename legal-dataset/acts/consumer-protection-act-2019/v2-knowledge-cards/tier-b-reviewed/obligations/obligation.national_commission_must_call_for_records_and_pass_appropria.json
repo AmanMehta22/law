@@ -11,8 +11,7 @@
       "State Commission has exercised jurisdiction not vested in it by law, or failed to exercise jurisdiction, or acted illegally or with material irregularity"
     ],
     "limitations": [
-      "value of goods or services paid as consideration exceeds rupees ten crore",
-      "Central Government prescribed value"
+      "Not specified in the Act"
     ]
   },
   "derived_from": [
@@ -65,7 +64,7 @@
     "review_status": "reviewed",
     "confidence": 0.75,
     "created_by": "ObligationAgent",
-    "reviewed_by": "v2-review-llm-70b-2026-08-02 (bulk, 20% sample agreed)",
+    "reviewed_by": "deep-review-2026-08-03 (complete tier-b review)",
     "version": 1
   }
 }

@@ -5,7 +5,7 @@
   "description": "Who: District Commission. What: must not grant adjournment without sufficient cause. Conditions: sufficient cause is shown. Limitations: within a period of three months from the date of receipt of notice by opposite party where the complaint does not require analysis or testing of commodities; within five months if it requires analysis or testing of commodities",
   "content": {
     "who": "District Commission",
-    "what": "must not grant adjournment without sufficient cause",
+    "what": "shall not ordinarily grant adjournment unless sufficient cause is shown and the reasons for grant of adjournment have been recorded in writing",
     "conditions": [
       "sufficient cause is shown"
     ],
@@ -54,7 +54,7 @@
     "review_status": "reviewed",
     "confidence": 0.75,
     "created_by": "ObligationAgent",
-    "reviewed_by": "v2-review-llm-70b-2026-08-02 (bulk, 20% sample agreed)",
+    "reviewed_by": "deep-review-2026-08-03 (complete tier-b review)",
     "version": 1
   }
 }

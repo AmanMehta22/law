@@ -7,9 +7,8 @@
     "who": "Product seller",
     "what": "must pass on warnings or instructions of the product manufacturer",
     "conditions": [
-      "the product has been sold by him",
-      "the identity of product manufacturer of such product is not known",
-      "if known, the service of notice or process or warrant cannot be effected on him or he is not subject to the law which is in force in India or the order, if any, passed or to be passed cannot be enforced against him"
+      "he did not pass on the warnings or instructions of the product manufacturer regarding the dangers involved or proper usage of the product while selling such product",
+      "such failure was the proximate cause of the harm"
     ],
     "limitations": [
       "he has exercised substantial control over the designing, testing, manufacturing, packaging or labelling of a product that caused harm",
@@ -62,7 +61,7 @@
     "review_status": "reviewed",
     "confidence": 0.75,
     "created_by": "ObligationAgent",
-    "reviewed_by": "v2-review-llm-70b-2026-08-02 (bulk, 20% sample agreed)",
+    "reviewed_by": "deep-review-2026-08-03 (complete tier-b review)",
     "version": 1
   }
 }

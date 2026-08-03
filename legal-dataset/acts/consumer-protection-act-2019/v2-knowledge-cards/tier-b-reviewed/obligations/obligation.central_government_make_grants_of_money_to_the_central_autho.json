@@ -5,7 +5,7 @@
   "description": "The Central Government has to provide funds to the Central Authority",
   "content": {
     "who": "Central Government",
-    "what": "make grants of money to the Central Authority",
+    "what": "may make grants of such sums of money as it may think fit, after due appropriation made by Parliament by law",
     "conditions": [
       "after due appropriation made by Parliament by law"
     ],
@@ -53,7 +53,7 @@
     "review_status": "reviewed",
     "confidence": 0.8,
     "created_by": "ObligationAgent",
-    "reviewed_by": "v2-review-llm-70b-2026-08-02",
+    "reviewed_by": "deep-review-2026-08-03 (complete tier-b review)",
     "version": 1
   }
 }

@@ -5,7 +5,7 @@
   "description": "The Central Government must notify locations of National Commission functions in the Official Gazette",
   "content": {
     "who": "Central Government",
-    "what": "must notify locations in Official Gazette",
+    "what": "may notify in the Official Gazette such other places as the National Commission shall perform its functions at",
     "conditions": [
       "in consultation with the National Commission"
     ],
@@ -54,7 +54,7 @@
     "review_status": "reviewed",
     "confidence": 0.75,
     "created_by": "ObligationAgent",
-    "reviewed_by": "v2-review-llm-70b-2026-08-02 (bulk, 20% sample agreed)",
+    "reviewed_by": "deep-review-2026-08-03 (complete tier-b review)",
     "version": 1
   }
 }

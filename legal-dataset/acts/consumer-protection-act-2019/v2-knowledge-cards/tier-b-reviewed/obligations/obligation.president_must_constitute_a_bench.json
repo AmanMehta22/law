@@ -5,7 +5,7 @@
   "description": "The President of the State Commission must constitute a Bench",
   "content": {
     "who": "President",
-    "what": "must constitute a Bench",
+    "what": "may constitute a Bench with one or more members as the President may deem fit",
     "conditions": [
       "the President may deem fit"
     ],
@@ -52,7 +52,7 @@
     "review_status": "reviewed",
     "confidence": 0.75,
     "created_by": "ObligationAgent",
-    "reviewed_by": "v2-review-llm-70b-2026-08-02 (bulk, 20% sample agreed)",
+    "reviewed_by": "deep-review-2026-08-03 (complete tier-b review)",
     "version": 1
   }
 }

@@ -5,7 +5,7 @@
   "description": "The Central Government must appoint officers in a prescribed manner",
   "content": {
     "who": "Central Government",
-    "what": "must appoint Director-General and other officers in a prescribed manner",
+    "what": "may appoint a Director-General and such number of Additional Director-General, Director, Joint Director, Deputy Director and Assistant Director, from amongst persons who have experience in investigation and possess such qualifications, in such manner as may be prescribed",
     "conditions": [
       "from amongst persons who have experience in investigation and possess such qualifications"
     ],
@@ -57,7 +57,7 @@
     "review_status": "reviewed",
     "confidence": 0.75,
     "created_by": "ObligationAgent",
-    "reviewed_by": "v2-review-llm-70b-2026-08-02 (bulk, 20% sample agreed)",
+    "reviewed_by": "deep-review-2026-08-03 (complete tier-b review)",
     "version": 1
   }
 }

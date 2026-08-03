@@ -7,8 +7,7 @@
     "who": "Central Authority",
     "what": "ensure that no person takes part in the publication of any advertisement which is false or misleading",
     "conditions": [
-      "the advertisement is false or misleading",
-      "the advertisement contravenes the provisions of this Act or the rules or regulations made thereunder"
+      "the advertisement is false or misleading"
     ],
     "limitations": [
       "Not specified in the Act"
@@ -54,7 +53,7 @@
     "review_status": "reviewed",
     "confidence": 1.0,
     "created_by": "ObligationAgent",
-    "reviewed_by": "v2-review-llm-70b-2026-08-02",
+    "reviewed_by": "deep-review-2026-08-03 (complete tier-b review)",
     "version": 1
   }
 }

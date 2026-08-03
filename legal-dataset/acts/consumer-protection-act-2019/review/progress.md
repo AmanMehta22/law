@@ -496,3 +496,36 @@ Script: `apply_fixes.py`. Pre-change backups: `pre_fix_backup/`.
 39 human-review advisories listed above (73 field-level entries, see
 `acts/consumer-protection-act-2019/review/review-state.json`) and the eventual
 Tier C review.
+
+## Phase 6 — Complete Tier B review (2026-08-03)
+
+Tier B was previously 20%-sampled + bulk-approved. This pass reviewed **all
+426 Tier-B cards** against their V1 `official_text` (reviewer
+`deep-review-2026-08-03`, temp-0, FAIR bias).
+
+| Category | Cards | Pass | Flag |
+|---|---|---|---|
+| authorities | 38 | 33 | 5 |
+| jurisdiction | 18 | 18 | 0 |
+| rights | 24 | 14 | 10 |
+| obligations | 207 | 164 | 43 |
+| remedies | 13 | 10 | 3 |
+| exceptions | 72 | 62 | 10 |
+| evidence | 54 | 44 | 10 |
+| **Total** | **426** | **345** | **81** |
+
+- **59 cards fixed** (source-backed only): modal flips "must"→"may"
+  (S11/S29/S43/S55/S101-2/S104-1/S15-2/S47-2/S58-2/S42-2/S53-2/S25),
+  inverted who/what (S35-1(d), S96-1 proviso, S92, S99-1 proviso, S23,
+  S103-2(h)), misattributed conditions/limitations (S36-2, S38-6, S38-7,
+  S70-1, S2-46, S84-1/S85/S86), invented evidence documents → "Not specified
+  in the Act" (5), mandatory-flag corrections (5), exception/rights content
+  (S2-2, S41, S87-2(b), S2-9, S86, CAG/S26).
+- **1 skipped (source conflict):** S38-5 natural-justice card — V1
+  `official_text` itself reads "sub-sections (1) and (2)".
+- **92 advisories** appended to `review-state.json` `needs_human_review`
+  (now **165 field entries** / 117 distinct cards); 26 remain without an
+  unambiguous source-backed fix.
+- All 4,147 cards revalidated (0 invalid); `final/v2-knowledge-cards.{json,jsonl}`
+  regenerated and consistent (json == jsonl == 4,147). G7 now: Tier A 195/195
+  + Tier B 426/426 `reviewed` (621 reviewed; 3,526 draft unchanged).

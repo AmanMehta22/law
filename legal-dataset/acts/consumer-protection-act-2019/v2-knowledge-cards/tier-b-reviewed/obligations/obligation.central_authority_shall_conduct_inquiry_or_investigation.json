@@ -4,7 +4,7 @@
   "title": "Central Authority must conduct inquiry or investigation",
   "description": "The Central Authority shall conduct inquiry or investigation under this Act as directed",
   "content": {
-    "who": "Central Authority",
+    "who": "Central Authority (through its Investigation Wing headed by a Director-General)",
     "what": "shall conduct inquiry or investigation",
     "conditions": [
       "as directed by the Central Authority"
@@ -49,7 +49,7 @@
     "review_status": "reviewed",
     "confidence": 0.75,
     "created_by": "ObligationAgent",
-    "reviewed_by": "v2-review-llm-70b-2026-08-02 (bulk, 20% sample agreed)",
+    "reviewed_by": "deep-review-2026-08-03 (complete tier-b review)",
     "version": 1
   }
 }

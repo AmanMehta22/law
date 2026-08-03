@@ -7,7 +7,7 @@
     "who": "Central Authority",
     "what": "must cause investigation to be made",
     "conditions": [
-      "if it is satisfied that there exists a prima facie case of violation of consumer rights or unfair trade practice"
+      "if it is satisfied that there exists a prima facie case of violation of consumer rights or any unfair trade practice or any false or misleading advertisement"
     ],
     "limitations": [
       "prejudicial to the public interest or to the interests of consumers"
@@ -58,7 +58,7 @@
     "review_status": "reviewed",
     "confidence": 1.0,
     "created_by": "ObligationAgent",
-    "reviewed_by": "v2-review-llm-70b-2026-08-02",
+    "reviewed_by": "deep-review-2026-08-03 (complete tier-b review)",
     "version": 1
   }
 }
