@@ -38,3 +38,7 @@ coverage/
 .agents/
 .claude/
 .windsurf/
+
+
+
+/generated/prisma
