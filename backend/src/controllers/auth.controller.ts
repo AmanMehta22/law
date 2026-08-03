@@ -1,9 +1,10 @@
 import { NextFunction, Request, Response } from "express";
 import { authService } from "../services/auth.service";
+import { asyncHandler } from "../utils/asyncHandler";
 
 class AuthController {
-  register = async (req: Request, res: Response, next: NextFunction) => {
-    try {
+  register = asyncHandler(
+    async (req: Request, res: Response, next: NextFunction) => {
       const { email, password } = req.body;
 
       const user = await authService.register(email, password);
@@ -12,13 +13,11 @@ class AuthController {
         success: true,
         data: user,
       });
-    } catch (error) {
-      next(error);
-    }
-  };
+    },
+  );
 
-  login = async (req: Request, res: Response, next: NextFunction) => {
-    try {
+  login = asyncHandler(
+    async (req: Request, res: Response, next: NextFunction) => {
       const { email, password } = req.body;
       const result = await authService.login(email, password);
 
@@ -26,10 +25,8 @@ class AuthController {
         success: true,
         data: result,
       });
-    } catch (error) {
-      next(error);
-    }
-  };
+    },
+  );
 }
 
 export const authController = new AuthController();

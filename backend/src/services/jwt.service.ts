@@ -1,6 +1,11 @@
 import jwt from "jsonwebtoken";
 import { env } from "../config";
 
+export interface JwtPayload {
+  sub: string;
+  email: string;
+}
+
 class JwtService {
   generateToken(userId: string, email: string) {
     return jwt.sign(
@@ -15,8 +20,8 @@ class JwtService {
     );
   }
 
-  verifyToken(token: string) {
-    return jwt.verify(token, env.JWT_SECRET);
+  verifyToken(token: string): JwtPayload {
+    return jwt.verify(token, env.JWT_SECRET) as JwtPayload;
   }
 }
 
