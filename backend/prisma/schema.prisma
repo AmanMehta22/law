@@ -3,8 +3,6 @@
 
 // Get a free hosted Postgres database in seconds: `npx create-db`
 
-
-
 generator client {
   provider = "prisma-client-js"
 }
@@ -15,10 +13,41 @@ datasource db {
 }
 
 model User {
-  id           String   @id @default(cuid())
-  email        String   @unique
+  id           String @id @default(cuid())
+  email        String @unique
   passwordHash String
 
-  createdAt    DateTime @default(now())
-  updatedAt    DateTime @updatedAt
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  conversations Conversation[]
+}
+
+model Conversation {
+  id        String   @id @default(cuid())
+  title     String
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  userId String
+  user   User   @relation(fields: [userId], references: [id])
+
+  messages Message[]
+}
+
+model Message {
+  id      String      @id @default(cuid())
+  role    MessageRole
+  content String
+
+  createdAt DateTime @default(now())
+
+  conversationId String
+  conversation   Conversation @relation(fields: [conversationId], references: [id])
+}
+
+enum MessageRole {
+  USER
+  ASSISTANT
+  SYSTEM
 }
