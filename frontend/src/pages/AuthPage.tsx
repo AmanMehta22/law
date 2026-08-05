@@ -101,6 +101,7 @@ export const AuthPage: React.FC<AuthPageProps> = ({ onAuthenticate }) => {
       if(view==="login"){
         const data=await loginUser(email,password);
         console.log("login successful : ",data);
+        localStorage.setItem("legalbot_token", data.accessToken);
         onAuthenticate({
             email: email.trim(),
             loggedInAt: new Date().toISOString(),
@@ -108,7 +109,9 @@ export const AuthPage: React.FC<AuthPageProps> = ({ onAuthenticate }) => {
       }
 
       else if(view==="signup"){
-        const data=await signup(email,password);
+        await signup(email,password);
+        const data=await loginUser(email,password);
+        localStorage.setItem("legalbot_token", data.accessToken);
         console.log("Sign up successful : ",data);
         onAuthenticate({
           email:email.trim(),

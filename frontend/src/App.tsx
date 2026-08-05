@@ -41,6 +41,7 @@ const MainAppRoutes: React.FC = () => {
     try {
       localStorage.removeItem('legalbot_user');
       localStorage.removeItem('legalbot_authenticated');
+      localStorage.removeItem('legalbot_token');
     } catch (e) {
       console.error(e);
     }

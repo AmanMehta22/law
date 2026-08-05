@@ -1,24 +1,17 @@
 import React, { useState } from 'react';
 import { Scale, Volume2, VolumeX, Copy, Check } from 'lucide-react';
 import { Message } from '../types/conversation';
-import { V2KnowledgeCard } from '../types/knowledgeCard';
-import { ReviewStatusBadge } from './ReviewStatusBadge';
 import { TextAnswer } from './TextAnswer';
-import { ChecklistAnswer } from './ChecklistAnswer';
-import { DocumentDraftAnswer } from './DocumentDraftAnswer';
-import { CitationChipRow } from './CitationChipRow';
 import { QuickReplyRow } from './QuickReplyRow';
 
 interface BotMessageCardProps {
   message: Message;
-  onCitationClick: (card: V2KnowledgeCard) => void;
   onQuickReplySelect: (reply: string) => void;
   isSending?: boolean;
 }
 
 export const BotMessageCard: React.FC<BotMessageCardProps> = ({
   message,
-  onCitationClick,
   onQuickReplySelect,
   isSending,
 }) => {
@@ -47,11 +40,7 @@ export const BotMessageCard: React.FC<BotMessageCardProps> = ({
   };
 
   const handleCopyText = () => {
-    let copyContent = message.answer_text;
-    if (message.document_draft) {
-      copyContent = message.document_draft.body;
-    }
-    navigator.clipboard.writeText(copyContent);
+    navigator.clipboard.writeText(message.answer_text);
     setIsCopied(true);
     setTimeout(() => setIsCopied(false), 2000);
   };
@@ -114,23 +103,10 @@ export const BotMessageCard: React.FC<BotMessageCardProps> = ({
                 </>
               )}
             </button>
-
-            <ReviewStatusBadge
-              status={message.overall_review_status}
-              confidence={message.overall_confidence}
-              isLowConfidence={message.is_low_confidence}
-            />
           </div>
         </div>
 
-        {/* Content according to answer_format */}
-        {message.answer_format === 'document_draft' && message.document_draft ? (
-          <DocumentDraftAnswer draft={message.document_draft} />
-        ) : message.answer_format === 'checklist' && message.checklist_ref ? (
-          <ChecklistAnswer card={message.checklist_ref} introText={message.answer_text} />
-        ) : (
-          <TextAnswer text={message.answer_text} />
-        )}
+        <TextAnswer text={message.answer_text} />
 
         {/* Quick replies if provided */}
         {message.quick_replies && message.quick_replies.length > 0 && (
@@ -139,11 +115,6 @@ export const BotMessageCard: React.FC<BotMessageCardProps> = ({
             onSelect={onQuickReplySelect}
             disabled={isSending}
           />
-        )}
-
-        {/* Citation chips */}
-        {message.cards_used && message.cards_used.length > 0 && (
-          <CitationChipRow cards={message.cards_used} onCitationClick={onCitationClick} />
         )}
 
         {/* Disclaimer footer if needed */}

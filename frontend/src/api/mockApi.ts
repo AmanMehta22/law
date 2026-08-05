@@ -1,9 +1,6 @@
 import axios from 'axios';
 import { getSessionId } from '../utils/sessionId';
-import { processUserQuery, mockStatuteNodes, mockKnowledgeCards } from '../data';
-import { Conversation, Message, IntakeContext } from '../types/conversation';
-import { V1StatuteNode } from '../types/statute';
-import { V2KnowledgeCard } from '../types/knowledgeCard';
+import { Conversation, Message } from '../types/conversation';
 
 export class LegalBotApiError extends Error {
   status: number;
@@ -18,7 +15,7 @@ export class LegalBotApiError extends Error {
 }
 
 const apiClient = axios.create({
-  baseURL: import.meta.env.VITE_API_BASE_URL || '',
+  baseURL: import.meta.env.VITE_API_BASE_URL || 'http://localhost:3000',
   headers: {
     'Content-Type': 'application/json',
   },
@@ -26,67 +23,62 @@ const apiClient = axios.create({
 
 apiClient.interceptors.request.use((config) => {
   config.headers['X-Session-Id'] = getSessionId();
+  const token = localStorage.getItem('legalbot_token');
+  if (token) {
+    config.headers['Authorization'] = `Bearer ${token}`;
+  }
   return config;
 });
 
-export const mockApi = {
+interface ApiEnvelope<T> {
+  success: boolean;
+  data: T;
+}
+
+interface BackendConversation {
+  id: string;
+  title: string;
+  createdAt: string;
+}
+
+interface BackendMessageResult {
+  conversationId: string;
+  readyForRag: boolean;
+  reply: string;
+}
+
+export const api = {
   async startConversation(): Promise<Conversation> {
-    try {
-      const response = await apiClient.post<Conversation>('/conversations');
-      return response.data;
-    } catch {
-      // Fallback if server endpoint is offline
-      return {
-        conversation_id: 'conv_' + Math.random().toString(36).substring(2, 10),
-        created_at: new Date().toISOString(),
-      };
-    }
+    const response = await apiClient.post<ApiEnvelope<BackendConversation>>('/conversations');
+    const conv = response.data.data;
+    return {
+      conversation_id: conv.id,
+      created_at: conv.createdAt,
+    };
   },
 
   async sendMessage(
     conversationId: string,
-    messageText: string,
-    context?: IntakeContext
+    messageText: string
   ): Promise<Message> {
-    try {
-      const response = await apiClient.post<Message>(
-        '/messages',
-        { conversationId, message: messageText, context }
-      );
-      return response.data;
-    } catch (err: any) {
-      if (err.response) {
-        throw new LegalBotApiError(err.response.status, err.response.data || {});
-      }
-      // Client-side execution fallback
-      await new Promise((r) => setTimeout(r, 600)); // Simulating smooth network latency
-      return processUserQuery(conversationId, messageText, context);
-    }
-  },
-
-  async getCitation(v1NodeId: string): Promise<V1StatuteNode | null> {
-    try {
-      const response = await apiClient.get<V1StatuteNode>(`/citations/${v1NodeId}`);
-      return response.data;
-    } catch {
-      return mockStatuteNodes.find((n) => n.id === v1NodeId) || null;
-    }
-  },
-
-  async searchKnowledgeCards(query: string): Promise<V2KnowledgeCard[]> {
-    try {
-      const response = await apiClient.get<{ items: V2KnowledgeCard[] }>(
-        `/knowledge-cards?search=${encodeURIComponent(query)}`
-      );
-      return response.data.items || [];
-    } catch {
-      const lq = query.toLowerCase();
-      return mockKnowledgeCards.filter(
-        (c) =>
-          c.title.toLowerCase().includes(lq) ||
-          c.description.toLowerCase().includes(lq) ||
-          c.search.keywords.some((k) => k.toLowerCase().includes(lq))
-      );
-    }
+    const response = await apiClient.post<ApiEnvelope<BackendMessageResult>>(
+      '/messages',
+      { conversationId, message: messageText }
+    );
+    const result = response.data.data;
+    return {
+      message_id: 'msg_b_' + Math.random().toString(36).substring(2, 9),
+      conversation_id: result.conversationId,
+      created_at: new Date().toISOString(),
+      sender: 'bot',
+      answer_text: result.reply,
+      answer_format: 'text',
+      cards_used: [],
+      v1_nodes_used: [],
+      overall_confidence: 1.0,
+      overall_review_status: 'reviewed',
+      disclaimer: '',
+      suggested_follow_ups: [],
+    };
   },
 };

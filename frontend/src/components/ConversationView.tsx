@@ -6,13 +6,8 @@ import { WelcomeState } from './WelcomeState';
 import { UserMessageBubble } from './UserMessageBubble';
 import { BotMessageCard } from './BotMessageCard';
 import { LoadingIndicator } from './LoadingIndicator';
-import { V2KnowledgeCard } from '../types/knowledgeCard';
 
-interface ConversationViewProps {
-  onCitationClick: (card: V2KnowledgeCard) => void;
-}
-
-export const ConversationView: React.FC<ConversationViewProps> = ({ onCitationClick }) => {
+export const ConversationView: React.FC = () => {
   const { state } = useConversation();
   const sendMessageMutation = useSendMessage();
   const bottomRef = useRef<HTMLDivElement>(null);
@@ -51,7 +46,6 @@ export const ConversationView: React.FC<ConversationViewProps> = ({ onCitationCl
           <BotMessageCard
             key={msg.message_id}
             message={msg}
-            onCitationClick={onCitationClick}
             onQuickReplySelect={handleQuickReply}
             isSending={isSending}
           />

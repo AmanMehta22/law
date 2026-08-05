@@ -1,6 +1,6 @@
 import { useMutation } from '@tanstack/react-query';
 import { useConversation } from '../store/ChatContext';
-import { mockApi } from '../api/mockApi';
+import { api } from '../api/mockApi';
 import { Message, IntakeContext } from '../types/conversation';
 
 interface SendMessageArgs {
@@ -15,7 +15,7 @@ export function useSendMessage() {
     mutationFn: async ({ text, contextOverride }) => {
       let convId = state.conversationId;
       if (!convId) {
-        const newConv = await mockApi.startConversation();
+        const newConv = await api.startConversation();
         convId = newConv.conversation_id;
         dispatch({
           type: 'CONVERSATION_STARTED',
@@ -56,7 +56,7 @@ export function useSendMessage() {
       dispatch({ type: 'MESSAGE_SENT', payload: { userMessage } });
 
       // Call API
-      const botResponse = await mockApi.sendMessage(convId, text, mergedContext);
+      const botResponse = await api.sendMessage(convId, text);
       return botResponse;
     },
     onSuccess: (botMessage) => {

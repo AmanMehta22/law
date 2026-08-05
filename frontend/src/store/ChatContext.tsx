@@ -1,6 +1,6 @@
 import React, { createContext, useContext, useReducer, useEffect, ReactNode } from 'react';
 import { chatReducer, initialChatState, ChatState, ChatAction } from './chatReducer';
-import { mockApi } from '../api/mockApi';
+import { api } from '../api/mockApi';
 
 interface ChatContextType {
   state: ChatState;
@@ -16,7 +16,7 @@ export const ChatProvider = ({ children }: { children: ReactNode }) => {
   useEffect(() => {
     // Start initial conversation session
     if (!state.conversationId) {
-      mockApi.startConversation().then((conv) => {
+      api.startConversation().then((conv) => {
         dispatch({
           type: 'CONVERSATION_STARTED',
           payload: { conversationId: conv.conversation_id },
@@ -27,7 +27,7 @@ export const ChatProvider = ({ children }: { children: ReactNode }) => {
 
   const resetConversation = async () => {
     dispatch({ type: 'RESET_CONVERSATION' });
-    const conv = await mockApi.startConversation();
+    const conv = await api.startConversation();
     dispatch({
       type: 'CONVERSATION_STARTED',
       payload: { conversationId: conv.conversation_id },
