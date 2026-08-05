@@ -3,7 +3,7 @@ import { conversationRepository } from "../repositories/conversation.repository"
 import { messageService } from "./message.service";
 import { informationCheckerService } from "./informationChecker.service";
 import { knowledgeService } from "./knowledge.service";
-
+import { titleService } from "./title.service";
 import { formatConversation } from "../utils/conversationFormatter";
 import { formatRequirements } from "../utils/requirementFormatter";
 import { CONSUMER_INFORMATION_REQUIREMENTS } from "../knowledge/consumer/consumer.fields";
@@ -24,7 +24,10 @@ class CaseWorkflowService {
     if (!conversationId) {
       logger.info("Creating new conversation");
 
-      conversation = await conversationService.createConversation(userId);
+      conversation = await conversationService.createConversation(
+        userId,
+        titleService.generate(message),
+      );
 
       logger.info("Conversation created", {
         conversationId: conversation.id,

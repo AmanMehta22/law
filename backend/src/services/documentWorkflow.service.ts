@@ -1,6 +1,6 @@
 import { conversationService } from "./conversation.service";
 import { messageService } from "./message.service";
-
+import { titleService } from "./title.service";
 import { logger } from "../logger";
 
 class DocumentWorkflowService {
@@ -12,7 +12,10 @@ class DocumentWorkflowService {
     let conversation;
 
     if (!conversationId) {
-      conversation = await conversationService.createConversation(userId);
+      conversation = await conversationService.createConversation(
+        userId,
+        titleService.generate(message),
+      );
     } else {
       conversation = {
         id: conversationId,
