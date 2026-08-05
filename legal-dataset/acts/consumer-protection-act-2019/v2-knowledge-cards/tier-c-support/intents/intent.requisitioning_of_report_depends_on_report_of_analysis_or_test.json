@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Requisitioning of report depends on Report of analysis or test",
   "content": {
     "queries": [
-      "What is requisitioning of report depends on report of analysis or test?",
-      "How does requisitioning of report depends on report of analysis or test work?",
-      "Can you explain requisitioning of report depends on report of analysis or test?"
+      "What does requisitioning of report depend on?",
+      "Can you explain what requisitioning of report depends on?"
     ]
   },
   "derived_from": [
@@ -37,9 +36,8 @@
       "Union Government"
     ],
     "user_queries": [
-      "What is requisitioning of report depends on report of analysis or test?",
-      "How does requisitioning of report depends on report of analysis or test work?",
-      "Can you explain requisitioning of report depends on report of analysis or test?"
+      "What does requisitioning of report depend on?",
+      "Can you explain what requisitioning of report depends on?"
     ]
   },
   "metadata": {

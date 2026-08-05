@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Summoning and enforcing attendance depends on Document or other material object",
   "content": {
     "queries": [
-      "What is summoning and enforcing attendance depends on document or other material object?",
-      "How does summoning and enforcing attendance depends on document or other material object work?",
-      "Can you explain summoning and enforcing attendance depends on document or other material object?"
+      "What does summoning and enforcing attendance depend on?",
+      "Can you explain what summoning and enforcing attendance depends on?"
     ]
   },
   "derived_from": [
@@ -37,9 +36,8 @@
       "Union Government"
     ],
     "user_queries": [
-      "What is summoning and enforcing attendance depends on document or other material object?",
-      "How does summoning and enforcing attendance depends on document or other material object work?",
-      "Can you explain summoning and enforcing attendance depends on document or other material object?"
+      "What does summoning and enforcing attendance depend on?",
+      "Can you explain what summoning and enforcing attendance depends on?"
     ]
   },
   "metadata": {

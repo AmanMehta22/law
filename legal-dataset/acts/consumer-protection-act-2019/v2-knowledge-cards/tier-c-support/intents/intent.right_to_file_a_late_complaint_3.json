@@ -5,10 +5,8 @@
   "description": "Natural language queries a user may ask about: Right to File a Late Complaint",
   "content": {
     "queries": [
-      "filing a complaint after the deadline",
-      "What is complainant must satisfy the commission?",
-      "How does complainant must satisfy the commission work?",
-      "Can you explain complainant must satisfy the commission?"
+      "Can I file a complaint after the time limit if there is sufficient cause?",
+      "What must a complainant prove for a late complaint to be admitted?"
     ]
   },
   "derived_from": [
@@ -35,10 +33,8 @@
       "right to delayed complaint"
     ],
     "user_queries": [
-      "filing a complaint after the deadline",
-      "What is complainant must satisfy the commission?",
-      "How does complainant must satisfy the commission work?",
-      "Can you explain complainant must satisfy the commission?"
+      "Can I file a complaint after the time limit if there is sufficient cause?",
+      "What must a complainant prove for a late complaint to be admitted?"
     ]
   },
   "metadata": {

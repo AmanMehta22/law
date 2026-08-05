@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Service of Notice handled by District Commission",
   "content": {
     "queries": [
-      "What is service of notice handled by district commission?",
-      "How does service of notice handled by district commission work?",
-      "Can you explain service of notice handled by district commission?"
+      "How is service of notice handled by district commission?",
+      "Can you explain how service of notice is handled by district commission?"
     ]
   },
   "derived_from": [
@@ -40,9 +39,8 @@
       "Local Consumer Forum"
     ],
     "user_queries": [
-      "What is service of notice handled by district commission?",
-      "How does service of notice handled by district commission work?",
-      "Can you explain service of notice handled by district commission?"
+      "How is service of notice handled by district commission?",
+      "Can you explain how service of notice is handled by district commission?"
     ]
   },
   "metadata": {

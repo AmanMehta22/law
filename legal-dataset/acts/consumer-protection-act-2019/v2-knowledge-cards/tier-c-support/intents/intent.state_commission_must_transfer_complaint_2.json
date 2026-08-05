@@ -6,9 +6,7 @@
   "content": {
     "queries": [
       "Can a complaint be transferred to another District Commission?",
-      "What is state commission must transfer complaint?",
-      "How does state commission must transfer complaint work?",
-      "Can you explain state commission must transfer complaint?"
+      "Who can ask for a complaint to be transferred?"
     ]
   },
   "derived_from": [
@@ -37,9 +35,7 @@
     ],
     "user_queries": [
       "Can a complaint be transferred to another District Commission?",
-      "What is state commission must transfer complaint?",
-      "How does state commission must transfer complaint work?",
-      "Can you explain state commission must transfer complaint?"
+      "Who can ask for a complaint to be transferred?"
     ]
   },
   "metadata": {

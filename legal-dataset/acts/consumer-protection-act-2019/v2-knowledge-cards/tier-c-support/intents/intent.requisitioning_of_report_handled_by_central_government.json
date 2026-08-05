@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Requisitioning of report handled by Central Government",
   "content": {
     "queries": [
-      "What is requisitioning of report handled by central government?",
-      "How does requisitioning of report handled by central government work?",
-      "Can you explain requisitioning of report handled by central government?"
+      "How is requisitioning of report handled by central government?",
+      "Can you explain how requisitioning of report is handled by central government?"
     ]
   },
   "derived_from": [
@@ -37,9 +36,8 @@
       "Union Government"
     ],
     "user_queries": [
-      "What is requisitioning of report handled by central government?",
-      "How does requisitioning of report handled by central government work?",
-      "Can you explain requisitioning of report handled by central government?"
+      "How is requisitioning of report handled by central government?",
+      "Can you explain how requisitioning of report is handled by central government?"
     ]
   },
   "metadata": {

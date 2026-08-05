@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Trial of offences handled by District Commission",
   "content": {
     "queries": [
-      "What is trial of offences handled by district commission?",
-      "How does trial of offences handled by district commission work?",
-      "Can you explain trial of offences handled by district commission?"
+      "How is trial of offences handled by district commission?",
+      "Can you explain how trial of offences is handled by district commission?"
     ]
   },
   "derived_from": [
@@ -39,9 +38,8 @@
       "Local Consumer Forum"
     ],
     "user_queries": [
-      "What is trial of offences handled by district commission?",
-      "How does trial of offences handled by district commission work?",
-      "Can you explain trial of offences handled by district commission?"
+      "How is trial of offences handled by district commission?",
+      "Can you explain how trial of offences is handled by district commission?"
     ]
   },
   "metadata": {

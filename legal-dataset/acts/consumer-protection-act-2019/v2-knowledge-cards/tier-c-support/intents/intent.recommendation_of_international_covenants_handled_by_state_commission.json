@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Recommendation of International Covenants handled by State Commission",
   "content": {
     "queries": [
-      "What is recommendation of international covenants handled by state commission?",
-      "How does recommendation of international covenants handled by state commission work?",
-      "Can you explain recommendation of international covenants handled by state commission?"
+      "How is recommendation of international covenants handled by state commission?",
+      "Can you explain how recommendation of international covenants is handled by state commission?"
     ]
   },
   "derived_from": [
@@ -38,9 +37,8 @@
       "consumer welfare measures"
     ],
     "user_queries": [
-      "What is recommendation of international covenants handled by state commission?",
-      "How does recommendation of international covenants handled by state commission work?",
-      "Can you explain recommendation of international covenants handled by state commission?"
+      "How is recommendation of international covenants handled by state commission?",
+      "Can you explain how recommendation of international covenants is handled by state commission?"
     ]
   },
   "metadata": {

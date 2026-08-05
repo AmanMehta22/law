@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Submission of inquiries or investigation handled by Director",
   "content": {
     "queries": [
-      "What is submission of inquiries or investigation handled by director?",
-      "How does submission of inquiries or investigation handled by director work?",
-      "Can you explain submission of inquiries or investigation handled by director?"
+      "How is submission of inquiries or investigation handled by director?",
+      "Can you explain how submission of inquiries or investigation is handled by director?"
     ]
   },
   "derived_from": [
@@ -41,9 +40,8 @@
       "National Authority"
     ],
     "user_queries": [
-      "What is submission of inquiries or investigation handled by director?",
-      "How does submission of inquiries or investigation handled by director work?",
-      "Can you explain submission of inquiries or investigation handled by director?"
+      "How is submission of inquiries or investigation handled by director?",
+      "Can you explain how submission of inquiries or investigation is handled by director?"
     ]
   },
   "metadata": {

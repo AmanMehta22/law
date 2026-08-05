@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Recommendation of International Covenants handled by Central Government",
   "content": {
     "queries": [
-      "What is recommendation of international covenants handled by central government?",
-      "How does recommendation of international covenants handled by central government work?",
-      "Can you explain recommendation of international covenants handled by central government?"
+      "How is recommendation of international covenants handled by central government?",
+      "Can you explain how recommendation of international covenants is handled by central government?"
     ]
   },
   "derived_from": [
@@ -38,9 +37,8 @@
       "consumer welfare measures"
     ],
     "user_queries": [
-      "What is recommendation of international covenants handled by central government?",
-      "How does recommendation of international covenants handled by central government work?",
-      "Can you explain recommendation of international covenants handled by central government?"
+      "How is recommendation of international covenants handled by central government?",
+      "Can you explain how recommendation of international covenants is handled by central government?"
     ]
   },
   "metadata": {

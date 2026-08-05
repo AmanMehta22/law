@@ -5,7 +5,7 @@
   "description": "The Central Government is required to make rules for the appointment of the President and members of the State Commission",
   "content": {
     "who": "Central Government",
-    "what": "make rules for appointment of President and members of State Commission",
+    "what": "may make rules for the qualification for appointment, method of recruitment, procedure of appointment, term of office, resignation and removal of the President and members of the State Commission",
     "conditions": [
       "by notification"
     ],
@@ -54,7 +54,7 @@
     "review_status": "reviewed",
     "confidence": 0.75,
     "created_by": "ObligationAgent",
-    "reviewed_by": "v2-review-llm-70b-2026-08-02 (bulk, 20% sample agreed)",
+    "reviewed_by": "deep-review-2026-08-03 (complete tier-b review)",
     "version": 1
   }
 }

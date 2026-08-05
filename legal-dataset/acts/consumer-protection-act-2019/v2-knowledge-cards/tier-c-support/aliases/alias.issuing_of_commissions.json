@@ -5,10 +5,8 @@
   "description": "Alternative names and search aliases for: Issuing of commissions",
   "content": {
     "aliases": [
-      "Appointment of Commissioners",
-      "Commission Establishment",
-      "Commissioner Assignment",
-      "Regulatory Body Formation"
+      "commission for examination of witness",
+      "commission for examination of documents"
     ]
   },
   "derived_from": [
@@ -38,10 +36,8 @@
       "establishment"
     ],
     "aliases": [
-      "Appointment of Commissioners",
-      "Commission Establishment",
-      "Commissioner Assignment",
-      "Regulatory Body Formation"
+      "commission for examination of witness",
+      "commission for examination of documents"
     ],
     "user_queries": [
       "What is discovery and production of evidence?",

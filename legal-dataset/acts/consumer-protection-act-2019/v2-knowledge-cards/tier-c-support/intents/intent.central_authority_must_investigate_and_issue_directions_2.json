@@ -6,9 +6,9 @@
   "content": {
     "queries": [
       "What are the powers of Central Authority regarding advertisements?",
-      "What is advertiser must discontinue or modify advertisement?",
-      "How does advertiser must discontinue or modify advertisement work?",
-      "Can you explain advertiser must discontinue or modify advertisement?"
+      "What can the Central Authority do after investigating a complaint?",
+      "Can the Central Authority issue directions to a trader or service provider?",
+      "Must the Central Authority investigate every complaint it receives?"
     ]
   },
   "derived_from": [
@@ -37,9 +37,9 @@
     ],
     "user_queries": [
       "What are the powers of Central Authority regarding advertisements?",
-      "What is advertiser must discontinue or modify advertisement?",
-      "How does advertiser must discontinue or modify advertisement work?",
-      "Can you explain advertiser must discontinue or modify advertisement?"
+      "What can the Central Authority do after investigating a complaint?",
+      "Can the Central Authority issue directions to a trader or service provider?",
+      "Must the Central Authority investigate every complaint it receives?"
     ]
   },
   "metadata": {

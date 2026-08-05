@@ -5,10 +5,9 @@
   "description": "Natural language queries a user may ask about: Manufacturer must make product",
   "content": {
     "queries": [
-      "What is product manufacturer's liability?",
-      "What is manufacturer must make product?",
-      "How does manufacturer must make product work?",
-      "Can you explain manufacturer must make product?"
+      "What is a product manufacturer's liability?",
+      "Must a manufacturer make a product that conforms to the prescribed quality?",
+      "What standard must a manufacturer meet while making a product?"
     ]
   },
   "derived_from": [
@@ -35,10 +34,9 @@
       "product manufacturer liability"
     ],
     "user_queries": [
-      "What is product manufacturer's liability?",
-      "What is manufacturer must make product?",
-      "How does manufacturer must make product work?",
-      "Can you explain manufacturer must make product?"
+      "What is a product manufacturer's liability?",
+      "Must a manufacturer make a product that conforms to the prescribed quality?",
+      "What standard must a manufacturer meet while making a product?"
     ]
   },
   "metadata": {

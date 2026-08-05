@@ -6,9 +6,8 @@
   "content": {
     "queries": [
       "What are the salary rules for National Commission employees?",
-      "What is government must prescribe salaries and allowances?",
-      "How does government must prescribe salaries and allowances work?",
-      "Can you explain government must prescribe salaries and allowances?"
+      "Who makes the rules for the salaries and allowances of members?",
+      "Can the Government prescribe the allowances of Commission members?"
     ]
   },
   "derived_from": [
@@ -38,9 +37,8 @@
     ],
     "user_queries": [
       "What are the salary rules for National Commission employees?",
-      "What is government must prescribe salaries and allowances?",
-      "How does government must prescribe salaries and allowances work?",
-      "Can you explain government must prescribe salaries and allowances?"
+      "Who makes the rules for the salaries and allowances of members?",
+      "Can the Government prescribe the allowances of Commission members?"
     ]
   },
   "metadata": {

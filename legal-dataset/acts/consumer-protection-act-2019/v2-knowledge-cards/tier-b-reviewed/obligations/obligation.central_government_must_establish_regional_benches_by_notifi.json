@@ -5,7 +5,7 @@
   "description": "The Central Government must establish regional Benches of the National Commission by notification",
   "content": {
     "who": "Central Government",
-    "what": "must establish regional Benches by notification",
+    "what": "may, by notification, establish regional Benches of the National Commission at such places as it deems fit",
     "conditions": [
       "in consultation with the National Commission"
     ],
@@ -58,7 +58,7 @@
     "review_status": "reviewed",
     "confidence": 0.75,
     "created_by": "ObligationAgent",
-    "reviewed_by": "v2-review-llm-70b-2026-08-02 (bulk, 20% sample agreed)",
+    "reviewed_by": "deep-review-2026-08-03 (complete tier-b review)",
     "version": 1
   }
 }

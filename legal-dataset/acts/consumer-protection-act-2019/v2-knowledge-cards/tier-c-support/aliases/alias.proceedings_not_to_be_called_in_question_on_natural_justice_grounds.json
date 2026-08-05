@@ -9,9 +9,7 @@
       "Natural Justice Exception",
       "Section 38 Exception",
       "Consumer Dispute Settlement",
-      "District Commission Proceedings",
-      "Laboratory Analysis",
-      "Goods Testing"
+      "District Commission Proceedings"
     ]
   },
   "derived_from": [
@@ -32,9 +30,7 @@
       "Natural Justice Exception",
       "Section 38 Exception",
       "Consumer Dispute Settlement",
-      "District Commission Proceedings",
-      "Laboratory Analysis",
-      "Goods Testing"
+      "District Commission Proceedings"
     ],
     "user_queries": [
       "What happens if a complaint is admitted by the District Commission?",

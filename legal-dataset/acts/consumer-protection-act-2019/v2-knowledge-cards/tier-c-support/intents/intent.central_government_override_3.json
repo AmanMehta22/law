@@ -5,12 +5,9 @@
   "description": "Natural language queries a user may ask about: Central Government override",
   "content": {
     "queries": [
-      "What is central government override?",
-      "How does central government override work?",
-      "Can you explain central government override?",
-      "What is calling for records and passing orders?",
-      "How does calling for records and passing orders work?",
-      "Can you explain calling for records and passing orders?"
+      "What is the Central Government's power of override?",
+      "Can the Central Government call for records and pass orders?",
+      "When does the Central Government exercise its power to reverse or modify orders?"
     ]
   },
   "derived_from": [
@@ -39,12 +36,9 @@
       "records and orders"
     ],
     "user_queries": [
-      "What is central government override?",
-      "How does central government override work?",
-      "Can you explain central government override?",
-      "What is calling for records and passing orders?",
-      "How does calling for records and passing orders work?",
-      "Can you explain calling for records and passing orders?"
+      "What is the Central Government's power of override?",
+      "Can the Central Government call for records and pass orders?",
+      "When does the Central Government exercise its power to reverse or modify orders?"
     ]
   },
   "metadata": {

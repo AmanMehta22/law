@@ -4,7 +4,7 @@
   "title": "Exception to the Time Limit for Filing an Appeal",
   "description": "Illustrative example for: exception.may_entertain_an_appeal_after_the_expiry_of_the_said_period_",
   "content": {
-    "scenario": "A consumer files an appeal against a decision of a District Commission after 45 days from the date of the order. The consumer claims that there was a sufficient cause for the delay in filing the appeal.",
+    "scenario": "A consumer files an appeal against a decision of a District Commission after 30 days from the date of the order. The consumer claims that there was a sufficient cause for the delay in filing the appeal.",
     "outcome": "The State Commission or the National Commission may entertain the appeal after the expiry of the said period of 30 days if it is satisfied that the appellant had sufficient cause for not preferring the appeal within the said period."
   },
   "derived_from": [

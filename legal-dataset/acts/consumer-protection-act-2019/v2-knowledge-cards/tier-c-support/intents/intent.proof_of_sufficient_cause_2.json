@@ -6,12 +6,8 @@
   "content": {
     "queries": [
       "Why was the appeal filed late?",
-      "What is delayed appeal?",
-      "How does delayed appeal work?",
-      "Can you explain delayed appeal?",
-      "What is appellant must deposit amount?",
-      "How does appellant must deposit amount work?",
-      "Can you explain appellant must deposit amount?"
+      "Can a delayed appeal be admitted if the appellant shows sufficient cause?",
+      "What is a delayed appeal?"
     ]
   },
   "derived_from": [
@@ -41,12 +37,8 @@
     ],
     "user_queries": [
       "Why was the appeal filed late?",
-      "What is delayed appeal?",
-      "How does delayed appeal work?",
-      "Can you explain delayed appeal?",
-      "What is appellant must deposit amount?",
-      "How does appellant must deposit amount work?",
-      "Can you explain appellant must deposit amount?"
+      "Can a delayed appeal be admitted if the appellant shows sufficient cause?",
+      "What is a delayed appeal?"
     ]
   },
   "metadata": {

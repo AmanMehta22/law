@@ -5,10 +5,8 @@
   "description": "Natural language queries a user may ask about: State Government must consult Central Government",
   "content": {
     "queries": [
-      "What is the composition of State Commission?",
-      "What is district commission references state commission?",
-      "How does district commission references state commission work?",
-      "Can you explain district commission references state commission?"
+      "Who prescribes the number of members of a State Commission?",
+      "What does the State Government decide in consultation with the Central Government?"
     ]
   },
   "derived_from": [
@@ -36,10 +34,8 @@
       "Central Government"
     ],
     "user_queries": [
-      "What is the composition of State Commission?",
-      "What is district commission references state commission?",
-      "How does district commission references state commission work?",
-      "Can you explain district commission references state commission?"
+      "Who prescribes the number of members of a State Commission?",
+      "What does the State Government decide in consultation with the Central Government?"
     ]
   },
   "metadata": {

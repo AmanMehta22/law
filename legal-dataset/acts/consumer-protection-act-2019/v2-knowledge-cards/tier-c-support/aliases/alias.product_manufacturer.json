@@ -11,8 +11,7 @@
       "Item Creator",
       "Merchandise Maker",
       "manufacturer",
-      "product maker",
-      "product seller"
+      "product maker"
     ]
   },
   "derived_from": [
@@ -42,8 +41,7 @@
       "Item Creator",
       "Merchandise Maker",
       "manufacturer",
-      "product maker",
-      "product seller"
+      "product maker"
     ],
     "user_queries": [
       "What is product manufacturer?",

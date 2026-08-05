@@ -5,10 +5,9 @@
   "description": "Natural language queries a user may ask about: Court",
   "content": {
     "queries": [
-      "What is the role of court in compounding of offences?",
-      "What is appeal exception?",
-      "How does appeal exception work?",
-      "Can you explain appeal exception?"
+      "What is the role of the court in compounding of offences?",
+      "When can a consumer dispute go to a regular court?",
+      "What powers does a court have under the Consumer Protection Act, 2019?"
     ]
   },
   "derived_from": [
@@ -40,10 +39,9 @@
       "judicial body"
     ],
     "user_queries": [
-      "What is the role of court in compounding of offences?",
-      "What is appeal exception?",
-      "How does appeal exception work?",
-      "Can you explain appeal exception?"
+      "What is the role of the court in compounding of offences?",
+      "When can a consumer dispute go to a regular court?",
+      "What powers does a court have under the Consumer Protection Act, 2019?"
     ]
   },
   "metadata": {

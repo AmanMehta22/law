@@ -6,9 +6,8 @@
   "content": {
     "queries": [
       "What happens after a settlement report is received?",
-      "What is commission must pass order and dispose of matter?",
-      "How does commission must pass order and dispose of matter work?",
-      "Can you explain commission must pass order and dispose of matter?"
+      "How does a Commission dispose of a matter after settlement?",
+      "Can a Commission pass an order based on a settlement agreement?"
     ]
   },
   "derived_from": [
@@ -37,9 +36,8 @@
     ],
     "user_queries": [
       "What happens after a settlement report is received?",
-      "What is commission must pass order and dispose of matter?",
-      "How does commission must pass order and dispose of matter work?",
-      "Can you explain commission must pass order and dispose of matter?"
+      "How does a Commission dispose of a matter after settlement?",
+      "Can a Commission pass an order based on a settlement agreement?"
     ]
   },
   "metadata": {

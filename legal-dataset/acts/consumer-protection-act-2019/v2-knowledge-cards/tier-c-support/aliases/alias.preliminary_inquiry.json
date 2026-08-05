@@ -5,11 +5,10 @@
   "description": "Alternative names and search aliases for: Preliminary Inquiry",
   "content": {
     "aliases": [
-      "arbitration",
       "dispute resolution",
       "inquiry",
-      "mediation",
-      "preliminary"
+      "prima facie inquiry",
+      "initial inquiry"
     ]
   },
   "derived_from": [
@@ -38,11 +37,10 @@
       "mediation"
     ],
     "aliases": [
-      "arbitration",
       "dispute resolution",
       "inquiry",
-      "mediation",
-      "preliminary"
+      "prima facie inquiry",
+      "initial inquiry"
     ],
     "user_queries": [
       "What is central authority must cause investigation?",

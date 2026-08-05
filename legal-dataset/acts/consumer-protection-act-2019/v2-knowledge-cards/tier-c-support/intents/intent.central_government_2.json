@@ -5,10 +5,9 @@
   "description": "Natural language queries a user may ask about: Central Government",
   "content": {
     "queries": [
-      "consumer rights",
-      "What is accounts and audit reports?",
-      "How does accounts and audit reports work?",
-      "Can you explain accounts and audit reports?"
+      "What is the role of the Central Government under the Consumer Protection Act, 2019?",
+      "What powers does the Central Government have under the Act?",
+      "What functions does the Central Government perform under the Act?"
     ]
   },
   "derived_from": [
@@ -75,10 +74,9 @@
       "Central Govt"
     ],
     "user_queries": [
-      "consumer rights",
-      "What is accounts and audit reports?",
-      "How does accounts and audit reports work?",
-      "Can you explain accounts and audit reports?"
+      "What is the role of the Central Government under the Consumer Protection Act, 2019?",
+      "What powers does the Central Government have under the Act?",
+      "What functions does the Central Government perform under the Act?"
     ]
   },
   "metadata": {

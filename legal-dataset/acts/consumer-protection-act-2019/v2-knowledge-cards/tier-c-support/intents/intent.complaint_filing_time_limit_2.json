@@ -5,11 +5,9 @@
   "description": "Natural language queries a user may ask about: Complaint filing time limit",
   "content": {
     "queries": [
-      "complaint time limit",
-      "filing deadline",
-      "What is central government must make provisions to remove difficulties?",
-      "How does central government must make provisions to remove difficulties work?",
-      "Can you explain central government must make provisions to remove difficulties?"
+      "What is the time limit for filing a consumer complaint?",
+      "How long can a complaint be filed after the cause of action arises?",
+      "Can a complaint be filed after the time limit has expired?"
     ]
   },
   "derived_from": [
@@ -37,11 +35,9 @@
       "complaint deadline"
     ],
     "user_queries": [
-      "complaint time limit",
-      "filing deadline",
-      "What is central government must make provisions to remove difficulties?",
-      "How does central government must make provisions to remove difficulties work?",
-      "Can you explain central government must make provisions to remove difficulties?"
+      "What is the time limit for filing a consumer complaint?",
+      "How long can a complaint be filed after the cause of action arises?",
+      "Can a complaint be filed after the time limit has expired?"
     ]
   },
   "metadata": {

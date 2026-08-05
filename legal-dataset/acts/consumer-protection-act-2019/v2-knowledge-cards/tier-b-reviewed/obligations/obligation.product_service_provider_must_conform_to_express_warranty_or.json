@@ -7,7 +7,7 @@
     "who": "Product service provider",
     "what": "must conform to express warranty or contract terms",
     "conditions": [
-      "the service provided by him was faulty or imperfect or deficient or inadequate in quality, nature or manner of performance which is required to be provided by or under any law for the time being in force, or pursuant to any contract or otherwise"
+      "the service did not conform to express warranty or the terms and conditions of the contract"
     ],
     "limitations": [
       "there was an act of omission or commission or negligence or conscious withholding any information which caused harm",
@@ -57,7 +57,7 @@
     "review_status": "reviewed",
     "confidence": 0.75,
     "created_by": "ObligationAgent",
-    "reviewed_by": "v2-review-llm-70b-2026-08-02 (bulk, 20% sample agreed)",
+    "reviewed_by": "deep-review-2026-08-03 (complete tier-b review)",
     "version": 1
   }
 }

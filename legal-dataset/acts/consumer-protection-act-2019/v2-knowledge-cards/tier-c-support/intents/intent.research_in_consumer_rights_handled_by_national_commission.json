@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Research in Consumer Rights handled by National Commission",
   "content": {
     "queries": [
-      "What is research in consumer rights handled by national commission?",
-      "How does research in consumer rights handled by national commission work?",
-      "Can you explain research in consumer rights handled by national commission?"
+      "How is research in consumer rights handled by national commission?",
+      "Can you explain how research in consumer rights is handled by national commission?"
     ]
   },
   "derived_from": [
@@ -38,9 +37,8 @@
       "consumer welfare measures"
     ],
     "user_queries": [
-      "What is research in consumer rights handled by national commission?",
-      "How does research in consumer rights handled by national commission work?",
-      "Can you explain research in consumer rights handled by national commission?"
+      "How is research in consumer rights handled by national commission?",
+      "Can you explain how research in consumer rights is handled by national commission?"
     ]
   },
   "metadata": {

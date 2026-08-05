@@ -5,7 +5,7 @@
   "description": "Illustrative example for: procedure.authentication_of_goods",
   "content": {
     "scenario": "A consumer purchases a product from a retailer and receives a bill, cash memo, and receipt. The consumer wants to verify the authenticity of the product.",
-    "outcome": "The National Commission may provide rules for the authentication of goods, including the manner of issuing bills or cash memos or receipts for goods sold or services rendered, as per the provisions of the Consumer Protection Act, 2019."
+    "outcome": "The Central Government may make rules for the authentication of goods, including the manner of issuing bills or cash memos or receipts for goods sold or services rendered, as per the provisions of the Consumer Protection Act, 2019."
   },
   "derived_from": [
     "procedure.authentication_of_goods"

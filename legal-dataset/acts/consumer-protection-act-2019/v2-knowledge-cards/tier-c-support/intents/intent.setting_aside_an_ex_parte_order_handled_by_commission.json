@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Setting aside an ex parte order handled by Commission",
   "content": {
     "queries": [
-      "What is setting aside an ex parte order handled by commission?",
-      "How does setting aside an ex parte order handled by commission work?",
-      "Can you explain setting aside an ex parte order handled by commission?"
+      "How is setting aside an ex parte order handled by commission?",
+      "Can you explain how setting aside an ex parte order is handled by commission?"
     ]
   },
   "derived_from": [
@@ -39,9 +38,8 @@
       "National Consumer Protection Agency"
     ],
     "user_queries": [
-      "What is setting aside an ex parte order handled by commission?",
-      "How does setting aside an ex parte order handled by commission work?",
-      "Can you explain setting aside an ex parte order handled by commission?"
+      "How is setting aside an ex parte order handled by commission?",
+      "Can you explain how setting aside an ex parte order is handled by commission?"
     ]
   },
   "metadata": {

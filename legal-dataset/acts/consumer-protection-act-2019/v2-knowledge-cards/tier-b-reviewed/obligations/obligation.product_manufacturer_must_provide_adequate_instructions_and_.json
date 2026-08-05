@@ -7,10 +7,6 @@
     "who": "Product manufacturer",
     "what": "must provide adequate instructions and warnings",
     "conditions": [
-      "the product contains a manufacturing defect",
-      "the product is defective in design",
-      "there is a deviation from manufacturing specifications",
-      "the product does not conform to the express warranty",
       "the product fails to contain adequate instructions of correct usage to prevent any harm or any warning regarding improper or incorrect usage"
     ],
     "limitations": [
@@ -60,7 +56,7 @@
     "review_status": "reviewed",
     "confidence": 1.0,
     "created_by": "ObligationAgent",
-    "reviewed_by": "v2-review-llm-70b-2026-08-02",
+    "reviewed_by": "deep-review-2026-08-03 (complete tier-b review)",
     "version": 1
   }
 }

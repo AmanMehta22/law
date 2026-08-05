@@ -5,10 +5,10 @@
   "description": "Natural language queries a user may ask about: Commission must hear consumer dispute",
   "content": {
     "queries": [
-      "what happens if mediation fails",
-      "What is commission must hear consumer dispute?",
-      "How does commission must hear consumer dispute work?",
-      "Can you explain commission must hear consumer dispute?"
+      "What happens if mediation fails?",
+      "Who hears a consumer dispute after mediation fails?",
+      "Must the Commission hear every consumer dispute referred to it?",
+      "Does the Commission hear the dispute if the parties do not agree to mediation?"
     ]
   },
   "derived_from": [
@@ -37,10 +37,10 @@
       "National Commission"
     ],
     "user_queries": [
-      "what happens if mediation fails",
-      "What is commission must hear consumer dispute?",
-      "How does commission must hear consumer dispute work?",
-      "Can you explain commission must hear consumer dispute?"
+      "What happens if mediation fails?",
+      "Who hears a consumer dispute after mediation fails?",
+      "Must the Commission hear every consumer dispute referred to it?",
+      "Does the Commission hear the dispute if the parties do not agree to mediation?"
     ]
   },
   "metadata": {

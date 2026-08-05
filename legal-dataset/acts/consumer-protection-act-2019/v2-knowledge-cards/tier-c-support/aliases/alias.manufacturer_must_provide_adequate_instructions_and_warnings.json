@@ -5,8 +5,9 @@
   "description": "Alternative names and search aliases for: Manufacturer Must Provide Adequate Instructions And Warnings",
   "content": {
     "aliases": [
-      "liability for defective products",
-      "product manufacturer duties"
+      "product manufacturer duties",
+      "adequate usage instructions",
+      "warnings and usage instructions"
     ]
   },
   "derived_from": [
@@ -35,8 +36,9 @@
       "liability"
     ],
     "aliases": [
-      "liability for defective products",
-      "product manufacturer duties"
+      "product manufacturer duties",
+      "adequate usage instructions",
+      "warnings and usage instructions"
     ],
     "user_queries": [
       "What is design defect evidence?",

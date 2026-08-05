@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Review of Consumer Rights handled by State Government",
   "content": {
     "queries": [
-      "What is review of consumer rights handled by state government?",
-      "How does review of consumer rights handled by state government work?",
-      "Can you explain review of consumer rights handled by state government?"
+      "How is review of consumer rights handled by state government?",
+      "Can you explain how review of consumer rights is handled by state government?"
     ]
   },
   "derived_from": [
@@ -38,9 +37,8 @@
       "consumer welfare measures"
     ],
     "user_queries": [
-      "What is review of consumer rights handled by state government?",
-      "How does review of consumer rights handled by state government work?",
-      "Can you explain review of consumer rights handled by state government?"
+      "How is review of consumer rights handled by state government?",
+      "Can you explain how review of consumer rights is handled by state government?"
     ]
   },
   "metadata": {

@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Re-empanelment of mediators depends on Quarterly report",
   "content": {
     "queries": [
-      "What is re-empanelment of mediators depends on quarterly report?",
-      "How does re-empanelment of mediators depends on quarterly report work?",
-      "Can you explain re-empanelment of mediators depends on quarterly report?"
+      "What does re empanelment of mediators depend on?",
+      "Can you explain what re empanelment of mediators depends on?"
     ]
   },
   "derived_from": [
@@ -36,9 +35,8 @@
       "district commission cost"
     ],
     "user_queries": [
-      "What is re-empanelment of mediators depends on quarterly report?",
-      "How does re-empanelment of mediators depends on quarterly report work?",
-      "Can you explain re-empanelment of mediators depends on quarterly report?"
+      "What does re empanelment of mediators depend on?",
+      "Can you explain what re empanelment of mediators depends on?"
     ]
   },
   "metadata": {

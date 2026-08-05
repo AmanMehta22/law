@@ -5,10 +5,8 @@
   "description": "Natural language queries a user may ask about: State Council must render advice",
   "content": {
     "queries": [
-      "What is the role of State Council?",
-      "What is state council must render advice?",
-      "How does state council must render advice work?",
-      "Can you explain state council must render advice?"
+      "What is the role of the State Council?",
+      "What is the object of every State Council?"
     ]
   },
   "derived_from": [
@@ -36,10 +34,8 @@
       "counsel"
     ],
     "user_queries": [
-      "What is the role of State Council?",
-      "What is state council must render advice?",
-      "How does state council must render advice work?",
-      "Can you explain state council must render advice?"
+      "What is the role of the State Council?",
+      "What is the object of every State Council?"
     ]
   },
   "metadata": {

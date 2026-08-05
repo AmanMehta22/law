@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Settlement Disposal handled by Commission",
   "content": {
     "queries": [
-      "What is settlement disposal handled by commission?",
-      "How does settlement disposal handled by commission work?",
-      "Can you explain settlement disposal handled by commission?"
+      "How is settlement disposal handled by commission?",
+      "Can you explain how settlement disposal is handled by commission?"
     ]
   },
   "derived_from": [
@@ -35,9 +34,8 @@
       "dispute resolution"
     ],
     "user_queries": [
-      "What is settlement disposal handled by commission?",
-      "How does settlement disposal handled by commission work?",
-      "Can you explain settlement disposal handled by commission?"
+      "How is settlement disposal handled by commission?",
+      "Can you explain how settlement disposal is handled by commission?"
     ]
   },
   "metadata": {

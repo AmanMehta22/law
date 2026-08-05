@@ -5,9 +5,7 @@
   "description": "To establish the sale of the product by the seller",
   "content": {
     "required_documents": [
-      "Sales records",
-      "Invoice",
-      "Receipt"
+      "Sales records"
     ],
     "purpose": "Not specified in the Act",
     "mandatory": false
@@ -57,7 +55,7 @@
     "review_status": "reviewed",
     "confidence": 0.8,
     "created_by": "EvidenceAgent",
-    "reviewed_by": "v2-review-llm-70b-2026-08-02",
+    "reviewed_by": "deep-review-2026-08-03 (complete tier-b review)",
     "version": 1
   }
 }

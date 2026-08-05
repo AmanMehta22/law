@@ -17,8 +17,8 @@
       "the product does not conform to the express warranty",
       "the product fails to contain adequate instructions of correct usage to prevent any harm or any warning regarding improper or incorrect usage",
       "product seller has exercised substantial control over the product",
-      "product seller has altered or modified the product",
-      "product seller has made an express warranty",
+      "he has altered or modified the product and such alteration or modification was the substantial factor in causing the harm",
+      "he has made an express warranty of a product independent of any express warranty made by a manufacturer and such product failed to conform to the express warranty made by the product seller which caused the harm",
       "product manufacturer is unknown or cannot be served",
       "product seller has failed to exercise reasonable care"
     ],
@@ -90,7 +90,7 @@
     "review_status": "reviewed",
     "confidence": 1.0,
     "created_by": "RightsAgent",
-    "reviewed_by": "v2-review-llm-70b-2026-08-02",
+    "reviewed_by": "deep-review-2026-08-03 (complete tier-b review)",
     "version": 1
   }
 }

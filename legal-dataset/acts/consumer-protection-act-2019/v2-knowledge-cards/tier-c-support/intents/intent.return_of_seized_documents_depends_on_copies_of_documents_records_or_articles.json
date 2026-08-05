@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Return of seized documents depends on Copies of documents, records or articles",
   "content": {
     "queries": [
-      "What is return of seized documents depends on copies of documents, records or articles?",
-      "How does return of seized documents depends on copies of documents, records or articles work?",
-      "Can you explain return of seized documents depends on copies of documents, records or articles?"
+      "What does return of seized documents depend on?",
+      "Can you explain what return of seized documents depends on?"
     ]
   },
   "derived_from": [
@@ -39,9 +38,8 @@
       "return of confiscated documents"
     ],
     "user_queries": [
-      "What is return of seized documents depends on copies of documents, records or articles?",
-      "How does return of seized documents depends on copies of documents, records or articles work?",
-      "Can you explain return of seized documents depends on copies of documents, records or articles?"
+      "What does return of seized documents depend on?",
+      "Can you explain what return of seized documents depends on?"
     ]
   },
   "metadata": {

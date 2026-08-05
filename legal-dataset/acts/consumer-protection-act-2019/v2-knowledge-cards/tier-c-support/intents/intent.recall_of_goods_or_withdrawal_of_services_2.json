@@ -5,11 +5,8 @@
   "description": "Natural language queries a user may ask about: Recall of goods or withdrawal of services",
   "content": {
     "queries": [
-      "dangerous goods",
-      "unsafe services",
-      "What is central authority must give opportunity of being heard?",
-      "How does central authority must give opportunity of being heard work?",
-      "Can you explain central authority must give opportunity of being heard?"
+      "Can the Central Authority order recall of defective goods?",
+      "Can the Central Authority order withdrawal of unsafe services?"
     ]
   },
   "derived_from": [
@@ -36,11 +33,8 @@
       "product recall"
     ],
     "user_queries": [
-      "dangerous goods",
-      "unsafe services",
-      "What is central authority must give opportunity of being heard?",
-      "How does central authority must give opportunity of being heard work?",
-      "Can you explain central authority must give opportunity of being heard?"
+      "Can the Central Authority order recall of defective goods?",
+      "Can the Central Authority order withdrawal of unsafe services?"
     ]
   },
   "metadata": {

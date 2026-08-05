@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Right to Refund",
   "content": {
     "queries": [
-      "how to get refund for defective product?",
-      "What is the punishment for cost of corrective advertisement?",
-      "What happens if I commit cost of corrective advertisement?"
+      "What can I do if the goods I bought are defective?",
+      "Can the Commission order a refund for defective goods?"
     ]
   },
   "derived_from": [
@@ -35,9 +34,8 @@
       "right to reimbursement"
     ],
     "user_queries": [
-      "how to get refund for defective product?",
-      "What is the punishment for cost of corrective advertisement?",
-      "What happens if I commit cost of corrective advertisement?"
+      "What can I do if the goods I bought are defective?",
+      "Can the Commission order a refund for defective goods?"
     ]
   },
   "metadata": {

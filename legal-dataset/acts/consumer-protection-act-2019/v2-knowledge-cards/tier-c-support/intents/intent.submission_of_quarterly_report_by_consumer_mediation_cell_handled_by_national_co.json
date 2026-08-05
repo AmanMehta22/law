@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Submission of quarterly report by consumer mediation cell handled by National Commission",
   "content": {
     "queries": [
-      "What is submission of quarterly report by consumer mediation cell handled by national commission?",
-      "How does submission of quarterly report by consumer mediation cell handled by national commission work?",
-      "Can you explain submission of quarterly report by consumer mediation cell handled by national commission?"
+      "How is submission of quarterly report by consumer mediation cell handled by national co?",
+      "Can you explain how submission of quarterly report by consumer mediation cell is handled by national co?"
     ]
   },
   "derived_from": [
@@ -36,9 +35,8 @@
       "district commission cost"
     ],
     "user_queries": [
-      "What is submission of quarterly report by consumer mediation cell handled by national commission?",
-      "How does submission of quarterly report by consumer mediation cell handled by national commission work?",
-      "Can you explain submission of quarterly report by consumer mediation cell handled by national commission?"
+      "How is submission of quarterly report by consumer mediation cell handled by national co?",
+      "Can you explain how submission of quarterly report by consumer mediation cell is handled by national co?"
     ]
   },
   "metadata": {

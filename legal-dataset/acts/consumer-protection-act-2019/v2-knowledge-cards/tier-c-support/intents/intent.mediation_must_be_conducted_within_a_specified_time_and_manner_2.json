@@ -5,10 +5,9 @@
   "description": "Natural language queries a user may ask about: Mediation must be conducted within a specified time and manner",
   "content": {
     "queries": [
-      "what is the mediation process",
-      "What is mediation must be conducted within a specified time and manner?",
-      "How does mediation must be conducted within a specified time and manner work?",
-      "Can you explain mediation must be conducted within a specified time and manner?"
+      "What is the mediation process",
+      "Within what time limit must a mediator conclude the mediation?",
+      "In what manner must mediation be conducted?"
     ]
   },
   "derived_from": [
@@ -35,10 +34,9 @@
       "dispute resolution process"
     ],
     "user_queries": [
-      "what is the mediation process",
-      "What is mediation must be conducted within a specified time and manner?",
-      "How does mediation must be conducted within a specified time and manner work?",
-      "Can you explain mediation must be conducted within a specified time and manner?"
+      "What is the mediation process",
+      "Within what time limit must a mediator conclude the mediation?",
+      "In what manner must mediation be conducted?"
     ]
   },
   "metadata": {

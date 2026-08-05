@@ -7,8 +7,7 @@
     "who": "District Commission",
     "what": "must hear complaints based on affidavit and documentary evidence",
     "conditions": [
-      "on sufficient cause being shown",
-      "after recording its reasons in writing"
+      "Not specified in the Act (the sufficient-cause and recorded-reasons conditions qualify only the proviso allowing in-person or video-conferencing hearings)"
     ],
     "limitations": [
       "where an application is made for hearing or for examination of parties in person or through video conferencing"
@@ -59,7 +58,7 @@
     "review_status": "reviewed",
     "confidence": 0.75,
     "created_by": "ObligationAgent",
-    "reviewed_by": "v2-review-llm-70b-2026-08-02 (bulk, 20% sample agreed)",
+    "reviewed_by": "deep-review-2026-08-03 (complete tier-b review)",
     "version": 1
   }
 }

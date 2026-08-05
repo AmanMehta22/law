@@ -5,9 +5,9 @@
   "description": "Natural language queries a user may ask about: Director-General Must Submit Inquiries Or Investigations",
   "content": {
     "queries": [
-      "What is director-general must submit inquiries or investigations?",
-      "How does director-general must submit inquiries or investigations work?",
-      "Can you explain director-general must submit inquiries or investigations?"
+      "Must the Director-General submit inquiry reports to the Central Authority?",
+      "Who receives the Director-General's investigation findings?",
+      "What happens after the Director-General completes an inquiry?"
     ]
   },
   "derived_from": [
@@ -36,10 +36,9 @@
       "submission"
     ],
     "user_queries": [
-      "What are the duties of the Director-General?",
-      "What is director-general must submit inquiries or investigations?",
-      "How does director-general must submit inquiries or investigations work?",
-      "Can you explain director-general must submit inquiries or investigations?"
+      "Must the Director-General submit inquiry reports to the Central Authority?",
+      "Who receives the Director-General's investigation findings?",
+      "What happens after the Director-General completes an inquiry?"
     ]
   },
   "metadata": {

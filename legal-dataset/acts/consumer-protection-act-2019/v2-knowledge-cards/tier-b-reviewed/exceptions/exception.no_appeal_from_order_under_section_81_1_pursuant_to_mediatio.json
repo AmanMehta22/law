@@ -4,7 +4,7 @@
   "title": "No appeal from mediated settlement",
   "description": "Exclusion of appeal from mediated settlement orders",
   "content": {
-    "general_rule": "Not specified in the Act",
+    "general_rule": "content.general_rule = \"Any person aggrieved by an order made by the District Commission may prefer an appeal against such order to the State Commission on the grounds of facts or law within a period of forty-five days from the date of the order\"",
     "exception": "No appeal from order under section 81(1) pursuant to mediation under section 80",
     "conditions": [
       "order passed under section 81(1)",
@@ -53,7 +53,7 @@
     "review_status": "reviewed",
     "confidence": 1.0,
     "created_by": "ExceptionAgent",
-    "reviewed_by": "v2-review-llm-70b-2026-08-02",
+    "reviewed_by": "deep-review-2026-08-03 (complete tier-b review)",
     "version": 1
   }
 }

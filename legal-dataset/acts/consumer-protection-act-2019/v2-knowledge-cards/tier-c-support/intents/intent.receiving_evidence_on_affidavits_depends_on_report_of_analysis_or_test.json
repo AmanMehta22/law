@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Receiving evidence on affidavits depends on Report of analysis or test",
   "content": {
     "queries": [
-      "What is receiving evidence on affidavits depends on report of analysis or test?",
-      "How does receiving evidence on affidavits depends on report of analysis or test work?",
-      "Can you explain receiving evidence on affidavits depends on report of analysis or test?"
+      "What does receiving evidence on affidavits depend on?",
+      "Can you explain what receiving evidence on affidavits depends on?"
     ]
   },
   "derived_from": [
@@ -37,9 +36,8 @@
       "Union Government"
     ],
     "user_queries": [
-      "What is receiving evidence on affidavits depends on report of analysis or test?",
-      "How does receiving evidence on affidavits depends on report of analysis or test work?",
-      "Can you explain receiving evidence on affidavits depends on report of analysis or test?"
+      "What does receiving evidence on affidavits depend on?",
+      "Can you explain what receiving evidence on affidavits depends on?"
     ]
   },
   "metadata": {

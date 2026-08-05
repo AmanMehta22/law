@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Service of Notice depends on Acknowledgment due",
   "content": {
     "queries": [
-      "What is service of notice depends on acknowledgment due?",
-      "How does service of notice depends on acknowledgment due work?",
-      "Can you explain service of notice depends on acknowledgment due?"
+      "What does service of notice depend on?",
+      "Can you explain what service of notice depends on?"
     ]
   },
   "derived_from": [
@@ -39,9 +38,8 @@
       "Local Consumer Forum"
     ],
     "user_queries": [
-      "What is service of notice depends on acknowledgment due?",
-      "How does service of notice depends on acknowledgment due work?",
-      "Can you explain service of notice depends on acknowledgment due?"
+      "What does service of notice depend on?",
+      "Can you explain what service of notice depends on?"
     ]
   },
   "metadata": {

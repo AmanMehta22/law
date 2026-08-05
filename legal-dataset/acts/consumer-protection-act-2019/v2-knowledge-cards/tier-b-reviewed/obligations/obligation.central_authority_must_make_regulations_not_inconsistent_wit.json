@@ -5,7 +5,7 @@
   "description": "The Central Authority must make regulations consistent with the Act",
   "content": {
     "who": "Central Authority",
-    "what": "must make regulations not inconsistent with this Act",
+    "what": "may make regulations not inconsistent with this Act",
     "conditions": [
       "with the previous approval of the Central Government",
       "by notification",
@@ -57,7 +57,7 @@
     "review_status": "reviewed",
     "confidence": 0.75,
     "created_by": "ObligationAgent",
-    "reviewed_by": "v2-review-llm-70b-2026-08-02 (bulk, 20% sample agreed)",
+    "reviewed_by": "deep-review-2026-08-03 (complete tier-b review)",
     "version": 1
   }
 }

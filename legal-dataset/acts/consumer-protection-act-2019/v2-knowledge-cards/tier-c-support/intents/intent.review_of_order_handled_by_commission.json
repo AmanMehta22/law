@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Review of order handled by Commission",
   "content": {
     "queries": [
-      "What is review of order handled by commission?",
-      "How does review of order handled by commission work?",
-      "Can you explain review of order handled by commission?"
+      "How is review of order handled by commission?",
+      "Can you explain how review of order is handled by commission?"
     ]
   },
   "derived_from": [
@@ -41,9 +40,8 @@
       "time to respond"
     ],
     "user_queries": [
-      "What is review of order handled by commission?",
-      "How does review of order handled by commission work?",
-      "Can you explain review of order handled by commission?"
+      "How is review of order handled by commission?",
+      "Can you explain how review of order is handled by commission?"
     ]
   },
   "metadata": {

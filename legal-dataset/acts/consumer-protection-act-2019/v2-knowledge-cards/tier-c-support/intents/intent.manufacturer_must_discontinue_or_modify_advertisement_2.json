@@ -6,9 +6,8 @@
   "content": {
     "queries": [
       "What are the obligations of a manufacturer regarding false advertisements?",
-      "What is advertiser must discontinue or modify advertisement?",
-      "How does advertiser must discontinue or modify advertisement work?",
-      "Can you explain advertiser must discontinue or modify advertisement?"
+      "Can a manufacturer be ordered to discontinue a misleading advertisement?",
+      "What happens if a manufacturer fails to modify a misleading advertisement?"
     ]
   },
   "derived_from": [
@@ -37,9 +36,8 @@
     ],
     "user_queries": [
       "What are the obligations of a manufacturer regarding false advertisements?",
-      "What is advertiser must discontinue or modify advertisement?",
-      "How does advertiser must discontinue or modify advertisement work?",
-      "Can you explain advertiser must discontinue or modify advertisement?"
+      "Can a manufacturer be ordered to discontinue a misleading advertisement?",
+      "What happens if a manufacturer fails to modify a misleading advertisement?"
     ]
   },
   "metadata": {

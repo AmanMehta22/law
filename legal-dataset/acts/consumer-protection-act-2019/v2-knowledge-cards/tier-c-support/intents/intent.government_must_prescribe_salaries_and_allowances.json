@@ -5,9 +5,9 @@
   "description": "Natural language queries a user may ask about: Government Must Prescribe Salaries And Allowances",
   "content": {
     "queries": [
-      "What is government must prescribe salaries and allowances?",
-      "How does government must prescribe salaries and allowances work?",
-      "Can you explain government must prescribe salaries and allowances?"
+      "Who prescribes the salaries and allowances of Commission members?",
+      "Can the Government determine the terms of service of members?",
+      "How are the salaries of National Commission members fixed?"
     ]
   },
   "derived_from": [
@@ -37,10 +37,9 @@
       "remuneration"
     ],
     "user_queries": [
-      "What are the salary rules for National Commission employees?",
-      "What is government must prescribe salaries and allowances?",
-      "How does government must prescribe salaries and allowances work?",
-      "Can you explain government must prescribe salaries and allowances?"
+      "Who prescribes the salaries and allowances of Commission members?",
+      "Can the Government determine the terms of service of members?",
+      "How are the salaries of National Commission members fixed?"
     ]
   },
   "metadata": {

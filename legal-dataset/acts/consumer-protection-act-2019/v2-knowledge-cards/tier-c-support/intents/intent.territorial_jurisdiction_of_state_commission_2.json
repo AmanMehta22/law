@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Territorial jurisdiction of State Commission",
   "content": {
     "queries": [
-      "What is regional benches establishment?",
-      "How does regional benches establishment work?",
-      "Can you explain regional benches establishment?"
+      "At which places does the State Commission perform its functions?",
+      "Where does the State Commission ordinarily sit?"
     ]
   },
   "derived_from": [
@@ -34,12 +33,8 @@
       "State Consumer Commission"
     ],
     "user_queries": [
-      "What is state commission's administrative control?",
-      "How does state commission's administrative control work?",
-      "Can you explain state commission's administrative control?",
-      "What is regional benches establishment?",
-      "How does regional benches establishment work?",
-      "Can you explain regional benches establishment?"
+      "At which places does the State Commission perform its functions?",
+      "Where does the State Commission ordinarily sit?"
     ]
   },
   "metadata": {

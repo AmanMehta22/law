@@ -5,7 +5,7 @@
   "description": "The Central Government is required to make rules for the Chief Commissioner and Commissioners of the Central Authority",
   "content": {
     "who": "Central Government",
-    "what": "make rules for the qualifications, appointment, and terms of service of the Chief Commissioner and Commissioners",
+    "what": "may make rules for the qualifications for appointment, method of recruitment, procedure for appointment, term of office, salaries and allowances, resignation, removal and other terms and conditions of the service of the Chief Commissioner and Commissioners",
     "conditions": [
       "qualifications for appointment",
       "method of recruitment",
@@ -58,7 +58,7 @@
     "review_status": "reviewed",
     "confidence": 1.0,
     "created_by": "ObligationAgent",
-    "reviewed_by": "v2-review-llm-70b-2026-08-02",
+    "reviewed_by": "deep-review-2026-08-03 (complete tier-b review)",
     "version": 1
   }
 }

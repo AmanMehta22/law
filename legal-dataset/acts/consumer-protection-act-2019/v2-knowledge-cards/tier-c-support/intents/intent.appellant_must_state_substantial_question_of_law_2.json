@@ -7,9 +7,8 @@
     "queries": [
       "What are the requirements for filing an appeal?",
       "How to appeal a decision involving a question of law?",
-      "What is appellant must state substantial question of law?",
-      "How does appellant must state substantial question of law work?",
-      "Can you explain appellant must state substantial question of law?"
+      "What is a substantial question of law for the purposes of an appeal?",
+      "Can an appeal be filed without raising a substantial question of law?"
     ]
   },
   "derived_from": [
@@ -39,9 +38,8 @@
     "user_queries": [
       "What are the requirements for filing an appeal?",
       "How to appeal a decision involving a question of law?",
-      "What is appellant must state substantial question of law?",
-      "How does appellant must state substantial question of law work?",
-      "Can you explain appellant must state substantial question of law?"
+      "What is a substantial question of law for the purposes of an appeal?",
+      "Can an appeal be filed without raising a substantial question of law?"
     ]
   },
   "metadata": {

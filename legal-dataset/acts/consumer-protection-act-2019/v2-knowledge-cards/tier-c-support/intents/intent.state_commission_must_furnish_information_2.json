@@ -6,9 +6,7 @@
   "content": {
     "queries": [
       "What information must the State Commission provide to the State Government?",
-      "What is state commission must authenticate goods?",
-      "How does state commission must authenticate goods work?",
-      "Can you explain state commission must authenticate goods?"
+      "Who makes rules for the State Commission furnishing information?"
     ]
   },
   "derived_from": [
@@ -36,10 +34,8 @@
       "notification"
     ],
     "user_queries": [
-      "What is state commission must authenticate goods?",
-      "How does state commission must authenticate goods work?",
-      "Can you explain state commission must authenticate goods?",
-      "What information must the State Commission provide to the State Government?"
+      "What information must the State Commission provide to the State Government?",
+      "Who makes rules for the State Commission furnishing information?"
     ]
   },
   "metadata": {

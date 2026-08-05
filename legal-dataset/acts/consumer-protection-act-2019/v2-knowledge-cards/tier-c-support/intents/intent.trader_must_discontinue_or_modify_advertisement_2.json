@@ -6,9 +6,7 @@
   "content": {
     "queries": [
       "What must a trader do if their advertisement is found to be misleading?",
-      "What is trader must discontinue or modify advertisement?",
-      "How does trader must discontinue or modify advertisement work?",
-      "Can you explain trader must discontinue or modify advertisement?"
+      "What happens if a trader's advertisement is false or misleading?"
     ]
   },
   "derived_from": [
@@ -37,9 +35,7 @@
     ],
     "user_queries": [
       "What must a trader do if their advertisement is found to be misleading?",
-      "What is trader must discontinue or modify advertisement?",
-      "How does trader must discontinue or modify advertisement work?",
-      "Can you explain trader must discontinue or modify advertisement?"
+      "What happens if a trader's advertisement is false or misleading?"
     ]
   },
   "metadata": {

@@ -5,12 +5,8 @@
   "description": "Natural language queries a user may ask about: Time limit for opinion",
   "content": {
     "queries": [
-      "What is time limit for opinion?",
-      "How does time limit for opinion work?",
-      "Can you explain time limit for opinion?",
-      "What is member must give opinion within a month?",
-      "How does member must give opinion within a month work?",
-      "Can you explain member must give opinion within a month?"
+      "What is the time limit for giving an opinion when the members of a Bench differ?",
+      "What happens when the President and a member differ on a point?"
     ]
   },
   "derived_from": [
@@ -42,12 +38,8 @@
       "Local Consumer Forum"
     ],
     "user_queries": [
-      "What is time limit for opinion?",
-      "How does time limit for opinion work?",
-      "Can you explain time limit for opinion?",
-      "What is member must give opinion within a month?",
-      "How does member must give opinion within a month work?",
-      "Can you explain member must give opinion within a month?"
+      "What is the time limit for giving an opinion when the members of a Bench differ?",
+      "What happens when the President and a member differ on a point?"
     ]
   },
   "metadata": {

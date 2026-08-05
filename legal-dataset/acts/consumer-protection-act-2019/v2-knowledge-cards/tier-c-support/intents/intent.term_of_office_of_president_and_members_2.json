@@ -5,12 +5,8 @@
   "description": "Natural language queries a user may ask about: Term of office of President and members",
   "content": {
     "queries": [
-      "What is term of office of president and members?",
-      "How does term of office of president and members work?",
-      "Can you explain term of office of president and members?",
-      "What is central government must make rules for national commission service terms?",
-      "How does central government must make rules for national commission service terms work?",
-      "Can you explain central government must make rules for national commission service terms?"
+      "What is the term of office of the President and members of the National Commission?",
+      "Who makes rules for the service conditions of the National Commission?"
     ]
   },
   "derived_from": [
@@ -38,12 +34,8 @@
       "President term"
     ],
     "user_queries": [
-      "What is term of office of president and members?",
-      "How does term of office of president and members work?",
-      "Can you explain term of office of president and members?",
-      "What is central government must make rules for national commission service terms?",
-      "How does central government must make rules for national commission service terms work?",
-      "Can you explain central government must make rules for national commission service terms?"
+      "What is the term of office of the President and members of the National Commission?",
+      "Who makes rules for the service conditions of the National Commission?"
     ]
   },
   "metadata": {

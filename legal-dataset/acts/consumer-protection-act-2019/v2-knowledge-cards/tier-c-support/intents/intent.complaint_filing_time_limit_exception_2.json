@@ -6,9 +6,8 @@
   "content": {
     "queries": [
       "What are the conditions for filing a complaint after the time limit?",
-      "What is complainant must satisfy the commission?",
-      "How does complainant must satisfy the commission work?",
-      "Can you explain complainant must satisfy the commission?"
+      "What must a complainant show to file a complaint beyond the prescribed period?",
+      "Does the Commission have discretion to admit a delayed complaint?"
     ]
   },
   "derived_from": [
@@ -36,9 +35,8 @@
     ],
     "user_queries": [
       "What are the conditions for filing a complaint after the time limit?",
-      "What is complainant must satisfy the commission?",
-      "How does complainant must satisfy the commission work?",
-      "Can you explain complainant must satisfy the commission?"
+      "What must a complainant show to file a complaint beyond the prescribed period?",
+      "Does the Commission have discretion to admit a delayed complaint?"
     ]
   },
   "metadata": {

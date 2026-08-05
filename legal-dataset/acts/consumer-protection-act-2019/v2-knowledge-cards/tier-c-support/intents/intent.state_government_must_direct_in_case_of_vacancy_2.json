@@ -5,10 +5,8 @@
   "description": "Natural language queries a user may ask about: State Government must direct in case of vacancy",
   "content": {
     "queries": [
-      "what to do in case of vacancy in District Commission",
-      "What is state government must direct in case of vacancy?",
-      "How does state government must direct in case of vacancy work?",
-      "Can you explain state government must direct in case of vacancy?"
+      "What to do in case of a vacancy in a District Commission?",
+      "What happens when there is a vacancy in the office of the President or a member?"
     ]
   },
   "derived_from": [
@@ -35,10 +33,8 @@
       "direction in case of vacancy"
     ],
     "user_queries": [
-      "what to do in case of vacancy in District Commission",
-      "What is state government must direct in case of vacancy?",
-      "How does state government must direct in case of vacancy work?",
-      "Can you explain state government must direct in case of vacancy?"
+      "What to do in case of a vacancy in a District Commission?",
+      "What happens when there is a vacancy in the office of the President or a member?"
     ]
   },
   "metadata": {

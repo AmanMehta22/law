@@ -5,10 +5,9 @@
   "description": "Natural language queries a user may ask about: Person must prove publication in ordinary course of business",
   "content": {
     "queries": [
-      "how to avoid penalty for false advertising",
-      "What is defence not available with previous knowledge?",
-      "How does defence not available with previous knowledge work?",
-      "Can you explain defence not available with previous knowledge?"
+      "How to avoid penalty for false advertising",
+      "What must a person prove to avoid penalty under this section?",
+      "How can a publisher prove the advertisement was published in the ordinary course of business?"
     ]
   },
   "derived_from": [
@@ -35,10 +34,9 @@
       "due diligence"
     ],
     "user_queries": [
-      "how to avoid penalty for false advertising",
-      "What is defence not available with previous knowledge?",
-      "How does defence not available with previous knowledge work?",
-      "Can you explain defence not available with previous knowledge?"
+      "How to avoid penalty for false advertising",
+      "What must a person prove to avoid penalty under this section?",
+      "How can a publisher prove the advertisement was published in the ordinary course of business?"
     ]
   },
   "metadata": {

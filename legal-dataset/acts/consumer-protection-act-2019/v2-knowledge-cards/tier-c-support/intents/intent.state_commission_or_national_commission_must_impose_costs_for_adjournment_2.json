@@ -5,10 +5,8 @@
   "description": "Natural language queries a user may ask about: State Commission or National Commission must impose costs for adjournment",
   "content": {
     "queries": [
-      "what are the costs for adjournment",
-      "What is state commission or national commission must impose costs for adjournment?",
-      "How does state commission or national commission must impose costs for adjournment work?",
-      "Can you explain state commission or national commission must impose costs for adjournment?"
+      "What are the costs for adjournment?",
+      "Can the State Commission or the National Commission impose costs for adjournment?"
     ]
   },
   "derived_from": [
@@ -35,10 +33,8 @@
       "costs for delay"
     ],
     "user_queries": [
-      "what are the costs for adjournment",
-      "What is state commission or national commission must impose costs for adjournment?",
-      "How does state commission or national commission must impose costs for adjournment work?",
-      "Can you explain state commission or national commission must impose costs for adjournment?"
+      "What are the costs for adjournment?",
+      "Can the State Commission or the National Commission impose costs for adjournment?"
     ]
   },
   "metadata": {

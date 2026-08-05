@@ -5,10 +5,9 @@
   "description": "Natural language queries a user may ask about: Authority must provide for re-empanelment of mediators",
   "content": {
     "queries": [
-      "what are the conditions for re-empanelment",
-      "What is adjournment cost imposition by district commission?",
-      "How does adjournment cost imposition by district commission work?",
-      "Can you explain adjournment cost imposition by district commission?"
+      "What are the conditions for re-empanelment?",
+      "Must the authority provide for re-empanelment of mediators?",
+      "What does the authority provide regarding re-empanelment of mediators?"
     ]
   },
   "derived_from": [
@@ -35,10 +34,9 @@
       "re-eligibility criteria"
     ],
     "user_queries": [
-      "what are the conditions for re-empanelment",
-      "What is adjournment cost imposition by district commission?",
-      "How does adjournment cost imposition by district commission work?",
-      "Can you explain adjournment cost imposition by district commission?"
+      "What are the conditions for re-empanelment?",
+      "Must the authority provide for re-empanelment of mediators?",
+      "What does the authority provide regarding re-empanelment of mediators?"
     ]
   },
   "metadata": {

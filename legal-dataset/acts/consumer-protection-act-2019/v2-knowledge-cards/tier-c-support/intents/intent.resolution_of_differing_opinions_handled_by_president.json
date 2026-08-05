@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Resolution of differing opinions handled by President",
   "content": {
     "queries": [
-      "What is resolution of differing opinions handled by president?",
-      "How does resolution of differing opinions handled by president work?",
-      "Can you explain resolution of differing opinions handled by president?"
+      "How is resolution of differing opinions handled by president?",
+      "Can you explain how resolution of differing opinions is handled by president?"
     ]
   },
   "derived_from": [
@@ -39,9 +38,8 @@
       "Leader of the Commission"
     ],
     "user_queries": [
-      "What is resolution of differing opinions handled by president?",
-      "How does resolution of differing opinions handled by president work?",
-      "Can you explain resolution of differing opinions handled by president?"
+      "How is resolution of differing opinions handled by president?",
+      "Can you explain how resolution of differing opinions is handled by president?"
     ]
   },
   "metadata": {

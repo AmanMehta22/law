@@ -5,12 +5,8 @@
   "description": "Natural language queries a user may ask about: Regional Benches Establishment",
   "content": {
     "queries": [
-      "What is regional benches establishment?",
-      "How does regional benches establishment work?",
-      "Can you explain regional benches establishment?",
-      "What is central government must establish regional benches by notification?",
-      "How does central government must establish regional benches by notification work?",
-      "Can you explain central government must establish regional benches by notification?"
+      "Where does the National Commission ordinarily function?",
+      "At which places can the National Commission perform its functions?"
     ]
   },
   "derived_from": [
@@ -40,14 +36,8 @@
       "Union Government"
     ],
     "user_queries": [
-      "consumer protection",
-      "regional benches",
-      "What is regional benches establishment?",
-      "How does regional benches establishment work?",
-      "Can you explain regional benches establishment?",
-      "What is central government must establish regional benches by notification?",
-      "How does central government must establish regional benches by notification work?",
-      "Can you explain central government must establish regional benches by notification?"
+      "Where does the National Commission ordinarily function?",
+      "At which places can the National Commission perform its functions?"
     ]
   },
   "metadata": {

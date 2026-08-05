@@ -8,10 +8,7 @@
       "Creator of Goods",
       "Maker",
       "Producer",
-      "Supplier",
-      "assembler",
-      "maker",
-      "producer"
+      "assembler"
     ]
   },
   "derived_from": [
@@ -38,10 +35,7 @@
       "Creator of Goods",
       "Maker",
       "Producer",
-      "Supplier",
-      "assembler",
-      "maker",
-      "producer"
+      "assembler"
     ],
     "user_queries": [
       "What is manufacturer?",

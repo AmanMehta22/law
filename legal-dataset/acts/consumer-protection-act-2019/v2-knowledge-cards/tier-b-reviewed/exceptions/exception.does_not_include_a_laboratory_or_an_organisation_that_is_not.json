@@ -5,7 +5,7 @@
   "description": "...",
   "content": {
     "general_rule": "A laboratory or an organisation is recognised by the Central Government; or (ii) recognised by a State Government",
-    "exception": "Does not include a laboratory or an organisation that is not recognised by a State Government",
+    "exception": "content.exception = \"in addition, a laboratory or an organisation established by or under any law for the time being in force, which is maintained, financed or aided by the Central Government or a State Government for carrying out analysis or test of any goods with a view to determining whether such goods suffer from any defect\"",
     "conditions": [
       "subject to such guidelines as may be issued by the Central Government in this behalf"
     ]
@@ -58,7 +58,7 @@
     "review_status": "reviewed",
     "confidence": 0.75,
     "created_by": "ExceptionAgent",
-    "reviewed_by": "v2-review-llm-70b-2026-08-02 (bulk, 20% sample agreed)",
+    "reviewed_by": "deep-review-2026-08-03 (complete tier-b review)",
     "version": 1
   }
 }

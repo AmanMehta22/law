@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Review of order enables Right to Review",
   "content": {
     "queries": [
-      "What is review of order enables right to review?",
-      "How does review of order enables right to review work?",
-      "Can you explain review of order enables right to review?"
+      "How does review of order enable right to review?",
+      "Can you explain how review of order enables right to review?"
     ]
   },
   "derived_from": [
@@ -40,9 +39,8 @@
       "time to respond"
     ],
     "user_queries": [
-      "What is review of order enables right to review?",
-      "How does review of order enables right to review work?",
-      "Can you explain review of order enables right to review?"
+      "How does review of order enable right to review?",
+      "Can you explain how review of order enables right to review?"
     ]
   },
   "metadata": {

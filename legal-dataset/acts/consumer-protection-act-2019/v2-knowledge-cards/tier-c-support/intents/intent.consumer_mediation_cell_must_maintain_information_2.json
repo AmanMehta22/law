@@ -5,10 +5,9 @@
   "description": "Natural language queries a user may ask about: Consumer mediation cell must maintain information",
   "content": {
     "queries": [
-      "what information must be maintained",
-      "What is adjournment cost imposition by district commission?",
-      "How does adjournment cost imposition by district commission work?",
-      "Can you explain adjournment cost imposition by district commission?"
+      "What information must be maintained",
+      "What information must the Consumer Mediation Cell maintain?",
+      "Does the Consumer Mediation Cell have to keep records of mediations?"
     ]
   },
   "derived_from": [
@@ -35,10 +34,9 @@
       "record keeping"
     ],
     "user_queries": [
-      "what information must be maintained",
-      "What is adjournment cost imposition by district commission?",
-      "How does adjournment cost imposition by district commission work?",
-      "Can you explain adjournment cost imposition by district commission?"
+      "What information must be maintained",
+      "What information must the Consumer Mediation Cell maintain?",
+      "Does the Consumer Mediation Cell have to keep records of mediations?"
     ]
   },
   "metadata": {

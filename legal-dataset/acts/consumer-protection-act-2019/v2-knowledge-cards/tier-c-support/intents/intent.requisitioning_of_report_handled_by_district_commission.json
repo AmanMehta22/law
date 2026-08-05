@@ -5,9 +5,8 @@
   "description": "Natural language queries a user may ask about: Requisitioning of report handled by District Commission",
   "content": {
     "queries": [
-      "What is requisitioning of report handled by district commission?",
-      "How does requisitioning of report handled by district commission work?",
-      "Can you explain requisitioning of report handled by district commission?"
+      "How is requisitioning of report handled by district commission?",
+      "Can you explain how requisitioning of report is handled by district commission?"
     ]
   },
   "derived_from": [
@@ -37,9 +36,8 @@
       "Union Government"
     ],
     "user_queries": [
-      "What is requisitioning of report handled by district commission?",
-      "How does requisitioning of report handled by district commission work?",
-      "Can you explain requisitioning of report handled by district commission?"
+      "How is requisitioning of report handled by district commission?",
+      "Can you explain how requisitioning of report is handled by district commission?"
     ]
   },
   "metadata": {
