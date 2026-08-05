@@ -1,64 +1,11 @@
 import React, { useState } from 'react';
 import { BrowserRouter, Routes, Route, Navigate, useNavigate } from 'react-router-dom';
 import { QueryClientProvider } from '@tanstack/react-query';
-import { queryClient } from './lib/queryClient';
-import { ChatProvider, useConversation } from './features/chat/hooks/useConversation';
-import { useSendMessage } from './features/chat/hooks/useSendMessage';
-import { AppHeader } from './components/AppHeader';
-import { DisclaimerBanner } from './components/DisclaimerBanner';
-import { CitationDrawer } from './components/CitationDrawer';
-import { ConversationView } from './features/chat/components/ConversationView';
-import { Composer } from './features/chat/components/Composer';
-import { AuthPage } from './components/AuthPage';
-import { mockStatuteNodes } from './data';
-import { V2KnowledgeCard } from './types/knowledgeCard';
-import { V1StatuteNode } from './types/statute';
-
-export interface UserData {
-  email: string;
-  loggedInAt: string;
-}
-
-const ChatScreen: React.FC<{ user: UserData | null; onLogout: () => void }> = ({ user, onLogout }) => {
-  const { state } = useConversation();
-  const sendMessageMutation = useSendMessage();
-
-  const [activeCard, setActiveCard] = useState<V2KnowledgeCard | null>(null);
-  const [activeNode, setActiveNode] = useState<V1StatuteNode | null>(null);
-  const [isDrawerOpen, setIsDrawerOpen] = useState(false);
-
-  const handleCitationClick = (card: V2KnowledgeCard) => {
-    setActiveCard(card);
-    const matchedNodeId = card.derived_from[0];
-    const node = mockStatuteNodes.find((n) => n.id === matchedNodeId) || null;
-    setActiveNode(node);
-    setIsDrawerOpen(true);
-  };
-
-  const handleSendMessage = (text: string) => {
-    sendMessageMutation.mutate({ text });
-  };
-
-  return (
-    <div className="min-h-screen flex flex-col bg-[#F3F5F7] text-neutral-900 selection:bg-[#EAF1F8] selection:text-[#1E3A5F]">
-      <AppHeader user={user} onLogout={onLogout} />
-      <DisclaimerBanner />
-
-      <main className="flex-1 flex flex-col max-w-4xl w-full mx-auto pb-6">
-        <ConversationView onCitationClick={handleCitationClick} />
-      </main>
-
-      <Composer onSend={handleSendMessage} isSending={state.isSending} />
-
-      <CitationDrawer
-        card={activeCard}
-        node={activeNode}
-        isOpen={isDrawerOpen}
-        onClose={() => setIsDrawerOpen(false)}
-      />
-    </div>
-  );
-};
+import { queryClient } from './utils/queryClient';
+import { ChatProvider } from './store/ChatContext';
+import { AuthPage } from './pages/AuthPage';
+import { ChatPage } from './pages/ChatPage';
+import { UserData } from './types/user';
 
 const MainAppRoutes: React.FC = () => {
   const navigate = useNavigate();
@@ -116,7 +63,7 @@ const MainAppRoutes: React.FC = () => {
         path="/chat"
         element={
           isAuthenticated ? (
-            <ChatScreen user={user} onLogout={handleLogout} />
+            <ChatPage user={user} onLogout={handleLogout} />
           ) : (
             <Navigate to="/auth" replace />
           )

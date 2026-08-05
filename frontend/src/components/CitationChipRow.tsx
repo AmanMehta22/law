@@ -1,6 +1,6 @@
 import React from 'react';
 import { CitationChip } from './CitationChip';
-import { V2KnowledgeCard } from '../../../types/knowledgeCard';
+import { V2KnowledgeCard } from '../types/knowledgeCard';
 
 interface CitationChipRowProps {
   cards: V2KnowledgeCard[];

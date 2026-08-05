@@ -1,7 +1,7 @@
 import { useMutation } from '@tanstack/react-query';
-import { useConversation } from './useConversation';
-import { mockApi } from '../../../api/mockApi';
-import { Message, IntakeContext } from '../../../types/conversation';
+import { useConversation } from '../store/ChatContext';
+import { mockApi } from '../api/mockApi';
+import { Message, IntakeContext } from '../types/conversation';
 
 interface SendMessageArgs {
   text: string;

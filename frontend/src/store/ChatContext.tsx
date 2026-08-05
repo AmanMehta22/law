@@ -1,6 +1,6 @@
 import React, { createContext, useContext, useReducer, useEffect, ReactNode } from 'react';
-import { chatReducer, initialChatState, ChatState, ChatAction } from '../chatReducer';
-import { mockApi } from '../../../api/mockApi';
+import { chatReducer, initialChatState, ChatState, ChatAction } from './chatReducer';
+import { mockApi } from '../api/mockApi';
 
 interface ChatContextType {
   state: ChatState;

@@ -1,5 +1,5 @@
 import axios from 'axios';
-import { getSessionId } from '../lib/sessionId';
+import { getSessionId } from '../utils/sessionId';
 import { processUserQuery, mockStatuteNodes, mockKnowledgeCards } from '../data';
 import { Conversation, Message, IntakeContext } from '../types/conversation';
 import { V1StatuteNode } from '../types/statute';
@@ -32,7 +32,7 @@ apiClient.interceptors.request.use((config) => {
 export const mockApi = {
   async startConversation(): Promise<Conversation> {
     try {
-      const response = await apiClient.post<Conversation>('/api/v1/conversations');
+      const response = await apiClient.post<Conversation>('/conversations');
       return response.data;
     } catch {
       // Fallback if server endpoint is offline
@@ -50,8 +50,8 @@ export const mockApi = {
   ): Promise<Message> {
     try {
       const response = await apiClient.post<Message>(
-        `/api/v1/conversations/${conversationId}/messages`,
-        { message: messageText, context }
+        '/messages',
+        { conversationId, message: messageText, context }
       );
       return response.data;
     } catch (err: any) {
@@ -66,7 +66,7 @@ export const mockApi = {
 
   async getCitation(v1NodeId: string): Promise<V1StatuteNode | null> {
     try {
-      const response = await apiClient.get<V1StatuteNode>(`/api/v1/citations/${v1NodeId}`);
+      const response = await apiClient.get<V1StatuteNode>(`/citations/${v1NodeId}`);
       return response.data;
     } catch {
       return mockStatuteNodes.find((n) => n.id === v1NodeId) || null;
@@ -76,7 +76,7 @@ export const mockApi = {
   async searchKnowledgeCards(query: string): Promise<V2KnowledgeCard[]> {
     try {
       const response = await apiClient.get<{ items: V2KnowledgeCard[] }>(
-        `/api/v1/knowledge-cards?search=${encodeURIComponent(query)}`
+        `/knowledge-cards?search=${encodeURIComponent(query)}`
       );
       return response.data.items || [];
     } catch {

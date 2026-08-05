@@ -1,12 +1,12 @@
 import React, { useRef, useEffect } from 'react';
 import { AlertTriangle, RefreshCw } from 'lucide-react';
-import { useConversation } from '../hooks/useConversation';
+import { useConversation } from '../store/ChatContext';
 import { useSendMessage } from '../hooks/useSendMessage';
 import { WelcomeState } from './WelcomeState';
 import { UserMessageBubble } from './UserMessageBubble';
 import { BotMessageCard } from './BotMessageCard';
 import { LoadingIndicator } from './LoadingIndicator';
-import { V2KnowledgeCard } from '../../../types/knowledgeCard';
+import { V2KnowledgeCard } from '../types/knowledgeCard';
 
 interface ConversationViewProps {
   onCitationClick: (card: V2KnowledgeCard) => void;

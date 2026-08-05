@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Scale, Volume2, VolumeX, Copy, Check } from 'lucide-react';
-import { Message } from '../../../types/conversation';
-import { V2KnowledgeCard } from '../../../types/knowledgeCard';
+import { Message } from '../types/conversation';
+import { V2KnowledgeCard } from '../types/knowledgeCard';
 import { ReviewStatusBadge } from './ReviewStatusBadge';
 import { TextAnswer } from './TextAnswer';
 import { ChecklistAnswer } from './ChecklistAnswer';

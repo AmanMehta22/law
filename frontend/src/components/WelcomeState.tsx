@@ -1,6 +1,6 @@
 import React from 'react';
 import { Scale, ArrowRight, ShieldCheck, Clock, FileText } from 'lucide-react';
-import { createWelcomeQuickReplies } from '../../../data';
+import { createWelcomeQuickReplies } from '../data';
 
 interface WelcomeStateProps {
   onSelectPrompt: (prompt: string) => void;
@@ -43,25 +43,6 @@ export const WelcomeState: React.FC<WelcomeStateProps> = ({ onSelectPrompt }) =>
               <ArrowRight className="w-4 h-4 text-neutral-400 group-hover:text-[#1E3A5F] group-hover:translate-x-0.5 transition-all shrink-0 ml-2" />
             </button>
           ))}
-        </div>
-      </div>
-
-      {/* Trust Badges Bar */}
-      <div className="pt-6 border-t border-neutral-200 grid grid-cols-3 gap-2 text-center text-xs text-neutral-600 max-w-lg mx-auto">
-        <div className="flex flex-col items-center gap-1">
-          <ShieldCheck className="w-4 h-4 text-[#1B7A4A]" />
-          <span className="font-semibold text-neutral-800">100% Sourced</span>
-          <span className="text-[11px] text-neutral-500">Official CPA 2019</span>
-        </div>
-        <div className="flex flex-col items-center gap-1">
-          <Clock className="w-4 h-4 text-[#1E3A5F]" />
-          <span className="font-semibold text-neutral-800">2-Min Guidance</span>
-          <span className="text-[11px] text-neutral-500">Plain language</span>
-        </div>
-        <div className="flex flex-col items-center gap-1">
-          <FileText className="w-4 h-4 text-[#A66A00]" />
-          <span className="font-semibold text-neutral-800">Draft Legal Notice</span>
-          <span className="text-[11px] text-neutral-500">Ready to review</span>
         </div>
       </div>
     </div>

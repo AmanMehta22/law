@@ -1,4 +1,4 @@
-import { Message, IntakeContext } from '../../types/conversation';
+import { Message, IntakeContext } from '../types/conversation';
 
 export interface ChatState {
   conversationId: string | null;

@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Check, FileCheck, Landmark, AlertCircle } from 'lucide-react';
-import { V2KnowledgeCard, ProcedureContent } from '../../../types/knowledgeCard';
+import { V2KnowledgeCard, ProcedureContent } from '../types/knowledgeCard';
 
 interface ChecklistAnswerProps {
   card: V2KnowledgeCard;

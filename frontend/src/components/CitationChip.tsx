@@ -1,6 +1,6 @@
 import React from 'react';
 import { BookOpen } from 'lucide-react';
-import { V2KnowledgeCard } from '../../../types/knowledgeCard';
+import { V2KnowledgeCard } from '../types/knowledgeCard';
 
 interface CitationChipProps {
   card: V2KnowledgeCard;
