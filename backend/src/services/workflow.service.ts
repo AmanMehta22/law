@@ -1,12 +1,9 @@
-import { conversationService } from "./conversation.service";
-import { conversationRepository } from "../repositories/conversation.repository";
-import { messageService } from "./message.service";
-import { informationCheckerService } from "./informationChecker.service";
-import { knowledgeService } from "./knowledge.service";
+import { Intent } from "../types/intent.types";
 
-import { formatConversation } from "../utils/conversationFormatter";
-import { formatRequirements } from "../utils/requirementFormatter";
-import { CONSUMER_INFORMATION_REQUIREMENTS } from "../knowledge/consumer/consumer.fields";
+import { intentService } from "./intent.service";
+import { caseWorkflowService } from "./caseWorkflow.service";
+import { generalWorkflowService } from "./generalWorkflow.service";
+import { documentWorkflowService } from "./documentWorkflow.service";
 
 import { logger } from "../logger";
 
@@ -23,113 +20,39 @@ class WorkflowService {
       conversationId,
     });
 
-    // 1. Create conversation if needed
-    let conversation;
+    // Step 1: Determine the user's intent
+    const intentTimer = logger.startTimer();
 
-    if (!conversationId) {
-      logger.info("Creating new conversation");
+    const { intent } = await intentService.classify(message);
 
-      conversation = await conversationService.createConversation(userId);
-
-      logger.info("Conversation created", {
-        conversationId: conversation.id,
-      });
-    } else {
-      logger.info("Using existing conversation", {
-        conversationId,
-      });
-
-      conversation = {
-        id: conversationId,
-      };
-    }
-
-    // 2. Save user message
-    const saveMessageTimer = logger.startTimer();
-
-    await messageService.createUserMessage(conversation.id, message);
-
-    saveMessageTimer.done("User message saved");
-
-    // 3. Load conversation with messages
-    const loadConversationTimer = logger.startTimer();
-
-    const conversationWithMessages =
-      await conversationRepository.findByIdWithMessages(conversation.id);
-
-    if (!conversationWithMessages) {
-      logger.error("Conversation not found", {
-        conversationId: conversation.id,
-      });
-
-      throw new Error("Conversation not found.");
-    }
-
-    loadConversationTimer.done("Conversation loaded", {
-      messageCount: conversationWithMessages.messages.length,
+    intentTimer.done("Intent classified", {
+      intent,
     });
 
-    // 4. Format conversation
-    const formattedConversation = formatConversation(
-      conversationWithMessages.messages,
-    );
+    // Step 2: Route to the appropriate workflow
+    switch (intent) {
+      case Intent.GENERAL:
+        logger.info("Routing to General Workflow");
 
-    // 5. Information Checker
-    const checkerTimer = logger.startTimer();
+        return generalWorkflowService.handle(userId, conversationId, message);
 
-    const check = await informationCheckerService.check(
-      formattedConversation,
-      formatRequirements(CONSUMER_INFORMATION_REQUIREMENTS),
-    );
+      case Intent.CASE:
+        logger.info("Routing to Case Workflow");
 
-    checkerTimer.done("Information Checker completed", check);
+        return caseWorkflowService.handle(userId, conversationId, message);
 
-    // 6. Ask follow-up question
-    if (!check.readyForRag) {
-      logger.info("Information incomplete");
+      case Intent.DOCUMENT:
+        logger.info("Routing to Document Workflow");
 
-      const nextRequirement = knowledgeService.getNextRequirement(
-        check.missingFields,
-      );
+        return documentWorkflowService.handle(userId, conversationId, message);
 
-      logger.info("Next question selected", {
-        field: nextRequirement.id,
-      });
+      default:
+        logger.error("Unknown intent received", {
+          intent,
+        });
 
-      const assistantMessage = await messageService.createAssistantMessage(
-        conversation.id,
-        nextRequirement.question,
-      );
-
-      logger.info("Follow-up question stored");
-
-      workflowTimer.done("Workflow completed");
-
-      return {
-        conversationId: conversation.id,
-        readyForRag: false,
-        reply: assistantMessage.content,
-      };
+        throw new Error("Unsupported intent.");
     }
-
-    // 7. Ready for RAG
-    logger.info("Information complete");
-    logger.info("Ready for RAG");
-
-    // TODO: Replace this with ragService.answer()
-
-    const assistantMessage = await messageService.createAssistantMessage(
-      conversation.id,
-      "✅ Enough information has been collected. RAG will be called next.",
-    );
-
-    workflowTimer.done("Workflow completed");
-
-    return {
-      conversationId: conversation.id,
-      readyForRag: true,
-      reply: assistantMessage.content,
-    };
   }
 }
 

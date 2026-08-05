@@ -7,6 +7,7 @@ import healthRoutes from "./routes/health.routes";
 import authRoutes from "./routes/auth.routes";
 import conversationRoutes from "./routes/conversation.routes";
 import messageRoutes from "./routes/message.routes";
+// import testRoutes from "./routes/test.routes";
 
 const app = express();
 
@@ -19,5 +20,5 @@ app.use("/health", healthRoutes);
 app.use("/auth", authRoutes);
 app.use("/conversations", conversationRoutes);
 app.use("/messages", messageRoutes);
-
+// app.use("/test", testRoutes);
 export default app;
