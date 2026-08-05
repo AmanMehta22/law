@@ -24,6 +24,25 @@ class ConversationRepository {
       },
     });
   }
+
+  async findAllByUserId(userId: string) {
+    return prisma.conversation.findMany({
+      where: {
+        userId,
+      },
+
+      orderBy: {
+        updatedAt: "desc",
+      },
+
+      select: {
+        id: true,
+        title: true,
+        createdAt: true,
+        updatedAt: true,
+      },
+    });
+  }
 }
 
 export const conversationRepository = new ConversationRepository();
