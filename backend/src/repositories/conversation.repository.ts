@@ -9,6 +9,21 @@ class ConversationRepository {
       },
     });
   }
+
+  async findByIdWithMessages(conversationId: string) {
+    return prisma.conversation.findUnique({
+      where: {
+        id: conversationId,
+      },
+      include: {
+        messages: {
+          orderBy: {
+            createdAt: "asc",
+          },
+        },
+      },
+    });
+  }
 }
 
 export const conversationRepository = new ConversationRepository();
