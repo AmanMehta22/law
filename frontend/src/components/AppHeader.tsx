@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Scale, RotateCcw, Type, ZoomIn, ZoomOut, User, LogOut, LogIn } from 'lucide-react';
-import { useConversation } from '../store/ChatContext';
+import { Scale, Type, ZoomIn, ZoomOut, LogOut, LogIn } from 'lucide-react';
 
 interface AppHeaderProps {
   user?: { email: string; loggedInAt?: string } | null;
@@ -8,7 +7,6 @@ interface AppHeaderProps {
 }
 
 export const AppHeader: React.FC<AppHeaderProps> = ({ user, onLogout }) => {
-  const { resetConversation } = useConversation();
   // 0: 100%, 1: 115%, 2: 125%
   const [fontSizeLevel, setFontSizeLevel] = useState<number>(0);
 

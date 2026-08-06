@@ -8,11 +8,11 @@ import { BotMessageCard } from './BotMessageCard';
 import { LoadingIndicator } from './LoadingIndicator';
 
 export const ConversationView: React.FC = () => {
-  const { state } = useConversation();
+  const { state, dispatch } = useConversation();
   const sendMessageMutation = useSendMessage();
   const bottomRef = useRef<HTMLDivElement>(null);
 
-  const { messages, isSending, error } = state;
+  const { messages, isSending, isLoadingConversation, error } = state;
 
   useEffect(() => {
     bottomRef.current?.scrollIntoView({ behavior: 'smooth' });
@@ -29,11 +29,15 @@ export const ConversationView: React.FC = () => {
   const handleRetry = () => {
     const lastUserMessage = [...messages].reverse().find((m) => m.sender === 'user');
     if (lastUserMessage) {
+      dispatch({
+        type: 'REMOVE_MESSAGE',
+        payload: { messageId: lastUserMessage.message_id },
+      });
       sendMessageMutation.mutate({ text: lastUserMessage.answer_text });
     }
   };
 
-  if (messages.length === 0) {
+  if (messages.length === 0 && !isLoadingConversation) {
     return <WelcomeState onSelectPrompt={handleSelectPrompt} />;
   }
 
@@ -52,7 +56,7 @@ export const ConversationView: React.FC = () => {
         )
       )}
 
-      {isSending && <LoadingIndicator />}
+      {(isSending || isLoadingConversation) && <LoadingIndicator />}
 
       {error && (
         <div className="p-4 bg-[#FBF1DE] rounded-xl border border-[#A66A00]/30 text-[#A66A00] my-4 flex items-start gap-3 shadow-2xs animate-fade-in">

@@ -13,7 +13,7 @@ export const loginUser = async (
   password: string
 ): Promise<AuthResult> => {
   const response = await axios.post<{ success: boolean; data: AuthResult }>(
-    "http://localhost:3000/auth/login",
+    `${import.meta.env.VITE_API_BASE_URL || "http://localhost:3000"}/auth/login`,
     {
       email,
       password,

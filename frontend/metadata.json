@@ -1,6 +1,0 @@
-{
-  "name": "LegalBot — Consumer Protection Act",
-  "description": "A single-purpose conversational tool for Indian consumers to understand rights, procedure, and draft legal notices under the Consumer Protection Act 2019.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}

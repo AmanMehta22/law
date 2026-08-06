@@ -41,7 +41,14 @@ export interface Message {
 
 export interface Conversation {
   conversation_id: string;
+  title: string;
   created_at: string;
+  updated_at: string;
+}
+
+export interface ConversationDetail {
+  conversation: Conversation;
+  messages: Message[];
 }
 
 export interface ApiError {
