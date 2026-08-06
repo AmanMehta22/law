@@ -21,7 +21,7 @@ npm run dev            # serves the app on http://localhost:5173 (tsx server.ts)
 
 ```
 src/
-  api/          client.ts (axios instance + interceptors), conversations.ts, messages.ts, login.ts, signup.ts
+  api/          client.ts (axios instance + interceptors), auth.ts, conversations.ts, messages.ts
   components/   SidePanel, ConversationView, Composer, BotMessageCard, etc.
   hooks/        useSendMessage (chat send mutation)
   pages/        AuthPage (login/signup), ChatPage (main chat layout)
@@ -39,7 +39,7 @@ One file per resource, all sharing the axios instance from `client.ts`:
 | `client.ts` | `apiClient` instance, base URL from `VITE_API_BASE_URL`, JWT + `X-Session-Id` request interceptor, 401 → redirect to `/auth` |
 | `conversations.ts` | `startConversation()` (POST), `getConversations()` (list), `getConversation(id)` (detail + messages) |
 | `messages.ts` | `sendMessage(conversationId, message)` (POST) |
-| `login.ts` / `signup.ts` | `loginUser(email, password)`, `signup(email, password)` |
+| `auth.ts` | `login(email, password)` (POST /auth/login), `register(email, password)` (POST /auth/register) |
 
 ### Backend endpoints used
 

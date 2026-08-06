@@ -73,8 +73,8 @@ Response (note: `accessToken`, **not** `token`):
 ```
 
 ### Where it's implemented
-- `frontend/src/api/login.ts` / `signup.ts` (plain axios calls).
-- `frontend/src/api/client.ts` — axios instance for all other calls; attaches `Authorization: Bearer <legalbot_token>` and `X-Session-Id` to every request via interceptor.
+- `frontend/src/api/auth.ts` — `login` / `register` via the shared axios instance.
+- `frontend/src/api/client.ts` — axios instance for all calls; attaches `Authorization: Bearer <legalbot_token>` and `X-Session-Id` to every request via interceptor.
 - Token stored as `localStorage["legalbot_token"]` by `AuthPage`.
 - On any **401** the client clears session keys and redirects to `/auth`.
 
@@ -231,7 +231,7 @@ Base URL: `http://localhost:3000` via `VITE_API_BASE_URL`.
 
 ```
 src/
-  api/        client.ts (axios instance + interceptors), conversations.ts, messages.ts, login.ts, signup.ts
+  api/        client.ts (axios instance + interceptors), auth.ts, conversations.ts, messages.ts
   components/ SidePanel, ConversationView, Composer, BotMessageCard, …
   hooks/      useSendMessage
   pages/      AuthPage, ChatPage

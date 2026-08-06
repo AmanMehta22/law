@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
-import { loginUser } from '../api/login';
-import { signup } from '../api/signup';
+import { login, register } from '../api/auth';
 import {
   Scale,
   Mail,
@@ -99,7 +98,7 @@ export const AuthPage: React.FC<AuthPageProps> = ({ onAuthenticate }) => {
     
     try{
       if(view==="login"){
-        const data=await loginUser(email,password);
+        const data=await login(email,password);
         console.log("login successful : ",data);
         localStorage.setItem("legalbot_token", data.accessToken);
         onAuthenticate({
@@ -109,8 +108,8 @@ export const AuthPage: React.FC<AuthPageProps> = ({ onAuthenticate }) => {
       }
 
       else if(view==="signup"){
-        await signup(email,password);
-        const data=await loginUser(email,password);
+        await register(email,password);
+        const data=await login(email,password);
         localStorage.setItem("legalbot_token", data.accessToken);
         console.log("Sign up successful : ",data);
         onAuthenticate({
