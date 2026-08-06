@@ -1,13 +1,19 @@
 import React from 'react';
 import { Scale, ArrowRight, ShieldCheck, Clock, FileText } from 'lucide-react';
-import { createWelcomeQuickReplies } from '../data';
 
 interface WelcomeStateProps {
   onSelectPrompt: (prompt: string) => void;
 }
 
+const WELCOME_PROMPTS = [
+  'I bought a product that is defective or damaged',
+  'A service provider cheated me or gave poor service',
+  'I was charged more than the displayed price',
+  'How do I file a complaint under the Consumer Protection Act?',
+];
+
 export const WelcomeState: React.FC<WelcomeStateProps> = ({ onSelectPrompt }) => {
-  const prompts = createWelcomeQuickReplies();
+  const prompts = WELCOME_PROMPTS;
 
   return (
     <div className="py-8 sm:py-12 px-4 max-w-2xl mx-auto text-center space-y-8 animate-fade-in">

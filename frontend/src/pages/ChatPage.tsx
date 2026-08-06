@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { useConversation } from '../store/ChatContext';
 import { useSendMessage } from '../hooks/useSendMessage';
 import { AppHeader } from '../components/AppHeader';
@@ -12,11 +12,24 @@ export const ChatPage: React.FC<{ user: UserData | null; onLogout: () => void }>
   user,
   onLogout,
 }) => {
-  const { state } = useConversation();
+  const { state, loadConversations, openConversation } = useConversation();
   const sendMessageMutation = useSendMessage();
 
+  useEffect(() => {
+    loadConversations();
+    const saved = localStorage.getItem('legalbot_active_conversation');
+    if (saved) {
+      openConversation(saved).then((ok) => {
+        if (!ok) localStorage.removeItem('legalbot_active_conversation');
+      });
+    }
+  }, [loadConversations, openConversation]);
+
   const handleSendMessage = (text: string) => {
-    sendMessageMutation.mutate({ text });
+    sendMessageMutation.mutate(
+      { text },
+      { onSuccess: () => { loadConversations(); } },
+    );
   };
 
   return (

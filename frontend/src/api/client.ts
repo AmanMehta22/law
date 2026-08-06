@@ -30,6 +30,22 @@ apiClient.interceptors.request.use((config) => {
   return config;
 });
 
+apiClient.interceptors.response.use(
+  (response) => response,
+  (error) => {
+    if (error.response?.status === 401) {
+      localStorage.removeItem('legalbot_token');
+      localStorage.removeItem('legalbot_authenticated');
+      localStorage.removeItem('legalbot_user');
+      localStorage.removeItem('legalbot_active_conversation');
+      if (window.location.pathname !== '/auth') {
+        window.location.href = '/auth';
+      }
+    }
+    return Promise.reject(error);
+  },
+);
+
 interface ApiEnvelope<T> {
   success: boolean;
   data: T;

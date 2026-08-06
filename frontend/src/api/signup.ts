@@ -11,7 +11,7 @@ export const signup = async (
   password: string
 ): Promise<RegisterResult> => {
   const response = await axios.post<{ success: boolean; data: RegisterResult }>(
-    "http://localhost:3000/auth/register",
+    `${import.meta.env.VITE_API_BASE_URL || "http://localhost:3000"}/auth/register`,
     {
       email,
       password,

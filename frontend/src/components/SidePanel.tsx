@@ -7,49 +7,22 @@ import {
   X,
   PanelLeftOpen,
 } from 'lucide-react';
+import { useConversation } from '../store/ChatContext';
 
 interface SidePanelProps {
   user?: { email: string } | null;
 }
 
-const mockChats = [
-  {
-    id: 'c1',
-    title: 'Refund for defective LED TV',
-    preview:
-      'I bought a 55-inch LED TV that stopped working after a week. The seller refused to refund it. LegalBot helped me draft a notice under Section 39(1) asking for a ₹45,000 refund plus compensation.',
-  },
-  {
-    id: 'c2',
-    title: "Seller won't refund — legal notice",
-    preview:
-      'Ordered a phone online, charged ₹28,000, never received delivery. I asked for the steps to file a complaint on e-Daakhil and got the document checklist for the District Commission.',
-  },
-  {
-    id: 'c3',
-    title: 'Product arrived damaged',
-    preview:
-      'The laptop arrived with a cracked screen. The seller offered a 10% discount instead of a replacement. I asked about my right to a full refund and the 2-year filing deadline.',
-  },
-  {
-    id: 'c4',
-    title: 'How long do I have to file?',
-    preview:
-      'Wanted to know the limitation period under CPA 2019. LegalBot explained I have exactly two years from the date the cause of action arose, with condonation of delay possible for genuine reasons.',
-  },
-];
-
 export const SidePanel: React.FC<SidePanelProps> = ({ user }) => {
+  const { state, openConversation, newChat } = useConversation();
   const [isMinimized, setIsMinimized] = useState(false);
   const [query, setQuery] = useState('');
-  const [activeChatId, setActiveChatId] = useState<string | null>(null);
-  const [chats, setChats] = useState(mockChats);
 
-  const filteredChats = chats.filter((c) => {
+  const { conversations, conversationId } = state;
+
+  const filteredChats = conversations.filter((c) => {
     const q = query.toLowerCase();
-    return (
-      c.title.toLowerCase().includes(q) || c.preview.toLowerCase().includes(q)
-    );
+    return c.title.toLowerCase().includes(q);
   });
 
   if (isMinimized) {
@@ -71,7 +44,12 @@ export const SidePanel: React.FC<SidePanelProps> = ({ user }) => {
     <aside className="w-64 h-screen sticky top-0 bg-white text-neutral-900 border-r border-neutral-200 flex flex-col transition-all duration-300">
       {/* Header */}
       <div className="flex items-center justify-between px-3 pt-3 pb-1">
-  
+        <div className="flex items-center gap-2">
+          <div className="w-6 h-6 rounded-md bg-[#1E3A5F] flex items-center justify-center text-white">
+            <Scale className="w-3.5 h-3.5" />
+          </div>
+        </div>
+
         <button
           onClick={() => setIsMinimized(true)}
           className="p-1.5 rounded-lg text-neutral-400 hover:text-neutral-900 hover:bg-neutral-100 transition-colors cursor-pointer"
@@ -84,7 +62,10 @@ export const SidePanel: React.FC<SidePanelProps> = ({ user }) => {
 
       {/* New Chat */}
       <div className="px-3 pt-2">
-        <button className="w-full flex items-center justify-center gap-2 px-3 py-2.5 rounded-lg bg-white border border-neutral-300 shadow-2xs text-sm font-medium text-neutral-900 hover:bg-neutral-50 transition-colors cursor-pointer">
+        <button
+          onClick={newChat}
+          className="w-full flex items-center justify-center gap-2 px-3 py-2.5 rounded-lg bg-white border border-neutral-300 shadow-2xs text-sm font-medium text-neutral-900 hover:bg-neutral-50 transition-colors cursor-pointer"
+        >
           <Plus className="w-4 h-4" />
           New chat
         </button>
@@ -113,10 +94,10 @@ export const SidePanel: React.FC<SidePanelProps> = ({ user }) => {
         ) : (
           filteredChats.map((chat) => (
             <div
-              key={chat.id}
-              onClick={() => setActiveChatId(chat.id)}
+              key={chat.conversation_id}
+              onClick={() => openConversation(chat.conversation_id)}
               className={`flex items-start gap-2.5 px-2 py-2 rounded-lg text-sm cursor-pointer transition-colors ${
-                activeChatId === chat.id
+                conversationId === chat.conversation_id
                   ? 'bg-[#EAF1F8] text-[#1E3A5F] font-medium'
                   : 'text-neutral-700 hover:bg-neutral-100 hover:text-neutral-900'
               }`}
@@ -124,7 +105,9 @@ export const SidePanel: React.FC<SidePanelProps> = ({ user }) => {
               <MessageCircle className="w-4 h-4 shrink-0 text-neutral-400 mt-0.5" />
               <div className="flex-1 min-w-0 space-y-0.5">
                 <p className="truncate">{chat.title}</p>
-                <p className="text-xs text-neutral-500 truncate">{chat.preview}</p>
+                <p className="text-xs text-neutral-500 truncate">
+                  {new Date(chat.created_at).toLocaleDateString()}
+                </p>
               </div>
             </div>
           ))

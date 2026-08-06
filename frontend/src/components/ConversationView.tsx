@@ -12,7 +12,7 @@ export const ConversationView: React.FC = () => {
   const sendMessageMutation = useSendMessage();
   const bottomRef = useRef<HTMLDivElement>(null);
 
-  const { messages, isSending, error } = state;
+  const { messages, isSending, isLoadingConversation, error } = state;
 
   useEffect(() => {
     bottomRef.current?.scrollIntoView({ behavior: 'smooth' });
@@ -33,7 +33,7 @@ export const ConversationView: React.FC = () => {
     }
   };
 
-  if (messages.length === 0) {
+  if (messages.length === 0 && !isLoadingConversation) {
     return <WelcomeState onSelectPrompt={handleSelectPrompt} />;
   }
 
@@ -52,7 +52,7 @@ export const ConversationView: React.FC = () => {
         )
       )}
 
-      {isSending && <LoadingIndicator />}
+      {(isSending || isLoadingConversation) && <LoadingIndicator />}
 
       {error && (
         <div className="p-4 bg-[#FBF1DE] rounded-xl border border-[#A66A00]/30 text-[#A66A00] my-4 flex items-start gap-3 shadow-2xs animate-fade-in">

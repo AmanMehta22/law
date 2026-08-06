@@ -1,6 +1,6 @@
 import { useMutation } from '@tanstack/react-query';
 import { useConversation } from '../store/ChatContext';
-import { api } from '../api/mockApi';
+import { api } from '../api/client';
 import { Message, IntakeContext } from '../types/conversation';
 
 interface SendMessageArgs {
@@ -13,15 +13,8 @@ export function useSendMessage() {
 
   return useMutation<Message, Error, SendMessageArgs>({
     mutationFn: async ({ text, contextOverride }) => {
-      let convId = state.conversationId;
-      if (!convId) {
-        const newConv = await api.startConversation();
-        convId = newConv.conversation_id;
-        dispatch({
-          type: 'CONVERSATION_STARTED',
-          payload: { conversationId: convId },
-        });
-      }
+      const startedNew = !state.conversationId;
+      const convId = state.conversationId;
 
       // Updated context
       const mergedContext: IntakeContext = {
@@ -39,7 +32,7 @@ export function useSendMessage() {
       // Add user message immediately
       const userMessage: Message = {
         message_id: 'msg_u_' + Math.random().toString(36).substring(2, 9),
-        conversation_id: convId,
+        conversation_id: convId ?? '',
         created_at: new Date().toISOString(),
         sender: 'user',
         answer_text: text,
@@ -55,8 +48,17 @@ export function useSendMessage() {
 
       dispatch({ type: 'MESSAGE_SENT', payload: { userMessage } });
 
-      // Call API
+      // Call API (null conversationId lets the backend create the
+      // conversation with an auto-generated title)
       const botResponse = await api.sendMessage(convId, text);
+
+      if (startedNew) {
+        dispatch({
+          type: 'CONVERSATION_STARTED',
+          payload: { conversationId: botResponse.conversation_id },
+        });
+      }
+
       return botResponse;
     },
     onSuccess: (botMessage) => {
