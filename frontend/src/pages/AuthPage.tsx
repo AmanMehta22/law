@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
 import { login, register } from '../api/auth';
+import { getApiErrorMessage } from '../api/client';
+import { STORAGE_KEYS } from '../constants/storageKeys';
 import {
   Scale,
   Mail,
@@ -99,8 +101,7 @@ export const AuthPage: React.FC<AuthPageProps> = ({ onAuthenticate }) => {
     try{
       if(view==="login"){
         const data=await login(email,password);
-        console.log("login successful : ",data);
-        localStorage.setItem("legalbot_token", data.accessToken);
+        localStorage.setItem(STORAGE_KEYS.token, data.accessToken);
         onAuthenticate({
             email: email.trim(),
             loggedInAt: new Date().toISOString(),
@@ -110,8 +111,7 @@ export const AuthPage: React.FC<AuthPageProps> = ({ onAuthenticate }) => {
       else if(view==="signup"){
         await register(email,password);
         const data=await login(email,password);
-        localStorage.setItem("legalbot_token", data.accessToken);
-        console.log("Sign up successful : ",data);
+        localStorage.setItem(STORAGE_KEYS.token, data.accessToken);
         onAuthenticate({
           email:email.trim(),
           loggedInAt: new Date().toISOString(),
@@ -119,8 +119,8 @@ export const AuthPage: React.FC<AuthPageProps> = ({ onAuthenticate }) => {
       }
     }
     catch(error){
-      console.log("Authentication failed:", error);
-      setError("Invalid email or password.");
+      console.error("Authentication failed:", error);
+      setError(getApiErrorMessage(error, "Invalid email or password."));
     }
     finally{
       setIsSubmitting(false)

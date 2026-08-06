@@ -25,19 +25,8 @@ interface BackendConversationWithMessages {
   messages: BackendMessage[];
 }
 
-export async function startConversation(): Promise<Conversation> {
-  const response = await apiClient.post<ApiEnvelope<BackendConversation>>(
-    '/conversations',
-  );
-  const conv = response.data.data;
-  return {
-    conversation_id: conv.id,
-    title: conv.title,
-    created_at: conv.createdAt,
-    updated_at: conv.updatedAt,
-  };
-}
-
+// TODO: no limit/pagination today — fetch the full history in one call.
+// Revisit once a user can accumulate hundreds of conversations.
 export async function getConversations(): Promise<Conversation[]> {
   const response = await apiClient.get<ApiEnvelope<BackendConversation[]>>(
     '/conversations',

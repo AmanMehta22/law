@@ -16,6 +16,7 @@ npm run dev            # serves the app on http://localhost:5173 (tsx server.ts)
 | `npm run build` | `vite build` + bundles `server.ts` to `dist/server.cjs` |
 | `npm start` | Runs the production bundle (`node dist/server.cjs`) |
 | `npm run lint` | `tsc --noEmit` |
+| `npm test` | `vitest run` — unit tests for the chat reducer (`src/store/chatReducer.test.ts`) |
 
 ## Structure
 

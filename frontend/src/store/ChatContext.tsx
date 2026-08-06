@@ -8,9 +8,9 @@ import React, {
 } from 'react';
 import { chatReducer, initialChatState, ChatState, ChatAction } from './chatReducer';
 import { getConversations, getConversation } from '../api/conversations';
+import { getApiErrorMessage } from '../api/client';
 import { Conversation } from '../types/conversation';
-
-const ACTIVE_CONVERSATION_KEY = 'legalbot_active_conversation';
+import { STORAGE_KEYS } from '../constants/storageKeys';
 
 interface ChatContextType {
   state: ChatState;
@@ -70,6 +70,13 @@ export const ChatProvider = ({ children }: { children: ReactNode }) => {
       dispatch({ type: 'CONVERSATIONS_LOADED', payload: conversations });
     } catch (error) {
       console.error('Failed to load conversations:', error);
+      dispatch({
+        type: 'SET_ERROR',
+        payload: getApiErrorMessage(
+          error,
+          'Failed to load conversations. Please refresh.',
+        ),
+      });
     }
   }, []);
 
@@ -105,7 +112,7 @@ export const ChatProvider = ({ children }: { children: ReactNode }) => {
 
       return true;
     } catch (error) {
-      console.error('Failed to load conversation:', error);
+      console.error('Failed to load conversation:', getApiErrorMessage(error));
       dispatch({ type: 'RESET_CONVERSATION' });
       return false;
     }
@@ -117,9 +124,9 @@ export const ChatProvider = ({ children }: { children: ReactNode }) => {
 
   useEffect(() => {
     if (state.conversationId) {
-      localStorage.setItem(ACTIVE_CONVERSATION_KEY, state.conversationId);
+      localStorage.setItem(STORAGE_KEYS.activeConversation, state.conversationId);
     } else {
-      localStorage.removeItem(ACTIVE_CONVERSATION_KEY);
+      localStorage.removeItem(STORAGE_KEYS.activeConversation);
     }
   }, [state.conversationId]);
 

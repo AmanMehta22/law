@@ -6,13 +6,15 @@ import { ChatProvider } from './store/ChatContext';
 import { AuthPage } from './pages/AuthPage';
 import { ChatPage } from './pages/ChatPage';
 import { UserData } from './types/user';
+import { STORAGE_KEYS } from './constants/storageKeys';
+import { ErrorBoundary } from './components/ErrorBoundary';
 
 const MainAppRoutes: React.FC = () => {
   const navigate = useNavigate();
 
   const [user, setUser] = useState<UserData | null>(() => {
     try {
-      const saved = localStorage.getItem('legalbot_user');
+      const saved = localStorage.getItem(STORAGE_KEYS.user);
       return saved ? JSON.parse(saved) : null;
     } catch {
       return null;
@@ -20,15 +22,15 @@ const MainAppRoutes: React.FC = () => {
   });
 
   const [isAuthenticated, setIsAuthenticated] = useState<boolean>(() => {
-    return localStorage.getItem('legalbot_authenticated') === 'true';
+    return localStorage.getItem(STORAGE_KEYS.authenticated) === 'true';
   });
 
   const handleAuthenticate = (userData: UserData) => {
     setUser(userData);
     setIsAuthenticated(true);
     try {
-      localStorage.setItem('legalbot_user', JSON.stringify(userData));
-      localStorage.setItem('legalbot_authenticated', 'true');
+      localStorage.setItem(STORAGE_KEYS.user, JSON.stringify(userData));
+      localStorage.setItem(STORAGE_KEYS.authenticated, 'true');
     } catch (e) {
       console.error(e);
     }
@@ -39,10 +41,10 @@ const MainAppRoutes: React.FC = () => {
     setUser(null);
     setIsAuthenticated(false);
     try {
-      localStorage.removeItem('legalbot_user');
-      localStorage.removeItem('legalbot_authenticated');
-      localStorage.removeItem('legalbot_token');
-      localStorage.removeItem('legalbot_active_conversation');
+      localStorage.removeItem(STORAGE_KEYS.user);
+      localStorage.removeItem(STORAGE_KEYS.authenticated);
+      localStorage.removeItem(STORAGE_KEYS.token);
+      localStorage.removeItem(STORAGE_KEYS.activeConversation);
     } catch (e) {
       console.error(e);
     }
@@ -84,7 +86,9 @@ export default function App() {
     <QueryClientProvider client={queryClient}>
       <ChatProvider>
         <BrowserRouter>
-          <MainAppRoutes />
+          <ErrorBoundary>
+            <MainAppRoutes />
+          </ErrorBoundary>
         </BrowserRouter>
       </ChatProvider>
     </QueryClientProvider>
