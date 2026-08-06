@@ -47,7 +47,7 @@ One file per resource, all sharing the axios instance from `client.ts`:
 | Endpoint | Purpose |
 | --- | --- |
 | `POST /auth/login`, `POST /auth/register` | Auth; response `{ success, data: { accessToken, user } }` |
-| `POST /messages` | Body `{ conversationId, message }`. `conversationId` may be `null` — the backend then creates the conversation and auto-titles it from the message. Response `{ success, data: { conversationId, readyForRag, reply } }`. |
+| `POST /messages` | Body `{ conversationId, message, context? }`. `conversationId` may be `null` — the backend then creates the conversation and auto-titles it from the message. `context` is the intake context (`issue_type`, `amount_band`, `state`) collected by the frontend and sent for RAG use (backend currently ignores it). Response `{ success, data: { conversationId, readyForRag, reply, ...RAG fields? } }` — optional RAG fields (`cards_used`, `v1_nodes_used`, `suggested_follow_ups`, etc.) pass through to the UI when present. |
 | `GET /conversations` | Sidebar history list (ordered by `updatedAt` desc) |
 | `GET /conversations/:id` | Conversation detail incl. `messages` (`role: USER | ASSISTANT | SYSTEM`) |
 

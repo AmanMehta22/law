@@ -50,8 +50,9 @@ export function useSendMessage() {
       dispatch({ type: 'MESSAGE_SENT', payload: { userMessage } });
 
       // Call API (null conversationId lets the backend create the
-      // conversation with an auto-generated title)
-      const botResponse = await sendMessage(convId, text);
+      // conversation with an auto-generated title; intake context is
+      // attached so the backend RAG can use it once wired server-side)
+      const botResponse = await sendMessage(convId, text, mergedContext);
 
       if (startedNew) {
         dispatch({
