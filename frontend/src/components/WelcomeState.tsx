@@ -1,5 +1,5 @@
 import React from 'react';
-import { Scale, ArrowRight, ShieldCheck, Clock, FileText } from 'lucide-react';
+import { Scale, ArrowRight } from 'lucide-react';
 
 interface WelcomeStateProps {
   onSelectPrompt: (prompt: string) => void;

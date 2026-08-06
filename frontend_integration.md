@@ -1,235 +1,99 @@
-# 1. Overview
+# LegalBot — Frontend ↔ Backend Integration Guide
 
-## Purpose
-
-This document explains how the frontend integrates with the LegalBot backend. It serves as a reference for implementing authentication, chat functionality, API communication, and conversation management.
+How the frontend integrates with the LegalBot backend: authentication, chat, API communication, and conversation/history management. This reflects the **current, implemented** setup — not a design sketch.
 
 ---
 
-## Frontend Responsibilities
+## 1. Overview
 
-The frontend is responsible for:
+### Responsibilities
 
-- User authentication (Register/Login)
-- Managing the chat interface
-- Sending user messages to the backend
-- Displaying assistant responses
-- Managing conversation state
-- Handling loading and error states
-- Persisting authentication tokens
+**Frontend (presentation layer only)**
+- Authentication (register/login), token storage.
+- Chat interface, message sending, assistant reply rendering.
+- Conversation state + sidebar history rendering.
+- Loading/error states.
 
----
+**Backend (all decisions)**
+- Auth, authorization (JWT).
+- Conversation & message persistence.
+- AI workflow orchestration — intent routing (GENERAL / CASE / DOCUMENT), follow-up question selection, Gemini calls, and (future) RAG.
+- Always returns a consistent `{ success, data }` envelope.
 
-## Backend Responsibilities
+### Communication flow
 
-The backend is responsible for:
-
-- User authentication and authorization
-- Conversation and message management
-- AI workflow orchestration
-- Determining follow-up questions
-- Calling the AI models
-- (Future) Retrieval-Augmented Generation (RAG)
-- Returning responses in a consistent format
-
----
-
-## Communication Flow
-
-```text
-Frontend
-    │
-    ▼
-REST API
-    │
-    ▼
-Backend
-    │
-    ▼
-Database
-    │
-    ▼
-Gemini AI
+```
+Frontend (5173) ──REST──▶ Backend (3000) ──▶ PostgreSQL
+                                     └────▶ Gemini AI
 ```
 
-The frontend communicates **only** with the backend. It never interacts directly with the database or AI provider.
+The frontend **never** talks to the database or the AI provider directly.
 
 ---
 
-## Integration Principle
+## 2. Authentication
 
-The frontend should be treated as a presentation layer.
+JWT-based. Every protected request sends `Authorization: Bearer <token>`.
 
-- The frontend **renders** data.
-- The backend **makes decisions**.
-- The frontend should never generate assistant messages or implement business logic.
+### Register
 
-All conversation flow and AI interactions are controlled by the backend.
+`POST /auth/register` → `200`
 
-# 2. Authentication
-
-The backend uses **JWT (JSON Web Token)** for authentication. Every protected request must include a valid JWT in the `Authorization` header.
-
----
-
-## Authentication Flow
-
-```text
-User
-   │
-   ▼
-Register / Login
-   │
-   ▼
-Backend
-   │
-   ▼
-JWT Token
-   │
-   ▼
-Frontend stores token
-   │
-   ▼
-Authenticated Requests
+Request:
+```json
+{ "email": "user@example.com", "password": "password123" }
 ```
 
----
-
-## Register
-
-### Endpoint
-
-```http
-POST /auth/register
-```
-
-### Request
-
+Response:
 ```json
 {
-  "email": "user@example.com",
-  "password": "password123"
+  "success": true,
+  "data": { "id": "user_id", "email": "user@example.com", "createdAt": "2026-08-04T12:00:00Z" }
 }
 ```
 
-### Response
+### Login
 
+`POST /auth/login` → `200`
+
+Request:
+```json
+{ "email": "user@example.com", "password": "password123" }
+```
+
+Response (note: `accessToken`, **not** `token`):
 ```json
 {
   "success": true,
   "data": {
-    "id": "user_id",
-    "email": "user@example.com",
-    "createdAt": "2026-08-04T12:00:00Z"
+    "accessToken": "<JWT>",
+    "user": { "id": "user_id", "email": "user@example.com" }
   }
 }
 ```
 
----
+### Where it's implemented
+- `frontend/src/api/login.ts` / `signup.ts` (plain axios calls).
+- `frontend/src/api/client.ts` — axios instance for all other calls; attaches `Authorization: Bearer <legalbot_token>` and `X-Session-Id` to every request via interceptor.
+- Token stored as `localStorage["legalbot_token"]` by `AuthPage`.
+- On any **401** the client clears session keys and redirects to `/auth`.
 
-## Login
-
-### Endpoint
-
-```http
-POST /auth/login
-```
-
-### Request
-
-```json
-{
-  "email": "user@example.com",
-  "password": "password123"
-}
-```
-
-### Response
-
-```json
-{
-  "success": true,
-  "data": {
-    "token": "<JWT_TOKEN>"
-  }
-}
-```
+### Logout
+No backend endpoint. Frontend removes `legalbot_token`, `legalbot_user`, `legalbot_authenticated`, `legalbot_active_conversation` and navigates to `/auth`.
 
 ---
 
-## Token Storage
+## 3. Conversations & Chat
 
-After a successful login:
+### Message endpoint
 
-- Store the JWT securely.
-- Include it in every protected request.
-- Clear it on logout.
+`POST /messages` → `201`, body `{ "conversationId": ..., "message": "..." }`
 
----
+**Starting a new conversation:** send `"conversationId": null`. The backend creates the conversation, **auto-titles it from your message**, stores it, runs the workflow, and returns the new id. (`sendMessageSchema` accepts `conversationId` as nullable/optional.)
 
-## Authorization Header
+**Continuing:** send the previously returned `conversationId`.
 
-All protected endpoints require:
-
-```http
-Authorization: Bearer <JWT_TOKEN>
-```
-
-Example:
-
-```http
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
-```
-
----
-
-## Logout
-
-The backend is stateless and does not provide a logout endpoint.
-
-Logout is handled entirely on the frontend by:
-
-1. Removing the stored JWT.
-2. Clearing user-related state.
-3. Redirecting the user to the login page.
-
----
-
-## Authentication Errors
-
-| Status | Meaning                             | Frontend Action            |
-| ------ | ----------------------------------- | -------------------------- |
-| 400    | Invalid request                     | Display validation error   |
-| 401    | Invalid credentials / Expired token | Redirect to Login          |
-| 500    | Server error                        | Show generic error message |
-
-# 3. Conversation Lifecycle
-
-Every chat with LegalBot belongs to a **Conversation**. The frontend is responsible for maintaining the `conversationId` returned by the backend.
-
----
-
-## Starting a New Conversation
-
-When the user sends the first message, **do not send a `conversationId`**.
-
-### Request
-
-```json
-{
-  "message": "I bought a laptop."
-}
-```
-
-The backend will:
-
-- Create a new conversation.
-- Store the user's message.
-- Process the AI workflow.
-- Return a `conversationId`.
-
-### Response
-
+Response:
 ```json
 {
   "success": true,
@@ -241,702 +105,150 @@ The backend will:
 }
 ```
 
-The frontend **must store the returned `conversationId`**.
-
----
-
-## Continuing a Conversation
-
-For every subsequent message, include the previously received `conversationId`.
-
-### Request
-
-```json
-{
-  "conversationId": "cmsesinwl00016br4qj0igq06",
-  "message": "Flipkart"
-}
-```
-
-The backend loads the existing conversation and continues the workflow.
-
----
-
-## Conversation Flow
-
-```text
-User opens chat
-        │
-        ▼
-No conversation exists
-        │
-        ▼
-Send first message
-        │
-        ▼
-Backend creates conversation
-        │
-        ▼
-Receive conversationId
-        │
-        ▼
-Frontend stores conversationId
-        │
-        ▼
-All future messages use the same conversationId
-```
-
----
-
-## Conversation Persistence
-
-The frontend should maintain:
-
-- Current `conversationId`
-- Complete message list
-- Authentication token
-
-If the page is refreshed, the frontend should restore the active conversation if supported by the application.
-
----
-
-## Important Notes
-
-- A conversation is created **only once**.
-- Never generate a new `conversationId` on the frontend.
-- Always send the latest `conversationId` received from the backend.
-- All messages belonging to the same consultation must use the same `conversationId`.
-
-# 4. Chat Workflow
-
-The frontend communicates with the chatbot through a single endpoint:
-
-```http
-POST /messages
-```
-
-The backend manages the entire conversation workflow.
-
----
-
-## Message Flow
-
-```text
-User sends a message
-        │
-        ▼
-POST /messages
-        │
-        ▼
-Backend stores the message
-        │
-        ▼
-AI checks if enough information is available
-        │
-        ▼
-┌─────────────────────────────┐
-│ Information Complete?       │
-└──────────────┬──────────────┘
-               │
-       No      │      Yes
-               │
-               ▼
-      Ask Next Question
-               │
-               ▼
-      Return Response
-```
-
----
-
-## Information Collection Phase
-
-If additional information is required, the backend automatically returns the next follow-up question.
-
-Example:
-
-```text
-User:
-I bought a laptop.
-
-↓
-
-Assistant:
-Who sold the product or provided the service?
-
-↓
-
-User:
-Flipkart
-
-↓
-
-Assistant:
-When did you purchase the product?
-
-↓
-
-User:
-Three months ago
-
-↓
-
-...
-```
-
-The frontend simply displays the assistant's reply and waits for the next user message.
-
----
-
-## RAG Phase
-
-Once all required information has been collected:
-
-```text
-User sends final required information
-        │
-        ▼
-Backend determines information is complete
-        │
-        ▼
-(Future) RAG Pipeline
-        │
-        ▼
-Legal Response
-        │
-        ▼
-Frontend displays the response
-```
-
-The frontend does not need to know whether the backend asked a follow-up question or generated a legal answer. Both are handled identically.
-
----
-
-## Frontend Responsibilities
-
-For every user message:
-
-1. Append the user's message to the chat.
-2. Send the request to `POST /messages`.
-3. Wait for the backend response.
-4. Append the assistant's reply.
-5. Update the stored `conversationId` if returned.
-
----
-
-## Backend Responsibilities
-
-The backend automatically:
-
-- Stores every message.
-- Maintains conversation history.
-- Determines if more information is required.
-- Selects the next follow-up question.
-- Calls the AI models.
-- (Future) Executes the RAG pipeline.
-
----
-
-## Key Principle
-
-The frontend is **not responsible** for deciding:
-
-- What question to ask next.
-- Whether enough information has been collected.
-- When to call RAG.
-
-These decisions are handled entirely by the backend.
-
-# 5. API Reference
-
-## Base URL
-
-```text
-http://localhost:3000
-```
-
-All responses follow a standard format:
-
-### Success Response
-
-```json
-{
-  "success": true,
-  "data": {}
-}
-```
-
-### Error Response
-
-```json
-{
-  "success": false,
-  "message": "Error message"
-}
-```
-
----
-
-# Authentication APIs
-
-## Register
-
-**POST** `/auth/register`
-
-Creates a new user account.
-
-### Request
-
-```json
-{
-  "email": "user@example.com",
-  "password": "password123"
-}
-```
-
-### Response
-
-```json
-{
-  "success": true,
-  "data": {
-    "id": "user_id",
-    "email": "user@example.com",
-    "createdAt": "2026-08-04T12:00:00Z"
-  }
-}
-```
-
----
-
-## Login
-
-**POST** `/auth/login`
-
-Authenticates the user and returns a JWT.
-
-### Request
-
-```json
-{
-  "email": "user@example.com",
-  "password": "password123"
-}
-```
-
-### Response
-
-```json
-{
-  "success": true,
-  "data": {
-    "token": "<JWT_TOKEN>"
-  }
-}
-```
-
----
-
-# Chat API
-
-## Send Message
-
-**POST** `/messages`
-
-Primary endpoint used by the chatbot.
-
-### Headers
-
-```http
-Authorization: Bearer <JWT_TOKEN>
-```
-
----
-
-### Start a New Conversation
-
-```json
-{
-  "message": "I bought a laptop."
-}
-```
-
----
-
-### Continue an Existing Conversation
-
-```json
-{
-  "conversationId": "cmsesinwl00016br4qj0igq06",
-  "message": "Flipkart"
-}
-```
-
----
-
-### Response
-
-```json
-{
-  "success": true,
-  "data": {
-    "conversationId": "cmsesinwl00016br4qj0igq06",
-    "readyForRag": false,
-    "reply": "Who sold the product or provided the service?"
-  }
-}
-```
-
-When all required information has been collected:
-
+When information is complete:
 ```json
 {
   "success": true,
   "data": {
     "conversationId": "cmsesinwl00016br4qj0igq06",
     "readyForRag": true,
-    "reply": "Legal response (Future RAG Response)"
+    "reply": "Legal response (currently a placeholder until RAG ships)"
   }
 }
 ```
 
----
+The frontend renders `reply` identically whether it's a follow-up question or a `readyForRag` answer.
 
-# Health Check
+### History endpoints
 
-## Server Status
-
-**GET** `/health`
-
-Used to verify that the backend is running.
-
-### Response
-
+`GET /conversations` → the user's conversations, ordered by `updatedAt` desc:
 ```json
 {
   "success": true,
-  "message": "Server is running."
+  "data": [
+    { "id": "cmsg...", "title": "Recent title", "createdAt": "...", "updatedAt": "..." }
+  ]
 }
 ```
 
----
-
-# HTTP Status Codes
-
-| Status | Meaning                              |
-| ------ | ------------------------------------ |
-| 200    | Request successful                   |
-| 201    | Resource created successfully        |
-| 400    | Invalid request or validation failed |
-| 401    | Unauthorized / Invalid JWT           |
-| 404    | Resource not found                   |
-| 500    | Internal server error                |
-
----
-
-# Authentication
-
-All protected endpoints require the following header:
-
-```http
-Authorization: Bearer <JWT_TOKEN>
-```
-
-The frontend should automatically attach this header to every authenticated request.
-
-# 6. Frontend State Management
-
-The frontend should maintain a minimal and predictable application state throughout the chat session.
-
----
-
-## Authentication State
-
-Store:
-
-- JWT Token
-- User information (optional)
-- Authentication status
-
-Example:
-
-```ts
-isAuthenticated: boolean;
-token: string | null;
-```
-
----
-
-## Conversation State
-
-Store:
-
-- Current `conversationId`
-- Chat messages
-- Current conversation status
-
-Example:
-
-```ts
-conversationId: string | null;
-messages: ChatMessage[];
-```
-
----
-
-## Loading State
-
-Track API requests to provide a better user experience.
-
-Example:
-
-```ts
-isSending: boolean;
-isTyping: boolean;
-```
-
-Use these states to:
-
-- Disable the send button.
-- Show a typing indicator.
-- Prevent duplicate requests.
-
----
-
-## Error State
-
-Capture API and network errors.
-
-Example:
-
-```ts
-error: string | null;
-```
-
-Errors should be displayed to the user without breaking the chat experience.
-
----
-
-## Suggested State Structure
-
-```ts
-{
-  (token,
-    isAuthenticated,
-    conversationId,
-    messages,
-    isSending,
-    isTyping,
-    error);
-}
-```
-
----
-
-## State Updates
-
-### On Login
-
-- Store JWT.
-- Set authentication state.
-
----
-
-### On First Message
-
-- Store returned `conversationId`.
-- Append user message.
-- Append assistant reply.
-
----
-
-### On Every Message
-
-- Append user message.
-- Send API request.
-- Append backend reply.
-- Update loading state.
-
----
-
-## Best Practices
-
-- Maintain a single active conversation.
-- Keep messages ordered chronologically.
-- Never manually modify assistant messages.
-- Always use the backend response as the source of truth.
-
-# 7. UI Behaviour & Response Handling
-
-## Sending a Message
-
-When the user sends a message:
-
-1. Append the user's message to the chat.
-2. Disable the send button.
-3. Display a typing/loading indicator.
-4. Send `POST /messages`.
-5. Wait for the backend response.
-6. Append the assistant's reply.
-7. Enable the send button.
-
----
-
-## Backend Responses
-
-### Information Collection
-
+`GET /conversations/:id` → a conversation with all messages:
 ```json
 {
-  "conversationId": "...",
-  "readyForRag": false,
-  "reply": "Who sold the product or provided the service?"
+  "success": true,
+  "data": {
+    "id": "cmsg...",
+    "title": "...",
+    "userId": "user_id",
+    "createdAt": "...",
+    "updatedAt": "...",
+    "messages": [
+      { "id": "msg...", "conversationId": "cmsg...", "role": "USER", "content": "...", "createdAt": "..." }
+    ]
+  }
 }
 ```
+`role` is one of `USER | ASSISTANT | SYSTEM`. The frontend maps `USER → user`, `ASSISTANT → bot`, and skips `SYSTEM`.
 
-Frontend Action:
+### Frontend behavior
+- `GET /conversations` feeds the sidebar (`src/components/SidePanel.tsx`); search filters titles locally.
+- Clicking a row calls `GET /conversations/:id` and replaces the thread (`openConversation` in `src/store/ChatContext.tsx`).
+- After each successful send the list is refetched; the active conversation is pinned to the top.
+- Legacy rows still titled "New Conversation" are verified via `GET /conversations/:id`: empty ones are hidden, ones with messages get a client-side title from their first message.
+- The active conversation id is persisted in `localStorage["legalbot_active_conversation"]` and restored on reload.
 
-- Append the assistant message.
-- Wait for the next user message.
+### Important rules
+- The frontend **never** generates a conversation id and never hardcodes questions.
+- A conversation is created only by the backend (via `conversationId: null`), never with an empty upfront `POST /conversations`.
+- Always reuse the latest returned `conversationId`.
 
 ---
 
-### Legal Response (Future RAG)
+## 4. Chat Workflow
 
-```json
-{
-  "conversationId": "...",
-  "readyForRag": true,
-  "reply": "Legal advice..."
-}
+```
+send ✉──▶ POST /messages ──▶ backend stores message
+                                  │
+                                  ▼
+                         intent + info check
+                                  │
+                    ┌──── complete? ────┐
+                    No                 Yes
+                    ▼                  ▼
+              next follow-up      (RAG placeholder)
+               question reply         reply
+                    │                  │
+                    ▼                  ▼
+                { conversationId, readyForRag, reply }
 ```
 
-Frontend Action:
+The frontend state machine (`src/store/chatReducer.ts`) tracks:
+`conversationId`, `messages`, `conversations`, `intakeContext`, `isSending`, `isLoadingConversation`, `error`.
 
-- Append the assistant response.
-- Continue the conversation normally.
+Chat send lives in `src/hooks/useSendMessage.ts`:
+1. Append user message (optimistic).
+2. `POST /messages` (with `conversationId: null` on first send).
+3. Adopt the returned conversation id.
+4. Append the assistant reply.
+5. Refresh the sidebar list.
 
-The frontend does **not** need different rendering logic for follow-up questions and legal responses.
-
----
-
-## Loading States
-
-Handle the following UI states:
-
-- Idle
-- Sending Message
-- Waiting for Backend
-- Rendering Response
-
-Disable duplicate requests while waiting for the backend.
+Edge handling in the reducer:
+- A reply that arrives for a conversation different from the currently-active one is **dropped** (prevents bleed when switching chats mid-send).
+- 401 anywhere → the axios interceptor clears the session and redirects to `/auth`.
 
 ---
 
-## Error Handling
+## 5. API Reference (implemented)
 
-Recommended behaviour:
+Base URL: `http://localhost:3000` via `VITE_API_BASE_URL`.
 
-| Status        | Action                     |
-| ------------- | -------------------------- |
-| 400           | Show validation message    |
-| 401           | Redirect to Login          |
-| 500           | Show generic error message |
-| Network Error | Allow retry                |
+**Envelope:** success → `{ success: true, data: ... }`; failure → `{ success: false, error: "<message>" }` (`error`, not `message`).
 
-Always restore the UI to a usable state after an error.
+### Endpoints
 
-# 8. Recommended Project Structure
+| Method & Path | Purpose |
+| --- | --- |
+| `GET /health` | Health probe → `{ status: "Ok", message: "...", timeStamp: "..." }` (not enveloped) |
+| `POST /auth/register` | Create account → `{ id, email, createdAt }` |
+| `POST /auth/login` | Login → `{ accessToken, user }` |
+| `POST /conversations` | Create conversation (title `"New Conversation"` — the workflows normally create it via `/messages` instead) |
+| `GET /conversations` | List user's conversations |
+| `GET /conversations/:id` | Conversation + messages |
+| `POST /messages` | Send a chat message; `conversationId` nullable |
 
-```text
+### Status codes
+| Status | Meaning | Frontend action |
+| --- | --- | --- |
+| 200/201 | Success | — |
+| 400 | Validation failed | Show message |
+| 401 | Unauthorized / expired JWT | Clear session, redirect to login |
+| 404 | Not found | Show message |
+| 429 | Gemini free-tier quota exhausted | Show retryable error |
+| 500 | Server error | Show generic error |
+
+---
+
+## 6. Project layout (implemented)
+
+```
 src/
-│
-├── api/           # Backend API calls
-├── components/    # Reusable UI components
-├── pages/         # Application pages
-├── hooks/         # Custom React hooks
-├── store/         # State management
-├── types/         # Shared interfaces
-├── utils/         # Utility functions
-└── assets/        # Static assets
+  api/        client.ts (axios instance + interceptors), conversations.ts, messages.ts, login.ts, signup.ts
+  components/ SidePanel, ConversationView, Composer, BotMessageCard, …
+  hooks/      useSendMessage
+  pages/      AuthPage, ChatPage
+  store/      ChatContext, chatReducer
+  types/      conversation, knowledgeCard, statute, user
+  utils/      sessionId, queryClient, cn
 ```
 
-## Suggested Components
-
-```text
-Chat/
-├── ChatWindow
-├── ChatInput
-├── MessageBubble
-├── TypingIndicator
-└── ChatHeader
-```
-
-Separate UI components from API logic and state management.
-
-# 9. Type Definitions & Integration Checklist
-
-## Suggested Types
-
-### Chat Message
-
-```ts
-interface ChatMessage {
-  role: "USER" | "ASSISTANT";
-  content: string;
-  createdAt?: string;
-}
-```
+Note: `frontend/server.ts` is only a static/vite host — it defines **no** API routes. There is no mock data anywhere in the frontend.
 
 ---
 
-### Send Message Request
+## 7. Integration checklist (status)
 
-```ts
-interface SendMessageRequest {
-  conversationId?: string;
-  message: string;
-}
-```
-
----
-
-### Send Message Response
-
-```ts
-interface SendMessageResponse {
-  success: boolean;
-  data: {
-    conversationId: string;
-    readyForRag: boolean;
-    reply: string;
-  };
-}
-```
-
----
-
-## Integration Checklist
-
-### Authentication
-
-- [ ] Register implemented
-- [ ] Login implemented
-- [ ] JWT stored securely
-- [ ] Authorization header added
-
-### Chat
-
-- [ ] Send messages using `/messages`
-- [ ] Store `conversationId`
-- [ ] Render assistant replies
-- [ ] Handle loading state
-- [ ] Handle API errors
-
-### Best Practices
-
-- Always use backend responses.
-- Never generate assistant messages on the frontend.
-- Never hardcode follow-up questions.
-- Always preserve the current `conversationId`.
-- Treat the backend as the source of truth for conversation flow.
+Auth (register/login/JWT/header) — **done**
+Chat send + conversationId flow — **done**
+Sidebar history (`GET /conversations`, `GET /conversations/:id`) — **done**
+Resume last conversation on reload — **done**
+RAG rendering — **no action needed** (`readyForRag` replies render as plain text; waits on backend RAG)
+Friendly 429/5xx in-chat messaging — **optional polish, pending**

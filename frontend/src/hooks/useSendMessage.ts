@@ -1,6 +1,6 @@
 import { useMutation } from '@tanstack/react-query';
 import { useConversation } from '../store/ChatContext';
-import { api } from '../api/client';
+import { sendMessage } from '../api/messages';
 import { Message, IntakeContext } from '../types/conversation';
 
 interface SendMessageArgs {
@@ -50,7 +50,7 @@ export function useSendMessage() {
 
       // Call API (null conversationId lets the backend create the
       // conversation with an auto-generated title)
-      const botResponse = await api.sendMessage(convId, text);
+      const botResponse = await sendMessage(convId, text);
 
       if (startedNew) {
         dispatch({
@@ -65,9 +65,14 @@ export function useSendMessage() {
       dispatch({ type: 'MESSAGE_RECEIVED', payload: { botMessage } });
     },
     onError: (error) => {
+      const backendMessage = (error as { response?: { data?: { error?: string } } })
+        ?.response?.data?.error;
       dispatch({
         type: 'SET_ERROR',
-        payload: error.message || 'Failed to generate response. Please try again.',
+        payload:
+          backendMessage ||
+          error.message ||
+          'Failed to generate response. Please try again.',
       });
     },
   });

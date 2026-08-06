@@ -14,6 +14,7 @@ export type ChatAction =
   | { type: 'CONVERSATION_STARTED'; payload: { conversationId: string } }
   | { type: 'MESSAGE_SENT'; payload: { userMessage: Message } }
   | { type: 'MESSAGE_RECEIVED'; payload: { botMessage: Message } }
+  | { type: 'REMOVE_MESSAGE'; payload: { messageId: string } }
   | { type: 'SET_INTAKE_CONTEXT'; payload: IntakeContext }
   | { type: 'RESET_CONVERSATION' }
   | { type: 'SET_ERROR'; payload: string }
@@ -63,6 +64,14 @@ export function chatReducer(state: ChatState, action: ChatAction): ChatState {
         messages: [...state.messages, action.payload.botMessage],
         isSending: false,
         error: null,
+      };
+
+    case 'REMOVE_MESSAGE':
+      return {
+        ...state,
+        messages: state.messages.filter(
+          (m) => m.message_id !== action.payload.messageId,
+        ),
       };
 
     case 'SET_INTAKE_CONTEXT':

@@ -7,7 +7,7 @@ import React, {
   ReactNode,
 } from 'react';
 import { chatReducer, initialChatState, ChatState, ChatAction } from './chatReducer';
-import { api } from '../api/client';
+import { getConversations, getConversation } from '../api/conversations';
 import { Conversation } from '../types/conversation';
 
 const ACTIVE_CONVERSATION_KEY = 'legalbot_active_conversation';
@@ -15,7 +15,6 @@ const ACTIVE_CONVERSATION_KEY = 'legalbot_active_conversation';
 interface ChatContextType {
   state: ChatState;
   dispatch: React.Dispatch<ChatAction>;
-  resetConversation: () => Promise<void>;
   loadConversations: () => Promise<void>;
   openConversation: (conversationId: string) => Promise<boolean>;
   newChat: () => void;
@@ -28,7 +27,7 @@ export const ChatProvider = ({ children }: { children: ReactNode }) => {
 
   const loadConversations = useCallback(async () => {
     try {
-      let conversations: Conversation[] = await api.getConversations();
+      let conversations: Conversation[] = await getConversations();
 
       const placeholders = conversations.filter(
         (c) => !c.title || c.title === 'New Conversation',
@@ -39,7 +38,7 @@ export const ChatProvider = ({ children }: { children: ReactNode }) => {
           placeholders.map((c) => c.conversation_id),
         );
         const details = await Promise.allSettled(
-          placeholders.map((c) => api.getConversation(c.conversation_id)),
+          placeholders.map((c) => getConversation(c.conversation_id)),
         );
         const keptTitles = new Map<string, string>();
 
@@ -77,7 +76,7 @@ export const ChatProvider = ({ children }: { children: ReactNode }) => {
   const openConversation = useCallback(async (conversationId: string) => {
     try {
       dispatch({ type: 'CONVERSATION_LOADING' });
-      const detail = await api.getConversation(conversationId);
+      const detail = await getConversation(conversationId);
 
       dispatch({
         type: 'CONVERSATION_LOADED',
@@ -124,18 +123,9 @@ export const ChatProvider = ({ children }: { children: ReactNode }) => {
     }
   }, [state.conversationId]);
 
-  const resetConversation = useCallback(async () => {
-    dispatch({ type: 'RESET_CONVERSATION' });
-    const conv = await api.startConversation();
-    dispatch({
-      type: 'CONVERSATION_STARTED',
-      payload: { conversationId: conv.conversation_id },
-    });
-  }, []);
-
   return (
     <ChatContext.Provider
-      value={{ state, dispatch, resetConversation, loadConversations, openConversation, newChat }}
+      value={{ state, dispatch, loadConversations, openConversation, newChat }}
     >
       {children}
     </ChatContext.Provider>

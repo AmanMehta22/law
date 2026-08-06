@@ -8,7 +8,7 @@ import { BotMessageCard } from './BotMessageCard';
 import { LoadingIndicator } from './LoadingIndicator';
 
 export const ConversationView: React.FC = () => {
-  const { state } = useConversation();
+  const { state, dispatch } = useConversation();
   const sendMessageMutation = useSendMessage();
   const bottomRef = useRef<HTMLDivElement>(null);
 
@@ -29,6 +29,10 @@ export const ConversationView: React.FC = () => {
   const handleRetry = () => {
     const lastUserMessage = [...messages].reverse().find((m) => m.sender === 'user');
     if (lastUserMessage) {
+      dispatch({
+        type: 'REMOVE_MESSAGE',
+        payload: { messageId: lastUserMessage.message_id },
+      });
       sendMessageMutation.mutate({ text: lastUserMessage.answer_text });
     }
   };
