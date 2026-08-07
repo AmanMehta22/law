@@ -9,8 +9,11 @@ interface ComposerProps {
 export const Composer: React.FC<ComposerProps> = ({ onSend, isSending }) => {
   const [text, setText] = useState('');
   const [isListening, setIsListening] = useState(false);
+  const [error, setError] = useState<string | null>(null);
   const textareaRef = useRef<HTMLTextAreaElement>(null);
   const recognitionRef = useRef<any>(null);
+  const baseTextRef = useRef('');
+  const finalTranscriptRef = useRef('');
 
   useEffect(() => {
     if (!isSending && textareaRef.current) {
@@ -18,13 +21,23 @@ export const Composer: React.FC<ComposerProps> = ({ onSend, isSending }) => {
     }
   }, [isSending]);
 
+  useEffect(() => {
+    return () => {
+      if (recognitionRef.current) {
+        recognitionRef.current.abort();
+      }
+    };
+  }, []);
+
   const toggleListening = () => {
     const windowObj = window as any;
     const SpeechRecognition =
       windowObj.SpeechRecognition || windowObj.webkitSpeechRecognition;
 
     if (!SpeechRecognition) {
-      alert('Voice input is not supported in this browser. Please type your query.');
+      setError(
+        'Voice input is not supported in this browser. Please use Chrome or Edge.',
+      );
       return;
     }
 
@@ -38,45 +51,84 @@ export const Composer: React.FC<ComposerProps> = ({ onSend, isSending }) => {
 
     try {
       const recognition = new SpeechRecognition();
-      recognition.continuous = false;
+      recognition.continuous = true;
       recognition.interimResults = true;
       recognition.lang = 'en-IN';
 
       recognition.onstart = () => {
+        baseTextRef.current = textareaRef.current?.value || '';
+        finalTranscriptRef.current = '';
+        setError(null);
         setIsListening(true);
       };
 
       recognition.onresult = (event: any) => {
-        let transcript = '';
+        let interimTranscript = '';
         for (let i = event.resultIndex; i < event.results.length; i++) {
-          transcript += event.results[i][0].transcript;
+          const result = event.results[i];
+          if (result.isFinal) {
+            finalTranscriptRef.current += result[0].transcript;
+          } else {
+            interimTranscript += result[0].transcript;
+          }
         }
-        setText(transcript);
+        setText(
+          baseTextRef.current + finalTranscriptRef.current + interimTranscript,
+        );
       };
 
-      recognition.onerror = () => {
+      recognition.onerror = (event: any) => {
+        if (recognitionRef.current !== recognition) return;
         setIsListening(false);
+        const reason = event?.error;
+        if (reason === 'not-allowed' || reason === 'service-not-allowed') {
+          setError(
+            'Microphone access is blocked. Allow it in your browser settings, then try again.',
+          );
+        } else if (reason === 'no-speech') {
+          setError(
+            'No speech detected. Check that your microphone works and is the default input device.',
+          );
+        } else if (reason === 'audio-capture') {
+          setError(
+            'No microphone found. Check your system audio/input settings.',
+          );
+        } else if (reason === 'network') {
+          setError(
+            'Speech-to-text needs an internet connection. Connect and try again.',
+          );
+        } else {
+          setError(
+            `Voice input stopped (${reason || 'unknown error'}). Try again.`,
+          );
+        }
       };
 
       recognition.onend = () => {
-        setIsListening(false);
+        if (recognitionRef.current === recognition) {
+          finalTranscriptRef.current = '';
+          baseTextRef.current = '';
+          setIsListening(false);
+        }
       };
 
       recognitionRef.current = recognition;
       recognition.start();
     } catch {
       setIsListening(false);
+      setError('Could not start voice input. Please try again.');
     }
   };
 
   const handleSubmit = (e?: React.FormEvent) => {
     if (e) e.preventDefault();
-    if (!text.trim() || isSending) return;
+    const value = textareaRef.current?.value || text;
+    if (!value.trim() || isSending) return;
     if (isListening && recognitionRef.current) {
       recognitionRef.current.stop();
       setIsListening(false);
     }
-    onSend(text.trim());
+    onSend(value.trim());
     setText('');
   };
 
@@ -101,6 +153,21 @@ export const Composer: React.FC<ComposerProps> = ({ onSend, isSending }) => {
               className="font-bold underline hover:text-red-900 cursor-pointer text-[11px]"
             >
               Stop
+            </button>
+          </div>
+        )}
+
+        {error && !isListening && (
+          <div className="flex items-center justify-between px-3 py-1 bg-amber-50 border border-amber-200 rounded-lg text-xs text-amber-900">
+            <span>
+              <span className="font-semibold">Voice input unavailable:</span>{' '}
+              {error}
+            </span>
+            <button
+              onClick={() => setError(null)}
+              className="font-bold underline hover:text-amber-700 cursor-pointer text-[11px] shrink-0 ml-2"
+            >
+              Dismiss
             </button>
           </div>
         )}

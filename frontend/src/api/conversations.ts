@@ -1,5 +1,7 @@
 import { apiClient, ApiEnvelope } from './client';
 import { Conversation, ConversationDetail, Message } from '../types/conversation';
+import { V2KnowledgeCard, ReviewStatus } from '../types/knowledgeCard';
+import { V1StatuteNode } from '../types/statute';
 
 interface BackendConversation {
   id: string;
@@ -14,6 +16,13 @@ interface BackendMessage {
   content: string;
   createdAt: string;
   conversationId: string;
+  cards_used?: V2KnowledgeCard[];
+  v1_nodes_used?: V1StatuteNode[];
+  suggested_follow_ups?: string[];
+  overall_confidence?: number;
+  overall_review_status?: ReviewStatus;
+  disclaimer?: string;
+  quick_replies?: string[];
 }
 
 interface BackendConversationWithMessages {
@@ -25,19 +34,8 @@ interface BackendConversationWithMessages {
   messages: BackendMessage[];
 }
 
-export async function startConversation(): Promise<Conversation> {
-  const response = await apiClient.post<ApiEnvelope<BackendConversation>>(
-    '/conversations',
-  );
-  const conv = response.data.data;
-  return {
-    conversation_id: conv.id,
-    title: conv.title,
-    created_at: conv.createdAt,
-    updated_at: conv.updatedAt,
-  };
-}
-
+// TODO: no limit/pagination today — fetch the full history in one call.
+// Revisit once a user can accumulate hundreds of conversations.
 export async function getConversations(): Promise<Conversation[]> {
   const response = await apiClient.get<ApiEnvelope<BackendConversation[]>>(
     '/conversations',
@@ -73,12 +71,13 @@ export async function getConversation(
         sender: m.role === 'USER' ? 'user' : 'bot',
         answer_text: m.content,
         answer_format: 'text',
-        cards_used: [],
-        v1_nodes_used: [],
-        overall_confidence: 1.0,
-        overall_review_status: 'reviewed',
-        disclaimer: '',
-        suggested_follow_ups: [],
+        cards_used: m.cards_used ?? [],
+        v1_nodes_used: m.v1_nodes_used ?? [],
+        overall_confidence: m.overall_confidence ?? 1.0,
+        overall_review_status: m.overall_review_status ?? 'reviewed',
+        disclaimer: m.disclaimer ?? '',
+        suggested_follow_ups: m.suggested_follow_ups ?? [],
+        ...(m.quick_replies ? { quick_replies: m.quick_replies } : {}),
       })),
   };
 }

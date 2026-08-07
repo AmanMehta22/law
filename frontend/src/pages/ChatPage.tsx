@@ -7,6 +7,7 @@ import { ConversationView } from '../components/ConversationView';
 import { Composer } from '../components/Composer';
 import { SidePanel } from '../components/SidePanel';
 import { UserData } from '../types/user';
+import { STORAGE_KEYS } from '../constants/storageKeys';
 
 export const ChatPage: React.FC<{ user: UserData | null; onLogout: () => void }> = ({
   user,
@@ -17,10 +18,10 @@ export const ChatPage: React.FC<{ user: UserData | null; onLogout: () => void }>
 
   useEffect(() => {
     loadConversations();
-    const saved = localStorage.getItem('legalbot_active_conversation');
+    const saved = localStorage.getItem(STORAGE_KEYS.activeConversation);
     if (saved) {
       openConversation(saved).then((ok) => {
-        if (!ok) localStorage.removeItem('legalbot_active_conversation');
+        if (!ok) localStorage.removeItem(STORAGE_KEYS.activeConversation);
       });
     }
   }, [loadConversations, openConversation]);
