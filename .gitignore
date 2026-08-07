@@ -1,5 +1,6 @@
 # Dependencies
 node_modules/
+bun.lock
 
 # Build output
 dist/
@@ -7,6 +8,8 @@ build/
 
 # Environment
 .env
+.env.*
+!.env.example
 
 
 # Logs
@@ -42,3 +45,4 @@ coverage/
 
 
 /generated/prisma
+
