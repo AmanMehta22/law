@@ -10,10 +10,10 @@ export const Composer: React.FC<ComposerProps> = ({ onSend, isSending }) => {
   const [text, setText] = useState('');
   const [isListening, setIsListening] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const [speechLanguage, setSpeechLanguage] = useState<'en-IN' | 'hi-IN'>('en-IN');
   const textareaRef = useRef<HTMLTextAreaElement>(null);
   const recognitionRef = useRef<any>(null);
   const baseTextRef = useRef('');
-  const finalTranscriptRef = useRef('');
 
   useEffect(() => {
     if (!isSending && textareaRef.current) {
@@ -24,15 +24,16 @@ export const Composer: React.FC<ComposerProps> = ({ onSend, isSending }) => {
   useEffect(() => {
     return () => {
       if (recognitionRef.current) {
-        recognitionRef.current.abort();
+        recognitionRef.current.stop();
       }
     };
   }, []);
 
-  const toggleListening = () => {
-    const windowObj = window as any;
+  const startListening = async () => {
+    setError(null);
+
     const SpeechRecognition =
-      windowObj.SpeechRecognition || windowObj.webkitSpeechRecognition;
+      (window as any).SpeechRecognition || (window as any).webkitSpeechRecognition;
 
     if (!SpeechRecognition) {
       setError(
@@ -41,92 +42,91 @@ export const Composer: React.FC<ComposerProps> = ({ onSend, isSending }) => {
       return;
     }
 
-    if (isListening) {
-      if (recognitionRef.current) {
-        recognitionRef.current.stop();
-      }
-      setIsListening(false);
-      return;
-    }
+    baseTextRef.current = textareaRef.current?.value || text;
 
     try {
-      const recognition = new SpeechRecognition();
-      recognition.continuous = true;
-      recognition.interimResults = true;
-      recognition.lang = 'en-IN';
+      const rec = new SpeechRecognition();
+      rec.continuous = true;
+      rec.interimResults = true;
+      rec.lang = speechLanguage;
 
-      recognition.onstart = () => {
-        baseTextRef.current = textareaRef.current?.value || '';
-        finalTranscriptRef.current = '';
-        setError(null);
+      rec.onstart = () => {
         setIsListening(true);
       };
 
-      recognition.onresult = (event: any) => {
+      rec.onresult = (event: any) => {
         let interimTranscript = '';
-        for (let i = event.resultIndex; i < event.results.length; i++) {
-          const result = event.results[i];
-          if (result.isFinal) {
-            finalTranscriptRef.current += result[0].transcript;
+        let finalTranscript = '';
+
+        for (let i = 0; i < event.results.length; ++i) {
+          const transcript = event.results[i][0].transcript;
+          if (event.results[i].isFinal) {
+            finalTranscript += transcript;
           } else {
-            interimTranscript += result[0].transcript;
+            interimTranscript += transcript;
           }
         }
-        setText(
-          baseTextRef.current + finalTranscriptRef.current + interimTranscript,
-        );
+
+        const combinedFinal =
+          baseTextRef.current +
+          (baseTextRef.current && finalTranscript ? ' ' : '') +
+          finalTranscript;
+        const currentText =
+          combinedFinal +
+          (interimTranscript
+            ? (combinedFinal ? ' ' : '') + interimTranscript
+            : '');
+
+        setText(currentText);
       };
 
-      recognition.onerror = (event: any) => {
-        if (recognitionRef.current !== recognition) return;
-        setIsListening(false);
-        const reason = event?.error;
-        if (reason === 'not-allowed' || reason === 'service-not-allowed') {
+      rec.onerror = (event: any) => {
+        console.error('Speech recognition error:', event.error);
+        if (event.error === 'not-allowed') {
           setError(
             'Microphone access is blocked. Allow it in your browser settings, then try again.',
           );
-        } else if (reason === 'no-speech') {
-          setError(
-            'No speech detected. Check that your microphone works and is the default input device.',
-          );
-        } else if (reason === 'audio-capture') {
-          setError(
-            'No microphone found. Check your system audio/input settings.',
-          );
-        } else if (reason === 'network') {
-          setError(
-            'Speech-to-text needs an internet connection. Connect and try again.',
-          );
         } else {
-          setError(
-            `Voice input stopped (${reason || 'unknown error'}). Try again.`,
-          );
+          setError(`Voice input failed: ${event.error}. Try again.`);
         }
+        setIsListening(false);
       };
 
-      recognition.onend = () => {
-        if (recognitionRef.current === recognition) {
-          finalTranscriptRef.current = '';
-          baseTextRef.current = '';
-          setIsListening(false);
-        }
+      rec.onend = () => {
+        setIsListening(false);
+        recognitionRef.current = null;
       };
 
-      recognitionRef.current = recognition;
-      recognition.start();
+      recognitionRef.current = rec;
+      rec.start();
     } catch {
-      setIsListening(false);
       setError('Could not start voice input. Please try again.');
     }
+  };
+
+  const toggleListening = () => {
+    if (isListening) {
+      setIsListening(false);
+      if (recognitionRef.current) {
+        recognitionRef.current.stop();
+        recognitionRef.current = null;
+      }
+      return;
+    }
+    startListening();
   };
 
   const handleSubmit = (e?: React.FormEvent) => {
     if (e) e.preventDefault();
     const value = textareaRef.current?.value || text;
     if (!value.trim() || isSending) return;
-    if (isListening && recognitionRef.current) {
-      recognitionRef.current.stop();
+    if (isListening) {
       setIsListening(false);
+      if (recognitionRef.current) {
+        recognitionRef.current.stop();
+        recognitionRef.current = null;
+      }
+      return;
     }
     onSend(value.trim());
     setText('');
@@ -139,6 +139,11 @@ export const Composer: React.FC<ComposerProps> = ({ onSend, isSending }) => {
     }
   };
 
+  const isSpeechRecognitionSupported =
+    typeof window !== 'undefined' &&
+    (typeof (window as any).SpeechRecognition !== 'undefined' ||
+      typeof (window as any).webkitSpeechRecognition !== 'undefined');
+
   return (
     <div className="sticky bottom-0 z-30 bg-neutral-100/90 backdrop-blur-md pt-2 pb-4 px-4 border-t border-neutral-300 shadow-md">
       <div className="max-w-2xl mx-auto space-y-1.5">
@@ -146,7 +151,7 @@ export const Composer: React.FC<ComposerProps> = ({ onSend, isSending }) => {
           <div className="flex items-center justify-between px-3 py-1 bg-red-50 border border-red-200 rounded-lg text-xs text-red-700 animate-pulse">
             <span className="font-semibold flex items-center gap-1.5">
               <span className="w-2 h-2 rounded-full bg-red-600 animate-ping" />
-              Listening... Speak your complaint clearly.
+              Listening ({speechLanguage === 'en-IN' ? 'English' : 'Hindi'})... text appears as you speak.
             </span>
             <button
               onClick={toggleListening}
@@ -169,6 +174,38 @@ export const Composer: React.FC<ComposerProps> = ({ onSend, isSending }) => {
             >
               Dismiss
             </button>
+          </div>
+        )}
+
+        {isSpeechRecognitionSupported && (
+          <div className="flex items-center justify-between text-xs text-neutral-600 px-1 select-none">
+            <span className="text-[11px] text-neutral-500 font-medium">Speech language:</span>
+            <div className="flex gap-1.5">
+              <button
+                type="button"
+                onClick={() => setSpeechLanguage('en-IN')}
+                disabled={isListening}
+                className={`px-2 py-0.5 rounded text-[11px] font-medium transition-all duration-150 cursor-pointer ${
+                  speechLanguage === 'en-IN'
+                    ? 'bg-[#1E3A5F] text-white shadow-xs'
+                    : 'bg-neutral-200/80 text-neutral-700 hover:bg-neutral-300/80'
+                } disabled:opacity-50`}
+              >
+                English (IN)
+              </button>
+              <button
+                type="button"
+                onClick={() => setSpeechLanguage('hi-IN')}
+                disabled={isListening}
+                className={`px-2 py-0.5 rounded text-[11px] font-medium transition-all duration-150 cursor-pointer ${
+                  speechLanguage === 'hi-IN'
+                    ? 'bg-[#1E3A5F] text-white shadow-xs'
+                    : 'bg-neutral-200/80 text-neutral-700 hover:bg-neutral-300/80'
+                } disabled:opacity-50`}
+              >
+                हिंदी (HI)
+              </button>
+            </div>
           </div>
         )}
 
