@@ -78,7 +78,7 @@ apiClient.interceptors.response.use(
       localStorage.removeItem(STORAGE_KEYS.user);
       localStorage.removeItem(STORAGE_KEYS.activeConversation);
       if (window.location.pathname !== '/auth') {
-        window.location.href = '/auth';
+        window.location.reload();
       }
     }
     return Promise.reject(error);
