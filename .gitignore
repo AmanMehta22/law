@@ -7,7 +7,7 @@ build/
 
 # Environment
 .env
-/RAG/data
+RAG/data
 # Logs
 logs/
 *.log
