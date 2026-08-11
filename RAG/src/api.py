@@ -1,49 +1,41 @@
-
-from pydantic import BaseModel, Field
 from fastapi import FastAPI, HTTPException
+from pydantic import BaseModel, Field
 
 from src.config import TOP_K
-from src.retriever import RAGRetriever
 from src.vectorStore import VectorStoreManager
-
+from src.retriever import RAGRetriever
 
 
 app = FastAPI(
     title="Legal RAG API",
-    description="RAG API for the Consumer Protection Act knowledge base",
+    description="Legal RAG retrieval API",
     version="1.0.0"
 )
 
 
 # --------------------------------------------------
-# Request / Response Schemas
+# Request Schema
 # --------------------------------------------------
 
 class QueryRequest(BaseModel):
     query: str = Field(
         ...,
         min_length=1,
-        description="User's legal question"
+        description="User's legal query"
     )
 
 
-class Source(BaseModel):
-    concept_id: str | None = None
-    concept_type: str | None = None
-    title: str | None = None
-
+# --------------------------------------------------
+# Response Schema
+# --------------------------------------------------
 
 class QueryResponse(BaseModel):
     query: str
-    sources: list[Source]
-
-
-class HealthResponse(BaseModel):
-    status: str
+    results: list[dict]
 
 
 # --------------------------------------------------
-# Initialize RAG components ONCE
+# Initialize Vector Store and Retriever
 # --------------------------------------------------
 
 vector_store_manager = VectorStoreManager()
@@ -60,10 +52,7 @@ retriever = RAGRetriever(
 # Health Check
 # --------------------------------------------------
 
-@app.get(
-    "/health",
-    response_model=HealthResponse
-)
+@app.get("/health")
 def health_check():
 
     return {
@@ -72,7 +61,7 @@ def health_check():
 
 
 # --------------------------------------------------
-# Query Endpoint
+# Query
 # --------------------------------------------------
 
 @app.post(
@@ -83,36 +72,27 @@ def query_rag(request: QueryRequest):
 
     try:
 
-        results = retriever.retrieve(
+        documents = retriever.retrieve(
             request.query
         )
 
-        sources = []
+        results = []
 
-        for document in results:
+        for document in documents:
 
-            sources.append(
-                Source(
-                    concept_id=document.metadata.get(
-                        "concept_id"
-                    ),
-                    concept_type=document.metadata.get(
-                        "concept_type"
-                    ),
-                    title=document.metadata.get(
-                        "title"
-                    )
-                )
-            )
+            results.append({
+                "content": document.page_content,
+                "metadata": document.metadata
+            })
 
-        return QueryResponse(
-            query=request.query,
-            sources=sources
-        )
+        return {
+            "query": request.query,
+            "results": results
+        }
 
     except Exception as e:
 
         raise HTTPException(
             status_code=500,
-            detail="An error occurred while processing the query."
+            detail=str(e)
         )
