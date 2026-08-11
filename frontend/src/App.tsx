@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { BrowserRouter, Routes, Route, Navigate, useNavigate } from 'react-router-dom';
+import { MemoryRouter, Routes, Route, Navigate, useNavigate } from 'react-router-dom';
 import { QueryClientProvider } from '@tanstack/react-query';
 import { queryClient } from './utils/queryClient';
 import { ChatProvider } from './store/ChatContext';
@@ -85,11 +85,11 @@ export default function App() {
   return (
     <QueryClientProvider client={queryClient}>
       <ChatProvider>
-        <BrowserRouter>
+        <MemoryRouter>
           <ErrorBoundary>
             <MainAppRoutes />
           </ErrorBoundary>
-        </BrowserRouter>
+        </MemoryRouter>
       </ChatProvider>
     </QueryClientProvider>
   );
