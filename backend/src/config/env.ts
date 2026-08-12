@@ -12,4 +12,5 @@ export const env = {
   GEMINI_API_KEY: process.env.GEMINI_API_KEY ?? "",
   LOG_LEVEL: process.env.LOG_LEVEL || "debug",
   ENABLE_LOGS: process.env.ENABLE_LOGS || true,
+  RAG_API_URL: process.env.RAG_API_URL ?? "http://localhost:8000",
 };
