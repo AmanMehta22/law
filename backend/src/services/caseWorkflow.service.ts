@@ -7,6 +7,12 @@ import { titleService } from "./title.service";
 import { formatConversation } from "../utils/conversationFormatter";
 import { formatRequirements } from "../utils/requirementFormatter";
 import { CONSUMER_INFORMATION_REQUIREMENTS } from "../knowledge/consumer/consumer.fields";
+import { llmService } from "./llm.service";
+import { ragService } from "./rag.service";
+import { retrievalQueryService } from "./retrievalQuery.service";
+
+import { CASE_ANSWER_PROMPT } from "../prompts/caseAnswer.prompt";
+import { formatCaseAnswerPrompt } from "../utils/caseAnswerFormatter";
 
 import { logger } from "../logger";
 class CaseWorkflowService {
@@ -111,17 +117,55 @@ class CaseWorkflowService {
     }
 
     // 7. Ready for RAG
+    // 7. Generate retrieval query
     logger.info("Information complete");
     logger.info("Ready for RAG");
 
-    // TODO: Replace this with ragService.answer()
+    const retrievalQueryTimer = logger.startTimer();
 
-    const assistantMessage = await messageService.createAssistantMessage(
-      conversation.id,
-      "✅ Enough information has been collected. RAG will be called next.",
+    const retrievalQuery = await retrievalQueryService.generate(
+      formattedConversation,
     );
 
-    workflowTimer.done("Workflow completed");
+    retrievalQueryTimer.done("Retrieval query generated", {
+      retrievalQuery,
+    });
+
+    // 8. Retrieve relevant legal context
+    const ragTimer = logger.startTimer();
+
+    const ragResponse = await ragService.query(retrievalQuery);
+
+    ragTimer.done("RAG retrieval completed", {
+      resultCount: ragResponse.results.length,
+    });
+
+    // 9. Build final answer prompt
+    const answerPrompt = formatCaseAnswerPrompt({
+      conversation: formattedConversation,
+      currentMessage: message,
+      retrievedResults: ragResponse.results,
+    });
+
+    // 10. Generate final answer
+    const llmTimer = logger.startTimer();
+
+    const answer = await llmService.generate({
+      systemPrompt: CASE_ANSWER_PROMPT,
+      userPrompt: answerPrompt,
+    });
+
+    llmTimer.done("Case answer generated");
+
+    // 11. Save assistant response
+    const assistantMessage = await messageService.createAssistantMessage(
+      conversation.id,
+      answer,
+    );
+
+    logger.info("Assistant response stored");
+
+    workflowTimer.done("Case Workflow completed");
 
     return {
       conversationId: conversation.id,
