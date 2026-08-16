@@ -18,6 +18,7 @@ export const errorMiddleware = (
 
   return res.status(500).json({
     success: false,
-    error: "Internal Server Error",
+    error:
+      "I'm temporarily unable to process this request. Please try again in a moment.",
   });
 };

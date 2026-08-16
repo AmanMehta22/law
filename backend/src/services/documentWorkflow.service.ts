@@ -1,6 +1,8 @@
 import { conversationService } from "./conversation.service";
 import { messageService } from "./message.service";
 import { titleService } from "./title.service";
+import { ragAnswerService } from "./ragAnswer.service";
+import { DOCUMENT_ANSWER_PROMPT } from "../prompts/documentAnswer.prompt";
 import { logger } from "../logger";
 
 class DocumentWorkflowService {
@@ -9,6 +11,7 @@ class DocumentWorkflowService {
 
     logger.info("Starting Document Workflow");
 
+    // 1. Create conversation if needed
     let conversation;
 
     if (!conversationId) {
@@ -22,23 +25,20 @@ class DocumentWorkflowService {
       };
     }
 
+    // 2. Save user message
     await messageService.createUserMessage(conversation.id, message);
 
-    // TODO
-    // Collect document-specific information.
-
-    const assistantMessage = await messageService.createAssistantMessage(
-      conversation.id,
-      "Document workflow not implemented yet.",
-    );
+    // 3. Retrieve legal context and generate a grounded document draft
+    const result = await ragAnswerService.retrieveAndAnswer({
+      conversationId: conversation.id,
+      currentMessage: message,
+      systemPrompt: DOCUMENT_ANSWER_PROMPT,
+      retrievalQuery: message,
+    });
 
     timer.done("Document Workflow completed");
 
-    return {
-      conversationId: conversation.id,
-      readyForRag: false,
-      reply: assistantMessage.content,
-    };
+    return result;
   }
 }
 

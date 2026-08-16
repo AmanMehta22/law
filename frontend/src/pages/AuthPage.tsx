@@ -8,7 +8,6 @@ import {
   Lock,
   Eye,
   EyeOff,
-  ShieldCheck,
   CheckCircle2,
   XCircle,
   ArrowRight,
@@ -219,18 +218,6 @@ export const AuthPage: React.FC<AuthPageProps> = ({ onAuthenticate }) => {
 
             {/* Value Highlights */}
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
-              <div className="bg-white p-5 rounded-xl border border-neutral-200 shadow-2xs flex flex-col justify-between">
-                <div className="w-9 h-9 rounded-lg bg-[#EAF1F8] text-[#1E3A5F] flex items-center justify-center mb-3">
-                  <ShieldCheck className="w-5 h-5" />
-                </div>
-                <div>
-                  <h3 className="font-bold text-neutral-900 text-sm mb-1">CPA 2019 Citations</h3>
-                  <p className="text-xs text-neutral-600 leading-relaxed">
-                    Verified legal citations with exact section numbers and statute references.
-                  </p>
-                </div>
-              </div>
-
               <div className="bg-white p-5 rounded-xl border border-neutral-200 shadow-2xs flex flex-col justify-between">
                 <div className="w-9 h-9 rounded-lg bg-[#EAF1F8] text-[#1E3A5F] flex items-center justify-center mb-3">
                   <FileText className="w-5 h-5" />

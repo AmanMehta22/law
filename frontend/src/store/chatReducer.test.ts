@@ -11,7 +11,6 @@ function makeMessage(overrides: Partial<Message> = {}): Message {
     answer_text: 'hello',
     answer_format: 'text',
     cards_used: [],
-    v1_nodes_used: [],
     overall_confidence: 1,
     overall_review_status: 'reviewed',
     disclaimer: '',

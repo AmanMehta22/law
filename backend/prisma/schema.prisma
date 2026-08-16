@@ -40,6 +40,16 @@ model Message {
   role    MessageRole
   content String
 
+  answerFormat       String?
+  cardsUsed          Json?
+  overallConfidence  Float?
+  overallReviewStatus String?
+  disclaimer         String?
+  suggestedFollowUps Json?
+  quickReplies       Json?
+  isLowConfidence    Boolean?
+  isOutOfScope       Boolean?
+
   createdAt DateTime @default(now())
 
   conversationId String

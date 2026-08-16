@@ -1,6 +1,8 @@
 import { conversationService } from "./conversation.service";
 import { messageService } from "./message.service";
 import { titleService } from "./title.service";
+import { ragAnswerService } from "./ragAnswer.service";
+import { GENERAL_ANSWER_PROMPT } from "../prompts/generalAnswer.prompt";
 import { logger } from "../logger";
 
 class GeneralWorkflowService {
@@ -9,6 +11,7 @@ class GeneralWorkflowService {
 
     logger.info("Starting General Workflow");
 
+    // 1. Create conversation if needed
     let conversation;
 
     if (!conversationId) {
@@ -22,23 +25,20 @@ class GeneralWorkflowService {
       };
     }
 
+    // 2. Save user message
     await messageService.createUserMessage(conversation.id, message);
 
-    // TODO
-    // Call RAG directly.
-
-    const assistantMessage = await messageService.createAssistantMessage(
-      conversation.id,
-      "General workflow not implemented yet.",
-    );
+    // 3. Retrieve legal context and generate a grounded answer
+    const result = await ragAnswerService.retrieveAndAnswer({
+      conversationId: conversation.id,
+      currentMessage: message,
+      systemPrompt: GENERAL_ANSWER_PROMPT,
+      retrievalQuery: message,
+    });
 
     timer.done("General Workflow completed");
 
-    return {
-      conversationId: conversation.id,
-      readyForRag: true,
-      reply: assistantMessage.content,
-    };
+    return result;
   }
 }
 

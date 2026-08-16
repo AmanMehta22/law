@@ -2,7 +2,9 @@ from pathlib import Path
 
 from langchain_chroma import Chroma
 
+# pyrefly: ignore [missing-import]
 from src.config import CHROMA_PATH, COLLECTION_NAME
+# pyrefly: ignore [missing-import]
 from src.embeddings import EmbeddingManager
 
 
@@ -28,6 +30,22 @@ class VectorStoreManager:
         )
 
         return vector_store
+
+    def reset(self) -> None:
+        """
+        Delete the existing collection so it can be rebuilt from scratch.
+        """
+
+        store = Chroma(
+            collection_name=COLLECTION_NAME,
+            embedding_function=self.embedding_model,
+            persist_directory=str(CHROMA_PATH)
+        )
+
+        try:
+            store.delete_collection()
+        except Exception:
+            pass
 
     def load(self):
         """

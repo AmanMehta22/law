@@ -1,19 +1,20 @@
 import { apiClient, ApiEnvelope } from './client';
-import { Message, IntakeContext } from '../types/conversation';
+import { Message, IntakeContext, AnswerFormat } from '../types/conversation';
 import { V2KnowledgeCard, ReviewStatus } from '../types/knowledgeCard';
-import { V1StatuteNode } from '../types/statute';
 
 export interface BackendMessageResult {
   conversationId: string;
   readyForRag: boolean;
   reply: string;
+  answer_format?: AnswerFormat;
   cards_used?: V2KnowledgeCard[];
-  v1_nodes_used?: V1StatuteNode[];
   suggested_follow_ups?: string[];
   overall_confidence?: number;
   overall_review_status?: ReviewStatus;
   disclaimer?: string;
   quick_replies?: string[];
+  is_low_confidence?: boolean;
+  is_out_of_scope?: boolean;
 }
 
 export async function sendMessage(
@@ -36,13 +37,18 @@ export async function sendMessage(
     created_at: new Date().toISOString(),
     sender: 'bot',
     answer_text: result.reply,
-    answer_format: 'text',
+    answer_format: result.answer_format ?? 'text',
     cards_used: result.cards_used ?? [],
-    v1_nodes_used: result.v1_nodes_used ?? [],
     overall_confidence: result.overall_confidence ?? 1.0,
     overall_review_status: result.overall_review_status ?? 'reviewed',
     disclaimer: result.disclaimer ?? '',
     suggested_follow_ups: result.suggested_follow_ups ?? [],
+    ...(result.is_low_confidence !== undefined
+      ? { is_low_confidence: result.is_low_confidence }
+      : {}),
+    ...(result.is_out_of_scope !== undefined
+      ? { is_out_of_scope: result.is_out_of_scope }
+      : {}),
     ...(result.quick_replies ? { quick_replies: result.quick_replies } : {}),
   };
 }

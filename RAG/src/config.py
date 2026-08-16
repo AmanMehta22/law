@@ -7,6 +7,8 @@ load_dotenv(PROJECT_ROOT / ".env")
 
 DATA_PATH = (PROJECT_ROOT/"legal-dataset"/"acts"/"consumer-protection-act-2019"/"final"/"v2-knowledge-cards.json")
 
+V1_DATA_PATH = (PROJECT_ROOT/"legal-dataset"/"acts"/"consumer-protection-act-2019"/"final"/"v1-statute.json")
+
 
 
 CHROMA_PATH = (PROJECT_ROOT/"RAG"/ "data"/ "chroma_db")

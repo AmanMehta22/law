@@ -13,7 +13,6 @@ const app = express();
 
 app.use(cors());
 app.use(helmet());
-app.use(errorMiddleware);
 app.use(express.json());
 
 app.use("/health", healthRoutes);
@@ -21,4 +20,5 @@ app.use("/auth", authRoutes);
 app.use("/conversations", conversationRoutes);
 app.use("/messages", messageRoutes);
 // app.use("/test", testRoutes);
+app.use(errorMiddleware);
 export default app;

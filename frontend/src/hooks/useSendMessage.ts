@@ -39,7 +39,6 @@ export function useSendMessage() {
         answer_text: text,
         answer_format: 'text',
         cards_used: [],
-        v1_nodes_used: [],
         overall_confidence: 1.0,
         overall_review_status: 'reviewed',
         disclaimer: '',

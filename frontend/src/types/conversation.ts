@@ -1,5 +1,4 @@
 import { V2KnowledgeCard, ReviewStatus } from './knowledgeCard';
-import { V1StatuteNode } from './statute';
 
 export type AnswerFormat = 'text' | 'checklist' | 'document_draft' | 'quick_reply';
 
@@ -28,7 +27,6 @@ export interface Message {
   checklist_ref?: V2KnowledgeCard | null;
   document_draft?: DocumentDraft | null;
   cards_used: V2KnowledgeCard[];
-  v1_nodes_used: V1StatuteNode[];
   overall_confidence: number;
   overall_review_status: ReviewStatus;
   disclaimer: string;

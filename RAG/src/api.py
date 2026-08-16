@@ -23,6 +23,12 @@ class QueryRequest(BaseModel):
         min_length=1,
         description="User's legal query"
     )
+    top_k: int | None = Field(
+        default=None,
+        ge=1,
+        le=20,
+        description="Number of results to return (defaults to TOP_K)"
+    )
 
 
 # --------------------------------------------------
@@ -73,7 +79,8 @@ def query_rag(request: QueryRequest):
     try:
 
         documents = retriever.retrieve(
-            request.query
+            request.query,
+            k=request.top_k
         )
 
         results = []

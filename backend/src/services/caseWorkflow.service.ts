@@ -7,12 +7,8 @@ import { titleService } from "./title.service";
 import { formatConversation } from "../utils/conversationFormatter";
 import { formatRequirements } from "../utils/requirementFormatter";
 import { CONSUMER_INFORMATION_REQUIREMENTS } from "../knowledge/consumer/consumer.fields";
-import { llmService } from "./llm.service";
-import { ragService } from "./rag.service";
-import { retrievalQueryService } from "./retrievalQuery.service";
-
+import { ragAnswerService } from "./ragAnswer.service";
 import { CASE_ANSWER_PROMPT } from "../prompts/caseAnswer.prompt";
-import { formatCaseAnswerPrompt } from "../utils/caseAnswerFormatter";
 
 import { logger } from "../logger";
 class CaseWorkflowService {
@@ -49,15 +45,9 @@ class CaseWorkflowService {
     }
 
     // 2. Save user message
-    const saveMessageTimer = logger.startTimer();
-
     await messageService.createUserMessage(conversation.id, message);
 
-    saveMessageTimer.done("User message saved");
-
     // 3. Load conversation with messages
-    const loadConversationTimer = logger.startTimer();
-
     const conversationWithMessages =
       await conversationRepository.findByIdWithMessages(conversation.id);
 
@@ -69,24 +59,16 @@ class CaseWorkflowService {
       throw new Error("Conversation not found.");
     }
 
-    loadConversationTimer.done("Conversation loaded", {
-      messageCount: conversationWithMessages.messages.length,
-    });
-
     // 4. Format conversation
     const formattedConversation = formatConversation(
       conversationWithMessages.messages,
     );
 
     // 5. Information Checker
-    const checkerTimer = logger.startTimer();
-
     const check = await informationCheckerService.check(
       formattedConversation,
       formatRequirements(CONSUMER_INFORMATION_REQUIREMENTS),
     );
-
-    checkerTimer.done("Information Checker completed", check);
 
     // 6. Ask follow-up question
     if (!check.readyForRag) {
@@ -116,62 +98,20 @@ class CaseWorkflowService {
       };
     }
 
-    // 7. Ready for RAG
-    // 7. Generate retrieval query
+    // 7. Ready for RAG: retrieve legal context and generate grounded answer
     logger.info("Information complete");
     logger.info("Ready for RAG");
 
-    const retrievalQueryTimer = logger.startTimer();
-
-    const retrievalQuery = await retrievalQueryService.generate(
-      formattedConversation,
-    );
-
-    retrievalQueryTimer.done("Retrieval query generated", {
-      retrievalQuery,
-    });
-
-    // 8. Retrieve relevant legal context
-    const ragTimer = logger.startTimer();
-
-    const ragResponse = await ragService.query(retrievalQuery);
-
-    ragTimer.done("RAG retrieval completed", {
-      resultCount: ragResponse.results.length,
-    });
-
-    // 9. Build final answer prompt
-    const answerPrompt = formatCaseAnswerPrompt({
-      conversation: formattedConversation,
+    const result = await ragAnswerService.retrieveAndAnswer({
+      conversationId: conversation.id,
       currentMessage: message,
-      retrievedResults: ragResponse.results,
-    });
-
-    // 10. Generate final answer
-    const llmTimer = logger.startTimer();
-
-    const answer = await llmService.generate({
       systemPrompt: CASE_ANSWER_PROMPT,
-      userPrompt: answerPrompt,
+      formattedConversation,
     });
-
-    llmTimer.done("Case answer generated");
-
-    // 11. Save assistant response
-    const assistantMessage = await messageService.createAssistantMessage(
-      conversation.id,
-      answer,
-    );
-
-    logger.info("Assistant response stored");
 
     workflowTimer.done("Case Workflow completed");
 
-    return {
-      conversationId: conversation.id,
-      readyForRag: true,
-      reply: assistantMessage.content,
-    };
+    return result;
   }
 }
 

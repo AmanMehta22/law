@@ -1,7 +1,11 @@
 import { apiClient, ApiEnvelope } from './client';
-import { Conversation, ConversationDetail, Message } from '../types/conversation';
+import {
+  Conversation,
+  ConversationDetail,
+  Message,
+  AnswerFormat,
+} from '../types/conversation';
 import { V2KnowledgeCard, ReviewStatus } from '../types/knowledgeCard';
-import { V1StatuteNode } from '../types/statute';
 
 interface BackendConversation {
   id: string;
@@ -16,13 +20,15 @@ interface BackendMessage {
   content: string;
   createdAt: string;
   conversationId: string;
+  answer_format?: AnswerFormat;
   cards_used?: V2KnowledgeCard[];
-  v1_nodes_used?: V1StatuteNode[];
   suggested_follow_ups?: string[];
   overall_confidence?: number;
   overall_review_status?: ReviewStatus;
   disclaimer?: string;
   quick_replies?: string[];
+  is_low_confidence?: boolean;
+  is_out_of_scope?: boolean;
 }
 
 interface BackendConversationWithMessages {
@@ -70,13 +76,18 @@ export async function getConversation(
         created_at: m.createdAt,
         sender: m.role === 'USER' ? 'user' : 'bot',
         answer_text: m.content,
-        answer_format: 'text',
+        answer_format: m.answer_format ?? 'text',
         cards_used: m.cards_used ?? [],
-        v1_nodes_used: m.v1_nodes_used ?? [],
         overall_confidence: m.overall_confidence ?? 1.0,
         overall_review_status: m.overall_review_status ?? 'reviewed',
         disclaimer: m.disclaimer ?? '',
         suggested_follow_ups: m.suggested_follow_ups ?? [],
+        ...(m.is_low_confidence !== undefined
+          ? { is_low_confidence: m.is_low_confidence }
+          : {}),
+        ...(m.is_out_of_scope !== undefined
+          ? { is_out_of_scope: m.is_out_of_scope }
+          : {}),
         ...(m.quick_replies ? { quick_replies: m.quick_replies } : {}),
       })),
   };

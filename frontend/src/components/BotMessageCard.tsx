@@ -1,8 +1,10 @@
 import React, { useState } from 'react';
-import { Scale, Volume2, VolumeX, Copy, Check } from 'lucide-react';
+import { Scale, Volume2, VolumeX, Copy, Check, AlertTriangle } from 'lucide-react';
 import { Message } from '../types/conversation';
 import { TextAnswer } from './TextAnswer';
 import { QuickReplyRow } from './QuickReplyRow';
+import { SourceCards } from './SourceCards';
+import { cn } from '../utils/cn';
 
 interface BotMessageCardProps {
   message: Message;
@@ -107,6 +109,43 @@ export const BotMessageCard: React.FC<BotMessageCardProps> = ({
         </div>
 
         <TextAnswer text={message.answer_text} />
+
+        {/* Low-confidence warning */}
+        {message.is_low_confidence && (
+          <div className="flex items-start gap-2 rounded-lg bg-[#FBF1DE] border border-[#A66A00]/30 text-[#A66A00] px-3 py-2">
+            <AlertTriangle className="w-3.5 h-3.5 mt-0.5 shrink-0" />
+            <p className="text-xs leading-relaxed">
+              I could not find enough verified legal material to answer this
+              confidently. Please verify the details with a qualified legal
+              professional.
+            </p>
+          </div>
+        )}
+
+        {/* Answer confidence + review status meta */}
+        {(message.overall_review_status === 'reviewed' ||
+          message.overall_confidence !== 1.0) && (
+          <div className="flex flex-wrap items-center gap-1.5">
+            <span
+              className={cn(
+                'px-2 py-0.5 rounded-full text-[10px] font-semibold border',
+                message.overall_review_status === 'reviewed'
+                  ? 'bg-emerald-50 text-emerald-700 border-emerald-200'
+                  : 'bg-[#FBF1DE] text-[#A66A00] border-[#E3C88F]',
+              )}
+            >
+              {message.overall_review_status === 'reviewed'
+                ? 'Verified sources'
+                : 'Draft sources'}
+            </span>
+            <span className="px-2 py-0.5 rounded-full text-[10px] font-semibold bg-[#EAF1F8] text-[#1E3A5F] border border-[#D6DAE0]">
+              {Math.round(message.overall_confidence * 100)}% confidence
+            </span>
+          </div>
+        )}
+
+        {/* Sources used */}
+        <SourceCards cards={message.cards_used} />
 
         {/* Quick replies if provided */}
         {message.quick_replies && message.quick_replies.length > 0 && (
