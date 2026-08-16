@@ -5,6 +5,7 @@ import { queryClient } from './utils/queryClient';
 import { ChatProvider } from './store/ChatContext';
 import { AuthPage } from './pages/AuthPage';
 import { ChatPage } from './pages/ChatPage';
+import { CalculatorsPage } from './pages/CalculatorsPage';
 import { UserData } from './types/user';
 import { STORAGE_KEYS } from './constants/storageKeys';
 import { ErrorBoundary } from './components/ErrorBoundary';
@@ -68,6 +69,16 @@ const MainAppRoutes: React.FC = () => {
         element={
           isAuthenticated ? (
             <ChatPage user={user} onLogout={handleLogout} />
+          ) : (
+            <Navigate to="/auth" replace />
+          )
+        }
+      />
+      <Route
+        path="/calculators"
+        element={
+          isAuthenticated ? (
+            <CalculatorsPage user={user} onLogout={handleLogout} />
           ) : (
             <Navigate to="/auth" replace />
           )

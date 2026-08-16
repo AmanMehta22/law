@@ -1,0 +1,111 @@
+{
+  "k": 5,
+  "questions": 100,
+  "strict_hits": 74,
+  "strict_recall_at_5": 0.74,
+  "content_hits": 99,
+  "content_recall_at_5": 0.99,
+  "categories": {
+    "definitions": {
+      "questions": 17,
+      "strict_hits": 16,
+      "strict_recall_at_5": 0.941,
+      "content_hits": 17,
+      "content_recall_at_5": 1.0
+    },
+    "evidence": {
+      "questions": 2,
+      "strict_hits": 2,
+      "strict_recall_at_5": 1.0,
+      "content_hits": 2,
+      "content_recall_at_5": 1.0
+    },
+    "exceptions": {
+      "questions": 2,
+      "strict_hits": 0,
+      "strict_recall_at_5": 0.0,
+      "content_hits": 2,
+      "content_recall_at_5": 1.0
+    },
+    "jurisdiction": {
+      "questions": 10,
+      "strict_hits": 6,
+      "strict_recall_at_5": 0.6,
+      "content_hits": 10,
+      "content_recall_at_5": 1.0
+    },
+    "obligations": {
+      "questions": 4,
+      "strict_hits": 3,
+      "strict_recall_at_5": 0.75,
+      "content_hits": 4,
+      "content_recall_at_5": 1.0
+    },
+    "offences": {
+      "questions": 4,
+      "strict_hits": 4,
+      "strict_recall_at_5": 1.0,
+      "content_hits": 4,
+      "content_recall_at_5": 1.0
+    },
+    "penalties": {
+      "questions": 10,
+      "strict_hits": 7,
+      "strict_recall_at_5": 0.7,
+      "content_hits": 10,
+      "content_recall_at_5": 1.0
+    },
+    "procedures": {
+      "questions": 16,
+      "strict_hits": 9,
+      "strict_recall_at_5": 0.562,
+      "content_hits": 15,
+      "content_recall_at_5": 0.938
+    },
+    "remedies": {
+      "questions": 11,
+      "strict_hits": 9,
+      "strict_recall_at_5": 0.818,
+      "content_hits": 11,
+      "content_recall_at_5": 1.0
+    },
+    "rights": {
+      "questions": 14,
+      "strict_hits": 14,
+      "strict_recall_at_5": 1.0,
+      "content_hits": 14,
+      "content_recall_at_5": 1.0
+    },
+    "timelines": {
+      "questions": 10,
+      "strict_hits": 4,
+      "strict_recall_at_5": 0.4,
+      "content_hits": 10,
+      "content_recall_at_5": 1.0
+    }
+  },
+  "failures": [
+    {
+      "id": "ev-067",
+      "category": "procedures",
+      "question": "How can a consumer appeal against an order of the National Commission?",
+      "expected": [
+        "procedure.filing_an_appeal_to_the_supreme_court"
+      ],
+      "alternatives": [
+        "example.filing_an_appeal_to_the_supreme_court"
+      ],
+      "retrieved_top5": [
+        "example.national_commission_1",
+        "example.filing_an_appeal_to_the_national_commission",
+        "example.national_consumer_disputes_redressal_commission",
+        "obligation.national_commission_must_hear_appeal",
+        "example.filing_appeals_with_the_state_commission"
+      ],
+      "strict_hit": false,
+      "content_hit": false,
+      "recall": 0.0
+    }
+  ],
+  "strict_only_failures": []
+}

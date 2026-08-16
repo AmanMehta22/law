@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { useNavigate, useLocation } from 'react-router-dom';
 import {
   Scale,
   Plus,
@@ -6,6 +7,7 @@ import {
   MessageCircle,
   X,
   PanelLeftOpen,
+  Calculator,
 } from 'lucide-react';
 import { useConversation } from '../store/ChatContext';
 
@@ -17,6 +19,8 @@ export const SidePanel: React.FC<SidePanelProps> = ({ user }) => {
   const { state, openConversation, newChat } = useConversation();
   const [isMinimized, setIsMinimized] = useState(false);
   const [query, setQuery] = useState('');
+  const navigate = useNavigate();
+  const location = useLocation();
 
   const { conversations, conversationId } = state;
 
@@ -82,6 +86,24 @@ export const SidePanel: React.FC<SidePanelProps> = ({ user }) => {
             className="w-full pl-9 pr-3 py-2 rounded-lg bg-neutral-50 border border-neutral-200 text-sm text-neutral-900 placeholder:text-neutral-400 focus:outline-none focus:border-[#1E3A5F] transition-colors"
           />
         </div>
+      </div>
+
+      {/* Tools */}
+      <div className="px-3 pt-3">
+        <p className="px-2 text-[11px] font-medium uppercase tracking-wider text-neutral-500 mb-1">
+          Tools
+        </p>
+        <button
+          onClick={() => navigate('/calculators')}
+          className={`w-full flex items-center gap-2.5 px-2 py-2 rounded-lg text-sm cursor-pointer transition-colors ${
+            location.pathname === '/calculators'
+              ? 'bg-[#EAF1F8] text-[#1E3A5F] font-medium'
+              : 'text-neutral-700 hover:bg-neutral-100 hover:text-neutral-900'
+          }`}
+        >
+          <Calculator className="w-4 h-4 shrink-0 text-neutral-400" />
+          Calculators
+        </button>
       </div>
 
       {/* Recent chats */}

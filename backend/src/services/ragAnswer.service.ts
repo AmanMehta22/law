@@ -16,6 +16,7 @@ interface RetrieveAndAnswerParams {
   systemPrompt: string;
   retrievalQuery?: string;
   formattedConversation?: string;
+  additionalContext?: string;
 }
 
 const SEARCH_ONLY_CONCEPT_TYPES = new Set(["alias", "intent", "relationship"]);
@@ -30,6 +31,7 @@ class RagAnswerService {
     systemPrompt,
     retrievalQuery: queryOverride,
     formattedConversation: formattedConversationOverride,
+    additionalContext,
   }: RetrieveAndAnswerParams) {
     // 1. Load and format conversation (skipped when the caller already has it)
     let formattedConversation = formattedConversationOverride;
@@ -108,12 +110,16 @@ class RagAnswerService {
       retrievedResults: answerableResults,
     });
 
+    const userPrompt = additionalContext
+      ? `${answerPrompt}\n\n${additionalContext}`
+      : answerPrompt;
+
     // 6. Generate final answer
     const llmTimer = logger.startTimer();
 
     const answer = await llmService.generate({
       systemPrompt,
-      userPrompt: answerPrompt,
+      userPrompt,
     });
 
     llmTimer.done("Answer generated");

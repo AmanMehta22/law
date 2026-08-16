@@ -8,8 +8,16 @@ from rank_bm25 import BM25Okapi
 
 class RAGRetriever:
 
-    DENSE_CANDIDATES = 20
+    DENSE_CANDIDATES = 30
     BM25_CANDIDATES = 20
+    DENSE_RANK_CONST = 40
+    BM25_RANK_CONST = 60
+
+    QUERY_SYNONYMS = {
+        "informed": "information",
+        "remedies": "remedy relief",
+        "remedy": "remedies relief",
+    }
 
     def __init__(self, vector_store, k: int = 5):
         self.vector_store = vector_store
@@ -33,6 +41,15 @@ class RAGRetriever:
         text = query.lower()
         text = re.sub(r"\bconsumer protection act[,.\s]*2019\b", "", text)
         text = re.sub(r"\bconsumer protection act\b", "", text)
+
+        expanded = []
+        for token in re.findall(r"[a-z0-9]+", text):
+            expanded.append(token)
+            synonyms = self.QUERY_SYNONYMS.get(token)
+            if synonyms:
+                expanded.extend(synonyms.split())
+
+        text = " ".join(expanded)
         text = re.sub(r"\s+", " ", text)
         return text.strip(" .,?;:!")
 
@@ -40,18 +57,30 @@ class RAGRetriever:
         dense = self.vector_store.similarity_search(
             query=query,
             k=self.DENSE_CANDIDATES,
+            filter={"source": "v2"},
         )
 
         bm25_docs = self._bm25_retrieve(query, self.BM25_CANDIDATES)
 
         rank_map: dict[str, int] = {}
 
-        for index, doc in enumerate(dense + bm25_docs):
+        for index, doc in enumerate(dense):
             doc_id = doc.metadata.get("concept_id") or doc.metadata.get(
                 "v1_id"
             ) or doc.page_content[:64]
 
-            rank_map[doc_id] = rank_map.get(doc_id, 0) + 1.0 / (60 + index + 1)
+            rank_map[doc_id] = rank_map.get(doc_id, 0) + 1.0 / (
+                self.DENSE_RANK_CONST + index + 1
+            )
+
+        for index, doc in enumerate(bm25_docs):
+            doc_id = doc.metadata.get("concept_id") or doc.metadata.get(
+                "v1_id"
+            ) or doc.page_content[:64]
+
+            rank_map[doc_id] = rank_map.get(doc_id, 0) + 1.0 / (
+                self.BM25_RANK_CONST + index + 1
+            )
 
         ranked = sorted(
             rank_map.items(),
@@ -139,9 +168,10 @@ class RAGRetriever:
             data["documents"] or [],
             raw_metadatas,
         ):
-            if meta.get("source") == "v2" and meta.get(
-                "concept_type"
-            ) in search_only:
+            if meta.get("source") != "v2":
+                continue
+
+            if meta.get("concept_type") in search_only:
                 continue
 
             kept_ids.append(doc_id)
