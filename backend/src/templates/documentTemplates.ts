@@ -35,11 +35,11 @@ Sir/Madam,
 
 3. COMPLAINTS MADE: The sender brought the above to the recipient's attention on [date(s)] by [mode of communication], but the recipient [failed to respond / refused / delayed redress]. Copies of the correspondence are retained.
 
-4. LEGAL GROUNDS: The sender is a 'consumer' within the meaning of Section 2(7) of the Consumer Protection Act, 2019. The recipient is a 'seller'/'service provider' within Section 2(42)/Section 2(42), read with Section 2(47). The above conduct constitutes [a defect / a deficiency / an unfair trade practice] under the Act.
+4. LEGAL GROUNDS: The sender is a 'consumer' within the meaning of Section 2(7) of the Consumer Protection Act, 2019. The recipient is a 'product seller' within the meaning of Section 2(37) and/or a 'service provider' within the meaning of Section 2(42). The above conduct constitutes [a defect / a deficiency / an unfair trade practice within the meaning of Section 2(47)] under the Act.
 
 5. DEMAND: By this notice, the sender calls upon the recipient to [refund the amount of [amount] / replace the goods / repair the goods / pay compensation of [amount]] within [number] days of receipt of this notice, failing which the sender shall be constrained to initiate legal proceedings.
 
-6. CONSEQUENCES: If the demand is not complied with, the sender shall file a complaint before the appropriate Consumer Commission having pecuniary jurisdiction under Section 34, 42 or 58 of the Act, within the limitation period of two years under Section 69, and shall claim relief under Section 39, including compensation for mental agony and the costs of proceedings.
+6. CONSEQUENCES: If the demand is not complied with, the sender shall file a complaint before the appropriate Consumer Commission having pecuniary jurisdiction under Section 34, 47 or 58 of the Act, within the limitation period of two years under Section 69, and shall claim relief under Section 39, including compensation for mental agony and the costs of proceedings.
 
 This notice is without prejudice to the sender's rights and remedies.
 
@@ -128,7 +128,7 @@ export const FILING_CHECKLIST_TEMPLATE: DocumentTemplate = {
 
 1. PRE-FILING CHECKS
    [ ] Confirm you are a 'consumer' as defined in Section 2(7) of the Act
-   [ ] Confirm pecuniary jurisdiction: value of goods/services plus compensation claimed does not exceed the limit for the chosen Commission (Section 34 - District, Section 42 - State, Section 58 - National)
+   [ ] Confirm pecuniary jurisdiction: value of goods/services plus compensation claimed does not exceed the limit for the chosen Commission (Section 34 - District, Section 47 - State, Section 58 - National)
    [ ] Confirm limitation: complaint filed within two years of the cause of action (Section 69)
 
 2. DOCUMENTS TO COLLECT

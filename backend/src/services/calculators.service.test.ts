@@ -38,14 +38,14 @@ describe("calculatorsService.calculateJurisdiction", () => {
     const result = calculatorsService.calculateJurisdiction(5000001);
 
     expect(result.forum).toBe("State Commission");
-    expect(result.section).toContain("Section 42");
+    expect(result.section).toContain("Section 47");
   });
 
   it("routes exactly two crore to the State Commission", () => {
     const result = calculatorsService.calculateJurisdiction(20000000);
 
     expect(result.forum).toBe("State Commission");
-    expect(result.section).toContain("Section 42");
+    expect(result.section).toContain("Section 47");
   });
 
   it("routes values above two crore to the National Commission", () => {

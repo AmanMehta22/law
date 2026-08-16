@@ -79,7 +79,7 @@ if (deadline.getMonth() !== causeDate.getMonth()) {
       return {
         claimValue,
         forum: "State Commission",
-        section: "Section 42(1)(a), Consumer Protection Act, 2019",
+        section: "Section 47(1)(a), Consumer Protection Act, 2019",
         valueRange: `${formatINR(FIFTY_LAKH + 1)} to ${formatINR(TWO_CRORE)}`,
         explanation:
           "The State Commission has jurisdiction where the value of the goods or services paid as consideration plus compensation claimed exceeds fifty lakh rupees but does not exceed two crore rupees.",
