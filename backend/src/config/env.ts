@@ -14,6 +14,11 @@ export const env = {
     .split(",")
     .map((key) => key.trim())
     .filter(Boolean),
+  GROQ_API_KEYS: (process.env.GROQ_API_KEYS ?? "")
+    .split(",")
+    .map((key) => key.trim())
+    .filter(Boolean),
+  GROQ_MODEL: process.env.GROQ_MODEL || "openai/gpt-oss-120b",
   LOG_LEVEL: process.env.LOG_LEVEL || "debug",
   ENABLE_LOGS: process.env.ENABLE_LOGS || true,
   RAG_API_URL: process.env.RAG_API_URL ?? "http://localhost:8000",

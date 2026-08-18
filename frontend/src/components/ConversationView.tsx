@@ -12,21 +12,31 @@ export const ConversationView: React.FC = () => {
   const sendMessageMutation = useSendMessage();
   const bottomRef = useRef<HTMLDivElement>(null);
 
-  const { messages, isSending, isLoadingConversation, error } = state;
+  const {
+    messages,
+    isSending,
+    isLoadingConversation,
+    error,
+    streamingText,
+    streamStatus,
+  } = state;
 
   useEffect(() => {
     bottomRef.current?.scrollIntoView({ behavior: 'smooth' });
-  }, [messages.length, isSending]);
+  }, [messages.length, isSending, streamingText, streamStatus]);
 
   const handleSelectPrompt = (prompt: string) => {
+    if (isSending || isLoadingConversation) return;
     sendMessageMutation.mutate({ text: prompt });
   };
 
   const handleQuickReply = (replyText: string) => {
+    if (isSending || isLoadingConversation) return;
     sendMessageMutation.mutate({ text: replyText });
   };
 
   const handleRetry = () => {
+    if (isSending || isLoadingConversation) return;
     const lastUserMessage = [...messages].reverse().find((m) => m.sender === 'user');
     if (lastUserMessage) {
       dispatch({
@@ -56,7 +66,25 @@ export const ConversationView: React.FC = () => {
         )
       )}
 
-      {(isSending || isLoadingConversation) && <LoadingIndicator />}
+      {streamingText ? (
+        <div className="flex justify-start my-4 animate-fade-in">
+          <div className="w-full max-w-[88%] sm:max-w-[85%] bg-white border border-neutral-300 rounded-2xl rounded-tl-xs p-4 sm:p-5 shadow-2xs space-y-2">
+            {streamStatus && (
+              <p className="text-[11px] font-medium text-neutral-400">
+                {streamStatus}
+              </p>
+            )}
+            <p className="text-sm text-neutral-900 whitespace-pre-wrap">
+              {streamingText}
+              <span className="inline-block w-1.5 h-4 bg-[#1E3A5F] ml-0.5 align-middle animate-pulse" />
+            </p>
+          </div>
+        </div>
+      ) : (
+        (isSending || isLoadingConversation) && (
+          <LoadingIndicator status={isLoadingConversation ? null : streamStatus} />
+        )
+      )}
 
       {error && (
         <div className="p-4 bg-[#FBF1DE] rounded-xl border border-[#A66A00]/30 text-[#A66A00] my-4 flex items-start gap-3 shadow-2xs animate-fade-in">

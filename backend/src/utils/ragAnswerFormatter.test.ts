@@ -72,5 +72,26 @@ describe("formatRagAnswerPrompt", () => {
     expect(prompt).toContain(
       "Derived From: CPA2019-CH1-S2-7, CPA2019-CH2-S38-1",
     );
+    expect(prompt).toContain(
+      "Citation: Section 2(7) of the Consumer Protection Act, 2019; Section 38(1) of the Consumer Protection Act, 2019",
+    );
+  });
+
+  it("renders section-only citations without a subsection", () => {
+    const prompt = formatRagAnswerPrompt({
+      conversation: "c",
+      currentMessage: "q",
+      retrievedResults: [
+        {
+          content: "card content",
+          metadata: {
+            derived_from: "['CPA2019-CH2-S7']",
+          },
+        },
+      ],
+    });
+
+    expect(prompt).toContain("Citation: Section 7 of the Consumer Protection Act, 2019");
+    expect(prompt).not.toContain("Section 7(7)");
   });
 });

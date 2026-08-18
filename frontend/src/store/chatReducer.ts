@@ -8,6 +8,9 @@ export interface ChatState {
   isSending: boolean;
   isLoadingConversation: boolean;
   error: string | null;
+  streamingText: string;
+  streamStatus: string | null;
+  streamConversationId: string | null;
 }
 
 export type ChatAction =
@@ -18,6 +21,10 @@ export type ChatAction =
   | { type: 'SET_INTAKE_CONTEXT'; payload: IntakeContext }
   | { type: 'RESET_CONVERSATION' }
   | { type: 'SET_ERROR'; payload: string }
+  | { type: 'STREAM_START' }
+  | { type: 'STREAM_STATUS'; payload: string }
+  | { type: 'STREAM_DELTA'; payload: { text: string } }
+  | { type: 'STREAM_END' }
   | { type: 'CONVERSATIONS_LOADED'; payload: Conversation[] }
   | { type: 'CONVERSATION_LOADING' }
   | { type: 'CONVERSATION_TITLE_UPDATED'; payload: { conversationId: string; title: string } }
@@ -34,10 +41,14 @@ export const initialChatState: ChatState = {
   isSending: false,
   isLoadingConversation: false,
   error: null,
+  streamingText: '',
+  streamStatus: null,
+  streamConversationId: null,
 };
 
 export function chatReducer(state: ChatState, action: ChatAction): ChatState {
-  switch (action.type) {    case 'CONVERSATION_STARTED':
+  switch (action.type) {
+    case 'CONVERSATION_STARTED':
       return {
         ...state,
         conversationId: action.payload.conversationId,
@@ -57,13 +68,55 @@ export function chatReducer(state: ChatState, action: ChatAction): ChatState {
         return {
           ...state,
           isSending: false,
+          streamingText: '',
+          streamStatus: null,
+          streamConversationId: null,
+          error:
+            'Your latest answer was saved to another conversation. Open it from the sidebar to see it.',
         };
       }
       return {
         ...state,
         messages: [...state.messages, action.payload.botMessage],
         isSending: false,
+        streamingText: '',
+        streamStatus: null,
+        streamConversationId: null,
         error: null,
+      };
+
+    case 'STREAM_START':
+      return {
+        ...state,
+        isSending: true,
+        error: null,
+        streamingText: '',
+        streamStatus: null,
+        streamConversationId: state.conversationId,
+      };
+
+    case 'STREAM_STATUS':
+      return {
+        ...state,
+        streamStatus: action.payload,
+      };
+
+    case 'STREAM_DELTA':
+      if (state.streamConversationId !== state.conversationId) {
+        return state;
+      }
+
+      return {
+        ...state,
+        streamingText: state.streamingText + action.payload.text,
+      };
+
+    case 'STREAM_END':
+      return {
+        ...state,
+        streamingText: '',
+        streamStatus: null,
+        streamConversationId: null,
       };
 
     case 'REMOVE_MESSAGE':
@@ -93,6 +146,9 @@ export function chatReducer(state: ChatState, action: ChatAction): ChatState {
       return {
         ...state,
         isSending: false,
+        streamingText: '',
+        streamStatus: null,
+        streamConversationId: null,
         error: action.payload,
       };
 
@@ -127,6 +183,9 @@ export function chatReducer(state: ChatState, action: ChatAction): ChatState {
         messages: action.payload.messages,
         isLoadingConversation: false,
         isSending: false,
+        streamingText: '',
+        streamStatus: null,
+        streamConversationId: null,
         error: null,
       };
 

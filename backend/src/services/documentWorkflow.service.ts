@@ -5,6 +5,7 @@ import { ragAnswerService } from "./ragAnswer.service";
 import { documentTemplateService } from "./documentTemplate.service";
 import { DOCUMENT_ANSWER_PROMPT } from "../prompts/documentAnswer.prompt";
 import { DocumentTemplate } from "../templates/documentTemplates";
+import { StreamHandlers } from "../types/stream.types";
 import { logger } from "../logger";
 
 function buildTemplateContext(template: DocumentTemplate): string {
@@ -21,7 +22,12 @@ reorder sections.`;
 }
 
 class DocumentWorkflowService {
-  async handle(userId: string, conversationId: string | null, message: string) {
+  async handle(
+    userId: string,
+    conversationId: string | null,
+    message: string,
+    handlers?: StreamHandlers,
+  ) {
     const timer = logger.startTimer();
 
     logger.info("Starting Document Workflow");
@@ -51,12 +57,16 @@ class DocumentWorkflowService {
     });
 
     // 4. Retrieve legal context and generate a grounded document draft
+    handlers?.onStatus?.("Preparing your document\u2026");
+
     const result = await ragAnswerService.retrieveAndAnswer({
       conversationId: conversation.id,
       currentMessage: message,
       systemPrompt: DOCUMENT_ANSWER_PROMPT,
       retrievalQuery: message,
       additionalContext: buildTemplateContext(template),
+      onStatus: handlers?.onStatus,
+      onToken: handlers?.onToken,
     });
 
     timer.done("Document Workflow completed");

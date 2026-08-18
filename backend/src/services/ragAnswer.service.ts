@@ -17,6 +17,8 @@ interface RetrieveAndAnswerParams {
   retrievalQuery?: string;
   formattedConversation?: string;
   additionalContext?: string;
+  onStatus?: (status: string) => void;
+  onToken?: (token: string) => void;
 }
 
 const SEARCH_ONLY_CONCEPT_TYPES = new Set(["alias", "intent", "relationship"]);
@@ -32,6 +34,8 @@ class RagAnswerService {
     retrievalQuery: queryOverride,
     formattedConversation: formattedConversationOverride,
     additionalContext,
+    onStatus,
+    onToken,
   }: RetrieveAndAnswerParams) {
     // 1. Load and format conversation (skipped when the caller already has it)
     let formattedConversation = formattedConversationOverride;
@@ -77,6 +81,8 @@ class RagAnswerService {
     // 3. Retrieve relevant legal context
     const ragTimer = logger.startTimer();
 
+    onStatus?.("Searching the Consumer Protection Act\u2026");
+
     let ragResponse;
 
     try {
@@ -114,13 +120,18 @@ class RagAnswerService {
       ? `${answerPrompt}\n\n${additionalContext}`
       : answerPrompt;
 
-    // 6. Generate final answer
+    // 6. Generate final answer (streamed token by token)
     const llmTimer = logger.startTimer();
 
-    const answer = await llmService.generate({
-      systemPrompt,
-      userPrompt,
-    });
+    onStatus?.("Writing your answer\u2026");
+
+    const answer = await llmService.generate(
+      {
+        systemPrompt,
+        userPrompt,
+      },
+      onToken,
+    );
 
     llmTimer.done("Answer generated");
 

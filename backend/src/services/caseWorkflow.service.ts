@@ -4,15 +4,22 @@ import { messageService } from "./message.service";
 import { informationCheckerService } from "./informationChecker.service";
 import { knowledgeService } from "./knowledge.service";
 import { titleService } from "./title.service";
+import { retrievalQueryService } from "./retrievalQuery.service";
 import { formatConversation } from "../utils/conversationFormatter";
 import { formatRequirements } from "../utils/requirementFormatter";
 import { CONSUMER_INFORMATION_REQUIREMENTS } from "../knowledge/consumer/consumer.fields";
 import { ragAnswerService } from "./ragAnswer.service";
 import { CASE_ANSWER_PROMPT } from "../prompts/caseAnswer.prompt";
+import { StreamHandlers } from "../types/stream.types";
 
 import { logger } from "../logger";
 class CaseWorkflowService {
-  async handle(userId: string, conversationId: string | null, message: string) {
+  async handle(
+    userId: string,
+    conversationId: string | null,
+    message: string,
+    handlers?: StreamHandlers,
+  ) {
     const workflowTimer = logger.startTimer();
 
     logger.info("Starting Case Workflow", {
@@ -64,11 +71,18 @@ class CaseWorkflowService {
       conversationWithMessages.messages,
     );
 
-    // 5. Information Checker
-    const check = await informationCheckerService.check(
-      formattedConversation,
-      formatRequirements(CONSUMER_INFORMATION_REQUIREMENTS),
-    );
+    // 5. Information Checker + retrieval query in parallel: both depend
+    //    only on the formatted conversation, so running them together
+    //    saves one full round-trip of latency.
+    handlers?.onStatus?.("Checking case details\u2026");
+
+    const [check, retrievalQuery] = await Promise.all([
+      informationCheckerService.check(
+        formattedConversation,
+        formatRequirements(CONSUMER_INFORMATION_REQUIREMENTS),
+      ),
+      retrievalQueryService.generate(formattedConversation),
+    ]);
 
     // 6. Ask follow-up question
     if (!check.readyForRag) {
@@ -107,6 +121,9 @@ class CaseWorkflowService {
       currentMessage: message,
       systemPrompt: CASE_ANSWER_PROMPT,
       formattedConversation,
+      retrievalQuery,
+      onStatus: handlers?.onStatus,
+      onToken: handlers?.onToken,
     });
 
     workflowTimer.done("Case Workflow completed");

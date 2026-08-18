@@ -53,6 +53,16 @@ export function getApiErrorMessage(
   return fallback;
 }
 
+export function clearAuthAndReload(): void {
+  localStorage.removeItem(STORAGE_KEYS.token);
+  localStorage.removeItem(STORAGE_KEYS.authenticated);
+  localStorage.removeItem(STORAGE_KEYS.user);
+  localStorage.removeItem(STORAGE_KEYS.activeConversation);
+  if (window.location.pathname !== '/auth') {
+    window.location.reload();
+  }
+}
+
 export const apiClient = axios.create({
   baseURL: API_BASE_URL,
   headers: {
@@ -73,13 +83,7 @@ apiClient.interceptors.response.use(
   (response) => response,
   (error) => {
     if (error.response?.status === 401) {
-      localStorage.removeItem(STORAGE_KEYS.token);
-      localStorage.removeItem(STORAGE_KEYS.authenticated);
-      localStorage.removeItem(STORAGE_KEYS.user);
-      localStorage.removeItem(STORAGE_KEYS.activeConversation);
-      if (window.location.pathname !== '/auth') {
-        window.location.reload();
-      }
+      clearAuthAndReload();
     }
     return Promise.reject(error);
   },

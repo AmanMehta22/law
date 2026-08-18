@@ -1,6 +1,6 @@
 import { useMutation } from '@tanstack/react-query';
 import { useConversation } from '../store/ChatContext';
-import { sendMessage } from '../api/messages';
+import { streamMessage, toMessage } from '../api/messages';
 import { getApiErrorMessage } from '../api/client';
 import { Message, IntakeContext } from '../types/conversation';
 
@@ -48,22 +48,34 @@ export function useSendMessage() {
 
       dispatch({ type: 'MESSAGE_SENT', payload: { userMessage } });
 
-      // Call API (null conversationId lets the backend create the
-      // conversation with an auto-generated title; intake context is
-      // attached so the backend RAG can use it once wired server-side)
-      const botResponse = await sendMessage(convId, text, mergedContext);
+      // Start the SSE stream: status + token deltas flow into the chat
+      // while the backend generates, then the final message arrives.
+      dispatch({ type: 'STREAM_START' });
+      dispatch({ type: 'STREAM_STATUS', payload: 'Thinking\u2026' });
 
-      if (startedNew) {
-        dispatch({
-          type: 'CONVERSATION_STARTED',
-          payload: { conversationId: botResponse.conversation_id },
+      return new Promise<Message>((resolve, reject) => {
+        streamMessage(convId, text, mergedContext, {
+          onStatus: (status) =>
+            dispatch({ type: 'STREAM_STATUS', payload: status }),
+          onToken: (token) =>
+            dispatch({ type: 'STREAM_DELTA', payload: { text: token } }),
+          onDone: (result) => {
+            if (startedNew) {
+              dispatch({
+                type: 'CONVERSATION_STARTED',
+                payload: { conversationId: result.conversationId },
+              });
+            }
+
+            const botMessage = toMessage(result);
+
+            dispatch({ type: 'MESSAGE_RECEIVED', payload: { botMessage } });
+            dispatch({ type: 'STREAM_END' });
+
+            resolve(botMessage);
+          },
         });
-      }
-
-      return botResponse;
-    },
-    onSuccess: (botMessage) => {
-      dispatch({ type: 'MESSAGE_RECEIVED', payload: { botMessage } });
+      });
     },
     onError: (error) => {
       dispatch({

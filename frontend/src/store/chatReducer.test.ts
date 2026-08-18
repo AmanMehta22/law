@@ -73,6 +73,60 @@ describe('chatReducer', () => {
     expect(next.isSending).toBe(false);
   });
 
+  it('STREAM_START/STATUS/DELTA accumulate text for the active conversation', () => {
+    let next = chatReducer(chatState, { type: 'STREAM_START' });
+    expect(next.isSending).toBe(true);
+    expect(next.streamConversationId).toBe('conv_1');
+
+    next = chatReducer(next, { type: 'STREAM_STATUS', payload: 'Writing…' });
+    next = chatReducer(next, { type: 'STREAM_DELTA', payload: { text: 'Hel' } });
+    next = chatReducer(next, { type: 'STREAM_DELTA', payload: { text: 'lo' } });
+
+    expect(next.streamingText).toBe('Hello');
+    expect(next.streamStatus).toBe('Writing…');
+  });
+
+  it('STREAM_DELTA drops tokens when the conversation was switched', () => {
+    const started = chatReducer(chatState, { type: 'STREAM_START' });
+    const switched = chatReducer(
+      { ...started, conversationId: 'conv_OTHER' },
+      { type: 'STREAM_DELTA', payload: { text: 'x' } },
+    );
+    expect(switched.streamingText).toBe('');
+  });
+
+  it('STREAM_END clears streaming state', () => {
+    const next = chatReducer(
+      {
+        ...chatState,
+        streamingText: 'abc',
+        streamStatus: 'Writing…',
+        streamConversationId: 'conv_1',
+      },
+      { type: 'STREAM_END' },
+    );
+    expect(next.streamingText).toBe('');
+    expect(next.streamStatus).toBeNull();
+    expect(next.streamConversationId).toBeNull();
+    expect(next.isSending).toBe(false);
+  });
+
+  it('MESSAGE_RECEIVED clears streaming state', () => {
+    const botMsg = makeMessage({ message_id: 'msg_b_1', sender: 'bot' });
+    const next = chatReducer(
+      {
+        ...chatState,
+        isSending: true,
+        streamingText: 'partial',
+        streamStatus: 'Writing…',
+      },
+      { type: 'MESSAGE_RECEIVED', payload: { botMessage: botMsg } },
+    );
+    expect(next.streamingText).toBe('');
+    expect(next.streamStatus).toBeNull();
+    expect(next.messages).toHaveLength(1);
+  });
+
   it('REMOVE_MESSAGE deletes only the targeted message', () => {
     const m1 = makeMessage({ message_id: 'a' });
     const m2 = makeMessage({ message_id: 'b' });

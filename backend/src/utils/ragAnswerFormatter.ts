@@ -38,7 +38,15 @@ export function formatRagAnswerPrompt({
             );
 
             if (derivedFrom.length > 0) {
-              attributes.push(`Derived From: ${derivedFrom.join(", ")}`);
+              attributes.push(
+                `Derived From: ${derivedFrom.join(", ")}`,
+              );
+            }
+
+            const citation = statuteCitations(derivedFrom);
+
+            if (citation.length > 0) {
+              attributes.push(`Citation: ${citation.join("; ")}`);
             }
 
             const attributeBlock =
@@ -86,4 +94,29 @@ function parseListMetadata(raw: string | undefined): string[] {
     .split(",")
     .map((item) => item.trim().replace(/^['"]|['"]$/g, ""))
     .filter(Boolean);
+}
+
+const STATUTE_ID_PATTERN = /^CPA2019-CH\d+-S(\d+)(?:-(\d+))?$/;
+
+export function statuteCitations(derivedFrom: string[]): string[] {
+  const citations: string[] = [];
+
+  for (const item of derivedFrom) {
+    const match = STATUTE_ID_PATTERN.exec(item.trim());
+
+    if (!match) {
+      continue;
+    }
+
+    const section = match[1];
+    const subsection = match[2];
+
+    const ref = subsection
+      ? `Section ${section}(${subsection})`
+      : `Section ${section}`;
+
+    citations.push(`${ref} of the Consumer Protection Act, 2019`);
+  }
+
+  return citations;
 }

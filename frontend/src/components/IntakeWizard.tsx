@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useQuery } from '@tanstack/react-query';
-import { X, ChevronLeft, ChevronRight, Sparkles } from 'lucide-react';
+import { X, ChevronLeft, ChevronRight, Sparkles, RefreshCw } from 'lucide-react';
 import { getIntakeRequirements, IntakeField } from '../api/intake';
 import { getApiErrorMessage } from '../api/client';
 import { cn } from '../utils/cn';
@@ -16,7 +16,7 @@ export const IntakeWizard: React.FC<IntakeWizardProps> = ({
   onClose,
   onComplete,
 }) => {
-  const { data: fields, isLoading, isError, error } = useQuery({
+  const { data: fields, isLoading, isError, error, refetch } = useQuery({
     queryKey: ['intake-requirements'],
     queryFn: getIntakeRequirements,
     enabled: isOpen,
@@ -77,6 +77,13 @@ export const IntakeWizard: React.FC<IntakeWizardProps> = ({
     setCurrentValue(prevId ? answers[prevId] ?? '' : '');
   };
 
+  const handleKeyDown = (e: React.KeyboardEvent) => {
+    if (e.key === 'Enter' && !e.shiftKey) {
+      e.preventDefault();
+      if (canAdvance) handleNext();
+    }
+  };
+
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/40 p-4">
       <div className="w-full max-w-lg bg-white rounded-2xl shadow-xl flex flex-col max-h-[80vh]">
@@ -109,9 +116,16 @@ export const IntakeWizard: React.FC<IntakeWizardProps> = ({
           )}
 
           {isError && (
-            <p className="text-sm text-red-600">
-              {getApiErrorMessage(error)}
-            </p>
+            <div className="text-sm text-red-600 space-y-2">
+              <p>{getApiErrorMessage(error)}</p>
+              <button
+                onClick={() => refetch()}
+                className="inline-flex items-center gap-1.5 px-3 py-1.5 bg-[#1E3A5F] text-white rounded-lg text-xs font-semibold hover:bg-[#16293F] transition-colors cursor-pointer"
+              >
+                <RefreshCw className="w-3.5 h-3.5" />
+                Try again
+              </button>
+            </div>
           )}
 
           {field && (
@@ -148,12 +162,14 @@ export const IntakeWizard: React.FC<IntakeWizardProps> = ({
                   type="date"
                   value={currentValue}
                   onChange={(e) => setCurrentValue(e.target.value)}
+                  onKeyDown={handleKeyDown}
                   className="w-full px-3 py-2.5 rounded-lg bg-neutral-50 border border-neutral-200 text-sm focus:outline-none focus:border-[#1E3A5F] transition-colors"
                 />
               ) : (
                 <textarea
                   value={currentValue}
                   onChange={(e) => setCurrentValue(e.target.value)}
+                  onKeyDown={handleKeyDown}
                   rows={3}
                   placeholder={`Your ${field.label.toLowerCase()}...`}
                   className="w-full px-3 py-2.5 rounded-lg bg-neutral-50 border border-neutral-200 text-sm focus:outline-none focus:border-[#1E3A5F] transition-colors resize-none"

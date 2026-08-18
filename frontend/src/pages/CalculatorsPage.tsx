@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { useMutation } from '@tanstack/react-query';
-import { Calculator, CalendarClock, Landmark, AlertTriangle, CheckCircle2 } from 'lucide-react';
+import { useNavigate } from 'react-router-dom';
+import { Calculator, CalendarClock, Landmark, AlertTriangle, CheckCircle2, ArrowLeft, MessageCircle } from 'lucide-react';
 import { SidePanel } from '../components/SidePanel';
 import { AppHeader } from '../components/AppHeader';
 import { DisclaimerBanner } from '../components/DisclaimerBanner';
@@ -17,6 +18,8 @@ export const CalculatorsPage: React.FC<{
   user: UserData | null;
   onLogout: () => void;
 }> = ({ user, onLogout }) => {
+  const navigate = useNavigate();
+
   return (
     <div className="min-h-screen flex bg-[#F3F5F7] text-neutral-900">
       <SidePanel user={user} />
@@ -27,16 +30,28 @@ export const CalculatorsPage: React.FC<{
         <DisclaimerBanner />
 
         <main className="flex-1 max-w-4xl w-full mx-auto py-6 px-4">
-          <div className="flex items-center gap-3 mb-6">
-            <div className="w-10 h-10 rounded-xl bg-[#1E3A5F] text-white flex items-center justify-center">
-              <Calculator className="w-5 h-5" />
+          <div className="flex items-center justify-between gap-3 mb-6">
+            <div className="flex items-center gap-3">
+              <div className="w-10 h-10 rounded-xl bg-[#1E3A5F] text-white flex items-center justify-center">
+                <Calculator className="w-5 h-5" />
+              </div>
+              <div>
+                <h1 className="text-lg font-bold">Legal Calculators</h1>
+                <p className="text-sm text-neutral-500">
+                  Consumer Protection Act, 2019 — compute limitation and jurisdiction before you file.
+                </p>
+              </div>
             </div>
-            <div>
-              <h1 className="text-lg font-bold">Legal Calculators</h1>
-              <p className="text-sm text-neutral-500">
-                Consumer Protection Act, 2019 — compute limitation and jurisdiction before you file.
-              </p>
-            </div>
+            <button
+              onClick={() => navigate('/chat')}
+              className="flex items-center gap-1.5 px-3 py-2 rounded-lg bg-white border border-neutral-300 text-sm font-medium text-neutral-700 hover:bg-[#EAF1F8] hover:text-[#1E3A5F] hover:border-[#D6DAE0] transition-colors cursor-pointer shrink-0"
+              title="Back to chat"
+            >
+              <ArrowLeft className="w-4 h-4" />
+              <MessageCircle className="w-4 h-4 hidden sm:block" />
+              <span className="hidden sm:inline">Back to chat</span>
+              <span className="sm:hidden">Exit</span>
+            </button>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -144,7 +159,7 @@ const JurisdictionCalculator: React.FC = () => {
         <h2 className="font-semibold">Pecuniary Jurisdiction</h2>
       </div>
       <p className="text-xs text-neutral-500 mb-4">
-        Sections 34 / 42 / 58, CPA 2019 — which Commission hears your claim.
+        Sections 34 / 47 / 58, CPA 2019 — which Commission hears your claim.
       </p>
 
       <label className="text-xs font-medium text-neutral-600 mb-1.5">

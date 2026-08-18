@@ -1,4 +1,5 @@
 import { Intent } from "../types/intent.types";
+import { StreamHandlers } from "../types/stream.types";
 
 import { intentService } from "./intent.service";
 import { caseWorkflowService } from "./caseWorkflow.service";
@@ -12,6 +13,7 @@ class WorkflowService {
     userId: string,
     conversationId: string | null,
     message: string,
+    handlers?: StreamHandlers,
   ) {
     const workflowTimer = logger.startTimer();
 
@@ -22,6 +24,8 @@ class WorkflowService {
 
     // Step 1: Determine the user's intent
     const intentTimer = logger.startTimer();
+
+    handlers?.onStatus?.("Understanding your question\u2026");
 
     const { intent } = await intentService.classify(message);
 
@@ -34,17 +38,32 @@ class WorkflowService {
       case Intent.GENERAL:
         logger.info("Routing to General Workflow");
 
-        return generalWorkflowService.handle(userId, conversationId, message);
+        return generalWorkflowService.handle(
+          userId,
+          conversationId,
+          message,
+          handlers,
+        );
 
       case Intent.CASE:
         logger.info("Routing to Case Workflow");
 
-        return caseWorkflowService.handle(userId, conversationId, message);
+        return caseWorkflowService.handle(
+          userId,
+          conversationId,
+          message,
+          handlers,
+        );
 
       case Intent.DOCUMENT:
         logger.info("Routing to Document Workflow");
 
-        return documentWorkflowService.handle(userId, conversationId, message);
+        return documentWorkflowService.handle(
+          userId,
+          conversationId,
+          message,
+          handlers,
+        );
 
       default:
         logger.error("Unknown intent received", {

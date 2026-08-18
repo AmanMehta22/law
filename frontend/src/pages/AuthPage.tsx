@@ -96,7 +96,8 @@ export const AuthPage: React.FC<AuthPageProps> = ({ onAuthenticate }) => {
     }
 
     setIsSubmitting(true);
-    
+    let registered = false;
+
     try{
       if(view==="login"){
         const data=await login(email,password);
@@ -109,6 +110,7 @@ export const AuthPage: React.FC<AuthPageProps> = ({ onAuthenticate }) => {
 
       else if(view==="signup"){
         await register(email,password);
+        registered = true;
         const data=await login(email,password);
         localStorage.setItem(STORAGE_KEYS.token, data.accessToken);
         onAuthenticate({
@@ -119,7 +121,11 @@ export const AuthPage: React.FC<AuthPageProps> = ({ onAuthenticate }) => {
     }
     catch(error){
       console.error("Authentication failed:", error);
-      setError(getApiErrorMessage(error, "Invalid email or password."));
+      if (registered) {
+        setError("Account created successfully. Please log in with your credentials.");
+      } else {
+        setError(getApiErrorMessage(error, "Invalid email or password."));
+      }
     }
     finally{
       setIsSubmitting(false)
@@ -396,9 +402,9 @@ export const AuthPage: React.FC<AuthPageProps> = ({ onAuthenticate }) => {
                     {/* Strength Progress Bar */}
                     <div className="grid grid-cols-4 gap-1 h-1.5 w-full">
                       <div className={`rounded-full transition-colors ${satisfiedCount >= 1 ? strength.color : 'bg-neutral-200'}`} />
+                      <div className={`rounded-full transition-colors ${satisfiedCount >= 2 ? strength.color : 'bg-neutral-200'}`} />
                       <div className={`rounded-full transition-colors ${satisfiedCount >= 3 ? strength.color : 'bg-neutral-200'}`} />
                       <div className={`rounded-full transition-colors ${satisfiedCount >= 4 ? strength.color : 'bg-neutral-200'}`} />
-                      <div className={`rounded-full transition-colors ${satisfiedCount >= 5 ? strength.color : 'bg-neutral-200'}`} />
                     </div>
 
                     {/* Requirements checklist */}

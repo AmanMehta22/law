@@ -245,6 +245,7 @@ class StatuteDocumentBuilder:
             "title": title,
             "node_type": node.get("node_type"),
             "content_type": content_type,
+            "term": node.get("term"),
             "act_id": node.get("act_id"),
             "chapter_number": node.get("chapter_number"),
             "section_number": node.get("section_number"),

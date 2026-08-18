@@ -3,10 +3,16 @@ import { messageService } from "./message.service";
 import { titleService } from "./title.service";
 import { ragAnswerService } from "./ragAnswer.service";
 import { GENERAL_ANSWER_PROMPT } from "../prompts/generalAnswer.prompt";
+import { StreamHandlers } from "../types/stream.types";
 import { logger } from "../logger";
 
 class GeneralWorkflowService {
-  async handle(userId: string, conversationId: string | null, message: string) {
+  async handle(
+    userId: string,
+    conversationId: string | null,
+    message: string,
+    handlers?: StreamHandlers,
+  ) {
     const timer = logger.startTimer();
 
     logger.info("Starting General Workflow");
@@ -34,6 +40,8 @@ class GeneralWorkflowService {
       currentMessage: message,
       systemPrompt: GENERAL_ANSWER_PROMPT,
       retrievalQuery: message,
+      onStatus: handlers?.onStatus,
+      onToken: handlers?.onToken,
     });
 
     timer.done("General Workflow completed");

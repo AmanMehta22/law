@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { useNavigate } from 'react-router-dom';
 import { Scale, Type, ZoomIn, ZoomOut, LogOut, LogIn } from 'lucide-react';
 
 interface AppHeaderProps {
@@ -7,6 +8,7 @@ interface AppHeaderProps {
 }
 
 export const AppHeader: React.FC<AppHeaderProps> = ({ user, onLogout }) => {
+  const navigate = useNavigate();
   // 0: 100%, 1: 115%, 2: 125%
   const [fontSizeLevel, setFontSizeLevel] = useState<number>(0);
 
@@ -32,7 +34,11 @@ export const AppHeader: React.FC<AppHeaderProps> = ({ user, onLogout }) => {
     <header className="bg-white border-b border-neutral-300 sticky top-0 z-40 shadow-2xs">
       <div className="max-w-4xl mx-auto px-1 h-14 flex items-center justify-between gap-2">
         {/* Brand */}
-        <div className="flex items-center gap-2.5">
+        <div
+          className="flex items-center gap-2.5 cursor-pointer"
+          onClick={() => navigate('/chat')}
+          title="Go to chat"
+        >
           <div className="w-8 h-8 rounded-lg bg-[#1E3A5F] flex items-center justify-center text-white shadow-xs">
             <Scale className="w-4 h-4" />
           </div>

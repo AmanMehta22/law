@@ -28,7 +28,20 @@ export const ChatPage: React.FC<{ user: UserData | null; onLogout: () => void }>
     }
   }, [loadConversations, openConversation]);
 
+  useEffect(() => {
+    const refreshOnFocus = () => {
+      if (document.visibilityState === 'visible') {
+        loadConversations();
+      }
+    };
+
+    document.addEventListener('visibilitychange', refreshOnFocus);
+
+    return () => document.removeEventListener('visibilitychange', refreshOnFocus);
+  }, [loadConversations]);
+
   const handleSendMessage = (text: string) => {
+    if (state.isSending || state.isLoadingConversation) return;
     sendMessageMutation.mutate(
       { text },
       { onSuccess: () => { loadConversations(); } },
@@ -64,7 +77,10 @@ export const ChatPage: React.FC<{ user: UserData | null; onLogout: () => void }>
           </button>
         </div>
 
-        <Composer onSend={handleSendMessage} isSending={state.isSending} />
+        <Composer
+          onSend={handleSendMessage}
+          isSending={state.isSending || state.isLoadingConversation}
+        />
 
         <IntakeWizard
           isOpen={isIntakeOpen}

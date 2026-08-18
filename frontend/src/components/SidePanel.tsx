@@ -67,7 +67,10 @@ export const SidePanel: React.FC<SidePanelProps> = ({ user }) => {
       {/* New Chat */}
       <div className="px-3 pt-2">
         <button
-          onClick={newChat}
+          onClick={() => {
+            newChat();
+            navigate('/chat');
+          }}
           className="w-full flex items-center justify-center gap-2 px-3 py-2.5 rounded-lg bg-white border border-neutral-300 shadow-2xs text-sm font-medium text-neutral-900 hover:bg-neutral-50 transition-colors cursor-pointer"
         >
           <Plus className="w-4 h-4" />
@@ -94,6 +97,17 @@ export const SidePanel: React.FC<SidePanelProps> = ({ user }) => {
           Tools
         </p>
         <button
+          onClick={() => navigate('/chat')}
+          className={`w-full flex items-center gap-2.5 px-2 py-2 rounded-lg text-sm cursor-pointer transition-colors ${
+            location.pathname === '/chat'
+              ? 'bg-[#EAF1F8] text-[#1E3A5F] font-medium'
+              : 'text-neutral-700 hover:bg-neutral-100 hover:text-neutral-900'
+          }`}
+        >
+          <MessageCircle className="w-4 h-4 shrink-0 text-neutral-400" />
+          Chat
+        </button>
+        <button
           onClick={() => navigate('/calculators')}
           className={`w-full flex items-center gap-2.5 px-2 py-2 rounded-lg text-sm cursor-pointer transition-colors ${
             location.pathname === '/calculators'
@@ -117,7 +131,10 @@ export const SidePanel: React.FC<SidePanelProps> = ({ user }) => {
           filteredChats.map((chat) => (
             <div
               key={chat.conversation_id}
-              onClick={() => openConversation(chat.conversation_id)}
+              onClick={() => {
+                openConversation(chat.conversation_id);
+                navigate('/chat');
+              }}
               className={`flex items-start gap-2.5 px-2 py-2 rounded-lg text-sm cursor-pointer transition-colors ${
                 conversationId === chat.conversation_id
                   ? 'bg-[#EAF1F8] text-[#1E3A5F] font-medium'
