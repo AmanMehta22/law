@@ -141,6 +141,18 @@ export const BotMessageCard: React.FC<BotMessageCardProps> = ({
             <span className="px-2 py-0.5 rounded-full text-[10px] font-semibold bg-[#EAF1F8] text-[#1E3A5F] border border-[#D6DAE0]">
               {Math.round(message.overall_confidence * 100)}% confidence
             </span>
+            {message.provider && (
+              <span
+                className={cn(
+                  'px-2 py-0.5 rounded-full text-[10px] font-semibold border',
+                  message.provider === 'gemini'
+                    ? 'bg-[#F0F4FF] text-[#3D5AFE] border-[#C5CDFB]'
+                    : 'bg-[#F4F1FF] text-[#7C3AED] border-[#DCCFFB]',
+                )}
+              >
+                via {message.provider === 'gemini' ? 'Gemini' : 'Groq'}
+              </span>
+            )}
           </div>
         )}
 

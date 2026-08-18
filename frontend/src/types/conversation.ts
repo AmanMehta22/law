@@ -35,6 +35,7 @@ export interface Message {
   quick_replies?: string[];
   is_low_confidence?: boolean;
   is_out_of_scope?: boolean;
+  provider?: 'gemini' | 'groq';
 }
 
 export interface Conversation {

@@ -125,15 +125,20 @@ class RagAnswerService {
 
     onStatus?.("Writing your answer\u2026");
 
+    let provider: "gemini" | "groq" | undefined;
+
     const answer = await llmService.generate(
       {
         systemPrompt,
         userPrompt,
+        onProvider: (chosen) => {
+          provider = chosen;
+        },
       },
       onToken,
     );
 
-    llmTimer.done("Answer generated");
+    llmTimer.done("Answer generated", { provider });
 
     // 7. Save assistant response
     const cardsUsed = answerableResults.map((result) => ({
@@ -201,6 +206,7 @@ class RagAnswerService {
       quick_replies: quickReplies,
       is_low_confidence: isLowConfidence,
       is_out_of_scope: isOutOfScope,
+      provider,
     };
   }
 }

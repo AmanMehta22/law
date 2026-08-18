@@ -1,15 +1,15 @@
 {
   "k": 5,
-  "questions": 104,
-  "strict_hits": 77,
-  "strict_recall_at_5": 0.74,
-  "content_hits": 103,
-  "content_recall_at_5": 0.99,
+  "questions": 106,
+  "strict_hits": 78,
+  "strict_recall_at_5": 0.736,
+  "content_hits": 105,
+  "content_recall_at_5": 0.991,
   "categories": {
     "definitions": {
       "questions": 21,
-      "strict_hits": 20,
-      "strict_recall_at_5": 0.952,
+      "strict_hits": 21,
+      "strict_recall_at_5": 1.0,
       "content_hits": 21,
       "content_recall_at_5": 1.0
     },
@@ -32,6 +32,13 @@
       "strict_hits": 6,
       "strict_recall_at_5": 0.6,
       "content_hits": 10,
+      "content_recall_at_5": 1.0
+    },
+    "limitation": {
+      "questions": 2,
+      "strict_hits": 1,
+      "strict_recall_at_5": 0.5,
+      "content_hits": 2,
       "content_recall_at_5": 1.0
     },
     "obligations": {
@@ -64,8 +71,8 @@
     },
     "remedies": {
       "questions": 11,
-      "strict_hits": 9,
-      "strict_recall_at_5": 0.818,
+      "strict_hits": 8,
+      "strict_recall_at_5": 0.727,
       "content_hits": 11,
       "content_recall_at_5": 1.0
     },
@@ -97,8 +104,8 @@
       ],
       "retrieved_top5": [
         "example.national_commission_1",
-        "example.filing_an_appeal_to_the_national_commission",
         "example.national_consumer_disputes_redressal_commission",
+        "example.filing_an_appeal_to_the_national_commission",
         "obligation.national_commission_must_hear_appeal",
         "example.filing_appeals_with_the_state_commission"
       ],

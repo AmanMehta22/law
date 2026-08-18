@@ -21,6 +21,21 @@ class RAGRetriever:
     # statutory wording surfaces only when it was already a near-miss.
     DEFINITION_V1_LIFT_RANK_CONST = 74
 
+    # Section-number lift: when the query explicitly names a section, the
+    # statute chunks (and derived cards) of that section are boosted so the
+    # official text surfaces even when the question is phrased generically.
+    SECTION_LIFT_RANK_CONST = 10
+    SECTION_LIFT_V2_RANK_CONST = 30
+
+    SECTION_PATTERNS = [
+        re.compile(r"\bsection\s+(\d{1,3})\s*\((\d{1,3})\)", re.I),
+        re.compile(r"\bsec\.\s*(\d{1,3})\s*\((\d{1,3})\)", re.I),
+        re.compile(r"\bs\.\s*(\d{1,3})\s*\((\d{1,3})\)", re.I),
+        re.compile(r"\bsection\s+(\d{1,3})(?![0-9(])", re.I),
+        re.compile(r"\bsec\.\s*(\d{1,3})(?![0-9(])", re.I),
+        re.compile(r"\bs\.\s*(\d{1,3})(?![0-9(])", re.I),
+    ]
+
     DEFINITION_INTENT_PATTERNS = [
         re.compile(r"\bconsidered\b"),
         re.compile(r"\bwho (?:is|are|can|does|qualifies)\b"),
@@ -65,7 +80,9 @@ class RAGRetriever:
 
         normalized = self._normalize_query(query)
 
-        return self._hybrid_retrieve(normalized, k or self.k)
+        section_targets = self._section_targets(query)
+
+        return self._hybrid_retrieve(normalized, k or self.k, section_targets)
 
     def _normalize_query(self, query: str) -> str:
         text = query.lower()
@@ -83,7 +100,12 @@ class RAGRetriever:
         text = re.sub(r"\s+", " ", text)
         return text.strip(" .,?;:!")
 
-    def _hybrid_retrieve(self, query: str, k: int) -> List[Document]:
+    def _hybrid_retrieve(
+        self,
+        query: str,
+        k: int,
+        section_targets: list[tuple[str, str | None]] | None = None,
+    ) -> List[Document]:
         dense = self.vector_store.similarity_search(
             query=query,
             k=self.DENSE_CANDIDATES,
@@ -93,6 +115,8 @@ class RAGRetriever:
         bm25_docs = self._bm25_retrieve(query, self.BM25_CANDIDATES)
 
         extra_docs = self._lift_definition_docs(query)
+
+        section_docs = self._lift_section_docs(section_targets or [])
 
         rank_map: dict[str, int] = {}
 
@@ -108,6 +132,13 @@ class RAGRetriever:
 
             rank_map[doc_id] = rank_map.get(doc_id, 0) + 1.0 / (
                 self.BM25_RANK_CONST + index + 1
+            )
+
+        for doc, lift_const in section_docs:
+            doc_id = self._doc_id(doc)
+
+            rank_map[doc_id] = rank_map.get(doc_id, 0) + 1.0 / (
+                lift_const + 1
             )
 
         for doc in extra_docs:
@@ -128,7 +159,9 @@ class RAGRetriever:
 
         selected_ids = [doc_id for doc_id, _ in ranked[:k]]
 
-        all_docs = dense + bm25_docs + extra_docs
+        all_docs = dense + bm25_docs + extra_docs + [
+            doc for doc, _ in section_docs
+        ]
         all_ids = [self._doc_id(doc) for doc in all_docs]
 
         result = []
@@ -205,6 +238,151 @@ class RAGRetriever:
             )
 
         return documents
+
+    def _section_targets(
+        self,
+        query: str,
+    ) -> list[tuple[str, str | None]]:
+        """
+        Extract (section, subsection) pairs from the raw query so the
+        subsection is preserved (normalization strips punctuation).
+        """
+
+        targets: list[tuple[str, str | None]] = []
+
+        for pattern in self.SECTION_PATTERNS:
+            for match in pattern.finditer(query):
+                section = match.group(1)
+                subsection = (
+                    match.group(2)
+                    if match.lastindex is not None and match.lastindex >= 2
+                    else None
+                )
+
+                target = (section, subsection)
+
+                if target not in targets:
+                    targets.append(target)
+
+        return targets
+
+    def _lift_section_docs(
+        self,
+        targets: list[tuple[str, str | None]],
+    ) -> List[Tuple[Document, int]]:
+        """
+        When the query explicitly names a section (e.g. "Section 39",
+        "s. 39(1)(a)"), boost the V1 statute chunks of that section and
+        the V2 cards derived from it so the official text surfaces even
+        for generically-worded questions.
+        """
+
+        if not targets:
+            return []
+
+        section_docs: list[tuple[Document, int]] = []
+
+        for section, subsection in targets:
+            where: list = [
+                {"source": "v1"},
+                {"section_number": section},
+            ]
+
+            if subsection:
+                where.append({"subsection_number": f"({subsection})"})
+
+            data = self.vector_store._collection.get(
+                where={"$and": where},
+                include=["documents", "metadatas"],
+            )
+
+            per_node: dict[str, dict] = {}
+
+            for doc_id, meta, content in zip(
+                data["ids"],
+                data["metadatas"] or [],
+                data["documents"] or [],
+            ):
+                meta = meta or {}
+                node_id = meta.get("v1_id") or doc_id
+                official = meta.get("official_text") or ""
+
+                if node_id in per_node:
+                    continue
+
+                section_ref = (
+                    f"{meta.get('section_number')}"
+                    f"{meta.get('subsection_number') or ''}"
+                )
+
+                if official:
+                    page_content = (
+                        f"Consumer Protection Act 2019; Section {section_ref};"
+                        f" type: {meta.get('content_type')};\n"
+                        f"Section {section_ref} of the Consumer Protection"
+                        f" Act, 2019:\n{official}"
+                    )
+                else:
+                    page_content = content if isinstance(content, str) else ""
+
+                per_node[node_id] = {
+                    "page_content": page_content,
+                    "metadata": meta,
+                }
+
+            for node_id, item in per_node.items():
+                section_docs.append(
+                    (
+                        Document(
+                            page_content=item["page_content"],
+                            metadata=item["metadata"],
+                        ),
+                        self.SECTION_LIFT_RANK_CONST,
+                    )
+                )
+
+            v2_data = self.vector_store._collection.get(
+                where={
+                    "$and": [
+                        {"source": "v2"},
+                        {"derived_from": {"$contains": f"-S{section}-"}},
+                    ]
+                },
+                include=["documents", "metadatas"],
+            )
+
+            count = 0
+
+            for doc_id, meta, content in zip(
+                v2_data["ids"],
+                v2_data["metadatas"] or [],
+                v2_data["documents"] or [],
+            ):
+                meta = meta or {}
+
+                if meta.get("concept_type") in (
+                    "alias",
+                    "intent",
+                    "relationship",
+                ):
+                    continue
+
+                if count >= 8:
+                    break
+
+                section_docs.append(
+                    (
+                        Document(
+                            page_content=content if isinstance(content, str) else "",
+                            metadata=meta,
+                        ),
+                        self.SECTION_LIFT_V2_RANK_CONST,
+                    )
+                )
+
+                count += 1
+
+        return section_docs
 
     def _tokenize(self, text: str) -> List[str]:
         return re.findall(r"[a-z0-9]+", text.lower())

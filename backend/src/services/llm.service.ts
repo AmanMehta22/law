@@ -6,6 +6,7 @@ export interface GenerateRequest {
   userPrompt: string;
   model?: string;
   temperature?: number;
+  onProvider?: (provider: "gemini" | "groq") => void;
 }
 
 interface ApiErrorLike extends Error {
@@ -191,6 +192,14 @@ class LLMService {
     return fullText;
   }
 
+  private allClientsCoolingDown(): boolean {
+    const now = Date.now();
+
+    return this.clients.every(
+      (_client, index) => (this.quotaCooldownUntil.get(index) ?? 0) > now,
+    );
+  }
+
   private async geminiGenerate(
     request: GenerateRequest,
     onToken: ((token: string) => void) | undefined,
@@ -198,13 +207,22 @@ class LLMService {
     let lastError: unknown;
     let tokensEmitted = 0;
 
+    const notifyGemini = () => request.onProvider?.("gemini");
+
+    // All keys are cooling down after recent quota hits: skip Gemini
+    // entirely and let the Groq fallback answer immediately instead of
+    // burning the full request timeout on a doomed attempt.
+    if (this.allClientsCoolingDown()) {
+      throw new Error("Gemini quota exhausted (all keys in cooldown)");
+    }
+
     for (let attempt = 1; attempt <= this.maxAttempts; attempt++) {
       const clientIndex = this.nextClientIndex();
       const client = this.clients[clientIndex];
 
       try {
         if (onToken) {
-          return await this.streamWithTimeout(
+          const text = await this.streamWithTimeout(
             client,
             request,
             onToken,
@@ -212,6 +230,10 @@ class LLMService {
               tokensEmitted = count;
             },
           );
+
+          notifyGemini();
+
+          return text;
         }
 
         const response = await this.withTimeout(
@@ -226,10 +248,11 @@ class LLMService {
           this.requestTimeoutMs,
         );
 
+        notifyGemini();
+
         return response.text ?? "";
       } catch (error) {
         lastError = error;
-
         if (
           !this.isRetryable(error) ||
           attempt === this.maxAttempts ||
@@ -239,6 +262,12 @@ class LLMService {
         }
 
         if ((error as ApiErrorLike | null)?.status === 429) {
+          this.markQuotaError(clientIndex);
+        }
+
+        if ((error as ApiErrorLike | null)?.status === 500) {
+          // Quota-exhausted free-tier accounts surface as INTERNAL errors
+          // instead of 429s; treat them as quota hits so the key cools down.
           this.markQuotaError(clientIndex);
         }
 
@@ -304,10 +333,14 @@ class LLMService {
       const keyIndex = this.nextGroqKeyIndex();
 
       try {
-        return await this.withTimeout(
+        const text = await this.withTimeout(
           this.groqCompletion(keyIndex, request),
           this.requestTimeoutMs,
         );
+
+        request.onProvider?.("groq");
+
+        return text;
       } catch (error) {
         lastError = error;
 
@@ -349,7 +382,9 @@ class LLMService {
     try {
       return await this.geminiGenerate(request, onToken);
     } catch (error) {
-      if (!this.isRetryable(error) || this.groqKeys.length === 0) {
+      // Any Gemini failure (quota, INTERNAL 500s, timeouts) is grounds for
+      // the Groq fallback; Gemini 500s are quota exhaustion in disguise.
+      if (this.groqKeys.length === 0) {
         throw error;
       }
 

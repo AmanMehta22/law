@@ -333,7 +333,7 @@ describe("LLMService Groq fallback", () => {
     }
   });
 
-  it("does not fall back to Groq on non-retryable Gemini errors", async () => {
+  it("falls back to Groq even on non-retryable Gemini errors", async () => {
     await reloadWithGroqKeys("groq-one");
 
     mockInstances[0].models.generateContent.mockRejectedValueOnce({
@@ -341,13 +341,19 @@ describe("LLMService Groq fallback", () => {
     });
 
     const fetchMock = vi.fn();
+    fetchMock.mockResolvedValueOnce({
+      ok: true,
+      json: async () => ({
+        choices: [{ message: { content: "groq rescue" } }],
+      }),
+    });
     vi.stubGlobal("fetch", fetchMock);
 
     await expect(
       module.llmService.generate({ systemPrompt: "s", userPrompt: "u" }),
-    ).rejects.toMatchObject({ status: 400 });
+    ).resolves.toBe("groq rescue");
 
-    expect(fetchMock).not.toHaveBeenCalled();
+    expect(fetchMock).toHaveBeenCalledTimes(1);
   });
 
   it("does not fall back when no Groq keys are configured", async () => {

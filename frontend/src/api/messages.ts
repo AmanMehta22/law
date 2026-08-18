@@ -17,6 +17,7 @@ export interface BackendMessageResult {
   quick_replies?: string[];
   is_low_confidence?: boolean;
   is_out_of_scope?: boolean;
+  provider?: 'gemini' | 'groq';
 }
 
 export interface MessageStreamHandlers {
@@ -45,6 +46,7 @@ export function toMessage(result: BackendMessageResult): Message {
       ? { is_out_of_scope: result.is_out_of_scope }
       : {}),
     ...(result.quick_replies ? { quick_replies: result.quick_replies } : {}),
+    ...(result.provider ? { provider: result.provider } : {}),
   };
 }
 
