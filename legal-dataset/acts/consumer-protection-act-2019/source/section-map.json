@@ -1,0 +1,607 @@
+{
+  "meta": {
+    "source_pdf": "consumer-protection-act-2019.pdf",
+    "act": "The Consumer Protection Act, 2019 (No. 35 of 2019)",
+    "assented": "2019-08-09",
+    "total_sections": 107,
+    "total_definitions": 47,
+    "note": "Derived from the Gazette PDF, which is the project's arbiter for section numbering. Pecuniary limits in s.34/47/58 are the figures as enacted (one crore / one crore to ten crore / above ten crore). Each carries a proviso letting the Central Government prescribe some other value. A prescribed value is subordinate legislation, is not part of this Act, and is deliberately OUT OF SCOPE for this project - do not add one here from memory or from a secondary source."
+  },
+  "definitions": {
+    "2(1)": "advertisement",
+    "2(2)": "appropriate laboratory",
+    "2(3)": "branch office",
+    "2(4)": "central authority",
+    "2(5)": "complainant",
+    "2(6)": "complaint",
+    "2(7)": "consumer",
+    "2(8)": "consumer dispute",
+    "2(9)": "consumer rights",
+    "2(10)": "defect",
+    "2(11)": "deficiency",
+    "2(12)": "design",
+    "2(13)": "direct selling",
+    "2(14)": "director-general",
+    "2(15)": "district commission",
+    "2(16)": "e-commerce",
+    "2(17)": "electronic service provider",
+    "2(18)": "endorsement",
+    "2(19)": "establishment",
+    "2(20)": "express warranty",
+    "2(21)": "goods",
+    "2(22)": "harm",
+    "2(23)": "injury",
+    "2(24)": "manufacturer",
+    "2(25)": "mediation",
+    "2(26)": "mediator",
+    "2(27)": "member",
+    "2(28)": "misleading advertisement",
+    "2(29)": "national commission",
+    "2(30)": "notification",
+    "2(31)": "person",
+    "2(32)": "prescribed",
+    "2(33)": "product",
+    "2(34)": "product liability",
+    "2(35)": "product liability action",
+    "2(36)": "product manufacturer",
+    "2(37)": "product seller",
+    "2(38)": "product service provider",
+    "2(39)": "regulations",
+    "2(40)": "regulator",
+    "2(41)": "restrictive trade practice",
+    "2(42)": "service",
+    "2(43)": "spurious goods",
+    "2(44)": "state commission",
+    "2(45)": "trader",
+    "2(46)": "unfair contract",
+    "2(47)": "unfair trade practice"
+  },
+  "definition_index": {
+    "advertisement": "2(1)",
+    "appropriate laboratory": "2(2)",
+    "branch office": "2(3)",
+    "central authority": "2(4)",
+    "complainant": "2(5)",
+    "complaint": "2(6)",
+    "consumer": "2(7)",
+    "consumer dispute": "2(8)",
+    "consumer rights": "2(9)",
+    "defect": "2(10)",
+    "deficiency": "2(11)",
+    "design": "2(12)",
+    "direct selling": "2(13)",
+    "director-general": "2(14)",
+    "district commission": "2(15)",
+    "e-commerce": "2(16)",
+    "electronic service provider": "2(17)",
+    "endorsement": "2(18)",
+    "establishment": "2(19)",
+    "express warranty": "2(20)",
+    "goods": "2(21)",
+    "harm": "2(22)",
+    "injury": "2(23)",
+    "manufacturer": "2(24)",
+    "mediation": "2(25)",
+    "mediator": "2(26)",
+    "member": "2(27)",
+    "misleading advertisement": "2(28)",
+    "national commission": "2(29)",
+    "notification": "2(30)",
+    "person": "2(31)",
+    "prescribed": "2(32)",
+    "product": "2(33)",
+    "product liability": "2(34)",
+    "product liability action": "2(35)",
+    "product manufacturer": "2(36)",
+    "product seller": "2(37)",
+    "product service provider": "2(38)",
+    "regulations": "2(39)",
+    "regulator": "2(40)",
+    "restrictive trade practice": "2(41)",
+    "service": "2(42)",
+    "spurious goods": "2(43)",
+    "state commission": "2(44)",
+    "trader": "2(45)",
+    "unfair contract": "2(46)",
+    "unfair trade practice": "2(47)"
+  },
+  "sections": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107
+  ],
+  "subsections": {
+    "1": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "2": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47"
+    ],
+    "3": [
+      "1",
+      "2"
+    ],
+    "4": [
+      "1",
+      "2"
+    ],
+    "5": [],
+    "6": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "7": [],
+    "8": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "9": [],
+    "10": [
+      "1",
+      "2",
+      "3"
+    ],
+    "11": [],
+    "12": [],
+    "13": [
+      "1",
+      "2",
+      "3"
+    ],
+    "14": [
+      "1",
+      "2"
+    ],
+    "15": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "16": [],
+    "17": [],
+    "18": [
+      "1",
+      "2"
+    ],
+    "19": [
+      "1",
+      "2",
+      "3"
+    ],
+    "20": [],
+    "21": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "22": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "23": [],
+    "24": [],
+    "25": [],
+    "26": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "27": [
+      "1",
+      "2"
+    ],
+    "28": [
+      "1",
+      "2",
+      "3"
+    ],
+    "29": [],
+    "30": [],
+    "31": [],
+    "32": [],
+    "33": [
+      "1",
+      "2",
+      "3"
+    ],
+    "34": [
+      "1",
+      "2"
+    ],
+    "35": [
+      "1",
+      "2"
+    ],
+    "36": [
+      "1",
+      "2",
+      "3"
+    ],
+    "37": [
+      "1",
+      "2"
+    ],
+    "38": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "39": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "40": [],
+    "41": [],
+    "42": [
+      "1",
+      "2",
+      "3"
+    ],
+    "43": [],
+    "44": [],
+    "45": [],
+    "46": [
+      "1",
+      "2",
+      "3"
+    ],
+    "47": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "48": [],
+    "49": [
+      "1",
+      "2"
+    ],
+    "50": [],
+    "51": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "52": [],
+    "53": [
+      "1",
+      "2"
+    ],
+    "54": [],
+    "55": [
+      "1",
+      "2"
+    ],
+    "56": [],
+    "57": [
+      "1",
+      "2",
+      "3"
+    ],
+    "58": [
+      "1",
+      "2",
+      "3"
+    ],
+    "59": [
+      "1",
+      "2"
+    ],
+    "60": [],
+    "61": [],
+    "62": [],
+    "63": [],
+    "64": [],
+    "65": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "66": [],
+    "67": [],
+    "68": [],
+    "69": [
+      "1",
+      "2"
+    ],
+    "70": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "71": [],
+    "72": [
+      "1",
+      "2",
+      "3"
+    ],
+    "73": [
+      "1",
+      "2",
+      "3"
+    ],
+    "74": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "75": [
+      "1",
+      "2",
+      "3"
+    ],
+    "76": [],
+    "77": [],
+    "78": [],
+    "79": [
+      "1",
+      "2",
+      "3"
+    ],
+    "80": [
+      "1",
+      "2",
+      "3"
+    ],
+    "81": [
+      "1",
+      "2",
+      "3"
+    ],
+    "82": [],
+    "83": [],
+    "84": [
+      "1",
+      "2"
+    ],
+    "85": [],
+    "86": [],
+    "87": [
+      "1",
+      "2",
+      "3"
+    ],
+    "88": [],
+    "89": [],
+    "90": [
+      "1",
+      "2",
+      "3"
+    ],
+    "91": [
+      "1",
+      "2",
+      "3"
+    ],
+    "92": [],
+    "93": [],
+    "94": [],
+    "95": [],
+    "96": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "97": [],
+    "98": [],
+    "99": [
+      "1",
+      "2"
+    ],
+    "100": [],
+    "101": [
+      "1",
+      "2"
+    ],
+    "102": [
+      "1",
+      "2"
+    ],
+    "103": [
+      "1",
+      "2"
+    ],
+    "104": [
+      "1",
+      "2"
+    ],
+    "105": [
+      "1",
+      "2"
+    ],
+    "106": [],
+    "107": [
+      "1",
+      "2",
+      "3"
+    ]
+  }
+}

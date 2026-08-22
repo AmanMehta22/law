@@ -8,7 +8,10 @@ build/
 
 # Environment
 .env
+.env.local
+.env.*.local
 RAG/data
+
 # Logs
 logs/
 *.log
@@ -34,12 +37,50 @@ coverage/
 # TypeScript
 *.tsbuildinfo
 
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+pip-wheel-metadata/
+.pytest_cache/
+.mypy_cache/
+.hypothesis/
+.ipynb_checkpoints/
 
+# Vector store data (large, regenerated)
+RAG/data/chroma_db/
+RAG/data/chroma/
+RAG/data/vector_store/
+RAG/*.sqlite3
+
+# Evaluation artifacts (regenerated)
+RAG/eval/qa-full*.json
+RAG/eval/qa-full*.jsonl
+RAG/eval/qa-r2*.jsonl
+RAG/eval/eval-report.json
+RAG/eval/anchor-*.md
+
+# Temporary files
+_tmp_*
+*.tmp
+*.temp
+*.mjs
+*.md
+
+# Test output
+test-results/
+.nyc_output/
+
+# Generated prisma
+/generated/prisma
+
+# IDE specific
 .agents/
 .claude/
 .windsurf/
-
-
-
-/generated/prisma
 

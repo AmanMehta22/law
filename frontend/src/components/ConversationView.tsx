@@ -5,6 +5,7 @@ import { useSendMessage } from '../hooks/useSendMessage';
 import { WelcomeState } from './WelcomeState';
 import { UserMessageBubble } from './UserMessageBubble';
 import { BotMessageCard } from './BotMessageCard';
+import { TextAnswer } from './TextAnswer';
 import { LoadingIndicator } from './LoadingIndicator';
 
 export const ConversationView: React.FC = () => {
@@ -74,10 +75,10 @@ export const ConversationView: React.FC = () => {
                 {streamStatus}
               </p>
             )}
-            <p className="text-sm text-neutral-900 whitespace-pre-wrap">
-              {streamingText}
+            <div className="relative">
+              <TextAnswer text={streamingText} />
               <span className="inline-block w-1.5 h-4 bg-[#1E3A5F] ml-0.5 align-middle animate-pulse" />
-            </p>
+            </div>
           </div>
         </div>
       ) : (

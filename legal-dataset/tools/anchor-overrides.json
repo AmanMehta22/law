@@ -1,0 +1,99 @@
+{
+  "_comment": [
+    "Hand-verified gold-anchor corrections for RAG/eval/qa-full.json.",
+    "",
+    "audit_gold_anchors.py repairs anchors it can derive mechanically (a section the",
+    "question cites, or an s.2 defined term). The entries below cannot be derived that",
+    "way - they need a reading of the statute - so each one records the evidence node id",
+    "and the reason, and is applied only if the file still holds the `was` value. That",
+    "makes every change reviewable and prevents silent drift or double application.",
+    "",
+    "`review` entries are deliberately NOT applied. They are questions where a single",
+    "anchor is the wrong data model, or where the question itself appears to rest on a",
+    "false premise. They need a human decision.",
+    "",
+    "Statute text quoted from legal-dataset/.../final/v1-statute.jsonl, which was",
+    "verified section-by-section against the source Gazette PDF."
+  ],
+  "corrections": {
+    "b071": {
+      "was": "S2-8",
+      "anchor": "S10",
+      "evidence": "CPA2019-CH3-S10-1",
+      "reason": "Anchor pointed at s.2(8) 'consumer dispute', which is unrelated. s.10(1) is the provision establishing the Central Consumer Protection Authority; its powers/functions are s.18."
+    },
+    "b079": {
+      "was": "S10",
+      "anchor": "S20",
+      "evidence": "CPA2019-CH3-S20",
+      "reason": "s.10 only establishes the Central Authority. The recall power is s.20, which lists verbatim '(a) recalling of goods or withdrawal of services which are dangerous, hazardous or unsafe'."
+    },
+    "b108": {
+      "was": "S89",
+      "anchor": "S91",
+      "evidence": "CPA2019-CH7-S91-1",
+      "reason": "s.89 penalises false or misleading advertisement. Spurious goods are s.91, which penalises whoever 'manufactures for sale or stores or sells or distributes or imports any spurious goods'."
+    },
+    "b114": {
+      "was": "S89",
+      "anchor": "S72",
+      "evidence": "CPA2019-CH4-S72-1",
+      "reason": "s.89 is false advertising. Non-compliance with a Commission order is s.72(1): 'Whoever fails to comply with any order made by the District Commission or the State Commission or the National Commission'."
+    }
+  },
+  "review": {
+    "b050": {
+      "keep": "S2-41",
+      "issue": "Asks the difference between Section 2(41)(i) and 2(41)(ii). A single anchor cannot express a two-clause comparison; the parent 2(41) is the least-wrong choice. Needs a multi-anchor schema."
+    },
+    "b054": {
+      "keep": "S2-47",
+      "issue": "Asks the difference between unfair trade practice (2(47)) and restrictive trade practice (2(41)). Both are gold; a single anchor penalises an answer for citing the other. Needs a multi-anchor schema."
+    },
+    "b077": {
+      "keep": "S28",
+      "issue": "Asks the 'role' of the District Commission. s.28 establishes it; its role/jurisdiction is s.34-s.39. Anchor is arguably s.34. Human call."
+    },
+    "b088": {
+      "keep": "S69",
+      "issue": "Asks 'Does Section 106 provide the general exception for delayed consumer complaints?' - a FALSE PREMISE. s.106 is 'power to remove difficulties'; the exception is s.69(2). The existing S69 anchor is correct and must not be rewritten to the cited section."
+    },
+    "b110": {
+      "keep": "S88",
+      "issue": "Asks the penalty for obstructing the Director General. No such offence appears in the Act. s.93 is the only DG-specific penalty and it runs the opposite way - it punishes the DG for search without reasonable grounds. s.88 (non-compliance with Central Authority directions) does not fit either. Likely a false-premise question; decide whether to re-anchor to s.93 or reword."
+    },
+    "b111": {
+      "keep": "S90",
+      "issue": "Asks who adjudicates offences and penalties. Current anchor s.90 (adulterant penalties) is wrong - s.90 creates an offence, it does not say who tries it. The Act answers the question in s.72(2), which provides that \"Notwithstanding anything contained in the Code of Criminal Procedure, 1973, the District Commission, the State Commission or the National Commission, as the case may be, shall have the power of a Judicial Magistrate of first class for the trial of offences\", and s.72(3), under which those offences are tried summarily. s.92 adds that cognizance of an offence under s.88 or s.89 may be taken by a competent court only on the Central Authority's complaint, and s.21 covers penalties the Central Authority imposes itself. Suggest S72 if a single anchor is required; s.92 is only the cognizance bar, not the adjudicating forum.",
+      "suggest": "S72"
+    },
+    "b113": {
+      "keep": "S89",
+      "issue": "Asks whether penalties are civil or criminal. Chapter-wide question: s.21 penalties are civil/administrative, Chapter VII (s.88-s.91) are criminal. No single section is the answer."
+    },
+    "b126": {
+      "keep": "S2-29",
+      "suggest": "S2-22",
+      "issue": "Asks whether 'harm' under product liability includes damage to property. The current anchor s.2(29) is the definition of 'National Commission' and cannot bear on the question at all. s.2(22) answers it in terms: \"'harm', in relation to a product liability, includes- (i) damage to any property, other than the product itself; (ii) personal injury, illness or death; (iii) mental agony or emotional distress...\". The warranty limb of the question is s.86(c) (product seller liable where a product fails to conform to his own express warranty). Recommend S2-22.",
+      "not_applied_because": "Retrieval already returns s.84(1), s.85 and definition.harm for this question, so applying the correction would raise the retriever's own measured score. Left for human sign-off to keep the 145/150 figure independent of any label edit."
+    },
+    "b134": {
+      "keep": "S2-18",
+      "suggest": "S2-20",
+      "issue": "A TV advertised with a ten-year warranty failed in two years; asks what rights arise. The current anchor s.2(18) is 'endorsement' (celebrity/advertising endorsements) and is unrelated. The operative definition is s.2(20) 'express warranty' - \"any material statement, affirmation of fact, promise or description relating to a product or service warranting that it conforms to such material statement\" - with s.86(c) making non-conformity to a seller's express warranty a product liability ground. s.2(10) 'defect' and s.2(9) consumer rights are also defensible, so this may be a multi-anchor question rather than a single-anchor correction.",
+      "not_applied_because": "More than one anchor is defensible, and the retriever already returns definition.express_warranty. Needs the multi-anchor schema (see b050, b054) or a human choice."
+    },
+    "b135": {
+      "keep": "S2-7",
+      "suggest": "S2-37",
+      "issue": "Asks whether the buyer of a fake product from a third-party seller can sue the e-commerce marketplace. The current anchor s.2(7) 'consumer' is not in dispute - the buyer is obviously a consumer - so it cannot be the answer. The question is whether the marketplace is a liable party: s.2(37) 'product seller' (a person who 'in the course of business, imports, sells, distributes, leases, installs, prepares, packages, labels, markets, repairs, maintains, or otherwise is involved in placing such product for commercial purpose'), s.2(17) 'electronic service provider', s.2(43) 'spurious goods' ('goods which are falsely claimed to be genuine'), and s.86, which sets out when a product seller who is not the manufacturer is liable. Recommend S2-37 or S86.",
+      "not_applied_because": "Same reason as b126 - retrieval already returns definition.product_seller first, so self-applying this would flatter the retriever. Note also that marketplace liability is largely governed by the Consumer Protection (E-Commerce) Rules, which are subordinate legislation and not in the Act PDF; an answer should say so rather than imply the Act settles it."
+    },
+    "b136": {
+      "keep": "S2-12",
+      "suggest": "S2-11",
+      "issue": "Asks whether deficiency of service can be claimed against a medical professional. The current anchor s.2(12) is the definition of 'design' in relation to a product, which is unrelated. The question turns on s.2(11) 'deficiency' and s.2(42) 'service'. Note the Act's definition of 'service' does not name medical services in its inclusive list, so whether medical treatment is a 'service' is a matter of judicial interpretation and NOT settled by the text of the Act - an answer must not present it as if it were.",
+      "not_applied_because": "Two anchors are jointly required (s.2(11) and s.2(42)); also the substantive answer depends on case law outside the Act, which this dataset does not carry. This is the one question in the set that matches five routes, so it is also the best test case for route over-firing."
+    }
+  }
+}

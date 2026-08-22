@@ -69,15 +69,23 @@ claims; the 20th, S.22(3), was confirmed directly against the file text).
    commercial-purpose consumer exclusion) are so short that BM25 and dense
    both prefer their `example.*` twins or `definition.consumer`. Strict recall
    for the exceptions category is 0% while content recall is 100%.
-3. **Jurisdiction value figures are inconsistent in the dataset** — the
-   canonical `jurisdiction.*_other_value_of_goods_and_services` cards say only
-   "other value of goods and services / as prescribed" (no figures), while some
-   `example.*` and `obligation.*` cards carry the pre-2021 limits ("exceeds one
-   crore... ten crore"). The 2021-amended limits (District ≤ ₹50L, State
-   ₹50L–₹2Cr, National > ₹2Cr) are not consistently reflected. The V1 statute
-   text itself (`S34-1`, `S47-1`, `S58-1`) still shows the pre-2021 figures;
-   section numbers are unchanged by the amendment, so citations remain valid.
-   Fixing the dataset is future work; the eval accepts any
+3. **Jurisdiction value figures — RESOLVED AS A SCOPE DECISION, NOT A DEFECT
+   (2026-08-22)** — the canonical `jurisdiction.*_other_value_of_goods_and_services`
+   cards say only "other value of goods and services / as prescribed" (no
+   figures), while some `example.*` and `obligation.*` cards carry the enacted
+   limits ("exceeds one crore... ten crore"). The V1 statute text (`S34-1`,
+   `S47-1`, `S58-1`) also carries the enacted figures, because that is what the
+   Act says. **This is correct and must not be "fixed".** Two things an earlier
+   version of this note got wrong: the post-enactment limits were made by
+   notification under the proviso in each of those provisions, *not* by amending
+   the Act, so calling them "2021-amended limits" misdescribes them; and a
+   prescribed value is subordinate legislation that is not part of the Act, so it
+   is out of scope for this project, whose sole source of truth is the Consumer
+   Protection Act, 2019 as enacted. Do NOT write prescribed figures into the
+   dataset, the cards, the calculators or the prompts. The answer path instead
+   states the enacted figure, surfaces the prescribing proviso, and tells the user
+   to check the value currently in force (see `prompts/statuteGrounding.rules.ts`
+   rule S3 and `services/calculators.service.ts`). The eval accepts any
    State-commission-value card as content-correct for ev-052.
 4. **V1 statute chunks (476) are excluded from retrieval** — they remain in the
    collection for the future citation feature but no longer pollute hybrid

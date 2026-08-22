@@ -1,0 +1,902 @@
+[
+  {
+    "id": "b001",
+    "category": "rights",
+    "anchor": "S2-9",
+    "question": "What are the six consumer rights recognised under Section 2(9) of the Consumer Protection Act, 2019?"
+  },
+  {
+    "id": "b002",
+    "category": "rights",
+    "anchor": "S2-9-1",
+    "question": "What is the right to be protected under Section 2(9)(i)?"
+  },
+  {
+    "id": "b003",
+    "category": "rights",
+    "anchor": "S2-9-2",
+    "question": "What information does the right to be informed under Section 2(9)(ii) cover?"
+  },
+  {
+    "id": "b004",
+    "category": "rights",
+    "anchor": "S2-9-3",
+    "question": "What does the right to be assured access to a variety of goods at competitive prices mean?"
+  },
+  {
+    "id": "b005",
+    "category": "rights",
+    "anchor": "S2-9-4",
+    "question": "What does the right to be heard under Section 2(9)(iv) provide?"
+  },
+  {
+    "id": "b006",
+    "category": "rights",
+    "anchor": "S2-9-5",
+    "question": "What does the right to seek redressal under Section 2(9)(v) allow a consumer to seek redressal against?"
+  },
+  {
+    "id": "b007",
+    "category": "rights",
+    "anchor": "S2-9-6",
+    "question": "What does the right to consumer awareness under Section 2(9)(vi) mean?"
+  },
+  {
+    "id": "b008",
+    "category": "rights",
+    "anchor": "S2-9",
+    "question": "Is compensation one of the six consumer rights under Section 2(9)?"
+  },
+  {
+    "id": "b009",
+    "category": "rights",
+    "anchor": "S2-9",
+    "question": "Is refund one of the six consumer rights under Section 2(9)?"
+  },
+  {
+    "id": "b010",
+    "category": "rights",
+    "anchor": "S2-9",
+    "question": "Is replacement one of the six consumer rights under Section 2(9)?"
+  },
+  {
+    "id": "b011",
+    "category": "rights",
+    "anchor": "S2-9-1",
+    "question": "I bought an electrical appliance that the seller knew was dangerous. Which consumer right is relevant?"
+  },
+  {
+    "id": "b012",
+    "category": "rights",
+    "anchor": "S2-9-1",
+    "question": "A supermarket continues selling an appliance despite knowing that it can cause electric shocks. Which consumer right may be affected?"
+  },
+  {
+    "id": "b013",
+    "category": "rights",
+    "anchor": "S2-9-1",
+    "question": "Does the right to protection apply only when the consumer has already suffered an injury?"
+  },
+  {
+    "id": "b014",
+    "category": "rights",
+    "anchor": "S2-9-1",
+    "question": "A toy contains a dangerous chemical but has not injured anyone yet. Is the right to protection relevant?"
+  },
+  {
+    "id": "b015",
+    "category": "rights",
+    "anchor": "S2-9-1",
+    "question": "Does Section 2(9)(i) guarantee that every product sold to consumers must be completely risk-free?"
+  },
+  {
+    "id": "b016",
+    "category": "rights",
+    "anchor": "S2-9-2",
+    "question": "A food package does not clearly display its price. Which consumer right is relevant?"
+  },
+  {
+    "id": "b017",
+    "category": "rights",
+    "anchor": "S2-9-2",
+    "question": "A seller refuses to disclose the quantity of a packaged product. Which right is affected?"
+  },
+  {
+    "id": "b018",
+    "category": "rights",
+    "anchor": "S2-9-2",
+    "question": "A cosmetic product falsely states its ingredients. Which consumer right is relevant?"
+  },
+  {
+    "id": "b019",
+    "category": "rights",
+    "anchor": "S2-9-2",
+    "question": "Does the right to be informed guarantee that every seller must disclose every possible fact about a product?"
+  },
+  {
+    "id": "b020",
+    "category": "rights",
+    "anchor": "S2-9-2",
+    "question": "A product's specifications are clearly and accurately displayed, but the consumer does not read them. Has the seller necessarily violated the right to be informed?"
+  },
+  {
+    "id": "b021",
+    "category": "rights",
+    "anchor": "S2-9-3",
+    "question": "A retailer sells only one brand in its store. Does this automatically violate Section 2(9)(iii)?"
+  },
+  {
+    "id": "b022",
+    "category": "rights",
+    "anchor": "S2-9-3",
+    "question": "Does Section 2(9)(iii) guarantee the lowest possible price for every product?"
+  },
+  {
+    "id": "b023",
+    "category": "rights",
+    "anchor": "S2-9-3",
+    "question": "Can a consumer demand that a seller reduce its price because of Section 2(9)(iii)?"
+  },
+  {
+    "id": "b024",
+    "category": "rights",
+    "anchor": "S2-9-4",
+    "question": "Does the right to be heard guarantee that the seller must accept the consumer's requested remedy?"
+  },
+  {
+    "id": "b025",
+    "category": "rights",
+    "anchor": "S2-9-4",
+    "question": "Does the right to be heard automatically guarantee a refund?"
+  },
+  {
+    "id": "b026",
+    "category": "rights",
+    "anchor": "S2-9-4",
+    "question": "Is the right to be heard the same as the right to seek redressal?"
+  },
+  {
+    "id": "b027",
+    "category": "rights",
+    "anchor": "S2-9-4",
+    "question": "Does Section 2(9)(iv) itself specify the complete procedure for consumer complaints?"
+  },
+  {
+    "id": "b028",
+    "category": "rights",
+    "anchor": "S2-9-5",
+    "question": "A seller uses an unfair trade practice against a consumer. Which consumer right is relevant?"
+  },
+  {
+    "id": "b029",
+    "category": "rights",
+    "anchor": "S2-9-5",
+    "question": "Is the right to seek redressal itself a guarantee that the consumer will win the complaint?"
+  },
+  {
+    "id": "b030",
+    "category": "rights",
+    "anchor": "S2-9-5",
+    "question": "Does Section 2(9)(v) itself specify that every consumer must receive a refund?"
+  },
+  {
+    "id": "b031",
+    "category": "rights",
+    "anchor": "S2-9-6",
+    "question": "Does the right to consumer awareness mean that the government must personally educate every consumer?"
+  },
+  {
+    "id": "b032",
+    "category": "rights",
+    "anchor": "S2-9",
+    "question": "What is the difference between a consumer right and a consumer remedy under the CPA 2019?"
+  },
+  {
+    "id": "b033",
+    "category": "definitions",
+    "anchor": "S2-7",
+    "question": "What is the definition of a consumer under Section 2(7) of the Act?"
+  },
+  {
+    "id": "b034",
+    "category": "definitions",
+    "anchor": "S2-7",
+    "question": "Does a person who buys goods for resale or for a commercial purpose qualify as a consumer?"
+  },
+  {
+    "id": "b035",
+    "category": "definitions",
+    "anchor": "S2-7",
+    "question": "Does a person have to personally pay for a product to be a consumer?"
+  },
+  {
+    "id": "b036",
+    "category": "definitions",
+    "anchor": "S2-7",
+    "question": "My father bought a laptop and gave it to me as a gift. Can I be treated as a consumer even though I didn't pay for it?"
+  },
+  {
+    "id": "b037",
+    "category": "definitions",
+    "anchor": "S2-7",
+    "question": "Does every person who uses someone else's product automatically become a consumer?"
+  },
+  {
+    "id": "b038",
+    "category": "definitions",
+    "anchor": "S2-21",
+    "question": "What is 'goods' under the Act? Are immovable properties like land and buildings covered?"
+  },
+  {
+    "id": "b039",
+    "category": "definitions",
+    "anchor": "S2-42",
+    "question": "What is 'service' under the Act? Are free services covered?"
+  },
+  {
+    "id": "b040",
+    "category": "definitions",
+    "anchor": "S2-6",
+    "question": "What is a complaint under the Act? Does it have to be in writing?"
+  },
+  {
+    "id": "b041",
+    "category": "definitions",
+    "anchor": "S2-5",
+    "question": "Who can file a complaint under the Act (who is a complainant)?"
+  },
+  {
+    "id": "b042",
+    "category": "definitions",
+    "anchor": "S2-8",
+    "question": "What is a consumer dispute under the Act?"
+  },
+  {
+    "id": "b043",
+    "category": "definitions",
+    "anchor": "S2-10",
+    "question": "What is the definition of 'defect' under the Act?"
+  },
+  {
+    "id": "b044",
+    "category": "definitions",
+    "anchor": "S2-10",
+    "question": "A product works exactly as promised but I do not like its colour. Is that a defect under the Act?"
+  },
+  {
+    "id": "b045",
+    "category": "definitions",
+    "anchor": "S2-11",
+    "question": "What is 'deficiency' under the Act?"
+  },
+  {
+    "id": "b046",
+    "category": "definitions",
+    "anchor": "S2-46",
+    "question": "What is an unfair contract under the Act? List the terms that can make a contract unfair."
+  },
+  {
+    "id": "b047",
+    "category": "definitions",
+    "anchor": "S2-41",
+    "question": "What is a restrictive trade practice under Section 2(41)?"
+  },
+  {
+    "id": "b048",
+    "category": "definitions",
+    "anchor": "S2-41-1",
+    "question": "What does Section 2(41)(i) cover?"
+  },
+  {
+    "id": "b049",
+    "category": "definitions",
+    "anchor": "S2-41-2",
+    "question": "What does Section 2(41)(ii) cover?"
+  },
+  {
+    "id": "b050",
+    "category": "definitions",
+    "anchor": "S2-41",
+    "question": "What is the difference between Section 2(41)(i) and Section 2(41)(ii)?"
+  },
+  {
+    "id": "b051",
+    "category": "definitions",
+    "anchor": "S2-47",
+    "question": "What is an unfair trade practice under Section 2(47)?"
+  },
+  {
+    "id": "b052",
+    "category": "definitions",
+    "anchor": "S2-47",
+    "question": "A company falsely claims that its refrigerator is of a particular quality. Could Section 2(47) apply?"
+  },
+  {
+    "id": "b053",
+    "category": "definitions",
+    "anchor": "S2-47",
+    "question": "A phone is advertised as having 256 GB but has only 128 GB. Could this be an unfair trade practice?"
+  },
+  {
+    "id": "b054",
+    "category": "definitions",
+    "anchor": "S2-47",
+    "question": "What is the difference between an unfair trade practice and a restrictive trade practice?"
+  },
+  {
+    "id": "b055",
+    "category": "definitions",
+    "anchor": "S2-28",
+    "question": "What is a misleading advertisement under the Act?"
+  },
+  {
+    "id": "b056",
+    "category": "definitions",
+    "anchor": "S2-28",
+    "question": "What is the relationship between misleading advertisements and unfair trade practices?"
+  },
+  {
+    "id": "b057",
+    "category": "definitions",
+    "anchor": "S2-43",
+    "question": "What are spurious goods under the Act?"
+  },
+  {
+    "id": "b058",
+    "category": "definitions",
+    "anchor": "S2-33",
+    "question": "What is 'product' under the Act? Does it include human tissues and blood?"
+  },
+  {
+    "id": "b059",
+    "category": "definitions",
+    "anchor": "S2-22",
+    "question": "What is 'harm' under the Act? Is damage to the product itself covered?"
+  },
+  {
+    "id": "b060",
+    "category": "definitions",
+    "anchor": "S2-34",
+    "question": "What is product liability under the Act and who can be held liable?"
+  },
+  {
+    "id": "b061",
+    "category": "definitions",
+    "anchor": "S2-35",
+    "question": "What is a product liability action and before which forum is it filed?"
+  },
+  {
+    "id": "b062",
+    "category": "definitions",
+    "anchor": "S2-36",
+    "question": "Who is a product manufacturer under the Act?"
+  },
+  {
+    "id": "b063",
+    "category": "definitions",
+    "anchor": "S2-37",
+    "question": "Who is a product seller under the Act?"
+  },
+  {
+    "id": "b064",
+    "category": "definitions",
+    "anchor": "S2-38",
+    "question": "Who is a product service provider under the Act?"
+  },
+  {
+    "id": "b065",
+    "category": "definitions",
+    "anchor": "S2-20",
+    "question": "What is an express warranty under the Act?"
+  },
+  {
+    "id": "b066",
+    "category": "definitions",
+    "anchor": "S2-1",
+    "question": "What is an advertisement under the Act?"
+  },
+  {
+    "id": "b067",
+    "category": "definitions",
+    "anchor": "S2-18",
+    "question": "What is endorsement under the Act? Are celebrities endorsing products covered?"
+  },
+  {
+    "id": "b068",
+    "category": "definitions",
+    "anchor": "S2-19",
+    "question": "What does 'establishment' include under the Act?"
+  },
+  {
+    "id": "b069",
+    "category": "definitions",
+    "anchor": "S2-17",
+    "question": "What is an electronic service provider under the Act? Is it limited to online sellers?"
+  },
+  {
+    "id": "b070",
+    "category": "definitions",
+    "anchor": "S2-13",
+    "question": "What is direct selling under the Act?"
+  },
+  {
+    "id": "b071",
+    "category": "authorities",
+    "anchor": "S2-8",
+    "question": "What is the Central Consumer Protection Authority and what powers does it have?"
+  },
+  {
+    "id": "b072",
+    "category": "authorities",
+    "anchor": "S15",
+    "question": "Who appoints the Director General under the Act and what is his role?"
+  },
+  {
+    "id": "b073",
+    "category": "authorities",
+    "anchor": "S34",
+    "question": "What is the pecuniary jurisdiction of the District Commission?"
+  },
+  {
+    "id": "b074",
+    "category": "authorities",
+    "anchor": "S47",
+    "question": "What is the pecuniary jurisdiction of the State Commission?"
+  },
+  {
+    "id": "b075",
+    "category": "authorities",
+    "anchor": "S58",
+    "question": "What is the pecuniary jurisdiction of the National Commission?"
+  },
+  {
+    "id": "b076",
+    "category": "authorities",
+    "anchor": "S34",
+    "question": "Where can a consumer file a complaint under the Act?"
+  },
+  {
+    "id": "b077",
+    "category": "authorities",
+    "anchor": "S28",
+    "question": "What is the role of the District Consumer Commission?"
+  },
+  {
+    "id": "b078",
+    "category": "authorities",
+    "anchor": "S42",
+    "question": "How is the State Commission established and who appoints its President?"
+  },
+  {
+    "id": "b079",
+    "category": "authorities",
+    "anchor": "S10",
+    "question": "Can the Central Authority order recall of goods or withdrawal of services?"
+  },
+  {
+    "id": "b080",
+    "category": "authorities",
+    "anchor": "S21",
+    "question": "Can the Central Authority impose penalties for misleading advertisements?"
+  },
+  {
+    "id": "b081",
+    "category": "procedures",
+    "anchor": "S35",
+    "question": "How do I file a complaint with the District Commission and what documents are needed?"
+  },
+  {
+    "id": "b082",
+    "category": "procedures",
+    "anchor": "S36",
+    "question": "What happens after a complaint is filed? What is the timeline for deciding admissibility?"
+  },
+  {
+    "id": "b083",
+    "category": "procedures",
+    "anchor": "S38",
+    "question": "What happens after a consumer complaint is admitted by the District Commission?"
+  },
+  {
+    "id": "b084",
+    "category": "procedures",
+    "anchor": "S38",
+    "question": "How are defects in goods examined under the Act? What is the role of the laboratory?"
+  },
+  {
+    "id": "b085",
+    "category": "procedures",
+    "anchor": "S38",
+    "question": "What happens when a party disputes the report of the appropriate laboratory?"
+  },
+  {
+    "id": "b086",
+    "category": "procedures",
+    "anchor": "S69",
+    "question": "What is the limitation period for filing a consumer complaint under Section 69?"
+  },
+  {
+    "id": "b087",
+    "category": "procedures",
+    "anchor": "S69",
+    "question": "Can delay in filing a complaint be condoned?"
+  },
+  {
+    "id": "b088",
+    "category": "procedures",
+    "anchor": "S69",
+    "question": "Does Section 106 provide the general exception for delayed consumer complaints?"
+  },
+  {
+    "id": "b089",
+    "category": "procedures",
+    "anchor": "S41",
+    "question": "How do I appeal against an order of the District Commission?"
+  },
+  {
+    "id": "b090",
+    "category": "procedures",
+    "anchor": "S51",
+    "question": "How do I appeal against an order of the State Commission?"
+  },
+  {
+    "id": "b091",
+    "category": "procedures",
+    "anchor": "S67",
+    "question": "Can a consumer appeal against an order of the National Commission?"
+  },
+  {
+    "id": "b092",
+    "category": "procedures",
+    "anchor": "S41",
+    "question": "Is there a pre-deposit required for filing an appeal under the Act?"
+  },
+  {
+    "id": "b093",
+    "category": "procedures",
+    "anchor": "S74",
+    "question": "How does mediation work under the Act? When is mediation required?"
+  },
+  {
+    "id": "b094",
+    "category": "procedures",
+    "anchor": "S79",
+    "question": "When is mediation not permitted under the Act?"
+  },
+  {
+    "id": "b095",
+    "category": "procedures",
+    "anchor": "S71",
+    "question": "How are orders of the consumer commissions executed?"
+  },
+  {
+    "id": "b096",
+    "category": "procedures",
+    "anchor": "S72",
+    "question": "What happens if a trader does not comply with the Commission's order?"
+  },
+  {
+    "id": "b097",
+    "category": "remedies",
+    "anchor": "S39",
+    "question": "Which provision deals with the orders that the District Commission may pass?"
+  },
+  {
+    "id": "b098",
+    "category": "remedies",
+    "anchor": "S39",
+    "question": "What remedies can a District Commission order under Section 39?"
+  },
+  {
+    "id": "b099",
+    "category": "remedies",
+    "anchor": "S39",
+    "question": "Can the District Commission order replacement of defective goods?"
+  },
+  {
+    "id": "b100",
+    "category": "remedies",
+    "anchor": "S39",
+    "question": "Can the District Commission order refund of the price paid?"
+  },
+  {
+    "id": "b101",
+    "category": "remedies",
+    "anchor": "S39",
+    "question": "Can the District Commission award compensation?"
+  },
+  {
+    "id": "b102",
+    "category": "remedies",
+    "anchor": "S39",
+    "question": "Does Section 39 specifically mention repair as an order?"
+  },
+  {
+    "id": "b103",
+    "category": "remedies",
+    "anchor": "S39",
+    "question": "What is the difference between replacement and removal of a defect under Section 39?"
+  },
+  {
+    "id": "b104",
+    "category": "remedies",
+    "anchor": "S39",
+    "question": "I bought a defective car. Can I demand a replacement instead of a repair?"
+  },
+  {
+    "id": "b105",
+    "category": "remedies",
+    "anchor": "S39",
+    "question": "Can the Commission order withdrawal of hazardous goods from the market?"
+  },
+  {
+    "id": "b106",
+    "category": "remedies",
+    "anchor": "S39",
+    "question": "Can the Commission award punitive damages?"
+  },
+  {
+    "id": "b107",
+    "category": "penalties",
+    "anchor": "S89",
+    "question": "What is the penalty for publishing a false or misleading advertisement?"
+  },
+  {
+    "id": "b108",
+    "category": "penalties",
+    "anchor": "S89",
+    "question": "What is the penalty for manufacturing or selling spurious goods?"
+  },
+  {
+    "id": "b109",
+    "category": "penalties",
+    "anchor": "S88",
+    "question": "What is the penalty for non-compliance with a direction of the Central Authority?"
+  },
+  {
+    "id": "b110",
+    "category": "penalties",
+    "anchor": "S88",
+    "question": "What is the penalty for obstructing the Director General or his officers?"
+  },
+  {
+    "id": "b111",
+    "category": "penalties",
+    "anchor": "S90",
+    "question": "Who adjudicates offences and penalties under the Act?"
+  },
+  {
+    "id": "b112",
+    "category": "penalties",
+    "anchor": "S89",
+    "question": "What happens for a second or subsequent contravention of the Act?"
+  },
+  {
+    "id": "b113",
+    "category": "penalties",
+    "anchor": "S89",
+    "question": "Are penalties under the Act civil or criminal in nature?"
+  },
+  {
+    "id": "b114",
+    "category": "penalties",
+    "anchor": "S89",
+    "question": "What penalties apply for not complying with an order of the consumer commission?"
+  },
+  {
+    "id": "b115",
+    "category": "timelines",
+    "anchor": "S36",
+    "question": "Within how many days must the admissibility of a complaint be decided?"
+  },
+  {
+    "id": "b116",
+    "category": "timelines",
+    "anchor": "S38",
+    "question": "Within how many days should the District Commission decide a complaint where no laboratory test is needed?"
+  },
+  {
+    "id": "b117",
+    "category": "timelines",
+    "anchor": "S41",
+    "question": "What is the time limit for filing an appeal from a District Commission order to the State Commission?"
+  },
+  {
+    "id": "b118",
+    "category": "timelines",
+    "anchor": "S51",
+    "question": "What is the time limit for filing an appeal from a State Commission order to the National Commission?"
+  },
+  {
+    "id": "b119",
+    "category": "timelines",
+    "anchor": "S67",
+    "question": "What is the time limit for filing an appeal from a National Commission order to the Supreme Court?"
+  },
+  {
+    "id": "b120",
+    "category": "timelines",
+    "anchor": "S38",
+    "question": "How long can a laboratory take to submit its report?"
+  },
+  {
+    "id": "b121",
+    "category": "product_liability",
+    "anchor": "S84",
+    "question": "A defective product injured my child. Against whom can I claim product liability?"
+  },
+  {
+    "id": "b122",
+    "category": "product_liability",
+    "anchor": "S85",
+    "question": "When can a product manufacturer be held liable for harm caused by a product?"
+  },
+  {
+    "id": "b123",
+    "category": "product_liability",
+    "anchor": "S86",
+    "question": "What are the grounds for product liability of a product seller?"
+  },
+  {
+    "id": "b124",
+    "category": "product_liability",
+    "anchor": "S87",
+    "question": "What defences are available to a product manufacturer or seller in a product liability action?"
+  },
+  {
+    "id": "b125",
+    "category": "product_liability",
+    "anchor": "S84",
+    "question": "I bought a washing machine that was delivered damaged. Who is responsible, the seller or the manufacturer?"
+  },
+  {
+    "id": "b126",
+    "category": "product_liability",
+    "anchor": "S2-29",
+    "question": "Does harm under product liability include damage to property on account of breach of warranty conditions?"
+  },
+  {
+    "id": "b127",
+    "category": "scenarios",
+    "anchor": "S2-9",
+    "question": "I bought a smartphone that stopped working within three days of purchase. What can I do under the Act?"
+  },
+  {
+    "id": "b128",
+    "category": "scenarios",
+    "anchor": "S2-42",
+    "question": "My builder delayed my flat by three years. Is this a deficiency of service?"
+  },
+  {
+    "id": "b129",
+    "category": "scenarios",
+    "anchor": "S2-47",
+    "question": "A shop charged me more than the printed price on the package. What remedy do I have?"
+  },
+  {
+    "id": "b130",
+    "category": "scenarios",
+    "anchor": "S2-7",
+    "question": "I ordered a product online, it never arrived, and the seller is not responding. What are my options?"
+  },
+  {
+    "id": "b131",
+    "category": "scenarios",
+    "anchor": "S2-41",
+    "question": "A gym forces me to buy their protein powder as a condition for taking a membership. Is there any legal issue?"
+  },
+  {
+    "id": "b132",
+    "category": "scenarios",
+    "anchor": "S2-42",
+    "question": "My insurance claim was rejected without any reason. What can I do?"
+  },
+  {
+    "id": "b133",
+    "category": "scenarios",
+    "anchor": "S2-47",
+    "question": "A restaurant added an automatic service charge to my bill without mentioning it. Is this a misleading practice?"
+  },
+  {
+    "id": "b134",
+    "category": "scenarios",
+    "anchor": "S2-18",
+    "question": "I bought a TV advertised with a ten-year warranty and it stopped working in two years. What are my rights?"
+  },
+  {
+    "id": "b135",
+    "category": "scenarios",
+    "anchor": "S2-7",
+    "question": "I bought a fake product from a third-party seller on an e-commerce marketplace. Can I sue the marketplace?"
+  },
+  {
+    "id": "b136",
+    "category": "scenarios",
+    "anchor": "S2-12",
+    "question": "A doctor's treatment caused me harm. Can I claim deficiency of service against a medical professional?"
+  },
+  {
+    "id": "b137",
+    "category": "scenarios",
+    "anchor": "S2-47",
+    "question": "A store advertised '10% off' but first increased all prices and then gave the discount. Is this an unfair trade practice?"
+  },
+  {
+    "id": "b138",
+    "category": "scenarios",
+    "anchor": "S69",
+    "question": "I discovered a defect three years ago but had a valid reason for not filing earlier. Can I still approach the Consumer Commission?"
+  },
+  {
+    "id": "b139",
+    "category": "scenarios",
+    "anchor": "S39",
+    "question": "The seller says the warranty only covers repair and refuses replacement. What should the consumer-rights analysis consider?"
+  },
+  {
+    "id": "b140",
+    "category": "scenarios",
+    "anchor": "S2-9",
+    "question": "A washing machine stops working repeatedly during the warranty period. What consumer-rights issues could arise?"
+  },
+  {
+    "id": "b141",
+    "category": "edge",
+    "anchor": "S2-47",
+    "question": "A refrigerator advertisement states the appliance consumes 100 units of electricity per year when tested under a specific laboratory condition, and the advertisement clearly discloses that condition. A consumer's actual household consumption is higher. Does this automatically mean the manufacturer has violated the consumer's right to be informed or committed an unfair trade practice?"
+  },
+  {
+    "id": "b142",
+    "category": "edge",
+    "anchor": "S2-41-2",
+    "question": "A retailer requires the consumer to buy an antivirus package as a condition of buying a laptop. Does Section 2(41)(ii) require separate proof of price manipulation?"
+  },
+  {
+    "id": "b143",
+    "category": "edge",
+    "anchor": "S2-47",
+    "question": "Does every misleading statement automatically constitute an unfair trade practice?"
+  },
+  {
+    "id": "b144",
+    "category": "edge",
+    "anchor": "S2-47",
+    "question": "An advertisement says 'the best phone in the world'. Is this automatically a misleading advertisement?"
+  },
+  {
+    "id": "b145",
+    "category": "edge",
+    "anchor": "S2-9-1",
+    "question": "A product has an ordinary and disclosed safety risk. Does that automatically violate the right to protection?"
+  },
+  {
+    "id": "b146",
+    "category": "edge",
+    "anchor": "S2-42",
+    "question": "A company's service was slow because of an unforeseeable power cut beyond its control. Is that automatically a deficiency of service?"
+  },
+  {
+    "id": "b147",
+    "category": "edge",
+    "anchor": "S2-21",
+    "question": "I purchased a plot of land and the builder did not deliver it. Is this dispute covered by the Consumer Protection Act?"
+  },
+  {
+    "id": "b148",
+    "category": "edge",
+    "anchor": "S2-7",
+    "question": "I bought goods and resold them at a profit. Am I still a consumer in respect of that purchase?"
+  },
+  {
+    "id": "b149",
+    "category": "edge",
+    "anchor": "S2-9-4",
+    "question": "A consumer's grievance is ignored by the appropriate consumer forum. Which right may be relevant?"
+  },
+  {
+    "id": "b150",
+    "category": "edge",
+    "anchor": "S2-9",
+    "question": "I purchased a defective product, the seller refuses to resolve the issue, and I want a refund. What consumer rights, relevant statutory provisions, and possible remedies should I consider under the Consumer Protection Act, 2019?"
+  }
+]

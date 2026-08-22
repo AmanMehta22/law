@@ -1,0 +1,67 @@
+# Dependencies
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Build output
+dist/
+build/
+*.egg-info/
+pip-wheel-metadata/
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Coverage
+coverage/
+htmlcov/
+.coverage
+.pytest_cache/
+.mypy_cache/
+.hypothesis/
+
+# Vector store data (large, regenerated)
+data/chroma_db/
+data/chroma/
+data/vector_store/
+*.sqlite3
+
+# Temporary files
+_tmp_*.py
+*.tmp
+*.temp
+
+# Test output
+test-results/
+.nyc_output/
+
+# Evaluation artifacts (regenerated)
+eval/qa-full*.json
+eval/qa-full*.jsonl
+eval/qa-r2*.jsonl
+eval/eval-report.json
+eval/anchor-*.md
+
+# Jupyter
+.ipynb_checkpoints/

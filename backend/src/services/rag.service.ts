@@ -1,6 +1,7 @@
 import { env } from "../config";
 
 export interface RagMetadata {
+  /** `"v1"` for a verbatim statute chunk, `"v2"` for a knowledge card. */
   source?: string;
   concept_id?: string;
   concept_type?: string;
@@ -8,6 +9,17 @@ export interface RagMetadata {
   review_status?: string;
   derived_from?: string;
   related_concepts?: string;
+
+  // Present only on `source: "v1"` statute chunks. The retriever's dense search is
+  // filtered to `source: "v2"`, so these arrive only via its section-lift path —
+  // which fires when the query names a section explicitly. They must be recognised,
+  // or genuine statutory text gets rendered to the model as interpretive material.
+  v1_id?: string;
+  official_text?: string;
+  section_number?: string;
+  subsection_number?: string;
+  node_type?: string;
+  content_type?: string;
 }
 
 export interface RagResult {

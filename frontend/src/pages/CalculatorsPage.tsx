@@ -163,7 +163,7 @@ const JurisdictionCalculator: React.FC = () => {
       </p>
 
       <label className="text-xs font-medium text-neutral-600 mb-1.5">
-        Total claim value (goods/services + compensation claimed) in ₹
+        Value of the goods or services paid as consideration, in ₹
       </label>
       <input
         type="number"
@@ -219,6 +219,11 @@ const JurisdictionResultView: React.FC<{ result: JurisdictionResult }> = ({ resu
           {result.section} — {result.explanation}
         </p>
       </div>
+      {result.prescribedValueNote && (
+        <p className="text-xs text-amber-800 bg-amber-50 border border-amber-200 rounded-lg p-3">
+          {result.prescribedValueNote}
+        </p>
+      )}
     </div>
   );
 };
