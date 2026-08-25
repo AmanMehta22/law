@@ -7,15 +7,17 @@ interface TextAnswerProps {
 /**
  * Renders a bot answer as lightly-structured text.
  *
- * The answer prompts (generalAnswer / caseAnswer) instruct the model to "use
- * headings or bullet points when useful", so the streamed text routinely
- * contains markdown-ish structure: `## headings`, `-`/`*`/`•` bullets, `1.`
- * numbered steps, and single line breaks between them. The previous version
- * only split on blank lines and only handled `**bold**`, so every list ran
- * together onto one line and the markers showed up as literal characters.
+ * The answer prompts (generalAnswer / caseAnswer) compose PLAIN_LANGUAGE_RULES,
+ * which asks for four bold headings ("**Short answer**", "**Why**", "**What you
+ * can do now**", "**The law behind this**"), `- ` bullets, `1. ` numbered steps
+ * and a blank line between blocks. Older answers also emitted `## headings` and
+ * `*`/`•` bullets, so those stay supported.
  *
  * This is a deliberately small renderer, not a full markdown engine: it covers
- * the structures the model actually emits, with no external dependency.
+ * the structures the model actually emits, with no external dependency. Anything
+ * outside that set - tables, blockquotes, code fences, nested lists - reaches
+ * the user as literal punctuation, which is why the prompt's formatting list is
+ * closed. If you widen one, widen the other.
  */
 
 // Inline emphasis: **bold** and *italic*. Bold is matched first so it is never
@@ -107,18 +109,34 @@ export const TextAnswer: React.FC<TextAnswerProps> = ({ text }) => {
     }
 
     const heading = /^(#{1,6})\s+(.*)$/.exec(trimmed);
+    // A line that is nothing but bold text is a heading. PLAIN_LANGUAGE_RULES
+    // asks the model for `**Short answer**` rather than `## Short answer`,
+    // because bold reads better in a chat bubble than a hash. Without this
+    // branch such a line falls through to the paragraph collector and is joined
+    // to the sentence beneath it, so the heading and its first line of text
+    // render as one run-on line.
+    const boldHeading = /^\*\*([^*]+)\*\*$/.exec(trimmed);
     const bullet = /^[-*•]\s+(.*)$/.exec(trimmed);
     // 1- to 2-digit numbering only, so a real year like "2019." is not read as
     // a list item.
     const numbered = /^(\d{1,2})[.)]\s+(.*)$/.exec(trimmed);
 
-    if (heading) {
+    // A horizontal rule. There is no <hr> in this design, and the marker has no
+    // space after it so the bullet branch below would not catch it - it would
+    // reach the user as the literal characters "---". Drop it.
+    if (/^([-*_])\1{2,}$/.test(trimmed)) {
+      flushParagraph();
+      flushList();
+      continue;
+    }
+
+    if (heading || boldHeading) {
       flushParagraph();
       flushList();
       const key = `h-${counter++}`;
       blocks.push(
         <p key={key} className="font-semibold text-neutral-950 pt-1">
-          {renderInline(heading[2], key)}
+          {renderInline(heading ? heading[2] : boldHeading![1], key)}
         </p>,
       );
       continue;

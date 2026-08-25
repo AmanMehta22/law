@@ -1,4 +1,7 @@
 import { env } from "../config";
+import { logger } from "../logger";
+
+const ragLogger = logger.child("RAG");
 
 export interface RagMetadata {
   /** `"v1"` for a verbatim statute chunk, `"v2"` for a knowledge card. */
@@ -52,6 +55,14 @@ class RagService {
 
     const timeout = setTimeout(() => controller.abort(), this.timeoutMs);
 
+    const start = Date.now();
+
+    ragLogger.info("Querying RAG service", {
+      url: `${this.baseUrl}/query`,
+      topK: this.topK,
+      queryPreview: query.slice(0, 120),
+    });
+
     let response: Response;
 
     try {
@@ -67,6 +78,11 @@ class RagService {
         signal: controller.signal,
       });
     } catch (error) {
+      ragLogger.error("RAG service request failed", {
+        duration: `${Date.now() - start}ms`,
+        error: error instanceof Error ? error.message : String(error),
+      });
+
       if (error instanceof Error && error.name === "AbortError") {
         throw new Error(`RAG service timed out after ${this.timeoutMs}ms`);
       }
@@ -81,14 +97,26 @@ class RagService {
     }
 
     if (!response.ok) {
+      ragLogger.error("RAG service returned an error response", {
+        status: response.status,
+        duration: `${Date.now() - start}ms`,
+      });
+
       throw new Error(`RAG service returned HTTP ${response.status}`);
     }
 
     const data = (await response.json()) as RagApiResponse;
 
     if (typeof data.query !== "string" || !Array.isArray(data.results)) {
+      ragLogger.error("RAG service returned a malformed response");
+
       throw new Error("Invalid response from RAG service");
     }
+
+    ragLogger.info("RAG retrieval succeeded", {
+      resultCount: data.results.length,
+      duration: `${Date.now() - start}ms`,
+    });
 
     return data as RagResponse;
   }

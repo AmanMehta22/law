@@ -1,6 +1,9 @@
 import { Prisma } from "@prisma/client";
 import { conversationRepository } from "../repositories/conversation.repository";
-import { formatConversation } from "../utils/conversationFormatter";
+import {
+  dropCurrentMessageFromHistory,
+  formatConversation,
+} from "../utils/conversationFormatter";
 import { formatRagAnswerPrompt } from "../utils/ragAnswerFormatter";
 import { AppError } from "../errors/AppError";
 import { logger } from "../logger";
@@ -59,7 +62,10 @@ class RagAnswerService {
       });
 
       formattedConversation = formatConversation(
-        conversationWithMessages.messages,
+        dropCurrentMessageFromHistory(
+          conversationWithMessages.messages,
+          currentMessage,
+        ),
       );
     }
 
@@ -131,6 +137,9 @@ class RagAnswerService {
       {
         systemPrompt,
         userPrompt,
+        // The one call that earns the big model: it writes the cited legal
+        // answer the user actually reads.
+        task: "quality",
         onProvider: (chosen) => {
           provider = chosen;
         },

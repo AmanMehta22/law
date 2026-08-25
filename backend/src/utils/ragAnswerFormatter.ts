@@ -34,8 +34,52 @@ const PROVISIONS_PER_CARD = Number(
  * Provisions are dropped whole, never truncated: cutting a provision mid-sentence
  * risks removing the operative words — a proviso, an exception, a deadline — and an
  * answer built on half a provision is worse than one that admits the omission.
+ *
+ * Sized together with ANSWER_PROMPT_CHAR_BUDGET so statute + cards + question
+ * stay inside free-tier request limits (Groq on-demand rejects >8,000 TPM).
  */
-const PART_A_CHAR_BUDGET = Number(process.env.STATUTE_CHAR_BUDGET ?? 12_000);
+const PART_A_CHAR_BUDGET = Number(process.env.STATUTE_CHAR_BUDGET ?? 5_000);
+
+/**
+ * Ceiling on the whole retrieved context block (PART A + PART B combined).
+ * Free-tier providers enforce a per-minute token budget shared by every
+ * request in the pipeline (~8,000 TPM on Groq), and a long question plus a
+ * fully-expanded top-5 retrieval once produced an ~11,500-token request.
+ *
+ * Cards are dropped whole, lowest-ranked first; provisions inside PART A are
+ * already dropped whole by PART_A_CHAR_BUDGET.
+ */
+const RETRIEVED_CHAR_BUDGET = Number(
+  process.env.RETRIEVED_CHAR_BUDGET ?? 6_500,
+);
+
+/**
+ * Ceiling on the current question rendered into the prompt. Genuine user
+ * messages past this length are almost always repetition of the same facts,
+ * and each duplicate sentence spends shared free-tier tokens.
+ */
+const CURRENT_MESSAGE_CHAR_CAP = Number(
+  process.env.CURRENT_MESSAGE_CHAR_CAP ?? 3_000,
+);
+
+/**
+ * Hard ceiling for the whole assembled user prompt. Free-tier providers cap
+ * request size (Groq's on-demand tier rejects anything over 8,000 tokens per
+ * minute with HTTP 413, and a long user question duplicated across history
+ * and the current-question block once produced an ~8,900-token prompt).
+ *
+ * ~20,000 characters measured ~6,200 real tokens on this corpus's mix of
+ * statute text and conversational English (~3.2 characters per token, much
+ * denser than the 4:1 rule of thumb), leaving headroom for the system
+ * prompt and the generated answer inside an 8,000-token window.
+ *
+ * The budget is spent on what the answer depends on: retrieved legal
+ * material always survives; conversation history is trimmed from the oldest
+ * end first.
+ */
+const ANSWER_PROMPT_CHAR_BUDGET = Number(
+  process.env.ANSWER_PROMPT_CHAR_BUDGET ?? 20_000,
+);
 
 /**
  * Build the user prompt for an answer turn.
@@ -165,8 +209,36 @@ export function formatRagAnswerPrompt({
         ].join("\n")
       : "";
 
+  const statuteLength = statuteBlock.length;
+
+  // Render cards in retrieval rank order and stop when the retrieved context
+  // as a whole exceeds its budget. Cards are dropped whole — a truncated
+  // summary invites the model to treat half a card as the whole of it.
+  const renderedCards: string[] = [];
+  let usedChars = statuteLength;
+
+  for (let index = 0; index < cards.length; index++) {
+    const rendered = renderCard(
+      cards[index].result,
+      index,
+      cards[index].derivedFrom,
+      cards[index].statute,
+      labels,
+    );
+
+    if (
+      usedChars + rendered.length > RETRIEVED_CHAR_BUDGET &&
+      renderedCards.length > 0
+    ) {
+      break;
+    }
+
+    renderedCards.push(rendered);
+    usedChars += rendered.length + 2;
+  }
+
   const cardBlock =
-    cards.length > 0
+    renderedCards.length > 0
       ? [
           "PART B — INTERPRETIVE MATERIAL (NOT THE WORDS OF THE ACT)",
           "",
@@ -174,17 +246,7 @@ export function formatRagAnswerPrompt({
           "explain the Act. Use them for understanding and for simple wording. Do not",
           "quote them as statutory language.",
           "",
-          cards
-            .map((card, index) =>
-              renderCard(
-                card.result,
-                index,
-                card.derivedFrom,
-                card.statute,
-                labels,
-              ),
-            )
-            .join("\n\n"),
+          renderedCards.join("\n\n"),
         ].join("\n")
       : "";
 
@@ -198,21 +260,49 @@ export function formatRagAnswerPrompt({
       ? parts.join("\n\n\n")
       : "No relevant legal material was retrieved.";
 
-  return `
-CONVERSATION HISTORY
+  const currentMessageForPrompt =
+    currentMessage.length > CURRENT_MESSAGE_CHAR_CAP
+      ? `${currentMessage.slice(0, CURRENT_MESSAGE_CHAR_CAP)}\n[rest of the question repeats the same details]`
+      : currentMessage;
 
-${conversation}
-
-
+  const currentMessageBlock = `
 CURRENT USER QUESTION
 
-${currentMessage}
+${currentMessageForPrompt}
+`;
 
-
+  const retrievedBlock = `
 RETRIEVED LEGAL CONTEXT
 
 ${retrievedContext}
-`.trim();
+`;
+
+  const fixedOverhead = currentMessageBlock.length + retrievedBlock.length;
+
+  // Trim the history, oldest text first, until the whole prompt fits the
+  // budget. Retrieved material is never touched: an answer built on trimmed
+  // law is wrong in a way trimming chatter never is.
+  let conversationForPrompt = conversation;
+
+  if (fixedOverhead + conversationForPrompt.length > ANSWER_PROMPT_CHAR_BUDGET) {
+    const available = Math.max(
+      ANSWER_PROMPT_CHAR_BUDGET - fixedOverhead - 40,
+      0,
+    );
+
+    const cutFrom = Math.max(0, conversationForPrompt.length - available);
+
+    const kept = conversationForPrompt.slice(cutFrom);
+
+    conversationForPrompt =
+      cutFrom > 0 ? `[earlier history trimmed]\n\n${kept}` : kept;
+  }
+
+  return `
+CONVERSATION HISTORY
+
+${conversationForPrompt}
+${currentMessageBlock}${retrievedBlock}`.trim();
 }
 
 function isStatuteChunk(result: RagResult): boolean {

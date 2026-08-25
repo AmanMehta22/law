@@ -54,6 +54,10 @@ export function useSendMessage() {
       dispatch({ type: 'STREAM_STATUS', payload: 'Thinking\u2026' });
 
       return new Promise<Message>((resolve, reject) => {
+        // Tracks whether `onDone` already settled this promise, so the
+        // terminal handlers below cannot report a failure after a success.
+        let settled = false;
+
         streamMessage(convId, text, mergedContext, {
           onStatus: (status) =>
             dispatch({ type: 'STREAM_STATUS', payload: status }),
@@ -72,9 +76,34 @@ export function useSendMessage() {
             dispatch({ type: 'MESSAGE_RECEIVED', payload: { botMessage } });
             dispatch({ type: 'STREAM_END' });
 
+            settled = true;
+
             resolve(botMessage);
           },
-        });
+        })
+          .then(() => {
+            // Reached only if the stream closed cleanly without ever
+            // delivering a `done` event. Nothing else would settle this
+            // promise, so the composer would stay disabled forever.
+            if (!settled) {
+              reject(
+                new Error(
+                  'The server did not return an answer. Please try again.',
+                ),
+              );
+            }
+          })
+          .catch((error: unknown) => {
+            // The line this whole block exists for. `streamMessage` rejects on
+            // a backend `event: error`, an expired session, or a dropped
+            // connection. Without forwarding that rejection, the outer promise
+            // never settles: React Query stays pending, `onError` never runs,
+            // and the UI is pinned on the last status it saw
+            // ("Writing your answer...") with no way out but a page reload.
+            if (!settled) {
+              reject(error instanceof Error ? error : new Error(String(error)));
+            }
+          });
       });
     },
     onError: (error) => {

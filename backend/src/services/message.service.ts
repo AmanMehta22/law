@@ -3,10 +3,27 @@ import {
   messageRepository,
   MessageEnvelope,
 } from "../repositories/message.repository";
+import { logger } from "../logger";
+
+const messageLogger = logger.child("MESSAGE");
 
 class MessageService {
   async createUserMessage(conversationId: string, content: string) {
-    return messageRepository.create(conversationId, MessageRole.USER, content);
+    const timer = messageLogger.startTimer();
+
+    const message = await messageRepository.create(
+      conversationId,
+      MessageRole.USER,
+      content,
+    );
+
+    timer.done("User message stored", {
+      messageId: message.id,
+      conversationId,
+      contentPreview: content.slice(0, 120),
+    });
+
+    return message;
   }
 
   async createAssistantMessage(
@@ -14,12 +31,22 @@ class MessageService {
     content: string,
     envelope?: MessageEnvelope,
   ) {
-    return messageRepository.create(
+    const timer = messageLogger.startTimer();
+
+    const message = await messageRepository.create(
       conversationId,
       MessageRole.ASSISTANT,
       content,
       envelope,
     );
+
+    timer.done("Assistant message stored", {
+      messageId: message.id,
+      conversationId,
+      replyChars: content.length,
+    });
+
+    return message;
   }
 }
 

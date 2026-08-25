@@ -946,7 +946,10 @@ def route_query(
     # Sort by priority, keeping the tuple order as the tie-break so the lexicon
     # stays readable top-to-bottom. Everything downstream is capped, so this
     # sort is what decides which route's material actually reaches the answer.
-    matched.sort(key=lambda route: (route.priority, routes.index(route)))
+    # Precompute each route's position once instead of calling routes.index()
+    # inside the sort key, which is an O(n) scan on every comparison.
+    order = {id(route): index for index, route in enumerate(routes)}
+    matched.sort(key=lambda route: (route.priority, order[id(route)]))
 
     concepts = _dedupe(c for route in matched for c in route.concepts)[:max_concepts]
     terms = _dedupe(t for route in matched for t in route.terms)[:max_terms]

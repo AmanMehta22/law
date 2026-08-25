@@ -1,3 +1,6 @@
+import logging
+from contextlib import asynccontextmanager
+
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel, Field
 
@@ -6,10 +9,46 @@ from src.vectorStore import VectorStoreManager
 from src.retriever import RAGRetriever
 
 
+logger = logging.getLogger("rag.api")
+
+
+# --------------------------------------------------
+# Initialize Vector Store and Retriever
+#
+# Built once at import so the embedding model is loaded a single time and
+# embeddings are never regenerated per request.
+# --------------------------------------------------
+
+vector_store_manager = VectorStoreManager()
+
+vector_store = vector_store_manager.load()
+
+retriever = RAGRetriever(
+    vector_store=vector_store,
+    k=TOP_K,
+)
+
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    # Pay the one-time retrieval costs at startup so the FIRST user query does
+    # not: building the BM25 index is a full-corpus scan plus tokenisation, and
+    # the embedding model's first forward pass has its own warm-up. Best-effort
+    # - a warm failure must never stop the service from starting.
+    try:
+        retriever.warm()
+        logger.info("RAG retriever warmed at startup")
+    except Exception as exc:  # noqa: BLE001 - startup must be resilient
+        logger.warning("RAG warmup skipped: %s", exc)
+
+    yield
+
+
 app = FastAPI(
     title="Legal RAG API",
     description="Legal RAG retrieval API",
-    version="1.0.0"
+    version="1.0.0",
+    lifespan=lifespan,
 )
 
 
@@ -38,20 +77,6 @@ class QueryRequest(BaseModel):
 class QueryResponse(BaseModel):
     query: str
     results: list[dict]
-
-
-# --------------------------------------------------
-# Initialize Vector Store and Retriever
-# --------------------------------------------------
-
-vector_store_manager = VectorStoreManager()
-
-vector_store = vector_store_manager.load()
-
-retriever = RAGRetriever(
-    vector_store=vector_store,
-    k=TOP_K
-)
 
 
 # --------------------------------------------------

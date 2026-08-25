@@ -20,6 +20,7 @@ class WorkflowService {
     logger.info("Processing new message", {
       userId,
       conversationId,
+      messagePreview: message.slice(0, 120),
     });
 
     // Step 1: Determine the user's intent

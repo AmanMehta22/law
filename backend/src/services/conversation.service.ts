@@ -1,8 +1,21 @@
 import { conversationRepository } from "../repositories/conversation.repository";
+import { logger } from "../logger";
+
+const conversationLogger = logger.child("CONVERSATION");
 
 class ConversationService {
   async createConversation(userId: string, title: string) {
-    return conversationRepository.create(userId, title);
+    const timer = conversationLogger.startTimer();
+
+    const conversation = await conversationRepository.create(userId, title);
+
+    timer.done("Conversation created", {
+      conversationId: conversation.id,
+      userId,
+      title,
+    });
+
+    return conversation;
   }
 
   async getConversations(userId: string) {

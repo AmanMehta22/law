@@ -5,7 +5,10 @@ import { informationCheckerService } from "./informationChecker.service";
 import { knowledgeService } from "./knowledge.service";
 import { titleService } from "./title.service";
 import { retrievalQueryService } from "./retrievalQuery.service";
-import { formatConversation } from "../utils/conversationFormatter";
+import {
+  dropCurrentMessageFromHistory,
+  formatConversation,
+} from "../utils/conversationFormatter";
 import { formatRequirements } from "../utils/requirementFormatter";
 import { CONSUMER_INFORMATION_REQUIREMENTS } from "../knowledge/consumer/consumer.fields";
 import { ragAnswerService } from "./ragAnswer.service";
@@ -66,9 +69,13 @@ class CaseWorkflowService {
       throw new Error("Conversation not found.");
     }
 
-    // 4. Format conversation
+    // 4. Format conversation (previous turns only — the current message is
+    //    rendered separately, and duplicating it risks provider size limits)
     const formattedConversation = formatConversation(
-      conversationWithMessages.messages,
+      dropCurrentMessageFromHistory(
+        conversationWithMessages.messages,
+        message,
+      ),
     );
 
     // 5. Information Checker + retrieval query in parallel: both depend

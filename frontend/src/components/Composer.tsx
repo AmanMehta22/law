@@ -21,6 +21,49 @@ export const Composer: React.FC<ComposerProps> = ({ onSend, isSending }) => {
     }
   }, [isSending]);
 
+  // Capture keystrokes made anywhere on the page: if the user starts typing
+  // while no input field is focused, route the typing into the composer
+  // instead of dropping it.
+  useEffect(() => {
+    const handleGlobalKeyDown = (e: KeyboardEvent) => {
+      if (!textareaRef.current) return;
+
+      const target = e.target as HTMLElement | null;
+      const tagName = target?.tagName;
+      const isInField =
+        tagName === 'INPUT' ||
+        tagName === 'TEXTAREA' ||
+        Boolean(target?.isContentEditable);
+
+      if (isInField) return;
+
+      // Let browser/OS shortcuts through untouched.
+      if (e.ctrlKey || e.metaKey || e.altKey) return;
+
+      // Only capture character keys and Backspace; ignore Tab, arrows,
+      // Escape etc., which have meanings of their own elsewhere.
+      const isCharacterKey = e.key.length === 1;
+      const isBackspace = e.key === 'Backspace';
+
+      if (!isCharacterKey && !isBackspace) return;
+
+      textareaRef.current.focus();
+    };
+
+    window.addEventListener('keydown', handleGlobalKeyDown);
+
+    return () => window.removeEventListener('keydown', handleGlobalKeyDown);
+  }, []);
+
+  // Grow the textarea with its content so long questions stay readable
+  // instead of scrolling inside a single-row box.
+  useEffect(() => {
+    const el = textareaRef.current;
+    if (!el) return;
+    el.style.height = 'auto';
+    el.style.height = `${Math.min(el.scrollHeight, 160)}px`;
+  }, [text]);
+
   useEffect(() => {
     return () => {
       if (recognitionRef.current) {
@@ -139,6 +182,10 @@ export const Composer: React.FC<ComposerProps> = ({ onSend, isSending }) => {
     }
   };
 
+  // Typing stays enabled while the bot replies so the next question can be
+  // composed during streaming; only sending is guarded, not typing.
+  const canSubmit = Boolean(text.trim()) && !isSending && !isListening;
+
   const isSpeechRecognitionSupported =
     typeof window !== 'undefined' &&
     (typeof (window as any).SpeechRecognition !== 'undefined' ||
@@ -219,14 +266,15 @@ export const Composer: React.FC<ComposerProps> = ({ onSend, isSending }) => {
             value={text}
             onChange={(e) => setText(e.target.value)}
             onKeyDown={handleKeyDown}
-            disabled={isSending}
             rows={1}
             placeholder={
               isListening
                 ? 'Listening to your voice...'
-                : "Describe your dispute (e.g. 'Laptop arrived damaged, seller won't refund')..."
+                : isSending
+                  ? 'LawBot is replying — you can type your next question...'
+                  : "Describe your dispute (e.g. 'Laptop arrived damaged, seller won't refund')..."
             }
-            className="w-full pl-4 pr-22 py-3 bg-white text-neutral-950 placeholder-neutral-500 rounded-xl border border-neutral-300 focus:border-[#1E3A5F] focus:ring-2 focus:ring-[#1E3A5F]/20 text-sm sm:text-base leading-relaxed transition-all shadow-xs resize-none disabled:opacity-60"
+            className="w-full pl-4 pr-22 py-3 bg-white text-neutral-950 placeholder-neutral-500 rounded-xl border border-neutral-300 focus:border-[#1E3A5F] focus:ring-2 focus:ring-[#1E3A5F]/20 text-sm sm:text-base leading-relaxed transition-all shadow-xs resize-none overflow-y-auto max-h-40"
           />
 
           <div className="absolute right-2 flex items-center gap-1">
@@ -234,7 +282,6 @@ export const Composer: React.FC<ComposerProps> = ({ onSend, isSending }) => {
             <button
               type="button"
               onClick={toggleListening}
-              disabled={isSending}
               className={`p-2 rounded-lg transition-colors focus:outline-none focus:ring-2 focus:ring-[#1E3A5F] cursor-pointer ${
                 isListening
                   ? 'bg-red-600 text-white animate-bounce'
@@ -249,7 +296,7 @@ export const Composer: React.FC<ComposerProps> = ({ onSend, isSending }) => {
             {/* Send Button */}
             <button
               type="submit"
-              disabled={!text.trim() || isSending}
+              disabled={!canSubmit}
               className="p-2 rounded-lg bg-[#1E3A5F] text-white hover:bg-[#16293F] transition-colors focus:outline-none focus:ring-2 focus:ring-[#1E3A5F] disabled:opacity-40 disabled:hover:bg-[#1E3A5F] cursor-pointer"
               aria-label="Send message"
             >

@@ -1,4 +1,5 @@
 import re
+import threading
 from typing import Iterable, List, Sequence, Tuple
 
 import numpy as np
@@ -155,6 +156,12 @@ class RAGRetriever:
         self.vector_store = vector_store
         self.k = k
         self._bm25: BM25Okapi | None = None
+        # Guards the one-time BM25 index build. The /query endpoint is a sync
+        # FastAPI handler served from a threadpool, so two concurrent first
+        # requests could otherwise both run the full-corpus build. After
+        # warm() the index already exists, so this is never contended in
+        # production; it only matters if warmup is skipped.
+        self._build_lock = threading.Lock()
         self._corpus: List[str] = []
         self._corpus_ids: List[str] = []
         self._definition_terms: dict[str, list[str]] | None = None
@@ -163,6 +170,47 @@ class RAGRetriever:
         # filled by the BM25 index build, which already scans the collection.
         self._concept_to_chroma: dict[str, str] = {}
         self._canonical_twins: dict[str, list[str]] = {}
+
+    def warm(self) -> None:
+        """
+        Do the one-time retrieval work now instead of on the first user query.
+
+        Two costs are paid on the first `/query` of a fresh process: building
+        the BM25 index (a full scan of the ~4.6k-document collection plus
+        tokenisation of every card) and the embedding model's first forward
+        pass. Calling this at service startup moves both off the critical path
+        of the first real request. The throwaway retrieval is deliberately a
+        definition-style question so the v1 definition-term scan
+        (`_build_definition_index`) is warmed too, not just the BM25 path.
+        """
+
+        self._ensure_bm25()
+
+        try:
+            self.retrieve("who is a consumer and what are my rights")
+        except Exception:
+            # Warming the dense leg needs the embedding model and a populated
+            # collection. If either is unavailable the lazy path still works on
+            # the first real query, so a warm failure is not fatal.
+            pass
+
+    def _ensure_bm25(self) -> None:
+        """
+        Build the BM25 index exactly once, safely under concurrency.
+
+        Double-checked locking: the common case (index already built) never
+        touches the lock, and the build itself runs at most once even if
+        several requests race in before warmup has completed.
+        """
+
+        if self._bm25 is not None:
+            return
+
+        with self._build_lock:
+            if self._bm25 is not None:
+                return
+
+            self._build_bm25_index()
 
     def retrieve(self, query: str, k: int | None = None) -> List[Document]:
         """
@@ -627,7 +675,7 @@ class RAGRetriever:
         """
 
         if self._bm25 is None:
-            self._build_bm25_index()
+            self._ensure_bm25()
 
         if not self._canonical_twins:
             return
@@ -716,7 +764,7 @@ class RAGRetriever:
             return []
 
         if self._bm25 is None:
-            self._build_bm25_index()
+            self._ensure_bm25()
 
         return list(self._fetch_by_concept_ids(concept_ids).values())
 
@@ -1010,7 +1058,7 @@ class RAGRetriever:
         k: int,
     ) -> List[Document]:
         if self._bm25 is None:
-            self._build_bm25_index()
+            self._ensure_bm25()
 
         scores = self._bm25.get_scores(self._tokenize(query))
 
