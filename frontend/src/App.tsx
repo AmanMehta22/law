@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { MemoryRouter, Routes, Route, Navigate, useNavigate } from 'react-router-dom';
+import { BrowserRouter, Routes, Route, Navigate, useNavigate } from 'react-router-dom';
 import { QueryClientProvider } from '@tanstack/react-query';
 import { queryClient } from './utils/queryClient';
 import { ChatProvider } from './store/ChatContext';
@@ -54,15 +54,13 @@ const MainAppRoutes: React.FC = () => {
 
   return (
     <Routes>
+      {/* The app entry point is always the landing screen with the
+          login / create-account options, even when a session exists. */}
+      <Route path="/" element={<Navigate to="/auth" replace />} />
+
       <Route
         path="/auth"
-        element={
-          isAuthenticated ? (
-            <Navigate to="/chat" replace />
-          ) : (
-            <AuthPage onAuthenticate={handleAuthenticate} />
-          )
-        }
+        element={<AuthPage onAuthenticate={handleAuthenticate} />}
       />
       <Route
         path="/chat"
@@ -96,11 +94,13 @@ export default function App() {
   return (
     <QueryClientProvider client={queryClient}>
       <ChatProvider>
-        <MemoryRouter>
+        {/* Browser history (not in-memory) so a refresh keeps the current
+            route instead of dumping the user back to the default page. */}
+        <BrowserRouter>
           <ErrorBoundary>
             <MainAppRoutes />
           </ErrorBoundary>
-        </MemoryRouter>
+        </BrowserRouter>
       </ChatProvider>
     </QueryClientProvider>
   );

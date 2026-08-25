@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useConversation } from '../store/ChatContext';
 import { useSendMessage } from '../hooks/useSendMessage';
+import { getConversations, getConversation } from '../api/conversations';
 import { AppHeader } from '../components/AppHeader';
 import { DisclaimerBanner } from '../components/DisclaimerBanner';
 import { ConversationView } from '../components/ConversationView';
@@ -19,13 +20,46 @@ export const ChatPage: React.FC<{ user: UserData | null; onLogout: () => void }>
   const [isIntakeOpen, setIsIntakeOpen] = useState(false);
 
   useEffect(() => {
+    let cancelled = false;
+
+    const restoreSession = async () => {
+      const saved = localStorage.getItem(STORAGE_KEYS.activeConversation);
+
+      if (saved) {
+        const ok = await openConversation(saved);
+        if (!ok && !cancelled) {
+          localStorage.removeItem(STORAGE_KEYS.activeConversation);
+        }
+        return;
+      }
+
+      // No conversation was open, but a refresh may have interrupted an
+      // answer that was still being generated (its id is only persisted
+      // once the stream finishes). The newest conversation whose last
+      // message is still an unanswered user question is that chat.
+      try {
+        const conversations = await getConversations();
+        const newest = conversations[0];
+
+        if (!newest || cancelled) return;
+
+        const detail = await getConversation(newest.conversation_id);
+        const last = detail.messages[detail.messages.length - 1];
+
+        if (!cancelled && last && last.sender === 'user') {
+          await openConversation(newest.conversation_id);
+        }
+      } catch {
+        // Nothing to recover — a fresh start is fine.
+      }
+    };
+
+    restoreSession();
     loadConversations();
-    const saved = localStorage.getItem(STORAGE_KEYS.activeConversation);
-    if (saved) {
-      openConversation(saved).then((ok) => {
-        if (!ok) localStorage.removeItem(STORAGE_KEYS.activeConversation);
-      });
-    }
+
+    return () => {
+      cancelled = true;
+    };
   }, [loadConversations, openConversation]);
 
   useEffect(() => {

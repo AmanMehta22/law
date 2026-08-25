@@ -31,7 +31,9 @@ export type ChatAction =
   | {
       type: 'CONVERSATION_LOADED';
       payload: { conversationId: string; messages: Message[] };
-    };
+    }
+  | { type: 'AWAIT_REPLY'; payload: { conversationId: string } }
+  | { type: 'AWAIT_REPLY_TIMEOUT' };
 
 export const initialChatState: ChatState = {
   conversationId: null,
@@ -187,6 +189,27 @@ export function chatReducer(state: ChatState, action: ChatAction): ChatState {
         streamStatus: null,
         streamConversationId: null,
         error: null,
+      };
+
+    // The conversation was reopened while the backend was still generating
+    // the answer for its last user message (e.g. after a refresh). Show the
+    // replying indicator; polling replaces it with the finished message.
+    case 'AWAIT_REPLY':
+      return {
+        ...state,
+        isSending: true,
+        streamStatus: 'LawBot is still writing your answer\u2026',
+        streamConversationId: action.payload.conversationId,
+      };
+
+    case 'AWAIT_REPLY_TIMEOUT':
+      return {
+        ...state,
+        isSending: false,
+        streamStatus: null,
+        streamConversationId: null,
+        error:
+          'This answer is taking longer than expected. Reopen the chat in a moment to see it.',
       };
 
     default:

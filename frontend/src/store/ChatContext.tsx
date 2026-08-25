@@ -4,6 +4,7 @@ import React, {
   useReducer,
   useEffect,
   useCallback,
+  useRef,
   ReactNode,
 } from 'react';
 import { chatReducer, initialChatState, ChatState, ChatAction } from './chatReducer';
@@ -11,6 +12,12 @@ import { getConversations, getConversation } from '../api/conversations';
 import { getApiErrorMessage } from '../api/client';
 import { Conversation } from '../types/conversation';
 import { STORAGE_KEYS } from '../constants/storageKeys';
+
+/** How often the reopened conversation is re-fetched while an answer is
+ *  still being generated on the server. */
+const AWAIT_REPLY_POLL_MS = 2_500;
+/** Give up polling after ~2.5 minutes; the answer still lands in history. */
+const AWAIT_REPLY_MAX_POLLS = 60;
 
 interface ChatContextType {
   state: ChatState;
@@ -24,6 +31,68 @@ const ChatContext = createContext<ChatContextType | undefined>(undefined);
 
 export const ChatProvider = ({ children }: { children: ReactNode }) => {
   const [state, dispatch] = useReducer(chatReducer, initialChatState);
+
+  // Latest state for use inside async polling callbacks.
+  const stateRef = useRef(state);
+  stateRef.current = state;
+
+  const pollTimerRef = useRef<number | null>(null);
+
+  const cancelAwaitReply = useCallback(() => {
+    if (pollTimerRef.current !== null) {
+      window.clearTimeout(pollTimerRef.current);
+      pollTimerRef.current = null;
+    }
+  }, []);
+
+  useEffect(() => cancelAwaitReply, [cancelAwaitReply]);
+
+  /**
+   * The conversation's last message is from the user with no answer yet —
+   * the backend is still generating (it finishes and persists the answer
+   * even if this tab was refreshed mid-stream). Poll until it appears.
+   */
+  const beginAwaitingReply = useCallback(
+    (conversationId: string) => {
+      cancelAwaitReply();
+
+      dispatch({ type: 'AWAIT_REPLY', payload: { conversationId } });
+
+      const tick = async (attempt: number) => {
+        // The user navigated away from this conversation: stop silently.
+        if (stateRef.current.conversationId !== conversationId) return;
+
+        try {
+          const detail = await getConversation(conversationId);
+          const last = detail.messages[detail.messages.length - 1];
+
+          if (last && last.sender === 'bot') {
+            if (stateRef.current.conversationId === conversationId) {
+              dispatch({ type: 'MESSAGE_RECEIVED', payload: { botMessage: last } });
+            }
+            return;
+          }
+        } catch {
+          // Transient network failure: keep polling.
+        }
+
+        if (attempt >= AWAIT_REPLY_MAX_POLLS) {
+          if (stateRef.current.conversationId === conversationId) {
+            dispatch({ type: 'AWAIT_REPLY_TIMEOUT' });
+          }
+          return;
+        }
+
+        pollTimerRef.current = window.setTimeout(
+          () => tick(attempt + 1),
+          AWAIT_REPLY_POLL_MS,
+        );
+      };
+
+      pollTimerRef.current = window.setTimeout(() => tick(0), AWAIT_REPLY_POLL_MS);
+    },
+    [cancelAwaitReply],
+  );
 
   const loadConversations = useCallback(async () => {
     try {
@@ -82,6 +151,7 @@ export const ChatProvider = ({ children }: { children: ReactNode }) => {
 
   const openConversation = useCallback(async (conversationId: string) => {
     try {
+      cancelAwaitReply();
       dispatch({ type: 'CONVERSATION_LOADING' });
       const detail = await getConversation(conversationId);
 
@@ -92,6 +162,14 @@ export const ChatProvider = ({ children }: { children: ReactNode }) => {
           messages: detail.messages,
         },
       });
+
+      // If the last message is still an unanswered user question, the
+      // backend is mid-generation (e.g. this tab was refreshed while the
+      // answer streamed). Keep watching until it lands.
+      const lastMessage = detail.messages[detail.messages.length - 1];
+      if (lastMessage && lastMessage.sender === 'user') {
+        beginAwaitingReply(detail.conversation.conversation_id);
+      }
 
       const title = detail.conversation.title;
       if (!title || title === 'New Conversation') {
@@ -116,11 +194,12 @@ export const ChatProvider = ({ children }: { children: ReactNode }) => {
       dispatch({ type: 'RESET_CONVERSATION' });
       return false;
     }
-  }, []);
+  }, [beginAwaitingReply, cancelAwaitReply]);
 
   const newChat = useCallback(() => {
+    cancelAwaitReply();
     dispatch({ type: 'RESET_CONVERSATION' });
-  }, []);
+  }, [cancelAwaitReply]);
 
   useEffect(() => {
     if (state.conversationId) {
