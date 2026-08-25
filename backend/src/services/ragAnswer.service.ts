@@ -6,6 +6,7 @@ import {
 } from "../utils/conversationFormatter";
 import { formatRagAnswerPrompt } from "../utils/ragAnswerFormatter";
 import { AppError } from "../errors/AppError";
+import { NotFoundError } from "../errors/NotFoundError";
 import { logger } from "../logger";
 
 import { llmService } from "./llm.service";
@@ -54,7 +55,7 @@ class RagAnswerService {
           conversationId,
         });
 
-        throw new Error("Conversation not found.");
+        throw new NotFoundError("Conversation not found.");
       }
 
       loadConversationTimer.done("Conversation loaded", {

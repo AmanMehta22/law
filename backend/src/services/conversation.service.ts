@@ -1,4 +1,6 @@
 import { conversationRepository } from "../repositories/conversation.repository";
+import { NotFoundError } from "../errors/NotFoundError";
+import { ForbiddenError } from "../errors/ForbiddenError";
 import { logger } from "../logger";
 
 const conversationLogger = logger.child("CONVERSATION");
@@ -26,11 +28,11 @@ class ConversationService {
       await conversationRepository.findByIdWithMessages(conversationId);
 
     if (!conversation) {
-      throw new Error("Conversation not found.");
+      throw new NotFoundError("Conversation not found.");
     }
 
     if (conversation.userId !== userId) {
-      throw new Error("Unauthorized access.");
+      throw new ForbiddenError("You do not have access to this conversation.");
     }
 
     return conversation;

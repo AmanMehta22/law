@@ -1,8 +1,13 @@
 import bcrypt from "bcrypt";
 import { userRepository } from "../repositories/user.repository";
 import { ConflictError } from "../errors/ConflictError";
+import { AuthenticationError } from "../errors/AuthenticationError";
 import { jwtService } from "./jwt.service";
-import { bytes } from "node:stream/consumers";
+
+// Pre-computed hash of a throwaway value. Compared against when the email
+// does not exist so login takes the same time whether or not the account
+// exists, preventing user enumeration via response timing.
+const DUMMY_PASSWORD_HASH = bcrypt.hashSync("timing-equalizer", 10);
 
 class AuthService {
   async register(email: string, passowrd: string) {
@@ -26,14 +31,15 @@ class AuthService {
   async login(email: string, password: string) {
     const user = await userRepository.findByEmail(email);
 
-    if (!user) {
-      throw new Error("Invalid email or password");
-    }
+    // Always run bcrypt, even for unknown emails, so the two paths take
+    // indistinguishable time.
+    const isPasswordValid = await bcrypt.compare(
+      password,
+      user?.passwordHash ?? DUMMY_PASSWORD_HASH,
+    );
 
-    const isPasswordValid = await bcrypt.compare(password, user.passwordHash);
-
-    if (!isPasswordValid) {
-      throw new Error("Invalid email or password");
+    if (!user || !isPasswordValid) {
+      throw new AuthenticationError("Invalid email or password");
     }
 
     const accessToken = jwtService.generateToken(user.id, user.email);
