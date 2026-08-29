@@ -36,12 +36,14 @@ class GeneralWorkflowService {
 
     // 3. Retrieve legal context and generate a grounded answer
     const result = await ragAnswerService.retrieveAndAnswer({
+      userId,
       conversationId: conversation.id,
       currentMessage: message,
       systemPrompt: GENERAL_ANSWER_PROMPT,
       retrievalQuery: message,
       onStatus: handlers?.onStatus,
       onToken: handlers?.onToken,
+      signal: handlers?.signal,
     });
 
     timer.done("General Workflow completed");

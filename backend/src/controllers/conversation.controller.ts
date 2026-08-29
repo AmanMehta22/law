@@ -15,14 +15,45 @@ class ConversationController {
   });
 
   getConversations = asyncHandler(async (req, res) => {
-    const conversations = await conversationService.getConversations(
+    const page = Number(req.query.page) || 1;
+    const limit = Number(req.query.limit) || 50;
+
+    const result = await conversationService.getConversations(req.user.sub, {
+      page,
+      limit,
+    });
+
+    res.status(200).json({
+      success: true,
+      data: result.conversations,
+      meta: {
+        page: result.page,
+        limit: result.limit,
+        hasMore: result.hasMore,
+      },
+    });
+  });
+
+  renameConversation = asyncHandler(async (req, res) => {
+    const conversation = await conversationService.renameConversation(
+      req.params.id as string,
       req.user.sub,
+      String(req.body?.title ?? ""),
     );
 
     res.status(200).json({
       success: true,
-      data: conversations,
+      data: conversation,
     });
+  });
+
+  deleteConversation = asyncHandler(async (req, res) => {
+    await conversationService.deleteConversation(
+      req.params.id as string,
+      req.user.sub,
+    );
+
+    res.status(204).send();
   });
 
   getConversation = asyncHandler(async (req, res) => {

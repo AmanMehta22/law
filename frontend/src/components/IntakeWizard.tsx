@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useRef, useEffect } from 'react';
 import { useQuery } from '@tanstack/react-query';
 import { X, ChevronLeft, ChevronRight, Sparkles, RefreshCw } from 'lucide-react';
 import { getIntakeRequirements, IntakeField } from '../api/intake';
@@ -25,8 +25,7 @@ export const IntakeWizard: React.FC<IntakeWizardProps> = ({
   const [step, setStep] = useState(0);
   const [answers, setAnswers] = useState<Record<string, string>>({});
   const [currentValue, setCurrentValue] = useState('');
-
-  if (!isOpen) return null;
+  const dialogRef = useRef<HTMLDivElement>(null);
 
   const reset = () => {
     setStep(0);
@@ -37,6 +36,53 @@ export const IntakeWizard: React.FC<IntakeWizardProps> = ({
   const handleClose = () => {
     reset();
     onClose();
+  };
+
+  // Move focus into the dialog on open and restore it to the trigger on
+  // close, so keyboard users do not get stranded.
+  useEffect(() => {
+    if (!isOpen) return;
+
+    const previousActive = document.activeElement as HTMLElement | null;
+
+    requestAnimationFrame(() => dialogRef.current?.focus());
+
+    return () => previousActive?.focus();
+  }, [isOpen]);
+
+  useEffect(() => {
+    if (!isOpen) return;
+
+    const handleEscape = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') handleClose();
+    };
+
+    document.addEventListener('keydown', handleEscape);
+
+    return () => document.removeEventListener('keydown', handleEscape);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [isOpen]);
+
+  if (!isOpen) return null;
+
+  const handleTrapKeyDown = (e: React.KeyboardEvent) => {
+    if (e.key !== 'Tab') return;
+
+    const focusables = dialogRef.current?.querySelectorAll<HTMLElement>(
+      'button, input, textarea, [tabindex]:not([tabindex="-1"])',
+    );
+    if (!focusables || focusables.length === 0) return;
+
+    const first = focusables[0];
+    const last = focusables[focusables.length - 1];
+
+    if (e.shiftKey && document.activeElement === first) {
+      e.preventDefault();
+      last.focus();
+    } else if (!e.shiftKey && document.activeElement === last) {
+      e.preventDefault();
+      first.focus();
+    }
   };
 
   const field = fields?.[step];
@@ -86,7 +132,15 @@ export const IntakeWizard: React.FC<IntakeWizardProps> = ({
 
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/40 p-4">
-      <div className="w-full max-w-lg bg-white rounded-2xl shadow-xl flex flex-col max-h-[80vh]">
+      <div
+        ref={dialogRef}
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="intake-wizard-title"
+        tabIndex={-1}
+        onKeyDown={handleTrapKeyDown}
+        className="w-full max-w-lg bg-white rounded-2xl shadow-xl flex flex-col max-h-[80vh] focus:outline-none"
+      >
         {/* Header */}
         <div className="flex items-center justify-between px-5 pt-4 pb-3 border-b border-neutral-200">
           <div className="flex items-center gap-2.5">
@@ -94,7 +148,7 @@ export const IntakeWizard: React.FC<IntakeWizardProps> = ({
               <Sparkles className="w-4 h-4" />
             </div>
             <div>
-              <h2 className="font-semibold text-sm">Guided intake</h2>
+              <h2 id="intake-wizard-title" className="font-semibold text-sm">Guided intake</h2>
               <p className="text-xs text-neutral-500">
                 Answer a few questions — the bot will use your details to help you.
               </p>

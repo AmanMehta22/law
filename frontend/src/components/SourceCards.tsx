@@ -92,6 +92,24 @@ export const SourceCards: React.FC<SourceCardsProps> = ({ cards }) => {
                     {card.description}
                   </p>
                 )}
+                {card.content?.key_points &&
+                  card.content.key_points.length > 0 && (
+                    <ul className="mt-1.5 space-y-1 list-disc list-inside">
+                      {card.content.key_points.slice(0, 3).map((point, i) => (
+                        <li
+                          key={i}
+                          className="text-[11px] text-neutral-600 leading-relaxed"
+                        >
+                          {point}
+                        </li>
+                      ))}
+                    </ul>
+                  )}
+                {card.derived_from && card.derived_from.length > 0 && (
+                  <p className="text-[10px] text-neutral-400 mt-1.5 font-mono">
+                    Ref: {card.derived_from.join(', ')}
+                  </p>
+                )}
               </div>
             );
           })}

@@ -27,6 +27,18 @@ class AuthController {
       });
     },
   );
+
+  // Lets the frontend verify a persisted token on startup instead of
+  // discovering it is expired via failed requests.
+  me = asyncHandler(async (req: Request, res: Response) => {
+    res.status(200).json({
+      success: true,
+      data: {
+        id: req.user.sub,
+        email: req.user.email,
+      },
+    });
+  });
 }
 
 export const authController = new AuthController();

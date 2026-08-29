@@ -15,6 +15,7 @@ import { ragService, RagResult } from "./rag.service";
 import { retrievalQueryService } from "./retrievalQuery.service";
 
 interface RetrieveAndAnswerParams {
+  userId: string;
   conversationId: string;
   currentMessage: string;
   systemPrompt: string;
@@ -23,6 +24,7 @@ interface RetrieveAndAnswerParams {
   additionalContext?: string;
   onStatus?: (status: string) => void;
   onToken?: (token: string) => void;
+  signal?: AbortSignal;
 }
 
 const SEARCH_ONLY_CONCEPT_TYPES = new Set(["alias", "intent", "relationship"]);
@@ -32,6 +34,7 @@ const DISCLAIMER =
 
 class RagAnswerService {
   async retrieveAndAnswer({
+    userId,
     conversationId,
     currentMessage,
     systemPrompt,
@@ -40,6 +43,7 @@ class RagAnswerService {
     additionalContext,
     onStatus,
     onToken,
+    signal,
   }: RetrieveAndAnswerParams) {
     // 1. Load and format conversation (skipped when the caller already has it)
     let formattedConversation = formattedConversationOverride;
@@ -48,7 +52,10 @@ class RagAnswerService {
       const loadConversationTimer = logger.startTimer();
 
       const conversationWithMessages =
-        await conversationRepository.findByIdWithMessages(conversationId);
+        await conversationRepository.findByIdWithMessages(
+          conversationId,
+          userId,
+        );
 
       if (!conversationWithMessages) {
         logger.error("Conversation not found", {
@@ -144,6 +151,8 @@ class RagAnswerService {
         onProvider: (chosen) => {
           provider = chosen;
         },
+        // Stop generating when the SSE client disconnects mid-answer.
+        signal,
       },
       onToken,
     );

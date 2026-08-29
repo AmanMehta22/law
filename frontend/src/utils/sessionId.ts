@@ -9,7 +9,13 @@ export function getSessionId(): string {
   let sessionId = sessionStorage.getItem(KEY);
 
   if (!sessionId) {
-    sessionId = 'sess_' + Math.random().toString(36).substring(2, 11) + '_' + Date.now().toString(36);
+    // crypto.randomUUID() is available in all secure contexts and modern
+    // browsers; the Math.random() fallback only covers exotic insecure setups.
+    sessionId =
+      'sess_' +
+      (typeof crypto !== 'undefined' && 'randomUUID' in crypto
+        ? crypto.randomUUID()
+        : Math.random().toString(36).substring(2, 11) + Date.now().toString(36));
     sessionStorage.setItem(KEY, sessionId);
   }
 

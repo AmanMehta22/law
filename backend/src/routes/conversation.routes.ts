@@ -10,6 +10,10 @@ router.get("/", conversationController.getConversations);
 
 router.get("/:id", conversationController.getConversation);
 
+router.patch("/:id", conversationController.renameConversation);
+
+router.delete("/:id", conversationController.deleteConversation);
+
 // Temporary - remove later
 router.post("/", conversationController.createConversation);
 

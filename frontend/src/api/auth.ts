@@ -37,3 +37,13 @@ export async function register(
   );
   return response.data.data;
 }
+
+/**
+ * Verifies the persisted access token is still valid. Throws on an
+ * expired/invalid token so the app can drop stale credentials instead of
+ * rendering a session that will fail on its first request.
+ */
+export async function getMe(): Promise<AuthUser> {
+  const response = await apiClient.get<ApiEnvelope<AuthUser>>('/auth/me');
+  return response.data.data;
+}

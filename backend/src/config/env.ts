@@ -58,4 +58,41 @@ export const env = {
   ENABLE_LOGS: parseBoolean(process.env.ENABLE_LOGS, true),
   RAG_API_URL: process.env.RAG_API_URL ?? "http://localhost:8000",
   RAG_TOP_K: Number(process.env.RAG_TOP_K) || 5,
+
+  // Origins allowed by CORS, comma-separated (e.g.
+  // "http://localhost:5173,https://app.example.com"). Empty allows nothing
+  // cross-origin.
+  CORS_ORIGINS: (process.env.CORS_ORIGINS ?? "")
+    .split(",")
+    .map((origin) => origin.trim())
+    .filter(Boolean),
 };
+
+// Called once at server startup (not at import time) so tests and tooling
+// can import modules without a fully provisioned .env.
+export function assertRequiredEnv() {
+  const missing: string[] = [];
+
+  if (!env.DATABASE_URL) {
+    missing.push("DATABASE_URL");
+  }
+
+  if (!env.JWT_SECRET || env.JWT_SECRET.length < 32) {
+    missing.push("JWT_SECRET (must be at least 32 characters)");
+  }
+
+  if (
+    env.GEMINI_API_KEYS.length === 0 &&
+    env.GROQ_API_KEYS.length === 0 &&
+    !env.GEMINI_API_KEY
+  ) {
+    missing.push("GEMINI_API_KEYS and/or GROQ_API_KEYS");
+  }
+
+  if (missing.length > 0) {
+    throw new Error(
+      `Missing or invalid required environment variables:\n  - ${missing.join("\n  - ")}\n` +
+        "Fill these in in backend/.env before starting the server.",
+    );
+  }
+}

@@ -139,7 +139,7 @@ export async function streamMessage(
         break;
       }
 
-      buffer += decoder.decode(value, { stream: true });
+      buffer += decoder.decode(value, { stream: true }).replace(/\r/g, '');
 
       let separator = buffer.indexOf('\n\n');
 
@@ -154,7 +154,10 @@ export async function streamMessage(
           if (line.startsWith('event:')) {
             eventName = line.slice(6).trim();
           } else if (line.startsWith('data:')) {
-            dataLines.push(line.slice(5).trim());
+            // Per the SSE spec only ONE leading space after "data:" is the
+            // separator; stripping all whitespace would corrupt token deltas
+            // that intentionally begin or end with spaces.
+            dataLines.push(line.slice(5).replace(/^ /, ''));
           }
         }
 

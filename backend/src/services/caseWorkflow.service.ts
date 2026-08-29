@@ -57,9 +57,9 @@ class CaseWorkflowService {
     // 2. Save user message
     await messageService.createUserMessage(conversation.id, message);
 
-    // 3. Load conversation with messages
+    // 3. Load conversation with messages (scoped to the owner)
     const conversationWithMessages =
-      await conversationRepository.findByIdWithMessages(conversation.id);
+      await conversationRepository.findByIdWithMessages(conversation.id, userId);
 
     if (!conversationWithMessages) {
       logger.error("Conversation not found", {
@@ -124,6 +124,7 @@ class CaseWorkflowService {
     logger.info("Ready for RAG");
 
     const result = await ragAnswerService.retrieveAndAnswer({
+      userId,
       conversationId: conversation.id,
       currentMessage: message,
       systemPrompt: CASE_ANSWER_PROMPT,
@@ -131,6 +132,7 @@ class CaseWorkflowService {
       retrievalQuery,
       onStatus: handlers?.onStatus,
       onToken: handlers?.onToken,
+      signal: handlers?.signal,
     });
 
     workflowTimer.done("Case Workflow completed");

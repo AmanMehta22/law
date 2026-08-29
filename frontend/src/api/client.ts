@@ -10,18 +10,6 @@ export interface ApiEnvelope<T> {
   data: T;
 }
 
-export class LegalBotApiError extends Error {
-  status: number;
-  data: any;
-
-  constructor(status: number, data: any) {
-    super(data.message || 'API Request Failed');
-    this.status = status;
-    this.data = data;
-    this.name = 'LegalBotApiError';
-  }
-}
-
 export function getApiErrorMessage(
   error: unknown,
   fallback = 'Something went wrong. Please try again.',

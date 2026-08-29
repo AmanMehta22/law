@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Scale, Volume2, VolumeX, Copy, Check, AlertTriangle } from 'lucide-react';
+import { Scale, Volume2, VolumeX, Copy, Check, AlertTriangle, Info } from 'lucide-react';
 import { Message } from '../types/conversation';
 import { TextAnswer } from './TextAnswer';
 import { QuickReplyRow } from './QuickReplyRow';
@@ -41,10 +41,30 @@ export const BotMessageCard: React.FC<BotMessageCardProps> = ({
     setIsPlayingAudio(true);
   };
 
-  const handleCopyText = () => {
-    navigator.clipboard.writeText(message.answer_text);
-    setIsCopied(true);
-    setTimeout(() => setIsCopied(false), 2000);
+  const handleCopyText = async () => {
+    try {
+      await navigator.clipboard.writeText(message.answer_text);
+      setIsCopied(true);
+      setTimeout(() => setIsCopied(false), 2000);
+    } catch {
+      // Clipboard API is unavailable on non-secure origins (plain http) or
+      // when permission is denied; fall back to a hidden textarea.
+      const textarea = document.createElement('textarea');
+      textarea.value = message.answer_text;
+      textarea.style.position = 'fixed';
+      textarea.style.opacity = '0';
+      document.body.appendChild(textarea);
+      textarea.select();
+      try {
+        document.execCommand('copy');
+        setIsCopied(true);
+        setTimeout(() => setIsCopied(false), 2000);
+      } catch {
+        // Give up silently rather than showing a false "Copied" state.
+      } finally {
+        document.body.removeChild(textarea);
+      }
+    }
   };
 
   return (
@@ -110,6 +130,17 @@ export const BotMessageCard: React.FC<BotMessageCardProps> = ({
 
         <TextAnswer text={message.answer_text} />
 
+        {/* Out-of-scope notice */}
+        {message.is_out_of_scope && (
+          <div className="flex items-start gap-2 rounded-lg bg-[#F4F4F5] border border-neutral-300 text-neutral-600 px-3 py-2">
+            <Info className="w-3.5 h-3.5 mt-0.5 shrink-0" />
+            <p className="text-xs leading-relaxed">
+              This question appears to be outside the Consumer Protection Act,
+              2019. I can only answer questions grounded in that statute.
+            </p>
+          </div>
+        )}
+
         {/* Low-confidence warning */}
         {message.is_low_confidence && (
           <div className="flex items-start gap-2 rounded-lg bg-[#FBF1DE] border border-[#A66A00]/30 text-[#A66A00] px-3 py-2">
@@ -159,13 +190,23 @@ export const BotMessageCard: React.FC<BotMessageCardProps> = ({
         {/* Sources used */}
         <SourceCards cards={message.cards_used} />
 
-        {/* Quick replies if provided */}
-        {message.quick_replies && message.quick_replies.length > 0 && (
+        {/* Quick replies if provided; fall back to suggested follow-ups */}
+        {message.quick_replies && message.quick_replies.length > 0 ? (
           <QuickReplyRow
             replies={message.quick_replies}
             onSelect={onQuickReplySelect}
             disabled={isSending}
           />
+        ) : (
+          !isSending &&
+          message.suggested_follow_ups &&
+          message.suggested_follow_ups.length > 0 && (
+            <QuickReplyRow
+              replies={message.suggested_follow_ups.slice(0, 3)}
+              onSelect={onQuickReplySelect}
+              disabled={isSending}
+            />
+          )
         )}
 
         {/* Disclaimer footer if needed */}

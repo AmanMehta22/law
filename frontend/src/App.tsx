@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { BrowserRouter, Routes, Route, Navigate, useNavigate } from 'react-router-dom';
 import { QueryClientProvider } from '@tanstack/react-query';
 import { queryClient } from './utils/queryClient';
@@ -8,7 +8,19 @@ import { ChatPage } from './pages/ChatPage';
 import { CalculatorsPage } from './pages/CalculatorsPage';
 import { UserData } from './types/user';
 import { STORAGE_KEYS } from './constants/storageKeys';
+import { getMe } from './api/auth';
 import { ErrorBoundary } from './components/ErrorBoundary';
+
+const clearPersistedAuth = () => {
+  try {
+    localStorage.removeItem(STORAGE_KEYS.user);
+    localStorage.removeItem(STORAGE_KEYS.authenticated);
+    localStorage.removeItem(STORAGE_KEYS.token);
+    localStorage.removeItem(STORAGE_KEYS.activeConversation);
+  } catch {
+    // Storage unavailable; nothing to clean.
+  }
+};
 
 const MainAppRoutes: React.FC = () => {
   const navigate = useNavigate();
@@ -23,8 +35,44 @@ const MainAppRoutes: React.FC = () => {
   });
 
   const [isAuthenticated, setIsAuthenticated] = useState<boolean>(() => {
-    return localStorage.getItem(STORAGE_KEYS.authenticated) === 'true';
+    return (
+      localStorage.getItem(STORAGE_KEYS.authenticated) === 'true' &&
+      Boolean(localStorage.getItem(STORAGE_KEYS.token))
+    );
   });
+
+  // A persisted "authenticated" flag is not proof the JWT is still valid.
+  // Verify it once on mount so an expired session lands on the login page
+  // cleanly instead of failing on its first request and hard-reloading.
+  useEffect(() => {
+    if (!isAuthenticated) return;
+
+    let cancelled = false;
+
+    getMe()
+      .then((me) => {
+        if (cancelled || !user || user.email === me.email) return;
+        const refreshed = { ...user, email: me.email };
+        setUser(refreshed);
+        try {
+          localStorage.setItem(STORAGE_KEYS.user, JSON.stringify(refreshed));
+        } catch {
+          // Non-fatal.
+        }
+      })
+      .catch(() => {
+        if (cancelled) return;
+        clearPersistedAuth();
+        setUser(null);
+        setIsAuthenticated(false);
+        navigate('/auth', { replace: true });
+      });
+
+    return () => {
+      cancelled = true;
+    };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   const handleAuthenticate = (userData: UserData) => {
     setUser(userData);
@@ -41,14 +89,7 @@ const MainAppRoutes: React.FC = () => {
   const handleLogout = () => {
     setUser(null);
     setIsAuthenticated(false);
-    try {
-      localStorage.removeItem(STORAGE_KEYS.user);
-      localStorage.removeItem(STORAGE_KEYS.authenticated);
-      localStorage.removeItem(STORAGE_KEYS.token);
-      localStorage.removeItem(STORAGE_KEYS.activeConversation);
-    } catch (e) {
-      console.error(e);
-    }
+    clearPersistedAuth();
     navigate('/auth');
   };
 

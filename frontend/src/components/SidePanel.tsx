@@ -131,11 +131,23 @@ export const SidePanel: React.FC<SidePanelProps> = ({ user }) => {
           filteredChats.map((chat) => (
             <div
               key={chat.conversation_id}
+              role="button"
+              tabIndex={0}
+              aria-current={
+                conversationId === chat.conversation_id ? 'true' : undefined
+              }
               onClick={() => {
                 openConversation(chat.conversation_id);
                 navigate('/chat');
               }}
-              className={`flex items-start gap-2.5 px-2 py-2 rounded-lg text-sm cursor-pointer transition-colors ${
+              onKeyDown={(e) => {
+                if (e.key === 'Enter' || e.key === ' ') {
+                  e.preventDefault();
+                  openConversation(chat.conversation_id);
+                  navigate('/chat');
+                }
+              }}
+              className={`flex items-start gap-2.5 px-2 py-2 rounded-lg text-sm cursor-pointer transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-[#1E3A5F] ${
                 conversationId === chat.conversation_id
                   ? 'bg-[#EAF1F8] text-[#1E3A5F] font-medium'
                   : 'text-neutral-700 hover:bg-neutral-100 hover:text-neutral-900'

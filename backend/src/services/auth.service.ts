@@ -1,31 +1,39 @@
 import bcrypt from "bcrypt";
+import { Prisma } from "@prisma/client";
 import { userRepository } from "../repositories/user.repository";
 import { ConflictError } from "../errors/ConflictError";
 import { AuthenticationError } from "../errors/AuthenticationError";
 import { jwtService } from "./jwt.service";
-
 // Pre-computed hash of a throwaway value. Compared against when the email
 // does not exist so login takes the same time whether or not the account
 // exists, preventing user enumeration via response timing.
 const DUMMY_PASSWORD_HASH = bcrypt.hashSync("timing-equalizer", 10);
 
 class AuthService {
-  async register(email: string, passowrd: string) {
-    const existingUser = await userRepository.findByEmail(email);
+  async register(email: string, password: string) {
+    const passHash = await bcrypt.hash(password, 10);
 
-    if (existingUser) {
-      throw new ConflictError("user already present");
+    try {
+      // Create first and rely on the unique constraint instead of a
+      // check-then-create, which races between concurrent signups and
+      // produced an unhandled P2002 (500) under load.
+      const user = await userRepository.createUser(email, passHash);
+
+      return {
+        id: user.id,
+        email: user.email,
+        createdAt: user.createdAt,
+      };
+    } catch (error) {
+      if (
+        error instanceof Prisma.PrismaClientKnownRequestError &&
+        error.code === "P2002"
+      ) {
+        throw new ConflictError("An account with this email already exists");
+      }
+
+      throw error;
     }
-
-    const passHash = await bcrypt.hash(passowrd, 10);
-
-    const user = userRepository.createUser(email, passHash);
-
-    return {
-      id: (await user).id,
-      email: (await user).email,
-      createdAt: (await user).createdAt,
-    };
   }
 
   async login(email: string, password: string) {

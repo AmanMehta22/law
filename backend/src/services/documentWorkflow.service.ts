@@ -60,6 +60,7 @@ class DocumentWorkflowService {
     handlers?.onStatus?.("Preparing your document\u2026");
 
     const result = await ragAnswerService.retrieveAndAnswer({
+      userId,
       conversationId: conversation.id,
       currentMessage: message,
       systemPrompt: DOCUMENT_ANSWER_PROMPT,
@@ -67,6 +68,7 @@ class DocumentWorkflowService {
       additionalContext: buildTemplateContext(template),
       onStatus: handlers?.onStatus,
       onToken: handlers?.onToken,
+      signal: handlers?.signal,
     });
 
     timer.done("Document Workflow completed");

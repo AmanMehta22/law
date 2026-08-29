@@ -35,6 +35,12 @@ export interface GenerateRequest {
    */
   json?: boolean;
   onProvider?: (provider: LlmProvider) => void;
+  /**
+   * Aborted when the downstream consumer (e.g. an SSE client) goes away.
+   * Streaming loops poll this between chunks and stop early instead of
+   * finishing a generation nobody will read.
+   */
+  signal?: AbortSignal;
 }
 
 interface ApiErrorLike extends Error {
@@ -335,6 +341,14 @@ class LLMService {
     return (this.providerCooldownUntil.get(provider) ?? 0) > Date.now();
   }
 
+  private clientGoneError(): Error {
+    const error = new Error("Client disconnected");
+
+    error.name = "ClientDisconnectedError";
+
+    return error;
+  }
+
   // --------------------------------------------------
   // Gemini
   // --------------------------------------------------
@@ -388,6 +402,10 @@ class LLMService {
     let fullText = "";
 
     for (;;) {
+      if (request.signal?.aborted) {
+        throw this.clientGoneError();
+      }
+
       // Only the first read gets the extended budget: it covers model
       // thinking time on long prompts. Later reads just watch for stalls.
       const { done, value } = await this.withTimeout(
@@ -447,6 +465,7 @@ class LLMService {
           Authorization: `Bearer ${this.groqKeys[keyIndex]}`,
         },
         body: JSON.stringify(body),
+        signal: request.signal,
       }),
       firstTokenTimeoutMs,
     );
@@ -463,6 +482,7 @@ class LLMService {
 
     return this.readGroqStream(
       response,
+      request.signal,
       onToken,
       emitted,
       firstTokenTimeoutMs,
@@ -503,6 +523,7 @@ class LLMService {
    */
   private async readGroqStream(
     response: Response,
+    signal: AbortSignal | undefined,
     onToken: (token: string) => void,
     emitted: EmissionCounter,
     firstTokenTimeoutMs: number,
@@ -534,6 +555,10 @@ class LLMService {
 
     try {
       for (;;) {
+        if (signal?.aborted) {
+          throw this.clientGoneError();
+        }
+
         const { done, value } = await this.withTimeout(
           reader.read(),
           fullText ? timeoutMs : firstTokenTimeoutMs,
@@ -669,6 +694,11 @@ class LLMService {
       } catch (error) {
         lastError = error;
 
+        // The consumer is gone: no key rotation, no backoff, no retry.
+        if (request.signal?.aborted) {
+          throw error;
+        }
+
         const kind = this.classifyFailure(provider, error);
 
         llmLogger.warn("LLM provider call failed", {
@@ -787,6 +817,11 @@ class LLMService {
         );
       } catch (error) {
         lastError = error;
+
+        // Consumer gone: stop trying other providers entirely.
+        if (request.signal?.aborted) {
+          throw error;
+        }
 
         // Partially streamed output cannot be retried on another provider.
         if (emitted.count > 0) {
