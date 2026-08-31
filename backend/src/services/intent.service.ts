@@ -3,6 +3,7 @@ import { INTENT_ROUTER_PROMPT } from "../prompts/intentRouter.prompt";
 import { Intent, IntentResult } from "../types/intent.types";
 import { classifyIntentByHeuristic } from "./intentFallback";
 import { logger } from "../logger";
+import { pushService } from "../utils/requestContext";
 
 const intentLogger = logger.child("INTENT");
 
@@ -14,6 +15,7 @@ const VALID_INTENTS = new Set<string>([
 
 class IntentService {
   async classify(message: string): Promise<IntentResult> {
+    pushService("IntentService");
     const timer = intentLogger.startTimer();
 
     intentLogger.debug("Classifying user query", {

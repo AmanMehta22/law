@@ -1,5 +1,6 @@
 import { env } from "../config";
 import { logger } from "../logger";
+import { pushService } from "../utils/requestContext";
 
 const ragLogger = logger.child("RAG");
 
@@ -51,6 +52,7 @@ class RagService {
   }
 
   async query(query: string): Promise<RagResponse> {
+    pushService("RagService");
     const controller = new AbortController();
 
     const timeout = setTimeout(() => controller.abort(), this.timeoutMs);

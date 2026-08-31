@@ -8,6 +8,7 @@ import { formatRagAnswerPrompt } from "../utils/ragAnswerFormatter";
 import { AppError } from "../errors/AppError";
 import { NotFoundError } from "../errors/NotFoundError";
 import { logger } from "../logger";
+import { pushService } from "../utils/requestContext";
 
 import { llmService } from "./llm.service";
 import { messageService } from "./message.service";
@@ -45,6 +46,7 @@ class RagAnswerService {
     onToken,
     signal,
   }: RetrieveAndAnswerParams) {
+    pushService("RagAnswerService");
     // 1. Load and format conversation (skipped when the caller already has it)
     let formattedConversation = formattedConversationOverride;
 

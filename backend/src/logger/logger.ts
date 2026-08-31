@@ -82,15 +82,16 @@ class Timer {
 
   done(message: string, data?: unknown) {
     const durationMs = Date.now() - this.start;
+    const durationSec = (durationMs / 1000).toFixed(2);
 
     if (data && typeof data === "object" && !Array.isArray(data)) {
       this.logger.info(message, {
-        duration: `${durationMs}ms`,
+        duration: `${durationSec}s`,
         ...(data as object),
       });
     } else {
       this.logger.info(message, {
-        duration: `${durationMs}ms`,
+        duration: `${durationSec}s`,
         data,
       });
     }

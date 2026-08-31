@@ -7,6 +7,7 @@ import { generalWorkflowService } from "./generalWorkflow.service";
 import { documentWorkflowService } from "./documentWorkflow.service";
 
 import { logger } from "../logger";
+import { pushService } from "../utils/requestContext";
 
 class WorkflowService {
   async processMessage(
@@ -15,6 +16,7 @@ class WorkflowService {
     message: string,
     handlers?: StreamHandlers,
   ) {
+    pushService("WorkflowService");
     const workflowTimer = logger.startTimer();
 
     logger.info("Processing new message", {
@@ -38,6 +40,7 @@ class WorkflowService {
     switch (intent) {
       case Intent.GENERAL:
         logger.info("Routing to General Workflow");
+        pushService("GeneralWorkflow");
 
         return generalWorkflowService.handle(
           userId,
@@ -48,6 +51,7 @@ class WorkflowService {
 
       case Intent.CASE:
         logger.info("Routing to Case Workflow");
+        pushService("CaseWorkflow");
 
         return caseWorkflowService.handle(
           userId,
@@ -58,6 +62,7 @@ class WorkflowService {
 
       case Intent.DOCUMENT:
         logger.info("Routing to Document Workflow");
+        pushService("DocumentWorkflow");
 
         return documentWorkflowService.handle(
           userId,

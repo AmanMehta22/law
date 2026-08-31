@@ -67,10 +67,9 @@ RAG/eval/anchor-*.md
 
 # Temporary files
 _tmp_*
+*_tmp_*.mjs
 *.tmp
 *.temp
-*.mjs
-*.md
 
 # Test output
 test-results/

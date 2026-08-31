@@ -1,5 +1,6 @@
 import { asyncHandler } from "../utils/asyncHandler";
 import { conversationService } from "../services/conversation.service";
+import { pushService } from "../utils/requestContext";
 
 class ConversationController {
   createConversation = asyncHandler(async (req, res) => {
@@ -15,6 +16,7 @@ class ConversationController {
   });
 
   getConversations = asyncHandler(async (req, res) => {
+    pushService("ConversationService:getConversations");
     const page = Number(req.query.page) || 1;
     const limit = Number(req.query.limit) || 50;
 
@@ -57,6 +59,7 @@ class ConversationController {
   });
 
   getConversation = asyncHandler(async (req, res) => {
+    pushService("ConversationService:getConversation");
     const conversation = await conversationService.getConversation(
       req.params.id as string,
       req.user.sub,

@@ -2,6 +2,7 @@ import { GoogleGenAI } from "@google/genai";
 import { env } from "../config";
 import { AppError } from "../errors/AppError";
 import { logger } from "../logger";
+import { pushService } from "../utils/requestContext";
 
 const llmLogger = logger.child("LLM");
 
@@ -843,6 +844,7 @@ class LLMService {
   }
 
   async generate(request: GenerateRequest, onToken?: (token: string) => void) {
+    pushService(`LlmService:${request.task ?? "quality"}:${this.providerOrder[0]}`);
     return this.withTimeout(
       this.generateWithFailover(request, onToken),
       this.overallTimeoutFor(request),
