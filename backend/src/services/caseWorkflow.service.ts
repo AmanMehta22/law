@@ -91,32 +91,70 @@ class CaseWorkflowService {
       retrievalQueryService.generate(formattedConversation),
     ]);
 
-    // 6. Ask follow-up question
+    // 6. Ask follow-up question — MVP generic: only ask if truly insufficient
+    // If the current user message alone is understandable by Gemini/Groq
+    // (any type: seller, company, product, issue, date, etc.), answer directly.
+    const isSufficientQuestion = (msg: string): boolean => {
+      const t = msg.trim().toLowerCase();
+      if (t.length < 12) return false;
+      const greetings = new Set(["hi", "hello", "hey", "help", "help me", "test", "hey there", "hii", "hello sir"]);
+      if (greetings.has(t)) return false;
+      const words = t.split(/\s+/).filter(Boolean);
+      if (words.length < 4) return false;
+      return true;
+    };
+
     if (!check.readyForRag) {
-      logger.info("Information incomplete");
+      // Generic bypass for ANY field: if user question is sufficient, don't block
+      if (isSufficientQuestion(message)) {
+        logger.info("Checker said not ready but user question is sufficient for any type — forcing RAG (generic)", {
+          missingFields: check.missingFields,
+          messagePreview: message.slice(0, 80),
+        });
+        // Fall through to RAG
+      } else {
+        logger.info("Information incomplete", { missingFields: check.missingFields });
 
-      const nextRequirement = knowledgeService.getNextRequirement(
-        check.missingFields,
-      );
+        // Filter out fields we have already asked in this conversation to avoid
+        // repeating the exact same question ("Who sold the product?" x3).
+        const alreadyAskedIds = new Set(
+          conversationWithMessages.messages
+            .filter((m) => m.role === "ASSISTANT")
+            .map((m) => {
+              const match = CONSUMER_INFORMATION_REQUIREMENTS.find((r) => r.question === m.content);
+              return match?.id;
+            })
+            .filter(Boolean) as string[],
+        );
 
-      logger.info("Next question selected", {
-        field: nextRequirement.id,
-      });
+        const filteredMissing = check.missingFields.filter((id) => !alreadyAskedIds.has(id));
 
-      const assistantMessage = await messageService.createAssistantMessage(
-        conversation.id,
-        nextRequirement.question,
-      );
+        if (filteredMissing.length === 0) {
+          logger.info("All remaining missing fields were already asked — forcing RAG for MVP");
+          // Fall through to RAG instead of repeating same question
+        } else {
+          const nextRequirement = knowledgeService.getNextRequirement(filteredMissing);
 
-      logger.info("Follow-up question stored");
+          logger.info("Next question selected", {
+            field: nextRequirement.id,
+          });
 
-      workflowTimer.done("Case Workflow completed");
+          const assistantMessage = await messageService.createAssistantMessage(
+            conversation.id,
+            nextRequirement.question,
+          );
 
-      return {
-        conversationId: conversation.id,
-        readyForRag: false,
-        reply: assistantMessage.content,
-      };
+          logger.info("Follow-up question stored");
+
+          workflowTimer.done("Case Workflow completed");
+
+          return {
+            conversationId: conversation.id,
+            readyForRag: false,
+            reply: assistantMessage.content,
+          };
+        }
+      }
     }
 
     // 7. Ready for RAG: retrieve legal context and generate grounded answer
