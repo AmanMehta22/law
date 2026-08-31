@@ -87,6 +87,7 @@ export async function streamMessage(
   messageText: string,
   context: IntakeContext | undefined,
   handlers: MessageStreamHandlers,
+  signal?: AbortSignal,
 ): Promise<void> {
   const token = localStorage.getItem(STORAGE_KEYS.token);
 
@@ -106,8 +107,10 @@ export async function streamMessage(
         message: messageText,
         ...(context && Object.keys(context).length > 0 ? { context } : {}),
       }),
+      signal,
     });
-  } catch {
+  } catch (e) {
+    if ((e as Error)?.name === 'AbortError') throw e;
     throw new Error(
       'Cannot reach the server. Check your internet connection and try again.',
     );

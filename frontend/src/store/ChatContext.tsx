@@ -25,6 +25,8 @@ interface ChatContextType {
   loadConversations: () => Promise<void>;
   openConversation: (conversationId: string) => Promise<boolean>;
   newChat: () => void;
+  cancelGeneration: () => void;
+  setStreamController: (controller: AbortController | null) => void;
 }
 
 const ChatContext = createContext<ChatContextType | undefined>(undefined);
@@ -37,6 +39,49 @@ export const ChatProvider = ({ children }: { children: ReactNode }) => {
   stateRef.current = state;
 
   const pollTimerRef = useRef<number | null>(null);
+  const streamAbortRef = useRef<AbortController | null>(null);
+
+  // Conversations the user explicitly cancelled — reopening them must NOT
+  // resume polling (the "process start again" bug). Persisted so a reload
+  // also respects the permanent stop. Cleared when a new message is sent.
+  const cancelledRef = useRef<Set<string>>(
+    (() => {
+      try {
+        const raw = localStorage.getItem(STORAGE_KEYS.cancelledConversations);
+        return new Set<string>(raw ? (JSON.parse(raw) as string[]) : []);
+      } catch {
+        return new Set<string>();
+      }
+    })(),
+  );
+
+  const persistCancelled = useCallback(() => {
+    try {
+      localStorage.setItem(
+        STORAGE_KEYS.cancelledConversations,
+        JSON.stringify([...cancelledRef.current]),
+      );
+    } catch {
+      // quota/privatemode — ignore, in-memory set still works for session
+    }
+  }, []);
+
+  const markCancelled = useCallback(
+    (id: string | null) => {
+      if (!id) return;
+      cancelledRef.current.add(id);
+      persistCancelled();
+    },
+    [persistCancelled],
+  );
+
+  const clearCancelled = useCallback(
+    (id: string | null) => {
+      if (!id) return;
+      if (cancelledRef.current.delete(id)) persistCancelled();
+    },
+    [persistCancelled],
+  );
 
   const cancelAwaitReply = useCallback(() => {
     if (pollTimerRef.current !== null) {
@@ -45,7 +90,44 @@ export const ChatProvider = ({ children }: { children: ReactNode }) => {
     }
   }, []);
 
+  const cancelGeneration = useCallback(() => {
+    // Permanent stop for the active conversation — reopening it must not poll
+    const cid = stateRef.current.conversationId;
+    if (cid) markCancelled(cid);
+
+    if (streamAbortRef.current) {
+      streamAbortRef.current.abort();
+      streamAbortRef.current = null;
+    }
+    cancelAwaitReply();
+    // Only dispatch if actually streaming; reducer is idempotent anyway.
+    dispatch({ type: 'STREAM_CANCEL' });
+  }, [cancelAwaitReply, markCancelled]);
+
+  const setStreamController = useCallback(
+    (controller: AbortController | null) => {
+      streamAbortRef.current = controller;
+      // A new generation is starting in the current conversation — it is no
+      // longer "cancelled permanently". Clear the flag so retries work.
+      if (controller) {
+        const cid = stateRef.current.conversationId;
+        if (cid) clearCancelled(cid);
+      }
+    },
+    [clearCancelled],
+  );
+
   useEffect(() => cancelAwaitReply, [cancelAwaitReply]);
+
+  // Abort any in-flight generation if the tab is closed/refreshed — lets the
+  // backend's disconnectController abort the LLM call and save quota.
+  useEffect(() => {
+    const handleBeforeUnload = () => {
+      if (streamAbortRef.current) streamAbortRef.current.abort();
+    };
+    window.addEventListener('beforeunload', handleBeforeUnload);
+    return () => window.removeEventListener('beforeunload', handleBeforeUnload);
+  }, []);
 
   /**
    * The conversation's last message is from the user with no answer yet —
@@ -151,7 +233,19 @@ export const ChatProvider = ({ children }: { children: ReactNode }) => {
 
   const openConversation = useCallback(async (conversationId: string) => {
     try {
+      // Permanent stop for the conversation we are leaving — reopening it
+      // must not resume polling. Abort fetch → backend LLM abort.
+      const prevId = stateRef.current.conversationId;
+      if (prevId && prevId !== conversationId) markCancelled(prevId);
+
+      // Stop any generation for the previous conversation; the fetch
+      // abort triggers the backend's res.on('close') -> LLM abort.
+      if (streamAbortRef.current) {
+        streamAbortRef.current.abort();
+        streamAbortRef.current = null;
+      }
       cancelAwaitReply();
+      dispatch({ type: 'STREAM_CANCEL' });
       dispatch({ type: 'CONVERSATION_LOADING' });
       const detail = await getConversation(conversationId);
 
@@ -165,9 +259,14 @@ export const ChatProvider = ({ children }: { children: ReactNode }) => {
 
       // If the last message is still an unanswered user question, the
       // backend is mid-generation (e.g. this tab was refreshed while the
-      // answer streamed). Keep watching until it lands.
+      // answer streamed). Keep watching until it lands — UNLESS the user
+      // explicitly cancelled this conversation (permanent stop).
       const lastMessage = detail.messages[detail.messages.length - 1];
-      if (lastMessage && lastMessage.sender === 'user') {
+      if (
+        lastMessage &&
+        lastMessage.sender === 'user' &&
+        !cancelledRef.current.has(detail.conversation.conversation_id)
+      ) {
         beginAwaitingReply(detail.conversation.conversation_id);
       }
 
@@ -194,12 +293,19 @@ export const ChatProvider = ({ children }: { children: ReactNode }) => {
       dispatch({ type: 'RESET_CONVERSATION' });
       return false;
     }
-  }, [beginAwaitingReply, cancelAwaitReply]);
+  }, [beginAwaitingReply, cancelAwaitReply, markCancelled]);
 
   const newChat = useCallback(() => {
+    const cid = stateRef.current.conversationId;
+    if (cid) markCancelled(cid);
+    if (streamAbortRef.current) {
+      streamAbortRef.current.abort();
+      streamAbortRef.current = null;
+    }
     cancelAwaitReply();
+    dispatch({ type: 'STREAM_CANCEL' });
     dispatch({ type: 'RESET_CONVERSATION' });
-  }, [cancelAwaitReply]);
+  }, [cancelAwaitReply, markCancelled]);
 
   useEffect(() => {
     if (state.conversationId) {
@@ -211,7 +317,15 @@ export const ChatProvider = ({ children }: { children: ReactNode }) => {
 
   return (
     <ChatContext.Provider
-      value={{ state, dispatch, loadConversations, openConversation, newChat }}
+      value={{
+        state,
+        dispatch,
+        loadConversations,
+        openConversation,
+        newChat,
+        cancelGeneration,
+        setStreamController,
+      }}
     >
       {children}
     </ChatContext.Provider>

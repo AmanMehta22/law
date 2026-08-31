@@ -1,4 +1,4 @@
-import React, { useRef, useEffect } from 'react';
+import React, { useRef, useEffect, useState } from 'react';
 import { AlertTriangle, RefreshCw } from 'lucide-react';
 import { useConversation } from '../store/ChatContext';
 import { useSendMessage } from '../hooks/useSendMessage';
@@ -9,9 +9,11 @@ import { TextAnswer } from './TextAnswer';
 import { LoadingIndicator } from './LoadingIndicator';
 
 export const ConversationView: React.FC = () => {
-  const { state, dispatch } = useConversation();
+  const { state, dispatch, cancelGeneration } = useConversation();
   const sendMessageMutation = useSendMessage();
   const bottomRef = useRef<HTMLDivElement>(null);
+  const [elapsedSec, setElapsedSec] = useState(0);
+  const startRef = useRef<number | null>(null);
 
   const {
     messages,
@@ -25,6 +27,24 @@ export const ConversationView: React.FC = () => {
   useEffect(() => {
     bottomRef.current?.scrollIntoView({ behavior: 'smooth' });
   }, [messages.length, isSending, streamingText, streamStatus]);
+
+  // Track how long we've been in the "Writing your answer…" phase.
+  // Gives the user feedback that the system hasn't stalled.
+  useEffect(() => {
+    if (isSending && !streamingText) {
+      if (startRef.current === null) startRef.current = Date.now();
+      const id = window.setInterval(() => {
+        if (startRef.current !== null) {
+          setElapsedSec(Math.floor((Date.now() - startRef.current) / 1000));
+        }
+      }, 1000);
+      return () => window.clearInterval(id);
+    }
+    // Reset when streaming starts or finishes
+    startRef.current = null;
+    setElapsedSec(0);
+    return undefined;
+  }, [isSending, streamingText]);
 
   const handleSelectPrompt = (prompt: string) => {
     if (isSending || isLoadingConversation) return;
@@ -56,7 +76,7 @@ export const ConversationView: React.FC = () => {
     <div className="flex-1 py-6 px-4 max-w-2xl mx-auto w-full space-y-4" role="log" aria-live="polite">
       {messages.map((msg) =>
         msg.sender === 'user' ? (
-          <UserMessageBubble key={msg.message_id} text={msg.answer_text} />
+          <UserMessageBubble key={msg.message_id} text={msg.answer_text} createdAt={msg.created_at} />
         ) : (
           <BotMessageCard
             key={msg.message_id}
@@ -79,11 +99,18 @@ export const ConversationView: React.FC = () => {
               <TextAnswer text={streamingText} />
               <span className="inline-block w-1.5 h-4 bg-[#1E3A5F] ml-0.5 align-middle animate-pulse" />
             </div>
+            <div className="text-[11px] text-neutral-500 text-right pt-1 select-none">
+              {new Date().toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" })}
+            </div>
           </div>
         </div>
       ) : (
         (isSending || isLoadingConversation) && (
-          <LoadingIndicator status={isLoadingConversation ? null : streamStatus} />
+          <LoadingIndicator
+            status={isLoadingConversation ? null : streamStatus}
+            elapsedSec={isSending && !streamingText ? elapsedSec : undefined}
+            onCancel={isSending ? cancelGeneration : undefined}
+          />
         )
       )}
 

@@ -12,6 +12,17 @@ interface BotMessageCardProps {
   isSending?: boolean;
 }
 
+function formatTime(iso?: string): string {
+  if (!iso) return "";
+  try {
+    const d = new Date(iso);
+    if (isNaN(d.getTime())) return "";
+    return d.toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" });
+  } catch {
+    return "";
+  }
+}
+
 export const BotMessageCard: React.FC<BotMessageCardProps> = ({
   message,
   onQuickReplySelect,
@@ -153,9 +164,11 @@ export const BotMessageCard: React.FC<BotMessageCardProps> = ({
           </div>
         )}
 
-        {/* Answer confidence + review status meta */}
-        {(message.overall_review_status === 'reviewed' ||
-          message.overall_confidence !== 1.0) && (
+        {/* Answer confidence + review status meta — hide for intake follow-ups (no sources) and never show 100% */}
+        {(message.cards_used.length > 0 &&
+          (message.overall_review_status === 'reviewed' ||
+            message.overall_confidence !== 1.0) &&
+          Math.round(message.overall_confidence * 100) !== 100) && (
           <div className="flex flex-wrap items-center gap-1.5">
             <span
               className={cn(
@@ -214,6 +227,13 @@ export const BotMessageCard: React.FC<BotMessageCardProps> = ({
           <p className="text-[11px] text-neutral-400 italic pt-1 border-t border-neutral-100">
             {message.disclaimer}
           </p>
+        )}
+
+        {/* Timestamp below right */}
+        {message.created_at && (
+          <div className="text-[11px] text-neutral-500 text-right pt-1 select-none">
+            {formatTime(message.created_at)}
+          </div>
         )}
       </div>
     </div>

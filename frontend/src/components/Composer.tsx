@@ -1,12 +1,13 @@
 import React, { useState, useRef, useEffect } from 'react';
-import { Send, Loader2, Mic, MicOff } from 'lucide-react';
+import { Send, Loader2, Mic, MicOff, Square } from 'lucide-react';
 
 interface ComposerProps {
   onSend: (text: string) => void;
+  onCancel?: () => void;
   isSending?: boolean;
 }
 
-export const Composer: React.FC<ComposerProps> = ({ onSend, isSending }) => {
+export const Composer: React.FC<ComposerProps> = ({ onSend, onCancel, isSending }) => {
   const [text, setText] = useState('');
   const [isListening, setIsListening] = useState(false);
   const [error, setError] = useState<string | null>(null);
@@ -293,19 +294,31 @@ export const Composer: React.FC<ComposerProps> = ({ onSend, isSending }) => {
               {isListening ? <MicOff className="w-4 h-4" /> : <Mic className="w-4 h-4" />}
             </button>
 
-            {/* Send Button */}
-            <button
-              type="submit"
-              disabled={!canSubmit}
-              className="p-2 rounded-lg bg-[#1E3A5F] text-white hover:bg-[#16293F] transition-colors focus:outline-none focus:ring-2 focus:ring-[#1E3A5F] disabled:opacity-40 disabled:hover:bg-[#1E3A5F] cursor-pointer"
-              aria-label="Send message"
-            >
-              {isSending ? (
-                <Loader2 className="w-4 h-4 animate-spin" />
-              ) : (
-                <Send className="w-4 h-4" />
-              )}
-            </button>
+            {/* Send / Stop Button */}
+            {isSending && onCancel ? (
+              <button
+                type="button"
+                onClick={onCancel}
+                className="p-2 rounded-lg bg-red-600 text-white hover:bg-red-700 transition-colors focus:outline-none focus:ring-2 focus:ring-red-600 cursor-pointer"
+                title="Stop generating"
+                aria-label="Stop generating"
+              >
+                <Square className="w-4 h-4 fill-white" />
+              </button>
+            ) : (
+              <button
+                type="submit"
+                disabled={!canSubmit}
+                className="p-2 rounded-lg bg-[#1E3A5F] text-white hover:bg-[#16293F] transition-colors focus:outline-none focus:ring-2 focus:ring-[#1E3A5F] disabled:opacity-40 disabled:hover:bg-[#1E3A5F] cursor-pointer"
+                aria-label="Send message"
+              >
+                {isSending ? (
+                  <Loader2 className="w-4 h-4 animate-spin" />
+                ) : (
+                  <Send className="w-4 h-4" />
+                )}
+              </button>
+            )}
           </div>
         </form>
 

@@ -33,7 +33,8 @@ export type ChatAction =
       payload: { conversationId: string; messages: Message[] };
     }
   | { type: 'AWAIT_REPLY'; payload: { conversationId: string } }
-  | { type: 'AWAIT_REPLY_TIMEOUT' };
+  | { type: 'AWAIT_REPLY_TIMEOUT' }
+  | { type: 'STREAM_CANCEL' };
 
 export const initialChatState: ChatState = {
   conversationId: null,
@@ -210,6 +211,15 @@ export function chatReducer(state: ChatState, action: ChatAction): ChatState {
         streamConversationId: null,
         error:
           'This answer is taking longer than expected. Reopen the chat in a moment to see it.',
+      };
+
+    case 'STREAM_CANCEL':
+      return {
+        ...state,
+        isSending: false,
+        streamingText: '',
+        streamStatus: null,
+        streamConversationId: null,
       };
 
     default:

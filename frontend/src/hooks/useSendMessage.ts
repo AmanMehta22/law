@@ -10,7 +10,7 @@ interface SendMessageArgs {
 }
 
 export function useSendMessage() {
-  const { state, dispatch } = useConversation();
+  const { state, dispatch, setStreamController } = useConversation();
 
   return useMutation<Message, Error, SendMessageArgs>({
     mutationFn: async ({ text, contextOverride }) => {
@@ -57,35 +57,46 @@ export function useSendMessage() {
         // Tracks whether `onDone` already settled this promise, so the
         // terminal handlers below cannot report a failure after a success.
         let settled = false;
+        const abortController = new AbortController();
+        setStreamController(abortController);
 
-        streamMessage(convId, text, mergedContext, {
-          onStatus: (status) =>
-            dispatch({ type: 'STREAM_STATUS', payload: status }),
-          onToken: (token) =>
-            dispatch({ type: 'STREAM_DELTA', payload: { text: token } }),
-          onDone: (result) => {
-            if (startedNew) {
-              dispatch({
-                type: 'CONVERSATION_STARTED',
-                payload: { conversationId: result.conversationId },
-              });
-            }
+        const cleanup = () => setStreamController(null);
 
-            const botMessage = toMessage(result);
+        streamMessage(
+          convId,
+          text,
+          mergedContext,
+          {
+            onStatus: (status) =>
+              dispatch({ type: 'STREAM_STATUS', payload: status }),
+            onToken: (token) =>
+              dispatch({ type: 'STREAM_DELTA', payload: { text: token } }),
+            onDone: (result) => {
+              if (startedNew) {
+                dispatch({
+                  type: 'CONVERSATION_STARTED',
+                  payload: { conversationId: result.conversationId },
+                });
+              }
 
-            dispatch({ type: 'MESSAGE_RECEIVED', payload: { botMessage } });
-            dispatch({ type: 'STREAM_END' });
+              const botMessage = toMessage(result);
 
-            settled = true;
+              dispatch({ type: 'MESSAGE_RECEIVED', payload: { botMessage } });
+              dispatch({ type: 'STREAM_END' });
 
-            resolve(botMessage);
+              settled = true;
+              cleanup();
+              resolve(botMessage);
+            },
           },
-        })
+          abortController.signal,
+        )
           .then(() => {
             // Reached only if the stream closed cleanly without ever
             // delivering a `done` event. Nothing else would settle this
             // promise, so the composer would stay disabled forever.
             if (!settled) {
+              cleanup();
               reject(
                 new Error(
                   'The server did not return an answer. Please try again.',
@@ -101,12 +112,23 @@ export function useSendMessage() {
             // and the UI is pinned on the last status it saw
             // ("Writing your answer...") with no way out but a page reload.
             if (!settled) {
+              cleanup();
+              // User intentionally cancelled (logout / new chat / switch) —
+              // don't surface as an error, just reset streaming state.
+              if ((error as Error)?.name === 'AbortError') {
+                dispatch({ type: 'STREAM_CANCEL' });
+                // Reject with AbortError so React Query knows it was cancelled,
+                // but onError will ignore it.
+                reject(error instanceof Error ? error : new Error(String(error)));
+                return;
+              }
               reject(error instanceof Error ? error : new Error(String(error)));
             }
           });
       });
     },
     onError: (error) => {
+      if ((error as Error)?.name === 'AbortError') return;
       dispatch({
         type: 'SET_ERROR',
         payload: getApiErrorMessage(error),

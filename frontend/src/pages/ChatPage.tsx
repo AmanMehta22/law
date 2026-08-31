@@ -15,9 +15,17 @@ export const ChatPage: React.FC<{ user: UserData | null; onLogout: () => void }>
   user,
   onLogout,
 }) => {
-  const { state, loadConversations, openConversation } = useConversation();
+  const { state, loadConversations, openConversation, cancelGeneration } =
+    useConversation();
   const sendMessageMutation = useSendMessage();
   const [isIntakeOpen, setIsIntakeOpen] = useState(false);
+
+  // If the user navigates away (e.g. to /calculators) or the tab closes
+  // while the LLM is streaming, abort the fetch so the backend's
+  // res.on('close') aborts the provider call and stops burning quota.
+  useEffect(() => {
+    return () => cancelGeneration();
+  }, [cancelGeneration]);
 
   useEffect(() => {
     let cancelled = false;
@@ -113,6 +121,7 @@ export const ChatPage: React.FC<{ user: UserData | null; onLogout: () => void }>
 
         <Composer
           onSend={handleSendMessage}
+          onCancel={cancelGeneration}
           isSending={state.isSending || state.isLoadingConversation}
         />
 

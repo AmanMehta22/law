@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { BrowserRouter, Routes, Route, Navigate, useNavigate } from 'react-router-dom';
 import { QueryClientProvider } from '@tanstack/react-query';
 import { queryClient } from './utils/queryClient';
-import { ChatProvider } from './store/ChatContext';
+import { ChatProvider, useConversation } from './store/ChatContext';
 import { AuthPage } from './pages/AuthPage';
 import { ChatPage } from './pages/ChatPage';
 import { CalculatorsPage } from './pages/CalculatorsPage';
@@ -24,6 +24,14 @@ const clearPersistedAuth = () => {
 
 const MainAppRoutes: React.FC = () => {
   const navigate = useNavigate();
+  // Access cancelGeneration via ChatProvider; guard for cases where
+  // provider is not yet mounted (e.g. during auth flow).
+  let cancelGeneration: (() => void) | null = null;
+  try {
+    cancelGeneration = useConversation().cancelGeneration;
+  } catch {
+    // Not inside ChatProvider — ignore.
+  }
 
   const [user, setUser] = useState<UserData | null>(() => {
     try {
@@ -87,6 +95,7 @@ const MainAppRoutes: React.FC = () => {
   };
 
   const handleLogout = () => {
+    cancelGeneration?.();
     setUser(null);
     setIsAuthenticated(false);
     clearPersistedAuth();
