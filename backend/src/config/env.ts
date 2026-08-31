@@ -45,7 +45,7 @@ export const env = {
   // decommissioned in Aug 2026 and returns 404 model_not_found.
   GROQ_MODEL: process.env.GROQ_MODEL || "openai/gpt-oss-120b",
   GROQ_FAST_MODEL: process.env.GROQ_FAST_MODEL || "openai/gpt-oss-20b",
-  GEMINI_MODEL: process.env.GEMINI_MODEL || "gemini-flash-latest",
+  GEMINI_MODEL: process.env.GEMINI_MODEL || "gemini-flash-lite-latest",
   GEMINI_FAST_MODEL:
     process.env.GEMINI_FAST_MODEL || "gemini-flash-lite-latest",
 

@@ -156,6 +156,7 @@ class RAGRetriever:
         self.vector_store = vector_store
         self.k = k
         self._bm25: BM25Okapi | None = None
+        self._bm25_built = False
         # Guards the one-time BM25 index build. The /query endpoint is a sync
         # FastAPI handler served from a threadpool, so two concurrent first
         # requests could otherwise both run the full-corpus build. After
@@ -203,14 +204,15 @@ class RAGRetriever:
         several requests race in before warmup has completed.
         """
 
-        if self._bm25 is not None:
+        if self._bm25_built:
             return
 
         with self._build_lock:
-            if self._bm25 is not None:
+            if self._bm25_built:
                 return
 
             self._build_bm25_index()
+            self._bm25_built = True
 
     def retrieve(self, query: str, k: int | None = None) -> List[Document]:
         """
@@ -1060,6 +1062,9 @@ class RAGRetriever:
         if self._bm25 is None:
             self._ensure_bm25()
 
+        if self._bm25 is None or not self._corpus:
+            return []
+
         scores = self._bm25.get_scores(self._tokenize(query))
 
         top_indices = np.argsort(scores)[::-1][:k]
@@ -1130,9 +1135,15 @@ class RAGRetriever:
         self._corpus = kept_docs
         self._metadata_cache = kept_metas
 
-        self._bm25 = BM25Okapi(
-            [self._tokenize(doc) for doc in self._corpus]
-        )
+        if kept_docs:
+            self._bm25 = BM25Okapi(
+                [self._tokenize(doc) for doc in self._corpus]
+            )
+        else:
+            # No indexable documents (e.g. empty collection or only
+            # search-only cards). Leave BM25 disabled — dense retrieval
+            # still works and _bm25_retrieve will return [].
+            self._bm25 = None
 
         self._definition_terms = definition_terms
         self._concept_to_chroma = concept_to_chroma
