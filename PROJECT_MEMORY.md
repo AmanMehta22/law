@@ -6,11 +6,11 @@
 ---
 
 ## Last Updated
-- **Date:** 2026-09-01 14:35 +05:30
-- **Branch:** `feature-frontend` at `e215f8c` (7 ahead of `26b5462`, 1 ahead of `03b769a`, not pushed)
-- **HEAD:** `e215f8c feat: add complete LegalBot CPA 2019 system prompt` (legalBotCpaSystem 26 sections, 3 wrappers, memory)
-- **Working tree:** Clean (`git status` no `M`, `e215f8c` committed)
-- **By:** Muse Spark (opencode) — senior engineer, complete system prompt committed
+- **Date:** 2026-09-01 15:15 +05:30
+- **Branch:** `feature-frontend` at `fb7c956` + same-case update (1 ahead, not pushed)
+- **HEAD:** `fb7c956` + `legalBotCpaSystem.prompt.ts` now 27 sections + Same-Case Rule (584L)
+- **Working tree:** `M` legalBotCpaSystem.prompt.ts (528→584L, added Same-Case Rule), `M` .opencode/memory.md
+- **By:** Muse Spark (opencode) — senior engineer, same-case follow-up rule
 
 ---
 
@@ -124,32 +124,32 @@ LLM: Groq openai/gpt-oss-120b/fast 20b + Gemini gemini-flash-latest/lite, failov
 
 ---
 
-## 6. System Prompt (current) — **UPDATED 2026-09-01 to COMPLETE 26-section LegalBot CPA**
+## 6. System Prompt (current) — **UPDATED 2026-09-01 15:00 to GROUNDED CASE-RESOLUTION 27-section**
 
-**Canonical file (NEW):** `backend/src/prompts/legalBotCpaSystem.prompt.ts` (387L, 15280 bytes) — `LEGALBOT_CPA_SYSTEM_PROMPT` — the fixed 26-section system prompt from user's spec. **This is the single source of truth, never contains CPA JSON.**
+**Canonical file:** `backend/src/prompts/legalBotCpaSystem.prompt.ts` (528L, ~20k bytes) — `LEGALBOT_CPA_SYSTEM_PROMPT` — **fixed 27-section grounded case-resolution system** from user's latest spec. **Single source of truth, never contains CPA JSON.**
 
 **Implementation (as per user's requirement):**
 ```
-SYSTEM PROMPT (legalBotCpaSystem.prompt.ts, fixed, 26 sections)
+SYSTEM PROMPT (legalBotCpaSystem.prompt.ts, fixed, 27 sections, grounded case-resolution)
       +
-USER QUESTION (current message + conversation history via formatConversation)
+USER QUESTION (current message + conversation history via formatConversation + formatRequirements)
       +
-RETRIEVED CPA CHUNKS (official_text via ragAnswerFormatter.ts: PART A verbatim """ + PART B [Source N])
+RETRIEVED CPA CHUNKS (official_text via ragAnswerFormatter.ts: PART A verbatim """ + PART B [Source N] interpretive, budget 12k/4 per card)
       ↓
-     LLM (llm.service.ts: systemPrompt + userPrompt)
+     LLM (llm.service.ts: systemPrompt as systemInstruction (Gemini) / system message (Groq) + userPrompt)
       ↓
- LegalBot Answer (Short answer → Why → What you can do now → The law behind this → Important)
+ LegalBot Answer (Short answer → Why → What you can do now → Law behind → Important, with case-state awareness)
 ```
 
-**Old prompts now wrappers (updated 2026-09-01):**
-- `caseAnswer.prompt.ts` (now 30L) — `LEGALBOT_CPA_SYSTEM_PROMPT + STATUTE_GROUNDING + PLAIN_LANGUAGE + CASE-SPECIFIC echo facts + seller vs brand`
-- `generalAnswer.prompt.ts` (now 20L) — `LEGALBOT_CPA_SYSTEM_PROMPT + ... + GENERAL-SPECIFIC (term everyday first, Yes/No first word)`
-- `documentAnswer.prompt.ts` (now 25L) — `LEGALBOT_CPA_SYSTEM_PROMPT + ... + DOCUMENT-SPECIFIC (Heading→Parties→Facts→Legal grounds→Demand→Signature, placeholders)`
-- All still import `statuteGrounding.rules.ts` (122L) for project-specific PART A/B + prescribed values.
+**Old prompts now thin wrappers (updated 2026-09-01):**
+- `caseAnswer.prompt.ts` (30L) — `LEGALBOT_CPA_SYSTEM_PROMPT + STATUTE_GROUNDING + PLAIN_LANGUAGE + CASE-SPECIFIC (echo facts seller vs brand, Yes/No)`
+- `generalAnswer.prompt.ts` (20L) — `+ GENERAL-SPECIFIC`
+- `documentAnswer.prompt.ts` (25L) — `+ DOCUMENT-SPECIFIC (Heading→Parties→Facts→Legal grounds→Demand→Signature)`
+- All import `statuteGrounding.rules.ts` (122L) for PART A/B, prescribed values, citation rules.
 
-**26 sections in new system:** 1 Primary Objective → 26 Final Instruction (Legal accuracy, Faithfulness, No hallucination, etc.), includes strict grounding (no invent section), multi-chunk reasoning, relevance filter, 7-step legal reasoning, answer format, citations `Section 2(20)`, statutory text, practical guidance, follow-up, insufficient/out-of-scope, no guaranteed outcomes, product liability rule (84-86 not auto), consumer-friendly, final disclaimer.
+**27 sections + Same-Case Rule:** 1 Primary Goal (collective provisions) → 27 Final Response Principle (USER PROBLEM → INTENT → FACTS → LEGAL QUESTIONS → RETRIEVE → FILTER → APPLY → REMEDIES → LIMITATIONS → SIMPLE). Key additions: Source Hierarchy (PART A > PART B), Intent Classification, Fact Extraction, Conversation Memory (case state) + **Same-Case Rule (NEW 2026-09-01 15:15):** follow-up is updated case state (EXISTING CASE + NEW FACT → CURRENT INTENT), don't restart, don't repeat, prioritize complaint/commission/procedure/jurisdiction/limitation/remedies for "what now?" but only if in retrieved context, retrieval follows current intent while retaining facts. Then Multi-Provision (2(10)/2(20)/35/39/84-86), Product Liability Safety, Procedural Second Intent, Practical Next Steps, Evidence, Follow-up, Quality Check A-J.
 
-**Never:** Put entire CPA JSON into system prompt; put it only in `RETRIEVED CPA CHUNKS` via `ragAnswerFormatter.ts`.
+**Never:** Put entire CPA JSON into system prompt; only `official_text` via `retrievedResults` → `formatRagAnswerPrompt`.
 
 ---
 
@@ -188,6 +188,8 @@ RETRIEVED CPA CHUNKS (official_text via ragAnswerFormatter.ts: PART A verbatim "
 | 2026-08-31 23:29 | Muse Spark | 6 phase commits created, time below right added, secret fixed (squash 50b329f → 6), merge f1ef9bd removed, push --force to 03b769a | Verify push, next: rate limit, document PDF, reconcile dataset |
 | 2026-09-01 10:05 | Muse Spark | Created this memory.md (14.8k), full project scan, verified RAG 200 OK, frontend/backend tsc PASS, time feature live | Keep updating this file each session |
 | 2026-09-01 14:30 | Muse Spark | Implemented COMPLETE LegalBot CPA 2019 system prompt (26 sections, 15k) as `legalBotCpaSystem.prompt.ts` (fixed), updated 3 wrappers (case/general/document) to use it, verified dynamic injection `SYSTEM + QUESTION + CHUNKS (official_text)` via `ragAnswerFormatter` PART A/B, tsc PASS | Next: commit + push, test RAG Q&A with new prompt |
+| 2026-09-01 15:00 | Muse Spark | Updated to GROUNDED CASE-RESOLUTION 27-section system prompt (528L, case-state, multi-provision, product liability safety, procedural second intent, follow-up format, quality check A-J), wrappers unchanged (auto-use new base), tsc PASS | Next: commit grounded update, test warranty + follow-up |
+| 2026-09-01 15:15 | Muse Spark | Added SAME-CASE RULE to system prompt (584L, EXISTING CASE + NEW FACT → CURRENT INTENT, don't restart, prioritize complaint/procedure/remedies for "what now?" but only if in retrieved context, retrieval follows current intent) | Next: commit same-case rule |
 
 > **Template for next entry:**
 > ```
