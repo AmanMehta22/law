@@ -82,4 +82,5 @@ test-results/
 .agents/
 .claude/
 .windsurf/
+.opencode/
 
