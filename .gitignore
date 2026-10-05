@@ -84,3 +84,9 @@ test-results/
 .windsurf/
 .opencode/
 
+# AI session memory / transient reports
+PROJECT_MEMORY.md
+RAG/eval/live-probe.md
+LegalBot_Status_Audit_*.md
+LegalBot_GoldLabel_Repair_*.md
+
