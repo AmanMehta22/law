@@ -6,11 +6,11 @@
 ---
 
 ## Last Updated
-- **Date:** 2026-09-01 15:15 +05:30
-- **Branch:** `feature-frontend` at `fb7c956` + same-case update (1 ahead, not pushed)
-- **HEAD:** `fb7c956` + `legalBotCpaSystem.prompt.ts` now 27 sections + Same-Case Rule (584L)
-- **Working tree:** `M` legalBotCpaSystem.prompt.ts (528→584L, added Same-Case Rule), `M` .opencode/memory.md
-- **By:** Muse Spark (opencode) — senior engineer, same-case follow-up rule
+- **Date:** 2026-09-01 15:45 +05:30
+- **Branch:** `feature-frontend` at `fb7c956` + grounded case-resolution + same-case + follow-up + strict groundedness (1 ahead, not committed per user request)
+- **HEAD:** `fb7c956` (legalBotCpaSystem 27 sections), working tree `M` with 955L (added STRICT LEGAL GROUNDEDNESS: FACT/LAW/APPLICATION/CONCLUSION, Strict Claim/Procedural/Party/Warranty, Updated Case, Current Intent Retrieval, Evidence Awareness, Remedy Language, Definition Provision, Answer Current Question, Source Metadata, Final Validation)
+- **Working tree:** `M` legalBotCpaSystem.prompt.ts (736→955L, 13 new strict rules), `M` .opencode/memory.md (not committed per user)
+- **By:** Muse Spark (opencode) — senior engineer, strict groundedness update
 
 ---
 
@@ -190,6 +190,8 @@ RETRIEVED CPA CHUNKS (official_text via ragAnswerFormatter.ts: PART A verbatim "
 | 2026-09-01 14:30 | Muse Spark | Implemented COMPLETE LegalBot CPA 2019 system prompt (26 sections, 15k) as `legalBotCpaSystem.prompt.ts` (fixed), updated 3 wrappers (case/general/document) to use it, verified dynamic injection `SYSTEM + QUESTION + CHUNKS (official_text)` via `ragAnswerFormatter` PART A/B, tsc PASS | Next: commit + push, test RAG Q&A with new prompt |
 | 2026-09-01 15:00 | Muse Spark | Updated to GROUNDED CASE-RESOLUTION 27-section system prompt (528L, case-state, multi-provision, product liability safety, procedural second intent, follow-up format, quality check A-J), wrappers unchanged (auto-use new base), tsc PASS | Next: commit grounded update, test warranty + follow-up |
 | 2026-09-01 15:15 | Muse Spark | Added SAME-CASE RULE to system prompt (584L, EXISTING CASE + NEW FACT → CURRENT INTENT, don't restart, prioritize complaint/procedure/remedies for "what now?" but only if in retrieved context, retrieval follows current intent) | Next: commit same-case rule |
+| 2026-09-01 15:30 | Muse Spark | Added FOLLOW-UP UPDATE 8 rules (736L): FOLLOW-UP=CASE UPDATE+NEW INTENT, Procedural Grounding (2(6)≠jurisdiction), Party-Matching (seller≠manufacturer), Definition≠Liability, Remedy≠Guaranteed, Evidence Update, Unsupported Procedure, Current-Intent Priority (wins), retriever JSON case_intent/current_intent, remove Verified 90% from prompt — NOT COMMITTED per user | Next: test follow-up, commit when approved |
+| 2026-09-01 15:45 | Muse Spark | Added STRICT GROUNDEDNESS 13 rules (955L): FACT/LAW/APPLICATION/CONCLUSION, Strict Claim/Procedural/Party/Warranty, Updated Case (0v0f6g), Current Intent Retrieval (complaint/Commission/procedure/jurisdiction), Evidence Awareness, Remedy Language (may order), Definition Provision, Answer Current Question, Source Metadata (no 90% via Gemini), Final Validation (7 checks) — NOT COMMITTED per user | Next: review diff, commit when approved |
 
 > **Template for next entry:**
 > ```
