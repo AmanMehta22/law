@@ -78,17 +78,23 @@ class CaseWorkflowService {
       ),
     );
 
-    // 5. Information Checker + retrieval query in parallel: both depend
-    //    only on the formatted conversation, so running them together
-    //    saves one full round-trip of latency.
+    // 5. Information Checker + retrieval query in parallel.
+    // Both need FULL context: history + CURRENT message (the follow-up
+    // "what to do now" is legally meaningful only with its case memory).
+    // formattedConversation is history without current (to avoid double-count
+    // in the final prompt), so we build a retrieval input that includes it.
+    const retrievalInput = formattedConversation
+      ? `${formattedConversation}\n\nUSER (current):\n${message}`
+      : `USER:\n${message}`;
+
     handlers?.onStatus?.("Checking case details\u2026");
 
     const [check, retrievalQuery] = await Promise.all([
       informationCheckerService.check(
-        formattedConversation,
+        retrievalInput,
         formatRequirements(CONSUMER_INFORMATION_REQUIREMENTS),
       ),
-      retrievalQueryService.generate(formattedConversation),
+      retrievalQueryService.generate(retrievalInput),
     ]);
 
     // 6. Ask follow-up question — MVP generic: only ask if truly insufficient

@@ -30,6 +30,13 @@ interface RetrieveAndAnswerParams {
 
 const SEARCH_ONLY_CONCEPT_TYPES = new Set(["alias", "intent", "relationship"]);
 
+// DATASET AUTHORITY FIX: v2 example cards are draft/confidence 0.0 and contain
+// illustrative liability conclusions ("manufacturer will be liable") not present
+// in official_text. They are ILLUSTRATIVE_ONLY and must not establish legal
+// authority in the answer context. Filter draft examples from primary legal
+// context; reviewed examples (if any) remain allowed as secondary illustration.
+const ILLUSTRATIVE_ONLY_TYPES = new Set(["example"]);
+
 const DISCLAIMER =
   "I am an AI legal information assistant, not a lawyer. This information is provided for educational purposes based on available legal materials and does not constitute formal legal advice.";
 
@@ -119,11 +126,19 @@ class RagAnswerService {
     });
 
     // 4. Keep only answer-capable material for the LLM context:
-    //    exclude search-only concept types (alias/intent/relationship)
-    const answerableResults = ragResponse.results.filter(
-      (result) =>
-        !SEARCH_ONLY_CONCEPT_TYPES.has(result.metadata.concept_type ?? ""),
-    );
+    //    exclude search-only scaffolding and illustrative-only draft examples.
+    //    Draft examples are kept in the vector index for query expansion but
+    //    must not enter the legal answer context as authority.
+    const answerableResults = ragResponse.results.filter((result) => {
+      const type = result.metadata.concept_type ?? "";
+      if (SEARCH_ONLY_CONCEPT_TYPES.has(type)) return false;
+      if (
+        ILLUSTRATIVE_ONLY_TYPES.has(type) &&
+        result.metadata.review_status !== "reviewed"
+      )
+        return false;
+      return true;
+    });
 
     // 5. Build final answer prompt
     const answerPrompt = formatRagAnswerPrompt({

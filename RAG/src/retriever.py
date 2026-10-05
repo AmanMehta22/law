@@ -86,15 +86,25 @@ class RAGRetriever:
     # scenario questions. `alias`/`intent`/`relationship` cards are search
     # scaffolding (all 2,411 are generated boilerplate with confidence 0.0) and
     # carry no legal content worth showing the model.
+    #
+    # DATASET AUTHORITY FIX (2026-09): v2 example cards contain liability
+    # conclusions ("manufacturer will be liable") that are NOT statutory text
+    # and are all draft/confidence 0.0. They must not drive legal conclusions.
+    # Weight is reduced further and count capped to 1; backend additionally
+    # filters draft examples from primary legal context so they never establish
+    # liability. See ragAnswer.service SEARCH_ONLY and ragAnswerFormatter
+    # contentNature for the secondary enforcement layer.
     TYPE_WEIGHTS = {
-        "example": 0.70,
+        "example": 0.30,
         "relationship": 0.55,
         "alias": 0.40,
         "intent": 0.40,
     }
 
     # Never let illustrations crowd out the provisions they illustrate.
-    MAX_EXAMPLES_IN_RESULT = 2
+    # Examples are ILLUSTRATIVE_ONLY (see dataset architecture fix) - keep at
+    # most one and only when no reviewed legal card fills the slot.
+    MAX_EXAMPLES_IN_RESULT = 1
 
     # Preference order used wherever this class has to choose cards itself
     # (the section lift). Earlier is better.
@@ -1120,6 +1130,13 @@ class RAGRetriever:
                     canonical_twins.setdefault(suffix, []).append(concept_id)
 
             if concept_type in search_only:
+                continue
+
+            # DATASET FIX: draft example cards (confidence 0.0) are ILLUSTRATIVE_ONLY
+            # and contain liability conclusions not grounded in statute (e.g. "manufacturer
+            # will be liable"). Exclude them from BM25 legal index; they remain in dense
+            # with heavy downweight (0.30) and cap 1 as a secondary signal only.
+            if concept_type == "example" and meta.get("review_status") != "reviewed":
                 continue
 
             kept_ids.append(doc_id)

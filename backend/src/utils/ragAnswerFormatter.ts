@@ -460,7 +460,7 @@ function contentNature(conceptType: string | undefined): string {
     case "definition":
       return "knowledge card summarising a statutory definition (interpretive)";
     case "example":
-      return "illustrative example card (interpretive, not statutory wording)";
+      return "ILLUSTRATIVE EXAMPLE ONLY — not statutory text, not legal authority, must never be used to establish liability, breach, or remedy. Illustrates how a document or scenario may be relevant, nothing more.";
     case "right":
       return "explanatory card for a statutory right (interpretive)";
     case "obligation":
